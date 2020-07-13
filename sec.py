@@ -82,7 +82,7 @@ class SEC(object):
         Args:
             ticker: String value of company name.
         Return:
-            String value of cik.
+            String value of ticker.
         """
         if ticker not in self.sec_mapping.ticker.to_list():
             raise ValueError("ticker %s not found in SEC mapping %s"
