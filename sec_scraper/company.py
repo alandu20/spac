@@ -125,16 +125,13 @@ class Company(object):
             # Get the relevant dates.
             filing_date = extract_date(
                 re.search("Filing Date\n(.*)\n",
-                          filing_page_content).group(1)
-            )
+                          filing_page_content).group(1))
             accepted_date = extract_date_time(
                 re.search("Accepted\n(.*)\n",
-                          filing_page_content).group(1)
-            )
+                          filing_page_content).group(1))
             period_of_report = extract_date(
                 re.search("Period of Report\n(.*)\n",
-                          filing_page_content).group(1)
-            )
+                          filing_page_content).group(1))
 
             # Extract text from documents in filing.
             document_url = BASE_URL + filing_page.xpath(
