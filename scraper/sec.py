@@ -90,3 +90,15 @@ class SEC(object):
         else:
             return (self.sec_mapping[self.sec_mapping.ticker == ticker].
                     cik_str.to_list()[0])
+
+    def get_name_by_ticker(self, ticker: str) -> str:
+        """Get company from ticker.
+
+        Given ticker use SEC company tickers json file to find the
+        corresponding company name.
+        Args:
+            ticker: String value of company name.
+        Return:
+            String value of company name.
+        """
+        return self.get_name_by_cik(self.get_cik_by_ticker(ticker))
