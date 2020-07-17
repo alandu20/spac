@@ -134,9 +134,9 @@ class Company(object):
                           filing_page_content).group(1))
 
             # Extract text from documents in filing.
-            document_url = BASE_URL + filing_page.xpath(
+            document_url = (BASE_URL + filing_page.xpath(
                 '//*[@id="formDiv"]/div/table/tr[2]/td[3]/a')[0].attrib[
-                "href"]
+                "href"]).replace('/ix?doc=', '')
             document = get_request(document_url)
 
             # Construct filing object.
