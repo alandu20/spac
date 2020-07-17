@@ -1,0 +1,604 @@
+
+8-K
+1
+ea121740-8k_nebulaacq.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): May 13, 2020
+
+ 
+
+Nebula
+Acquisition Corporation
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38339
+     
+    82-3008583
+
+    (State or other jurisdiction
+     
+    (Commission 
+     
+    (I.R.S. Employer
+
+    of incorporation) 
+     
+    File Number)
+     
+     Identification Number)
+
+
+
+ 
+
+
+
+    Four Embarcadero Center, Suite 2100 
+San Francisco, CA
+     
+    94111
+
+    (Address of principal
+    executive offices)
+     
+    (Zip code)
+
+
+
+ 
+
+(513)
+618-7161 (Registrant’s telephone number, including area code) 
+
+ 
+
+Not Applicable (Former name or
+former address, if changed since last report)  
+
+
+ 
+
+Check
+the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under
+any of the following provisions:
+
+ 
+
+
+☒Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+☐Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§
+230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+ 
+
+
+
+    
+        Title
+        of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Common
+    Stock, par value $0.0001 per share
+     
+    NEBU
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Warrants
+    to purchase one share of Common Stock
+     
+    NEBU.W
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Units,
+    each consisting of one share of Common Stock and one third of one Warrant
+     
+    NEBU.U
+     
+    The
+    Nasdaq Stock Market LLC
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement
+
+ 
+
+Business
+Combination Agreement Amendment
+
+ 
+
+On
+May 13, 2020, Nebula Acquisition Corporation, a Delaware corporation (“Nebula”), entered into Amendment No. 3 (the
+“BCA Amendment”) to the Business Combination Agreement, dated January 5, 2020 (as amended by that certain Amendment
+No. 1 and Waiver Agreement, dated as of March 18, 2020 and that certain Amendment No. 2 and Consent, dated as of March 26, 2020,
+the “Business Combination Agreement”), by and among Nebula, BRP Hold 11, Inc., a Delaware corporation (“Blocker”),
+the Blocker’s sole stockholder (the “Blocker Holder”), Nebula Parent Corp., a Delaware corporation (“ParentCo”),
+NBLA Merger Sub LLC, a Texas limited liability company (“Merger Sub LLC”), NBLA Merger Sub Corp., a Delaware corporation
+(“Merger Sub Corp”), Open Lending, LLC, a Texas limited liability company (the “Company”), and Shareholder
+Representative Services LLC, a Colorado limited liability company, as the Securityholder Representative, pursuant to which Nebula
+will acquire the Company for consideration of a combination of cash and shares. Capitalized terms used in this Current Report
+on Form 8-K but not otherwise defined herein have the meanings given to them in the BCA Amendment.
+
+ 
+
+The
+BCA Amendment amends the Business Combination Agreement to, among other things, (a) change the definition of Enterprise Value
+to $1,010,625,000, (b) extend the Outside Date to June 30, 2020 and (c) amend the terms of the Contingency Consideration so that
+the Open Lending equityholders will be issued up to 22,500,000 ParentCo Common Shares, as follows: (i) 7,5000,000 ParentCo Common
+Shares (the “First Level Contingency Consideration”), if prior to or as of the second anniversary of the Closing (the
+“First Deadline”), the VWAP is greater than or equal to $12.00 over any 20 trading days within any 30-trading day
+period; (ii) 7,5000,000 ParentCo Common Shares (the “Second Level Contingency Consideration”), if prior to or as of
+the 30-month anniversary of the Closing (the “Second Deadline”), the VWAP is greater than or equal to $14.00 over
+any 20 trading days within any 30-trading day period; and (iii) 7,5000,000 ParentCo Common Shares (the “Third Level Contingency
+Consideration”), if prior to or as of the 42-month anniversary of the Closing (the “Third Deadline”), the VWAP
+is greater than or equal to $16.00 over any 20 trading days within any 30-trading day period. If a change of control of ParentCo
+occurs (i) prior to the First Deadline, then the First Level Contingency Consideration, the Second Level Contingency Consideration
+and the Third Level Contingency Consideration that remains unissued as of immediately prior to the consummation of such change
+of control shall immediately vest and the Open Lending unitholders and the Blocker Holder shall be entitled to receive all of
+such contingency consideration prior to the consummation of such change of control; (ii) after the First Deadline but prior to
+the Second Deadline, then the Second Level Contingency Consideration and Third Level Contingency Consideration that remains unissued
+as of immediately prior to the consummation of such change of control shall immediately vest and the Open Lending unitholders
+and the Blocker Holder shall be entitled to receive such Second Level Contingency Consideration and Third Level Contingency Consideration
+prior to the consummation of such change of control; and (iii) after the Second Deadline but prior to the Third Deadline, then
+the Third Level Contingency Consideration that remains unissued as of immediately prior to the consummation of such change of
+control shall immediately vest and the Open Lending Unitholders and the Blocker Holder shall be entitled to receive such Third
+Level Contingency Consideration prior to the consummation of such change of control.
+
+ 
+
+The
+BCA Amendment is attached hereto as Exhibit 2.4 and incorporated herein by reference. The foregoing description of the BCA Amendment
+is qualified in its entirety by reference to the full text of the BCA Amendment filed with this Current Report on Form 8-K.
+For a detailed discussion of the Business Combination Agreement, see Nebula’s Current Report on Form 8-K, filed with the
+SEC on January 6, 2020 (the “January 8-K”). For the full text of the Business Combination Agreement, see Exhibit 2.1
+to the January 8-K, which is incorporated by reference as Exhibit 2.1 hereto, the Amendment No. 1 and Waiver Agreement, dated
+as of March 18, 2020, which is incorporated by reference as Exhibit 2.2 and the Amendment No. 2 and Consent, dated as of March
+26, 2020, which is incorporated by reference as Exhibit 2.3 hereto.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Founder
+Support Agreement Amendment
+
+ 
+
+On
+May 13, 2020, Nebula entered into Amendment No. 2 (the “FSA Amendment”) to the Founder Support Agreement, dated January
+5, 2020 (as amended, the “Founder Support Agreement”) by and among Nebula, ParentCo, the Company and the holders of
+the Founder Shares. The FSA Amendment: (a) amends the terms of the Earnout Consideration so that the holders of the Founder Shares
+will be issued an aggregate of up to 1,250,000 ParentCo Common Shares, as follows: (i) 625,000 ParentCo Common Shares (the “First
+Level Earn-Out Shares”), if prior to or as of the First Deadline, the VWAP of the ParentCo Common Shares is greater than
+or equal to $12.00 over any 20 trading days within any 30-trading day period; and (ii) 625,000 ParentCo Common Shares (the “Second
+Level Earn-Out Shares”), if prior to or as of the Second Deadline, the VWAP of the ParentCo Common Shares is greater than
+or equal to $14.00 over any 20 trading days within any 30-trading day period and (b) amends the terms of the lockup so that (i)
+1,718,750 ParentCo Common Shares issued in exchange for the Founder Shares will be released from lock-up and no longer subject
+to forfeiture if, prior to or as of the seventh anniversary of the Closing, the VWAP is greater than or equal to $12.00 over any
+20 trading days within any 30-trading day period and (ii) 1,718,750 shares of the ParentCo Common Shares issued in exchange for
+the Founder Shares will be released from lock-up and no longer subject to forfeiture if, prior to or as of the seventh anniversary
+of the Closing, the VWAP of the ParentCo Common Shares is greater than or equal to $14.00 over any 20 trading days within any
+30-trading day period. If a change of control of ParentCo occurs (i) prior to the First Deadline, then the full First Level Earn-Out
+Shares and the Second Level Earn-Out Shares that remain unissued as of immediately prior to the consummation of such change of
+control shall immediately vest and the holders of the Nebula Class B Common Stock, including the Sponsor, shall be entitled to
+receive such First Level Earn-Out Shares and the Second Level Earn-Out Shares prior to the consummation of such change of control
+and (ii) after the First Deadline but prior to the Second Deadline, then the Second Level Earn-Out Shares that remain unissued
+as of immediately prior to the consummation of such change of control shall immediately vest and the holders of the Nebula Class
+B Common Stock, including the Sponsor, shall be entitled to receive such Second Level Earn-Out Shares prior to the consummation
+of such change of control.
+
+ 
+
+The
+FSA Amendment is attached hereto as Exhibit 10.3 and incorporated herein by reference. The foregoing description of the FSA Amendment
+is qualified in its entirety by reference to the full text of the FSA Amendment filed with this Current Report on Form 8-K. For
+a detailed discussion of the Founder Support Agreement, see the January 8-K. For the full text of the Founder Support Agreement,
+see Exhibit 10.1 to the January 8-K, which is incorporated by reference as Exhibit 10.1 hereto, and the Amendment No. 1 to the
+Founder Support Agreement, dated as of March 18, 2020, which is incorporated by reference as Exhibit 10.2.
+
+ 
+
+Item
+7.01. Regulation FD Disclosure.
+
+ 
+
+Attached
+as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference is a form of presentation to be used by
+Nebula and the Company in presentations for certain of Nebula’s stockholders and other persons in connection with the transactions
+(the “Proposed Transactions”) contemplated by the Business Combination Agreement. Such exhibit and the information
+set forth therein shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”), or otherwise be subject to the liabilities of that section, nor shall it be deemed to be incorporated
+by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act.
+
+ 
+
+Important
+Information and Where to Find It
+
+ 
+
+In
+connection with the Proposed Transactions, ParentCo has filed a registration statement on Form S-4, including a proxy statement/prospectus
+(the “Registration Statement”), with the U.S. Securities and Exchange Commission (the “SEC”), which includes
+a preliminary proxy statement to be distributed to holders of Nebula’s common stock and warrants in connection with Nebula’s
+solicitation of proxies for the vote by Nebula’s stockholders and warrantholders with respect to the Proposed Transactions
+and other matters as described in the Registration Statement and a prospectus relating to the offer of the securities to be issued
+to the Company’s stockholders in connection with the Proposed Transactions. After the Registration Statement has been declared
+effective, Nebula will mail a definitive proxy statement/prospectus, when available, to its stockholders and warrantholders. Investors
+and security holders and other interested parties are urged to read the proxy statement/prospectus, and any amendments thereto
+and any other documents filed with the SEC when they become available, carefully and in their entirety because they contain important
+information about Nebula, the Company and the Proposed Transactions. Investors and security holders may obtain free copies of
+the preliminary proxy statement/prospectus and definitive proxy statement/prospectus (when available) and other documents filed
+with the SEC by Nebula through the website maintained by the SEC at http://www.sec.gov, or by directing a request to: Nebula Acquisition
+Corporation, Four Embarcadero Center, Suite 2100, San Francisco, CA 94111.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Participants
+in the Solicitation
+
+ 
+
+Nebula,
+the Company and their respective directors and certain of their respective executive officers and other members of management
+and employees may be considered participants in the solicitation of proxies with respect to the Proposed Transactions. Information
+about the directors and executive officers of Nebula is set forth in the Registration Statement and other relevant materials to
+be filed with the SEC regarding the Proposed Transactions. Stockholders, potential investors and other interested persons should
+read the Registration Statement carefully before making any voting or investment decisions. These documents can be obtained free
+of charge from the sources indicated above.
+
+ 
+
+Non-Solicitation
+
+ 
+
+This
+Current Report on Form 8-K is not a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities
+or in respect of the Potential Transactions and shall not constitute an offer to sell or a solicitation of an offer to buy the
+securities of Nebula or the Company, nor shall there be any sale of any such securities in any state or jurisdiction in which
+such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of such state
+or jurisdiction. No offer of securities shall be made except by means of a definitive prospectus meeting the requirements of the
+Securities Act.
+
+ 
+
+Forward-Looking
+Statements
+
+ 
+
+This
+Current Report on Form 8-K includes certain statements that are not historical facts but are forward-looking statements for purposes
+of the safe harbor provisions under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements
+generally are accompanied by words such as “believe,” “may,” “will,” “estimate,”
+“continue,” “anticipate,” “intend,” “expect,” “should,” “would,”
+“plan,” “predict,” “potential,” “seem,” “seek,” “future,”
+“outlook,” and similar expressions that predict or indicate future events or trends or that are not statements of
+historical matters. These forward-looking statements include, but are not limited to, statements regarding estimates and forecasts
+of revenue and other financial and performance metrics, projections of market opportunity and expectations, timing of various
+business milestones, and projected business model and related assumptions; Nebula’s ability to consummate a transaction
+with the Company; Nebula’s ability to obtain the financing necessary to consummate the Proposed Transactions; and the expected
+timing of completion of the Proposed Transactions. These statements are based on various assumptions and on the current expectations
+of Nebula’s and the Company’s management and are not predictions of actual performance. These forward-looking statements
+are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a
+guarantee, an assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult
+or impossible to predict and will differ from assumptions. Many actual events and circumstances are beyond the control of Nebula
+and the Company. These forward looking statements are subject to a number of risks and uncertainties, including general economic,
+financial, legal, political and business conditions and changes in domestic and foreign markets; the potential effects of COVID-19;
+the outcome of judicial proceedings to which the Company is, or may become a party; the inability of the parties to successfully
+or timely consummate the Proposed Transactions or to satisfy the other conditions to the closing of the Proposed Transactions,
+including the risk that any required regulatory approvals are not obtained, are delayed or are subject to unanticipated conditions
+that could adversely affect the combined company; the risk that the approval of the stockholders and warrantholders of Nebula
+for the Proposed Transactions is not obtained; failure to realize the anticipated benefits of the Proposed Transactions, including
+as a result of a delay in consummating the Proposed Transaction or difficulty in, or costs associated with, integrating the businesses
+of Nebula and the Company; the amount of redemption requests made by Nebula’s stockholders; the occurrence of events that
+may give rise to a right of one or both of Nebula and the Company to terminate the Business Combination Agreement; risks related
+to the rollout of the Company’s business and the timing of expected business milestones; changes in the assumptions underlying
+the Company’s expectations regarding its future business or business model; the availability of capital; the effects of
+competition on the Company’s future business; and those factors discussed in the Registration Statement under the heading
+“Risk Factors,” and other documents of Nebula filed, or to be filed, with the SEC. If the risks materialize or assumptions
+prove incorrect, actual results could differ materially from the results implied by these forward-looking statements. There may
+be additional risks that neither Nebula nor the Company presently do not know or that Nebula and the Company currently believe
+are immaterial that could also cause actual results to differ from those contained in the forward-looking statements. In addition,
+forward-looking statements reflect Nebula’s and the Company’s expectations, plans or forecasts of future events and
+views as of the date of this Current Report on Form 8-K. Nebula and the Company anticipate that subsequent events and developments
+will cause their assessments to change. However, while Nebula and the Company may elect to update these forward-looking statements
+at some point in the future, Nebula and the Company specifically disclaim any obligation to do so. These forward-looking statements
+should not be relied upon as representing Nebula’s or the Company’s assessments as of any date subsequent to the date
+of this Current Report on Form 8-K. Accordingly, undue reliance should not be placed upon the forward-looking statements.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+Non-GAAP
+Financial Measure and Related Information
+
+ 
+
+This
+Current Report on Form 8-K references EBITDA and EBITDA margin, which are financial measures that are not prepared in accordance
+with U.S. generally accepted accounting principles (“GAAP”). These non-GAAP financial measures do not have a standardized
+meaning, and the definition of EBITDA used by the Company may be different from other, similarly named non-GAAP measures used
+by others. In addition, such financial information is unaudited and does not conform to SEC Regulation S-X and as a result such
+information may be presented differently in future filings by the Company with the SEC.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+
+
+    Exhibit
+
+    No.
+     
+    Exhibit
+
+    2.1
+     
+    Business
+    Combination Agreement, dated as of January 5, 2020, by and among Nebula, Blocker, Blocker Holder, ParentCo, Merger Sub LLC,
+    Merger Sub Corp, the Company, and Shareholder Representative Services LLC, as the Securityholder Representative (incorporated
+    by reference to Exhibit 2.1 to Nebula’s Current Report on Form 8-K filed January 6, 2020) (the “Business Combination
+    Agreement”).
+
+    2.2
+     
+    Amendment
+    No. 1 and Waiver, dated as of March 18, 2020, to the Business Combination Agreement by and among Nebula, Blocker, Blocker
+    Holder, ParentCo, Merger Sub LLC, Merger Sub Corp, the Company, and Shareholder Representative Services LLC, as the Securityholder
+    Representative (incorporated by reference to Exhibit 2.2 to Nebula’s Current Report on Form 8-K filed March 18, 2020).
+
+    2.3
+     
+    Amendment
+    No. 2 and Consent, dated as of March 26, 2020, to the Business Combination Agreement by and among Nebula, Blocker, Blocker
+    Holder, ParentCo, Merger Sub LLC, Merger Sub Corp, the Company, and Shareholder Representative Services LLC, as the Securityholder
+    Representative (incorporated by reference to Exhibit 2.3 to Nebula’s Current Report on Form 8-K filed March 27, 2020).
+
+    2.4
+     
+    Amendment No. 3 and Consent, dated as of May 13, 2020, to the Business Combination Agreement by and among Nebula, Blocker, Blocker Holder, ParentCo, Merger Sub LLC, Merger Sub Corp, the Company, and Shareholder Representative Services LLC, as the Security holder Representative.
+
+    10.1
+     
+    Founder
+    Support Agreement, dated as of January 5, 2020, by and among Nebula, ParentCo, the Company, the Sponsor, Adam H. Clammer,
+    James H. Greene, Jr., Rufina Adams, David Kerko, Frank Kern, James C. Hale and Ronald Lamb (incorporated by reference to Exhibit
+    10.1 to Nebula’s Current Report on Form 8-K filed January 6, 2020) (the “Founder Support Agreement”).
+
+    10.2
+     
+    Amendment
+    No. 1, dated as of March 18, 2020, to the Founder Support Agreement by and among Nebula, ParentCo, the Company, the Sponsor,
+    Adam H. Clammer, James H. Greene, Jr., Rufina Adams, David Kerko, James C. Hale and Ronald Lamb (incorporated by reference
+    to Exhibit 10.2 to Nebula’s Current Report on Form 8-K filed March 18, 2020).
+
+    10.3
+     
+    Amendment No. 2, dated as of May 13, 2020, to the Founder Support Agreement by and among Nebula, ParentCo, the Company, the Sponsor, Adam H. Clammer, James H. Greene, Jr., Rufina Adams, David Kerko, James C. Hale and Ronald Lamb.
+
+    99.1
+     
+    Form of Investor Presentation.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+
+
+
+
+
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, hereunto duly authorized.
+
+ 
+
+Dated:
+May 13, 2020
+
+ 
+
+
+
+     
+    Nebula Acquisition Corporation
+
+     
+     
+
+     
+    By:
+     /s/ Adam H. Clammer
+
+     
+    Name:
+    Adam H. Clammer
+
+     
+    Title:
+    Co-Chief Executive Officer
+
+
+
+
+ 
+
+ 
+
+
+
+6
+
+
+
+ 
+
+
+
+
+
+

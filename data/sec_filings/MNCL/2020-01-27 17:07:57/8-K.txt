@@ -1,0 +1,344 @@
+
+8-K
+1
+tm205900d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date
+of earliest event reported): January 26, 2020
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+MONOCLE ACQUISITION CORPORATION
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+     
+     
+     
+
+    Delaware
+    001-38801
+    82-1751907
+
+    (State or other jurisdiction 
+of incorporation)
+    (Commission 
+File Number)
+    (IRS Employer 
+Identification No.)
+
+ 
+
+750 Lexington Avenue, Suite 1501
+New York, NY 10022
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including area code: (212) 446-6981
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+xSoliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of Common Stock and one redeemable Warrant
+     
+    MNCLU
+     
+    The Nasdaq Stock Market LLC
+
+    Common Stock, par value $0.0001 per share
+     
+    MNCL
+     
+    The Nasdaq Stock Market LLC
+
+    Redeemable warrants, each warrant exercisable for one share of Common Stock at an exercise price of $11.50
+     
+    MNCLW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of
+this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company.
+x
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 1.01Entry into a Material Definitive Agreement.
+
+ 
+
+Monocle
+Acquisition Corporation (“Monocle”) and Monocle Holdings Inc. (“NewCo”) entered into a commitment
+letter, dated as of January 26, 2020 (the “FILO Commitment Letter”) with Veritas Capital Credit Funding, L.P.
+(“Veritas”), pursuant to which, and subject to the terms and conditions set forth therein, Veritas has committed
+to provide Monocle a senior secured asset-based “first-in/last-out”  term loan with an aggregate commitment of up
+to $75 million (“FILO Facility”).
+
+ 
+
+Monocle intends to
+use the net proceeds of the FILO Facility to finance a portion of the cash consideration payable in the Business Combination.
+
+ 
+
+The funding of
+the FILO Facility under the FILO Commitment Letter is contingent upon the satisfaction of customary conditions. The FILO
+Facility will mature on (a) the fourth (4th) anniversary of the closing date (the “Closing Date”) of
+Monocle’s pending business combination with AerSale Corp. (the “Business Combination”), or (b) if the
+scheduled maturity date of the asset-based revolving credit facility (the “ABL Facility”) provided pursuant to
+that certain $150 million Senior Secured Credit Facility Commitment Letter, dated as of December 8, 2019, by and among
+Monocle and NewCo, and Wells Fargo Bank, N.A. and PNC Bank, National Association as the commitment parties thereunder, is
+extended to after the fourth (4th) anniversary of the Closing Date, the earlier of (i) the scheduled maturity date of the ABL
+Facility and (ii) the fifth (5th) anniversary of the Closing Date.
+
+ 
+
+
+
+The foregoing description
+of the FILO Commitment Letter does not purport to be complete and is qualified in its entirety by the terms and conditions of the
+FILO Commitment Letter, a copy of which is filed as Exhibit 10.1 hereto and incorporated by reference herein.
+
+ 
+
+
+Item 7.01Regulation FD Disclosure.
+
+ 
+
+Attached as Exhibit
+99.1 to this Current Report on Form 8-K is an investor presentation (the “Investor Presentation”) that will be used
+by Monocle in making presentations to certain of its stockholders and other persons with respect to the Business Combination.
+
+ 
+
+The information in
+this Item 7.01 and Exhibit 99.1 attached hereto shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor
+shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except
+as expressly set forth by specific reference in such filing.
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit No. 
+    Description
+
+    10.1 
+    FILO Commitment Letter, dated January 26, 2020, by and among Veritas Capital Credit Funding, L.P., Monocle Acquisition Corporation and Monocle Holdings Inc.
+
+    99.1 
+    Investor Presentation, dated January 2020.
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+ MONOCLE ACQUISITION CORPORATION 
+
+  
+
+  
+
+ By:/s/ Eric J. Zahler
+
+  Name:
+                               Eric J. Zahler
+
+  Title:
+                              President and Chief Executive Officer
+
+   
+
+
+Dated: January 27, 2020
+
+ 
+
+
+
+
+     
+    
+
+ 
+
+
+
+

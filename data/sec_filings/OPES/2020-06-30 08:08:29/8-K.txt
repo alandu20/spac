@@ -1,0 +1,1466 @@
+
+8-K
+1
+ea123648-8k_opesacq.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+
+Form
+8-K
+
+ 
+
+
+Current
+Report
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities
+Exchange Act of 1934
+
+ 
+
+June
+29, 2020
+
+Date
+of Report (Date of earliest event reported)
+
+ 
+
+Opes
+Acquisition Corporation
+
+(Exact
+Name of Registrant as Specified in its Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38417
+     
+    82-2418815
+
+    (State
+    or other jurisdiction 
+    of incorporation)
+     
+    (Commission
+                                         File Number)
+         
+     
+    (I.R.S.
+    Employer 
+    Identification No.) 
+
+ 
+
+
+
+    4218
+                                         NE 2ND AVENUE, 2nd FLOOR
+        MIAMI,
+        FL 
+     
+    33137
+
+    (Address
+    of Principal Executive Offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (305) 573-3900
+
+ 
+
+
+
+    N/A
+
+    (Former
+    name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+
+    ☒
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+                                         of each exchange on
+        which
+        registered
+
+    Units,
+    each consisting of one share of common stock and one redeemable warrant
+     
+    OPESU
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Common
+    stock, par value $0.0001 per share
+     
+    OPES
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Redeemable
+    warrants, each exercisable for one share of common stock at an exercise price of $11.50 per share
+     
+    OPESW
+     
+    The
+    Nasdaq Stock Market LLC
+
+  
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR
+§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+      
+     
+    
+
+ 
+
+IMPORTANT
+NOTICES
+
+ 
+
+Opes
+Acquisition Corp., a Delaware corporation (“OPES” or “Purchaser”), and BurgerFi International LLC, a Delaware
+limited liability company (“BurgerFi”) and their respective directors, executive officers, members, managers, employees
+and other persons may be deemed to be participants in the solicitation of proxies from the holders of Purchaser’s common
+stock in respect of the proposed transaction described herein. Information about OPES’s directors and executive officers
+and their ownership of OPES’s common stock is set forth in OPES’s Prospectus, dated March 13, 2018, Annual Report
+on Form 10-K, dated March 30, 2020 and the proxy statement on Definitive Schedule 14A dated June 5, 2020, filed with the Securities
+and Exchange Commission (the “SEC”), as modified or supplemented by any Form 4 filed with the SEC since the date of
+such filings as modified or supplemented by any Form 3 or Form 4 filed with the SEC since the date of such filing. Other information
+regarding the interests of the participants in the proxy solicitation will be included in the proxy statement pertaining to the
+proposed transaction when it becomes available. These documents can be obtained free of charge from the sources indicated above.
+
+ 
+
+In
+connection with the transaction described herein, Purchaser will file relevant materials with the SEC, including a proxy statement
+on Schedule 14A. Promptly after filing its definitive proxy statement with the SEC, Purchaser will mail the definitive proxy statement
+and a proxy card to each stockholder entitled to vote at the special meeting relating to the transaction, and other proposals.
+INVESTORS AND SECURITY HOLDERS OF PURCHASER ARE URGED TO READ THESE MATERIALS (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO)
+AND ANY OTHER RELEVANT DOCUMENTS IN CONNECTION WITH THE TRANSACTION THAT PURCHASER WILL FILE WITH THE SEC WHEN THEY BECOME AVAILABLE
+BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT OPES, BURGERFI AND THE TRANSACTION. The definitive proxy statement, the
+preliminary proxy statement and other relevant materials in connection with the transaction (when they become available), and
+any other documents filed by Purchaser with the SEC, may be obtained free of charge at the SEC’s website (www.sec.gov) or
+by writing to OPES at: 4218 NE 2nd Avenue, Miami, FL 33137
+
+ 
+
+This
+Current Report on Form 8-K contains certain “forward-looking statements” within the meaning of the Securities Act
+of 1933 and the Securities Exchange Act of 1934, both as amended by the Private Securities Litigation Reform Act of 1995. Statements
+that are not historical facts, including statements about the execution of definitive agreements relating to the Business Combination
+by and among OPES and BurgerFi and the transactions contemplated thereby, and the parties’ perspectives and expectations,
+are forward-looking statements. Such statements include, but are not limited to, statements regarding the proposed transaction.
+The words “expect,” “believe,” “estimate,” “intend,” “plan,” and similar
+expressions indicate forward-looking statements. These forward-looking statements are not guarantees of future performance and
+are subject to various risks and uncertainties, assumptions (including assumptions about general economic, market, industry and
+operational factors), known or unknown, which could cause the actual results to vary materially from those indicated or anticipated.
+
+ 
+
+Such
+risks and uncertainties include, but are not limited to: (i) risks related to the timing of the completion of the Business Combination,
+(ii) the ability to satisfy the various conditions to the closing of the Business Combination set forth in the Membership Interest
+Purchase Agreement, (iii) the occurrence of any event, change or other circumstances that could give rise to the termination of
+the Membership Interest Purchase Agreement, (iv) the risk that there may be a material adverse effect on the business, properties,
+assets, liabilities, results of operations or condition (financial or otherwise), of BurgerFi or its subsidiaries or franchisees,
+taken as a whole; (v) risks related to disruption of management time from ongoing business operations due to the proposed Business
+Combination; (vi) the risk that any announcements relating to the proposed Business Combination could have adverse effects on
+the market price of OPES’s common stock; and (vii) other risks and uncertainties and other factors identified in OPES’s
+prior and future filings with the SEC, available at www.sec.gov.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+A
+further list and description of risks and uncertainties can be found in the proxy statement on Schedule 14A that will be filed
+with the SEC by Purchaser in connection with the proposed transaction, and other documents that the parties may file or furnish
+with the SEC, which you are encouraged to read. 
+
+ 
+
+Should
+one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may
+vary materially from those indicated or anticipated by such forward-looking statements. Accordingly, you are cautioned not to
+place undue reliance on these forward-looking statements. Forward-looking statements relate only to the date they were made, and
+OPES and BurgerFi, and their respective subsidiaries, if any, undertake no obligation to update forward-looking statements to
+reflect events or circumstances after the date they were made except as required by law or applicable regulation.
+
+ 
+
+Item
+1.01. Entry Into a Material Definitive Agreement
+
+ 
+
+On
+June 29, 2020, Opes Acquisition Corp. (“OPES” or “Purchaser”) entered into a membership interest
+purchase agreement (the “Agreement”), with BurgerFi International, LLC, a Delaware limited liability
+company (“BurgerFi” or the “Company”), members of the Company (the
+“Members”), and BurgerFi Holdings, LLC, a Delaware limited liability company (the “Members’
+Representative”). Terms used herein as defined terms and not otherwise defined herein shall have the meanings
+ascribed to them in the Agreement.
+
+ 
+
+Acquisition
+of BurgerFi; Acquisition Consideration
+
+ 
+
+Upon
+the closing of the transactions contemplated in the Agreement (the “Closing”), OPES will purchase 100% of the
+membership interests of BurgerFi from the Members resulting in BurgerFi becoming a wholly owned subsidiary of OPES (the “Business
+Combination”).
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+The
+closing consideration for the Business Combination (the “Acquisition Consideration”) shall be payable as follows
+(subject to reduction for indemnification claims and potential changes due to a working capital adjustment as described below):
+
+ 
+
+(i)
+a cash payment in the aggregate amount of $30,000,000 payable to the Members;
+
+ 
+
+(ii)
+$20,000,000 payable either in cash or in shares of Purchaser Common Stock valued at $10.60 per share (the “Stock Portion”),
+in the sole and absolute discretion of the OPES Board of Directors; and
+
+ 
+
+(iii)
+the issuance in the aggregate of 4,716,981 shares of Purchaser Common Stock to the Members (the “Closing Payment Shares”)
+
+ 
+
+Of
+the Closing Payment Shares, 943,396 shares (the “Escrow Shares”) shall be deposited into an escrow account
+with Continental Stock Transfer and Trust, to satisfy any potential indemnification claims brought pursuant to the Agreement.
+
+ 
+
+The closing consideration
+payable to the stockholders of BurgerFi is also subject to adjustment based on BurgerFi’s working capital as of the closing
+date as contemplated in the Agreement.
+
+
+ 
+
+Earnout
+Share Consideration; Earnout Tranches
+
+ 
+
+The
+Members will be entitled to receive additional Acquisition Consideration in the form of shares of Purchaser Common Stock (“Earnout
+Share Consideration”) on a pro-rata basis based on their ownership percentages in the Company, subject to Purchaser
+achieving certain share price targets post-Closing as follows (each an “Earnout Tranche”):
+
+ 
+
+
+
+     
+    a.
+    If
+    prior to the second anniversary of the Closing, the last reported closing price of Purchaser Common Stock in any 20 trading
+    days within any consecutive 30 trading day period is greater than or equal to $19.00 per share, Purchaser shall issue to Members
+    3,947,368 in Earn Out Share Consideration, based on a deemed price of $19.00 per share;
+
+ 
+
+
+
+     
+    b.
+    If
+    prior to the third anniversary of the Closing, the last reported closing price of Purchaser Common Stock in any 20 trading
+    days within any consecutive 30 trading day period is greater than or equal to $22.00 per share, Purchaser shall issue to Members
+    3,409,091 in Earn Out Share Consideration, based on a deemed price of $22.00 per share; and
+
+ 
+
+
+
+     
+    c.
+    If
+    prior to the third anniversary of the Closing, the last reported closing price of Purchaser Common Stock in any 20 trading
+    days within any consecutive 30 trading day prior is greater than or equal to $25.00 per share, Purchaser shall issue to Members
+    2,000,000 in Earn Out Share Consideration, based on a deemed price of $25.00 per share.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+The
+Earnout Share Consideration payable with respect to each Earnout Tranche, when issued, shall be subject to a lockup for a period
+of six months from the date such Earnout Tranche is earned (provided that the Members shall be permitted to undertake block trades
+during each such lockup period). The Members shall only be entitled to receive the Earnout Share Consideration from one Earnout
+Tranche in any twelve month period and if the Members qualify to receive two or more Earnout Tranches in any such twelve-month
+period, the Members’ Representative can elect which such Earnout Tranche the Members will receive. No more than one Earnout
+Tranche shall be payable in any twelve-month period.
+
+ 
+
+Lock-Up
+on Closing Payment Shares
+
+ 
+
+The
+Closing Payment Shares shall be subject to a lock-up agreement until six months after the Closing Date, or earlier if, subsequent
+to the Closing Date, Purchaser consummates a liquidation, merger, stock exchange or other similar transaction which results in
+all of Purchaser’s stockholders having the right to exchange their shares of common stock for cash, securities or other
+property. If the Stock Portion of the Acquisition Consideration is paid in shares of Purchaser Common Stock, in lieu of cash,
+such shares will not be subject to a lock-up.
+
+ 
+
+Post-Closing
+Board of Directors
+
+ 
+
+Immediately
+following the Closing, the Post-Closing Board of directors of Purchaser will consist of no more than five directors, consisting
+of Ophir Sternberg, as Executive Chairman, AJ Acker and three independent directors to be selected by Mr. Sternberg, in his reasonable
+discretion and approved by Members’ Representative, such approval not to be unreasonably withheld..
+
+ 
+
+Stockholder
+Approval
+
+ 
+
+Prior
+to the consummation of the Business Combination, the holders of a majority of Purchaser’s common stock attending a stockholder’s
+meeting (at which there is a quorum) must approve the Business Combination (the “Stockholder Approval”). In
+connection with obtaining the Stockholder Approval, OPES must call a special meeting of its stockholders and must prepare and
+file with the SEC a Proxy Statement on Schedule 14A, which will be mailed to all stockholders entitled to vote at the meeting.
+The Proxy Statement will set forth proposals, including but not limited to: (a) approval of the Agreement and the Business
+Combination, (b) approval of the change of the name of Purchaser with effect from the Closing to “BurgerFi International,
+Inc.,” (c) adoption and approval of the Amended and Restated Certificate of Incorporation and the Amended and Restated By-laws
+of Purchaser with effect from the Closing, (d) election of five members to Purchaser’s Board of Directors with effect from
+and after the Effective Time, (e) adoption of an Equity Incentive Plan, and (f) approval to obtain any and all other approvals
+necessary or advisable to effect the consummation of the Business Combination (the “Purchaser Proposals”).
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+Representations
+and Warranties
+
+ 
+
+BurgerFi
+and the Members make certain representations and warranties (with certain exceptions set forth in the disclosure schedules to
+the Agreement) relating to, the following: (a) corporate existence and power; (b) authorization, execution, delivery and enforceability
+of the Agreement and other transaction documents; (c) governmental authorization (d) non-contravention; (e) capitalization; (f)
+certificate of formation; operating agreement; (g) corporate records; (h) subsidiaries; (i) consents; (j) financial statements;
+(k) books and records; (l) absence of certain changes; (m) properties, title to the Company’s assets; (n) litigation; (o)
+contracts, (p) insurance, (q) licenses and permits; (r) compliance with laws; (s) intellectual property; (t) customers, suppliers
+and franchisees; (u) accounts receivable and payable loans; (v) employees; (w) employment matters, employee benefits and compensation;
+(z) real property; (aa) tax matters; (bb) environmental laws; and (cc) certain business practices. 
+
+ 
+
+OPES
+makes certain representations and warranties relating to, among other things: (a) corporate existence and power; (b) authorization,
+execution, delivery and enforceability of the Agreement and other transaction documents; (c) governmental authorization (d) non-contravention;
+(e) capitalization; (f) trust fund; (g) listing; (h) reporting company; (i) undisclosed liabilities; (j) interested party transactions;
+(k) board approval; (l) SEC documents and financial statements; (m) absence of certain changes; (n) certain business practices;
+(o) money laundering laws; (p) business activities; (q) purpose; (r) purchaser contracts; (s) vote required; (t) investment company;
+(u) minute books; and (v) application of takeover provisions..
+
+ 
+
+Covenants
+of the Company 
+
+ 
+
+The
+Agreement contains certain customary covenants of BurgerFi prior to the Closing, including, among other things, the following:
+
+ 
+
+
+
+     
+    ●
+    BurgerFi
+    agrees to operate its business in the ordinary course (with certain exceptions and with it being agreed that entering into
+    new franchise agreements, forming new subsidiaries to open new restaurants, signing and guaranteeing new leases in connection
+    therewith are ordinary course actions) and not to take certain specified actions without the prior written consent of OPES;
+
+     
+     
+     
+
+     
+    ●
+    BurgerFi
+    shall give OPES and its representatives full access to the offices, properties and books and records, and provide such information
+    relating to the business as requested and shall cause its employees, legal counsel, accountants and representatives of the
+    Company to reasonably cooperate with OPES in its investigation of the business;
+
+     
+     
+     
+
+     
+    ●
+    BurgerFi
+    shall provide notice of certain events, including the occurrence of any fact or circumstance that constitutes or results,
+    or is reasonably expected to constitute or result in a material adverse effect on either party or on the completion of the
+    Transaction, including, without limitation, notice of any action commenced or threatened against either party and notice of
+    or other communication from any governmental authority in connection with the transaction;
+
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+
+
+     
+    ●
+    Timely
+                                         filing of tax returns by the Members and the Company;
+         
+
+     
+    ●
+    BurgerFi
+    shall deliver to OPES, no event later than July 18, 2020, audited financial statements for the twelve month periods on and
+    ended December 31, 2018 and 2019, interim reviewed financial statements for the three month periods on and ended March 31,
+    2020 and 2019, all prepared under U.S. GAAP in accordance with requirements of the Public Company Accounting Oversight Board
+    for public companies. The failure to timely provide such financial statements will give OPES the right to terminate the Agreement.  BurgerFi
+    shall provide OPES with further consolidated interim financial information of the Company and each of its Subsidiaries no
+    later than forty (40) calendar days following the end of each three-month quarterly period, and consolidated annual information
+    of the Company and each of its Subsidiaries not later than seventy-five calendar days following the end of the fiscal year,
+    as applicable, all prepared under U.S. GAAP in accordance with requirements of the Public Company Accounting Oversight Board
+    for public companies;
+
+     
+     
+     
+
+     
+    ●
+    BurgerFi
+    shall use its commercially reasonable efforts to transfer its revolving line of credit to OPES and to remove Mr. Rosatti as
+    a guarantor on the Company’s revolving line of credit, and if it is unable to do so, the Company, shall repay in full
+    all amounts outstanding under the line of credit, and terminate the line of credit;
+
+     
+     
+     
+
+     
+    ●
+    The
+    Company shall use its commercially reasonable efforts to obtain each third-party consent required under the Agreement as promptly
+    as practicable hereafter; 
+
+     
+     
+     
+
+     
+    ●
+    The
+    Company and Members shall each execute and deliver a  non-solicitation, non-service and confidentiality agreements
+    covering a period of at least three years post-Closing, and shall use its commercially reasonable efforts to enter into employment
+    agreements with each of its Key Employees prior to the Closing and to satisfy all accrued obligations of the Company applicable
+    to its employees; 
+
+     
+     
+     
+
+     
+    ●
+    Mr.
+    Rosatti shall irrevocably convey, assign and transfer, all of his rights, title and interests  in certain entities
+    that own and operate certain Business locations and own the Intellectual Property of the Business (the “JR Trust
+    Entities”); and 
+
+     
+     
+     
+
+     
+    ●
+    The
+    Company will disclose in writing to Purchaser if it becomes aware of any fact or condition that constitutes a breach of any
+    representation, warranty or any covenant that would cause certain of the closing conditions set forth in the Agreement,
+    not to be satisfied as of the Closing Date.
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+Covenants
+of OPES 
+
+ 
+
+The
+Agreement contains the following covenants of OPES prior to the Closing:
+
+ 
+
+
+
+     
+    ●
+    OPES
+    agrees that it will not contact or communicate with the employees, customers, franchisees, providers, licensors, collaborators,
+    service providers or suppliers of the Company or its subsidiaries without the prior consultation with and prior written approval
+    (which approval shall not be unreasonably withheld or delayed) of an executive officer of the Company or the Members’
+    Representative; and
+
+     
+     
+     
+
+     
+    ●
+    OPES
+    will disclose in writing to the Company if it becomes aware of any fact or condition that constitutes a breach of any representation,
+    warranty or any covenant that would cause certain of the closing conditions set forth in the Agreement, not to be satisfied
+    as of the Closing Date.
+
+ 
+
+Actions
+Prior to Closing
+
+ 
+
+In
+addition, the parties agreed to take the following actions, among others, before the completion of the Business Combination:
+
+ 
+
+
+
+     
+    ●
+    use
+    their commercially reasonable efforts to take, or cause to be taken, all actions and to do, or cause to be done, all things
+    reasonably necessary, proper or advisable to consummate the transactions contemplated by the Agreement;
+
+     
+     
+     
+
+     
+    ●
+    except
+                                         for a portion of the interest earned on the amounts held in the Trust Account, Purchaser
+                                         shall disburse monies from the Trust Account only: (a) for Purchaser Stock Redemptions;
+                                         (b) to Purchaser’s stockholders for failure to consummate a Business Combination
+                                         by September 16, 2020; (c) for any amounts necessary to pay any taxes; (d) to third-parties
+                                         for expenses owed by Purchaser to such third parties; (e) for the Business Combination
+                                         Fees to the underwriter in the IPO; or (f) to, or on behalf of, Purchaser after
+                                         or concurrently with the consummation of a Business Combination;
+         
+
+     
+    ●
+    Purchaser,
+    with the cooperation of the Company, shall promptly prepare and file a proxy statement on Schedule 14A with the Commission;
+
+     
+     
+     
+
+     
+    ●
+    Purchaser
+    shall take all action necessary, in consultation with the Company, to establish a record date for, call, give notice of and
+    hold a special meeting of the holders of Purchaser Common Stock to consider and vote on the Purchaser Proposals, and Purchaser’s
+    Board shall recommend that Purchaser’s stockholders vote in favor of adopting and approving the Purchaser Proposals
+    in the proxy statement, and Purchaser shall include such recommendation in the proxy statement;
+
+     
+     
+     
+
+     
+    ●
+    Purchaser
+    agrees to operate its business in the ordinary course (with certain exceptions) and not to take certain specified actions
+    without the prior written consent of BurgerFi;
+
+     
+     
+     
+
+     
+    ●
+    Purchaser
+    shall use all reasonable efforts that are necessary or desirable for Purchaser to remain listed as a public company on, and
+    for Purchaser Common Stock to be tradable over, the applicable NASDAQ market;
+
+
+ 
+
+
+
+
+    7
+     
+    
+
+ 
+
+
+
+     
+    ●
+    Purchaser,
+    at its sole cost and expense, shall purchase a directors’ and officers’ liability insurance policy for a period
+    of six (6) years after the Closing Date, which policy shall cover the officers and directors of Purchaser and BurgerFi after
+    the Business Combination, as well as the current and former directors and officers of Purchaser and BurgerFi prior to the
+    Business Combination;
+
+     
+     
+     
+
+     
+    ●
+    until
+    the earlier of the Closing Date or the date that the Agreement is properly terminated, neither the Company, nor the Members,
+    on the one hand, nor Purchaser, on the other hand, shall, directly or indirectly, (i) encourage, solicit, initiate, engage,
+    participate, enter into discussions or negotiations with any person concerning any Alternative Transactions, (ii) take any
+    other action intended or designed to facilitate the efforts of any person relating to a possible Alternative Transaction,
+    or (iii) ) approve, recommend or enter into any Alternative Transaction or any contract related to any alternative transaction
+    (the “Exclusivity Provision”); 
+
+     
+     
+     
+
+     
+    ●
+    the
+Post-Closing Board of Directors shall be selected, and the executive officers of Purchaser, immediately after the Closing, shall
+be the Key Employees ; and
+
+     
+     
+     
+
+     
+    ●
+    Purchaser
+    and the Company shall prepare a mutually agreeable long-term incentive plan for employees of Purchaser and its Subsidiaries
+    following the closing of the Business Combination to be included as a Purchaser Proposal in the Proxy Statement for approval
+    by Purchaser’s Stockholders at Purchaser Stockholders’ Meeting.
+
+ 
+
+Conditions
+to Closing
+
+ 
+
+General
+Conditions
+
+ 
+
+The
+obligation of OPES and BurgerFi to consummate the Acquisition is conditioned on, among other things, (a) no court, arbitrator
+or other authority shall have issued any judgment, injunction, decree or order, or have pending before it a proceeding for the
+issuance of any thereof, and there shall not be any provision of any applicable law restraining or prohibiting the consummation
+of the Closing, the ownership by Purchaser of the membership interests of the Members, or the effective operation of the Business
+by the Company after the Closing Date; (b) no action brought by a third-party non-affiliate to enjoin or otherwise restrict the
+consummation of the Closing; (c) the requisite majority of Purchaser’s stockholders shall have approved the Business Combination;
+(d) the Closing Payment Shares and additional shares to be issued as part of the consideration shall have been approved for listing
+on Nasdaq; (e) after giving effect to any Purchaser Stock Redemptions, Purchaser shall have net tangible assets of at least $5,000,001
+upon consummation of the Business Combination; (f) the Purchaser Stock Redemptions shall have been completed in accordance with
+the terms hereof and the proxy statement; (g) the D&O Policy shall be in force and full effect; and (h) there shall have been
+no event, change or occurrence which individually or together with any other event, change or occurrence, could reasonably be
+expected to have a Material Adverse Effect on either Purchaser or the Company, regardless of whether it involved a known risk.
+
+  
+
+
+
+
+    8
+     
+    
+
+ 
+
+
+
+BurgerFi’s Conditions to Closing
+
+ 
+
+The obligations of
+the Company and the Members to consummate the Closing is subject to the satisfaction, or the waiver at Members’ Representative’s
+discretion, of all of the following further conditions.
+
+ 
+
+(a) OPES performing
+in all material respects all of its obligations under the Agreement required to be performed by it at or prior to the Closing
+Date;
+
+ 
+
+(b) The representations
+and warranties of OPES in the Agreement, shall be true and correct in all material respects at and as of the Closing Date, as
+if made at and as of such date except where the failure of such representations and warranties to be so true and correct, has
+not had, and would not have, a Material Adverse Effect;
+
+ 
+
+(c) The Company shall
+have received a certificate signed by an authorized officer of Purchaser stating that the closing conditions have been satisfied;
+
+ 
+
+(d) Purchaser shall
+have delivered to the Company (i) certified copies of the resolutions duly adopted by Purchaser’s Board of Directors authorizing
+the execution, delivery and performance of the Agreement; and (ii) written resignations, in forms satisfactory to the Company,
+dated as of the Closing Date and effective as of the Closing, executed by (X) all officers of Purchaser and (Y) all persons serving
+as directors of Purchaser immediately prior to the Closing who are not selected as directors post-closing;
+
+ 
+
+(e) Purchaser shall
+have cash in the Trust Account at Closing, in addition to the cash portion of the Acquisition Consideration being paid to Members
+at Closing, in the amount of at least $15,000,000, inclusive of the balance of the funds in the Trust Account after Purchaser
+Stock Redemptions and repayment of the Promissory Notes;
+
+ 
+
+(f) Purchaser shall
+have executed and delivered to the Company a copy of each Additional Agreement (as described in more detail below) to which it
+is a party;
+
+ 
+
+(g) The Post-Closing
+Board of Directors shall have been appointed effective as of the Closing; and
+
+ 
+
+(h) Mr. Sternberg shall
+have executed and delivered to Purchaser the Standstill Letter.
+
+ 
+
+Purchaser’s Conditions to Closing
+
+ 
+
+The obligation of
+Purchaser to consummate the Closing is subject to the satisfaction, or the waiver at Purchaser’s sole and absolute discretion,
+of all the following further conditions:
+
+ 
+
+(a) BurgerFi performing
+in all material respects all of its obligations under the Agreement required to be performed by it at or prior to the Closing
+Date;
+
+ 
+
+(b) The representations
+and warranties of BurgerFi in the Agreement, shall be true and correct in all material respects at and as of the Closing Date,
+as if made at and as of such date except where the failure of such representations and warranties to be so true and correct, has
+not had, and would not have, a Material Adverse Effect;
+
+ 
+
+
+
+
+    9
+     
+    
+
+ 
+
+(c) The Company, the
+Members and the Members’ Representative, as applicable, shall have executed and delivered to Purchaser a copy of each Additional
+Agreement to which it is a party;
+
+ 
+
+(d) The Members shall
+have executed and delivered to Purchaser the Standstill Letter;
+
+ 
+
+(e) Counsel to the Company
+shall have delivered an opinion in form and substance satisfactory to Purchaser’s counsel;
+
+ 
+
+(f) There shall have
+been no event, change or occurrence which individually or together with any other event, change or occurrence, could reasonably
+be expected to have a Material Adverse Effect, regardless of whether it involved a known risk;
+
+ 
+
+(g) Mr. Rosatti shall
+have executed and delivered to Purchaser an Assignment Agreement for all of the JR Trust Entities;
+
+ 
+
+(h) Purchaser shall
+have received copies of all required third party consents, if any, in form and substance reasonably satisfactory to Purchaser,
+and no such third-party consents shall have been revoked;
+
+ 
+
+(i) Purchaser shall
+have received copies of all Governmental Approvals, if any, in form and substance reasonably satisfactory to Purchaser, and no
+such Governmental Approval shall have been revoked;
+
+ 
+
+(j) Purchaser shall
+have received Schedules updated as of the Closing Date, which shall not be materially different than the Schedules provided as
+of the date hereof; and
+
+ 
+
+(k) Company shall have
+provided to Purchaser estoppel certificates from the top ten (10)_franchisees for the Company’s December 31, 2018 and 2019
+fiscal years
+
+ 
+
+Indemnification
+
+ 
+
+From and after the
+Closing, the Company and the Members, severally but not jointly or jointly and severally, agree to indemnify and hold harmless
+Purchaser against, among other things, and in respect of specified actual out-of- pocket losses, damages, liabilities, costs or
+expenses, including reasonable attorneys’ fees (“Losses”), incurred or sustained by Purchaser as a result
+of: (a) any breach or inaccuracy in any of the representations or warranties of the Company or the Members contained in the Agreement;
+or (b) any breach or non-fulfillment of any covenant, agreement or obligation to be performed by the Company or the Members contained
+in the Agreement or to be performed prior to or at the Closing. The total payments made by the Company and the Members to Purchaser
+with respect to Losses shall not exceed the Escrow Shares in the Escrow Fund. Any liability incurred by the Members pursuant to
+the terms of this indemnification shall be paid by the return for cancellation of the Escrow Shares in accordance with the terms
+of the Escrow Agreement. The Escrow Shares shall serve as Purchaser’s sole and exclusive remedy for the Company and the
+Members’ obligation to indemnify Purchaser under Agreement. The Company and the Members shall not be liable to Purchaser
+for indemnification until the aggregate amount of all Losses exceeds 0.40% of the Consideration (the “Deductible”),
+in which event the Members shall only be required to pay or be liable for Losses in excess of the Deductible.
+
+  
+
+
+
+
+    10
+     
+    
+
+ 
+
+Except for representations
+and warranties on corporate existence and power, authorization, governmental authorization, capitalization, Certificate of Formation
+and Operating Agreement, Properties, Title to the Company’s Assets, Employment Matters, Employee Benefits and Compensation,
+Tax Matters and Finder’s Fees, which shall survive until sixty (60) days after the expiration of the statute of limitations
+with respect thereto, the representations and warranties of the Company and the Members shall survive until eighteen months (the
+“Survival Period”) following the Closing.
+
+ 
+
+Termination Without Default
+
+ 
+
+The Agreement may be terminated and/or abandoned at any time
+prior to the closing by:
+
+ 
+
+
+
+     
+    ●
+    by
+    the Company by written notice to Purchaser if (i) the Board of Directors withdraws (or modifies in any manner adverse
+    to the Company), or proposes to withdraw (or modify in any manner adverse to the Company), its recommendation in favor of
+    the Purchaser Proposals, or fails to reaffirm such recommendation as promptly as practicable after receipt of any written
+    request to do so by the Company or (ii) if the Stockholder Approval shall not have been obtained.
+
+     
+     
+     
+
+     
+    ●
+    by Purchaser or the Company, if
+        the closing has not occurred on or prior to October 31, 2020 (the “Outside Closing Date”); provided, that
+        such party seeking termination is not in material breach of any of its obligations under the Agreement.
+
+     
+     
+     
+
+     
+    ●
+         
+    by Purchaser, if within twenty
+        business days after the date of the Agreement, Purchaser is not satisfied with its continuing legal due diligence review
+        and the Members are unable in good faith to resolve such issues.
+
+     
+     
+     
+
+     
+    ●
+    by the Members’ Representative, if within twenty business days after the date of the
+    Agreement, the Company is not satisfied with its continuing legal due diligence review and Purchaser is unable in good faith
+    to resolve such issues.
+
+ 
+
+ Termination Upon
+Default
+
+ 
+
+
+
+     
+    ●
+    by
+    Purchaser, if the Company or the Members shall have materially breached any representation, warranty, agreement or covenant
+    contained in the Purchase Agreement or in any Additional Agreement and such breach shall not be cured by the earlier of the
+    Outside Closing Date and fifteen (15) days (the “Cure Period”) following receipt by the Company or the
+    Members’ Representative, as the case may be, of a notice describing in reasonable detail the nature of such breach.
+
+ 
+
+
+
+
+    11
+     
+    
+
+ 
+
+
+
+     
+    ●
+    by the Company, if Purchaser shall
+        have materially breached any of its covenants, agreements, representations, and warranties contained in the Purchase Agreement
+        and such breach shall not be cured by the earlier of the Outside Closing Date and the expiration of the Cure Period following
+        receipt by Purchaser of a notice describing in reasonable detail the nature of such breach.
+         
+
+     
+    ●
+    by
+    Purchaser, the Company or the Members or their Affiliates, in the event of a breach of the Exclusivity Provision, if the non-breaching
+    party elects to terminate the Agreement, and the non-breaching party shall be entitled to a termination fee in the aggregate
+    amount of $1,000,000.
+
+ 
+
+The foregoing summary of the Agreement
+does not purport to be complete and is qualified in its entirety by reference to the actual Agreement, which is filed as Exhibit
+2.1 hereto, and which is incorporated by reference in this report. Terms used herein as defined terms and not otherwise defined
+herein shall have the meanings ascribed to them in the Agreement.
+
+ 
+
+Additional Agreements
+
+ 
+
+In addition to the Agreement, at the Closing, the parties shall
+enter into the following additional agreements:
+
+ 
+
+
+
+     
+    1.
+    The
+    Members and Mr. Sternberg shall each enter into a Standstill Agreement, whereby the Members as a group, and Mr. Sternberg
+    individually, each agree to beneficially own no more than forty-nine percent (49%) of the Purchaser Common Stock, at any time
+    before or after the Closing.
+
+ 
+
+
+
+     
+    2.
+    OPES
+shall enter into voting agreements with certain holders of its Common Stock pursuant to which such stockholders agree to vote
+all securities of OPES that such stockholder owns from time to time and may vote in the election of the Company’s
+directors for a period of two years after the Closing Date.
+
+ 
+
+
+
+     
+    3.
+    OPES
+                                    shall enter into a registration rights agreement covering the registration of shares of Purchaser
+                                    Common Stock held by the persons set forth therein, whereby OPES agrees to file a registration
+                                    statement with the Commission within thirty (30) days after Closing to register such shares
+                                    for resale.
+
+     
+     
+     
+
+     
+    4.
+    OPES
+                                    and the Members shall enter into a lock-up agreement pursuant to which (i) Closing Payment
+                                    Shares (but not the Stock Portion of the Acquisition Consideration) shall be locked up until
+                                    the earlier of six months after the Closing Date or if, subsequent to the Closing Date, Purchaser
+                                    consummates a liquidation, merger, stock exchange or other similar transaction which results
+                                    in all of Purchaser’s stockholders having the right to exchange their shares of common
+                                    stock for cash, securities or other property; and (ii) the Earnout Share Consideration shall
+                                    be subject to a lock-up for a period of six months from the date the applicable Earnout Tranche
+                                    is earned (provided that the Members shall be permitted to undertake block trades during each
+                                    such lockup period).
+
+     
+     
+     
+
+     
+    5.
+    OPES will enter into employment agreements
+    with the Key Employees on mutually acceptable terms.
+
+     
+     
+     
+
+     
+    6.
+    OPES will enter into a consulting
+    agreement with a company owned by Mr. Rosatti on mutually acceptable terms.
+
+     
+     
+     
+
+     
+    7.
+    OPES will enter into an employment
+    agreement with Mr. Sternberg to serve as Executive Chairman.
+
+     
+     
+     
+
+     
+    8.
+    OPES, the Members and Continental
+    Stock Transfer and Trust, will enter into a Stock Escrow Agreement for the escrow of the Escrow Shares.
+
+ 
+
+Except as described above, no consideration
+was paid by OPES in connection with the agreements described above.
+
+ 
+
+
+
+Item 3.02 Unregistered Sales of Equity
+Securities
+
+ 
+
+The disclosure set forth above in Item
+1.01 of this Current Report on Form 8-K is incorporated by reference herein. The securities of OPES to be issued in connection
+with the Business Combination will not be registered under the Securities Act in reliance upon the exemption provided in Section
+4(a)(2) of the Securities Act.
+
+ 
+
+Item 5.02 Departure of Directors or Certain Officers; Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+On June 29, 2020, Mr. David M. Brain, the Chief Executive Officer
+of OPES advised the OPES’s Board of Directors (the “Board”), that he is resigning, effective immediately, from
+his position as Chief Executive Officer, but would continue as a Class 3 director on the Board. On the same date, Mr. Paul H. Rapisarda,
+a director of OPES, advised OPES that he is resigning from the Board immediately after his replacement was appointed. The foregoing
+resignations were not due to any disagreement with the Company or its management on any matter relating to OPES’s operations,
+policies or practices (financial or otherwise).
+
+ 
+
+On the same date, members of the Board appointed Mr. Ophir Sternberg
+to serve as Chief Executive Officer of OPES. Mr. Sternberg will continue in his role as Chairman of the Board and as a Class 3
+Director. The Board appointed Ms. Allison Greenfield to replace Mr. Rapisarda as a Class 2 director. Ms. Greenfield was also appointed
+to the audit committee, compensation committee and nominating committee of the Board of Directors.
+
+
+ 
+
+
+
+
+    12
+     
+    
+
+ 
+
+Ophir Sternberg has served as a member of OPES’s
+board of directors since October 2019. Mr. Sternberg has over 26 years of experience investing in all segments of the real estate
+industry, including land acquisitions, luxury residential, hospitality, commercial and retail. He is the Founder of Lionheart Capital,
+an investment firm, and has served as its Chief Executive Officer since its formation in 2009. From 1993 to 2009, Mr. Sternberg
+was the Founder and Managing Partner of Oz Holdings, LLC, a private real estate investment and management company. Once a member
+of an elite Israeli Defense Force unit, Mr. Sternberg studied finance at Sy Syms School of Business at Yeshiva University. We believe
+Mr. Sternberg is well-qualified to serve on our board of directors due to his business experience and contacts and relationships.
+
+ 
+
+Allison Greenfield has over
+two decades of experience in real estate development. Ms. Greenfield has been a partner of Lionheart Capital since it was
+founded in 2009 and has over 25 years of experience in the entitlement, design, construction and management of projects in
+all segments of the real estate industry, including industrial, retail, hospitality, and ultra-luxury residential
+condominiums. At Lionheart Capital she has been responsible for the successful acquisition, development and
+repositioning of real estate assets around the world. Prior to her tenure at Lionheart, Ms. Greenfield ran the development
+and construction arm of Oz Holdings, LLC as a partner from 2001-2010. Ms. Greenfield studied Architecture at The New School
+University, Parsons School of Design and holds a B.A. in History from Barnard College/Columbia University.
+
+ 
+
+There was no arrangement or understanding
+between Ms. Greenfield and any other persons, pursuant to which Ms. Greenfield was selected as a director. There are no family
+relationships between or among Ms. Greenfield and any executive officers or directors of OPES. There have been no transactions
+to which OPES was or is to be a party, in which Ms. Greenfield had, or will have a direct or indirect material interest.
+
+ 
+
+Ms. Greenfield will receive 10,000 founders shares.
+
+ 
+
+Item 7.01 Regulation FD Disclosure
+
+ 
+
+Attached as Exhibit 99.1 to this Current Report on Form 8-K
+and incorporated into this Item 7.01 by reference is a copy of the press release issued June 30, 2020 announcing the proposed
+transaction.
+
+ 
+
+Attached as Exhibit 99.2 to this Current Report on Form 8-K
+and incorporated into this Item 7.01 by reference is the investor presentation dated June 30, 2020 that will be used by OPES in
+making presentations to certain existing and potential stockholders of OPES with respect to the proposed transaction.
+
+ 
+
+Exhibits 99.1 and 99.2 are being furnished pursuant to Item
+7.01 and shall not be deemed to be filed for purposes of Section 18 of the Exchange Act or otherwise be subject to the liabilities
+of that section, nor shall it be deemed to be incorporated by reference in any filing under the Securities Act or the Exchange
+Act.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits
+
+ 
+
+(d) Exhibits.
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+     
+
+     
+     
+     
+
+    2.1*
+     
+    Membership Interest
+    Purchase Agreement, by and among OPES Acquisition Corp., BurgerFi International, LLC and the Members of BurgerFi
+
+    99.1**
+     
+    Press Release, dated June 30, 2020
+
+    99.2**
+     
+    Investor Presentation
+
+ 
+
+
+
+    *
+    Schedules and
+                           exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The registrant hereby undertakes
+                           to furnish copies of any of the omitted schedules and exhibits upon request by the U.S. Securities
+                           and Exchange Commission.
+
+ 
+
+
+
+    **
+    Furnished
+    but not filed.
+
+ 
+
+
+
+
+    13
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: June 30,2020
+
+ 
+
+
+
+    OPES ACQUISITION CORP.
+     
+
+     
+     
+     
+
+    By:
+    /s/
+    Ophir Sternberg
+     
+
+    Name:
+    Ophir Sternberg
+     
+
+    Title:
+    Chairman and Chief Executive Officer
+     
+
+ 
+
+ 
+
+14
+
+
+
+ 
+
+ 
+
+
+
+

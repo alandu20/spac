@@ -1,0 +1,414 @@
+
+8-K
+1
+tm2014949-1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): April 3, 2020
+
+ 
+
+VectoIQ
+Acquisition Corp.
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+Delaware
+(State or other jurisdiction of incorporation)
+001-38495
+(Commission File Number)
+82-4151153
+(I.R.S. Employer Identification Number)
+
+ 
+ 
+ 
+
+1354 Flagler
+Drive Mamaroneck, NY 
+(Address of principal executive offices)
+10543
+ (Zip code)
+
+ 
+ 
+
+ 
+(646)
+                                         475-8506 (Registrant’s telephone number, including area code)
+                                            
+                                           Not
+                                         Applicable (Former name or former address, if changed since last report)
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant
+under any of the following provisions:
+
+ 
+
+x           Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨           Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨           Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨           Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Common
+    Stock, par value $0.0001 per share
+     
+    VTIQ
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Warrants
+    to purchase one share of Common Stock
+     
+    VTIQW
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Units,
+    each consisting of one share of Common Stock and one Warrant
+     
+    VTIQU
+     
+    The
+    Nasdaq Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§
+230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging
+growth company  x
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item
+7.01. Regulation FD Disclosure.
+
+ 
+
+Attached
+as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference is an updated form of presentation to
+be used by VectoIQ Acquisition Corp. (“VectoIQ”) and Nikola Corporation (the “Company”)
+in presentations for certain of VectoIQ’s stockholders and other persons, including at an analyst day scheduled for
+April 6, 2020, in connection with the transactions (the “Proposed Transactions”) contemplated by the
+Business Combination Agreement, dated March 2, 2020 (the “Business Combination Agreement”), among VectoIQ,
+the Company and VCTIQ Merger Sub Corp., including Such exhibit and the information set forth therein shall not be deemed to
+be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), or otherwise be subject to the liabilities of that section, nor shall it be deemed to be incorporated by
+reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the
+Exchange Act.
+
+ 
+
+Important
+Information and Where to Find It
+
+ 
+
+In
+connection with the Proposed Transactions, VectoIQ has filed a registration statement on Form S-4, including a proxy statement/prospectus/information
+statement (the “Registration Statement”), with the SEC, which includes a preliminary proxy statement to be
+distributed to holders of VectoIQ’s common stock in connection with VectoIQ’s solicitation of proxies for the vote
+by VectoIQ’s stockholders with respect to the Proposed Transactions and other matters as described in the Registration Statement,
+a prospectus relating to the offer of the securities to be issued to the Company’s stockholders in connection with the Proposed
+Transactions, and an information statement to Company’s stockholders regarding the Proposed Transactions. After the Registration
+Statement has been declared effective, VectoIQ will mail a definitive proxy statement/prospectus, when available, to its stockholders.
+Investors and security holders and other interested parties are urged to read the proxy statement/prospectus/information statement,
+and any amendments thereto and any other documents filed with the SEC when they become available, carefully and in their entirety
+because they contain important information about VectoIQ, the Company and the Proposed Transactions. Investors and security holders
+may obtain free copies of the preliminary proxy statement/prospectus/information statement and definitive proxy statement/prospectus/information
+statement (when available) and other documents filed with the SEC by VectoIQ through the website maintained by the SEC at http://www.sec.gov,
+or by directing a request to: VectoIQ Acquisition Corp., 1354 Flagler Drive, Mamaroneck, NY 10543.
+
+ 
+
+Participants
+in the Solicitation
+
+ 
+
+VectoIQ
+and the Company and their respective directors and certain of their respective executive officers and other members of management
+and employees may be considered participants in the solicitation of proxies with respect to the Proposed Transactions. Information
+about the directors and executive officers of VectoIQ is set forth in the Registration Statement and other relevant materials
+to be filed with the SEC regarding the Proposed Transactions. Stockholders, potential investors and other interested persons should
+read the Registration Statement carefully before making any voting or investment decisions. These documents can be obtained free
+of charge from the sources indicated above.
+
+ 
+
+No
+Offer or Solicitation
+
+ 
+
+This
+Current Report on Form 8-K shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall
+there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration
+or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of
+a prospectus meeting the requirements of Section 10 of the Securities Act.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Forward-Looking
+Statements
+
+ 
+
+This
+Current Report on Form 8-K includes certain statements that are not historical facts but are forward-looking statements for
+purposes of the safe harbor provisions under the United States Private Securities Litigation Reform Act of 1995.
+Forward-looking statements generally are accompanied by words such as “believe,” “may,”
+ “will,” “estimate,” “continue,” “anticipate,” “intend,”
+ “expect,” “should,” “would,” “plan,” “predict,”
+ “potential,” “seem,” “seek,” “future,” “outlook,” and similar
+expressions that predict or indicate future events or trends or that are not statements of historical matters. These
+forward-looking statements include, but are not limited to, statements regarding estimates and forecasts of revenue and other
+financial and performance metrics, projections of market opportunity and expectations, timing of various business milestones,
+and projected business model and related assumptions; VectoIQ’s ability to consummate a transaction with the Company;
+VectoIQ’s ability to obtain the financing necessary to consummate the Proposed Transactions; and the expected timing of
+completion of the Proposed Transactions. These statements are based on various assumptions and on the current expectations of
+VectoIQ’s and the Company’s management and are not predictions of actual performance. These forward-looking
+statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any
+investor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability. Actual events and
+circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and circumstances
+are beyond the control of VectoIQ and the Company. These forward looking statements are subject to a number of risks and
+uncertainties, including general economic, financial, legal, political and business conditions and changes in domestic and
+foreign markets; the potential effects of COVID-19; the outcome of judicial proceedings to which the Company is, or may
+become a party; the inability of the parties to enter into definitive agreements or successfully or timely consummate the
+Proposed Transactions or to satisfy the other conditions to the closing of the Proposed Transactions, including the risk that
+any required regulatory approvals are not obtained, are delayed or are subject to unanticipated conditions that could
+adversely affect the combined company; the risk that the approval of the stockholders of VectoIQ for the Proposed
+Transactions is not obtained; failure to realize the anticipated benefits of the Proposed Transactions, including as a result
+of a delay in consummating the Proposed Transaction or difficulty in, or costs associated with, integrating the businesses of
+VectoIQ and the Company; the amount of redemption requests made by VectoIQ’s stockholders; the occurrence of events
+that may give rise to a right of one or both of VectoIQ and the Company to terminate the Business Combination Agreement;
+risks related to the rollout of the Company’s business and the timing of expected business milestones; changes in the
+assumptions underlying the Company’s expectations regarding its future business or business model; the availability of
+capital; the effects of competition on the Company’s future business; and those factors discussed in the Registration
+Statement under the heading “Risk Factors,” and other documents of VectoIQ filed, or to be filed, with the SEC.
+If the risks materialize or assumptions prove incorrect, actual results could differ materially from the results implied by
+these forward-looking statements. There may be additional risks that neither VectoIQ nor the Company presently do not know or
+that VectoIQ and the Company currently believe are immaterial that could also cause actual results to differ from those
+contained in the forward-looking statements. In addition, forward-looking statements reflect VectoIQ’s and the
+Company’s expectations, plans or forecasts of future events and views as of the date of this Current Report on Form
+8-K. VectoIQ and the Company anticipate that subsequent events and developments will cause their assessments to change.
+However, while VectoIQ and the Company may elect to update these forward-looking statements at some point in the future,
+VectoIQ and the Company specifically disclaim any obligation to do so. These forward-looking statements should not be relied
+upon as representing VectoIQ’s or the Company’s assessments as of any date subsequent to the date of this Current
+Report on Form 8-K. Accordingly, undue reliance should not be placed upon the forward-looking statements.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)       Exhibits.
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Exhibit
+
+    99.1
+     
+    Form
+    of Investor Presentation.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, hereunto duly authorized.
+
+ 
+
+Dated:
+April 3, 2020
+
+ 
+
+
+
+     
+    VECTOIQ
+    ACQUISITION CORP.
+
+     
+     
+
+     
+    By:
+    /s/
+    Steve Shindler
+
+     
+     
+    Name:  
+    Steve Shindler
+
+     
+    
+    Title:
+    Chief Financial Officer
+
+
+
+
+ 
+
+
+
+
+    4
+    
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,457 @@
+
+8-K
+1
+tm2017759-1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or Section 15(d)
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): April 28, 2020 (April 23, 2020)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+CC
+NEUBERGER PRINCIPAL HOLDINGS I 
+
+(Exact name of registrant as specified
+in its charter)
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+    Cayman Islands
+    001-39272
+    98-1526024
+
+    (State or other jurisdiction of
+ incorporation or organization)
+    (Commission File Number)
+    (I.R.S. Employer 
+Identification Number)
+
+ 
+
+
+
+    200 Park Avenue, 58th Floor
+New York, New York 
+    10166
+
+    (Address of principal executive offices)
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number,
+including area code: (212) 355-5515
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation to the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    
+        Title
+        of each class
+     
+    
+        Trading
+        Symbol(s)
+     
+    
+        Name
+        of each exchange
+        on which registered
+
+    Units, each consisting of one Class A Ordinary Share, $0.0001 par value, and one-third of one redeemable warrant
+     
+    PCPL.U
+     
+    The New York Stock Exchange
+
+    Class A Ordinary Shares included as part of the units
+     
+    PCPL
+     
+    The New York Stock Exchange
+
+    Warrants included as part of the units, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50
+     
+    PCPL WS
+     
+    The New York Stock Exchange
+
+ 
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 1.01.Entry into a Material Definitive Agreement.
+
+ 
+
+On April 23, 2020,
+the Registration Statement on Form S-1 (File No. 333-236974) (the “Registration Statement”) relating to the initial
+public offering (the “IPO”) of CC Neuberger Principal Holdings I (the “Company”) was declared effective
+by the U.S. Securities and Exchange Commission, and the Company subsequently filed, on April 23, 2020, a registration statement
+on Form S-1 (File No. 333-237817) pursuant to Rule 462(b) under the Securities Act of 1933, as amended, which was effective immediately
+upon filing. On April 28, 2020 the Company consummated the IPO of 41,400,000 units (the “Units”), which includes the
+exercise in full of the underwriter’s option to purchase an additional 5,400,000 Units at the initial public offering price
+to cover over-allotments. Each Unit consists of one Class A ordinary share, $0.0001 par value per share (the “Class A Ordinary
+Shares”), and one-third of one redeemable warrant (the “Public Warrants”), each whole Public Warrant entitling
+the holder thereof to purchase one Class A Ordinary Share at an exercise price of $11.50 per share. The Units were sold at an offering
+price of $10.00 per Unit, generating gross proceeds of $414,000,000. Further, in connection with the IPO, the Company entered into
+the following agreements previously filed as exhibits to the Registration Statement:
+
+ 
+
+
+·an Underwriting Agreement, dated April 23, 2020, between the Company and Goldman Sachs & Co.
+LLC and BofA Securities, Inc., as representatives of the several underwriters named therein, which contains customary representations
+and warranties and indemnification of the underwriters by the Company;
+
+ 
+
+
+·a Private Placement Warrants Purchase Agreement, dated April 23, 2020, between the Company and
+CC Neuberger Principal Holdings I Sponsor LLC (the “Sponsor”), pursuant to which the Sponsor purchased 10,280,000 private
+placement warrants, each exercisable to purchase one Class A Ordinary Share at $11.50 per share, at a price of $1.00 per warrant
+(the “Private Placement Warrants” and, together with the Public Warrants, the “Warrants”);
+
+ 
+
+
+·a Warrant Agreement, dated April 28, 2020, between the Company and Continental Stock Transfer &
+Trust Company, as warrant agent (the “Warrant Agreement”), which sets forth the expiration and exercise price of and
+procedure for exercising the Warrants; certain adjustment features of the terms of exercise; provisions relating to redemption
+and cashless exercise of the Warrants; certain registration rights of the holders of Warrants; provision for amendments to the
+Warrant Agreement; and indemnification of the warrant agent by the Company under the agreement;
+
+ 
+
+
+·an Investment Management Trust Agreement, dated April 28, 2020, between the Company and Continental
+Stock Transfer & Trust Company, as trustee, which establishes the trust account that will hold the net proceeds of the IPO
+and certain of the proceeds of the sale of the Private Placement Warrants, and sets forth the responsibilities of the trustee;
+the procedures for withdrawal and direction of funds from the trust account; and indemnification of the trustee by the Company
+under the agreement;
+
+ 
+
+
+·a Registration and Shareholder Rights Agreement, dated April 28, 2020, between the Company, the
+Sponsor and certain equityholders of the Company, which provides for customary demand and piggy-back registration rights for the
+Sponsor, and customary piggy-back registration rights for such other equityholders, as well as certain transfer restrictions applicable
+to the Sponsor with respect to the Company’s securities, and, upon consummation of our initial business combination, the
+right of the Sponsor to nominate three individuals for election to the Company’s board of directors;
+
+ 
+
+
+·a Letter Agreement, dated April 28, 2020, by and between the Company, the Sponsor and each of the
+executive officers and directors of the Company, pursuant to which the Sponsor and each executive officer and director of the Company
+has agreed to vote any Class A Ordinary Shares held by him or her in favor of the Company’s initial business combination;
+to facilitate the liquidation and winding up of the Company if an initial business combination is not consummated within 24 months;
+to certain transfer restrictions with respect to the Company’s securities; to certain indemnification obligations of the
+Sponsor; and pursuant to which the Company has agreed not to enter into a definitive agreement regarding an initial business combination
+without the prior consent of the Sponsor; and
+
+ 
+
+
+
+
+    2 
+     
+    
+
+ 
+
+
+·an Administrative Services Agreement, dated April 28, 2020, by and between the Company and the
+Sponsor, pursuant to which the Sponsor has agreed to make available office space and certain administrative and support services,
+as may be required by the Company from time to time, for $20,000 per month until the Company’s initial business combination
+or liquidation.
+
+ 
+
+The above descriptions
+are qualified in their entirety by reference to the full text of the applicable agreement, each of which is incorporated by reference
+herein and filed herewith as Exhibits 1.1, 10.1, 4.1, 10.2, 10.3, 10.4 and 10.5, respectively.
+
+ 
+
+
+Item 3.02.Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneous with the
+consummation of the IPO and the issuance and sale of the Units, the Company consummated the private placement of 10,280,000 Private
+Placement Warrants at a price of $1.00 per Private Placement Warrant, generating total proceeds of $10,280,000 (the “Private
+Placement”). The Private Placement Warrants, which were purchased by the Sponsor, are substantially similar to the Public
+Warrants, except that if held by the Sponsor or its permitted transferees, they (i) may be exercised for cash or on a cashless
+basis, (ii) are not subject to being called for redemption under certain redemption scenarios and (iii) subject to certain limited
+exceptions, will be subject to transfer restrictions until 30 days following the consummation of the Company’s initial business
+combination. If the Private Placement Warrants are held by holders other than the Sponsor or its permitted transferees, the Private
+Placement Warrants will be redeemable by the Company under all redemption scenarios and exercisable by holders on the same basis
+as the Public Warrants. The Private Placement Warrants have been issued pursuant to, and are governed by the Warrant Agreement.
+
+ 
+
+
+Item 5.03.Amendments to Memorandum and Articles of Association.
+
+ 
+
+On April 23, 2020 and
+in connection with the IPO, the Company adopted its Amended and Restated Memorandum and Articles of Association. The Amended and
+Restated Memorandum and Articles of Association is filed herewith as Exhibit 3.1 and is incorporated by reference herein.
+
+ 
+
+
+Item 9.01.Financial Statements and Exhibits.
+
+ 
+
+
+
+    
+        (d)
+     
+    
+        Exhibits.
+
+    1.1
+     
+    Underwriting Agreement among the Company and Goldman Sachs & Co. LLC and BofA Securities, Inc., as representatives of the several underwriters named therein
+
+    3.1
+     
+    Amended and Restated Memorandum and Articles of Association
+
+    4.1
+     
+    Warrant Agreement between Continental Stock Transfer & Trust Company and the Company
+
+    10.1
+     
+    Private Placement Warrants Purchase Agreement between the Company and CC Neuberger Principal Holdings I Sponsor LLC
+
+    10.2
+     
+    Investment Management Trust Account Agreement between Continental Stock Transfer & Trust Company and the Company
+
+    10.3
+     
+    Registration and Shareholder Rights Agreement between the Company, CC Neuberger Principal Holdings I Sponsor LLC and the other parties thereto
+
+    10.4
+     
+    Letter Agreement between the Company, CC Neuberger Principal Holdings I Sponsor LLC and each of the executive officers and directors of the Company
+
+    10.5
+     
+    Administrative Services Agreement between the Company and CC Neuberger Principal Holdings I Sponsor LLC
+
+ 
+
+
+    3 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+Dated: April 28, 2020
+
+ 
+
+
+
+     
+    CC NEUBERGER PRINCIPAL HOLDINGS I
+
+     
+     
+
+     
+    By:
+    /s/ Douglas Newton
+
+     
+    Name:
+    Douglas Newton
+
+     
+    Title:
+    Chief Financial Officer
+
+
+
+ 
+
+
+
+
+    4 
+    
+
+
+
+
+
+

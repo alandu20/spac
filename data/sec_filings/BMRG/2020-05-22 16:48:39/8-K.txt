@@ -1,0 +1,594 @@
+
+8-K
+1
+ea122222-8k_brileyprincipal2.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): May 22, 2020 (May 19, 2020)
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+B.
+RILEY PRINCIPAL MERGER CORP. II
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+    Delaware
+     
+    001-39291
+     
+    84-4290188
+
+    (State
+    or other jurisdiction
+    of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (IRS
+    Employer
+    Identification No.)
+
+ 
+
+299
+Park Avenue, 21st Floor
+
+New
+York, New York 10171
+
+(Address
+of principal executive offices, including zip code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (212) 457-3300
+
+ 
+
+Not
+Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ☐
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company þ
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
+     
+    BMRG.U
+     
+    The New York Stock Exchange
+
+    Class A common stock, par value $0.0001 per share
+     
+    BMRG
+     
+    The New York Stock Exchange
+
+    Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share  
+     
+    BMRG WS
+     
+    The New York Stock Exchange
+
+
+
+
+
+  
+
+
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement. 
+
+ 
+
+On May 22, 2020, B.
+Riley Principal Merger Corp. II (the “Company”) consummated its initial public offering (“IPO”) of 17,500,000
+units (the “Units”). Each Unit consists of one share of Class A common stock of the Company, par value $0.0001 per
+share (the “Class A Common Stock”), and one-half of one redeemable warrant of the Company (“Warrant”),
+with each whole Warrant entitling the holder thereof to purchase one share of Class A Common Stock for $11.50 per share, subject
+to adjustment. The Units were sold at a price of $10.00 per Unit, generating gross proceeds to the Company of $175,000,000.
+
+
+
+ 
+
+In
+connection with the IPO, the Company entered into the following agreements, forms of which were previously filed as exhibits to
+the Company’s Registration Statement on Form S-1 (File No. 333-237812) for the IPO, originally filed with the U.S. Securities
+and Exchange Commission (the “Commission”) on April 23, 2020 (as amended, the “Registration Statement”):
+
+ 
+
+
+●An
+Underwriting Agreement, dated May 19, 2020, by and between the Company and B. Riley FBR, Inc., as representative of the several
+underwriters, a copy of which is attached as Exhibit 1.1 hereto and incorporated herein by reference.
+
+
+ 
+
+
+●A
+Business Combination Marketing Agreement (the “BCMA”), dated May 19, 2020, by and between the Company and B. Riley
+FBR, Inc., a copy of which is attached as Exhibit 1.2 hereto and incorporated herein by reference.
+
+
+ 
+
+
+●A
+Warrant Agreement, dated May 19, 2020, by and between the Company and Continental Stock Transfer & Trust Company, as warrant
+agent, a copy of which is attached as Exhibit 4.1 hereto and incorporated herein by reference.
+
+
+
+ 
+
+
+●A
+Letter Agreement, dated May 19, 2020 (the “Letter Agreement”), by and among the Company, its officers, its directors
+and the Company’s sponsor, B. Riley Principal Sponsor Co. II, LLC (the “Sponsor”), a copy of which is attached
+as Exhibit 10.1 hereto and incorporated herein by reference.
+
+ 
+
+
+●An
+Investment Management Trust Agreement, dated May 19, 2020, by and between the Company and Continental Stock Transfer & Trust
+Company, as trustee, a copy of which is attached as Exhibit 10.2 hereto and incorporated herein by reference.
+
+ 
+
+
+●A
+Registration Rights Agreement, dated May 19, 2020, by and between the Company, the Sponsor and the Company’s independent
+directors, a copy of which is attached as Exhibit 10.3 hereto and incorporated herein by reference.
+
+ 
+
+
+●A
+Private Placement Units Purchase Agreement, dated May 19, 2020, by and between the Company and the Sponsor (the “Private
+Placement Units Purchase Agreement”), a copy of which is attached as Exhibit 10.4 hereto and incorporated herein by reference.
+
+ 
+
+
+●A
+Forward Purchase Agreement, dated May 19, 2020, by and between the Company and B. Riley Principal Investments, LLC, a copy of
+which is attached as Exhibit 10.5 hereto and incorporated herein by reference.
+
+ 
+
+
+●An
+Administrative Support Agreement, dated May 19, 2020, by and between the Company and B. Riley Corporate Services, Inc., a copy
+of which is attached as Exhibit 10.6 hereto and incorporated herein by reference.
+
+ 
+
+Item
+3.02. Unregistered Sales of Equity Securities. 
+
+ 
+
+Simultaneously with
+the closing of the IPO, pursuant to the Private Placement Units Purchase Agreement, the Company completed the private sale of
+650,000 units (the “Private Placement Units”) to the Sponsor at a purchase price of $10.00 per Private Placement Unit,
+generating gross proceeds to the Company of $6,500,000. The Private Placement Units are identical to the Units sold in the IPO,
+except that the Warrants underlying the Private Placement Units, so long as they are held by the Sponsor or its permitted transferees,
+(i) are not redeemable by the Company, (ii) may not (including the Class A Common Stock issuable upon exercise of such Warrants),
+subject to certain limited exceptions, be transferred, assigned or sold by such holders until 30 days after the completion of
+the Company’s initial business combination, (iii) may be exercised by the holders on a cashless basis, (iv) will be entitled
+to registration rights and (v) for so long as they are held by the Sponsor, will not be exercisable more than five years from
+the effective date of the Registration Statement in accordance with FINRA Rule 5110(f)(2)(G)(i). No underwriting discounts or
+commissions were paid with respect to such sale. The issuance of the Private Placement Units was made pursuant to the exemption
+from registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+
+     
+     
+    
+
+ 
+
+Item
+5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements
+of Certain Officers.
+
+ 
+
+On
+May 19, 2020, in connection with the IPO, Patrick J. Bartels, Jr., James L. Kempner, Timothy M. Presutti and Robert Suss were
+appointed to the board of directors of the Company (the “Board”). Messrs. Bartels, Kempner, Presutti and Suss are
+independent directors. Effective May 19, 2020, (i) Messrs. Kempner, Presutti and Suss were also appointed to the Board’s
+Compensation Committee, with Mr. Presutti serving as chair of the Compensation Committee; Messrs. Bartels, Kempner and Presutti
+were appointed to the Board’s Nominating and Corporate Governance Committee, with Mr. Bartels serving as chair of the Nominating
+and Corporate Governance Committee; Messrs. Bartels, Kempner and Suss were appointed to the Board’s Audit Committee, with
+Mr. Bartels serving as chair of the Audit Committee; and Bryant R. Riley was appointed Chairman of the Board.
+
+ 
+
+Following
+the appointment of Messrs. Bartels, Kempner, Presutti and Suss, the Board is comprised of the following two classes: the term
+of office of the first class of directors, Class I, consists of Kenneth Young and Messrs. Suss and Presutti and will expire at
+the Company’s first annual meeting of stockholders; the term of office of the second class of directors, Class II, consists
+of Daniel Shribman and Messrs. Riley, Kempner and Bartels and will expire at the Company’s second annual meeting of stockholders.
+
+  
+
+On
+May 19, 2020, in connection with their appointments to the Board, each director entered into the Letter Agreement as well as an
+indemnity agreement with the Company in the form previously filed as Exhibit 10.6 to the Registration Statement.
+
+ 
+
+Prior
+to the IPO, on April 21, 2020, 20,000 founder shares were transferred to each of Messrs. Bartels, Kempner, Presutti and Suss at
+their par value.
+
+ 
+
+Other
+than the foregoing, none of the directors are party to any arrangement or understanding with any person pursuant to which they
+were appointed as directors, nor are they party to any transactions required to be disclosed under Item 404(a) of Regulation S-K
+involving the Company
+
+ 
+
+The
+foregoing descriptions of the Letter Agreement and the form of indemnity agreement do not purport to be complete and are qualified
+in their entireties by reference to the Letter Agreement and form of indemnity agreement, copies of which are attached as Exhibit
+10.1 hereto and Exhibit 10.6 to the Registration Statement, respectively, and are incorporated herein by reference.
+
+ 
+
+Item 5.03. Amendments
+to Certificate of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+On
+May 19, 2020, in connection with the IPO, the Company adopted its Second Amended and Restated Certificate of Incorporation (the
+“Amended Charter”), effective the same day. The terms of the Amended Charter are set forth in the Registration
+Statement and are incorporated herein by reference. A copy of the Amended Charter is attached as Exhibit 3.1 hereto and incorporated
+herein by reference.
+
+ 
+
+Item
+8.01. Other Events.
+
+ 
+
+A total of
+$176,750,000, comprised of $171,500,000 of the proceeds from the IPO (which amount includes $6,125,000 payable to B. Riley
+FBR, Inc. pursuant to the BCMA) and $5,250,000 of the proceeds of the sale of the Private Placement Units, was placed in a
+U.S.-based trust account at J.P. Morgan Chase Bank, N.A. maintained by Continental Stock Transfer & Trust Company, acting
+as trustee. Except with respect to interest earned on the funds held in the trust account that may be released to the Company
+to pay its franchise and income tax obligations (less up to $100,000 of interest to pay dissolution expenses), the funds held
+in the trust account will not be released from the trust account until the earliest of (i) the completion of the
+Company’s initial business combination, (ii) the redemption of any shares of Class A Common Stock included in the Units
+sold in the IPO (“public shares”) properly submitted in connection with a stockholder vote to amend the
+Company’s second amended and restated certificate of incorporation to modify the substance or timing of the
+Company’s obligation to redeem 100% of the Company’s public shares if the Company does not complete its initial
+business combination within 18 months from the closing of the IPO or with respect to any other material provisions relating to stockholders’ rights or pre-initial business combination
+activity and (iii) the redemption of 100% of the Company’s
+public shares if the Company is unable to complete an initial business combination within 18 months from the closing of the
+IPO, subject to applicable law.
+
+ 
+
+On
+May 19, 2020, the Company issued a press release announcing the pricing of the IPO, a copy of which is attached as Exhibit 99.1
+to this Current Report on Form 8-K.
+
+ 
+
+On May 22, 2020, the Company issued a press release announcing the closing of the IPO, a copy of which is attached as Exhibit
+99.2 to this Current Report on Form 8-K. 
+
+ 
+
+
+    2
+     
+    
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits.
+
+ 
+
+
+(d)Exhibits
+
+ 
+
+EXHIBIT
+INDEX
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+    1.1
+     
+    Underwriting Agreement, dated May 19, 2020, by and between the Company and B. Riley FBR, Inc., as representative of the several underwriters.
+
+    1.2
+     
+    Business Combination Marketing Agreement, dated May 19, 2020, by and between the Company and B. Riley FBR, Inc.
+
+    3.1
+     
+    Second Amended and Restated Certificate of Incorporation.
+
+    4.1
+     
+    Warrant Agreement, dated May 19, 2020, by and between the Company and Continental Stock Transfer & Trust Company, as warrant agent.
+
+    10.1
+     
+    Letter Agreement, dated May 19, 2020, by and among the Company, its officers, its directors and B. Riley Principal Sponsor Co. II, LLC.
+
+    10.2
+     
+    Investment Management Trust Agreement, dated May 19, 2020, by and between the Company and Continental Stock Transfer & Trust Company, as trustee.
+
+    10.3
+     
+    Registration Rights Agreement, dated May 19, 2020, by and between the Company, B. Riley Principal Sponsor Co., LLC and the Company’s independent directors.
+
+    10.4
+     
+    Private Placement Units Purchase Agreement, dated May 19, 2020, by and between the Company and B. Riley Principal Sponsor Co., LLC.
+
+    10.5
+     
+    Forward Purchase Agreement, dated May 19, 2020, by and between the Company and B. Riley Principal Investments, LLC.
+
+    10.6
+     
+    Administrative Support Agreement, dated May 19, 2020, by and among the Company and B. Riley Corporate Services, Inc.
+
+    99.1
+    
+     
+    Press Release, dated May 19, 2020.
+
+    99.2
+     
+    Press Release, dated May 22, 2020.
+
+ 
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    B.
+    RILEY PRINCIPAL MERGER CORP. II
+
+     
+     
+     
+
+     
+    By:
+    
+    /s/
+    Daniel Shribman
+    
+
+     
+     
+    Name: 
+    Daniel Shribman
+
+     
+     
+    Title:
+    Chief
+    Executive Officer and Chief Financial Officer
+
+     
+     
+     
+
+    Dated:
+    May 22, 2020
+     
+     
+
+ 
+
+ 
+
+
+
+4
+
+ 
+
+
+
+
+
+

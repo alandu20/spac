@@ -1,0 +1,747 @@
+
+8-K
+1
+tv526085_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+July 30, 2019
+____________________
+
+ 
+
+NEW FRONTIER CORPORATION
+
+(Exact name of registrant as specified in
+its charter)
+
+____________________
+
+ 
+
+
+
+    Cayman Islands
+    001-38562
+    N/A
+
+    (State or other jurisdiction of incorporation)
+    (Commission File Number)
+    (IRS Employer Identification No.)
+
+ 
+
+23rd Floor, 299 QRC
+
+287-299 Queen’s Road Central
+
+Hong Kong
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: 852-6491-9230
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+___________________
+
+ 
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+ 
+
+
+
+     
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+     
+
+     
+    x
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+     
+
+     
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+     
+
+     
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+    Trading Symbol(s)
+    Name of each exchange on which registered
+
+    Units, each consisting of one Class A ordinary share and one-half of one warrant
+    NFC.U
+    New York Stock Exchange
+
+    Class A Ordinary Shares, $0.0001 par value
+    NFC
+    New York Stock Exchange
+
+    Warrants, each exercisable for one Class A ordinary share
+    NFC WS
+    New York Stock Exchange
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company x
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 1.01Entry into a Material Definitive Agreement.
+
+ 
+
+Transaction Agreement
+
+ 
+
+On July 30,
+2019, New Frontier Corporation (“NFC” or the “Company”) entered into a Transaction
+Agreement (the “Transaction Agreement”) with NF Unicorn Acquisition L.P., a Cayman Islands limited
+partnership and a wholly-owned indirect subsidiary of NFC (“NFC Buyer Sub”, and together with NFC, the
+“Buyer Parties”), Healthy Harmony Holdings, L.P., a Cayman Islands limited partnership (“Healthy
+Harmony”), Healthy Harmony GP, Inc., a Cayman Islands company and the sole general partner of Healthy Harmony
+(“HH GP” and, together with Healthy Harmony, the “Target Companies”), TPG Healthy,
+L.P., a Cayman Islands limited partnership (“TPG Seller”), Fosun Industrial Co., Limited, a Hong Kong
+company (“Fosun Seller”), Plenteous Flair Limited, a Cayman Islands company (“Boyu
+Seller”), Roberta Lipson (“Ms. Lipson”), the Benjamin Lipson Plafker Trust, the Daniel Lipson
+Plafker Trust, the Jonathan Lipson Plafker Trust and the Ariel Benjamin Lee Trust (the foregoing trusts together with Ms.
+Lipson, the “Lipson Parties,” and together with TPG Seller, Fosun Seller and Boyu Seller, each a
+“Seller” and collectively, the “Sellers”), pursuant to which NFC will
+indirectly acquire all of the issued and outstanding equity interests of HH GP (the “GP Shares”) and
+approximately 99.37% of the issued and outstanding limited partnership interests in Healthy Harmony (the “LP
+Interests”) from the Sellers on the terms and subject to the conditions set forth therein (the transactions
+contemplated by the Transaction Agreement and the related ancillary agreements, the “Business
+Combination”). The remaining 0.63% of the issued and outstanding LP Interests are held by certain members of
+management of the Target Companies and are expected to be acquired by NFC simultaneously with the closing of the Business
+Combination (the “Closing”) on terms and conditions to be agreed between NFC and these holders.
+
+ 
+
+Consideration
+
+ 
+
+The aggregate
+purchase price for the Business Combination is approximately $1.3 billion, subject to customary adjustments as set forth in
+the Transaction Agreement. Fosun Seller and the Lipson   Parties have agreed to, concurrently with the Closing, reinvest a
+portion of their respective proceeds to be received by them under the Transaction Agreement, in an aggregate amount of
+approximately $144,756,494, for newly issued ordinary shares, par value $0.0001 per share (“New NFC ordinary
+shares”), in the post-business combination company (“New NFC”) at a subscription price of $10.00
+per share.
+
+ 
+
+Representations, Warranties and Covenants
+
+ 
+
+The Transaction Agreement
+contains customary representation, warranties and covenants by the parties thereto, including, among other things, covenants with
+respect to the conduct of the Buyer Parties, HH GP, Healthy Harmony and the Sellers during the period between execution of the
+Transaction Agreement and the Closing.
+
+ 
+
+Conditions to Closing
+
+ 
+
+The Closing is subject
+to certain customary closing conditions, including, among other things, approval by NFC’s shareholders and the shareholders
+of Fosun Seller’s parent, Shanghai Fosun Pharmaceutical (Group) Co., Ltd. (“Fosun Pharma”), of the Transaction
+Agreement, the Business Combination and certain actions related thereto. In addition, the parties’ obligations to consummate
+the Business Combination are subject to NFC having sufficient cash available to pay the aggregate consideration payable to the
+Sellers (less any amount agreed to be reinvested by them).
+
+ 
+
+Termination
+
+ 
+
+The Transaction Agreement
+may be terminated prior to the Closing under certain circumstances, including, among others, (i) by mutual written consent of NFC
+Buyer Sub and HH GP, (ii) by NFC Buyer Sub, TPG Seller or Fosun Seller if the Closing has not occurred on or prior to the date
+that is 9 months after the date of the Transaction Agreement (or such later date as NFC, TPG Seller and Fosun Seller may agree
+in writing, the “Outside Date”), unless such party’s material breach of its representations, warranties,
+covenants or other obligations contained in the Transaction Agreement results in or causes the failure of the transactions contemplated
+thereby to be consummated by such time, (iii) by NFC Buyer Sub if any of HH GP, Healthy Harmony and the Sellers breaches any of
+its representations, warranties, covenants or other agreements under the Transaction Agreement that would result in the failure
+of the conditions to Buyer Parties’ obligation to consummate the Business Combination as of the Outside Date and has not
+been cured within 30 days after receiving notice, (iv) by HH GP if any Buyer Party breaches any of its representations, warranties,
+covenants or other agreements under the Transaction Agreement that would result in the failure of the conditions to HH GP, Healthy
+Harmony and the Sellers’ obligation to consummate the Business Combination as of the Outside Date and has not been cured
+within 30 days after receiving notice, or (v) by HH GP if the board of directors of NFC changes its recommendation in favor of
+the Business Combination.
+
+ 
+
+The foregoing description
+of the Transaction Agreement and the Business Combination does not purport to be complete and is qualified in its entirety by the
+terms and conditions of the Transaction Agreement, a copy of which is attached as Exhibit 2.1 hereto and is incorporated by reference
+herein. The Transaction Agreement contains representations, warranties and covenants that the respective parties made to each other
+as of the date of such agreement or other specific dates. The assertions embodied in those representations, warranties and covenants
+were made for purposes of the contract among the respective parties and are subject to important qualifications and limitations
+agreed to by the parties in connection with negotiating such agreement. The Transaction Agreement has been attached to provide
+investors with information regarding its terms and is not intended to provide any other factual information about NFC, HH GP, Healthy
+Harmony, any Seller or any other party to the Transaction Agreement. In particular, the representations, warranties, covenants
+and agreements contained in the Transaction Agreement, which were made only for purposes of such agreement and as of specific dates,
+were solely for the benefit of the parties to the Transaction Agreement, may be subject to limitations agreed upon by the contracting
+parties (including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the
+parties to the Transaction Agreement instead of establishing these matters as facts) and may be subject to standards of materiality
+applicable to the contracting parties that differ from those applicable to investors and reports and documents filed with the U.S.
+Securities and Exchange Commission (the “SEC”). Investors should not rely on the representations, warranties,
+covenants and agreements, or any descriptions thereof, as characterizations of the actual state of facts or condition of any party
+to the Transaction Agreement. In addition, the representations, warranties, covenants and agreements and other terms of the Transaction
+Agreement may be subject to subsequent waiver or modification. Moreover, information concerning the subject matter of the representations
+and warranties and other terms may change after the date of the Transaction Agreement, which subsequent information may or may
+not be fully reflected in the NFC’s public disclosures.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Lipson Reinvestment Agreement
+
+ 
+
+Concurrently with
+the entry into the Transaction Agreement, NFC and the Lipson Parties entered into a Founder Reinvestment Agreement (the
+“Founder Reinvestment Agreement”), pursuant to which the Lipson   Parties will reinvest $50,756,494 of
+their consideration under the Transaction Agreement and the Founder Reinvestment Agreement for newly issued New NFC ordinary
+shares at a subscription price of $10.00 per share, which will be issued to the Lipson Parties concurrently with the
+Closing.
+
+ 
+
+The foregoing description
+of the Founder Reinvestment Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions
+of the Founder Reinvestment Agreement, a copy of which is filed as Exhibit 10.1 hereto and is incorporated by reference herein.
+
+ 
+
+Fosun Rollover Agreement
+
+ 
+
+Concurrently with the
+entry into the Transaction Agreement, NFC and Fosun Seller entered into a Fosun Rollover Agreement (the “Fosun Rollover
+Agreement”), pursuant to which Fosun Seller will reinvest $94,000,000 of its consideration under the Transaction Agreement
+for newly issued New NFC ordinary shares at a subscription price of $10.00 per share, which will be issued to Fosun Seller concurrently
+with the Closing.
+
+ 
+
+The foregoing description
+of the Fosun Rollover Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of
+the Fosun Rollover Agreement, a copy of which is filed as Exhibit 10.2 hereto and is incorporated by reference herein.
+
+ 
+
+Fosun Voting Undertaking
+
+ 
+
+In connection with
+the entry into the Transaction Agreement by Fosun Seller, Shanghai Fosun High Technology (Group) Co., Ltd. (“Fosun High
+Tech”), as the beneficial owner of certain equity interests in Fosun Pharma, has delivered to NFC a voting undertaking
+(the “Fosun Voting Undertaking”), in which Fosun High Tech undertakes to vote all of its equity interests in
+Fosun Pharma in favor of the Business Combination at the shareholders meeting of Fosun Pharma.
+
+ 
+
+The foregoing description
+of the Fosun Voting Undertaking does not purport to be complete and is qualified in its entirety by the terms and conditions of
+the Fosun Voting Undertaking, a copy of which is filed as Exhibit 10.3 hereto and is incorporated by reference herein.
+
+ 
+
+Subscription Agreements
+
+ 
+
+In connection with
+its entry into the Transaction Agreement, NFC entered into certain subscription agreements (the “Subscription Agreements”),
+each dated as of July 30, 2019, with certain investors, including Vivo Capital Fund IX (Cayman), L.P. (“Vivo”),
+pursuant to which, among other things, NFC agreed to issue and sell, in private placements, an aggregate of up to 71.1 million
+Class A ordinary shares, par value $0.0001 per share (“NFC Class A ordinary shares”), to the investors for $10.00
+per share (the “Equity Offering”), subject to NFC’s right to reduce the number of NFC Class A ordinary
+shares to be issued to the investors by up to 25%. The Equity Offering is expected to close immediately prior to the Closing. The
+investors will be entitled to certain shelf registration rights subject to customary black-out periods and other limitations as
+set forth in the Subscription Agreements.
+
+ 
+
+The foregoing description
+of the Subscription Agreements does not purport to be complete and is qualified in its entirety by the terms and conditions of
+the form Subscription Agreement, a copy of which is filed as Exhibit 10.4 hereto and is incorporated by reference herein.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Vivo Letter Agreement
+
+ 
+
+In
+connection with the entry into the Transaction Agreement, NFC, New Frontier Public Holding
+Ltd. (the “Sponsor”), Mr. Antony Leung and Mr. Carl Wu entered into a letter agreement with Vivo (“Vivo
+Letter Agreement”), pursuant to which Mr. Antony Leung, Mr. Carl Wu and Sponsor agreed to certain restrictions relating
+to their shareholding in NFC. 
+
+ 
+
+The foregoing description
+of the Vivo Letter Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the
+Vivo Letter Agreement, a copy of which is filed as Exhibit 10.5 hereto and is incorporated by reference herein.
+
+ 
+
+Debt Commitment Letters
+
+ 
+
+In order
+to finance a portion of the cash consideration payable under the Transaction Agreement and the costs and expenses incurred
+in connection therewith, NF Unicorn Acquisition Limited, a wholly owned indirect subsidiary of NFC
+(“NF Unicorn”), entered into a senior loan commitment letter with Shanghai Pudong Development
+Bank Putuo Sub-Branch (“SPDB”) (the “Senior Loan Commitment Letter”), pursuant to
+which SPDB has agreed, upon the terms and subject to the conditions thereof, to provide a 7-year senior secured credit
+facility to NF Unicorn in an aggregate principal amount equal to the RMB equivalent of $300,000,000.
+China Merchants Bank Shanghai Branch (“CMB”) had previously issued
+a senior loan commitment letter to NFC, which   also contemplated a senior secured credit facility in an aggregate amount
+equal to up to $300,000,000 upon the terms and subject to the conditions thereof. 
+
+ 
+
+NFC
+(and its wholly-owned subsidiaries) only expects to borrow up to an aggregate of $300,000,000 of senior secured term loans to
+finance the Business Combination. As such, NFC (or any of its wholly-owned subsidiaries) expects to enter into a separate
+senior loan commitment letter or other agreements after the date hereof with SPDB and/or CMB reflecting this arrangement.
+
+ 
+
+The foregoing description
+of the Senior Loan Commitment Letter does not purport to be complete and is qualified in its entirety by the terms and conditions
+of the  Senior Loan Commitment Letter,      a copy of which is filed as Exhibit 10.6 hereto  and is
+ incorporated by reference herein.
+
+ 
+
+Additional Agreements to be Executed
+at Closing
+
+ 
+
+Director Nomination
+Agreements
+
+ 
+
+At the Closing, NFC
+will enter into separate Director Nomination Agreements with each of Fosun Seller, Vivo and the Sponsor (collectively, the “Director
+Nomination Agreements”), pursuant to which Fosun Seller, Vivo and the Sponsor will have separate rights to designate
+nominees to the board of directors of New NFC in the number and subject to the beneficial ownership thresholds set forth therein.
+
+ 
+
+Lipson  Employment
+Agreement
+
+ 
+
+At the
+Closing, NFC and Ms. Lipson will enter into an Employment Agreement (the “Lipson Employment Agreement”),
+pursuant to which Ms. Lipson    shall serve as the chief executive officer of NFC for an initial term of three years from the
+Closing (subject to certain termination conditions  to be set forth therein), and shall be nominated to serve on the board of
+directors of NFC subject to certain beneficial ownership thresholds to be set forth therein. During the term of her
+employment, Ms. Lipson    shall be entitled to certain compensation and benefits to  be set forth in the Lipson
+Employment Agreement.
+
+ 
+
+Registration
+Rights Agreement
+
+ 
+
+At the Closing,
+NFC will enter into a Registration Rights Agreement with the Lipson   Parties, under which the Lipson Parties will be
+granted certain shelf registration rights with respect to the shares in New NFC they will hold following the Business
+Combination subject to the terms and conditions set forth therein.
+
+ 
+
+
+Item 3.02Unregistered Sales of Equity Securities.
+
+ 
+
+The disclosure set
+forth above in Item 1.01 of this Current Report on Form 8-K with respect to the issuance of New NFC ordinary shares and NFC Class
+A ordinary shares is incorporated by reference herein. The ordinary shares issuable in connection with the transactions contemplated
+by the Business Combination will not be registered under the Securities Act of 1933, as amended (the “Securities Act”),
+in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act, Regulation D and/or Regulation
+S promulgated thereunder.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 8.01Other Events.
+
+
+ 
+
+Concurrently with
+the entry into the Transaction Agreement, each of Sponsor and certain other shareholders of NFC entered into a Support
+Agreement (each a “Support Agreement” and collectively, the “Support Agreements”) with
+HH GP, pursuant to which such shareholders agreed, among other things, to vote all of the NFC Class A ordinary shares and/or
+Class B ordinary shares of NFC, par value $0.0001 per share, held or subsequently acquired by such shareholders in favor of
+the approval of the Business Combination.
+
+ 
+
+The foregoing description
+of the Support Agreements does not purport to be complete and is qualified in its entirety by the terms and conditions of the form
+Support Agreement, a copy of which is filed as Exhibit 10.7 hereto and is incorporated by reference herein.
+
+ 
+
+Important Information About the Business
+Combination and Where to Find It
+
+ 
+
+In connection with
+the proposed Business Combination, NFC intends to file a preliminary proxy statement. NFC will mail a definitive proxy statement
+and other relevant documents to its shareholders. NFC’s shareholders and other interested persons are advised to read, when
+available, the preliminary proxy statement and the amendments thereto and the definitive proxy statement and documents incorporated
+by reference therein filed in connection with the Business Combination, as these materials will contain important information about
+the Target Companies, the Company and the Business Combination. When available, the definitive proxy statement and other relevant
+materials for the Business Combination will be mailed to shareholders of NFC as of a record date to be established for voting on
+the Business Combination. Shareholders will also be able to obtain copies of the preliminary proxy statement, the definitive proxy
+statement and other documents filed with the SEC that will be incorporated by reference therein, without charge, once available,
+at the SEC’s web site at www.sec.gov, or by directing a request to: New Frontier Corporation, 23rd Floor, 299 QRC, 287-299
+Queen’s Road Central, Hong Kong, Attention: Secretary, telephone: 852-3703-3251.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+NFC and its directors
+and executive officers may be deemed participants in the solicitation of proxies from NFC’s shareholders with respect to
+the Business Combination. A list of the names of those directors and executive officers and a description of their interests in
+NFC is contained in NFC’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018, which was filed with the
+SEC and is available free of charge at the SEC’s web site at www.sec.gov, or by directing a request to New Frontier Corporation,
+23rd Floor, 299 QRC, 287-299 Queen’s Road Central, Hong Kong, Attention: Secretary, telephone: 852-3703-3251. Additional
+information regarding the interests of such participants will be contained in the proxy statement for the Business Combination
+when available.
+
+ 
+
+The Target Companies
+and their directors and executive officers may also be deemed to be participants in the solicitation of proxies from the shareholders
+of NFC in connection with the Business Combination. A list of the names of such directors and executive officers and information
+regarding their interests in the Business Combination will be included in the proxy statement for the Business Combination when
+available.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report
+on Form 8-K includes “forward-looking statements” within the meaning of the “safe harbor” provisions of
+the Private Securities Litigation Reform Act of 1995. NFC’s and the Target Companies’ actual results may differ from
+their expectations, estimates and projections and consequently, you should not rely on these forward looking statements as predictions
+of future events. Words such as “expect,” “estimate,” “project,” “budget,” “forecast,”
+“anticipate,” “intend,” “plan,” “may,” “will,” “could,”
+“should,” “believes,” “predicts,” “potential,” “continue,” and similar
+expressions are intended to identify such forward-looking statements. These forward-looking statements include, without limitation,
+NFC’s and the Target Companies’ expectations with respect to future performance and anticipated financial impacts of
+the Business Combination, the satisfaction of the closing conditions to the Business Combination and the timing of the completion
+of the Business Combination. These forward-looking statements involve significant risks and uncertainties that could cause the
+actual results to differ materially from the expected results. Most of these factors are outside NFC’s and the Target Companies’
+control and are difficult to predict. Factors that may cause such differences include, but are not limited to: (1) the occurrence
+of any event, change or other circumstances that could give rise to the termination of the Transaction Agreement or could otherwise
+cause the Business Combination to fail to close; (2) the outcome of any legal proceedings that may be instituted against NFC or
+the Target Companies following the announcement of the Transaction Agreement and the Business Combination; (3) the inability to
+complete the Business Combination, including due to failure to obtain approval of the shareholders of NFC or other conditions to
+closing in the Transaction Agreement; (4) delays in obtaining or the inability to obtain necessary regulatory approvals (including
+approval from healthcare regulators) required to complete the Business Combination; (5) the receipt of an unsolicited offer from
+another party for an alternative business transaction that could interfere with the Business Combination; (6) the inability to
+obtain the listing of the ordinary shares of the post-acquisition company on The New York Stock Exchange or any alternative national
+securities exchange following the Business Combination; (7) the risk that the announcement and consummation of the Business Combination
+disrupts current plans and operations; (8) the ability to recognize the anticipated benefits of the Business Combination, which
+may be affected by, among other things, competition, the ability of the combined company to grow and manage growth profitably and
+retain its key employees; (9) costs related to the Business Combination; (10) changes in applicable laws or regulations; (11) the
+possibility that the Target Companies or New NFC may be adversely affected by other economic, business, and/or competitive factors;
+and (12) other risks and uncertainties indicated from time to time in the proxy statement relating to the Business Combination,
+including those under “Risk Factors” therein, and in NFC’s other filings with the SEC. NFC cautions that the
+foregoing list of factors is not exclusive. NFC cautions readers not to place undue reliance upon any forward-looking statements,
+which speak only as of the date made. NFC does not undertake or accept any obligation or undertaking to release publicly any updates
+or revisions to any forward-looking statements to reflect any change in its expectations or any change in events, conditions or
+circumstances on which any such statement is based.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report
+on Form 8-K shall not constitute a solicitation of a proxy, consent or authorization with respect to any securities or in respect
+of the Business Combination. This Current Report on Form 8-K shall also not constitute an offer to sell or the solicitation of
+an offer to buy any securities, nor shall there be any sale of securities in any states or jurisdictions in which such offer, solicitation
+or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering
+of securities shall be made except by means of a prospectus meeting the requirements of section 10 of the Securities Act, or an
+exemption therefrom.
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+    2.1*
+     
+    Transaction Agreement, dated as of July 30, 2019, by and among NFC, NFC Buyer Sub, Healthy Harmony, HH GP and the Sellers.
+
+    10.1
+     
+    Founder
+    Reinvestment Agreement, dated as of July 30, 2019, by and among NFC and the Lipson   Parties.
+
+    10.2
+     
+    Fosun Rollover Agreement, dated as of July 30, 2019, by and between NFC and Fosun Seller.
+
+    10.3
+     
+    Fosun Voting Undertaking, dated as of July 30, 2019, delivered by Fosun High Tech to NFC and HH GP.
+
+    10.4
+     
+    Form of Subscription Agreement, by and between NFC and certain institutions and accredited investors.
+
+    10.5
+     
+    Agreement, dated as of July 30, 2019, by and among Vivo, the Sponsor, NFC, Antony Leung and Carl Wu.
+
+    10.6
+     
+    Commitment Letter, dated June 14, 2019, by and between NF Unicorn and Shanghai Pudong Development Bank Putuo Sub-Branch.
+
+    10.7
+     
+    Form of Support Agreement, by and between HH GP and certain shareholders of NFC.
+
+     
+     
+     
+
+    *
+    Certain exhibits and schedules to this Exhibit have been omitted in accordance with Regulation S-K Item 601(a)(5). NFC agrees to furnish supplementally a copy of any omitted exhibit or schedule to the SEC upon its request.
+
+     
+     
+     
+     
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    NEW FRONTIER CORPORATION
+
+     
+     
+     
+
+     
+    By:
+    /s/ Carl Wu
+
+     
+     
+    Name: Carl Wu
+
+     
+     
+    Title: Chief Executive Officer
+
+     
+     
+     
+
+    Dated: July 30, 2019
+     
+     
+
+ 
+
+
+
+
+     
+    
+
+ 
+
+
+
+

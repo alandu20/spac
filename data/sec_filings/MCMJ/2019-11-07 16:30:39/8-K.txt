@@ -1,0 +1,382 @@
+
+8-K
+1
+f8k110419_meridamerger1.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+November 4, 2019
+
+ 
+
+MERIDA MERGER CORP. I
+
+(Exact Name of Registrant as Specified in
+Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39119
+     
+    84-2266022
+
+    (State or Other Jurisdiction
+     
+    (Commission
+     
+    (IRS Employer
+
+    of Incorporation)
+     
+    File Number)
+     
+    Identification No.)
+
+ 
+
+641 Lexington Avenue, 18th Floor
+
+New York, NY 10022
+
+(Address of Principal Executive Offices)
+(Zip Code)
+
+ 
+
+(917) 745-7085
+
+(Registrant’s Telephone Number, Including
+Area Code)
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed
+Since Last Report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+
+☐Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+☐Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+
+
+ 
+
+Securities registered pursuant to section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of Each Class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of common stock and one-half of one redeemable warrant
+     
+    MCMJU
+     
+    The Nasdaq Stock Market LLC
+
+    Common stock, par value $0.0001 per share
+     
+    MCMJ
+     
+    The Nasdaq Stock Market LLC
+
+    Redeemable warrants, exercisable for shares of common stock at an exercise price of $11.50 per share
+     
+    MCMJW
+     
+    The Nasdaq Stock Market LLC
+
+
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On November 4, 2019,
+the Registration Statement on Form S-1 (SEC File No. 333-234499) (the “Registration Statement”) relating to
+the initial public offering of units of Merida Merger Corp. I (the “Company”) was declared effective by the
+Securities and Exchange Commission (“SEC”).
+
+ 
+
+On November 4, 2019,
+the Company entered into an Underwriting Agreement and various other agreements filed as exhibits to the Registration Statement.
+The Company also filed an amended and restated certificate of incorporation with the Secretary of the State of Delaware. The material
+terms of such agreements and the amended and restated certificate of incorporation are fully described in the Company’s final
+prospectus, dated November 4, 2019 as filed with the SEC on November 5, 2019. This Current Report on Form 8-K is being filed solely
+to file such executed agreements and amended and restated certificate of incorporation.
+
+ 
+
+Item 5.03. Amendments to Certificate
+of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+The information set forth in Item
+1.01 is hereby incorporated by reference.
+
+ 
+
+Item
+9.01. Financial Statement and Exhibits.
+
+ 
+
+
+(d)Exhibits:
+
+
+ 
+
+
+
+    Exhibit
+     
+    Description
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement between the Company and EarlyBirdCapital, Inc., as representative of the underwriters.
+
+     
+     
+     
+
+    1.2
+     
+    Business Combination and Marketing Agreement between the Company and EarlyBirdCapital, Inc.
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation.
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement between Continental Stock Transfer & Trust Company and the Company.
+
+     
+     
+     
+
+    10.1
+     
+    Investment Management Trust Agreement between Continental Stock Transfer & Trust Company and the Company.
+
+     
+     
+     
+
+    10.2
+     
+    Stock Escrow Agreement between the Company, Continental Stock Transfer & Trust Company and the Company’s Initial Stockholder.
+
+     
+     
+     
+
+    10.3
+     
+    Registration Rights Agreement between the Company and the Company’s Initial Stockholder.
+
+     
+     
+     
+
+    10.4
+     
+    Administrative Services Agreement between the Company and Merida Manager III LLC.
+
+     
+     
+     
+
+    99.1
+     
+    Press Release, dated November 4, 2019.
+
+ 
+
+
+
+    1
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+Dated: November 7, 2019
+
+ 
+
+
+
+     
+    MERIDA MERGER CORP. I
+
+     
+     
+     
+
+     
+    By:
+    /s/ Peter Lee
+
+     
+    Name:  
+    Peter Lee
+
+     
+    Title:
+    President and Chief Financial Officer
+
+ 
+
+ 
+
+2
+
+
+
+ 
+
+
+
+
+
+

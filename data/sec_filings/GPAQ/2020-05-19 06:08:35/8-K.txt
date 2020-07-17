@@ -1,0 +1,548 @@
+
+8-K
+1
+ea122063-8k_gordonpointe.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+May 14, 2020
+
+ 
+
+GORDON POINTE ACQUISITION CORP.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38363
+     
+    82-1270173
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+780 Fifth Avenue South
+
+Naples, FL 34102
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (412) 960-4687
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+ 
+
+
+
+    ☐
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ☒
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    
+        Name of each exchange on
+        which registered
+
+    Units, each consisting of one share of Class A common stock, $0.0001 par value, and one Warrant
+     
+    GPAQU
+     
+    Nasdaq Capital Market
+
+    Class A common stock, $0.0001 par value per share
+     
+    GPAQ
+     
+    Nasdaq Capital Market
+
+    Warrants to purchase Class A common stock
+     
+    GPAQW
+     
+    Nasdaq Capital Market
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+Amendment No. 4 to Investment Management Trust Agreement
+
+
+ 
+
+On May 14, 2020, Gordon
+Pointe Acquisition Corp. (the “Company”) and Continental Stock Transfer & Trust Company (“Continental”)
+entered into Amendment No. 4 to the Investment Management Trust Agreement, dated as of January 24, 2018, as amended by Amendment
+No. 1 to the Investment Management Trust Agreement, dated as of July 26, 2019, Amendment No. 2 to the Investment Management Trust
+Agreement, dated as of January 24, 2020 and Amendment No. 3 to the Investment Management Trust Agreement, dated as of March 30,
+2020 (the “Trust Amendment”), pursuant to which the date on which Continental must liquidate the trust account which
+was established in connection with the Company’s initial public offering (the “IPO”), in the event the Company
+has not consummated its initial business combination, was extended from May 14, 2020 to June 15, 2020, plus an option for the Company
+to further extend for an additional 30 days to July 15, 2020 (the latest such date being referred to as the “Extended Date”).
+The Trust Amendment was approved by the Company’s stockholders at a Special Meeting of Stockholders held on May 14, 2020
+(the “Special Meeting”).
+
+ 
+
+The foregoing description
+of the Trust Amendment does not purport to be complete and is qualified in its entirety by reference to the full text of the Trust
+Amendment, a copy of which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.
+
+ 
+
+Item 5.03 Amendments to Articles of Incorporation or
+Bylaws; Change in Fiscal Year. 
+
+ 
+
+On May 14, 2020, the
+Company filed with the Secretary of State of the State of Delaware an amendment (the “Extension Amendment”) to the
+Company’s Amended and Restated Certificate of Incorporation, as previously amended, pursuant to which the date by which the
+Company must consummate its initial business combination was extended from May 14, 2020 to the Extended Date (the “Extension”).
+The Extension Amendment was approved by the Company’s stockholders at the Special Meeting and became effective upon the filing
+thereof with the Secretary of State of the State of Delaware.
+
+ 
+
+The foregoing description
+of the Extension Amendment does not purport to be complete and is qualified in its entirety by reference to the full text of the
+Extension Amendment, a copy of which is attached hereto as Exhibit 3.1 and is incorporated herein by reference.
+
+ 
+
+Item 5.07 Submission of Matters
+to a Vote of Security Holders. 
+
+ 
+
+The results of voting
+on the proposals submitted to a vote of the Company’s stockholders at the Special Meeting, held on May 14, 2020, were as
+follows:
+
+ 
+
+Proposal No. 1
+
+ 
+
+The Extension Amendment was approved as
+follows:
+
+ 
+
+
+
+    For
+     
+    Against
+     
+    Abstain
+     
+    Broker Non-Votes
+
+    5,863,406
+     
+    63,136
+     
+    0
+     
+    0
+
+ 
+
+Proposal No. 2
+
+ 
+
+The Trust Amendment was approved as follows:
+
+ 
+
+
+
+    For
+     
+    Against
+     
+    Abstain
+     
+    Broker Non-Votes
+
+    5,863,406
+     
+    63,136
+     
+    0
+     
+    0
+
+ 
+
+Item 7.01 Regulation FD Disclosure. 
+
+ 
+
+In connection with
+the Extension, stockholders elected to redeem 658,072 shares of the Company’s Class A common stock issued in the IPO, par
+value $0.0001 per share (the “public shares”). As of May 15, 2020, following such redemptions and the deposit of the
+initial Contribution described below, the amount of funds remaining in the trust account is approximately $31.06 million. Accordingly,
+the pro rata portion of the funds available is approximately $10.81 per public share. Further, following such redemptions, the
+Company had 5,998,444 shares of common stock issued and outstanding, consisting of 2,873,444 public shares and 3,125,000 Class
+F common shares.
+
+ 
+
+As indicated in the
+Company’s proxy materials relating to the Special Meeting, the Company’s sponsor had agreed that the sponsor would
+contribute to the Company, as a loan for deposit into the Company’s trust account, $0.04 for each public share that was not
+redeemed in connection with the stockholder vote to approve the extension of the deadline to June 15, 2020, plus an additional
+$0.04 per public share if the Company elects to further extend the deadline for 30 days to July 15, 2020 (each, a “Contribution”).
+Accordingly, on May 14, 2020, the Company’s sponsor delivered the first Contribution in the amount of $114,937.76 to the
+Company, which amount was deposited into the Company’s trust account. If the Company elects to further extend the deadline
+for an additional 30 days, the second Contribution will be deposited in the Trust Account within two business days prior to the
+beginning of such 30-day period.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+The information in
+this Item 7.01 is being furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor
+shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except
+as expressly set forth by specific reference in such filing.
+
+ 
+
+Additional Information
+
+ 
+
+In connection with
+the proposed business combination between the Company and HOF Village, LLC (“HOFV”), the Company’s wholly-owned
+subsidiary GPAQ Acquisition Holdings, Inc. (“Holdings”) has filed with the SEC Post-Effective Amendment No. 2 to Registration
+Statement on Form S-4, which was declared effective on March 24, 2020, for the Holdings securities to be issued to the security
+holders of the Company and the members of HOF Village Newco, LLC at the closing of the business combination, which includes a proxy
+statement/prospectus and other documents concerning the proposed business combination and related matters (the “Registration
+Statement and Merger Proxy Statement”). Investors and security holders are advised to read the Registration Statement
+and the Merger Proxy Statement, and amendments thereto and the definitive proxy statements, when available, which will contain
+important information about the proposed extension and the proposed business combination and the parties to it. The Registration
+Statement and definitive Merger Proxy Statement will be mailed to stockholders of the Company as of a record date to be established
+for voting on the proposed business combination. Stockholders will also be able to obtain copies of the Registration Statement
+and Merger Proxy Statement, without charge, at the SEC’s website at www.sec.gov or by directing a request to: Gordon Pointe
+Acquisition Corp., 780 Fifth Avenue South, Naples, FL 34102.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+Certain statements
+made herein are “forward-looking statements” within the meaning of the “safe harbor” provisions of the
+Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of words such as “anticipate”,
+“believe”, “expect”, “estimate”, “plan”, “outlook”, and “project”
+and other similar expressions that predict or indicate future events or trends or that are not statements of historical matters.
+Such forward-looking statements include timing of the proposed merger; the business plans, objectives, expectations and intentions
+of the parties once the transaction is complete, and Holding’s, the Company’s and HOFV’s estimated and future
+results of operations, business strategies, competitive position, industry environment and potential growth opportunities, relating
+to the acquired business. These forward-looking statements reflect the current analysis of existing information and are subject
+to various risks and uncertainties. As a result, caution must be exercised in relying on forward-looking statements. Due to known
+and unknown risks, our actual results may differ materially from our expectations or projections. The following factors, among
+others, could cause actual results to differ materially from those described in these forward-looking statements: the impact of
+the Coronavirus on GPAQ and HOFV, the occurrence of any event, change or other circumstances that could give rise to the termination
+of the Merger Agreement and the proposed transaction contemplated thereby; the inability to complete the transactions contemplated
+by the Merger Agreement due to the failure to obtain approval of the stockholders of the Company or other conditions to closing
+in the Merger Agreement; the outcome of any legal proceedings that have been, or will be, instituted against the Company or other
+parties to the Merger Agreement following announcement of the Merger Agreement and transactions contemplated therein; the ability
+of Holding’s to meet NASDAQ listing standards following the merger and in connection with the consummation thereof; the failure
+to obtain the financing arrangements necessary to complete the development of the project; the failure to achieve the assumptions
+underlying certain of the financial projections included within the investor presentation including, among others, securing the
+timely financing for, and achieving construction of, the second phase of the project within assumed time and financial budget,
+and achieving expected attendance and occupancy rates; risks that the proposed transaction disrupts current plans and operations
+and the potential difficulties in employee retention as a result of the announcement of the Merger Agreement and consummation of
+the transaction described therein; costs related to the proposed merger and the impact of the substantial indebtedness to be incurred
+to finance the consummation of the merger; changes in applicable laws or regulations; the ability of the combined company to meet
+its financial and strategic goals, due to, among other things, competition, the ability of the combined company to grow and manage
+growth profitability, maintain relationships with customers and retain its key employees; the possibility that the combined company
+may be adversely affected by other economic, business, and/or competitive factors; and other risks and uncertainties described
+herein, as well as those risks and uncertainties discussed from time to time in other reports and other public filings with the
+SEC by the Company and Holdings.
+
+  
+
+Participants in the Solicitation
+
+ 
+
+The Company, Holdings,
+HOFV, Newco and their respective directors, executive officers and other members of their management and employees, under SEC rules,
+may be deemed to be participants in the solicitation of proxies of the Company’s stockholders in connection with the proposed
+business combination. Investors and security holders may obtain more detailed information regarding the names, affiliations and
+interests in the Company’s directors in its Annual Report on Form 10-K for the fiscal year ended December 31, 2019, which
+was filed with the SEC on March 10, 2020, and also in the Registration Statement on Form S-4 filed with the SEC and declared effective
+on February 14, 2020, as amended by Post-Effective Amendment No. 2 to Registration Statement filed with the SEC and declared effective
+on March 24, 2020, which includes the proxy statement/prospectus of the Company for the proposed transaction. Information regarding
+the persons who may, under SEC rules, be deemed participants in the solicitation of proxies to the Company’s stockholders
+in connection with the proposed business combination, and information concerning the interests of the Company’s and Newco’s
+participants in the solicitation, which may, in some cases, be different than those of the Company’s and Newco’s equity
+holders generally, is set forth in the Post-Effective Amendment No. 2 to Registration Statement.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Non-Solicitation
+
+ 
+
+This communication
+is not a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities or in respect of the
+proposed transaction and shall not constitute an offer to sell or a solicitation of an offer to buy any securities, nor shall
+there be any sale of any such securities in any state or jurisdiction in which such offer, solicitation, or sale would be unlawful
+prior to registration or qualification under the securities laws of such state or jurisdiction. No offer of securities shall be
+made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended.
+
+ 
+
+ Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit
+    Number
+     
+    Description
+
+     
+     
+     
+
+    3.1
+     
+    Amendment No. 4 to Amended and Restated Certificate of Incorporation of Gordon Pointe Acquisition Corp.
+
+     
+     
+     
+
+    10.1
+     
+    Amendment No. 4, dated as of May 14, 2020, to the Investment Management Trust Agreement, dated as of January 24, 2018, as amended, by and between Gordon Pointe Acquisition Corp. and Continental Stock Transfer & Trust Company
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    GORDON POINTE ACQUISITION CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/ James J. Dolan
+
+     
+     
+    Name: James J. Dolan
+
+     
+     
+    Title: Chief Executive Officer
+
+     
+     
+     
+
+    Dated: May 19, 2020
+     
+     
+
+ 
+
+ 
+
+4
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+

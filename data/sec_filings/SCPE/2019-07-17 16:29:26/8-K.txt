@@ -1,0 +1,882 @@
+
+8-K
+1
+s002753x11_8k.htm
+8K
+
+
+  
+    
+    
+  
+
+  
+    
+      UNITED STATES
+    
+    SECURITIES AND EXCHANGE COMMISSION
+    Washington, D.C. 20549
+    
+      
+    
+    
+       FORM 8-K
+      
+        
+      CURRENT REPORT
+    
+    PURSUANT TO SECTION 13 OR 15(d)
+    OF THE SECURITIES EXCHANGE ACT OF 1934
+    
+    
+    Date of Report (Date of earliest event reported): July 11, 2019
+    
+      
+       
+      
+    
+    
+       SC Health Corporation
+    
+    (Exact name of registrant as specified in its charter)
+     
+    
+    
+      
+     
+    
+    
+
+        
+          
+            Cayman Islands
+          
+           
+          
+            001-38972
+          
+           
+          
+            N/A
+          
+        
+        
+          
+            (State or other jurisdiction of incorporation)
+          
+           
+          
+            (Commission File Number)
+          
+           
+          
+            (IRS Employer Identification No.)
+          
+        
+
+    
+     
+    
+    
+
+        
+          
+            108 Robinson Road #10-00
+            Singapore
+          
+           
+          
+            068900
+          
+        
+        
+          
+            (Address of principal executive offices)
+          
+           
+          
+            (Zip Code)
+          
+        
+
+    
+    
+    
+    +65 6438 1080
+    (Registrant’s telephone number, including area code)
+    
+    
+    Not Applicable
+    (Former name or former address, if changed since last report)
+    
+      
+    Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General
+      Instruction A.2. below):
+    
+    
+    
+
+        
+           
+          
+            ☐
+          
+          
+            Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            ☐
+          
+          
+            Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            ☐
+          
+          
+            Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            ☐
+          
+          
+            Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+          
+        
+
+    
+    
+    
+    Securities registered pursuant to Section 12(b) of the Act:
+    
+    
+    
+
+        
+          
+            Title of each class
+          
+          
+            Trading Symbol(s)
+          
+          
+            Name of each exchange on which registered
+          
+        
+        
+          
+            Units, each consisting of one Class A ordinary share, $0.0001 par value, and one half of one warrant
+          
+          
+            SCPE.U
+          
+          
+            New York Stock Exchange LLC
+          
+        
+        
+          
+            Class A ordinary shares, par value $0.0001 per share
+          
+          
+            SCPE
+          
+          
+            New York Stock Exchange LLC
+          
+        
+        
+          
+            Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
+          
+          
+            SCPE WS
+          
+          
+            New York Stock Exchange LLC
+          
+        
+
+    
+    
+    
+    Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+      Exchange Act of 1934 (§240.12b-2 of this chapter).
+    
+    
+    Emerging growth company ☒
+    
+    
+    If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+      standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+    
+      
+        
+    
+    Item 1.01 Entry into a Material Definitive Agreement.
+    
+    
+    On July 16, 2019, SC Health Corporation, a Cayman Islands exempted company (the “Company”), consummated its initial public offering (the “IPO”) of 15,000,000
+      units (the “Units”). Each Unit consists of one Class A ordinary share of the Company, par value $0.0001 per share (the “Class A Ordinary Shares”), and one-half of one redeemable warrant of the Company (“Warrant”). Each whole
+      Warrant entitles the holder thereof to purchase one Class A Ordinary Share for $11.50 per share. The Units were sold at a price of $10.00 per Unit, generating gross proceeds to the Company of $150,000,000.
+    
+    
+    In connection with the IPO, the Company entered into the following agreements, forms of which were previously filed as exhibits to the Company’s Registration Statement on
+      Form S-1 (File No. 333-232240) (as amended, the “Registration Statement”):
+    
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            Amended and Restated Memorandum and Articles of Association.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            an Underwriting Agreement, dated July 11, 2019, between the Company and Credit Suisse Securities (USA) LLC, as representative of the several underwriters.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            a Warrant Agreement, dated July 11, 2019, among the Company, American Stock Transfer & Trust Company, LLC (“AST”) and SC Health Holdings Limited, a Cayman Islands exempted
+              company (the “Sponsor”).
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            a Letter Agreement, dated July 11, 2019, among the Company, the Sponsor and each of the directors and executive officers of the Company.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            an Investment Management Trust Agreement, dated July 11, 2019, between the Company and AST, as trustee.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            a Registration Rights Agreement, dated July 11, 2019, among the Company, the Sponsor and the Holders (as defined therein).
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            a Private Placement Warrants Purchase Agreement, dated July 11, 2019, between the Company and the Sponsor.
+          
+        
+        
+           
+           
+           
+           
+        
+        
+           
+          
+            •
+          
+           
+          
+            an Administrative Services Agreement, dated July 11, 2019, between the Company and SIN Capital Group Pte. Ltd.
+          
+        
+
+    
+        
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          a Forward Purchase Agreement, dated July 11, 2019, between the Company and SC Health Group Limited, a Cayman Islands exempted company (“SC Health Group”). 
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          • 
+          
+           
+          
+            an Escrow Agreement, dated July 11, 2019, among the Company, AST, as escrow agent, and the Sponsor.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            an Indemnity Agreement, dated July 11, 2019, between the Company and David Sin.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            an Indemnity Agreement, dated July 11, 2019, between the Company and Angelo John Coloma.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            an Indemnity Agreement, dated July 11, 2019, between the Company and Hwei Lynn Lau.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            an Indemnity Agreement, dated July 11, 2019, between the Company and Lim Cheok Peng.
+          
+        
+
+    
+     
+    
+    
+
+        
+           
+          
+            •
+          
+           
+          
+            an Indemnity Agreement, dated July 11, 2019, between the Company and Frank Lavin.
+          
+        
+        
+           
+           
+           
+           
+        
+        
+           
+          
+            •
+          
+           
+          
+            an Indemnity Agreement, dated July 11, 2019, between the Company and Suresh Marimuthu.
+          
+        
+        
+           
+           
+           
+           
+        
+
+    
+    Item 3.02 Unregistered Sales of Equity Securities.
+    
+    
+    Simultaneously with the closing of the IPO, pursuant to the Private Placement Warrants Purchase Agreement, dated July 11, 2019, previously filed as Exhibit 10.4 to the
+      Registration Statement, the Company completed the private sale of 5,000,000 warrants (the “Private Placement Warrants”) to the Sponsor at a purchase price of $1.00 per Private Placement Warrant, generating gross proceeds to the Company of
+      $5,000,000. The Private Placement Warrants are identical to the Warrants sold as part of the Units in the IPO, except that the Sponsor has agreed not to transfer, assign or sell any of the Private Placement Warrants (except to certain permitted
+      transferees) until 30 days after the completion of the Company’s initial business combination. The Private Placement Warrants are also not redeemable by the Company so long as they are held by the Sponsor or its permitted transferees. No underwriting
+      discounts or commissions were paid with respect to such sale. The issuance of the Private Placement Warrants was made pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended.
+    
+      
+        
+    
+    
+    
+    Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+    
+    
+    On July 11, 2019, in connection with the IPO, Angelo John Coloma (the Company’s Chief Executive Officer), Dr. Lim Cheok Peng, Frank Lavin and Suresh
+      Marimuthu (the “New Directors” and, together with David Sin, the “Directors”) were appointed to the board of directors of the Company (the “Board”). Effective July 11, 2019, each of Dr. Lim Cheok Peng, Mr. Lavin and Mr. Marimuthu
+      was also appointed to the Board’s Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee, with Mr. Marimuthu serving as chair of the Audit Committee,  Dr. Lim serving as chair of the Compensation Committee and Mr.
+      Lavin serving as chair of the Nominating and Corporate Governance Committee.
+    
+    
+    Following the appointment of the New Directors, the Board is comprised of the three classes. The term of office of the first class of directors,
+      consisting of Mr. Coloma, will expire at the Company’s first annual meeting of shareholders. The term of office of the second class of directors, consisting of Mr. Sin and Mr. Lavin, will expire at the Company’s second annual meeting of shareholders.
+      The term of office of the third class of directors, consisting of Dr. Lim and Mr. Marimuthu, will expire at the Company’s third annual meeting of shareholders.
+    
+    
+    In July 2019, the Sponsor transferred 25,000 of the Company’s Class B ordinary shares to each of Dr. Lim Cheok Peng, Mr. Lavin and Mr. Marimuthu. The
+      Company will reimburse the Directors for reasonable out-of-pocket expenses incurred in connection with fulfilling their roles as directors.
+    
+    
+    Other than the foregoing, none of the Directors are party to any arrangement or understanding with any person pursuant to which they were appointed as
+      directors, nor are they party to any transactions required to be disclosed under Item 404(a) of Regulation S-K involving the Company.
+    
+    
+    Item 8.01. Other Events.
+    
+    
+    A total of $150,000,000, comprised of the proceeds from the IPO and the sale of the Private Placement Warrants, including $5,250,000 of the underwriters’
+      deferred discount, was placed in a U.S.-based trust at Deutsche Bank Trust Company Americas, maintained by AST, acting as trustee. Except with respect to interest earned on the funds held in the trust account that may be released to the Company to
+      pay its taxes, if any, the funds held in the trust account will not be released from the trust account until the earliest of: (i) the completion of the Company’s initial business combination; (ii) the redemption of any of the Company’s public shares
+      properly submitted in connection with a shareholder vote to amend the Company’s amended and restated memorandum and articles of association (A) to modify the substance or timing of the Company’s obligation to redeem 100% of its public shares if it
+      does not complete its initial business combination within 18 months from the closing of the IPO or (B) with respect to any other provisions relating to the rights of the Class A Ordinary Shares; and (iii) the redemption of the Company’s public shares
+      if it is unable to complete its initial business combination within 18 months from the closing of the IPO, subject to applicable law.
+    
+    
+    On July 11, 2019, the Company issued a press release announcing the pricing of the IPO, a copy of which is attached as Exhibit 99.1 to this Current
+      Report on Form 8-K.
+    
+    
+    As previously disclosed in the Registration Statement, the Company entered into a forward purchase agreement with SC Health Group, for the purchase of
+      5,000,000 Class A Ordinary Shares, plus an aggregate of 1,250,000 redeemable warrants to purchase one Class A Ordinary Share at $11.50 per share (“Forward Purchase Warrants”), for an aggregate purchase price of $50,000,000, or $10.00 per Class
+      A Ordinary Share, in a private placement to close concurrently with the closing of its initial business combination.
+    
+      
+        
+    
+    
+    
+    Item 9.01 Financial Statements and Exhibits.
+    
+    
+    (d) Exhibits. The following exhibits are filed with this Form 8-K:
+     
+    
+    
+
+        
+           
+           
+           
+        
+        
+          
+            Exhibit
+              No.
+          
+           
+          
+            
+              Description of Exhibits
+            
+          
+        
+        
+           
+           
+        
+        
+          
+            1.1
+          
+           
+          
+            Underwriting Agreement, dated July 11, 2019, between the Company and Credit Suisse Securities (USA) LLC, as representative of the several underwriters.
+          
+        
+        
+           
+           
+        
+        
+          
+            3.1
+          
+           
+          
+            Amended and Restated Memorandum and Articles of Association. 
+          
+        
+        
+           
+           
+        
+        
+          
+            4.1
+          
+           
+          
+            Warrant Agreement, dated July 11, 2019, among the Company, AST and the Sponsor. 
+          
+        
+        
+           
+           
+        
+        
+          
+            10.1
+          
+           
+          
+            Letter Agreement, dated July 11, 2019, among the Company, the Sponsor and each of the directors and executive officers of the Company. 
+          
+        
+        
+           
+           
+        
+        
+          
+            10.2
+          
+           
+          
+            Investment Management Trust Agreement, dated July 11, 2019, between the Company and AST, as trustee.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.3
+          
+           
+          
+            Registration Rights Agreement, dated July 11, 2019, among the Company, the Sponsor and the Holders (as defined therein).
+          
+        
+        
+           
+           
+        
+        
+          
+            10.4
+          
+           
+          
+            Private Placement Warrants Purchase Agreement, dated July 11, 2019, between the Company and the Sponsor.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.5
+          
+           
+          
+            Indemnity Agreement, dated July 11, 2019, between the Company and David Sin.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.6
+          
+           
+          
+            Indemnity Agreement, dated July 11, 2019, between the Company and Angelo John Coloma. 
+          
+        
+        
+           
+           
+        
+        
+          
+            10.7
+          
+           
+          
+            Indemnity Agreement, dated July 11, 2019, between the Company and Hwei Lynn Lau.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.8
+          
+           
+          
+            Indemnity Agreement, dated July 11, 2019, between the Company and Lim Cheok Peng.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.9
+          
+           
+          
+            Indemnity Agreement, dated July 11, 2019, between the Company and Frank Lavin.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.10
+          
+           
+          
+            Indemnity Agreement, dated July 11, 2019, between the Company and Suresh Marimuthu.
+          
+        
+        
+           
+           
+           
+        
+        
+          
+            10.11
+          
+           
+          
+            Administrative Services Agreement, dated July 11, 2019, between the Company and SIN Capital Group Pte. Ltd.
+          
+        
+        
+           
+           
+           
+        
+        
+          
+            10.12
+          
+           
+          
+            Forward Purchase Agreement, dated July 11, 2019, between the Company and SC Health Group Limited, a Cayman Islands exempted company.
+          
+        
+        
+           
+           
+           
+        
+        
+          
+            10.13
+          
+           
+          
+            Escrow Agreement, dated July 11, 2019, among the Company, AST, as escrow agent, and the Sponsor.
+          
+        
+        
+           
+           
+           
+        
+        
+          99.1
+          
+           
+          Press Release dated July 11, 2019. 
+          
+        
+
+    
+    
+    
+    
+      
+        
+    
+    SIGNATURE
+    
+    
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+     
+    
+    
+
+        
+           
+          
+            SC Health Corporation
+          
+        
+        
+           
+           
+        
+        
+          
+            Date: July 17, 2019
+          
+          
+            By:
+          
+          
+            
+              /s/ Angelo John Coloma
+            
+          
+        
+        
+           
+          
+            Name: Angelo John Coloma
+          
+        
+        
+           
+          
+            Title: Chief Executive Officer
+          
+        
+
+    
+    
+    
+    
+      
+  
+
+
+

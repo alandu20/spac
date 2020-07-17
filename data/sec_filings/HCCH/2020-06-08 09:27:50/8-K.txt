@@ -1,0 +1,989 @@
+
+8-K
+1
+ea122769-8k_hlacquisitions.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C.
+20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): June
+6, 2020
+
+ 
+
+HL ACQUISITIONS CORP. 
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    British Virgin Islands
+     
+    001-38563
+     
+    N/A
+
+    
+        (State or Other Jurisdiction
+        of Incorporation)
+     
+    
+        (Commission File Number)
+     
+    
+        (IRS Employer
+        Identification No.)
+
+ 
+
+
+
+    499 Park Avenue, 12th Floor
+New York, NY
+     
+    10022
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+
+
+ 
+
+Registrant’s telephone number, including area code:	(212)
+486-8100
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+ 
+
+
+☐Written communications pursuant to Rule 425 under the Securities Act
+(17 CFR 230.425)
+
+ 
+
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on
+which registered
+
+    Units, each consisting of one ordinary share, one right, and one redeemable warrant
+     
+    HCCHU
+     
+    The Nasdaq Stock Market LLC
+
+    Ordinary Shares, no par value
+     
+    HCCH
+     
+    The Nasdaq Stock Market LLC
+
+    Rights, each to receive one-tenth (1/10) of one ordinary share
+     
+    HCCHR
+     
+    The Nasdaq Stock Market LLC
+
+    Redeemable warrants, each exercisable for one ordinary share at an exercise price of $11.50 per share
+     
+    HCCHW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01 Entry into a Material Definitive Agreement.
+
+ 
+
+Business Combination
+
+ 
+
+On June 6, 2020, HL Acquisitions Corp.,
+a British Virgin Islands business company (“HL”) entered into a Business Combination Agreement (“Agreement”)
+with Fusion Welcome – Fuel, S.A., a public limited company domiciled in Portugal, sociedade anónima (the “Company”),
+Dolya Holdco 3 Limited, private limited company domiciled in Ireland (“Parent”), Fusion Fuel Atlantic Limited,
+a British Virgin Islands business company and wholly owned subsidiary of Parent (“Merger Sub”), and the shareholders
+of the Company (“Company Shareholders”). Pursuant to the Agreement, (i) Merger Sub will merge with and into
+HL (the “Merger”) with HL being the surviving entity of the Merger and becoming a wholly-owned subsidiary of
+Parent, followed immediately by (ii) the acquisition by Parent of all of the issued and outstanding shares of the Company (the
+“Share Exchange”, and together with the Merger, the “Transactions”).
+
+ 
+
+The Company focuses on “green”
+hydrogen production through the use of concentrated photovoltaic systems. The Company’s two principal lines of business include
+the sale, installation, operation, and maintenance of “green” hydrogen generators for clients and the development of
+“green” hydrogen plants with a view toward the sale of “green” hydrogen at pre-determined prices through
+purchase agreements.
+
+ 
+
+The Transactions are expected to be consummated
+in the third quarter of 2020, following receipt of the required approval by the HL shareholders and the fulfillment of other conditions.
+
+ 
+
+The following summary of the Agreement is
+qualified in its entirety by reference to the text of the Agreement. The Agreement is attached as an exhibit hereto and incorporated
+herein by reference.
+
+ 
+
+General
+
+ 
+
+Consideration
+
+ 
+
+Upon consummation of the Merger, (i) each
+HL ordinary share outstanding on the closing date will be converted into one Class A ordinary share of Parent (“Class
+A Ordinary Shares”), except that holders of HL ordinary shares sold in HL’s initial public offering will be entitled
+to elect instead to receive a pro rata portion of HL’s trust account, as provided in HL’s amended and restated memorandum
+and articles of association, (ii) each outstanding right of HL will be exchanged for one-tenth of one ordinary share of HL immediately
+prior to the effective time of the Merger, and each such ordinary share of HL will be converted into one Class A Ordinary Share,
+and (iii) each outstanding warrant of HL will remain outstanding and will entitle the holder to purchase one Class A Ordinary Share
+at a price of $11.50 per share (“HL Parent Warrant”).
+
+ 
+
+Upon consummation of the Share Exchange,
+the Company Shareholders will receive their pro rata portion of an aggregate of 2,125,000 Class B ordinary shares of Parent (“Class
+B Ordinary Shares”) and warrants (“Parent Warrants”) to purchase an aggregate of 2,125,000 Class A
+Ordinary Shares. The Class A Ordinary Shares and Class B Ordinary Shares will be identical, except that holders of Class B Ordinary
+Shares will have certain protective rights, including the right to approve any liquidation, sale of substantially all assets or
+equity, merger, consolidation, or similar transaction of Parent, amendments to Parent’s Memorandum and Articles of Association,
+the creation or issuance of any new class or series of capital stock or equity securities convertible into capital stock of Parent,
+changes to the size of Parent’s or the Company’s board of directors, and the removal of any member of the Company’s
+board of directors. Each Class B Ordinary Share is convertible at any time into one Class A Ordinary Share at the option of the
+holder and all outstanding Class B Ordinary Shares will automatically convert into an equal number of Class A Ordinary Shares on
+December 31, 2023. The Parent Warrants are identical to the HL Parent Warrants, except that they will not be redeemable by Parent
+and may be exercised for cash or on a cashless basis at the holder’s option as long as the Parent Warrants are held by Company
+Shareholders or their affiliates or permitted transferees.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+The Company Shareholders also will have
+the right to receive their pro rata portion of up to an aggregate of 1,137,000 Class A Ordinary Shares and Parent Warrants to purchase
+up to an aggregate of 1,137,000 Class A Ordinary Shares upon the signing of agreements for the production and supply by the Company
+or its affiliates of green hydrogen to certain purchasers (or, in the case of the first of such agreements, certain milestones
+with respect to performance under the agreement) prior to June 30, 2022. The total number of shares earnable for each such production
+agreement will be equal to twenty percent of the net present value of the agreement divided by €10.73, representing the aggregate
+agreed value of one Parent Class A Ordinary Share and one Parent Warrant.
+
+ 
+
+The Company Shareholders have agreed not
+to transfer the Class B Ordinary Shares or Parent Warrants issued in the Share Exchange (or the Class A Ordinary Shares issuable
+upon conversion or exercise, as applicable, thereof) except to certain permitted transferees, until one year after the consummation
+of the Transactions, or earlier upon the subsequent completion of a liquidation, merger, stock exchange, or similar transaction.
+
+ 
+
+Webber Research and Advisory provided to
+the HL board of directors its preliminary valuation of the business of the Company and its preliminary conclusion that the Company
+has a market value equal to at least 80% of the balance in HL’s trust account. Webber Research and Advisory will provide
+its final valuation prior to closing.
+
+ 
+
+Sponsor Agreement
+
+ 
+
+HL Acquisitions Holdings LLC, Metropolitan
+Capital Partners V, LLC, the Jeffrey Schwarz Children’s Trust, and, in the discretion of HL, any other persons holding ordinary
+shares or warrants of HL (the “Sponsors”) have agreed to enter into an agreement with Parent to forfeit 125,000
+ordinary shares and 125,000 warrants of HL upon the consummation of the Transactions.
+
+ 
+
+Exchange of Unit Purchase Options
+
+ 
+
+EarlyBirdCapital, Inc. (“EBC”)
+has agreed to enter into an amendment (“UPO Amendment”) on behalf of itself and the other holders of unit purchase
+options of HL issued in HL’s initial public offering to exchange the unit purchase options for 50,000 Class A Ordinary Shares
+at the closing of the Transactions.
+
+ 
+
+Indemnification
+
+ 
+
+The Agreement provides, subject to the limitations
+described below, for mutual indemnification by the Company Shareholders and HL for breaches of their respective representations,
+warranties and covenants. Claims for indemnification may be asserted once damages exceed a €750,000 threshold and will be
+reimbursable for damages in excess of such threshold. Claims for indemnification must be brought before the tenth business day
+after Parent files its annual report for the fiscal year ending December 31, 2021.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+To provide a source of funds for the Company
+Shareholders’ indemnification of HL, 212,500 Class B Ordinary Shares to be issued by Parent in the Share Exchange (the “Escrow
+Shares”) will be deposited into escrow with Continental Stock Transfer & Trust Company acting as escrow agent. To
+provide a source of funds for HL’s indemnification of the Company, Parent will reserve for issuance an additional 212,500
+Class A Ordinary Shares (the “Indemnification Pool”). Other than with respect to actual fraud, each of HL’s
+and the Company’s right to indemnification will be its sole remedy with respect to any and all claims for money damages arising
+out of or relating to the Agreement. The Escrow Shares will provide the sole source of funds for HL’s indemnification right
+and the Indemnification Pool will provide the sole source of funds for the Company’s indemnification right.
+
+ 
+
+Registration Rights Agreement
+
+ 
+
+Prior to the closing, Parent will enter
+into an agreement (“Registration Rights Agreement”) with the Company Shareholders pursuant to which the Company
+Shareholders will be granted certain rights to have registered, in certain circumstances, the resale under the Securities Act of
+1933, as amended (“Securities Act”), of the Parent Warrants, Class A Ordinary Shares, and Class A Ordinary Shares
+underlying the Parent Warrants to be held by the Company Shareholders, subject to certain conditions set forth therein.
+
+ 
+
+Shareholders Agreement
+
+ 
+
+Prior to the closing, Parent, the Company
+Shareholders, and the Sponsors will enter into an agreement (“Shareholders Agreement”) which provides the Company
+Shareholders the right to nominate up to four members of Parent’s board of directors and the Sponsors the right to nominate
+up to three members of Parent’s board of directors, each for a period of three years and classified into three separate classes
+of directors.
+
+ 
+
+Representations and Warranties
+
+ 
+
+The Agreement contains representations and
+warranties of HL, Parent, Merger Sub, the Company, and the Company Shareholders relating to, among other things, proper organization
+and similar corporate matters; capital structure of each constituent company; the authorization, performance and enforceability
+of the Agreement; licenses and permit; taxes; financial information and absence of undisclosed liabilities; holding of leases and
+ownership of real property, personal property, and intellectual property; contracts; title to, and condition of, assets; absence
+of certain changes; employee matters; compliance with laws; and absence of litigation.
+
+ 
+
+ Covenants
+
+
+
+ 
+
+The Agreement includes customary covenants
+of the parties with respect to their respective business operations prior to consummation of the Transactions, confidentiality
+and exclusivity, and efforts to satisfy conditions to the consummation of the Transactions.
+
+ 
+
+The Agreement also contains additional covenants
+of the parties, including, among others, covenants providing for (i) HL, Parent, and the Company to cooperate in the preparation
+of a registration statement on Form F-4 (“Registration Statement”) to register the Class A Ordinary Shares and
+HL Parent Warrants to be issued in the Merger and to include the proxy materials for the purpose of soliciting proxies from the
+holders of HL’s ordinary shares with respect to the approval of the Transactions, (ii) Parent to revise its memorandum and
+articles of association to change its name, convert from a private limited company to a public limited company, and incorporate
+certain corporate governance practices agreed to by the parties, (iii) Parent to adopt an incentive equity plan, (iv) the Company
+to enter into employment agreements with certain key employees, and (v) the Company’s waiver of claims against the trust
+fund established in connection with HL’s initial public offering.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+Conditions to Closing
+
+ 
+
+General Conditions
+
+ 
+
+Consummation of the Transactions is conditioned
+on approval of the Agreement and contemplated transactions by HL’s shareholders. In addition, the consummation of the transactions
+is conditioned upon, among other things:
+
+ 
+
+
+
+     
+    ●
+    no order, judgment, injunction, decree, writ, stipulation, determination or award, in each case, entered by or with any governmental authority or statute, rule or regulation that is in effect and prohibits or enjoins the consummation of the Transactions;
+
+ 
+
+
+
+     
+    ●
+    HL having at least $5,000,001 of net tangible assets remaining immediately prior to or upon the closing, after taking into account payments to holders of HL’s ordinary shares that properly demanded that HL redeem their ordinary shares for their pro rata share of the trust account;
+
+ 
+
+
+
+     
+    ●
+    no material adverse effect with respect to HL or the Company shall have occurred between the date of the Agreement and the closing;
+
+ 
+
+
+
+     
+    ●
+    the Registration Statement shall have become effective in accordance with the provisions of the Securities Act;
+
+ 
+
+
+
+     
+    ●
+    the Class A Ordinary Shares shall have been approved for listing on Nasdaq, subject to official notice thereof;
+
+ 
+
+
+
+     
+    ●
+    HL shall have received a valuation of the Company from a third-party valuation firm with expertise in valuing companies in the alternative energy or “green” hydrogen industry, determining that the fair market value of the Company as of the date of the Agreement is equal to at least 80% of the balance in HL’s trust account (excluding taxes payable);
+
+ 
+
+
+
+     
+    ●
+    Parent shall have entered into a composition agreement with the Irish Revenue Commissioners and a Special Eligibility Agreement for Securities with The Depository Trust Company with respect to the Company’s ordinary shares, Class A Ordinary Shares, Class B Ordinary Shares, HL Parent Warrants, and Parent Warrants, as applicable; and
+
+ 
+
+
+
+     
+    ●
+    the execution and delivery of the escrow agreement with respect to the Escrow Shares, the Registration Rights Agreement, and the other ancillary agreements (including, without limitation, a Memorandum and Articles of Association of Parent) required by the Agreement.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+Parent’s, Merger Sub’s,
+Company’s and Company Shareholders’ Conditions to Closing
+
+ 
+
+The obligations of Parent, Merger Sub, the
+Company, and the Company Shareholders to consummate the Transactions are also conditioned upon, among other things:
+
+ 
+
+
+
+     
+    ●
+    the accuracy of the representations and warranties of HL (subject to certain bring-down standards);
+
+ 
+
+
+
+     
+    ●
+    performance of the covenants of HL required by the Agreement to be performed on or prior to the closing;
+
+ 
+
+
+
+     
+    ●
+    HL having at least €22,800,000 in cash, net of disbursements to HL public shareholders who elect to have their ordinary shares converted to cash, tax obligations of HL prior to the closing, repayment of HL loans, payment to EBC under the Business Combination Marketing Agreement entered into between EBC and HL in connection with HL’s initial public offering, and certain transaction expenses of the parties, and together with any funds raised by or for the benefit of HL in financings prior to the closing (the “Minimum Cash Condition”);
+
+ 
+
+
+
+     
+    ●
+    the execution of the Shareholders Agreement; and
+
+ 
+
+
+
+     
+    ●
+    the execution of the Sponsor Agreement.
+
+ 
+
+HL’s Conditions to Closing
+
+ 
+
+The obligations of HL to consummate the
+business combination are also conditioned upon, among other things:
+
+ 
+
+
+
+     
+    ●
+    the accuracy of the representations and warranties of the Company, Company Shareholders, Parent, and Merger Sub (subject to certain bring-down standards);
+
+ 
+
+
+
+     
+    ●
+    performance of the covenants of the Company, Company Shareholders, Parent, and Merger Sub required by the Agreement to be performed on or prior to the closing;
+
+ 
+
+
+
+     
+    ●
+    the execution and delivery of the indemnification escrow agreement and amended warrant agreement; and
+
+ 
+
+
+
+     
+    ●
+    any outstanding insider loans from the Company to its insiders shall have been repaid by the insiders.
+
+ 
+
+
+Waivers
+
+ 
+
+Each party may waive any inaccuracies in
+the representations and warranties made to such party contained in the Agreement or in any document delivered pursuant to the Agreement
+and waive compliance with any agreements or conditions for the benefit of itself or such party contained in the Agreement or in
+any document delivered pursuant to the Agreement. Notwithstanding the foregoing, pursuant to HL’s current amended and restated
+memorandum and articles of association, HL cannot consummate the Transactions if it has less than $5,000,001 of net tangible assets
+remaining immediately prior to or upon the closing after taking into account payments to holders of HL ordinary shares that properly
+demanded that HL convert their ordinary shares for their pro rata share of the trust account.
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+ Termination
+
+
+
+ 
+
+The Agreement may be terminated
+as follows:
+
+ 
+
+
+
+     
+    ●
+    by mutual written consent of HL and the Company;
+
+ 
+
+
+
+     
+    ●
+    by either HL or the Company of the Transactions have not been consummated on or before January 2, 2021, provided that the right to terminate the Agreement will not be available to any party whose action or failure to act has been a principal cause of or primarily resulted in the failure of the Transactions to close on or before such date and such action or failure to act constitutes a breach of the Agreement;
+
+ 
+
+
+
+     
+    ●
+    by either HL or the Company if the other party has breached any of its covenants or representations and warranties in any material respect which cannot be cured or, if curable, and has not been cured within thirty days of the notice of an intent to terminate, provided that the terminating party is itself not in material breach;
+
+ 
+
+
+
+     
+    ●
+    by either HL or the Company if a governmental entity shall have issued an order, decree or ruling or taken any other action, in any case having the effect of permanently restraining, enjoining or otherwise prohibiting the business combination, which order, decree, judgment, ruling or other action is final and non-appealable;
+
+     
+     
+     
+
+     
+    ●
+    by either HL or the Company if, at the meeting of HL shareholders called to approve the Transactions, the Transactions fail to be approved by the required vote (subject to any adjournment or recess of the meeting);
+
+     
+     
+     
+
+     
+    ●
+    by either HL or the Company if HL has less than $5,000,001 of net tangible assets remaining immediately prior to or upon the closing of the Transactions, after taking into account payments to holders of HL ordinary shares that properly demanded that HL redeem their ordinary shares for their pro rata share of the trust account; or
+
+     
+     
+     
+
+     
+    ●
+    by the Company if the Minimum Cash Condition is not satisfied.
+
+ 
+
+Management of Parent after
+the Transactions
+
+ 
+
+After the Transactions, Parent’s board
+of directors will consist of seven directors, and, pursuant to the Shareholders Agreement, three of such directors will be appointed
+by the Sponsors, and four of such directors will be appointed by the Company Shareholders. The executive officers of the Company
+will retain their positions with the Company and will become officers of Parent after the closing.
+
+ 
+
+ Loans
+
+
+
+ 
+
+In May 2020, persons and entities affiliated
+with Jeffrey Schwarz, HL’s Chief Executive Officer, Jonathan Guss, a director of HL, and Key Family Holding Investimentos
+e Consultoria de Gestão Lda., a shareholder of the Company, loaned to the Company an aggregate of approximately $182,000
+for working capital purposes, including, potentially, contributions to the trust account established in connection with the Company’s
+initial public offering (the “Trust Account”) which contributions may be required in connection with the previously-disclosed
+extension of the date by which the Company has to consummate its initial business combination from March 2, 2020 to July 2, 2020.
+The loans were evidenced by promissory notes (“Notes”) which are non-interest bearing, non-convertible, and
+payable upon the consummation of the Company’s initial business combination. If a business combination is not consummated,
+the Notes will not be repaid by the Company and all amounts owed thereunder by the Company will be forgiven except to the extent
+that the Company has funds available to it outside of its Trust Account.
+
+ 
+
+The foregoing summary of the Notes is qualified
+in its entirety by reference to the text of the Notes, a form of which is filed as an exhibit hereto and incorporated by reference
+herein.
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+Item
+2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+ 
+
+The information relating to the Notes included
+in Item 1.01 is incorporated by reference in this item to the extent required herein.
+
+ 
+
+Item
+7.01 Regulation FD Disclosure.
+
+ 
+
+The information set forth below under this Item 7.01, including
+exhibits 99.1 and 99.2 attached hereto, is intended to be furnished and shall not be deemed “filed” for purposes of
+Section 18 of the Securities Exchange Act of 1934, as amended (“Exchange Act”) or otherwise subject to the liabilities
+of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except
+as expressly set forth by specific reference in such filing.
+
+ 
+
+Press Release
+
+ 
+
+Attached as Exhibit 99.1 to this Current Report on Form 8-K
+is the press release issued by the parties related to the proposed transactions.
+
+ 
+
+Investor Presentation
+
+ 
+
+Attached as Exhibit 99.2 to this Current Report on Form 8-K
+is the form of investor presentation to be used by HL in presentations to certain of its shareholders and other persons interested
+in purchasing shares of common stock of HL in connection with the proposed Transactions.
+
+ 
+
+Additional Information
+
+ 
+
+COMMENCING SHORTLY AFTER THE FILING OF THIS CURRENT REPORT ON
+FORM 8-K, HL INTENDS TO HOLD PRESENTATIONS FOR CERTAIN OF ITS SHAREHOLDERS, AS WELL AS OTHER PERSONS WHO MIGHT BE INTERESTED IN
+PURCHASING HL’S SECURITIES, IN CONNECTION WITH THE PROPOSED TRANSACTION WITH THE COMPANY, AS DESCRIBED IN THIS
+CURRENT REPORT ON FORM 8-K. THIS CURRENT REPORT ON FORM 8-K, INCLUDING SOME OR ALL OF THE EXHIBITS HERETO, MAY BE DISTRIBUTED TO
+PARTICIPANTS AT SUCH PRESENTATIONS.
+
+ 
+
+HL AND THE COMPANY AND THEIR RESPECTIVE DIRECTORS AND EXECUTIVE
+OFFICERS MAY BE DEEMED TO BE PARTICIPANTS IN THE SOLICITATION OF PROXIES OF HL’S SHAREHOLDERS IN CONNECTION WITH THE PROPOSED
+TRANSACTIONS UNDER SEC RULES. INVESTORS AND SECURITY HOLDERS MAY OBTAIN MORE DETAILED INFORMATION REGARDING THE NAMES AND INTERESTS
+IN THE PROPOSED TRANSACTIONS OF HL’S DIRECTORS AND OFFICERS IN HL’S FILINGS WITH THE SEC, INCLUDING HL’S ANNUAL
+REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED JUNE 30, 2019, WHICH WAS FILED WITH THE SEC ON SEPTEMBER 10, 2019. INFORMATION REGARDING
+THE PERSONS WHO MAY, UNDER SEC RULES, BE DEEMED PARTICIPANTS IN THE SOLICITATION OF PROXIES FROM HL’S SHAREHOLDERS IN CONNECTION
+WITH THE PROPOSED TRANSACTIONS WILL BE SET FORTH IN THE PROXY STATEMENT/PROSPECTUS FOR THE PROPOSED TRANSACTIONS THAT HL INTENDS
+TO FILE WITH THE SEC. ADDITIONAL INFORMATION REGARDING THE INTERESTS OF PARTICIPANTS IN THE SOLICITATION OF PROXIES IN CONNECTION
+WITH THE PROPOSED TRANSACTIONS WILL BE INCLUDED IN THE PROXY STATEMENT/PROSPECTUS.
+
+ 
+
+
+
+
+    7
+     
+    
+
+ 
+
+INVESTORS AND SECURITY HOLDERS OF HL AND THE COMPANY ARE URGED
+TO READ THE PRELIMINARY PROXY STATEMENT/PROSPECTUS AND DEFINITIVE PROXY STATEMENT/PROSPECTUS AND OTHER RELEVANT DOCUMENTS THAT
+WILL BE FILED WITH THE SEC CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION
+ABOUT THE PROPOSED TRANSACTIONS. HL’S DEFINITIVE PROXY STATEMENT/PROSPECTUS WILL BE MAILED TO SHAREHOLDERS OF HL AS OF A
+RECORD DATE TO BE ESTABLISHED FOR VOTING ON THE PROPOSED TRANSACTIONS, AND SECURITY HOLDERS WILL BE ABLE TO OBTAIN FREE COPIES
+OF THE PROXY STATEMENT/PROSPECTUS AND OTHER DOCUMENTS CONTAINING IMPORTANT INFORMATION ABOUT HL AND THE COMPANY, ONCE SUCH DOCUMENTS
+ARE FILED WITH THE SEC, THROUGH THE WEBSITE MAINTAINED BY THE SEC AT WWW.SEC.GOV. COPIES OF THE DOCUMENTS FILED WITH THE SEC BY
+HL, WHEN AND IF AVAILABLE, CAN BE OBTAINED FREE OF CHARGE BY DIRECTING A WRITTEN REQUEST TO HL ACQUISITIONS CORP., 499 PARK AVENUE,
+12TH FLOOR, NEW YORK, NY 10022.
+
+ 
+
+ADDITIONAL INFORMATION AND FORWARD-LOOKING STATEMENTS
+
+ 
+
+THIS CURRENT REPORT ON FORM 8-K AND THE EXHIBITS HERETO ARE
+NOT A PROXY STATEMENT OR SOLICITATION OF A PROXY, CONSENT OR AUTHORIZATION WITH RESPECT TO ANY SECURITIES OR IN RESPECT OF THE
+PROPOSED TRANSACTIONS AND SHALL NOT CONSTITUTE AN OFFER TO SELL OR A SOLICITATION OF AN OFFER TO BUY THE SECURITIES NOR SHALL THERE
+BE ANY SALE OF ANY SUCH SECURITIES IN ANY STATE OR JURISDICTION IN WHICH SUCH OFFER, SOLICITATION, OR SALE WOULD BE UNLAWFUL PRIOR
+TO REGISTRATION OR QUALIFICATION UNDER THE SECURITIES LAWS OF SUCH STATE OR JURISDICTION.
+
+ 
+
+THIS CURRENT REPORT ON FORM 8-K AND THE EXHIBITS HERETO INCLUDE
+“FORWARD-LOOKING STATEMENTS”. ACTUAL RESULTS MAY DIFFER FROM EXPECTATIONS, ESTIMATES AND PROJECTIONS AND, CONSEQUENTLY,
+YOU SHOULD NOT RELY ON THESE FORWARD LOOKING STATEMENTS AS PREDICTIONS OF FUTURE EVENTS. WORDS SUCH AS “EXPECT,” “ESTIMATE,”
+“PROJECT,” “BUDGET,” “FORECAST,” “ANTICIPATE,” “INTEND,” “PLAN,”
+“MAY,” “WILL,” “COULD,” “SHOULD,” “BELIEVES,” “PREDICTS,”
+“POTENTIAL,” “CONTINUE,” AND SIMILAR EXPRESSIONS ARE INTENDED TO IDENTIFY SUCH FORWARD-LOOKING STATEMENTS.
+
+ 
+
+NEITHER HL NOR THE COMPANY UNDERTAKE ANY OBLIGATION TO UPDATE
+OR REVISE ANY FORWARD-LOOKING STATEMENTS, WHETHER AS A RESULT OF NEW INFORMATION, FUTURE EVENTS OR OTHERWISE, EXCEPT AS REQUIRED
+BY LAW. IMPORTANT FACTORS, AMONG OTHERS, THAT MAY AFFECT ACTUAL RESULTS INCLUDE THE COMPANY’S ABILITY TO EXECUTE ON ITS BUSINESS
+PLANS AND THE COMPANY’S ESTIMATES OF EXPENSES AND FUTURE REVENUES AND PROFITABILITY. OTHER FACTORS INCLUDE THE POSSIBILITY
+THAT THE PROPOSED TRANSACTIONS DO NOT CLOSE, INCLUDING DUE TO THE FAILURE TO RECEIVE REQUIRED SECURITY HOLDER APPROVALS, OR THE
+FAILURE OF OTHER CLOSING CONDITIONS.
+
+ 
+
+
+
+
+    8
+     
+    
+
+ 
+
+THIS CURRENT REPORT ON FORM 8-K AND THE EXHIBITS HERETO ARE
+NOT INTENDED TO BE ALL-INCLUSIVE OR TO CONTAIN ALL THE INFORMATION THAT A PERSON MAY DESIRE IN CONSIDERING AN INVESTMENT IN HL
+AND ARE NOT INTENDED TO FORM THE BASIS OF ANY INVESTMENT DECISION IN HL.
+
+ 
+
+ADDITIONAL INFORMATION CONCERNING THESE AND OTHER RISK FACTORS
+WILL BE CONTAINED IN HL’S FILINGS WITH THE SEC. ALL SUBSEQUENT WRITTEN AND ORAL FORWARD-LOOKING STATEMENTS CONCERNING HL
+AND THE COMPANY, THE PROPOSED TRANSACTIONS OR OTHER MATTERS AND ATTRIBUTABLE TO HL OR ANY PERSON ACTING ON ITS BEHALF ARE EXPRESSLY
+QUALIFIED IN THEIR ENTIRETY BY THE CAUTIONARY STATEMENTS ABOVE. READERS ARE CAUTIONED NOT TO PLACE UNDUE RELIANCE UPON ANY FORWARD-LOOKING
+STATEMENTS, WHICH SPEAK ONLY AS OF THE DATE MADE. NEITHER HL NOR THE COMPANY UNDERTAKE OR ACCEPT ANY OBLIGATION OR UNDERTAKING
+TO RELEASE PUBLICLY ANY UPDATES OR REVISIONS TO ANY FORWARD-LOOKING STATEMENT TO REFLECT ANY CHANGE IN THEIR EXPECTATIONS OR ANY
+CHANGE IN EVENTS, CONDITIONS OR CIRCUMSTANCES ON WHICH ANY SUCH STATEMENT IS BASED, EXCEPT AS REQUIRED BY APPLICABLE LAW.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits:
+
+ 
+
+
+
+    Exhibit
+     
+    Description
+
+     
+     
+     
+
+    2.1
+     
+    Business Combination Agreement, dated as of June 6, 2020, by and among HL Acquisitions Corp., Fusion Welcome – Fuel, S.A., Dolya Holdco 3 Limited, Merger Sub Corp., and the shareholders of Fusion Welcome – Fuel, S.A.*
+
+    10.1
+     
+    Form of Promissory Note.
+
+    10.2
+     
+    List of Noteholders.
+
+    99.1
+     
+    Press Release dated June 8, 2020.
+
+    99.2
+     
+    Investor Presentation.
+
+ 
+
+* Certain exhibits and schedules to this Exhibit have been omitted
+in accordance with Regulation S-K Item 601(b)(2). HL agrees to furnish supplementally a copy of all omitted exhibits and schedules
+to the Securities and Exchange Commission upon its request.
+
+ 
+
+
+
+    9
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+    Dated: June 8, 2020
+    HL ACQUISITIONS CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/ Jeffrey E. Schwarz
+
+     
+     
+    Jeffrey E. Schwarz
+
+     
+     
+    Chief Executive Officer
+
+ 
+
+ 
+
+10
+
+ 
+
+
+
+
+
+

@@ -1,0 +1,3271 @@
+
+8-K
+1
+tm2021982d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+united
+states
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+June 3, 2020 
+
+ 
+
+Nikola
+Corporation
+
+ 
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware (State or Other Jurisdiction of 
+Incorporation)
+    001-38495 (Commission File Number)
+    82-4151153 (I.R.S. Employer Identification No.)
+
+
+ 
+
+
+
+    4141 E Broadway Road
+Phoenix, AZ
+    85040
+
+    (Address of principal executive offices)
+    (Zip Code)
+
+ 
+
+(480) 666-1038
+
+(Registrant’s telephone number,
+including area code)
+
+ 
+
+N/A
+
+(Former name or former address, if changed
+since last report.)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following
+provisions:
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240-13e-4(c))
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+ 
+
+
+
+    Title of each class
+    Trading symbol(s) 
+    Name of each exchange on which registered
+
+    Common Stock, $0.0001 par value per share
+    NKLA
+    The Nasdaq Stock Market LLC
+
+    Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share
+    NKLAW
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter)
+or Rule 12b–2 of the Securities Exchange Act of 1934 (§240.12b–2 of this chapter).
+
+Emerging
+growth company x
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. £
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+INTRODUCTORY
+NOTE
+
+ 
+
+ 
+
+Due to the large number of events reported under the specified items of Form 8-K, this Current Report on Form 8-K is being
+filed in two parts. An amendment to this Form 8-K is being submitted for filing on the same date to include additional matters under Items
+5.03 and 5.05 of Form 8-K.
+
+ 
+
+On June 3, 2020 (the
+ “Closing Date”), Nikola Corporation, a Delaware corporation (f/k/a VectoIQ Acquisition Corp. (“VectoIQ”))
+(the “Company”), consummated the previously announced merger pursuant to that certain Business Combination Agreement,
+dated March 2, 2020 (the “Business Combination Agreement”), by and among the VectoIQ, VCTIQ
+Merger Sub Corp., a wholly-owned subsidiary of VectoIQ incorporated in the State of Delaware (“Merger Sub”),
+and Nikola Subsidiary Corporation, a Delaware corporation (f/k/a Nikola Corporation)
+(“Legacy Nikola”).
+
+ 
+
+Pursuant to the terms
+of the Business Combination Agreement, a business combination between the Company and Legacy Nikola was effected through the merger
+of Merger Sub with and into Legacy Nikola, with Legacy Nikola surviving as the surviving company and as a wholly-owned subsidiary
+of VectoIQ (the “Merger” and, collectively with the other transactions described in the Business Combination
+Agreement, the “Business Combination”). On the Closing Date, the registrant changed its name from VectoIQ Acquisition
+Corp. to Nikola Corporation.
+
+ 
+
+Immediately
+prior to the effective time of the Merger (the “Effective Time”), each share of Legacy Nikola preferred
+stock that was issued and outstanding was automatically converted into a share of Legacy Nikola common stock, par value $0.00001
+per share (“Legacy Nikola Common Stock”), such that each converted share of Legacy Nikola preferred stock was
+no longer outstanding and ceased to exist, and each holder of Legacy Nikola preferred stock thereafter ceased to have any rights
+with respect to such securities. At the Effective Time, the holders of Legacy Nikola Common Stock received 1.901 shares (the “Exchange
+Ratio”) of the Company’s common stock, $0.0001 par value per share (the “Common Stock”), for
+each share of Legacy Nikola Common Stock.
+
+ 
+
+Each
+Legacy Nikola option that was outstanding immediately prior to the Effective Time, whether vested or unvested, was converted into
+an option to purchase a number of shares of Common Stock (such option, an “Exchanged Option”) equal to the product
+(rounded down to the nearest whole number) of (i) the number of shares of Legacy Nikola Common Stock subject to such Legacy
+Nikola option immediately prior to the Effective Time and (ii) the Exchange Ratio, at an exercise price per share (rounded
+up to the nearest whole cent) equal to (A) the exercise price per share of such Legacy Nikola option immediately prior to
+the Effective Time, divided by (B) the Exchange Ratio. Except as specifically provided in the Business Combination Agreement,
+following the Effective Time, each Exchanged Option continued to be governed by the same terms and conditions (including vesting
+and exercisability terms) as were applicable to the corresponding former Legacy Nikola option immediately prior to the Effective
+Time.
+
+ 
+
+A
+description of the Business Combination and the terms of the Business Combination Agreement are included in the proxy statement/prospectus/information
+statement filed with the Securities and Exchange Commission (the “SEC”) on May 8, 2020 (the “Proxy
+Statement”) in the sections entitled “The
+Business Combination” beginning on page 80 and “The
+Business Combination Agreement” beginning on page 95 of the Proxy Statement.
+
+ 
+
+On June 3, 2020, a
+number of purchasers (each, a “Subscriber”) purchased from the Company an
+aggregate of 52,500,000 shares of Common Stock (the “PIPE Shares”), for a purchase price of $10.00 per
+share and an aggregate purchase price of $525.0 million, pursuant to separate subscription agreements (each, a “Subscription
+Agreement”) entered into effective as of March 2, 2020. Pursuant to the Subscription Agreements, the Company gave certain
+registration rights to the Subscribers with respect to the PIPE Shares. The sale of PIPE Shares was consummated concurrently with
+the closing of the Business Combination (the “Closing”).
+
+ 
+
+A
+description of the Subscription Agreements is included in the Proxy Statement in the section entitled “Certain
+Agreements Related to the Business Combination—Subscription Agreements” on page 110 of the Proxy Statement.
+
+ 
+
+The
+foregoing descriptions of each of the Business Combination Agreement and the Subscription Agreements is a summary only and is qualified
+in their entirety by the full text of the Business Combination Agreement, a copy of which is attached hereto as Exhibit 2.1, and
+the Subscription Agreements, copies of which are attached hereto as Exhibit 10.l and Exhibit 10.2, and are incorporated
+herein by reference.
+
+ 
+
+
+
+
+     1 
+     
+    
+
+ 
+
+
+Item 1.01Entry into a Material Definitive Agreement.
+
+ 
+
+Registration Rights and Lock-Up Agreement
+
+ 
+
+In
+connection with the transactions contemplated by the Business Combination Agreement (the “Transactions”),
+on June 3, 2020, the Company, certain persons and entities holding founder shares and private units of the Company and certain
+stockholders of Legacy Nikola entered into a Registration Rights and Lock-Up Agreement (the “Registration Rights and Lock-Up
+Agreement”). The terms of the Registration Rights and Lock-Up Agreement are described in the Proxy Statement in the section
+entitled “Certain Agreements
+Related to the Business Combination—Registration Rights and Lock-Up Agreement” on page 109 of the Proxy Statement.
+In accordance with the terms of the Registration Rights and Lock-Up Agreement, on the Closing Date, 7,000,000 shares of Legacy
+Nikola Common Stock held by M&M Residual, LLC were redeemed at a purchase price of $10.00 per share (the “M&M
+Redemption”). Pursuant to the terms of the Registration Rights and Lock-Up Agreement, M&M Residual, LLC and T&M
+Residual, LLC will be permitted to sell or otherwise transfer up to $70.0 million of Common Stock commencing 180 days after the
+Closing Date.
+
+ 
+
+The
+foregoing description of the Registration Rights and Lock-Up Agreement is qualified in its entirety by the full text of
+the Registration Rights and Lock-Up Agreement, a copy of which was attached as Exhibit A to the Business Combination Agreement
+and is attached hereto as Exhibit 2.1 and incorporated herein by reference.
+
+ 
+
+Lock-Up Agreements
+
+ 
+
+In
+connection with the Transactions, on June 3, 2020, the Company and certain stockholders of Legacy Nikola and executives of the
+Company (the “Legacy Holders”) entered into a Lock-Up Agreement (each, a “Lock-Up Agreement”).
+The terms of the Lock-Up Agreements provide for the Common Stock held by the Legacy Holders to be locked-up for a period of 180
+days after the Closing Date, subject to certain exceptions, with certain stockholders being allowed to sell a certain number shares
+after 30 days and 90 days, respectively.
+
+ 
+
+The
+foregoing description of the Lock-Up Agreements is qualified in its entirety by the full text of the Lock-Up Agreements,
+copies of which are attached hereto as Exhibit 4.5 and Exhibit 4.6, and are incorporated herein by reference.
+
+ 
+
+Indemnification Agreements
+
+ 
+
+In
+connection with the Transactions, on June 3, 2020, the Company entered into indemnification agreements with each of its directors
+and executive officers. These indemnification agreements provide the directors and executive officers with contractual rights to
+indemnification and advancement for certain expenses, including attorneys’ fees, judgments,
+fines and settlement amounts incurred by a director or executive officer in any action or proceeding arising out of their services
+as one of the Company’s directors or executive officers or as a director or executive officer of any other company or enterprise
+to which the person provides services at the Company’s request.
+
+ 
+
+The
+foregoing description of the indemnification agreements is qualified in its entirety by the full text of the form of indemnification
+agreement, which is attached hereto as Exhibit 10.3 and incorporated herein by reference.
+
+ 
+
+
+Item 2.01Completion of Acquisition or Disposition of Assets.
+
+ 
+
+The disclosure set
+forth in the “Introductory Note” above is incorporated by reference into this Item 2.01.
+
+ 
+
+At
+a special meeting of stockholders held on June 2, 2020 in lieu of the 2020 annual meeting of stockholders of the Company (the “Special
+Meeting”), the Company’s stockholders approved the Business Combination. The Business Combination was completed
+on June 3, 2020.
+
+ 
+
+In
+connection with the Closing, (a) 1,499,700 shares of Legacy Nikola Series B preferred stock held by Nimbus Holdings LLC were
+repurchased by Legacy Nikola at a purchase price of $16.67 per share, immediately prior to the Effective Time and (b) the
+M&M Redemption occurred, immediately following the Effective Time.
+
+ 
+
+
+
+
+     2 
+     
+    
+
+ 
+
+As of the Closing Date
+and following the completion of the Business Combination, including the M&M Redemption, the Company had the following outstanding
+securities:
+
+ 
+
+
+·approximately 360,904,478 shares of Common Stock; and
+
+ 
+
+
+·approximately 23,890,000 warrants, each exercisable for one share of Common Stock at a price
+                                                                                                                              of $11.50 per share (the “Warrants”).
+
+ 
+
+FORM 10 INFORMATION
+
+ 
+
+Prior to the Closing,
+the Company was a shell company (as defined in Rule 12b-2 of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”)) with no operations, formed as a vehicle to effect a business combination with one or more operating businesses.
+After the Closing, the Company became a holding company whose only assets consist of equity interests in Legacy Nikola.
+
+ 
+
+Cautionary Note Regarding Forward-Looking
+Statements
+
+ 
+
+The
+Company makes forward-looking statements in this Current Report on Form 8-K and in documents incorporated herein by reference.
+All statements, other than statements of present or historical fact included in or incorporated by reference in this Current Report
+on Form 8-K, regarding the Company’s future financial performance, as well as the Company’s strategy, future operations,
+financial position, estimated revenues, and losses, projected costs, prospects, plans and objectives of management are forward-looking
+statements. When used in this Current Report on Form 8-K, the words “anticipate,”
+ “believe,” “continue,” “could,” “estimate,” “expect,” “intends,”
+ “may,” “might,” “plan,” “possible,” “potential,” “predict,”
+ “project,” “should,” “will,” “would” the negative of such terms and other
+similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such
+identifying words. These forward-looking statements are based on management’s current expectations,
+assumptions, hopes, beliefs, intentions and strategies regarding future events and are based on currently available information
+as to the outcome and timing of future events. The Company cautions you that these forward-looking statements are subject to all
+of the risks and uncertainties, most of which are difficult to predict and many of which are beyond the control of the Company,
+incident to its business.
+
+ 
+
+These
+forward-looking statements are based on information available as of the date of this Current Report on Form 8-K, and current expectations,
+forecasts and assumptions, and involve a number of risks and uncertainties. Accordingly, forward-looking statements in this Current
+Report on Form 8-K and in any document incorporated herein by reference should not be relied upon as representing the Company’s
+views as of any subsequent date, and the Company does not undertake any obligation to update forward-looking statements to reflect
+events or circumstances after the date they were made, whether as a result of new information, future events or otherwise, except
+as may be required under applicable securities laws.
+
+ 
+
+As a result of a number
+of known and unknown risks and uncertainties, the Company’s actual results or performance may be materially different from
+those expressed or implied by these forward-looking statements. Some factors that could cause actual results to differ include:
+
+ 
+
+
+·the Company’s ability to recognize the anticipated benefits of the Business Combination,
+which may be affected by, among other things, competition and the ability of the Company to grow and manage growth profitably following
+the Closing;
+
+ 
+
+
+·costs related to the Business Combination;
+
+ 
+
+
+·changes in applicable laws or regulations;
+
+ 
+
+
+·the outcome of any legal proceedings against the Company ;
+
+ 
+
+
+·the effect of the COVID-19 pandemic on the Company’s business;
+
+ 
+
+
+·the ability of the Company to execute its business model, including market acceptance of its planned
+products and services;
+
+ 
+
+
+
+
+     3 
+     
+    
+
+ 
+
+
+·the Company’s ability to raise capital;
+
+ 
+
+
+·the possibility that the Company may be adversely affected by other economic, business, and/or
+competitive factors; and
+
+ 
+
+
+·other risks and uncertainties set forth in the Proxy Statement in the section entitled “Risk
+Factors” beginning on page 32 of the Proxy Statement, which is incorporated herein by reference.
+
+ 
+
+Business and Properties
+
+ 
+
+The
+business and properties of VectoIQ and Legacy Nikola prior to the Business Combination are described in the Proxy Statement
+in the sections entitled “Information
+About VectoIQ” beginning on page 198 and “Information
+About Nikola” beginning on page 141 of the Proxy Statement, which are incorporated herein by reference.
+
+ 
+
+Legacy Nikola previously
+partnered with Ryder for truck distribution and maintenance. On May 29, 2020, Legacy Nikola and Ryder announced that they had mutually
+agreed to terminate their exclusive partnership with respect to the Company’s hydrogen electric semi-trucks.
+
+ 
+
+Risk Factors
+
+ 
+
+The
+risks associated with the Company’s business are described in the Proxy Statement in the section entitled “Risk
+Factors” beginning on page 32 of the Proxy Statement, which is incorporated herein by reference.
+
+ 
+
+Selected Historical Financial Information
+
+
+ 
+
+The selected
+historical consolidated financial information and other data for the years ended December 31, 2017, 2018 and 2019, and
+the selected consolidated balance sheet and other data as of December 31, 2018 and 2019 for Legacy Nikola are
+included in the Proxy Statement in the section entitled “Selected
+Historical Consolidated Financial Information of Nikola” beginning on page 25 of the Proxy Statement, which is
+incorporated herein by reference.
+
+ 
+
+Unaudited Consolidated Financial Statements
+
+ 
+
+The unaudited consolidated
+financial statements as of and for the three months ended March 31, 2020 of Legacy Nikola set forth in Exhibit 99.1 hereto have
+been prepared in accordance with U.S. generally accepted accounting principles and pursuant to the regulations of the SEC. The
+unaudited financial information reflects, in the opinion of management, all adjustments, consisting of normal recurring adjustments,
+considered necessary for a fair statement of Legacy Nikola’s financial position, results of operations and cash flows for
+the periods indicated. The results reported for the interim period presented are not necessarily indicative of results that may
+be expected for the full year.
+
+ 
+
+These
+unaudited consolidated financial statements should be read in conjunction with the historical
+audited consolidated financial statements of Legacy Nikola as of and for the year ended December 31, 2019 and the related
+notes included in the Proxy Statement, the section entitled “Nikola’s
+Management’s Discussion and Analysis of Financial Condition and Results of Operations” beginning on page 173 of
+the Proxy Statement and the section entitled “Management’s Discussion and Analysis of Financial Condition and Results
+of Operations” included herein.
+
+ 
+
+Unaudited Pro Forma Condensed Consolidated
+Combined Financial Information
+
+ 
+
+The
+unaudited pro forma condensed combined financial information of the Company as of and for the year ended December 31, 2019
+is included in the Proxy Statement in the section entitled “Unaudited
+Pro Forma Condensed Combined Financial Information” beginning on page 64 of the Proxy Statement, which is incorporated
+herein by reference.
+
+ 
+
+The unaudited pro forma
+condensed combined financial information of the Company as of and for the three months ended March 31, 2020 is set forth in Exhibit
+99.2 hereto and is incorporated herein by reference.
+
+ 
+
+
+
+
+     4 
+     
+    
+
+ 
+
+Management’s Discussion and Analysis
+of Financial Condition and Results of Operations 
+
+ 
+
+Management’s
+discussion and analysis of the financial condition and results of operation of Legacy Nikola prior to the Business Combination
+is included in the Proxy Statement in the section entitled “Nikola’s
+Management’s Discussion and Analysis of Financial Condition and Results of Operations” beginning on page 173 of
+the Proxy Statement, which is incorporated herein by reference.
+
+ 
+
+Management’s
+discussion and analysis of the financial condition and results of operation of the Company as of and for the three months ended
+March 31, 2020 is set forth below.
+
+ 
+
+The
+following discussion and analysis provides information which the Company’s management believes is relevant to an assessment
+and understanding of the Company’s consolidated results of operations and financial condition. The discussion should be read
+together with the consolidated financial statements and related notes and unaudited pro forma condensed financial information that
+are included elsewhere or incorporated by reference in this Current Report on Form 8-K. The discussion and analysis should also
+be read together with the Company’s audited consolidated financial statements and notes thereto included in the Company’s
+2019 annual financial statements included in the Proxy Statement. This discussion may contain forward-looking statements based
+upon current expectations that involve risks and uncertainties. The Company’s actual results may differ materially from those
+anticipated in these forward-looking statements as a result of various factors, including those set forth in the Proxy Statement
+in the section entitled “Risk
+Factors” beginning on page 32 of the Proxy Statement, or in other parts of this Current Report on Form 8-K. Unless the
+context otherwise requires, references in this “Management’s Discussion and Analysis of Financial Condition and Results
+of Operations” to “the Company” is intended to mean the business and operations of the Company and its consolidated
+subsidiaries.
+
+ 
+
+Overview
+
+ 
+
+The
+Company is a vertically integrated zero emissions transportation systems provider that designs and manufactures state of the art
+battery electric and hydrogen electric vehicles, electric vehicle drivetrains, energy storage systems, and hydrogen fueling stations.
+To date, the Company has been primarily focused on delivering zero emission class 8 semi-trucks to the commercial transportation
+sector in the U.S. and in Europe. The Company’s core product offering includes battery electric and hydrogen fuel cell electric
+trucks and hydrogen fuel.
+
+ 
+
+The
+Company operates in three business units: Truck, Energy and Powersports. The Truck business unit is developing and commercializing
+battery-electric vehicle (“BEV”) and hydrogen fuel cell electric vehicle
+(“FCEV”) class 8 trucks that provide environmentally friendly, cost-effective solutions to the short
+haul and long-haul trucking sector. The Energy business unit is developing and constructing a network of hydrogen fueling stations
+to meet hydrogen fuel demand for FCEV customers. The Powersports business unit is developing electric vehicle solutions for military
+and outdoor recreational applications.
+
+ 
+
+In 2019, Legacy Nikola
+partnered with Iveco S.p.A (“Iveco”), a subsidiary of CNH
+Industrial N.V. (“CNHI”), a leading European industrial vehicle manufacturing company. Together,
+the Company and Iveco are jointly developing cab over BEV
+and FCEV trucks for sale in the European market, which will be manufactured through a 50/50 owned joint venture in Europe.
+In April 2020, Legacy Nikola and Iveco entered into a series of agreements which established the joint venture, Nikola Iveco Europe
+B.V. The joint venture with Iveco provides the Company with the manufacturing infrastructure to build BEV trucks for the North
+American market prior to the completion of the Company’s planned greenfield manufacturing facility in Coolidge, Arizona.
+The operations of the joint venture are expected to commence in the third quarter of fiscal 2020.
+
+ 
+
+The Company plans to
+begin construction on its greenfield manufacturing facility in late 2020, and Iveco will contribute technical engineering and production
+support. Phase 1 of the greenfield manufacturing facility will be completed by the end of 2021, and the Company expects to start
+BEV production at the facility in 2022 and FCEV production in 2023.
+
+ 
+
+
+
+
+     5 
+     
+    
+
+ 
+
+To
+date, Legacy Nikola has financed its operations primarily through private placements of redeemable convertible preferred stock.
+From the date of its incorporation through March 31, 2020, Legacy Nikola has raised aggregate gross proceeds of approximately $435.1
+million from the issuance of redeemable convertible preferred stock, both for cash and in-kind contributions of services and intellectual
+property. Legacy Nikola incurred a net loss of $33.2 million and used $22.0 million in cash to fund its operations during the three
+months ended March 31, 2020.
+
+ 
+
+The
+Company expects both its capital and operating expenditures will increase significantly in connection with its ongoing activities,
+as the Company:
+
+ 
+
+
+·constructs manufacturing facilities and purchases related equipment;
+
+ 
+
+
+·commercializes its heavy-duty trucks and other products;
+
+ 
+
+
+·develops hydrogen fueling stations;
+
+ 
+
+
+·continues to invest in its technology;
+
+ 
+
+
+·increases its investment in marketing and advertising, sales, and distribution infrastructure for
+the Company’s products and services;
+
+ 
+
+
+·maintains and improves its operational, financial and management information systems;
+
+ 
+
+
+·hires additional personnel;
+
+ 
+
+
+·obtains, maintains, expands, and protects its intellectual property portfolio; and
+
+ 
+
+
+·operates as a public company.
+
+ 
+
+Comparability
+of Financial Information
+
+ 
+
+The
+Company’s results of operations and statements of assets and liabilities may not be comparable between periods as a result
+of the Business Combination.
+
+ 
+
+Business
+Combination and Public Company Costs
+
+ 
+
+The
+disclosure set forth in the “Introductory Note” above with respect to the completion of the Business Combination is
+incorporated by reference into this Item 2.01.
+
+ 
+
+Following
+the Closing, Legacy Nikola will be deemed the accounting predecessor of the Merger and the Company will be the successor registrant
+for SEC purposes, meaning that Legacy Nikola’s financial statements for previous periods will be disclosed in the Company’s
+future periodic reports filed with the SEC.
+
+ 
+
+The
+Merger is accounted for as a reverse recapitalization. Under this method of accounting, VectoIQ will be treated as the acquired
+company for financial statement reporting purposes. The most significant change in the successor’s future reported financial
+position and results are an increase in cash and cash equivalents (as compared to Legacy Nikola’s consolidated balance sheet
+at March 31, 2020) of approximately $628 million through the date of this filing as a result of the Merger and net proceeds from Series D convertible preferred
+stock, offset by payments for operations. Total non-recurring transaction costs are approximately
+$52.3 million, of which Legacy Nikola incurred approximately $6.6 million. In addition, stock options issued by Legacy Nikola’s
+Chief Executive Officer to certain employees were accelerated upon the Closing, which is a non-recurring expense of approximately
+$3.8 million for the three months ended June 30, 2020. The underlying Legacy Nikola Common Stock of these stock options are owned
+by Legacy Nikola’s Chief Executive Officer and are considered to be issued by the Company for accounting purposes. In addition,
+certain stock options vesting periods were accelerated due to the Merger and Legacy Nikola recorded an additional $8.1 million
+of expense during the three months ended June 30, 2020. The unaudited pro forma condensed combined financial information
+of the Company as of and for the three months ended March 31, 2020 is set forth in Exhibit 99.2 hereto.
+
+ 
+
+As
+a consequence of the Merger, Legacy Nikola is the successor to the Company, an SEC registered and Nasdaq listed company, which
+will require Legacy Nikola to hire additional personnel and implement procedures and processes to address public company regulatory
+requirements and customary practices. Legacy Nikola expects to incur additional annual expenses as a public company for, among
+other things, directors’ and officers’ liability insurance, director fees and additional internal and external accounting
+and legal and administrative resources, including increased audit and legal fees.
+
+ 
+
+
+
+
+     6 
+     
+    
+
+ 
+
+Key
+Factors Affecting Operating Results
+
+ 
+
+The
+Company believes that its performance and future success depend on several factors that present significant opportunities for the
+Company but also pose risks and challenges, including those set forth in the Proxy Statement in the section entitled “Risk
+Factors” beginning on page 32 of the Proxy Statement.
+
+ 
+
+Commercial
+Launch of Nikola heavy duty trucks and other products
+
+ 
+
+The
+Company expects to derive revenue from its BEV trucks in 2021 and FCEV trucks in 2023. Prior to commercialization, the Company
+must complete modification or construction of required manufacturing facilities, purchase and integrate related equipment and software,
+and achieve several research and development milestones. As a result, the Company will require substantial additional capital to
+develop its products and services and fund operations for the foreseeable future. Until the Company can generate sufficient revenue
+from product sales and hydrogen FCEV leases, it expects to finance its operations through a combination of existing cash on hand
+as a result of the Business Combination and PIPE, secondary public offerings, debt financings, collaborations, and licensing arrangements.
+The amount and timing of the Company’s future funding requirements will depend on many factors, including the pace and results
+of the Company’s development efforts. Any delays in the successful completion of the Company’s manufacturing facility
+will impact the Company’s ability to generate revenue.
+
+ 
+
+Customer
+Demand
+
+ 
+
+While
+not yet commercially available, the Company has received significant interest from potential customers. Going forward, the Company
+expects the size of its committed backlog to be an important indicator of its future performance.
+
+ 
+
+Basis
+of Presentation
+
+ 
+
+Currently,
+the Company conducts business through one operating segment. All long-lived assets are maintained in, and all losses are attributable
+to, the United States of America. A description of the Company’s operating segment is included in the Proxy Statement
+in the section entitled “Nikola
+Management’s Discussion and Analysis of Financial Condition and Results of Operations— Basis of Presentation”
+on page 175 of the Proxy Statement.
+
+ 
+
+Components
+of Results of Operations
+
+ 
+
+Revenues
+
+ 
+
+To
+date, Legacy Nikola has primarily generated revenues from services related to solar installation projects that are completed in
+one year or less. Solar installation projects are expected to be discontinued.
+
+ 
+
+Following
+the anticipated introduction of the Company’s products to the market, the Company expects the significant majority of its
+revenue to be derived from direct sales of BEV trucks starting in 2021 and from the bundled leases of FCEV trucks beginning in
+2023. The Company’s bundled lease offering is inclusive of the cost of the truck, hydrogen fuel and regularly scheduled maintenance.
+The Company expects the bundled leases to qualify for the “sales type lease” accounting under GAAP, with the sale of
+the truck recognized upon the transfer of the title, and hydrogen fuel and maintenance revenues recognized over time as they are
+being provided to the customer.
+
+ 
+
+
+
+
+     7 
+     
+    
+
+ 
+
+Cost
+of Revenues
+
+ 
+
+To
+date, Legacy Nikola’s cost of revenues has included materials, labor, and other direct costs related to solar installation
+projects.
+
+ 
+
+Once
+the Company has reached commercial production, cost of revenues will include direct parts, material and labor costs, manufacturing
+overhead, including amortized tooling costs and depreciation of the Company’s greenfield manufacturing facility, depreciation
+of the Company’s hydrogen fueling stations, cost of hydrogen production, shipping and logistics costs and reserves for estimated
+warranty expenses.
+
+ 
+
+Research
+and Development Expense
+
+ 
+
+Research
+and development expenses consist primarily of costs incurred for the discovery and development of the Company’s vehicles,
+which include:
+
+ 
+
+
+·Fees paid to third parties such as consultants and contractors for outside development;
+
+ 
+
+
+·Expenses related to materials, supplies and third-party services;
+
+ 
+
+
+·Personnel related expenses, including salaries, benefits, and stock-based compensation expense,
+for personnel in the Company’s engineering and research functions;
+
+ 
+
+
+·Depreciation for prototyping equipment and research and development facilities.
+
+ 
+
+During
+the three months ended March 31, 2020, Legacy Nikola’s research and development expenses were primarily incurred in the development
+of the BEV and FCEV trucks.
+
+ 
+
+As
+a part of its in-kind investment into the Company, Iveco is providing the Company with $100.0 million in advisory services (based
+on pre negotiated hourly rates), including project coordination, drawings, documentation support, engineering support, vehicle
+integration, and product validation support. Those services are expected to be consumed primarily in 2020 and 2021 and will be
+recorded as research and development expense until the Company reaches commercial production.
+
+ 
+
+The
+Company expects its research and development costs to increase for the foreseeable future as it continues to invest in research
+and develop activities to achieve its technology and product roadmap goals.
+
+ 
+
+Selling,
+General, and Administrative Expense
+
+ 
+
+Selling,
+general, and administrative expenses consist of personnel related expenses for the Company’s corporate, executive, finance,
+and other administrative functions, expenses for outside professional services, including legal, audit and accounting services,
+as well as expenses for facilities, depreciation, amortization, travel, and marketing costs. Personnel related expenses consist
+of salaries, benefits, and stock-based compensation.
+
+ 
+
+The
+Company expects its selling, general, and administrative expenses to increase for the foreseeable future as the Company scales
+headcount with the growth of its business, and as a result of operating as a public company, including compliance with the rules
+and regulations of the SEC, legal, audit, additional insurance expenses, investor relations activities, and other administrative
+and professional services.
+
+ 
+
+Interest
+Income (Expense), net
+
+ 
+
+Interest
+income (expense) consists primarily of interest received or earned on the Company’s cash and cash equivalents balances. Interest
+expense consists of interest paid on the Company’s equipment term loan and financing lease.
+
+ 
+
+
+
+
+     8 
+     
+    
+
+ 
+
+Loss
+on Forward Contract Liability
+
+ 
+
+The
+loss on forward contract liability includes losses from the remeasurement of Legacy Nikola’s Series D redeemable convertible
+preferred share forward contract liability. In April 2020, Legacy Nikola fulfilled the forward contract liability and, therefore,
+subsequent to June 30, 2020, there will not be any impact from the remeasurement of the forward contract liability.
+
+ 
+
+Other
+Income, net
+
+ 
+
+Other
+income consists primarily of other miscellaneous non-operating items, such as government grants, subsidies, and merchandising.
+
+ 
+
+Income
+Tax Expense
+
+ 
+
+The
+Company’s income tax provision consists of an estimate for U.S. federal and state income taxes based on enacted rates, as
+adjusted for allowable credits, deductions, uncertain tax positions, changes in deferred tax assets and liabilities, and changes
+in the tax law. Due to cumulative losses, the Company maintains a valuation allowance against its U.S. and state deferred tax assets.
+Cash paid for income taxes, net of refunds during the three months ended March 31, 2020 and 2019 was not material.
+
+ 
+
+Results
+of Operations
+
+ 
+
+Comparison
+of Three Months Ended March 31, 2020 to Three Months Ended March 31, 2019
+
+ 
+
+The
+following table sets forth Legacy Nikola’s historical operating results for the periods indicated:
+
+ 
+
+
+
+      
+    Three Months Ended March 31,  
+    $  
+    % 
+
+      
+    2020  
+    2019  
+    Change  
+    Change 
+
+      
+    (dollar amounts in thousands) 
+
+    Revenues 
+    $58  
+    $124  
+    $(66) 
+    (53.2)%
+
+    Cost of revenues 
+     43  
+     62  
+     (19) 
+     (30.6)
+
+    Gross profit 
+     15  
+     62  
+     (47) 
+     (75.8)
+
+    Operating expenses: 
+        
+        
+        
+       
+
+    Research and development  
+     24,053  
+     23,397  
+     656  
+     2.8 
+
+    Selling, general, and administrative 
+     7,978  
+     6,501  
+     1,477  
+     22.7 
+
+    Total operating expenses 
+     32,031  
+     29,898  
+     2,133  
+     7.1 
+
+    Loss from operations 
+     (32,016) 
+     (29,836) 
+     (2,180) 
+     (7.3)
+
+    Other income (expense): 
+        
+        
+        
+       
+
+    Interest income, net  
+     64  
+     333  
+     (269) 
+     (80.8)
+
+    Loss on Series A redeemable convertible preferred stock warrant liability 
+     —  
+     (593) 
+     593  
+     NM 
+
+    Loss on forward contract liability 
+     (1,324) 
+     —  
+     (1,324) 
+     NM 
+
+    Other income, net 
+     114  
+     1  
+     113  
+     NM 
+
+    Loss before income taxes 
+     (33,162) 
+     (30,095) 
+     (3,067) 
+     (10.2)
+
+    Income tax expense  
+     1  
+     2  
+     (1) 
+     NM 
+
+    Net loss 
+     (33,163) 
+     (30,097) 
+     (3,066) 
+     (10.2)
+
+    Net loss per share to common stockholders, basic and diluted 
+    $(0.55) 
+    $(0.50) 
+    $(0.05) 
+     NM 
+
+    Weighted-average shares used to compute net loss per share to common stockholders, basic and diluted 
+     60,167,749  
+     60,166,667  
+     1,082  
+     NM 
+
+
+ 
+
+
+
+
+     9 
+     
+    
+
+ 
+
+Revenues
+
+ 
+
+Legacy
+Nikola’s total revenue decreased by $66 thousand or 53.2% from $124 thousand during the three months ended March 31, 2019
+to $58 thousand during the three months ended March 31, 2020. The decrease in revenue was related to a decrease in solar installation
+services.
+
+ 
+
+Cost
+of Revenues
+
+ 
+
+Legacy
+Nikola’s cost of revenues decreased by $19 thousand or 30.6% from $62 thousand during the three months ended March 31, 2019
+to $43 thousand during the three months ended March 31, 2020, due to a decrease in related revenues.
+
+ 
+
+Research
+and Development
+
+ 
+
+Legacy
+Nikola’s research and development expenses increased by $0.7 million or 2.8% from $23.4 million during the three months ended
+March 31, 2019 to $24.1 million during the three months ended March 31, 2020. This increase was primarily from higher personnel
+costs driven by increased engineering headcount, and depreciation costs primarily driven by the depreciation of the new HQ facility.
+This was primarily offset from lower spend on purchased components due to preparation for Nikola World in 2019.
+
+ 
+
+Selling,
+General, and Administrative
+
+ 
+
+Legacy
+Nikola’s selling, general, and administrative expenses increased by $1.5 million or 22.7% from $6.5 million during the three
+months ended March 31, 2019 to $8.0 million during the three months ended March 31, 2020. The increase was primarily related to
+higher personnel expenses driven by growth in headcount and higher general corporate expenses, including depreciation of the Company’s
+new headquarters in Phoenix, Arizona. This was partially offset by a decrease in marketing costs from Nikola World in 2019.
+
+ 
+
+Interest
+Income, net
+
+ 
+
+Legacy
+Nikola’s interest income, net decreased by $0.2 million or 80.5%, from $0.3 million during the three months ended March 31,
+2019 to $0.1 million during the three months ended March 31, 2020. The decrease is primarily due to increased interest expense
+from Legacy Nikola’s financing lease and a decrease in average cash and cash equivalents balance, offset by a higher interest
+rate earned on deposits.
+
+ 
+
+Loss
+on Forward Contract Liability
+
+ 
+
+Legacy
+Nikola’s loss on Series D redeemable convertible preferred stock forward contract liability represents the recognized loss
+from a $1.3 million change in fair value as of March 31, 2020.
+
+ 
+
+Other
+Income, net
+
+ 
+
+Legacy
+Nikola’s other income, net increased by $0.1 million, from $1 thousand during the three months ended March 31, 2019 to $0.1
+million during the three months ended March 31, 2020. The increase was primarily related to subcontracting work performed on government
+contracts.
+
+ 
+
+Income
+Tax Expense 
+
+ 
+
+Legacy
+Nikola’s income tax expense was immaterial for the three months Ended March 31, 2020 and 2019. Legacy Nikola has accumulated
+net operating losses at the federal and state level and maintain a full valuation allowance against Legacy Nikola’s net deferred
+taxes.
+
+ 
+
+
+
+
+     10 
+     
+    
+
+ 
+
+Non-GAAP
+Financial Measures
+
+ 
+
+In
+addition to Legacy Nikola’s results determined in accordance with GAAP, the Company believes the following non-GAAP measure
+is useful in evaluating its operational performance. The Company uses the following non-GAAP financial information to evaluate
+its ongoing operations and for internal planning and forecasting purposes. The Company believes that non-GAAP financial information,
+when taken collectively, may be helpful to investors in assessing its operating performance.
+
+ 
+
+EBITDA
+and Adjusted EBITDA
+
+ 
+
+“EBITDA”
+is defined as net loss before other non-operating expense or income, income tax expense or benefit, and depreciation and amortization.
+ “Adjusted EBITDA” is defined as EBITDA adjusted for stock-based compensation and other special items determined by
+management. Adjusted EBITDA is intended as a supplemental measure of its performance that is neither required by, nor presented
+in accordance with, GAAP. The Company believes that the use of EBITDA and Adjusted EBITDA provides an additional tool for investors
+to use in evaluating ongoing operating results and trends and in comparing the Company’s financial measures with those of
+comparable companies, which may present similar non GAAP financial measures to investors. However, you should be aware that when
+evaluating EBITDA and Adjusted EBITDA the Company may incur future expenses similar to those excluded when calculating these measures.
+In addition, the Company’s presentation of these measures should not be construed as an inference that the Company’s
+future results will be unaffected by unusual or non-recurring items. The Company’s computation of Adjusted EBITDA may not
+be comparable to other similarly titled measures computed by other companies, because all companies may not calculate Adjusted
+EBITDA in the same fashion.
+
+ 
+
+Because
+of these limitations, EBITDA and Adjusted EBITDA should not be considered in isolation or as a substitute for performance measures
+calculated in accordance with GAAP. The Company compensates for these limitations by relying primarily on the Company’s GAAP
+results and using EBITDA and Adjusted EBITDA on a supplemental basis. You should review the reconciliation of net loss to EBITDA
+and Adjusted EBITDA below and not rely on any single financial measure to evaluate the Company’s business.
+
+ 
+
+The
+following table reconciles net loss to EBITDA and Adjusted EBITDA for the three months ended March 31, 2020 and 2019:
+
+ 
+
+
+
+      
+    Three Months Ended March 31, 
+
+      
+    2020  
+    2019 
+
+      
+    (in thousands) 
+
+    Net loss 
+    $(33,163) 
+    $(30,097)
+
+    Interest income, net  
+     (64) 
+     (333)
+
+    Income tax expense  
+     1  
+     2 
+
+    Depreciation and amortization 
+     1,351  
+     196 
+
+    EBITDA 
+     (31,875) 
+     (30,232)
+
+    Stock-based compensation 
+     1,313  
+     1,153 
+
+    Loss on Series A redeemable convertible preferred stock warrant liability  
+     —  
+     593 
+
+    Loss on forward contract liability 
+     1,324  
+     — 
+
+    Adjusted EBITDA 
+    $(29,238) 
+    $(28,486)
+
+
+ 
+
+Liquidity
+and Capital Resources
+
+ 
+
+Since
+inception, Legacy Nikola has financed its operations primarily from the sales of redeemable convertible preferred stock. As of
+March 31, 2020, Legacy Nikola’s principal sources of liquidity were Legacy Nikola’s cash and cash equivalents in the
+amount of $75.5 million, which are primarily invested in money market funds.
+
+ 
+
+
+
+
+     11 
+     
+    
+
+ 
+
+Short-Term
+Liquidity Requirements
+
+ 
+
+As
+of the date of this Current Report on From 8-K, Legacy Nikola has yet to generate any material revenues from its business operations.
+As of March 31, 2020, Legacy Nikola’s current assets were $101.2 million consisting primarily of cash and restricted cash
+of $79.6 million, and Legacy Nikola’s current liabilities were $30.5 million primarily comprised of accrued expenses, accounts
+payables and a $4.1 million equipment term note.
+
+ 
+
+In connection with
+the June 3, 2020 Business Combination and PIPE transactions The Company raised gross proceeds of $763.2 million, incurring $52.3
+million in transaction fees, for net proceeds of $710.9 million. Net proceeds excludes payments for redemptions of M&M Residual for $70.0 million and repurchase of Nimbus Series B convertible
+redeemable preferred shares for $25.0 million.
+
+ 
+
+As a result of these
+transactions, as of June 3, 2020 the Company had a cash and cash equivalents balance of approximately $729.4 million. The Company
+believes this will be sufficient to continue to execute its business strategy over the next twelve to eighteen month period by
+(i) completing the development and industrialization of the Nikola Tre BEV truck, (ii) completing phase one construction of the
+greenfield manufacturing facility, (iii) completing the construction of a pilot commercial hydrogen station and (iv) hiring of
+personnel.
+
+ 
+
+However,
+actual results could vary materially and negatively as a result of a number of factors, including:
+
+ 
+
+
+·the costs of building Phase 1 of the Company’s greenfield manufacturing facility and equipment;
+
+ 
+
+
+·the timing and the costs involved in bringing the Company’s vehicles to market, mainly the
+Nikola Tre BEV truck;
+
+ 
+
+
+·the Company’s ability to manage the costs of manufacturing the Nikola Tre BEV trucks;
+
+ 
+
+
+·the scope, progress, results, costs, timing and outcomes of the Company’s research and development
+for its fuel cell trucks;
+
+ 
+
+
+·the costs of maintaining, expanding and protecting the Company’s intellectual property portfolio,
+including potential litigation costs and liabilities;
+
+ 
+
+
+·revenues received from sales of the Nikola Tre BEV trucks in 2021;
+
+ 
+
+
+·the costs of additional general and administrative personnel, including accounting and finance,
+legal and human resources, as a result of becoming a public company;
+
+ 
+
+
+·the Company’s ability to collect revenues; and
+
+ 
+
+
+·other risks discussed in the Proxy Statement in the section entitled “Risk
+Factors” beginning on page 32 of the Proxy Statement.
+
+ 
+
+Long-Term
+Liquidity Requirements
+
+ 
+
+The
+capital raised in the Business Combination will not be sufficient to cover forecasted capital needs and operating expenditures
+in fiscal year 2022 through fiscal year 2024. Until the Company can generate sufficient revenue from BEV truck sales and FCEV leases
+to cover operating expenses, working capital and capital expenditures, the Company expect to fund cash needs through a combination
+of equity and debt financing, including lease securitizations. If the Company raises funds by issuing equity securities,
+dilution to stockholders may result. Any equity securities issued may also provide for rights, preferences or privileges senior
+to those of holders of Common Stock. If the Company raises funds by issuing debt securities, these debt securities would have rights,
+preferences and privileges senior to those of holders Common Stock. The terms of debt securities or borrowings could impose significant
+restrictions on the Company’s operations. The credit market and financial services industry have in the past, and may in
+the future, experience periods of upheaval that could impact the availability and cost of equity and debt financing.
+
+ 
+
+If
+adequate funds are not available, The Company will need to curb its expansion plans or limit the Company’s research and development
+activities, which would have a material adverse impact on the Company’s business prospects and results of operations.
+
+ 
+
+
+
+
+     12 
+     
+    
+
+ 
+
+The
+following table provides a summary of cash flow data (in thousands):
+
+ 
+
+
+
+      
+    Three Months Ended March 31, 
+
+      
+    2020  
+    2019 
+
+      
+    (in thousands) 
+
+    Net cash used in operating activities 
+    $(22,047) 
+    $(32,162)
+
+    Net cash used in investing activities 
+     (1,439) 
+     (9,863)
+
+    Net cash provided by financing activities 
+     13,301  
+     — 
+
+
+ 
+
+Cash
+Flows from Operating Activities
+
+ 
+
+Legacy
+Nikola’s cash flows from operating activities are significantly affected by the growth of Legacy Nikola’s business
+primarily related to research and development and selling, general, and administrative activities. Legacy Nikola’s operating
+cash flows are also affected by Legacy Nikola’s working capital needs to support growth in personnel related expenditures
+and fluctuations in accounts payable and other current assets and liabilities.
+
+ 
+
+Legacy
+Nikola’s net cash used in operating activities was $22.0 million for the three months ended March 31, 2020. The most significant
+component of Legacy Nikola’s cash used during this period was a net loss of $33.2 million, which included non-cash expenses
+of $6.7 million for in-kind services, $1.4 million related to depreciation and amortization, $1.3 million related to stock based
+compensation, and a loss of $1.3 million related to the change in fair value of Legacy Nikola’s Series D redeemable convertible
+preferred stock forward contract liability, and net cash inflows of $0.4 million from changes in operating assets and liabilities.
+
+ 
+
+Legacy
+Nikola’s cash used in operating activities was $32.2 million for the three months ended March 31, 2019. The largest component
+of Legacy Nikola’s cash used during this period was a net loss of $30.1 million, which included non-cash charges of $1.2
+million related to stock based compensation, loss of $0.6 million related to the change in fair value of Legacy Nikola’s
+Series A redeemable convertible preferred stock warrant liability, and $0.2 million related to depreciation and amortization expense,
+and net cash outflows of $4.0 million from changes in operating assets and liabilities primarily driven by a decrease in accounts
+payable
+
+ 
+
+Cash
+Flows from Investing Activities
+
+ 
+
+Legacy
+Nikola continues to experience negative cash flows from investing activities as it expands Legacy Nikola’s business and builds
+its infrastructure. Cash flows from investing activities primarily relate to capital expenditures to support the Company’s
+growth. Legacy Nikola net cash used in investing activities is expected to continue to increase substantially as the Company builds
+out and tools the North American truck manufacturing facility in Coolidge, Arizona and develop the network of hydrogen fueling
+stations.
+
+ 
+
+Legacy
+Nikola net cash used in investing activities was $1.4 million for the three months ended March 31, 2020, which was due to purchases
+and deposits on capital equipment for research and development testing equipment and software purchases.
+
+ 
+
+Legacy
+Nikola net cash used in investing activities was $9.9 million for the three months ended March 31, 2019, which was primarily due
+to purchases and deposits on capital equipment of $5.8 million and $4.0 million related to the construction of the Company’s
+headquarters.
+
+ 
+
+Cash
+Flows from Financing Activities
+
+ 
+
+Through
+March 31, 2020, Legacy Nikola raised aggregate gross proceeds of approximately $435.1 million, of which $355.1 million was in the
+form of cash, from sales of redeemable convertible preferred stock. Additionally, in April 2020, Legacy Nikola received cash of
+$50.0 million in connection with the issuance of its Series D redeemable convertible preferred stock.
+
+ 
+
+
+
+
+     13 
+     
+    
+
+ 
+
+Legacy
+Nikola’s net cash provided by financing activities was $13.3 million for the three months ended March 31, 2020, which was
+primarily due to proceeds from the issuance of Series D redeemable convertible preferred stock of $13.0 million and proceeds from
+tenant allowances for the construction of the Company’s headquarters of $0.9 million, offset by payments made for future
+stock issuance costs of $0.4 million and Legacy Nikola’s financing lease of $0.2 million.
+
+ 
+
+Legacy
+Nikola has no cash financing activities for the three months ended March 31, 2019.
+
+ 
+
+Contractual
+Obligations and Commitments
+
+ 
+
+For
+the three months ended March 31, 2020, there have been no material changes to Legacy Nikola’s significant contractual obligations
+as previously disclosed in the Proxy Statement.
+
+ 
+
+Waitlist
+and Reservations
+
+ 
+
+Potential
+FCEV customers may reserve slots in the Company’s future production schedule by submitting a reservation request on Company’s
+website. No deposit is required to be paid by the customer. The Company stopped soliciting FCEV reservations in fiscal 2019 in
+order to focus on large corporate dedicated customers. The Company considers the reservation list as an indication of potential
+demand rather than a product backlog for pending vehicle sales, as customers have not made firm commitments to order and take deliveries
+of vehicles and may cancel such reservations at any time. As the Company nears commercial production in 2023, the Company expects
+to convert existing FCEV reservations into binding orders.
+
+ 
+
+As
+of March 31, 2020, Legacy Nikola had approximately 14,000 reservations for its FCEV trucks.
+
+ 
+
+The
+Company only accepts binding orders on its BEV trucks, which are negotiated on a case by case basis.
+
+ 
+
+Off
+Balance Sheet Arrangements
+
+ 
+
+Since
+the date of Legacy Nikola’s incorporation, Legacy Nikola has not engaged in any off balance sheet arrangements, as defined
+in the rules and regulations of the SEC.
+
+ 
+
+Critical
+Accounting Policies and Estimates
+
+ 
+
+The
+Company’s discussion and analysis of its financial condition and results of operations are based upon the Company’s
+financial statements, which have been prepared in accordance with GAAP. These principles require the Company to make certain estimates
+and assumptions. These estimates and assumptions affect the reported amounts of assets and liabilities and disclosure of contingent
+assets and liabilities as of the balance sheet date, as well as reported amounts of revenue and expenses during the reporting period.
+The Company’s most significant estimates and judgments involve valuation of the Company’s stock-based compensation,
+including the fair value of common stock, the valuation of warrant liabilities, the valuation of the redeemable convertible preferred
+stock tranche liability and estimates related to the Company’s build-to-suit lease. Management bases its estimates on historical
+experience and on various other assumptions believed to be reasonable, the results of which form the basis for making judgments
+about the carrying values of assets and liabilities. Actual results could differ from those estimates.
+
+ 
+
+There
+have been no substantial changes to these estimates, or the policies related to them during the three months ended March 30, 2020.
+A full discussion of these estimates and policies is included in the Proxy Statement in the section entitled “Nikola’s
+Management’s Discussion and Analysis of Financial Condition and Results of Operations” beginning on page 173 of
+the Proxy Statement, which is incorporated herein by reference.
+
+ 
+
+Emerging
+Growth Company Status
+
+ 
+
+The
+Company is an emerging growth company (“EGC”), as defined in the JOBS Act. The JOBS Act permits companies with
+EGC status to take advantage of an extended transition period to comply with new or revised accounting standards, delaying the
+adoption of these accounting standards until they would apply to private companies. The Company has elected to use this extended
+transition period to enable it to comply with new or revised accounting standards that have different effective dates for public
+and private companies until the earlier of the date it (i) is no longer an emerging growth company or (ii) affirmatively and irrevocably
+opts out of the extended transition period provided in the JOBS Act. As a result, the Company’s financial statements may
+not be comparable to companies that comply with the new or revised accounting standards as of public company effective dates.
+
+ 
+
+
+
+
+     14 
+     
+    
+
+ 
+
+In
+addition, the Company intends to rely on the other exemptions and reduced reporting requirements provided by the JOBS Act. Subject
+to certain conditions set forth in the JOBS Act, if, as an EGC, the Company intends to rely on such exemptions, the Company is
+not required to, among other things: (i) provide an auditor’s attestation report on its system of internal controls over
+financial reporting pursuant to Section 404(b) of the Sarbanes Oxley Act; (ii) provide all of the compensation disclosure that
+may be required of non-emerging growth public companies under the Dodd Frank Wall Street Reform and Consumer Protection Act; (iii)
+comply with any requirement that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm
+rotation or a supplement to the auditor’s report providing additional information about the audit and the financial statements
+(auditor discussion and analysis); and (iv) disclose certain executive compensation related items such as the correlation between
+executive compensation and performance and comparisons of the Chief Executive Officer’s compensation to median employee compensation.
+
+ 
+
+The
+Company will remain an EGC under the JOBS Act until the earliest of (i) the last day of the Company’s first fiscal year following
+the fifth anniversary of the first sale
+of VectoIQ’s common stock in its initial public offering, (ii) the last date of the Company’s fiscal year in
+which it has total annual gross revenue of at least $1.07 billion, (iii) the date on which the Company is deemed to be a “large
+accelerated filer” under the rules of the SEC with at least $700.0 million of outstanding securities held by non-affiliates,
+or (iv) the date on which the Company has issued more than $1.0 billion in non-convertible debt securities during the previous
+three years. The Company expects this to occur during fiscal 2020.
+
+ 
+
+Recent
+Accounting Pronouncements
+
+ 
+
+Note
+2 to the Company’s unaudited consolidated financial statements and notes thereto, set forth in Exhibit 99.1 hereto,
+provides more information about recent accounting pronouncements, the timing of their adoption, and the Company’s assessment,
+to the extent the Company has made one, of their potential impact on the Company’s financial condition and its results of
+operations and is incorporated herein by reference.
+
+ 
+
+Directors and Executive Officers
+
+ 
+
+Information
+with respect to the Company’s directors and executive officers after the Closing is set forth in the Proxy Statement
+in the sections entitled “Management
+After the Business Combination” beginning on page 222 and “Nikola’s
+Executive Compensation” beginning on page 169 of the Proxy Statement, which are incorporated herein by reference.
+
+ 
+
+Directors
+
+ 
+
+Effective
+as of the Effective Time, in connection with the Business Combination, the size of the board of directors of the Company (the “Board”)
+was increased from five members to nine members. Effective as of the Effective Time,
+Sooyean Jin (a.k.a. Sophia Jin), Michael L. Mansuetti, Gerrit A. Marx, Trevor R. Milton, Mark A. Russell, Lonnie R. Stalsberg,
+DeWitt C. Thompson, V and Jeffrey W. Ubben were appointed to serve as directors of the Company. Each of Robert
+Gendelman, Richard Lynch, Victoria McInnis and Sarah Hallac resigned as directors of the Company effective as of the Effective
+Time. Stephen J. Girsky continues to serve as a director of the Company. Messrs.
+Girsky, Mansuetti and Thompson were appointed to serve as Class I directors, with terms expiring at the Company’s
+2021 annual meeting of stockholders; Ms. Jin and Messrs. Stalsberg and Ubben were
+appointed to serve as Class II directors, with terms expiring at the Company’s 2022 annual meeting of stockholders;
+and Messrs. Marx, Milton and Russell were appointed to serve as Class III directors,
+with terms expiring at the Company’s 2023 annual meeting of stockholders. Biographical information for these individuals
+is set forth in the Proxy Statement in the section entitled “Management
+After the Business Combination” beginning on page 222 of the Proxy Statement, which is incorporated herein by
+reference.
+
+ 
+
+
+
+
+     15 
+     
+    
+
+ 
+
+Independence of Directors 
+
+ 
+
+The Board has determined
+that each the directors of the Company other than Messrs. Milton and Russell qualify as independent directors, as defined under
+the listing rules of The Nasdaq Stock Market LLC (the “Nasdaq listing rules”), and that the Board consists of
+a majority of “independent directors,” as defined under the rules of the SEC and Nasdaq listing rules relating to director
+independence requirements.
+
+ 
+
+Committees of the Board of Directors
+
+
+ 
+
+Effective as of as
+of the Effective Time, the standing committees of the Board consist of an audit committee (the “Audit Committee”),
+a compensation committee (the “Compensation Committee”) and a nominating and corporate governance committee
+(the “Nominating Committee”). Each of the committees reports to the Board.
+
+ 
+
+Effective
+as of the Effective Time, the Board appointed Mr. Girsky, Ms. Jin and Mr. Mansuetti
+to serve on the Audit Committee, with Mr. Girsky as chair of the Audit Committee.
+The Board appointed Messrs. Marx, Thompson and Stalsberg to serve on the Compensation
+Committee, with Mr. Marx as chair of the Compensation Committee. The Board appointed
+Messrs. Ubben, Girsky and Marx to serve on the Nominating Committee, with Mr. Ubben
+as chair of the Nominating Committee.
+
+ 
+
+Executive Officers 
+
+ 
+
+Effective
+as of the Effective Time, in connection with the Business Combination, the Board appointed Trevor R. Milton to serve as Executive
+Chairman, Mark A. Russell to serve as President and Chief Executive Officer, Kim J. Brady to serve as Chief Financial Officer,
+Joseph R. Pike to serve as Chief Human Resources Officer, and Britton M. Worthen to serve as Chief Legal Officer and Secretary
+of the Company. Each of Stephen J. Girsky, Steve Shindler and Mary Chan resigned as the President and Chief Executive Officer,
+Chief Financial Officer and Chief Operating Officer, respectively, effective as of the Effective Time. Biographical information
+for the new executive officers are set forth in the Proxy Statement in the section entitled “Management
+After the Business Combination” beginning on page 222 of the Proxy Statement, which is incorporated herein by reference.
+
+ 
+
+Director Compensation
+
+ 
+
+The Board designed
+the Company’s non-employee director compensation program to reward directors for their contributions to the Company’s
+success, align the director compensation program with stockholder interests and the Company’s executive compensation program,
+and provide competitive compensation necessary to attract and retain high quality non-employee directors. The Board expects to
+review director compensation periodically to ensure that director compensation remains competitive such that the Company is able
+to recruit and retain qualified directors.
+
+ 
+
+Under
+the non-employee director compensation program, the Company will reward directors entirely in the form of stock-based compensation,
+consisting of (i) for each non-employee director, an annual grant of a restricted stock unit award (“RSUs”)
+under the Nikola Corporation 2020 Stock Incentive Plan (the “2020 Plan”) for shares of Common Stock having
+a grant date fair market value of $200,000, to vest in full on the first anniversary of such grant date, subject to continued service
+through such vesting date and (ii) for the chair of each of the committees, an annual grant of RSUs with a value of $10,000, to
+vest in full on the first anniversary of such grant date, subject to continued service through such vesting date.
+
+ 
+
+The
+initial grant of such RSUs will be subject to approval by the Board as soon as practicable following the effective registration
+of the securities under the 2020 Plan on a Registration Statement on Form S-8. The calculation of the number of shares subject
+to the initial RSUs will be based upon an assumed value on the date of grant of $10.00 per share, and the RSUs will vest in full
+on the first anniversary of the Closing Date, subject to continued service through such vesting date.
+
+ 
+
+
+
+
+     16 
+     
+    
+
+ 
+
+Subject
+to Board approval as soon as practicable following the effective registration of the securities under the 2020 Plan on a Registration
+Statement on Form S-8, subsequent grants of RSUs under the non-employee director compensation program will be automatically
+granted, on the next business day following the annual meeting of stockholders of the Company, commencing with the annual meeting
+of stockholders of the Company to be held in 2021. The calculation of the number of shares subject to such annual RSU grant will
+be based upon the average closing stock price of Common Stock over the 21-trading days prior to the grant date.
+
+ 
+
+Compensation
+under the director compensation program will be subject to the annual limits on non-employee director compensation set forth in
+the 2020 Plan. In addition, each equity award granted to the eligible directors under the director compensation program will vest
+in full immediately prior to the occurrence of a change in control (as defined in the 2020 Plan) to the extent outstanding
+at such time, subject to continued service through the closing of such change in control.
+
+ 
+
+The Company’s
+policy is to reimburse directors for reasonable and necessary out-of-pocket expenses incurred in attending board and committee
+meetings or performing other services in their capacities as directors. The Company does not provide tax gross-up payments to members
+of the Board.
+
+ 
+
+Executive Compensation
+
+ 
+
+On
+the Closing Date, the Company entered into individual amended and restated employment agreements with its executive officers, Trevor
+R. Milton, Mark A. Russell, Kim J. Brady, Joseph R. Pike and Britton M. Worthen, which superseded their existing employment agreements.
+Details of the employment agreements are outlined below.
+
+ 
+
+Agreement
+with Trevor R. Milton
+
+ 
+
+On
+June 3, 2020, Trevor R. Milton entered into an amended and restated employment agreement with the Company to serve as Executive
+Chairman of the Board. Mr. Milton’s employment will continue until terminated in accordance with the terms of the employment
+agreement. Pursuant to the employment agreement, Mr. Milton’s annual base salary is $1. Mr. Milton’s employment
+agreement provides that he is eligible to participate in the Company’s health and welfare benefit plans maintained for the
+benefit of Company employees. Mr. Milton has declined to participate in any annual cash bonus program provided by the Company,
+without regard to his eligibility for any such program. Subject to Board approval, Mr. Milton is eligible to receive an annual
+time-vested stock award consisting of RSUs for shares of Common Stock having a value on the date of grant of not less than $6,000,000
+(based on an assumed stock value of $10.00 per share for the initial grant), subject to continued employment during a three-year
+cliff vesting schedule, and a performance-based stock award consisting of 4,859,000 RSUs which can be earned upon the achievement
+of pre-established share price milestones, subject to continued employment during a performance period that ends on the third anniversary
+of the Closing Date. Mr. Milton’s employment agreement contains customary confidentiality, non-solicitation and intellectual
+property assignment provisions.
+
+ 
+
+Pursuant to the employment
+agreement, in the event of an Involuntary Termination (as defined in the agreement)
+of Mr. Milton’s employment, the Company will engage Mr. Milton as a non-employee consultant for the period commencing
+on the termination date and ending on the second anniversary of the termination date. As consideration for his consulting services,
+the Company will pay Mr. Milton $10.0 million on each of the first and second anniversaries of the termination date. In the event
+of such Involuntary Termination and subject to Mr. Milton’s delivery of an effective release of claims and ongoing compliance
+with certain post-termination restrictive covenants, including a two-year non-compete and non-solicit covenants and a mutual non-disparagement
+covenant, all of Mr. Milton’s unvested equity awards, including his performance-based
+stock award, will accelerate in full (and the post-termination exercise period for unexercised stock options will be extended until
+the earlier of (i) three years following his termination date or (ii) the remaining term of each such stock option), and Mr. Milton
+will be entitled to a lump sum cash payment equal to 18 months of COBRA benefits coverage, less applicable withholding taxes.
+
+ 
+
+
+
+
+     17 
+     
+    
+
+ 
+
+Agreement
+with Mark A. Russell
+
+ 
+
+On
+June 3, 2020, Mark A. Russell entered into an amended and restated employment agreement with the Company to serve as President
+and Chief Executive Officer. Mr. Russell’s employment will continue until terminated in accordance with the terms
+of the employment agreement. Pursuant to the employment agreement, Mr. Russell’s annual base salary is $1. Mr. Russell’s
+employment agreement provides that he is eligible to participate in the Company’s health and welfare benefit plans maintained
+for the benefit of Company employees. Mr. Russell has declined to participate in any annual cash bonus program provided by
+the Company, without regard to his eligibility for any such program. Subject to Board approval, Mr. Russell is eligible to receive
+an annual time-vested stock award consisting of RSUs for shares of Common Stock having a value on the date of grant of not less
+than $6,000,000 (based on an assumed stock value of $10.00 per share for the initial grant), subject to continued employment during
+a three-year cliff vesting schedule, and a performance-based stock award consisting of 4,859,000 RSUs which can be earned upon
+the achievement of pre-established share price milestones, subject to continued employment during a performance period that ends
+on the third anniversary of the Closing Date. As of the Effective Time, all unvested stock options then held by Mr. Russell vested
+in full. Mr. Russell’s employment agreement contains customary confidentiality, non-solicitation and intellectual property
+assignment provisions.
+
+Pursuant
+to the employment agreement, in the event of an Involuntary Termination (as defined in the
+agreement) of Mr. Russell’s employment and subject to Mr. Russell’s delivery
+of an effective release of claims and ongoing compliance with certain post-termination restrictive covenants, including a two-year
+non-compete and non-solicit covenants and a non-disparagement covenant, Mr. Russell
+will be entitled to receive: (1) a lump sum cash payment in an amount equal to $2,600,000,
+less applicable withholding taxes; (2) a lump sum cash payment equal to 18 months of COBRA benefits coverage, less applicable withholding
+taxes; (3) the acceleration in full of all unvested equity and equity-based awards, other
+than Mr. Russell’s performance-based award (and the post-termination exercise period for unexercised stock options will be
+extended to three years following his termination date); and (4) following certification by the Board, Mr. Russell’s
+performance-based stock award will vest in an amount based upon the achievement of the share price milestones prior to his termination
+date, pro-rated for the length of his employment during the performance period.
+
+ 
+
+Agreement
+with Kim J. Brady
+
+ 
+
+On
+June 3, 2020, Kim J. Brady entered into an amended and restated employment agreement with the Company to serve as Chief
+Financial Officer. Mr. Brady’s employment will continue until terminated in accordance with the terms of the employment
+agreement. Pursuant to the employment agreement, Mr. Brady’s annual base salary is $1. Mr. Brady’s employment
+agreement provides that he is eligible to participate in the Company’s health and welfare benefit plans maintained for the
+benefit of Company employees. Mr. Brady has declined to participate in any annual cash bonus program provided by the Company,
+without regard to his eligibility for any such program. Subject to Board approval, Mr. Brady is eligible to receive an annual time-vested
+stock award consisting of RSUs for shares of Common Stock having a value on the date of grant of not less than $3,200,000 (based
+on an assumed stock value of $10.00 per share for the initial grant), subject to continued employment during a three-year cliff
+vesting schedule, and a performance-based stock award consisting of 2,591,000 RSUs which can be earned upon the achievement of
+pre-established share price milestones, subject to continued employment during a performance period that ends on the third anniversary
+of the Closing Date. As of the Effective Time, all unvested stock options then held by Mr. Brady vested in full. Mr. Brady’s
+employment agreement contains customary confidentiality, non-solicitation and intellectual property assignment provisions.
+
+ 
+
+Pursuant
+to the employment agreement, in the event of an Involuntary Termination (as defined
+in the agreement) of Mr. Brady’s employment and subject to Mr. Brady’s
+delivery of an effective release of claims and ongoing compliance with certain post-termination restrictive covenants, including
+a two-year non-compete and non-solicit covenants and a non-disparagement covenant, Mr.
+Brady will be entitled to receive: (1) a lump sum cash payment in an amount equal
+to $1,050,000, less applicable withholding taxes; (2) a lump sum cash payment equal to 18 months of COBRA benefits coverage, less
+applicable withholding taxes; (3) the acceleration in full of all unvested equity and equity-based
+awards, other than Mr. Brady’s performance-based award (and the post-termination exercise period for unexercised stock options
+will be extended to three years following his termination date); and (4) following certification by the Board, Mr. Brady’s
+performance-based stock award will vest in an amount based upon the achievement of the share price milestones prior to his termination
+date, pro-rated for the length of his employment during the performance period.
+
+ 
+
+
+
+
+     18 
+     
+    
+
+ 
+
+Agreement
+with Joseph R. Pike
+
+ 
+
+On
+June 3, 2020, Joseph R. Pike entered into an amended and restated employment agreement with the Company to serve as Chief
+Human Resources Officer. Mr. Pike’s employment will continue until terminated in accordance with the terms of the employment
+agreement. Pursuant to the employment agreement, Mr. Pike’s annual base salary is $1. Mr. Pike’s employment
+agreement provides that he is eligible to participate in the Company’s health and welfare benefit plans maintained for the
+benefit of Company employees. Mr. Pike has declined to participate in any annual cash bonus program provided by the Company,
+without regard to his eligibility for any such program. Subject to Board approval, Mr. Pike is eligible to receive an annual time-vested
+stock award consisting of RSUs for shares of Common Stock having a value on the date of grant of not less than $2,000,000 (based
+on an assumed stock value of $10.00 per share for the initial grant), subject to continued employment during a three-year cliff
+vesting schedule, and a performance-based stock award consisting of 1,619,000 RSUs which can be earned upon the achievement of
+pre-established share price milestones, subject to continued employment during a performance period that ends on the third anniversary
+of the Closing Date. As of the Effective Time, all unvested stock options then held by Mr. Pike vested in full. Mr. Pike’s
+employment agreement contains customary confidentiality, non-solicitation and intellectual property assignment provisions.
+
+ 
+
+Pursuant
+to the employment agreement, in the event of an Involuntary Termination (as defined
+in the agreement) of Mr. Pike’s employment and subject to Mr. Pike’s
+delivery of an effective release of claims and ongoing compliance with certain post-termination restrictive covenants, including
+a two-year non-compete and non-solicit covenants and a non-disparagement covenant,
+Mr. Pike will be entitled to receive: (1) a lump sum cash payment in an amount equal to $945,000, less applicable withholding taxes;
+(2) a lump sum cash payment equal to 18 months of COBRA benefits coverage, less applicable withholding taxes; (3)
+the acceleration in full of all unvested equity and equity-based awards, other than Mr. Pike’s performance-based award (and
+the post-termination exercise period for unexercised stock options will be extended to three years following his termination date);
+and (4) following certification by the Board, Mr. Pike’s performance-based stock award will vest in an amount based upon
+the achievement of the share price milestones prior to his termination date, pro-rated for the length of his employment during
+the performance period.
+
+ 
+
+Agreement
+with Britton M. Worthen
+
+ 
+
+On
+June 3, 2020, Britton M. Worthen entered into an amended and restated employment agreement with the Company to serve as
+Chief Legal Officer. Mr. Worthen’s employment will continue until terminated in accordance with the terms of the employment
+agreement. Pursuant to the employment agreement, Mr. Worthen’s annual base salary is $1. Mr. Worthen’s employment
+agreement provides that he is eligible to participate in the Company’s health and welfare benefit plans maintained for the
+benefit of Company employees. Mr. Worthen has declined to participate in any annual cash bonus program provided by the Company,
+without regard to his eligibility for any such program. Subject to Board approval, Mr. Worthen is eligible to receive an annual
+time-vested stock award consisting of RSUs for shares of Common Stock having a value on the date of grant of not less than $3,000,000
+(based on an assumed stock value of $10.00 per share for the initial grant), subject to continued employment during a three-year
+cliff vesting schedule, and a performance-based stock award consisting of 2,428,000 RSUs which can be earned upon the achievement
+of pre-established share price milestones, subject to continued employment during a performance period that ends on the third anniversary
+of the Closing Date. As of the Effective Time, all unvested stock options then held by Mr. Worthen vested in full. Mr. Worthen’s
+employment agreement contains customary confidentiality, non-solicitation and intellectual property assignment provisions.
+
+ 
+
+Pursuant
+to the employment agreement, in the event of an Involuntary Termination (as defined
+in the agreement) of Mr. Worthen’s employment and subject to Mr. Worthen’s
+delivery of an effective release of claims and ongoing compliance with certain post-termination restrictive covenants, including
+a two-year non-compete and non-solicit covenants and a non-disparagement covenant, Mr.
+Worthen will be entitled to receive: (1) a lump sum cash payment in an amount equal
+to $1,050,000, less applicable withholding taxes; (2) a lump sum cash payment equal to 18 months of COBRA benefits coverage, less
+applicable withholding taxes; (3) the acceleration in full of all unvested equity and equity-based
+awards, other than Mr. Worthen’s performance-based award (and the post-termination exercise period for unexercised stock
+options will be extended to three years following his termination date); and (4) following certification by the Board, Mr.
+Worthen’s performance-based stock award will vest in an amount based upon the achievement of the share price milestones prior
+to his termination date, pro-rated for the length of his employment during the performance period.
+
+ 
+
+
+
+
+     19 
+     
+    
+
+ 
+
+The
+foregoing descriptions of each of the employment agreements with Messrs. Milton, Russell, Brady, Pike and Worthen is a summary
+only and is qualified in their entirety by the full text of the employment agreements, copies of which are attached hereto as Exhibit
+10.12, Exhibit 10.13, Exhibit 10.14, Exhibit 10.15 and Exhibit 10.16, respectively, and are incorporated herein by reference.
+
+ 
+
+Security Ownership of Certain Beneficial
+Owners and Management
+
+ 
+
+The following table
+sets forth information known to the Company regarding the beneficial ownership of the Common Stock as of June 3, 2020, after giving
+effect to the Closing and the M&M Redemption, by:
+
+ 
+
+
+·each person who is known by the Company to be the beneficial owner of more than five percent (5%)
+of the outstanding shares of the Common Stock;
+
+ 
+
+
+·each current named executive officer and director of the Company; and
+
+ 
+
+
+·all current executive officers and directors of the Company, as a group.
+
+ 
+
+Beneficial ownership
+is determined according to the rules of the SEC, which generally provide that a person has beneficial ownership of a security if
+he, she or it possesses sole or shared voting or investment power over that security, including options and warrants that are currently
+exercisable or exercisable within 60 days.
+
+ 
+
+The beneficial
+ownership percentages set forth in the table below are based on approximately 360,904,478 shares of Common Stock issued and
+outstanding as of June 3, 2020 and do not take into account the issuance of any shares of Common Stock upon the exercise of
+warrants to purchase up to approximately 23,890,000 shares of Common Stock that remain outstanding.
+
+ 
+
+Unless otherwise noted
+in the footnotes to the following table, and subject to applicable community property laws, the persons and entities named in the
+table have sole voting and investment power with respect to their beneficially owned common stock and preferred stock.
+
+
+
+    Name and Address of Beneficial Owner 
+    Number of Shares of Common Stock  Beneficially Owned  
+    Percentage of Outstanding Common Stock % 
+
+    Directors and Named Executive Officers: 
+        
+       
+
+    Trevor R. Milton(1)(2)(3)	 
+     91,602,734  
+     25.4 
+
+    Mark A. Russell(3)(4)	 
+     49,774,487  
+     13.5 
+
+    Kim J. Brady(5)	 
+     10,275,414  
+     2.8 
+
+    Stephen J. Girsky(6)	 
+     1,754,354  
+     0.4 
+
+    Sophia Jin(7)	 
+     —  
+     — 
+
+    Michael L. Mansuetti(8)	 
+     —  
+     — 
+
+    Gerrit A. Marx(9)	 
+     —  
+     — 
+
+    Lon Stalsberg(10)	 
+     —  
+     — 
+
+    DeWitt C. Thompson, V(11)	 
+     21,593,927  
+     6.0 
+
+    Jeffrey W. Ubben(12)	 
+     20,362,024  
+     5.6 
+
+    Directors and Executive Officers as a Group (12 Individuals)(13)	 
+     200,194,063  
+     52.0 
+
+      
+        
+       
+
+    Five Percent Holders: 
+        
+       
+
+    M&M Residual, LLC(1)	 
+     91,602,734  
+     25.4 
+
+    T&M Residual, LLC(3)	 
+     39,876,497  
+     11.0 
+
+    Iveco S.p.A.(14)	 
+     25,661,448  
+     7.1 
+
+    Nimbus Holdings LLC(15)	 
+     23,081,451  
+     6.4 
+
+    Green Nikola Holdings, LLC(16)	 
+     22,130,385  
+     6.1 
+
+    WI Ventures, LLC(17)	 
+     19,048,020  
+     5.3 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     20 
+     
+    
+
+ 
+
+
+(1)Consists of 91,602,734 shares held by
+M&M Residual, LLC, which includes 3,158,949 shares subject to options held by certain employees pursuant to the Founder’s
+Stock Option Plan (as defined in the Proxy Statement). M&M Residual, LLC is wholly-owned by Trevor A. Milton. Mr. Milton
+has sole voting and dispositive power over shares held by M&M Residual, LLC. Reflects the transfer of 1,266,102 shares of Legacy
+Nikola Common Stock to VA Spring NM, LLC (“VA Spring”), which occurred on May 18, 2020 and the transfer of 315,624
+shares of Legacy Nikola Common Stock to VA Spring, which occurred on May 28, 2020. Also reflects the redemption of 7,000,000 shares
+of Legacy Nikola Common Stock at a purchase price of $10.00 per share, which occurred on June 3, 2020 immediately following the
+Effective Time. The business address of this stockholder is 4141 E Broadway Road, Phoenix, AZ 85040.
+
+ 
+
+
+(2)Does not include shares held by T&M Residual, LLC.
+
+ 
+
+
+(3)T&M Residual, LLC is owned by Trevor R. Milton and Mark A. Russell. Mr. Russell is the
+manager of T&M Residual, LLC, and has sole dispositive power over the shares held by T&M Residual, LLC. Mr. Milton
+has sole voting power over the shares held by T&M Residual, LLC. Reflects the transfer of 14,109,607 shares of Legacy
+Nikola Common Stock from T&M Residual, LLC to M&M Residual, LLC, which occurred on June 2, 2020. The business
+address of this stockholder is 4141 E Broadway Road, Phoenix, AZ 85040.
+
+ 
+
+
+(4)Consists of (i) 1,054,691 shares held by Mr. Russell, (ii) 39,876,497 shares held by T&M Residual, LLC
+and (iii) exercisable options of Mr. Russell to purchase 8,843,299 shares vesting within 60 days of June 3, 2020. Reflects the
+transfer of 200,000 shares of Legacy Nikola Common Stock to VA Spring, which occurred on May 18, 2020.
+
+ 
+
+
+(5)Includes exercisable options to purchase 10,275,414 shares vesting within 60 days of June
+3, 2020. Reflects the transfer of 200,000 shares of Legacy Nikola Common Stock to VA Spring, which occurred on May 18, 2020.
+
+ 
+
+
+(6)Consists of (i) 11,449 shares and 1,441 shares underlying Warrants owned directly by Mr. Girsky and (ii) 1,561,459 shares
+and 180,005 shares underlying Warrants owned, as of June 3, 2020, by VectoIQ Holdings, LLC (“Sponsor”). Mr. Girsky
+is the manager of Sponsor and, as such, may be deemed to beneficially own all of the 4,586,132 shares and 525,909 shares underlying
+Warrants owned directly by Sponsor as of June 3, 2020. Mr. Girsky disclaims beneficial ownership securities held by Sponsor
+except to the extent of his pecuniary interest therein (as described in clause (ii) of this footnote). The business address
+of this stockholder is 1354 Flagler Drive, Mamaroneck, New York 10543.
+
+ 
+
+
+(7)Does not include shares held by Green Nikola Holdings LLC. Ms. Jin is affiliated with Green Nikola
+Holdings LLC but has no voting or dispositive power over the shares held by Green Nikola Holdings LLC.
+
+ 
+
+
+(8)Does not include shares held by Nimbus Holdings LLC. Mr. Mansuetti is affiliated with Nimbus Holdings
+LLC but has no voting or dispositive power over the shares held by Nimbus Holdings LLC.
+
+ 
+
+
+(9)Does not include shares held by Iveco. Mr. Marx is affiliated with Iveco S.p.A. but has no voting
+or dispositive power over the shares held by Iveco.
+
+ 
+
+
+(10)Does not include 918,816 shares held by H2M NFund LLC. Mr. Stalsberg has an interest in H2M
+NFund LLC, but has no voting or dispositive power over these shares.
+
+ 
+
+
+(11)Consists of (i) 5,674,485 shares held by Thompson Nikola, LLC, (ii) 3,520,370 shares held
+by Thompson Nikola II, LLC, and (iii) 12,399,072 shares held by Legend Capital Partners, each of which Mr. Thompson has sole
+voting and dispositive power with respect to. As President of Thompson Nikola,
+LLC, Thompson Nikola II, LLC, and Legend Capital Partners, Mr. Thompson may be deemed
+to indirectly beneficially own shares held by such entities and disclaims beneficial ownership of such shares except to the extent
+of his pecuniary interest therein. The business address of this stockholder is 1245 Bridgestone Blvd., LaVergne, TN 37086.
+
+ 
+
+
+(12)Consists of (i) 8,686,587 shares held by VA Spring
+and (ii) 6,675,437 shares beneficially owned by ValueAct Spring Master Fund, L.P., and reflects ValueAct Spring Master Fund, L.P.’s
+purchase of 5,000,000 shares at a price of $10.00 per share, pursuant to a private placement, which occurred on June 3, 2020. As
+managing member of VA Spring NM, LLC, Mr. Ubben may be deemed to indirectly beneficially own shares held by VA Spring. Shares held
+by ValueAct Spring Master Fund, L.P. may be deemed to be indirectly beneficially owned by (i) VA Partners I, LLC as General Partner
+of ValueAct Spring Master Fund, L.P., (ii) ValueAct Capital Management, L.P. as the manager of ValueAct Spring Master Fund, L.P.,
+(iii) ValueAct Capital Management, LLC as General Partner of ValueAct Capital Management, L.P., (iv) ValueAct Holdings, L.P. as
+the majority owner of the membership interests of VA Partners I, LLC, (v) ValueAct Holdings II, L.P. as the sole owner of the membership
+interests of ValueAct Capital Management, LLC and as the majority owner of the limited partnership interests of ValueAct Capital
+Management, L.P., and (vi) ValueAct Holdings GP, LLC as General Partner of ValueAct Holdings, L.P. and ValueAct Holdings II, L.P.
+Mr. Ubben disclaims beneficial ownerships of securities held by VA Spring and ValueAct Spring Master Fund, L.P., except to the
+extent of his pecuniary interest therein. The business address of this stockholder is One Letterman Drive, Building D, Fourth Floor,
+San Francisco, CA 94129.
+
+ 
+
+
+
+
+     21 
+     
+    
+
+ 
+
+
+(13)Consists of (i) 175,881,025 shares beneficially owned by the Company’s current
+                                                            executive officers and directors, which include 489,636 shares held by M&M Residual, LLC that are subject to options held
+                                                            by certain executive officers pursuant to the Founder’s Stock Option Plan (as defined in the Proxy Statement),
+                                                            (ii) exercisable options to purchase 24,131,592 shares vesting within 60 days of June 3, 2020, and (iii) 181,446
+                                                            shares underlying Warrants that become exercisable 30 days after the Closing Date. Reflects the transfer of an aggregate
+                                                            of 1,900,578 shares of Legacy Nikola Common Stock held by executive officers to VA Spring, which occurred on May 18, 2020 and
+                                                            May 28, 2020.
+
+ 
+
+
+(14)Iveco is a wholly-owned subsidiary of CNHI. The business address of this stockholder is 25 St. James’
+Street, London, SW1A 1HA, United Kingdom.
+
+ 
+
+
+(15)Reflects the repurchase of 1,499,700 shares of Legacy Nikola Series B preferred stock at a
+purchase price of $16.67 per share, which occurred immediately prior to the Effective Time. Nimbus Holdings LLC is 100% owned
+by Robert Bosch LLC. Robert Bosch LLC is 100% owned by Robert Bosch North America Corporation. Robert Bosch North America
+Corporation is 100% owned by Robert Bosch GmbH. Robert Bosch Industrietreuhand KG (equivalent to an LP) has a 92% voting
+interest in Robert Bosch GmbH (CEO: Volkmar Denner). Robert Bosch Industrietreuhand KG has two general partners: Franz Fehrenbach
+and Wolfgang Malchow who share voting and investment power. The business address of the stockholder is 38000 Hills Tech Drive,
+Farmington Hills, MI 48331.
+
+ 
+
+
+(16)Green Nikola Holdings LLC has two members, Hanwha General Chemical USA Corp. and Hanwha Energy
+USA Holdings Corp., which also share voting and investment power over the shares. The business address of this stockholder is 300
+Frank W. Burr. Blvd., Suite 52, Teaneck, NJ 07666.
+
+ 
+
+
+(17)WI Ventures, LLC is a wholly-owned subsidiary of Worthington Steel of Michigan, Inc., which
+is a wholly-owned subsidiary of Worthington Industries, Inc. The business address of this stockholder is 200 West Old
+Wilson Bridge Road, Columbus, OH 43085.
+
+ 
+
+Certain Relationships and Related Transactions
+
+
+ 
+
+The
+certain relationships and related party transactions of the Company are described in the Proxy Statement in the section
+entitled “Certain
+Nikola Relationships and Related Person Transactions” beginning on page 190 of the Proxy Statement, which is incorporated
+herein by reference.
+
+ 
+
+Legal Proceedings 
+
+ 
+
+Information
+about legal proceedings is set forth in the Proxy Statement in the section entitled “Information
+About Nikola—Legal Proceedings” on page 168 of the Proxy Statement, which is incorporated herein by reference.
+
+ 
+
+Market Price of and Dividends on the
+Registrant’s Common Equity and Related Stockholder Matters 
+
+ 
+
+Market Information and Holders
+
+ 
+
+The
+information set forth in the section entitled “Price
+Range of Securities and Dividends” on page 248 of the Proxy Statement is incorporated herein by reference. Additional
+information regarding holders of the Company’s securities is set forth in the section entitled “Description of Registrant’s
+Securities to be Registered” below.
+
+ 
+
+The
+Common Stock, the Warrants and VectoIQ units (consisting of one share of Common Stock and one Warrant, the “Units”)
+were historically quoted on The Nasdaq Capital Market under the symbols “VTIQ”, “VTIQW” and “VTIQU,”
+respectively. At the Effective Time, the Units automatically separated into the component
+securities and, as a result, no longer trade as a separate security. On June 4, 2020, the Common Stock and Warrants began
+trading on The Nasdaq Global Select Market under the new trading symbols “NKLA” and “NKLAW,” respectively.
+
+ 
+
+As
+of the Closing Date and following the completion of the Business Combination, including the M&M Redemption, the Company
+had approximately 360,904,478 shares of the Common Stock issued and outstanding held of record by 81 holders, and
+approximately 23,890,000 Warrants outstanding held of record by 9 holders.
+
+ 
+
+Dividends
+
+ 
+
+The Company has not
+paid any cash dividends on the Common Stock to date. The Company may retain future earnings, if any, for future operations, expansion
+and debt repayment and has no current plans to pay cash dividends for the foreseeable future. Any decision to declare and pay dividends
+in the future will be made at the discretion of the Board and will depend on, among other things, the Company’s results of
+operations, financial condition, cash requirements, contractual restrictions and other factors that the Board may deem relevant.
+In addition, the Company’s ability to pay dividends may be limited by covenants of any existing and future outstanding indebtedness
+the Company or its subsidiaries incur. The Company does not anticipate declaring any cash dividends to holders of the Common Stock
+in the foreseeable future.
+
+ 
+
+
+
+
+     22 
+     
+    
+
+ 
+
+Description of Registrant’s Securities
+to be Registered 
+
+ 
+
+Common Stock 
+
+ 
+
+A
+description of the Common Stock is included in the Proxy Statement in the section entitled “Description
+of VectoIQ’s Securities—Authorized and Outstanding Stock” beginning on page 231 of the Proxy Statement, which
+is incorporated herein by reference.
+
+ 
+
+Warrants
+
+ 
+
+A
+description of the Company’s warrants is included in the Proxy Statement in the section entitled “Description
+of VectoIQ’s Securities—Warrants” beginning on page 234 of the Proxy Statement, which is incorporated herein
+by reference.
+
+ 
+
+Indemnification of Directors and Officers
+
+
+ 
+
+Information
+about indemnification of the Company’s directors and officers is set forth in the Proxy Statement in the section entitled
+ “Management
+After the Business Combination—Limitation on Liability and Indemnification of Directors and Officers” beginning
+on page 229 of the Proxy Statement, which is incorporated herein by reference. The disclosure set forth in Item 1.01 of this Current
+Report on Form 8-K under the section entitled “Indemnification Agreements” is incorporated by reference into this Item
+2.01.
+
+ 
+
+Financial Statements and Supplementary
+Data 
+
+ 
+
+The information set
+forth in Item 9.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+ 
+
+
+Item 3.02Unregistered Sales of Equity Securities.
+
+ 
+
+The disclosure set
+forth in the “Introductory Note” above is incorporated by reference into this Item 3.02
+
+ 
+
+The securities issued
+in connection with the Subscription Agreements have not been registered under the Securities Act of 1933 (the “Securities
+Act”) in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act and/or Regulation
+D promulgated thereunder.
+
+ 
+
+
+Item 3.03Material Modification to Rights of Security Holders.
+
+ 
+
+The
+information set forth in Item 5.03 of this Current Report on Form 8-K is incorporated herein by reference.
+
+ 
+
+
+Item 4.01Changes in Registrant’s Certifying Accountant.
+
+ 
+
+On
+June 3, 2020, the Board approved the engagement of Ernst & Young LLP (“EY”) as the Company’s
+independent registered public accounting firm to audit the Company’s consolidated financial statements for the year ending
+December 31, 2020. EY served as the independent registered public accounting firm of Legacy Nikola prior to the Business Combination.
+Accordingly, RSM US LLP (“RSM”), the Company’s
+independent registered public accounting firm prior to the Business Combination, was informed that it would be replaced by EY as
+the Company’s independent registered public accounting firm following completion of the Company’s audit for the year
+ended December 31, 2019, which consists only of the accounts of the pre-business combination special purpose acquisition company.
+
+ 
+
+RSM’s
+report on the Company’s balance sheets as of December 31, 2019 and 2018, the related
+statements of operations, stockholders’ equity and cash flows for the year ended December 31, 2019 and for the period
+from January 23, 2018 (inception) to December 31, 2018, and the related notes to the financial statements (collectively,
+the “financial statements”) did not contain any adverse opinion or disclaimer of opinion, nor
+were they qualified or modified as to uncertainty, audit scope or accounting principles.
+
+ 
+
+
+
+
+     23 
+     
+    
+
+ 
+
+During
+the period from January 23, 2018 (inception) to December 31, 2019 and
+the subsequent period through March 31, 2020, there were no: (i) disagreements with RSM on any matter of accounting principles
+or practices, financial statement disclosures or audited scope or procedures, which disagreements if not resolved to RSM’s
+satisfaction would have caused RSM to make reference to the subject matter of the disagreement in connection with its report or
+(ii) reportable events as defined in Item 304(a)(1)(v) of Regulation S-K.
+
+ 
+
+During
+the period from January 23, 2018 (inception) to December 31, 2018,
+and the interim period through March 31, 2020, the Company did not consult EY with respect to either (i) the application of
+accounting principles to a specified transaction, either completed or proposed; or the type of audit opinion that might be rendered
+on the Company’s financial statements, and no written report or oral advice was provided to the Company by EY that EY concluded
+was an important factor considered by the Company in reaching a decision as to the accounting, auditing or financial reporting
+issue; or (ii) any matter that was either the subject of a disagreement, as that term is described in Item 304(a)(1)(iv) of
+Regulation S-K under the Exchange Act and the related instructions to Item 304 of Regulation S-K under the Exchange Act, or a reportable
+event, as that term is defined in Item 304(a)(1)(v) of Regulation S-K under the Exchange Act.
+
+ 
+
+The Company has provided
+RSM with a copy of the disclosures made by the Company in response to this Item 4.01 and has requested that RSM furnish the Company
+with a letter addressed to the SEC stating whether it agrees with the statements made by the registrant in response to this Item
+304(a) and, if not, stating the respects in which it does not agree. A letter from RSM is attached hereto as Exhibit 16.1.
+
+ 
+
+
+Item 5.01Changes in Control of the Registrant.
+
+ 
+
+The information set
+forth in the section entitled “Introductory Note” and in the section entitled “Security Ownership of Certain
+Beneficial Owners and Management” in Item 2.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+ 
+
+
+Item 5.02Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers. 
+
+ 
+
+The information set
+forth in the sections entitled “Directors and Executive Officers” and “Certain Relationships and Related Transactions”
+in Item 2.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+ 
+
+Nikola Corporation 2020 Stock Incentive
+Award Plan
+
+ 
+
+At the Special Meeting,
+the stockholders of the Company considered and approved the 2020 Plan. The 2020 Plan was previously approved, subject to stockholder
+approval, by the Board on May 6, 2020. The 2020 Plan became effective immediately upon the Closing.
+
+ 
+
+A
+description of the 2020 Plan is included in the Proxy Statement in the section entitled “Proposal No. 4—The Stock Incentive Plan Proposal” beginning on page 128 of the Proxy Statement, which is incorporated herein
+by reference. The foregoing description of the 2020 Plan is qualified in its entirety by the full text of the 2020 Plan and the
+Forms of Stock Option Agreement, Notice of Exercise, Stock Option Grant Notice, Restricted Stock Unit Agreement, and Restricted
+Stock Agreement under the 2020 Plan, which are attached hereto as Exhibit 10.4 and Exhibit 10.5, respectively, and incorporated
+herein by reference.
+
+ 
+
+
+
+
+     24 
+     
+    
+
+ 
+
+Nikola Corporation 2020 Employee Stock
+Purchase Plan
+
+ 
+
+At the Special Meeting,
+the stockholders of the Company considered and approved the Nikola Corporation 2020 Employee Stock Purchase Plan (the “2020
+ESPP”). The 2020 ESPP was previously approved, subject to stockholder approval, by the Board on May 6, 2020. The 2020
+ESPP became effective immediately upon the Closing.
+
+ 
+
+A
+description of the 2020 ESPP is included in the Proxy Statement in the section entitled “Proposal No. 6—The Employee Stock Purchase Plan Proposal” beginning on page 136 of the Proxy Statement, which is incorporated
+herein by reference. The foregoing description of the 2020 ESPP is qualified in its entirety by the full text of the 2020 ESPP,
+which is attached hereto as Exhibit 10.6 and incorporated herein by reference.
+
+  
+
+
+Item 5.06Change in Shell Company Status.
+
+ 
+
+As
+a result of the Merger, which fulfilled the definition of a business combination as required by the Amended and Restated Certificate
+of Incorporation of the Company, as in effect immediately prior to the Closing, the Company ceased to be a shell company (as defined
+in Rule 12b-2 of the Exchange Act) as of the Closing. A description of the Business Combination and the terms of the Business Combination
+Agreement are included in the Proxy Statement in the sections entitled “The
+Business Combination” beginning on page 80 and “The
+Business Combination Agreement” beginning on page 95 of the Proxy Statement, which are incorporated herein by reference.
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+ 
+
+
+(a)Financial Statements of Businesses Acquired.
+
+ 
+
+The
+historical audited consolidated financial
+statements of Legacy Nikola as of and for the year ended December 31, 2019 and the related notes are included in the
+Proxy Statement beginning on page F-2
+of the Proxy Statement and are incorporated herein by reference.
+
+ 
+
+The unaudited consolidated
+financial statements of the Company as of and for the three months ended March 31, 2020 are set forth in Exhibit 99.1 hereto and
+are incorporated herein by reference.
+
+ 
+
+
+(b)Pro Forma Financial Information.
+
+ 
+
+The
+unaudited pro forma condensed combined financial information of the Company for the year ended December 31, 2019 are included in
+the Proxy Statement in the section entitled “Unaudited
+Pro Forma Condensed Combined Financial Information” beginning on page 64 of the Proxy Statement is incorporated herein
+by reference.
+
+ 
+
+The unaudited pro forma
+condensed combined financial information of the Company as of and for the three months ended March 31, 2020 is set forth in Exhibit
+99.2 hereto and is incorporated herein by reference.
+
+ 
+
+
+
+
+     25 
+     
+    
+
+ 
+
+
+(d)Exhibits.
+
+ 
+
+
+
+    Exhibit 
+No.
+     
+    Description
+
+    2.1+
+     
+    Business Combination Agreement by and among VectoIQ Acquisition Corp., VCTIQ Merger Sub Corp., and Nikola Corporation, dated March 2, 2020 (incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed on March 3, 2020).
+
+     
+     
+     
+
+    3.1
+     
+    Second Amended and Restated Certificate of Incorporation of the Company.
+
+     
+     
+     
+
+    3.2
+     
+    Amended and Restated Bylaws of the Company.
+
+     
+     
+     
+
+    4.1
+     
+    Form of Common Stock Certificate of the Company.
+
+     
+     
+     
+
+    4.2
+     
+    Form of Warrant of the Company.
+
+     
+     
+     
+
+    4.3
+     
+    Warrant Agreement by and between the Company and Continental Stock Transfer & Trust Company, dated May 15, 2018 (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed on May 21, 2018).
+
+     
+     
+     
+
+    4.4
+     
+    Registration Rights and Lock-Up Agreement by and among VectoIQ Acquisition Corp. and certain stockholders of VectoIQ Acquisition Corp., dated June 3, 2020 (included as Exhibit A to Exhibit 2.1).
+
+     
+     
+     
+
+    4.5
+     
+    Form of Lock-Up Agreement by and between the Company and certain stockholders, dated June 3, 2020.
+
+     
+     
+     
+
+    4.6
+     
+    Lock-Up Agreement by and between the Company and WI Ventures LLC, dated June 3, 2020.
+
+     
+     
+     
+
+    10.1
+     
+    Form of Subscription Agreement by and between the Company and certain purchasers, dated March 2, 2020 (incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed on March 3, 2020).
+
+     
+     
+     
+
+    10.2
+     
+    Form of Subscription
+    Agreement by and between the Company and entities affiliated with Fidelity Management & Research Company, dated June 3, 2020.
+
+     
+     
+     
+
+    10.3#
+     
+    Form of Indemnification Agreement by and between the Company and its directors and officers.
+
+     
+     
+     
+
+    10.4#
+     
+    Nikola Corporation 2020 Stock Incentive Plan.
+
+     
+     
+     
+
+    10.5#
+     
+    Forms of Stock Option Agreement, Notice of Exercise, Stock Option Grant Notice, Restricted Stock Unit Agreement, and Restricted Stock Agreement under the Nikola Corporation 2020 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the S-4).
+
+     
+     
+     
+
+    10.6#
+     
+    Nikola Corporation 2020 Employee Stock Purchase Plan. 
+
+     
+     
+     
+
+    10.7#
+     
+    Employment Agreement by and between Nikola Corporation and Trevor R. Milton, dated July 13, 2016 (incorporated by reference to Exhibit 10.7 to the Company’s Registration Statement on Form S-4 (File No. 333-237179) (as amended, the “S-4”)).
+
+     
+     
+     
+
+    10.8#
+     
+    Offer Letter from Nikola Corporation to Mark A. Russell, dated February 8, 2019 (incorporated by reference to Exhibit 10.8 to the S-4).
+
+     
+     
+     
+
+    10.9#
+     
+    Offer Letter from Nikola Corporation to Kim J. Brady, dated October 17, 2017 (incorporated by reference to Exhibit 10.9 to the S-4).
+
+     
+     
+     
+
+    10.10#
+     
+    Offer Letter from Nikola Corporation to Joseph R. Pike, dated January 1, 2018 (incorporated by reference to Exhibit 10.10 to the S-4).
+
+     
+     
+     
+
+    10.11#
+     
+    Offer Letter from Nikola Corporation to Britton M. Worthen, dated March 26, 2019 (incorporated by reference to Exhibit 10.11 to the S-4).
+
+     
+     
+     
+
+    10.12#
+     
+    Executive Employment Agreement by and between the Company and Trevor R. Milton, dated June 3, 2020.
+
+     
+     
+     
+
+    10.13#
+     
+    Executive Employment Agreement by and between the Company and Mark A. Russell, dated June 3, 2020.
+
+     
+     
+     
+
+    10.14#
+     
+    Executive Employment Agreement by and between the Company and Kim J. Brady, dated June 3, 2020.
+
+     
+     
+     
+
+    10.15#
+     
+    Executive Employment Agreement by and between the Company and Joseph R. Pike, dated June 3, 2020.
+
+     
+     
+     
+
+    10.16#
+     
+    Executive Employment Agreement by and between the Company and Britton M. Worthen, dated June 3, 2020.
+
+     
+     
+     
+
+    10.17#
+     
+    Nikola Corporation 2017 Stock Option Plan, dated July 10, 2017 (incorporated by reference to Exhibit 10.6 to the S-4).
+
+
+ 
+
+
+
+
+     26 
+     
+    
+
+ 
+
+
+
+    Exhibit 
+No.
+     
+    Description
+
+
+
+
+    10.18#
+     
+    Redemption Agreement by and between the Company and M&M Residual, LLC, dated June 3, 2020.
+
+     
+     
+     
+
+    10.19
+     
+    Lease Agreement by and between DARED 90 LLC and Nikola Corporation, dated February 13, 2018 (incorporated by reference to Exhibit 10.12 to the S-4).
+
+     
+     
+     
+
+    10.20*
+     
+    Master Industrial Agreement by and among Nikola Corporation, CNH Industrial N.V. and Iveco S.p.A., dated September 3, 2019, as amended by Amendment to Master Industrial Agreement, dated December 26, 2019, Second Amendment to Master Industrial Agreement, dated January 31, 2020, and Third Amendment to Master Industrial Agreement, dated February 28, 2020 (incorporated by reference to Exhibit 10.13 to the S-4).
+
+     
+     
+     
+
+    10.21*
+     
+    Amended and Restated European Alliance Agreement by and between Nikola Corporation, Iveco S.p.A., and solely with respect to Sections 9.5 and 16.18, CNH Industrial N.V., dated February 28, 2020 (incorporated by reference to Exhibit 10.14 to the S-4).
+
+     
+     
+     
+
+    10.22*
+     
+    Commercial Letter by and among VectoIQ Acquisition Corp., Nikola Corporation and Nimbus Holdings LLC, dated March 2, 2020 (incorporated by reference to Exhibit 10.15 to Form S-4).
+
+     
+     
+     
+
+    10.23*
+     
+    Master Agreement by and between Anheuser-Busch, LLC and Nikola Corporation (formerly Nikola Motor Company, LLC), dated February 22, 2018 (incorporated by reference to Exhibit 10.16 to the S-4).
+
+     
+     
+     
+
+    10.24
+     
+    Commercial Framework Agreement by and between Nikola Corporation and Green Nikola Holdings LLC, dated November 9, 2018 (incorporated by reference to Exhibit 10.17 to the S-4).
+
+     
+     
+     
+
+    10.25*
+     
+    Supply Agreement by and between Nel ASA and Nikola Corporation (formerly Nikola Motor Company, LLC), dated June 28, 2018 (incorporated by reference to Exhibit 10.18 to the S-4).
+
+     
+     
+     
+
+    10.26*
+     
+    European Supply Agreement by and among Nikola Iveco Europe B.V., IVECO S.p.A. and Nikola Corporation, dated April 9, 2020 (incorporated by reference to Exhibit 10.23 to the S-4).
+
+     
+     
+     
+
+    10.27*
+     
+    North American Supply Agreement by and among Nikola Iveco Europe B.V., Nikola Corporation, and solely with respect to Sections 2, 4.2, 4.8 and 6.2.2, Iveco S.p.A., dated April 9, 2020 (incorporated by reference to Exhibit 10.24 to the S-4).
+
+     
+     
+     
+
+    10.28*
+     
+    Technical Assistance Service Agreement by and between Nikola Corporation and Iveco S.p.A., dated April 9, 2020 (incorporated by reference to Exhibit 10.25 to the S-4).
+
+     
+     
+     
+
+    10.29*
+     
+    S-Way Platform and Product Sharing Contract by and between Nikola Corporation and Iveco S.p.A., dated April 9, 2020 (incorporated by reference to Exhibit 10.26 to Form S-4).
+
+     
+     
+     
+
+    10.30*
+     
+    Nikola Technology Licence Agreement by and among Nikola Iveco Europe B.V., Nikola Corporation, and solely with respect to Sections 4.3, 4.4, 4.5 and 4.6, Iveco S.p.A., dated April 9, 2020 (incorporated by reference to Exhibit 10.27 to the S-4).
+
+     
+     
+     
+
+    10.31*
+     
+    Iveco Technology Licence Agreement by and among Nikola Iveco Europe B.V., Iveco S.p.A., and solely with respect to Sections 4.3, 4.4, 4.5, and 4.6, Nikola Corporation, dated April 9, 2020 (incorporated by reference to Exhibit 10.28 to the S-4).
+
+     
+     
+     
+
+    16.1
+     
+    Letter from RSM US LLP to the SEC, dated June 5, 2020.
+
+     
+     
+     
+
+    99.1
+     
+    Unaudited consolidated financial statements of the Company as of and for the three months ended March 31, 2020. 
+
+     
+     
+     
+
+    99.2
+     
+    Unaudited pro forma condensed consolidated combined financial information of the Company as of and for the three months ended March 31, 2020.
+
+
+ 
+
++
+The schedules and exhibits to this agreement have been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted
+schedule and/or exhibit will be furnished to the SEC upon request.
+
+ 
+
+# Indicates management
+contract or compensatory plan or arrangement.
+
+ 
+
+* Portions of
+this exhibit have been omitted in accordance with Item 601 of Regulation S-K.
+
+ 
+
+
+
+     27 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: June 8, 2020
+
+ 
+
+
+
+                                                      
+    NIKOLA CORPORATION
+
+     
+     
+     
+
+     
+    By:
+    /s/ Mark A. Russell
+
+     
+     
+    Mark A. Russell
+
+     
+     
+    President and Chief Executive Officer
+
+ 
+
+
+
+
+    
+    
+
+ 
+
+
+
+

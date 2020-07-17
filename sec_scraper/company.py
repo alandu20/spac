@@ -10,7 +10,7 @@ BASE_URL = "https://www.sec.gov"
 FILING_TYPES = ["8-K", "10-K"]
 
 
-def get_request(url: str, timeout=10) -> lxml.html.HtmlElement:
+def get_request(url: str, timeout: int) -> lxml.html.HtmlElement:
     """Send request to server and output response in HtmlElement."""
     page = requests.get(url, timeout=timeout)
     return html.fromstring(page.content)
@@ -118,7 +118,7 @@ class Company(object):
         all_filings = []
         for elem in elems:
             filing_url = BASE_URL + elem.attrib["href"]
-            filing_page = get_request(filing_url)
+            filing_page = get_request(filing_url, self.timeout)
             filing_page_content = filing_page.find_class("formContent")[
                     0].text_content()
 
@@ -137,7 +137,7 @@ class Company(object):
             document_url = (BASE_URL + filing_page.xpath(
                 '//*[@id="formDiv"]/div/table/tr[2]/td[3]/a')[0].attrib[
                 "href"]).replace('/ix?doc=', '')
-            document = get_request(document_url)
+            document = get_request(document_url, self.timeout)
 
             # Construct filing object.
             filing = Filing(

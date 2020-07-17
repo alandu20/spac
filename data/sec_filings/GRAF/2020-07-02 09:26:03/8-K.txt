@@ -1,0 +1,417 @@
+
+8-K
+1
+tm2024030-1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+July 2, 2020
+
+ 
+
+GRAF INDUSTRIAL CORP. 
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware
+    001-38703
+    83-1138508
+
+    (State or other jurisdiction
+of incorporation)
+    (Commission
+File Number)
+    (IRS Employer
+Identification No.)
+
+ 
+
+118 Vintage Park Blvd., Suite W-22
+
+Houston, Texas 77070
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (281) 515-3517
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of common stock and one redeemable warrant
+     
+    GRAF.U
+     
+    The New York Stock Exchange
+
+    Common stock, $0.0001 par value per share
+     
+    GRAF
+     
+    The New York Stock Exchange
+
+    Warrants, each exercisable for three-quarters of one share of common stock
+     
+    GRAF WS
+     
+    The New York Stock Exchange
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth
+company x
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+
+
+    Item 7.01
+    Regulation FD Disclosure.
+
+ 
+
+On
+July 2, 2020, Graf Industrial Corp. (the “Company”) issued a press release
+announcing that it has executed an Agreement and Plan of Merger (the “Merger Agreement”) by and among the Company,
+Velodyne Lidar, Inc. (“Velodyne”) and the other parties thereto (the transactions contemplated by the Merger Agreement,
+the “Business Combination”). A copy of the press release is furnished hereto as Exhibit 99.1.
+
+ 
+
+Furnished
+as Exhibit 99.2 hereto is an investor presentation, dated July 2, 2020, that will
+be used by the Company on a pre-recorded investor presentation regarding the Business Combination. 
+
+ 
+
+The
+information in this Item 7.01 and Exhibits 99.1 and 99.2 attached hereto shall not be deemed “filed” for purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject
+to liabilities under that section, and shall not be deemed to be incorporated by reference into the filings of the Company
+under the Securities Act of 1933, as amended (the “Securities Act”) or the Exchange Act, regardless of any
+general incorporation language in such filings.
+
+ 
+
+Important Information About the Business Combination and
+the Extension and Where to Find It
+
+ 
+
+In
+connection with the proposed Business Combination, the Company intends to file a preliminary proxy statement and a definitive proxy
+statement with the Securities and Exchange Commission (the “SEC”). In addition, the Company has filed a preliminary
+proxy statement and intends to file a definitive proxy statement to be used at its special meeting of stockholders to approve an
+extension of time in which the Company must complete a business combination or liquidate the trust account that holds the proceeds
+of the Company’s initial public offering (the “Extension”). The Company’s stockholders and other
+interested persons are advised to read, when available, the preliminary proxy statements and the amendments thereto and the definitive
+proxy statements and documents incorporated by reference therein filed in connection the Business Combination and the Extension,
+as these materials will contain important information about the Extension, Velodyne, the Company and the Business Combination.
+When available, the definitive proxy statement and other relevant materials for the Extension and the Business Combination will
+be mailed to stockholders of the Company as of a record date to be established for voting on the Extension and the Business Combination,
+respectively. Stockholders of the Company will also be able to obtain copies of the preliminary proxy statements, the definitive
+proxy statements and other documents filed with the SEC that may be incorporated by reference therein, without charge, once available,
+at the SEC’s web site at www.sec.gov, or by directing a request to: Graf Industrial Corp., 118 Vintage Park Blvd.,
+Suite W-22, Houston, Texas 77070, Attention: Secretary, (281) 515-3517.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+The Company and its directors and executive
+officers may be deemed participants in the solicitation of proxies from the Company’s stockholders with respect to the Extension
+and the Business Combination. A list of the names of those directors and executive officers and a description of their interests
+in the Company is contained in the Company’s annual report on Form 10-K for the fiscal year ended December 31, 2019 (the
+ “Annual Report”), which was filed with the SEC and is available free of charge at the SEC’s website at www.sec.gov,
+or by directing a request to Graf Industrial Corp., 118 Vintage Park Blvd., Suite W-22, Houston,
+Texas 77070, Attention: Secretary, (281) 515-3517. Additional information regarding the interests of such participants will
+be contained in the proxy statements for the Extension and the Business Combination when available.
+
+ 
+
+Velodyne and its directors and executive
+officers may also be deemed to be participants in the solicitation of proxies from the stockholders of the Company in connection
+with the Business Combination. A list of the names of such directors and executive officers and information regarding their interests
+will be included in the proxy statements for the Business Combination and Extension when available.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Forward-Looking Statements 
+
+ 
+
+This Current Report on Form 8-K includes
+ “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private Securities
+Litigation Reform Act of 1995. The Company’s and Velodyne’s actual results may differ from their expectations, estimates
+and projections and consequently, you should not rely on these forward looking statements as predictions of future events. Words
+such as “expect,” “estimate,” “project,” “budget,” “forecast,” “anticipate,”
+ “intend,” “plan,” “may,” “will,” “could,” “should,” “believes,”
+ “predicts,” “potential,” “continue,” and similar expressions are intended to identify such
+forward-looking statements. These forward-looking statements include, without limitation, the Company’s and Velodyne’s
+expectations with respect to future performance and anticipated financial impacts of the Business Combination, the satisfaction
+of the closing conditions to the Business Combination and the timing of the completion of the Business Combination. These forward-looking
+statements involve significant risks and uncertainties that could cause the actual results to differ materially from the expected
+results. Most of these factors are outside the Company’s and Velodyne’s control and are difficult to predict. Factors
+that may cause such differences include, but are not limited to: (1) the occurrence of any event, change or other circumstances
+that could give rise to the termination of the Merger Agreement or could otherwise cause the Business Combination to fail to close;
+(2) the outcome of any legal proceedings that may be instituted against the Company and Velodyne following the announcement of
+the Merger Agreement and the transactions contemplated therein; (3) the inability to complete the Business Combination, including
+due to failure to obtain approval of the stockholders of the Company or other conditions to closing in the Merger Agreement; (4)
+the receipt of an unsolicited offer from another party for an alternative business transaction that could interfere with the Business
+Combination; (5) the inability to obtain or maintain the listing of the shares of common stock of the post-acquisition company
+on The New York Stock Exchange following the Business Combination; (6) the risk that the announcement and consummation of the Business
+Combination disrupts current plans and operations; (7) the ability to recognize the anticipated benefits of the Business Combination,
+which may be affected by, among other things, competition, the ability of the combined company to grow and manage growth profitably
+and retain its key employees; (8) costs related to the Business Combination; (9) changes in applicable laws or regulations; (10)
+the possibility that Velodyne or the combined company may be adversely affected by other economic, business, and/or competitive
+factors; and (11) other risks and uncertainties indicated from time to time in the proxy statement relating to the Business Combination,
+including those under “Risk Factors” therein, and in the Company’s other filings with the SEC, including the
+Company’s Annual Report. The Company cautions that the foregoing list of factors is not exclusive. The Company cautions readers
+not to place undue reliance upon any forward-looking statements, which speak only as of the date made. The Company does not undertake
+or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect
+any change in its expectations or any change in events, conditions or circumstances on which any such statement is based.
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report on Form 8-K shall not
+constitute a solicitation of a proxy, consent or authorization with respect to any securities or in respect of the Business Combination.
+This Current Report on Form 8-K shall also not constitute an offer to sell or the solicitation of an offer to buy any securities,
+nor shall there be any sale of securities in any states or jurisdictions in which such offer, solicitation or sale would be unlawful
+prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made
+except by means of a prospectus meeting the requirements of section 10 of the Securities Act, or an exemption therefrom.
+
+ 
+
+
+
+    Item 9.01
+    Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+
+
+    
+        Exhibit
+            No.    
+     
+    
+        Description
+
+    99.1
+     
+    Press Release issued by the Company on July 2, 2020
+
+     
+     
+     
+
+    99.2
+     
+    
+Investor Presentation of the Company dated July 2, 2020
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    GRAF INDUSTRIAL CORP. 
+     
+
+     
+     
+     
+     
+
+     
+    By:
+    /s/ James A. Graf
+     
+
+     
+     
+    Name: James A. Graf
+     
+
+     
+     
+    Title: Chief Executive Officer 
+     
+
+     
+     
+     
+     
+
+    Date: July 2, 2020
+     
+     
+     
+
+ 
+
+
+
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+

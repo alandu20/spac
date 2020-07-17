@@ -1,0 +1,278 @@
+
+8-K
+1
+live-8k_20200424.htm
+8-K
+
+
+
+
+
+live-8k_20200424.htm
+
+
+
+
+
+ 
+ 
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, D.C. 20549
+ 
+FORM 8-K
+ 
+CURRENT REPORT
+ 
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+Date of Report (Date of earliest event reported):  May 4, 2020
+ 
+Live Ventures Incorporated
+(Exact Name of Registrant as Specified in Charter)
+ 
+ 
+
+
+
+
+Nevada
+
+001-33937
+
+85-0206668
+
+
+
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+
+ 
+
+
+
+
+325 E. Warm Springs Road, Suite 102
+Las Vegas, NV 89119
+
+
+
+(Address of Principal Executive Offices and Zip Code)
+
+
+ 
+Registrant’s telephone number, including area code: 702-997-5968
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+
+
+
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+
+Title of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+
+
+Common Stock, $0.001 par value per share
+
+ 
+
+LIVE
+
+ 
+
+The NASDAQ Stock Market LLC (The NASDAQ Capital Market)
+
+
+ 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+ 
+Emerging growth company   ☐
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+ 
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+
+ 
+On May 4, 2020, Marquis Industries, Inc. (“Marquis”), a subsidiary of Live Ventures Incorporated (the “Company”), entered into a promissory note (the “Promissory Note”) with Bank of America, N.A. that provides for a loan in the amount of $4,767,887 (the “PPP Loan”) pursuant to the Paycheck Protection Program under the Coronavirus Aid, Relief and Economic Security Act (the “CARES Act”). The PPP Loan matures two years from the funding date of the PPP Loan and bears interest at a rate of 1.0% per annum. Monthly amortized principal and interest payments are deferred for six months after the date of disbursement. The Promissory Note contains events of default and other provisions customary for a loan of this type. The Paycheck Protection Program provides that the use of PPP Loan amount shall be limited to certain qualifying expenses and may be partially or wholly forgiven in accordance with the requirements set forth in the CARES Act. The Company intends to apply for forgiveness of a portion of the loan in accordance with the terms of the CARES Act to the extent applicable.  No assurance is provided that forgiveness for all or any portion of the PPP Loan will be obtained.  On May 5, 2020, Marquis received the funds from the PPP Loan.
+ 
+The foregoing description of the Promissory Note is not complete and is qualified in its entirety by reference to the full text of the Promissory Note, a copy of which is filed herewith as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+ 
+On May 4, 2020, in connection with the PPP Loan, Marquis Affiliated Holdings, LLC, a subsidiary of the Company  and Marquis entered into a Ninth Amendment to Loan and Security Agreement with BofA (the “Ninth Amendment”).  The Ninth Amendment amends, modifies, restates or supplements the Loan and Security Agreement, dated as of July 6, 2015, as amended from time to time, among MAH, Marquis and BofA (the “Senior Credit Facility”) to, among other things, permit the incurrence of the PPP Loan.
+ 
+The foregoing descriptions of the PPP Loan, the Ninth Amendment, and the transactions contemplated thereby are summaries and do not purport to be complete and are qualified in their entirety by reference to the full texts of the Promissory Note and the Ninth Amendment, copies of which are attached hereto as Exhibits 10.1 and 10.2, respectively, and are incorporated herein by reference. 
+  
+
+
+
+
+Item 2.03.Creation of a Direct Financial Obligations or an Obligation Under an Off-Balance Sheet Arrangement of a Registrant.
+
+
+
+ 
+
+
+ The information set forth in Item 1.01 above is incorporated by reference into this Item 2.03.
+Item 9.01. Financial Statements and Exhibits
+(d)        Exhibits.
+The following exhibits are attached hereto:
+ 
+
+
+
+
+Exhibit
+Number
+
+ 
+
+Description
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+10.1
+
+ 
+
+Promissory Note between Marquis Industries, Inc. and Bank of America, N.A.
+
+
+
+10.2
+
+ 
+
+Ninth Amendment to Loan and Security Agreement dated May 4, 2020 among Marquis Affiliated Holdings LLC, Marquis Industries, Inc. and Bank of America, N.A.
+
+
+2
+
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, we have duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+
+
+
+LIVE VENTURES INCORPORATED
+
+
+
+ 
+
+ 
+
+
+
+By:
+
+/s/ Jon Isaac 
+
+
+
+ 
+
+Name:  Jon Isaac
+
+
+
+ 
+
+Title:    Chief Executive Officer
+
+
+ 
+Dated: May 8, 2020
+ 
+3
+
+

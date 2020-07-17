@@ -1,0 +1,444 @@
+
+8-K
+1
+tm208146d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported): 
+February 12, 2020
+
+ 
+
+MUDRICK CAPITAL ACQUISITION CORPORATION
+
+
+
+    (Exact name of registrant as specified in its charter)
+
+ 
+
+
+
+    Delaware
+    001-38387
+    82-2657796
+
+    (State or other jurisdiction of incorporation)
+    (Commission File Number)
+    (IRS Employer Identification No.)
+
+ 
+
+527 Madison Avenue, Sixth Floor
+
+ 
+
+New York, New York 10022
+
+ 
+
+ (Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (646) 747-9500
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed
+since last report.)
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ☒
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+    Trading Symbol
+    Name of each exchange on which registered
+
+    Class A Common Stock, par value of $0.0001 per share
+    MUDS
+    The NASDAQ Stock Market LLC
+
+    Warrants to purchase one share of Class A Common Stock
+    MUDSW
+    The NASDAQ Stock Market LLC
+
+    Units, each consisting of one share of Class A Common Stock and one Warrant 
+    MUDSU
+    The NASDAQ Stock Market LLC
+
+ 
+
+
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 1.01Entry Into A Material Definitive Agreement.
+
+ 
+
+Amendment to Underwriting Agreement
+
+ 
+
+On February 12, 2020, Mudrick Capital
+Acquisition Corporation (the “Company”) entered into an amendment (the “UA Amendment”)
+to that certain Underwriting Agreement (the “Underwriting Agreement”), dated as of February 7, 2018, by
+and between MUDS and Cantor Fitzgerald & Co. (“Cantor”), as representative of the several underwriters
+named on Schedule A of the Underwriting Agreement (the “Underwriters”), pursuant to which the deferred
+underwriting fees provided for by the Underwriting Agreement, which were originally payable by MUDS to the Underwriters in
+cash upon completion of the Company’s initial business combination, shall be payable upon completion of the business
+combination transaction (the “business combination”) contemplated by that certain Purchase Agreement (the
+ “Purchase Agreement”), dated as of January 13, 2020, by and among the Company, MUDS Acquisition Sub, Inc. and
+Hycroft Mining Corporation, through a combination of (i) shares of the Company’s Class A common stock, par value
+$0.0001 per share (“Class A Common Stock”), valued at $10.00 per share, (ii) cash and (iii)
+additional Class A Common Stock or cash dependent upon the amount of Class A Common Stock owned by Cantor as of February 12,
+2020 and by independent third parties as of the consummation of the business combination, after taking into account any
+redemptions of Class A common stock by stockholders of the Company. The UA Amendment does not amend, modify or supplement any
+other terms of the Underwriting Agreement.
+
+ 
+
+A copy of the UA Amendment is attached as Exhibit 10.1 hereto and incorporated herein by reference.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report includes
+ “forward-looking statements” within the meaning of the “safe harbor” provisions of the United States Private
+Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of words such as “forecast,”
+ “intend,” “seek,” “target,” “anticipate,” “believe,” “expect,”
+ “estimate,” “plan,” “outlook,” and “project” and other similar expressions that
+predict or indicate future events or trends or that are not statements of historical matters. Such forward-looking statements may
+include estimated financial information, including with respect to revenues, earnings, performance, strategies, prospects and other
+aspects of the businesses of the Company, Seller or the combined company after completion of the business combination, and are
+based on current expectations that are subject to known and unknown risks and uncertainties, which could cause actual results or
+outcomes to differ materially from expectations expressed or implied by such forward-looking statements. These factors include,
+but are not limited to: (1) the occurrence of any event, change or other circumstances that could result in the proposed business
+combination not being completed at all or on the expected timeline, including as a result of the termination of the Purchase Agreement
+or the failure to obtain approval of the Company’s stockholders or other conditions to closing in the Purchase Agreement;
+(2) the ability to meet applicable NASDAQ listing standards; (3) the risk that the proposed business combination disrupts current
+plans and operations of Seller’s business as a result of the announcement and consummation of the transactions described
+herein; (4) the ability to recognize the anticipated benefits of the proposed business combination, which may be affected by, among
+other things, competition, the ability of the combined company to grow and manage growth profitably, maintain relationships with
+customers and suppliers and retain its management and key employees; (5) costs related to the proposed business combination; (6)
+changes in applicable laws or regulations; (7) the possibility that Seller’s business may be adversely affected by other
+economic, business, and/or competitive factors; and (8) other risks and uncertainties indicated from time to time in the definitive
+version of the registration statement of the Company to be filed in connection with the proposed business combination and the joint
+proxy statement/prospectus contained therein (as amended or supplemented, the “Registration Statement”), including
+those under “Risk Factors” therein, and other documents filed or to be filed with the Securities and Exchange Commission
+by the Company. Investors are cautioned not to place undue reliance upon any forward-looking statements, which speak only as of
+the date made. The Company and Seller undertake no commitment to update or revise the forward-looking statements, whether as a
+result of new information, future events or otherwise. Anyone using the presentation does so at their own risk and no responsibility
+is accepted for any losses which may result from such use directly or indirectly. Investors should carry out their own due diligence
+in connection with the assumptions contained herein. The forward-looking statements in this current report speak as of the date
+of its filing. Although the Company may from time to time voluntarily update its prior forward-looking statements, it disclaims
+any commitment to do so whether as a result of new information, future events, changes in assumptions or otherwise except as required
+by applicable securities laws.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Disclaimer
+
+ 
+
+This Current Report shall
+neither constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities
+in any jurisdiction in which the offer, solicitation, or sale would be unlawful prior to the registration or qualification under
+the securities laws of any such jurisdiction. This Current Report relates to a proposed business combination between the Company
+and Seller.
+
+ 
+
+Additional Information About the Business Combination
+
+ 
+
+In connection with the proposed
+business combination between the Company and Seller, the Company intends to file with the Securities and Exchange Commission (the
+ “SEC”) the Registration Statement on Form S-4 and will mail a definitive Registration Statement and other relevant
+documentation to the Company’s stockholders. The Company’s stockholders and other interested persons, including Seller’s
+stockholders, are advised to read, when available, the preliminary Registration Statement and the amendments thereto that will
+be filed with the SEC and the definitive Registration Statement and documents incorporated by reference therein filed with the
+SEC and mailed to such stockholders as these materials will contain important information about the Company, Seller and the proposed
+business combination. The definitive Registration Statement will be mailed to the Company’s stockholders and to Seller’s
+stockholders, in each case, as of the applicable record date to be established for voting on the proposed business combination,
+when it becomes available.
+
+ 
+
+The Company’s stockholders
+will also be able to obtain free copies of the preliminary and definitive Registration Statements (if and when available) and other
+documents containing important information about the Company, Seller and the proposed business combination, without charge, at
+the SEC’s website at http://sec.gov, once such documents are filed with the SEC, or by directing a request to: Mudrick
+Capital Acquisition Corporation, 27 Madison Avenue, 6th Floor, New York, New York 10022.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+The Company and its directors,
+executive officers and other members of its management and employees and Seller and its directors and management may be deemed
+to be participants in the solicitation of proxies from the Company’s stockholders in connection with the proposed business
+combination. Stockholders are urged to carefully read the Registration Statement when it becomes available, because it will contain
+important information about the Company, Seller and the proposed business combination. The Registration Statement will also contain
+information regarding the persons who may, under the rules of the SEC, be deemed participants in the solicitation of the Company’s
+stockholders in connection with the proposed business combination, including information about the Company’s directors and
+executive officers, which will be set forth in the Registration Statement when it becomes available. 
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+
+(d)List of Exhibits.
+
+
+ 
+
+The Exhibit Index is incorporated by reference
+herein.
+
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Exhibit Index
+
+ 
+
+
+
+    Exhibit No.
+    Description
+
+     
+     
+
+    10.1
+    Amendment to Underwriting Agreement, dated as of February 12, 2020, by and among Mudrick Capital Acquisition Corporation and Cantor Fitzgerald & Co., as representatives of the several underwriters.
+
+     
+     
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+    3
+     
+    
+
+  
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+
+
+
+
+     
+    Mudrick Capital Acquisition Corporation
+     
+
+     
+     
+     
+     
+
+    Date: February 14, 2020
+    By:
+    /s/ Jason Mudrick
+     
+
+     
+    Name: Jason Mudrick
+     
+
+     
+    Title:   Chief Executive Officer
+     
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    4
+    
+
+ 
+
+
+
+
+
+

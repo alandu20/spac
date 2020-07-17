@@ -1,0 +1,272 @@
+
+8-K
+1
+live-8k_20191209.htm
+8-K
+
+
+
+
+
+live-8k_20191209.htm
+
+
+
+
+
+ 
+ 
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, D.C. 20549
+ 
+FORM 8-K
+ 
+CURRENT REPORT
+ 
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+Date of Report (Date of earliest event reported): December 9, 2019
+ 
+Live Ventures Incorporated
+(Exact Name of Registrant as Specified in Charter)
+ 
+ 
+
+
+
+
+Nevada
+
+001-33937
+
+85-0206668
+
+
+
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+
+ 
+
+
+
+
+325 E. Warm Springs Road, Suite 102
+Las Vegas, NV 89119
+
+
+
+(Address of Principal Executive Offices and Zip Code)
+
+
+ 
+Registrant’s telephone number, including area code: 702-997-5968
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+
+
+
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+
+Title of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+
+
+Common Stock, $0.001 par value per share
+
+ 
+
+LIVE
+
+ 
+
+The NASDAQ Stock Market LLC (The NASDAQ Capital Market)
+
+
+ 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+ 
+Emerging growth company   ☐
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+ 
+ 
+ 
+ 
+
+ 
+Item 1.03                                           Bankruptcy or Receivership.
+ 
+Chapter 11 Filing of ApplianceSmart, Inc.
+ 
+On December 9, 2019, ApplianceSmart, Inc. (“ApplianceSmart”), a wholly-owned, indirect subsidiary of Live Ventures Incorporated (“Live Ventures”), filed a voluntary petition (the “Chapter 11 Case”) in the United States Bankruptcy Court for the Southern District of New York (the “Bankruptcy Court”) seeking relief under Chapter 11 of Title 11 of the United States Code (the “Bankruptcy Code”).  The bankruptcy affects Live Ventures’ indirect subsidiary ApplianceSmart only, and does not affect any other subsidiary of Live Ventures, or Live Ventures itself.  As part of the Chapter 11 process, ApplianceSmart expects to work with its lenders and creditors to restructure and or settle, among other indebtedness, secured indebtedness owed by ApplianceSmart to Crossroads Financial of approximately $1.6 million, secured indebtedness owed by ApplianceSmart to JanOne Inc. of approximately $2.9 million, and other amounts owed of approximately $6.6 million, in each case as of the date of this Current Report on Form 8-K.  
+ 
+ApplianceSmart expects to continue to operate its business in the ordinary course of business as debtor-in-possession under the jurisdiction of the Bankruptcy Court and in accordance with applicable provisions of the Bankruptcy Code and the orders of the Bankruptcy Court. To ensure ordinary course operations, ApplianceSmart is seeking approval from the Bankruptcy Court of a variety of “first day” motions, including motions to obtain customary relief intended to assure ApplianceSmart’s ability to continue its ordinary course operations after the filing date. In addition, the Company reserves its right to file a motion seeking authority to use cash collateral of the lenders under the reserve-based revolving credit facility.
+ 
+The case will be administrated under the caption In re: ApplianceSmart, Inc. (case number 19-13887). Court filings and other information related to the Chapter 11 Case are available at the PACER Case Locator website for those registered to do so or at the Courthouse located at One Bowling Green, Manhattan, New York 10004.
+ 
+Item 2.04                                           Triggering Events that Accelerate or Increase a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement.
+ 
+The commencement of the Chapter 11 Case constituted an event of default, and caused the automatic and immediate acceleration of all debt outstanding under or in respect of two instruments and agreements relating to direct financial obligations of ApplianceSmart (the “Debt Instruments”).  The material Debt Instruments include: 
+ 
+
+
+
+
+ 
+
+•
+
+the Loan and Security Agreement, dated as of March 15, 2019, by and between ApplianceSmart, Inc. and Crossroads Financing, LLC; 
+ 
+
+
+
+
+ 
+
+•
+
+Security Agreement dated December 26, 2018 by and between ApplianceSmart, Inc. and Appliance Recycling Centers of America, Inc. (now known as JanOne Inc.); 
+ 
+
+
+
+
+ 
+
+•
+
+Sales Agreement by and between Whirlpool Corporation and ApplianceSmart, Inc.;
+ 
+
+
+
+
+ 
+
+•
+
+Promissory Note dated October 7, 2019 in the original principal amount of $3,311,291.43 issued by ApplianceSmart, Inc. to Whirlpool Corporation; and
+ 
+
+
+
+
+ 
+
+•
+
+Security Agreement by ApplianceSmart, Inc. in favor of Whirlpool Corporation.
+ 
+Forward-Looking Statements
+ 
+This Current Report on Form 8-K contains statements that are forward-looking statements as defined within the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements relating to the ability of ApplianceSmart to restructure or settle certain outstanding indebtedness, and other statements including words such as “continue”, “expect”, “intend”, “will”, “hope” “should”, “would”, “may”, “potential” and other similar expressions. Such statements reflect our current views with respect to future events and are subject to risks and uncertainties and are necessarily based upon a number of estimates and assumptions that, while considered reasonable by us, are inherently subject to significant business, economic, competitive, political and social uncertainties, and contingencies. Many factors could cause our actual results, performance or achievements to be materially different from any future results, performance or achievements described in this Current Report on Form 8-K, including, but not limited to, risks and uncertainties relating to the Chapter 11 Case, including, but not limited to, ApplianceSmart’s ability to obtain Bankruptcy Court approval with respect to the motions in the Chapter 11 Case, the effects of the Chapter 11 Case on ApplianceSmart and Live Ventures, and on the interests of various constituents, Bankruptcy Court rulings in the Chapter 11 Case and the outcome of the Chapter 11 Case in general, the length of time ApplianceSmart will operate under the Chapter 11 Case, risks associated with third-party motions in the Chapter 11 Case, the potential adverse effects of the Chapter 11 Case on ApplianceSmart and Live Ventures’ liquidity or results of operations; ApplianceSmart’s ability to obtain debtor-in-possession financing and the amount, terms and conditions of any such financing; the effects of disruption from the Chapter 11 
+2
+
+ 
+Case making it more difficult to maintain business and operational relationships, to retain key executives and to maintain various licenses and approvals necessary for ApplianceSmart to conduct its business; the consequences of the acceleration of ApplianceSmart’s debt obligations; risks related to the trading of Live Ventures’ common stock on the Nasdaq Capital Market, and such other factors detailed in the Company’s periodic reports filed with the Securities and Exchange Commission (the “SEC”).
+ 
+Should one or more of these risks or uncertainties materialize, or should the assumptions set out in the section entitled “Risk Factors” in our filings with the SEC underlying those forward-looking statements prove incorrect, actual results may vary materially from those described herein. These forward-looking statements are made as of the date of this press release and we do not intend, and do not assume any obligation, to update these forward-looking statements, except as required by law. We cannot assure you that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Investors are cautioned that forward-looking statements are not guarantees of future performance and accordingly investors are cautioned not to put undue reliance on forward-looking statements due to the inherent uncertainty therein.
+ 
+3
+
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, we have duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+
+
+
+LIVE VENTURES INCORPORATED
+
+
+
+ 
+
+ 
+
+
+
+By:
+
+/s/ Jon Isaac 
+
+
+
+ 
+
+Name:  Jon Isaac
+
+
+
+ 
+
+Title:     President and Chief Executive    Officer
+
+
+ 
+Dated: December 13, 2019
+ 
+4
+
+

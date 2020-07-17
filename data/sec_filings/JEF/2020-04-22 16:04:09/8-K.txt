@@ -1,0 +1,455 @@
+
+
+8-K
+
+
+   
+    false 0000096223        0000096223   2020-04-17 2020-04-17              UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549    FORM 8-K    CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): April 17, 2020    Jefferies Financial Group Inc. (Exact name of registrant as specified in its charter)   
+
+
+
+
+
+
+
+
+ New York
+ 
+  001-05721 
+ 
+  13-2615557 
+
+ (State of other jurisdiction of incorporation or organization)
+ 
+ (Commission File Number)
+ 
+ (IRS. Employer Identification No.)
+
+
+
+
+
+
+ 520 Madison Ave., New York, New York
+ 
+ 10022
+
+ (Address of principal executive offices)
+ 
+ (Zip Code) Registrant’s telephone number, including area code: 212-460-1900     Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2, below): 
+
+
+ ☐ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+
+ ☐ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+
+ ☐ 
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+
+ ☐ 
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  Securities registered pursuant to Section 12(b) of the Exchange Act:
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading Symbol(s)
+ 
+ Name of each exchange on which registered
+
+ Common Stock, Par Value $1.00 Per Share
+ 
+ JEF
+ 
+ New York Stock Exchange Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company  ☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐         
+
+ 
+
+
+ 
+
+
+Item 5.07. 
+Submission of Matters to a Vote of Security Holders   We held our Annual Meeting of Shareholders on April 17, 2020.  Our incumbent directors were re-elected to our Board of Directors and received the following votes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
+ Number of Shares  
+ 
+ 
+  
+  
+
+  
+ 
+ For  
+ 
+ 
+ Against  
+ 
+ 
+ Abstain  
+ 
+ 
+ Broker Non-Votes  
+  
+
+ Linda L. Adamany  
+ 
+ 
+ 207,128,244  
+ 
+ 
+ 
+ 7,520,974  
+ 
+ 
+ 
+ 587,744  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Barry J. Alperin  
+ 
+ 
+ 201,783,926  
+ 
+ 
+ 
+ 12,013,383  
+ 
+ 
+ 
+ 1,439,653  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Robert D. Beyer  
+ 
+ 
+ 194,294,351  
+ 
+ 
+ 
+ 20,186,103  
+ 
+ 
+ 
+ 756,508  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Francisco L. Borges  
+ 
+ 
+ 206,774,642  
+ 
+ 
+ 
+ 7,668,506  
+ 
+ 
+ 
+ 793,814  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Brian P. Friedman  
+ 
+ 
+ 209,619,333  
+ 
+ 
+ 
+ 5,041,770  
+ 
+ 
+ 
+ 575,859  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ MaryAnne Gilmartin  
+ 
+ 
+ 206,772,145  
+ 
+ 
+ 
+ 7,723,416  
+ 
+ 
+ 
+ 741,401  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Richard B. Handler  
+ 
+ 
+ 210,775,401  
+ 
+ 
+ 
+ 3,939,477  
+ 
+ 
+ 
+ 522,084  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Robert E. Joyal  
+ 
+ 
+ 199,913,521  
+ 
+ 
+ 
+ 14,630,483  
+ 
+ 
+ 
+ 692,958  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Jacob M. Katz  
+ 
+ 
+ 212,710,556  
+ 
+ 
+ 
+ 1,837,054  
+ 
+ 
+ 
+ 689,352  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Michael T. O’Kane  
+ 
+ 
+ 202,364,743  
+ 
+ 
+ 
+ 12,180,887  
+ 
+ 
+ 
+ 691,332  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Stuart H. Reese  
+ 
+ 
+ 212,895,494  
+ 
+ 
+ 
+ 1,620,581  
+ 
+ 
+ 
+ 720,887  
+ 
+ 
+ 
+ 27,309,096  
+  
+
+ Joseph S. Steinberg  
+ 
+ 
+ 209,509,039  
+ 
+ 
+ 
+ 5,123,726  
+ 
+ 
+ 
+ 604,197  
+ 
+ 
+ 
+ 27,309,096  
+    Our shareholders approved our advisory vote on executive compensation. Voting results were as follows: 
+
+
+
+
+
+
+ 
+
+  
+ 
+ Number of Shares  
+  
+
+ For  
+ 
+ 
+ 148,538,020  
+  
+
+ Against  
+ 
+ 
+ 66,165,428  
+  
+
+ Abstain  
+ 
+ 
+ 533,514  
+  
+
+ Broker Non-Votes  
+ 
+ 
+ 27,309,096  
+    Our shareholders ratified the selection of Deloitte & Touche LLP as our independent auditors for the fiscal year ending November 30, 2020. Voting results were as follows: 
+
+
+
+
+
+
+ 
+
+  
+ 
+ Number of Shares  
+  
+
+ For  
+ 
+ 
+ 241,099,013  
+  
+
+ Against  
+ 
+ 
+ 994,330  
+  
+
+ Abstain  
+ 
+ 
+ 452,715  
+     
+ 
+
+
+
+ 
+
+
+  SIGNATURE  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
+  
+ 
+ JEFFERIES FINANCIAL GROUP INC.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ Date: April 21, 2020  
+ 
+  
+ 
+  
+ 
+ /s/ Roland T. Kelly   
+
+  
+ 
+  
+ 
+  
+ 
+ Roland T. Kelly  Managing Director and  Associate General Counsel      
+ 
+

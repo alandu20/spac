@@ -1,0 +1,461 @@
+
+8-K
+1
+paac8k051220.htm
+
+
+
+     
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or Section 15(d) of
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+May 18, 2020 (May 12, 2020)
+
+ 
+
+PROFICIENT ALPHA ACQUISITION CORP.
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+
+
+    Nevada
+     
+    001-38925
+     
+    83-1505892
+
+    (State or other jurisdiction of
+incorporation)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer
+Identification No.)
+
+ 
+
+
+
+    
+        40 Wall St., 29th Floor
+        New York, New York
+     
+    10005
+
+    (Address of principal executive offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code:  (917) 289-0932
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+     
+    ☒
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+     
+    ☒
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Common Stock, par value $0.001 per share
+     
+    PAAC
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants to purchase one share of Common Stock
+     
+    PAACW
+     
+    The Nasdaq Stock Market LLC
+
+    Rights to receive one-tenth (1/10) of one share of Common Stock
+     
+    PAACR
+     
+    The Nasdaq Stock Market LLC
+
+    Units, each consisting of one share of Common Stock, one Warrant and one Right
+     
+    PAACU
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company [X]
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  [ ]
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+  
+
+As previously disclosed in its Current
+Report on Form 8-K filed on March 16, 2020, on March 10, 2020, Proficient Alpha Acquisition Corp. (“Proficient”)
+entered into a Business Combination Agreement (the “Original Agreement”) with Lion Financial Group Limited, a
+corporation organized under the laws of the British Virgin Islands (“Lion”), Lion Group Holding Ltd., a Cayman
+Islands exempted company and wholly-owned subsidiary of Lion (“Pubco”), Lion MergerCo I, Inc., a Delaware
+corporation and a wholly-owned subsidiary of Pubco (“Merger Sub”), Shih-Chung Chou, an individual, in the
+capacity as the Purchaser Representative thereunder, Jian Wang and Legend Success Ventures Limited, each, in the capacity as
+a Seller Representative thereunder, and each of the holders of Lion’s outstanding capital shares (the
+“Sellers”). Unless otherwise defined herein, the capitalized terms used below are defined in the Business
+Combination Agreement.
+
+ 
+
+On May 12, 2020, the parties to the
+Original Agreement entered into the First Amended and Restated Business Combination Agreement (the “Business
+Combination Agreement”), pursuant to which the Original Agreement was amended and restated in its entirety to provide,
+among other things, (i) that each applicable security holder of Proficient immediately prior to the effective time of the
+Merger (defined below) shall receive the equivalent number of Pubco’s American depositary shares (“ADSs”),
+each of which represents one Class A ordinary share of Pubco (the “Class A Ordinary Shares”), in lieu of the
+Class A Ordinary Shares such security holder would otherwise receive in the Merger, and (ii) that Pubco shall establish one
+or more sponsored American depositary receipt (“ADR”) facilities for the purpose of issuing the ADSs.
+
+ 
+
+Prior to the effective time of the merger of Merger Sub with and
+into Proficient pursuant to the Business Combination Agreement (the “Merger”), Pubco will designate a U.S. bank or
+trust company reasonably acceptable to Proficient to act as the agent of Pubco for the purposes of distributing the ADSs. At or
+substantially concurrently with the effective time of the Merger, Pubco shall (i) allot and issue, or cause to be allotted and
+issued, to the depositary bank a number of Class A Ordinary Shares equal to the aggregate number of ADSs to be issued to the holders
+of shares of Proficient’s common stock and Proficient’s rights, and (ii) deposit or cause to be deposited with the
+such agent, for the benefit of the recipients of the ADSs, the uncertificated book-entries representing such aggregate number of
+ADSs, and the depositary bank shall be authorized to issue the ADSs representing such Class A Ordinary Shares in accordance with
+this Business Combination Agreement.
+
+ 
+
+Immediately after the effective time of the Merger, the agent shall distribute
+the ADSs to the former holders of shares of Proficient’s common stock and Proficient’s rights. After the effective
+time, upon any exercise of Pubco’s private warrants and Pubco’s public warrants (the “Pubco Warrants”)
+by the holders thereof, Pubco will promptly allot and issue, or cause to be allotted and issued, to the depositary bank a number
+of Class A Ordinary Shares underlying such exercised Pubco Warrant, at which time the agent shall distribute to the holder of such
+exercised Pubco Warrant, a number of ADSs equal to such Class A Ordinary Shares underlying such exercised Pubco Warrant. The agent
+shall not be entitled to vote or exercise any rights of ownership with respect to ADSs held by it, however it shall receive and
+hold all dividends or other distributions paid or distributed with respect thereto for the account of the ADS holders entitled
+to such dividends or distributions.
+
+
+
+
+     1 
+       
+    
+
+ 
+
+ 
+
+In addition, Pubco agreed to prepare and use
+its reasonable best efforts to cause its depositary bank to file with the SEC a registration statement on Form F-6 (the “Form
+F-6”) for the issuance of the ADSs.
+
+Pubco also agreed that it would cause
+one or more sponsored ADR facilities to be established with its depositary bank for the purpose of issuing the ADS, establishing
+each ADR facility and filing the Form F-6.
+
+This section describes the material
+amendments made in the Business Combination Agreement to the Original Agreements but does not purport to describe all of the terms
+thereof. Proficient’s stockholders, warrant holders, rights holders and other interested parties are urged to read the Business
+Combination Agreement in its entirety. A copy of the Business Combination Agreement is filed with this Current Report on Form
+8-K as Exhibit 2.1 and is incorporated herein by reference, and the foregoing description of the Business Combination Agreement
+is qualified in its entirety by reference thereto.  
+
+
+
+
+     2 
+       
+    
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+  
+
+
+
+    Exhibit No.
+     
+    Description
+
+     
+     
+     
+
+    2.1*
+     
+    First Amended and Restated Business Combination Agreement, dated as of May 12, 2020, by and among Proficient Alpha Acquisition Corp., Shih-Chung Chou, in the capacity as the Purchaser Representative, Lion Group Holding Ltd., Lion MergerCo I, Inc., Lion Financial Group Limited, Wang Jian and Legend Success Ventures Limited, in the capacity as the Seller Representatives and the stockholders of Lion Financial Group Limited named therein.
+
+ 
+
+* The exhibits and schedules to this Exhibit
+have been omitted in accordance with Regulation S-K Item 601(b)(2). The Registrant agrees to furnish supplementally a copy of
+all omitted exhibits and schedules to the Securities and Exchange Commission upon its request. 
+
+ 
+
+ADDITIONAL INFORMATION
+
+ 
+
+Lion Group Holding Ltd., a Cayman Islands exempted company (“Pubco”)
+intends to file with the Securities and Exchange Commission (the “SEC”), a Registration Statement on Form F-4 (as amended,
+the “Registration Statement”), which will include a preliminary proxy statement of Proficient Alpha Acquisition Corp.,
+a Nevada Corporation (“Proficient”) and a prospectus in connection with the proposed business combination (the “Business
+Combination”) involving Proficient, Lion Financial Group Limited, a corporation organized under the laws of the British Virgin
+Islands (“Lion”), Lion MergerCo I, Inc., a Delaware corporation and a wholly-owned subsidiary of Pubco (“Merger
+Sub”), Shih-Chung Chou, an individual, in the capacity as the Purchaser Representative, Jian Wang and Legend Success Ventures
+Limited, each, in the capacity as a Seller Representative, and each of the holders of Lion’s outstanding capital shares (the
+“Sellers”). On March 23, 2020, Proficient filed a preliminary proxy statement/prospectus with the SEC, which was amended
+by Amendment No. 1 on April 24, 2020 and may be further amended. The definitive proxy statement and other relevant documents will
+be mailed to stockholders of Proficient as of a record date to be established for voting on the Business Combination. Stockholders
+of Proficient and other interested persons are advised to read the preliminary proxy statements, amendments thereto, and, when
+available, the definitive proxy statement in connection with Proficient’s solicitation of proxies for the special meeting
+of its stockholders to be held to approve the Business Combination because these documents will contain important information about
+Proficient, Lion, Pubco and the Business Combination, including the Merger (as defined below). Stockholders will also be able to
+obtain copies of the Registration Statement and the proxy statement/prospectus, without charge, once available, on the SEC’s
+website at www.sec.gov or by directing a request to Proficient by contacting its Chief Financial Officer, Tracy Luo, c/o Proficient
+Alpha Acquisition Corp., 40 Wall St., 29th Floor, New York, New York 10005, at (917) 289-0932 or at  info@paac-us.com.
+
+ 
+
+
+ 
+
+
+
+
+     3 
+       
+    
+
+ 
+
+DISCLAIMER
+
+ 
+
+This report and the exhibits hereto do not
+constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in
+any jurisdiction in which the offer, solicitation or sale would be unlawful prior to the registration or qualification under the
+securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements
+of Section 10 of the Securities Act of 1933, as amended.
+
+ 
+
+PARTICIPANTS IN THE SOLICITATION
+
+ 
+
+Proficient, Pubco, and their respective directors and executive officers
+may be deemed to be participants in the solicitation of proxies from the stockholders of Proficient in connection with the Business
+Combination. Information regarding the officers and directors of Proficient is set forth in Proficient’s annual report on
+Form 10-K, which was filed with the SEC on December 30, 2019. Additional information regarding the interests of such potential
+participants is set forth in the Registration Statement on Form F-4 filed by Pubco and in the preliminary proxy statement/prospectus
+for the Business Combination filed by Proficient, both of which were initially filed with the SEC on March 23, 2020, and amended
+on April 24, 2020 and may be further amended.
+
+ 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING
+STATEMENTS
+
+ 
+
+This report contains forward-looking statements that involve risks
+and uncertainties concerning the Business Combination, Lion’s expected financial performance, as well as its strategic and
+operational plans. Actual events or results may differ materially from those described in this report due to a number of risks
+and uncertainties. These risks and uncertainties could cause actual results or outcomes to differ materially from those indicated
+by such forward looking-statements. Most of these factors are outside the control of Proficient, Lion or Pubco and are difficult
+to predict. Factors that may cause such differences include, but are not limited to: (1) the occurrence of any event, change or
+other circumstances that could give rise to the termination of the Business Combination Agreement; (2) the outcome of any legal
+proceedings that may be instituted against Proficient, Lion or others following announcement of the Business Combination Agreement
+and the transactions contemplated therein; (3) the inability to complete the transactions contemplated by the Business Combination
+Agreement due to the failure to obtain approval of the stockholders of Proficient or other conditions to closing in the Business
+Combination Agreement; (4) delays in obtaining, adverse conditions contained in, or the inability to obtain necessary regulatory
+approvals required to complete the transactions contemplated by the Business Combination Agreement; (5) the risk that the Business
+Combination disrupts current plans and operations as a result of the announcement and consummation of the transactions described
+herein; (6) the inability to recognize the anticipated benefits of the Business Combination, which may be affected by, among other
+things, competition, the ability of the combined company to grow and manage growth profitably and retain its key employees; (7)
+the inability to obtain or maintain the listing of Pubco’s securities on The Nasdaq Stock Market, following the Business
+Combination, including having the requisite number of stockholders; (8) costs related to the Business Combination; (9) changes
+in applicable laws or regulations; (10) the possibility that Lion, Pubco or the combined company may be adversely affected by other
+economic, business, and/or competitive factors; and (11) other risks and uncertainties indicated from time to time in filings with
+the SEC by Proficient or Pubco. For information identifying important factors that could cause actual results to differ materially
+from those anticipated in the forward-looking statements, please refer to the “Risk Factors” section of the Proficient’s
+preliminary proxy statement/prospectus for the Business Combination, which was initially filed with the SEC on March 23, 2020,
+which was amended by Amendment No. 1 on April 24, 2020 and may be further amended. Readers are referred to the most recent reports
+filed with the SEC by Proficient. Readers are cautioned that the foregoing list of factors is not exclusive, and not to place undue
+reliance upon any forward-looking statements, which speak only as of the date made, and we undertake no obligation to update or
+revise the forward-looking statements to reflect any change in its expectations or any change in events, conditions or circumstances
+on which any such statement is based, subject to applicable law, whether as a result of new information, future events or otherwise.
+
+
+
+
+     4 
+       
+    
+
+  
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: May 18, 2020
+
+ 
+
+ 
+
+ 
+
+
+
+     
+    PROFICIENT ALPHA ACQUISITION CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/ Kin Sze
+
+     
+     
+    Name: Kin Sze
+
+     
+     
+    Title: Chief Executive Officer
+
+ 
+
+ 
+
+
+     5 
+       
+    
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,256 @@
+
+8-K
+1
+d724857d8k.htm
+FORM 8-K
+
+
+Form 8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549  
+  FORM 8-K  
+  CURRENT REPORT
+ Pursuant to Section 13 or 15(d) 
+of the Securities Exchange Act of 1934 
+June 10, 2019  Date
+of Report (date of earliest event reported)  
+  GIGCAPITAL2,
+INC.  (Exact name of Registrant as specified in its charter)
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38924
+ 
+83-3838045
+
+ (State or other jurisdiction of
+incorporation or organization)
+ 
+ (Commission
+File Number)
+ 
+ (I.R.S. Employer
+Identification Number)
+ 2479 E. Bayshore Rd., Suite 200 
+Palo Alto, CA 94303 
+(Address of principal executive offices) 
+(650) 276-7040 
+(Registrants telephone number, including area code) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))  Securities registered pursuant to
+Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbols
+ 
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of Common Stock, one Right and one Warrant
+ 
+GIX.U
+ 
+New York Stock Exchange
+
+Common Stock, par value $0.0001 per share
+ 
+GIX
+ 
+New York Stock Exchange
+
+Rights to purchase one-twentieth of one share of Common Stock
+ 
+GIX.RT
+ 
+New York Stock Exchange
+
+Warrants to purchase one share of Common Stock
+ 
+GIX.WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company   ☒  If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.   ☐     
+ 
+
+
+
+
+
+
+
+
+ Item 3.02. Unregistered Sales of Equity Securities. 
+As previously disclosed by GigCapital2, Inc., a Delaware corporation (the Company), in its Current Report on Form 8-K (the IPO Closing 8-K) as filed with the Securities and Exchange Commission (the SEC) on June 10, 2019, simultaneously with the
+closing of the initial public offering (the IPO) and the sale of the Public Units (as defined in Item 8.01 below), the Company consummated the private placement (Private Placement) of (i) an aggregate of
+492,500 units (the Private Placement Units), at a price of $10.00 per Private Placement Unit, with each of GigAcquisitions2, LLC, a Delaware limited liability company (Sponsor), EarlyBirdCapital, Inc., a
+Delaware corporation (EarlyBird), Northland Gig 2 Investment LLC, a Delaware limited liability company Northland Investment, and together with Sponsor and Earlybird, the Founders), pursuant to
+the respective Unit Purchase Agreements disclosed in the IPO Closing 8-K (the Unit Purchase Agreements), and (ii) 100,000 shares of Common Stock (the Private Underwriter
+Shares) to Northland Securities, Inc., a Minnesota corporation (Northland) pursuant to the Share Purchase Agreement disclosed in the IPO Closing 8-K (the Share Purchase
+Agreement). Among the Founders, Sponsor purchased 417,500 Private Placement Units; EarlyBird purchased 26,000 Private Placement Units; and Northland Investment purchased 49,000 Private Placement Units. The Private Placement generated
+aggregate gross proceeds of $5,925,000, consisting of $4,925,000 from the sale of the Private Placement Units and $1,000,000 from the sale of the Private Underwriter Shares. The Private Placement Units are substantially similar to the Public
+Units, except for certain differences in the warrants included in the Private Placement Units (the Private Placement Warrants) as disclosed in the IPO Closing 8-K and in the Companys
+initial registration statement on Form S-1, as amended (File No. 333-231337) as declared effective by the SEC on June 5, 2019. 
+The Unit Purchase Agreements and the Share Purchase Agreement provided for a second closing (the Second Closing) of the Private Placement
+if the underwriters exercised their option to purchase the Over-Allotment Units, which closing would take place concurrently with the sale of the Over-Allotment Units. Accordingly, on June 13, 2019, the Second Closing of the Private Placement
+was consummated, resulting in the purchase of an aggregate of 75,000 additional Private Placement Units by the Founders at a purchase price of $10.00 per additional Private Placement Unit, and the purchase of an additional 20,000 Private Underwriter
+Shares at a cost of $10.00 per additional Private Underwriter Share by Northland. Among the Founders, Sponsor purchased 63,730 additional Private Placement Units, EarlyBird purchased 3,900 additional Private Placement Units, and Northland Investment
+purchased 7,350 additional Private Placement Units. The Second Closing of the Private Placement generated additional aggregate gross proceeds of $950,000. 
+Item 8.01. Other Events.  As previously disclosed in
+the IPO Closing 8-K, the Company consummated its IPO of 15,000,000 units (the Public Units) on June 10, 2019. Each Public Unit consists of one share of common stock, $0.0001 par value
+(Common Stock), one warrant to purchase one share of Common Stock (Public Warrant), and one right to receive one-twentieth (1/20) of one share of Common Stock upon the
+Companys completion of an initial business combination. Each Public Warrant is exercisable for one share of Common Stock at a price of $11.50 per full share. The Public Units were sold at an offering price of $10.00 per unit, and the IPO
+generated aggregate gross proceeds of $150,000,000. The Company granted the underwriters a 45-day option to purchase up to 2,250,000 additional Public Units (the Over-Allotment Units) solely
+to cover over-allotments, if any. On June 11, 2019, the underwriters exercised their over-allotment option in full, and on June 13, 2019 the underwriters purchased an additional 2,250,000 Over-Allotment Units, generating additional gross
+proceeds of $22,500,000.00.  An audited balance sheet as of June 10, 2019 reflecting receipt of the proceeds upon consummation of the IPO and the
+Private Placement (excluding the proceeds from the sale of the Over-Allotment Units and the Second Closing of the Private Placement) has been issued by the Company and is filed herewith as Exhibit 99.1. 
+The Companys unaudited pro forma balance sheet as of June 13, 2019 reflecting receipt of the proceeds from the sale of the Over-Allotment Units and
+the Second Closing of the Private Placement has been issued by the Company and is filed herewith as Exhibit 99.2. 
+
+
+
+
+
+
+
+
+ Item 9.01. Financial Statements and Exhibits. 
+(d) Exhibits   
+
+
+
+
+
+
+
+
+
+
+99.1
+  
+Audited balance sheet of GigCapital2, Inc., as of June 10, 2019 
+
+
+
+
+99.2
+  
+Pro forma unaudited balance sheet of GigCapital2, Inc., as of June 12, 2019 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.  Dated: June 14, 2019   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Dr. Avi S. Katz
+
+
+ 
+
+ 
+Name:
+ 
+Dr. Avi S. Katz
+
+
+ 
+
+ 
+ Title:
+ 
+ Chief Executive Officer, President and
+Executive Chairman of the GigCapital2, Inc. Board
+
+
+ 
+
+ 
+
+ 
+(Principal Executive Officer)
+
+
+
+
+

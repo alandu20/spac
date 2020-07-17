@@ -1,0 +1,540 @@
+
+8-K/A
+1
+tm2021982-3_8ka.htm
+FORM 8-K/A
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+united states
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K/A
+(Amendment No. 1)
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+June 3, 2020 
+
+ 
+
+Nikola
+Corporation
+
+ 
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    
+        Delaware
+        (State or Other Jurisdiction of
+ Incorporation)
+    
+        001-38495
+        (Commission File Number)
+    
+        82-4151153
+        (I.R.S. Employer
+        Identification No.)
+
+ 
+
+
+
+    4141 E Broadway Road
+     
+
+    Phoenix, AZ
+    85040
+
+    (Address of principal executive offices)
+    (Zip Code)
+
+
+
+ 
+
+(480) 666-1038
+
+(Registrant’s telephone number,
+including area code)
+
+ 
+
+N/A
+
+(Former name or former address, if changed
+since last report.)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following
+provisions:
+
+ 
+
+
+oWritten communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+oSoliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+oPre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+oPre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240-13e-4(c))
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading symbol(s) 
+     
+    Name of each exchange on
+    which registered
+
+    Common Stock, $0.0001 par value per share
+     
+    NKLA
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share
+     
+    NKLAW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter)
+or Rule 12b–2 of the Securities Exchange Act of 1934 (§240.12b–2 of this chapter).
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. £
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+
+INTRODUCTORY
+NOTE
+
+ 
+
+On June 8, 2020,
+Nikola Corporation, a Delaware corporation (f/k/a VectoIQ Acquisition Corp. (“VectoIQ”)) (the “Company”),
+filed a Current Report on Form 8-K (the “Original Report”) to report the Closing and related matters under
+Items 1.01, 2.01, 3.02, 3.03, 4.01, 5.01, 5.02, 5.06 and 9.01 of Form 8-K. Due to the large number of events to be reported under
+the specified items of Form 8-K, this Amendment No. 1 to Form 8-K is being filed to amend the Original Report to include additional
+matters related to the Transactions under Items 5.03 and 5.05 of Form 8-K.
+
+ 
+
+Capitalized terms used
+herein by not defined herein have the meanings given to such terms in the Original Report.
+
+ 
+
+
+Item 5.03Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. 
+
+ 
+
+On June 2, 2020, the
+Company’s stockholders approved and adopted the Second Amended and Restated Certificate of Incorporation (the “Certificate
+of Incorporation”) at the Special Meeting, which became effective upon filing with the Secretary of State of the State
+of Delaware on June 3, 2020. On June 3, 2020, the Board approved and adopted the Amended and Restated Bylaws (the “Bylaws”),
+which became effective as of the Effective Time.
+
+ 
+
+Copies of the Certificate
+of Incorporation and the Bylaws are attached hereto as Exhibit 3.1 and Exhibit 3.2, respectively, and are incorporated herein by
+reference.
+
+ 
+
+The description of
+the Certificate of Incorporation and the general effect of the Certificate of Incorporation and the Bylaws upon the rights of holders
+of the Company’s capital stock are included in the Proxy Statement under the sections entitled “Proposal No. 2—The Amendments To VectoIQ’s Certificate of Incorporation Proposal” beginning on page 121 and “Description of VectoIQ’s Securities—Certain Anti-Takeover Provisions of Delaware Law” beginning on page 237 of the Proxy
+Statement, which are incorporated herein by reference.
+
+ 
+
+
+Item 5.05Amendments to the Registrant’s Code of Ethics, or Waiver of a Provision of the Code of
+Ethics.
+
+ 
+
+In connection with
+the Transactions, on June 3, 2020, the Board approved and adopted a Code of Business Conduct and Ethics applicable to all employees,
+officers and directors of the Company, and a Code of Ethics for Senior Financial Officers applicable to the Company’s principal
+executive officer, principal financial officer, principal accounting officer or controller or persons performing similar functions
+identified by the Board.
+
+ 
+
+
+
+
+    1 
+     
+    
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+ 
+
+
+(d)Exhibits.
+
+ 
+
+
+
+    
+        Exhibit
+        No.
+     
+    
+        Description
+
+    2.1+
+     
+    Business Combination Agreement by and among VectoIQ Acquisition Corp., VCTIQ Merger Sub Corp., and Nikola Corporation, dated March 2, 2020 (incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed on March 3, 2020).
+
+    3.1
+     
+    Second Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    3.2
+     
+    Amended and Restated Bylaws of the Company (incorporated by reference to Exhibit 3.2 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    4.1
+     
+    Form of Common Stock Certificate of the Company (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    4.2
+     
+    Form of Warrant of the Company (incorporated by reference to Exhibit 4.2 to the Current Report on Form 8-K filed on June 8, 2020).
+
+
+    4.3
+     
+    Warrant Agreement by and between the Company and Continental Stock Transfer & Trust Company, dated May 15, 2018 (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed on May 21, 2018).
+
+    4.4
+     
+    Registration Rights and Lock-Up Agreement by and among VectoIQ Acquisition Corp. and certain stockholders of VectoIQ Acquisition Corp., dated June 3, 2020 (included as Exhibit A to Exhibit 2.1).
+
+    4.5
+     
+    Form of Lock-Up Agreement by and between the Company and certain stockholders, dated June 3, 2020 (incorporated by reference to Exhibit 4.5 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    4.6
+     
+    Lock-Up Agreement by and between the Company and WI Ventures LLC, dated June 3, 2020 (incorporated by reference to Exhibit 4.6 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.1
+     
+    Form of Subscription Agreement by and between the Company and certain purchasers, dated March 2, 2020 (incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed on March 3, 2020).
+
+    10.2
+     
+    Form of Subscription Agreement by and between the Company and entities affiliated with Fidelity Management & Research Company, dated June 3, 2020 (incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.3#
+     
+    Form of Indemnification Agreement by and between the Company and its directors and officers (incorporated by reference to Exhibit 10.3 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.4#
+     
+    Nikola Corporation 2020 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.5#
+     
+    Forms of Stock Option Agreement, Notice of Exercise, Stock Option Grant Notice, Restricted Stock Unit Agreement, and Restricted Stock Agreement under the Nikola Corporation 2020 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the S-4).
+
+    10.6#
+     
+    Nikola Corporation 2020 Employee Stock Purchase Plan (incorporated by reference to Exhibit 10.6 to the Current Report on Form 8-K filed on June 8, 2020). 
+
+    10.7#
+     
+    Employment Agreement by and between Nikola Corporation and Trevor R. Milton, dated July 13, 2016 (incorporated by reference to Exhibit 10.7 to the Company’s Registration Statement on Form S-4 (File No. 333-237179) (as amended, the “S-4”)).
+
+    10.8#
+     
+    Offer Letter from Nikola Corporation to Mark A. Russell, dated February 8, 2019 (incorporated by reference to Exhibit 10.8 to the S-4).
+
+    10.9#
+     
+    Offer Letter from Nikola Corporation to Kim J. Brady, dated October 17, 2017 (incorporated by reference to Exhibit 10.9 to the S-4).
+
+    10.10#
+     
+    Offer Letter from Nikola Corporation to Joseph R. Pike, dated January 1, 2018 (incorporated by reference to Exhibit 10.10 to the S-4).
+
+    10.11#
+     
+    Offer Letter from Nikola Corporation to Britton M. Worthen, dated March 26, 2019 (incorporated by reference to Exhibit 10.11 to the S-4).
+
+    10.12#
+     
+    Executive Employment Agreement by and between the Company and Trevor R. Milton, dated June 3, 2020 (incorporated by reference to Exhibit 10.12 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.13#
+     
+    Executive Employment Agreement by and between the Company and Mark A. Russell, dated June 3, 2020 (incorporated by reference to Exhibit 10.13 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.14#
+     
+    Executive Employment Agreement by and between the Company and Kim J. Brady, dated June 3, 2020 (incorporated by reference to Exhibit 10.14 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.15#
+     
+    Executive Employment Agreement by and between the Company and Joseph R. Pike, dated June 3, 2020 (incorporated by reference to Exhibit 10.15 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.16#
+     
+    Executive Employment Agreement by and between the Company and Britton M. Worthen, dated June 3, 2020 (incorporated by reference to Exhibit 10.16 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.17#
+     
+    Nikola Corporation 2017 Stock Option Plan, dated July 10, 2017 (incorporated by reference to Exhibit 10.6 to the S-4).
+
+
+ 
+
+
+
+
+    2 
+     
+    
+
+ 
+
+
+
+    10.18#
+     
+    Redemption Agreement by and between the Company and M&M Residual, LLC, dated June 3, 2020 (incorporated by reference to Exhibit 10.18 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    10.19
+     
+    Lease Agreement by and between DARED 90 LLC and Nikola Corporation, dated February 13, 2018 (incorporated by reference to Exhibit 10.12 to the S-4).
+
+    10.20*
+     
+    Master Industrial Agreement by and among Nikola Corporation, CNH Industrial N.V. and Iveco S.p.A., dated September 3, 2019, as amended by Amendment to Master Industrial Agreement, dated December 26, 2019, Second Amendment to Master Industrial Agreement, dated January 31, 2020, and Third Amendment to Master Industrial Agreement, dated February 28, 2020 (incorporated by reference to Exhibit 10.13 to the S-4).
+
+    10.21*
+     
+    Amended and Restated European Alliance Agreement by and between Nikola Corporation, Iveco S.p.A., and solely with respect to Sections 9.5 and 16.18, CNH Industrial N.V., dated February 28, 2020 (incorporated by reference to Exhibit 10.14 to the S-4).
+
+    10.22*
+     
+    Commercial Letter by and among VectoIQ Acquisition Corp., Nikola Corporation and Nimbus Holdings LLC, dated March 2, 2020 (incorporated by reference to Exhibit 10.15 to Form S-4).
+
+    10.23*
+     
+    Master Agreement by and between Anheuser-Busch, LLC and Nikola Corporation (formerly Nikola Motor Company, LLC), dated February 22, 2018 (incorporated by reference to Exhibit 10.16 to the S-4).
+
+    10.24
+     
+    Commercial Framework Agreement by and between Nikola Corporation and Green Nikola Holdings LLC, dated November 9, 2018 (incorporated by reference to Exhibit 10.17 to the S-4).
+
+    10.25*
+     
+    Supply Agreement by and between Nel ASA and Nikola Corporation (formerly Nikola Motor Company, LLC), dated June 28, 2018 (incorporated by reference to Exhibit 10.18 to the S-4).
+
+    10.26*
+     
+    European Supply Agreement by and among Nikola Iveco Europe B.V., IVECO S.p.A. and Nikola Corporation, dated April 9, 2020 (incorporated by reference to Exhibit 10.23 to the S-4).
+
+    10.27*
+     
+    North American Supply Agreement by and among Nikola Iveco Europe B.V., Nikola Corporation, and solely with respect to Sections 2, 4.2, 4.8 and 6.2.2, Iveco S.p.A., dated April 9, 2020 (incorporated by reference to Exhibit 10.24 to the S-4).
+
+    10.28*
+     
+    Technical Assistance Service Agreement by and between Nikola Corporation and Iveco S.p.A., dated April 9, 2020 (incorporated by reference to Exhibit 10.25 to the S-4).
+
+    10.29*
+     
+    S-Way Platform and Product Sharing Contract by and between Nikola Corporation and Iveco S.p.A., dated April 9, 2020 (incorporated by reference to Exhibit 10.26 to Form S-4).
+
+    10.30*
+     
+    Nikola Technology Licence Agreement by and among Nikola Iveco Europe B.V., Nikola Corporation, and solely with respect to Sections 4.3, 4.4, 4.5 and 4.6, Iveco S.p.A., dated April 9, 2020 (incorporated by reference to Exhibit 10.27 to the S-4).
+
+    10.31*
+     
+    Iveco Technology Licence Agreement by and among Nikola Iveco Europe B.V., Iveco S.p.A., and solely with respect to Sections 4.3, 4.4, 4.5, and 4.6, Nikola Corporation, dated April 9, 2020 (incorporated by reference to Exhibit 10.28 to the S-4).
+
+    16.1
+     
+    Letter from RSM US LLP to the SEC, dated June 5, 2020 (incorporated by reference to Exhibit 16.1 to the Current Report on Form 8-K filed on June 8, 2020).
+
+    99.1
+     
+    Unaudited consolidated financial statements of the Company as of and for the three months ended March 31, 2020 (incorporated by reference to Exhibit 99.1 to the Current Report on Form 8-K filed on June 8, 2020). 
+
+    99.2
+     
+    Unaudited pro forma condensed consolidated combined financial information of the Company as of and for the three months ended March 31, 2020 (incorporated by reference to Exhibit 99.2 to the Current Report on Form 8-K filed on June 8, 2020).
+
++
+The schedules and exhibits to this agreement have been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted
+schedule and/or exhibit will be furnished to the SEC upon request.
+
+ 
+
+# Indicates management
+contract or compensatory plan or arrangement.
+
+ 
+
+* Portions of
+this exhibit have been omitted in accordance with Item 601 of Regulation S-K.
+
+ 
+
+
+
+
+    3 
+     
+    
+
+ 
+
+
+
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: June 8, 2020
+
+ 
+
+
+
+    NIKOLA CORPORATION
+
+     
+     
+
+     
+    By: 
+    /s/ Mark A. Russell
+
+     
+                      Mark A. Russell
+
+     
+    President and Chief Executive
+    Officer
+
+
+
+ 
+
+
+     
+    
+
+
+
+
+
+ 
+
+
+
+

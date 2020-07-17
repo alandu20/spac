@@ -1,0 +1,339 @@
+
+8-K
+1
+f8k122319_allegromerger.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C.
+20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): December
+23, 2019
+
+ 
+
+ALLEGRO MERGER CORP. 
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38581
+     
+    82-2425125
+
+    (State
+                                         or Other Jurisdiction
+        of Incorporation)
+     
+    (Commission
+        File Number)
+     
+    (IRS
+                                         Employer
+        Identification No.)
+
+ 
+
+
+
+    
+        777 Third Avenue, 37th Floor
+        New York, NY
+     
+    
+         
+        10017
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (212) 319-7676
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on
+which registered
+
+    Units, each consisting of one share of common stock, one right, and one redeemable warrant
+     
+    ALGRU
+     
+    The Nasdaq Stock Market LLC
+
+    Common stock, par value $0.0001 per share
+     
+    ALGR
+     
+    The Nasdaq Stock Market LLC
+
+    Rights, each to receive one-tenth (1/10) of one share of common stock
+     
+    ALGRR
+     
+    The Nasdaq Stock Market LLC
+
+    Redeemable warrants, each exercisable for one share of common stock at an exercise price of $11.50 per share
+     
+    ALGRW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+     
+     
+    
+
+ 
+
+Item
+2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+ 
+
+The information included in Item 8.01 of this Current Report
+on Form 8-K is also incorporated by reference into this Item 2.03 of this Current Report on Form 8-K to the extent required.
+
+ 
+
+Item
+8.01 Other Events
+
+ 
+
+As previously disclosed, Allegro Merger Corp. (the “Company”)
+had scheduled a special meeting of stockholders to be held at 10:00 a.m., Eastern Time, on December 23, 2019, at the offices of
+Graubard Miller, the Company’s counsel, at The Chrysler Building, 405 Lexington Avenue, 11th Floor, New York, New York 10174.
+At the special meeting, the Company’s stockholders will be asked to consider and vote upon a proposal to amend (the “Extension
+Amendment”) the Company’s amended and restated certificate of incorporation to extend the date by which the Company
+has to consummate its initial business combination (the “Extension”) from January 6, 2020 to March 31, 2020 (the “Extended
+Date”).
+
+ 
+
+
+
+The Company has determined to adjourn the special meeting until
+January 3, 2020. Additionally, as further described in the proxy supplement the Company is filing today with the Securities and
+Exchange Commission, the individuals and entities that participated in the private placement of units that occurred simultaneously
+with the Company’s initial public offering (the “insiders”) have agreed that if the Extension Amendment is approved,
+they or their affiliates will contribute to the Company, pro rata in accordance with their purchases of private units, a loan (each
+loan being referred to herein as a “Contribution”) for each public share that is not converted in connection with the
+stockholder vote to approve the Extension in an amount of $0.02 as a prorated amount for the partial month of January 2020 and
+$0.025 for each of February 2020 and March 2020, for an aggregate Contribution of approximately $1.05 million (assuming no public
+shares were converted); provided that the obligation of the insiders to make each Contribution shall be subject to the continued
+effectiveness of the TGI Friday’s merger agreement as of the Contribution date, or, if such agreement is earlier terminated,
+the affirmative majority vote of the Board of Directors of the Company requiring such Contribution. If the Board of Directors determined
+not to require the Contribution, the Company would distribute the remaining amounts in the trust account to the then holders of
+public shares. .
+
+
+
+
+
+ 
+
+Subject to the foregoing proviso, each Contribution will be
+deposited in the trust account established in connection with the Company’s initial public offering, with the first Contribution
+occurring on or prior to January 10, 2020, the second Contribution occurring on or before January 31, 2020, and the third and final
+Contribution occurring on or before February 29, 2020. It is expected that the conversion amount per share at the meeting for the
+Company’s business combination with TGI Friday’s will be approximately $10.32 per share (including anticipated accrued
+interest), in comparison to the current conversion amount of approximately $10.22 per share.
+
+ 
+
+The insiders will not make any Contribution unless the Extension
+Amendment is approved and the Extension is completed. The Contributions will not bear any interest and will be repayable by the
+Company to the insiders or their affiliates upon consummation of an initial business combination. The loans will be forgiven if
+the Company is unable to consummate an initial business combination except to the extent of any funds held outside of the Company’s
+trust account.
+
+ 
+
+Holders that previously tendered shares for conversion and wish
+to change their election should contact the Company’s transfer agent at Continental Stock Transfer & Trust Company, 1
+State Street, New York, New York 10004, Attn: Mark Zimkind, mzimkind@continentalstock.com.
+
+
+
+    1
+     
+    
+
+SIGNATURE
+
+ 
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+ 
+
+
+
+    Dated: December
+    23, 2019
+    ALLEGRO
+    MERGER CORP. 
+
+     
+     
+     
+
+     
+    By:
+    /s/
+    Eric S. Rosenfeld
+
+     
+     
+    Eric S. Rosenfeld
+
+     
+     
+    Chief Executive
+    Officer
+
+ 
+
+ 
+
+2
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

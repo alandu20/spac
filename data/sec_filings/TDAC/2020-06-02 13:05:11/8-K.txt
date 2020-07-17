@@ -1,0 +1,386 @@
+
+8-K
+1
+ea122525-8k_tridentacq.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+United States
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+  
+
+Form 8-K 
+
+  
+
+Current Report 
+
+Pursuant to Section 13 or 15(d) of the
+
+
+Securities Exchange Act of 1934 
+
+ 
+
+May 28, 2020
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+Trident Acquisitions Corp. 
+
+(Exact Name of Registrant as Specified in
+its Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38508
+     
+    81-1996183
+
+    (State or other jurisdiction
+of incorporation) 
+     
+    (Commission File Number) 
+     
+    (I.R.S. Employer
+Identification No.) 
+
+ 
+
+
+
+
+
+    77 Water Street, Fl 8
+New York, NY
+     
+    10005
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+
+
+ 
+
+Registrant's telephone number, including
+area code: (646) 229-7549
+
+ 
+
+N/A
+
+
+
+ 
+
+(Former name or former
+address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+☐Written communications pursuant to Rule 425 under the Securities
+Act
+
+
+ 
+
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the
+Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of common stock and one Warrant to acquire one share of common stock
+     
+    TDACU
+     
+    NASDAQ Capital Market
+
+    Common stock, $0.001 par value per share
+     
+    TDAC
+     
+    NASDAQ Capital Market
+
+    Warrants 
+     
+    TDACW
+     
+    NASDAQ Capital Market
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01. Entry Into a Material Definitive Agreement
+
+ 
+
+Subsequent to the approval
+by its stockholders of the Amendment to the Investment Management Trust Agreement dated May 29, 2018, as amended, between it and
+Continental Stock Transfer & Trust Company (“CST”) at the Special Meeting (as defined below in Item 5.07)
+(the “Trust Amendment”), on May 29, 2020, Trident Acquisitions Corp. (“Trident” or the “Company”)
+entered into the Trust Amendment with CST. The Trust Amendment extends the time by which Trident has to consummate a business combination
+for an additional three months, to September 1, 2020 (the “Extended Termination Date”).
+
+ 
+
+Item 5.03. Amendments to Articles of Incorporation or Bylaws;
+Change in Fiscal Year.
+
+ 
+
+Subsequent to the approval by its stockholders of the Amendment
+to Trident’s Amended and Restated Certificate of Incorporation (as defined below in Item 5.07) (the “Charter Amendment”),
+on May 29, 2020, Trident filed the Charter Amendment with the Delaware Secretary of State. The Charter Amendment extends the time
+by which Trident has to consummate a business combination to the Extended Termination Date.
+
+ 
+
+Item 5.07. Submissions of Matters to a Vote of Security
+Holders.
+
+ 
+
+Trident held its Special Meeting of Stockholders (the “Special
+Meeting”) on May 28, 2020 at 10:00 a.m. EST. Due to the COVID-19 pandemic, the Special Meeting was held via teleconference.
+Summarized below are the results of the matters voted on at the Special Meeting.
+
+ 
+
+
+
+    Matters Voted On
+     
+    For
+     
+    Against
+     
+    Abstain
+     
+    
+
+     
+     
+     
+     
+     
+     
+     
+     
+
+    Proposal to amend the Company’s amended and restated certificate of incorporation to extend the date by which the Company has to complete a business combination for an additional three months, from June 1, 2020 to the Extended Termination Date. 
+     
+    8,827,832
+     
+    0
+     
+    40
+     
+    
+
+     
+     
+     
+     
+     
+     
+     
+     
+    
+
+    Proposal to amend the Company’s investment management trust agreement, dated as of May 29, 2018, by and between the Company and Continental Stock Transfer & Trust Company, as amended, to extend the date on which to commence liquidating the trust account established in connection with the Company’s initial public offering in the event the Company has not consummated a business combination by the Extended Termination Date. 
+     
+    5,292,372
+     
+    40
+     
+    0
+     
+    
+
+ 
+
+Each of the proposals described
+above was approved by the Company’s stockholders. Prior to the Special Meeting, holders of 627,059 shares of the Company’s
+common stock redeemed their shares for cash, resulting in a trust account balance of $68,219,114.98 after giving effect to the
+redemptions.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits
+
+ 
+
+
+(c)Exhibits:
+
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+     
+     
+     
+
+    3.1
+     
+    Amendment to the Amended and Restated Certificate of Incorporation of Trident Acquisitions Corp., dated May 29, 2020
+
+     
+     
+     
+
+    10.1
+     
+    Amendment to the Investment Management Trust Agreement between Trident Acquisitions Corp. and Continental Stock Transfer & Trust Company, dated May 29, 2020
+
+ 
+
+
+
+    1
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: June 2, 2020
+
+ 
+
+
+
+    TRIDENT ACQUISITIONS CORP.
+     
+
+     
+     
+     
+
+    By:
+    /s/ Vadim Komissarov
+     
+
+    Name:  
+    Vadim Komissarov
+     
+
+    Title: 
+    President
+     
+
+ 
+
+
+
+ 
+
+2
+
+ 
+
+
+
+
+
+

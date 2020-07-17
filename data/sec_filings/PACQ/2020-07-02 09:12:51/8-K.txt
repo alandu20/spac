@@ -1,0 +1,609 @@
+
+8-K
+1
+pacq20200701_8k.htm
+FORM 8-K
+
+
+	pacq20200701_8k.htm
+
+	
+
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+
+FORM 8-K
+
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(D)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of report (Date of earliest event reported): July 1, 2020
+
+ 
+
+
+ 
+
+
+
+		
+			
+			Pure Acquisition Corp.
+			
+		
+		
+			
+			(Exact name of registrant as specified in its charter)
+			
+		
+
+
+
+ 
+
+
+ 
+
+
+
+		
+			
+			Delaware
+			
+			
+			001-38454
+			
+			
+			82-3424680
+			
+		
+		
+			
+			(State or other jurisdiction
+			of incorporation)
+			
+			
+			(Commission
+			File Number)
+			
+			
+			(I.R.S. Employer
+			Identification No.)
+			
+		
+		
+			 
+			 
+			 
+		
+		
+			
+			421 W. 3rd St., Suite 1000
+
+			Fort Worth, Texas 76102
+			
+		
+		
+			
+			(address of principal executive offices)
+
+			(zip code)
+			
+		
+		
+			 
+			 
+			 
+		
+		
+			
+			(817) 850-9200
+			
+		
+		
+			
+			(Registrant’s telephone number, including area code)
+			
+		
+
+
+
+ 
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+		
+			
+			Title of each class
+			
+			 
+			
+			Trading Symbol(s)
+			
+			 
+			
+			Name of each exchange
+			on which registered
+			
+		
+		
+			
+			Class A Common Stock, par value $0.0001 per share
+			
+			 
+			
+			PACQ
+			
+			 
+			
+			NASDAQ
+			
+		
+		
+			
+			Warrants, each Warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
+			
+			 
+			
+			PACQW
+			
+			 
+			
+			NASDAQ
+			
+		
+		
+			
+			Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
+			
+			 
+			
+			PACQU
+			
+			 
+			
+			NASDAQ
+			
+		
+
+
+
+ 
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+		
+			
+			☒
+			
+			
+			Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			☒
+			
+			
+			Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			☐
+			
+			
+			Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			☐
+			
+			
+			Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+			
+		
+
+
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+		
+			
+			Item 1.01
+			
+			
+			Entry into a Material Definitive Agreement
+			
+		
+
+
+
+ 
+
+On July 1, 2020, Pure Acquisition Corp., a Delaware corporation (the “Company”), entered into an amendment to the Business Combination Agreement, as defined below, with the parties thereto.
+
+ 
+
+Second Amendment to Business Combination Agreement
+
+ 
+
+On July 1, 2020, the Company, HighPeak Energy, Inc., a Delaware corporation and wholly owned subsidiary of the Company (“HighPeak Energy”), Pure Acquisition Merger Sub, Inc., a Delaware corporation and wholly-owned subsidiary of HighPeak Energy (“MergerSub” and, together with the Company and HighPeak Energy, the “Parent Parties”), HighPeak Energy, LP, a Delaware limited partnership (“HighPeak I”), HighPeak Energy II, LP, a Delaware limited partnership (“HighPeak II”), HighPeak Energy III, LP, a Delaware limited partnership (“HighPeak III”), HPK Energy, LLC, a Delaware limited liability company (“HPK GP” and, together with HighPeak I, HighPeak II and HighPeak III, the “HPK Contributors”), and HighPeak Energy Management, LLC, a Delaware limited liability company (“HPK Representative”), entered into the Second Amendment (the “Second BCA Amendment”) to Business Combination Agreement, dated May 4, 2020, by and among the Parent Parties, the HPK Contributors and, solely for limited purposes specified therein, HPK Representative (as amended by the First Amendment to Business Combination Agreement, dated June 12, 2020, and as may be further amended from time to time, the “Business Combination Agreement”).
+
+ 
+
+The Second BCA Amendment provides for one (1) contingent value right, which shall be registered under the Securities Act of 1933, as amended (the “Securities Act”), and the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and listed for trading on the Nasdaq Global Market (the “Nasdaq”) (the “Public CVRs”), to be issued as merger consideration for each share of HighPeak Energy common stock (excluding any fractional shares) that is issued as merger consideration to holders of shares of the Company’s Class A common stock, par value $0.0001 per share (“Class A Common Stock”). The Second BCA Amendment also contemplates that one (1) contingent value right, which shall not be listed for trading on any national securities exchange, will be issued in a private placement (the “Private CVRs”) to investors participating in the PIPE Investment (as defined in the Second BCA Amendment) pursuant to applicable subscription agreements and to investors participating in Forward Purchases (as defined in the Second BCA Amendment) for each share of HighPeak Energy common stock purchased thereby.
+
+ 
+
+The foregoing description of the Second BCA Amendment does not purport to be complete and is qualified in its entirety by the terms and conditions of the Second BCA Amendment, a copy of which is filed as Exhibit 2.3 to this Current Report on Form 8-K (this “Current Report”) and is incorporated herein by reference.
+
+ 
+
+
+
+		
+			
+			Item 9.01
+			
+			
+			Financial Statements and Exhibits
+			
+		
+
+
+
+ 
+
+(d)     Exhibits. The following exhibits are filed with this Form 8-K:
+
+ 
+
+
+
+		
+			
+			Exhibit 
+
+			Number
+			
+			 
+			
+			Description
+			
+		
+		
+			
+			 2.1*
+			
+			 
+			
+			Business Combination Agreement, dated May 4, 2020, by and among Pure Acquisition Corp., HighPeak Energy, Inc., Pure Acquisition Merger Sub, Inc., HighPeak Energy, LP, HighPeak Energy II, LP, HighPeak Energy III, LP, HPK Energy, LLC and, solely for limited purposes specified therein, HighPeak Energy Management, LLC (incorporated by reference to Exhibit 2.1 to Current Report on Form 8-K (Commission File No. 001-38454) filed on May 4, 2020).
+			
+		
+		
+			 
+			 
+			 
+		
+		
+			
+			2.2
+			
+			 
+			
+			First Amendment to Business Combination Agreement, dated June 12, 2020, by and among Pure Acquisition Corp., HighPeak Energy, Inc., Pure Acquisition Merger Sub, Inc., HighPeak Energy, LP, HighPeak Energy II, LP, HighPeak Energy III, LP, HPK Energy, LLC and HighPeak Energy Management, LLC (incorporated by reference to Exhibit 2.2 to Current Report on Form 8-K (Commission File No. 001-38454) filed on June 16, 2020).
+			
+		
+		
+			 
+			 
+			 
+		
+		
+			
+			     2.3**
+			
+			 
+			
+			Second Amendment to Business Combination Agreement, dated July 1, 2020, by and among Pure Acquisition Corp., HighPeak Energy, Inc., Pure Acquisition Merger Sub, Inc., HighPeak Energy, LP, HighPeak Energy II, LP, HighPeak Energy III, LP, HPK Energy, LLC and HighPeak Energy Management, LLC.
+			
+		
+
+
+
+ 
+
+
+*     Certain schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule or exhibit will be furnished supplementally to the U.S. Securities and Exchange Commission (the “SEC”) upon request.  In addition, certain information has been excluded pursuant to Item 601(b)(2) of Regulation S-K because it is both (i) not material and (ii) would likely be competitively harmful if publicly disclosed.
+
+ 
+
+** Filed herewith.
+
+ 
+
+
+
+
+1
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Legend Information
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+The information included herein and in any oral statements made in connection herewith include “forward-looking statements” within the meaning of Section 27A of the Securities Act, and Section 21E of the Exchange Act. All statements, other than statements of present or historical fact included in this Current Report, regarding the proposed merger of MergerSub into the Company and the proposed contribution of the partnership interests in HPK LP to HighPeak Energy, HighPeak Energy’s and the Company’s ability to consummate the business combination, including raising an adequate amount of equity and debt financing, the benefits of the transaction and HighPeak Energy’s future financial performance following the transaction, as well as the Company’s and HighPeak Energy’s strategy, future operations, financial position, estimated revenues, and losses, projected costs, prospects, plans and objectives of management are forward looking statements. When used in this Current Report herein, including any oral statements made in connection herewith, the words “could,” “should,” “will,” “may,” “believe,” “anticipate,” “intend,” “estimate,” “expect,” “project,” the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These forward-looking statements are based on management’s current expectations and assumptions about future events and are based on currently available information as to the outcome and timing of future events. Except as otherwise required by applicable law, the Company and HighPeak Energy disclaim any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this Current Report. The Company and HighPeak Energy caution you that these forward-looking statements are subject to all of the risks and uncertainties, most of which are difficult to predict and many of which are beyond the control of the Company and HighPeak Energy, incident to the development, production, gathering and sale of oil, natural gas and natural gas liquids. These risks include, but are not limited to, commodity price volatility, low prices for oil and/or natural gas, developments in the global economy as well as the public health crisis related to the coronavirus (COVID-19) pandemic and resulting significant negative effects to the global economy, disrupted global supply chains and significant volatility and disruption of financial and commodity markets, inflation, increased operating costs, lack of availability of drilling and production equipment, supplies, services and qualified personnel, certificates related to new technologies, geographical concentration of operations, environmental risks, weather risks, security risks, drilling and other operating risks, regulatory changes, the uncertainty inherent in estimating oil and natural gas reserves and in projecting future rates of production, reductions in cash flow, lack of access to capital, HighPeak Energy’s ability to satisfy future cash obligations, restrictions in existing or future debt agreements, the timing of development expenditures, managing growth and integration of acquisitions, failure to realize expected value creation from property acquisitions, title defects and limited control over non-operated properties. Should one or more of the risks or uncertainties described in this Current Report and in any oral statements made in connection therewith occur, or should underlying assumptions prove incorrect, actual results and plans could differ materially from those expressed in any forward-looking statements. Additional information concerning these and other factors that may impact the Company’s and HighPeak Energy’s expectations and projections can be found in the Company’s periodic filings with the SEC, including the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019, as well as HighPeak Energy’s amended Registration Statement on Form S-4, filed with the SEC on May 13, 2020. The Company’s SEC Filings are available publicly on the SEC’s website at www.sec.gov.
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report is for informational purposes only and shall not constitute an offer to sell or the solicitation of an offer to buy any securities pursuant to the proposed transaction or otherwise, nor shall there be any sale of securities in any jurisdiction in which the offer, solicitation or sale would be unlawful prior to the registration or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act.
+
+ 
+
+
+
+
+2
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Important Information For Investors and Stockholders
+
+ 
+
+In connection with the proposed business combination, HighPeak Energy has filed with the SEC a registration statement on Form S-4, which includes a prospectus of HighPeak Energy and a proxy statement of the Company. The Company and HighPeak Energy also plan to file other documents with the SEC regarding the proposed transaction. After the registration statement has been declared effective by the SEC, a definitive proxy statement/prospectus will be mailed to the shareholders of the Company. INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ THE PROXY STATEMENT/PROSPECTUS (INCLUDING ALL AMENDMENTS AND SUPPLEMENTS THERETO) AND OTHER DOCUMENTS RELATING TO THE PROPOSED BUSINESS COMBINATION THAT WILL BE FILED WITH THE SEC CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED BUSINESS COMBINATION. Investors and shareholders will be able to obtain free copies of the proxy statement/prospectus and other documents containing important information about the Company and HighPeak Energy once such documents are filed with the SEC, through the website maintained by the SEC at www.sec.gov. In addition, stockholders will be able to obtain free copies of the proxy statement/prospectus by directing a request to: Pure Acquisition Corp., 421 W. 3rd St., Suite 1000, Fort Worth, Texas 76102, email: IR@highpeakenergy.com, Attn: Investor Relations.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+The Company and HighPeak Energy and their respective directors and executive officers may be deemed to be participants in the solicitation of proxies from the Company’s shareholders in connection with the proposed transactions. Information about the directors and executive officers of the Company is set forth in the Company’s Annual Report on Form 10-K which was filed with the SEC on March 13, 2020. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, is set forth in the proxy statement/prospectus relating to the business combination.
+
+ 
+
+Additional Information About the Business Combination and Where to Find It
+
+ 
+
+In connection with the proposed business combination, HighPeak Energy has filed an amended registration statement on Form S-4 and the related proxy statement/prospectus with the SEC. Additionally, the Company and HighPeak Energy will file other relevant materials with the SEC in connection with the proposed merger of MergerSub into the Company and the proposed contribution of the partnership interest in HPK to HighPeak Energy. The materials filed and to be filed by the Company and HighPeak Energy with the SEC may be obtained free of charge at the SEC’s web site at www.sec.gov. Investors and security holders of the Company are urged to read the proxy statement/prospectus and the other relevant materials when they become available before making any voting or investment decision with respect to the proposed business combination because they will contain important information about the business combination and the parties to the business combination.
+
+ 
+
+The Company and HighPeak Energy and their respective directors and executive officers may be deemed to be participants in the solicitation of proxies of the Company’s shareholders in connection with the proposed business combination. Investors and security holders may obtain more detailed information regarding the names, affiliations and interests of certain of the Company’s executive officers and directors in the solicitation by reading the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019, and the proxy statement/prospectus and other relevant materials filed with the SEC in connection with the business combination when they become available. Information concerning the interests of the Company’s and HighPeak Energy’s participants in the solicitation, which may, in some cases, be different than those of their stockholders generally, is set forth in the proxy statement/prospectus relating to the business combination.
+
+ 
+
+ 
+
+
+
+
+3
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+		
+			
+			 
+			
+			
+			Pure Acquisition Corp.
+			
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			Date: July 2, 2020  
+			
+			
+			By:
+			
+			
+			/s/ Steven W. Tholen
+			
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			Name:
+			
+			
+			Steven W. Tholen
+			
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			Title:
+			
+			
+			Chief Financial Officer
+			
+			
+			 
+			
+		
+
+
+
+ 
+
+4
+
+
+
+
+ 
+
+
+
+
+
+
+

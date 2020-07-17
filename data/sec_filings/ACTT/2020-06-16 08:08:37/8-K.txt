@@ -1,0 +1,757 @@
+
+8-K
+1
+tm2022707d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):  June
+15, 2020
+
+ 
+
+ACT II
+GLOBAL ACQUISITION CORP.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Cayman Islands
+     
+    001-38880
+     
+    38-4101973
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+745 5th Avenue
+
+New York, NY 10151
+
+Attn: Christopher Giordano; Jon Venick
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (212) 335-4500
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    x
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+     
+     
+     
+     
+     
+
+    Units, each consisting of one Class A Ordinary Share and one-half of one Redeemable Warrant
+     
+    ACTTU
+     
+    The NASDAQ Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Class A Ordinary Shares, par value $0.0001 per share
+     
+    ACTT
+     
+    The NASDAQ Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Redeemable Warrants, each exercisable for one Class A Ordinary Share for $11.50 per share
+     
+    ACTTW
+     
+    The NASDAQ Stock Market LLC
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+       
+     
+    
+
+ 
+
+Item 1.01 Entry Into A Material
+Definitive Agreement.
+
+ 
+
+Amendment No. 3 to Purchase Agreement
+
+ 
+
+As previously disclosed,
+on December 19, 2019, Act II Global Acquisition Corp. (“Act II”) entered
+into a purchase agreement, as amended on February 12, 2020, and May 8, 2020 (the “Purchase Agreement”),
+with Flavors Holdings Inc. (“Flavors Holdings”), MW Holdings I
+LLC (“MW Holdings I”), MW Holdings III LLC (“MW
+Holdings III”) and Mafco Foreign Holdings, Inc. (together with Flavors Holdings,
+MW Holdings I and MW Holdings III, the “Sellers”), and, for the
+purposes of Amendment No. 2 to the Purchase Agreement, Project Taste Intermediate LLC (“Intermediate Holdco”),
+in connection with the proposed purchase of all of the outstanding equity interests of Merisant Company (“Merisant”),
+Merisant Luxembourg (“Merisant Luxembourg”), Mafco Worldwide LLC
+(“Mafco Worldwide”), Mafco Shanghai LLC (“Mafco
+Shanghai”), EVD Holdings LLC (“EVD Holdings”),
+and Mafco Deutschland GmbH (together with Merisant, Merisant Luxembourg, Mafco Worldwide, Mafco Shanghai, and EVD Holdings, the
+ “Transferred Entities”). Subject to the terms and conditions of
+the Purchase Agreement, at the closing of the transactions contemplated thereunder (the “Closing”),
+the Sellers will sell, convey, assign, transfer and deliver to Act II (or its designee), and Act II (or its designee) will purchase,
+the issued and outstanding equity interests of the Transferred Entities and certain assets thereof, and assume certain liabilities
+included in the Transferred Assets and Liabilities (as defined in the Purchase Agreement), in each instance, free and clear of
+all liens (subject to certain exceptions set forth in the Purchase Agreement), in exchange for the Purchase Price (as defined in
+the Purchase Agreement). 
+
+ 
+
+On June 15, 2020, Act
+II, Intermediate Holdco and the Sellers entered into Amendment No. 3 to Purchase Agreement (the “Purchase Agreement Amendment”),
+pursuant to which the parties further amended certain provisions of the Purchase Agreement, in order to, among other things:
+
+ 
+
+
+·reduce the Base Cash Consideration (as defined in the Purchase Agreement) from $415,000,000 to
+$387,500,000;
+
+ 
+
+
+·eliminate the Purchaser Ordinary Shares Consideration (as defined in the Purchase Agreement), valued
+at approximately $25,000,000, except to the extent issuable in exchange for a dollar-for-dollar reduction to the Base Cash Consideration,
+which may be made at Act II’s election, subject to certain conditions set forth in the Purchase Agreement Amendment and the
+mechanics described below;
+
+ 
+
+
+·provide that the Purchaser Ordinary Shares Consideration (as defined in the Purchase Agreement),
+if any, will be equal to the quotient of (i) the amount, if any, by which the Base Cash Consideration is reduced in accordance
+with the mechanics set forth below, divided by (ii) the lowest per share price at which Class A Ordinary Shares are sold
+by Act II to any person from and after the date of the Purchase Agreement but prior to, at
+or in connection with the Closing;
+
+ 
+
+
+·modify Act II’s ability to convert a portion of the Purchase Price (as defined in the Purchase
+Agreement) payable to the Sellers from Base Cash Consideration into Purchaser Ordinary Shares Consideration by:
+
+ 
+
+
+·increasing the cap on the amount of consideration which is convertible from $20,000,000 to $21,000,000;
+and
+
+ 
+
+
+·requiring that, as a condition on Act II’s exercise of the option to convert, there must
+be less than $174,000,000 cash available (as calculated in the manner prescribed in connection with the minimum cash condition
+to close);
+
+ 
+
+
+·reduce the minimum amount of cash that must be available to Act II on the date of Closing in order
+to satisfy certain of its cash payment obligations, after giving effect to (i) all redemption payments owed by Act II to its shareholders
+that have exercised their rights to redeem their public shares and (ii) all available amounts in the trust account established
+in connection with the Act II’s initial public offering, but excluding any proceeds contemplated by the Debt Financing (as
+defined in the Purchase Agreement), the PIPE Financing (as defined in the Purchase Agreement) and any additional equity financing,
+from $210,000,000 to $153,000,000;
+
+ 
+
+
+·increase the number of Class A ordinary shares of Act II, par value $0.0001 per share (“Act
+II Class A Shares”), to be deposited into escrow by Act II Global LLC (“Act II Sponsor”) at the Closing
+from 2,000,000 to 3,000,000; and
+
+ 
+
+
+·remove the obligation of the parties to enter into the investors agreement at the Closing, which
+eliminated, among other things, the board designation and registration rights of the Sellers.
+
+
+
+
+
+     2 
+     
+    
+
+ 
+
+A
+copy of the Purchase Agreement Amendment is filed with this Current Report on Form 8-K as Exhibit 2.1 and is incorporated herein
+by reference, and the foregoing description of the Purchase Agreement Amendment is qualified in its entirety by reference thereto.
+
+ 
+
+Amendment to Sponsor Support
+Agreement
+
+ 
+
+As previously disclosed,
+concurrently with the execution of the Purchase Agreement, Act II Sponsor, Act II and the Sellers entered into a Sponsor Support
+Agreement, as amended on February 12, 2020 (the “Sponsor Support Agreement”), pursuant to which Act II Sponsor
+agreed to certain covenants and agreements related to the Transactions, particularly with respect to taking supportive actions
+to consummate the Transactions, to be effective at the Closing.
+
+ 
+
+Concurrently with the
+execution of the Purchase Agreement Amendment, Act II Sponsor, Act II, and the Sellers entered into Amendment No. 2 to Sponsor
+Support Agreement (the “Sponsor Support Amendment”), pursuant to which:
+
+ 
+
+
+·Act II Sponsor agreed to deposit an additional
+1,000,000 Act II Class A Shares (from 2,000,000 to 3,000,000) into escrow at the Closing; and
+
+ 
+
+
+·the Sellers no longer have the right to
+designate to two members to the board of directors of the post-close combined company. 
+
+ 
+
+A
+copy of the Sponsor Support Amendment is filed with this Current Report on Form 8-K as Exhibit 10.1 and is incorporated herein
+by reference. The foregoing description of the Sponsor Support Amendment is qualified in its entirety by reference thereto.
+
+ 
+
+Amendment
+and Consent to Commitment Letter
+
+ 
+
+As
+previously disclosed, on December 19, 2019, in connection with entering into the Purchase Agreement, Act II entered into a commitment
+letter, as amended on May 8, 2020 (the “Commitment Letter”), with TD Securities (USA) LLC (“TDSL”),
+as left lead arranger and book runner, The Toronto-Dominion Bank, New York Branch (“TDNY”), and Toronto Dominion
+(Texas) LLC (“TDTX,” and together with TDSL and TDNY, the “TD Entities”) as administrative
+agent. The Commitment Letter was filed as Exhibit 10.2 to the Form 8-K filed by Act II on February 13, 2020.
+
+ 
+
+On
+June 15, 2020, Act II and the TD Entities entered into a side letter relating to certain matters set forth in the Commitment Letter
+(the “Commitment Letter Consent”). Among other things, the Commitment Letter Consent Letter (i) amended certain
+factual and procedural statements in the Commitment Letter regarding the overall proposed Transaction and (ii) provided consent
+from the TD Entities regarding Act II’s entry in the Purchase Agreement Amendment.
+
+ 
+
+A
+copy of the Commitment Letter Consent Letter is filed with this Current Report on Form 8-K as Exhibit 10.2 and is incorporated
+herein by reference, and the foregoing description of the Commitment Letter Consent Letter is qualified in its entirety by reference
+thereto.
+
+ 
+
+Consents
+to Subscription Agreements
+
+ 
+
+As
+previously disclosed, on February 12, 2020, Act II entered into subscription agreements (collectively, the “Subscription
+Agreements”) with certain investors (collectively, the “PIPE Investors”) pursuant to which, among
+other things, such investors agreed to subscribe for and purchase, and Act II agreed to issue and sell to such investors, Act II
+Class A Shares and warrants for gross proceeds of approximately $75,000,000.
+
+ 
+
+In
+accordance with the terms of the Subscription Agreements, and concurrently the execution of the Purchase Agreement Amendment, the
+Sponsor Support Amendment, and the Commitment Letter Consent, Act II entered into side letters with the PIPE Investors pursuant
+to which the PIPE Investors irrevocably consented to, among other things, the amendments set forth above.
+
+ 
+
+Item
+5.07 Submission of Matters to a Vote of Security Holders.
+
+ 
+
+On June 15 2020, Act
+II convened and then adjourned, without conducting any other business, the extraordinary general meeting of the shareholders of
+Act II (the “Shareholders Meeting”) and the special meeting of the public warrant holders of Act II (the “Warrant
+Holders Meeting”), held to consider certain matters relating to the Business Combination, until Wednesday, June 24, 2020,
+at 3:30 p.m. EDT and 3:00 p.m. EDT, respectively. The only proposals submitted for a vote of the shareholders at the Shareholders
+Meeting, and the public warrant holders at the Warrant Holders Meeting, was the approval of the adjournment of such meeting to
+a later date or dates (the “Adjournment Proposal” and the “Warrant Holders Adjournment Proposal,”
+respectively). The Adjournment Proposal and the Warrant Holders Adjournment Proposal are each described in greater detail in the
+proxy statement/prospectus filed pursuant to Rule 424(b)(3) (File No. 333-236459) by Act II with the U.S. Securities and Exchange
+Commission on May 13, 2020.
+
+ 
+
+
+
+
+     3 
+     
+    
+
+ 
+
+Extraordinary General Meeting of Shareholders
+
+ 
+
+As of May 1, 2020,
+the record date for the Shareholders Meeting, there were 30,000,000 Act II Class A Shares and 7,500,000 Class B ordinary shares
+of Act II, par value $0.0001 per share (“Act II Class B Shares,” and together with the Act II Class A Shares,
+ “Act II Shares”), issued and outstanding, each of which was entitled to one vote with respect to the Adjournment
+Proposal. At the Shareholders Meeting, 32,167,519 Act II Shares, or approximately 85.78%
+of the total Act II Shares outstanding, were present in person or represented by proxy, constituting a quorum. The final results
+of voting for the only matter submitted to a vote of shareholders at the Shareholders Meeting are as follows:
+
+ 
+
+The Adjournment
+Proposal — To approve a resolution to adjourn the Shareholders Meeting to a later date or dates, if necessary to permit
+further solicitation and vote of proxies if it is determined by Act II that more time is necessary or appropriate to approve one
+or more proposals at the Shareholders Meeting.
+
+ 
+
+
+
+    FOR 
+    AGAINST 
+    ABSTENTIONS
+
+    30,797,731 
+    1,369,488 
+    300
+
+
+ 
+
+Special Meeting of Public Warrant Holders
+
+ 
+
+As of May 1, 2020,
+the record date for the Warrant Holders Meeting, there were 15,000,000 warrants of Act II issued in its initial public offering,
+each representing the right to purchase one Act II Class A Share (“Public Warrants”), issued and outstanding,
+each of which was entitled to one vote with respect to the Warrant Holders Adjournment Proposal. At the Warrant Holders Meeting,
+a total of 10,851,754 Public Warrants, or approximately 72.34% of the total Public Warrants
+outstanding, were present in person or represented by proxy, constituting a quorum. The
+final results of voting for the only matter submitted to a vote of public warrant holders at the Warrant Holders Meeting are as
+follows:
+
+ 
+
+The Warrant Holders
+Adjournment Proposal — To adjourn the meeting to a later date or dates, if necessary to permit further solicitation and
+vote of proxies if it is determined by Act II that more time is necessary or appropriate to approve the warrant amendment proposal.
+
+ 
+
+
+
+    FOR 
+    AGAINST 
+    ABSTENTIONS
+
+    10,797,693 
+    54,061 
+    0
+
+
+  
+
+Item
+7.01 Regulation FD Disclosure.
+ 
+
+On
+June 16, 2020, Act II issued a press release announcing the execution of the Purchase Agreement Amendment. The press release is
+attached hereto as Exhibit 99.1 and incorporated by reference herein.
+
+ 
+
+Act
+II prepared a revised investor presentation for use in connection with various meetings and conferences. A copy of the investor
+presentation is furnished as Exhibit 99.2 and incorporated by reference herein.
+
+ 
+
+The
+foregoing (including Exhibits 99.1 and 99.2) is being furnished pursuant to Item 7.01 and will not be deemed to be filed for purposes
+of Section 18 of the Securities and Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise be subject
+to the liabilities of that section, nor will it be deemed to be incorporated by reference in any filing under the Securities Act
+or the Exchange Act.
+
+ 
+
+Item
+8.01 Other Events.
+ 
+
+The
+information set for in Item 5.07 of this Current Report on Form 8-K is incorporated by reference into this Item 8.01.
+
+ 
+
+
+
+
+     4 
+     
+    
+
+ 
+
+In connection with
+the shareholder and warrant holder approvals of the adjournment proposals, Act II convened and then adjourned, without conducting
+any business, the Shareholders Meeting and the Warrant Holders Meeting. The adjourned Shareholders Meeting and Warrant Holders
+Meeting will be reconvened on Wednesday, June 24, 2020, at 3:30 p.m. EDT and 3:00 p.m. EDT, respectively.
+The record date for the Shareholders Meeting and Warrant Holders Meeting remains May 1, 2020. 
+
+ 
+
+In connection with
+the adjournment of the Shareholders Meeting, Act II has extended the deadline by which holders of Act II Class A Shares may submit
+such shares for redemption until Monday, June 22, 2020, at 5:00 p.m. EDT (two business days prior to the vote at the adjourned
+extraordinary general meeting), in accordance with the procedures described in the definitive proxy statement/prospectus.
+
+ 
+
+Act II intends to
+file a supplement to the definitive proxy statement/prospectus that will provide further information on the amendments and
+revised terms governing the Business Combination, as described in Item 1.01 of this
+Current Report on Form 8-K. 
+
+ 
+
+Cautionary Statement Concerning
+Forward-Looking Statements
+
+ 
+
+Certain of the
+matters discussed in this communication constitute forward-looking statements within the meaning of the Securities Act of 1933
+and the Securities Exchange Act of 1934, both as amended by the Private Securities Litigation Reform Act of 1995. The forward-looking
+statements include, among other things, statements regarding the intent, belief or expectations of Act II and can be identified
+by the use of words such as “may,” “will,” “should,” “would,” “will be,”
+ “will continue,” “will likely result,” “believe,” “project,” “expect,”
+ “anticipate,” “intend,” “estimate” and other comparable terms. Such forward-looking statements
+with respect to financial performance, strategies, prospects and other aspects of the businesses of Act II, Merisant Company (“Merisant”),
+MAFCO Worldwide LLC (“Mafco”) or the combined company after completion of the business combination are based
+on current expectations that are subject to risks and uncertainties. A number of factors could cause actual results or outcomes
+to differ materially from those expressed or implied by such forward-looking statements. These factors include, but are not limited
+to: (1) potential adverse effects of the ongoing global COVID-19 pandemic; (2) the occurrence of any event, change or other circumstances
+that could give rise to the termination of the definitive agreement with respect to the business combination; (3) the outcome of
+any legal proceedings that may be instituted against Act II, the combined company or others following the announcement of the business
+combination and the definitive agreement with respect thereto; (4) the inability to complete the business combination due to the
+failure to obtain approval of the shareholders and/or warrant holders of Act II, to obtain financing to complete the business combination
+or to satisfy conditions to closing in the definitive agreement with respect to the business combination; (5) changes to the proposed
+structure of the business combination that may be required or appropriate as a result of applicable laws or regulations or as a
+condition to obtaining regulatory approval of the business combination; (6) the ability to comply with Nasdaq listing standards
+following the consummation of the business combination; (7) the risk that the business combination disrupts current plans and operations
+of Merisant and Mafco as a result of the announcement and consummation of the business combination; (8) the ability to recognize
+the anticipated benefits of the business combination, which may be affected by, among other things, competition, the ability of
+the combined company to grow and manage growth profitably, maintain relationships with suppliers, obtain adequate supply of products
+and retain its management and key employees; (9) costs related to the business combination; (10) changes in applicable laws or
+regulations; (11) the possibility that Merisant and Mafco or the combined company may be adversely affected by other economic,
+business, and/or competitive factors; (12) the inability to achieve estimates of expenses and profitability; (13) the impact of
+foreign currency exchange rates and interest rate fluctuations on results; and (14) other risks and uncertainties indicated from
+time to time in the definitive proxy statement/prospectus of Act II, including those under “Risk Factors” therein,
+and other documents filed (or furnished) or to be filed (or furnished) with the Securities and Exchange Commission by Act II. You
+are cautioned not to place undue reliance upon any forward-looking statements, which speak only as of the date made. Merisant and
+Mafco and Act II undertake no commitment to update or revise the forward-looking statements, whether as a result of new information,
+future events or otherwise, except as required by law.
+
+ 
+
+Additional Information and Where
+to Find It
+
+ 
+
+In connection
+with the proposed business combination and warrant amendment, Act II filed with the Securities and Exchange Commission (the “SEC”)
+and mailed the definitive proxy statement/prospectus and other relevant documentation to Act II shareholders and Act II warrant
+holders. This filing does not contain all the information that should be considered concerning the proposed transaction. It is
+not intended to form the basis of any investment decision or any other decision with respect to the business combination and the
+warrant amendment. This communication shall not constitute an offer to sell or the solicitation of an offer to buy any securities,
+nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior
+to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except
+by means of a prospectus meeting the requirements of the federal securities laws.
+
+ 
+
+
+
+
+     5 
+     
+    
+
+ 
+
+Act II shareholders
+and Act II warrant holders and other interested persons are advised to read the definitive proxy statement/prospectus in connection
+with Act II’s solicitation of proxies for the extraordinary general meeting of the Act II shareholders and the special meeting
+of Act II’s public warrant holders to be held to approve the proposed transaction and the warrant amendment, because these
+materials contain important information about Merisant Company (“Merisant”), MAFCO Worldwide LLC (“Mafco”)
+and Act II and the proposed transaction and the warrant amendment.
+
+ 
+
+The definitive
+proxy statement/prospectus was mailed to Act II shareholders and warrant holders as of the record date, May 1, 2020. Shareholders
+and warrant holders are also able to obtain a copy of the definitive proxy statement/prospectus, without charge, at the SEC’s
+website at www.sec.gov.
+
+ 
+
+Participants
+in the Solicitation
+
+ 
+
+Act II, Merisant, Mafco and their respective
+directors and officers and representatives or affiliates may be deemed to be participants in the solicitation of proxies of Act
+II shareholders in connection with the business combination and of Act II warrant holders in connection with the warrant amendment. Act
+II shareholders and Act II warrant holders and other interested persons may obtain, without charge, more detailed information regarding
+the directors and officers of Act II in the definitive proxy statement/prospectus of Act II. Information regarding the
+persons who may, under SEC rules, be deemed participants in the solicitation of proxies to Act II shareholders in connection with
+the business combination, and to Act II warrant holders in connection with the warrant amendment, is set forth in the proxy statement/prospectus
+for the business combination and warrant amendment. Additional information regarding the interests of participants in the solicitation
+of proxies in connection with the business combination and warrant amendment is included in the proxy statement/prospectus that
+Act II filed with the SEC and other documents furnished or filed with the SEC by Act II.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit
+No.
+     
+    Description
+
+     
+     
+     
+
+    2.1
+     
+    Amendment No. 3 to  Purchase Agreement dated as of June 15, 2020, by and among Act II, Intermediate Holdco and the Sellers.
+
+    10.1
+     
+    Amendment No. 2 to Sponsor Support Agreement dated as of June 15, 2020, by and among Act II Sponsor, Act II and the Sellers.
+
+    10.2
+     
+    Consent Commitment Letter dated June 15, 2020, by and among TDSL, TDNY, TDTX and Act II.
+
+    99.1
+     
+    Press Release dated June 16, 2020.
+
+    99.2
+     
+    Investor Presentation dated June 2020.
+
+
+ 
+
+
+     6 
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+ 
+
+
+
+     
+    Act II Global Acquisition Corp.
+
+     
+     
+     
+
+    Date: June 16, 2020
+    By:
+    /s/ Ira J. Lamel
+
+     
+     
+    
+        Name: Ira J. Lamel
+        Title: Chief Financial Officer
+
+ 
+
+
+
+
+     7 
+    
+
+
+
+
+
+

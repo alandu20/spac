@@ -1,0 +1,1304 @@
+
+8-K
+1
+d941403d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT
+REPORT  PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (Date of earliest event reported): June 15, 2020 (June 10, 2020) 
+   
+OPEN LENDING CORPORATION 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38339
+ 
+82-3008583
+
+ (State or other jurisdiction
+of incorporation)
+ 
+(CommissionFile Number)
+ 
+(IRS EmployerIdentification No.)
+ Barton Oaks One 
+901 S. MoPac Expressway 
+Bldg. 1, Suite 510 
+Austin, Texas 78746 
+(Address of principal executive offices, including zip code) 
+Registrants telephone number, including area code:
+512-892-0400  (Former name or former address, if
+changed since last report)     
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions:   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbol(s)
+ 
+ Name of each exchange
+on which registered
+
+
+
+Common stock, par value $0.01 per share
+ 
+LPRO
+ 
+The Nasdaq Stock Market LLC
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+ Introductory Note 
+On June 10, 2020 (the Closing Date), Nebula Acquisition Corporation, our predecessor company (Nebula), consummated
+the previously announced business combination (the Business Combination) pursuant to the terms of the Business Combination Agreement, dated as of January 5, 2020 (as amended by Amendment No. 1 and Waiver, dated March 18,
+2020 (the First Amendment) to the Business Combination Agreement, Amendment No. 2 and Consent, dated March 26, 2020 (the Second Amendment) to the Business Combination Agreement, and Amendment No. 3, dated
+May 13, 2020 (the Third Amendment) to the Business Combination Agreement (collectively, the Business Combination Agreement)) with Open Lending, LLC., a Texas limited liability company (Open Lending), BRP Hold
+11, Inc., a Delaware corporation (Blocker), the Blockers sole stockholder (the Blocker Holder), Nebula Parent Corp., a Delaware corporation (ParentCo), NBLA Merger Sub LLC, a Texas limited liability company
+(Merger Sub LLC), NBLA Merger Sub Corp., a Delaware corporation (Merger Sub Corp), and Shareholder Representative Services LLC, a Colorado limited liability company, as the Securityholder Representative. Pursuant to the
+Business Combination Agreement, on the closing date, each of the following transactions occurred in the following order: (i) Merger Sub Corp merged with and into Nebula (the First Merger), with Nebula surviving the First Merger as a
+wholly owned subsidiary of ParentCo (the NAC Surviving Company); (ii) immediately following the First Merger and prior to the Blocker Contribution (as defined below), Blocker redeemed a specified number of shares of Blocker common stock
+in exchange for cash (the Blocker Redemption); (iii) immediately following the Blocker Redemption, ParentCo acquired, and the Blocker Holder contributed to ParentCo the remaining shares of Blocker common stock after giving effect to the
+Blocker Redemption (the Blocker Contribution) such that, following the Blocker Contribution, Blocker is a wholly-owned subsidiary of ParentCo; (iv) immediately following the Blocker Contribution, Merger Sub LLC merged with and into
+Open Lending (the Second Merger), with Open Lending surviving the Second Merger as a direct and indirect wholly-owned subsidiary of ParentCo (the Surviving Company); (v) immediately following the Second Merger, Blocker
+acquired, and ParentCo contributed to Blocker, all common units of the Surviving Company directly held by ParentCo after the Second Merger such that the Surviving Company became a wholly-owned subsidiary of Blocker; and (vi) the NAC Surviving
+Company acquired, and ParentCo contributed to the NAC Surviving Company, the remaining shares of Blocker common stock after giving effect to the Blocker Redemption and the Blocker Contribution (the ParentCo Blocker Contribution) such
+that, following the ParentCo Blocker Contribution, Blocker is a wholly-owned subsidiary of the NAC Surviving Company.  Immediately upon
+the completion of the Business Combination and the other transactions contemplated by the Business Combination Agreement (the Transactions, and such completion, the Closing), Open Lending became a direct wholly-owned
+subsidiary of ParentCo. In connection with the Transactions, ParentCo changed its name to Open Lending Corporation (Open Lending Corporation). 
+Unless the context otherwise requires, we, us, our, and the Company refer Open Lending
+Corporation, a Delaware corporation, and its consolidated subsidiaries. All references herein to the Board refer to the board of directors of Open Lending Corporation. References to ParentCo herein refer to Open Lending Corporation prior
+to the change of ParentCos name to Open Lending Corporation.   
+
+
+Item 1.01.
+ Entry into a Material Definitive Agreement. 
+Founder Support Agreement  In
+connection with the Closing, Nebula entered into the NAC Founder Support Agreement (the Founder Support Agreement), dated January 5, 2020 with the holders of the Nebula Class B Common Stock (including Nebula Holdings, LLC
+(Sponsor)), pursuant to which, among other things:   
+
+
+ 
+
+ 
+ Such holders agreed to approve the Business Combination Agreement and the Business Combination; and
+  
+
+
+ 
+
+ 
+ Such holders agreed to forfeit (without consideration) all Nebula warrants held by them to Nebula, which warrants
+constitute all of the warrants sold in the private placement consummated in connection with the closing of Nebulas initial public offering (the Private Placement Warrants). 
+   1 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ The Sponsor agreed that to the extent the NAC Expenses (as defined in the Business Combination Agreement) shall
+exceed an amount equal to $25,000,000 plus the amount of cash as of the Reference Time (as defined in the Proxy Statement and Prospectus) held by Nebula without restriction outside of the Trust Account (as defined in the Proxy Statement and
+Prospectus) and any interest earned on the amount of cash held inside the Trust Account (collectively, the NAC Expense Cap), then, the Sponsor shall, on the Closing Date, in its sole option, either (a) pay any such amount in excess
+of the NAC Expense Cap to Nebula in cash, by wire transfer of immediately available funds to the account designated by Nebula, or (b) forfeit to Nebula (for no consideration) such number of shares of Nebula Class B Common Stock (valued at
+$10.00 per share of Nebula Class B Common Stock) held by the Sponsor that would, in the aggregate, have a value equal to such amount in excess of the NAC Expense Cap; provided, that if Sponsor shall elect to forfeit shares of Nebula
+Class B Common Stock and the number of shares of Nebula Class B Common Stock available for forfeiture shall be insufficient to satisfy the Sponsors obligations to satisfy such excess NAC Expenses, then Sponsor shall, on the Closing
+Date, satisfy any such additional NAC Expenses in cash on the Closing Date.   
+
+
+ 
+
+ 
+ Such holders agreed to certain amendments to the lock up terms set forth in that certain letter agreement, dated
+January 9, 2018, by and among Nebula and such holders, pursuant to which the lock up term will be extended for up to seven years following the Closing for half the shares held by such holders, depending on the trading price of the
+ParentCos common stock (and subject to forfeiture if such trading prices are not reached).   
+
+
+ 
+
+ 
+ Such holders waived any anti-dilution protections provided to holders of the Nebula Class B Common Stock in
+Nebulas certificate of incorporation.   
+
+
+ 
+
+ 
+ Such holders will be issued an aggregate of up to 1,250,000 additional shares of the Companys common stock
+as follows: (i) 625,000 shares, if prior to or as of the second anniversary of the Closing, the VWAP is greater than or equal to $12.00 over any 20 trading days within any 30-trading day period (the
+First Level Earn-Out Shares); and (ii) 625,000 shares, if prior to or as of the 30-month anniversary of the Closing, the VWAP is greater than or equal to
+$14.00 over any 20 trading days within any 30-trading day period (the Second Level Earn-Out Shares). If a change of control of the Company occurs
+(i) prior to the second anniversary of the Closing, then the full First Level Earn-Out Shares and the Second Level Earn-Out Shares that remain unissued as of
+immediately prior to the consummation of such change of control shall immediately vest and the holders of the Nebula Class B Common Stock, including the Sponsor, shall be entitled to receive such First Level
+Earn-Out Shares and the Second Level Earn-Out Shares prior to the consummation of such change of control and (ii) after the second anniversary of the Closing but
+prior to 30-month anniversary of the Closing, then the Second Level Earn-Out Shares that remain unissued as of immediately prior to the consummation of such change of
+control shall immediately vest and the holders of the Nebula Class B Common Stock, including the Sponsor, shall be entitled to receive such Second Level Earn-Out Shares prior to the consummation of such
+change of control.  As previously stated, Nebula and Nebula Holdings, LLC is each a party to the Founder Support Agreement. Nebula is
+the predecessor to Open Lending Corporation, True Wind Capital Management, L.P. is an advisor to Nebula and to True Wind Capital, L.P., the managing member of Nebula Holdings, LLC. Mr. Adam Clammer, a member of the board of directors of Open
+Lending Corporation, is a managing member of True Wind Capital GP, LLC, the General Partner of True Wind Capital, L.P. Mr. Brandon Van Buren, a member of the board of directors of Open Lending Corporation, is a partner at True Wind Capital
+Management, L.P.  The foregoing description of the Founder Support Agreement does not purport to be complete and is qualified in its entirety by the full
+text of the Founder Support Agreement, a copy of which is attached hereto as Exhibits 10.1, 10.2 and 10.3 and are incorporated herein by reference. 
+Investor Support Agreement 
+Contemporaneously with the execution of the Business Combination Agreement, certain stockholders of Nebula entered into the Investor Support
+Agreement (the Investor Support Agreement) dated as of January 5, 2020, by and among Nebula and certain Nebula stockholders, pursuant to which, among other things, certain holders agreed (i) to
+
+   2 
+
+
+
+
+
+
+
+
+
+ 
+approve the Business Combination Agreement and the Business Combination; (ii) not to redeem any shares held by such stockholders in connection with the Business Combination; and
+(iii) to tender any warrants to purchase Nebula Class A Common Stock held by such stockholder to Nebula for cash consideration of $1.50 per whole warrant and to vote all such warrants held by such Nebula stockholder in favor of any
+amendment to the terms of such warrants proposed by Nebula.  The foregoing description of the Investor Support Agreement does not purport to be complete
+and is qualified in its entirety by the full text of the Investor Support Agreement, a copy of which is attached hereto as Exhibit 10.4 and is incorporated herein by reference. 
+Company Support Agreement 
+Contemporaneously with the execution of the Business Combination Agreement, certain unitholders of Open Lending entered into the Company
+Support Agreement (the Company Support Agreement) dated as of January 5, 2020, by and among Nebula and certain Open Lending unitholders. Under the terms of the Company Support Agreement, such unitholders of Open Lending agreed to
+approve the Business Combination Agreement and the Business Combination.  The foregoing description of the Company Support Agreement does
+not purport to be complete and is qualified in its entirety by the full text of the Company Support Agreement, a copy of which is attached hereto as Exhibit 10.5 and is incorporated herein by reference. 
+Investors Rights Agreement  In
+connection with the Transactions, Open Lending, Nebula, ParentCo, certain persons and entities holding membership units of Open Lending, and certain persons and entities holding founder shares of Nebula, entered into an Investor Rights Agreement
+(the Investor Rights Agreement) dated as of the Closing Date. The Investor Rights Agreement provides for certain designation rights with respect to the board of directors of the Company, such that the Sponsor and Blocker Holder and
+specified members of Open Lending will each have the right to designate two agreed upon board representatives, for period of time following the Closing. 
+Pursuant to the terms of the Investor Rights Agreement, the Company is obligated to file a registration statement to register the resale of
+certain securities of the Company held by the Investor Rights Holders (as defined in the Proxy Statement and Prospectus). In addition, pursuant to the terms of the Investor Rights Agreement and subject to certain requirements and customary
+conditions, including with regard to the number of demand rights that may be exercised, the Investor Rights Holders may demand at any time or from time to time, that the Company file a registration statement on Form
+S-1, or any similar long-form registration statement, or if available, on Form S-3 to register the shares of common stock of the Company held by such Investor Rights
+Holders. The Investor Rights Agreement also provides the Investor Rights Holders with piggy-back registration rights, subject to certain requirements and customary conditions. The Investor Rights Agreement further provides for the
+Companys Common Stock held by the Holders (as defined therein) to be locked-up for 180 days after the Closing. 
+The foregoing description of the Investor Rights Agreement does not purport to be complete and is qualified in its entirety by the terms and
+conditions of the Investor Rights Agreement, which is attached hereto as Exhibit 10.8 and is incorporated herein by reference.  Tax Receivable
+Agreement  In connection with the Closing, we entered into a Tax Receivable Agreement, dated as of the Closing Date, with Nebula,
+the Blocker, the Blocker Holder, and Open Lending. Prior to the Closing, (i) 100% of the interest in Open Lending was held by the Blocker and certain other persons, which Nebula refers to as the Company Unit Sellers, and (ii) 100% of the
+Blocker was held by the Blocker Holder. The Tax Receivable Agreement generally provides for the payment by us to the Company Unit Sellers and Blocker Holder, as applicable, of 85% of the net cash savings, if any, in U.S. federal, state and local
+income tax that we actually realize (or are deemed to realize in certain circumstances) in periods after the Closing as a result of: (i) certain tax attributes of Blocker and/or Open Lending that
+
+   3 
+
+
+
+
+
+
+
+
+
+ 
+existed prior to the Business Combination and were attributable to the Blocker; (ii) certain increases in the tax basis of Open Lending assets resulting from the Second Merger;
+(iii) imputed interest deemed to be paid by us as a result of payments we make under the Tax Receivable Agreement; and (iv) certain increases in tax basis resulting from payments Nebula makes under the Tax Receivable Agreement. 
+The foregoing description of the Tax Receivable Agreement does not purport to be complete and is qualified in its entirety by the terms and
+conditions of the Tax Receivable Agreement, which is attached hereto as Exhibit 10.7 and is incorporated herein by reference.  Subscription
+Agreement  In connection with the Transactions, Nebula obtained commitments from subscribers (including Nebula Holdings, LLC) to
+purchase shares of Nebula Class A Common Stock, which were converted into PIPE Shares (as defined in the Proxy Statement and Prospectus) for a purchase price of $10.00 per share, in the PIPE (as defined in the Proxy Statement and Prospectus).
+Several fundamental investors committed an aggregate of $200 million to participate in the transaction through the PIPE anchored by True Wind Capital Management L.P. (True Wind Capital). True Wind Capital agreed to subscribe for
+$85,000,000 worth of such PIPE Shares for a purchase price of $10.00 per share. Certain offering related expenses were paid by Nebula, including customary fees payable to the placement agents, Deutsche Bank Securities Inc. (Deutsche
+Bank) and Goldman Sachs & Co., LLC (Goldman Sachs). Such commitments were made by way of the Subscription Agreements dated as of January 5, 2020, by and among each Subscriber, Nebula, Open Lending and ParentCo. The
+purpose of the sale of the PIPE Shares was to raise additional capital for use in connection with the Transactions and to meet the minimum cash requirements provided in the Business Combination Agreement. The Subscription Agreements for the PIPE
+were entered into contemporaneously with the execution of the Business Combination Agreement.  True Wind Capital is an advisor to Nebula
+and to True Wind Capital, L.P., the managing member of Nebula Holdings, LLC. Mr. Adam Clammer, a member of the board of directors of Open Lending Corporation, is a managing member of True Wind Capital GP, LLC, the General Partner of True Wind
+Capital, L.P. Mr. Brandon Van Buren, a member of the board of directors of Open Lending Corporation, is a partner at True Wind Capital Management, L.P. 
+The foregoing description of the Subscription Agreement does not purport to be complete and is qualified in its entirety by the terms and
+conditions of the Subscription Agreement, which is attached hereto as Exhibit 10.6 and is incorporated herein by reference.  Indemnification
+Agreement  On the Closing Date, Open Lending Corporation entered into indemnification agreements, dated as of the Closing Date,
+with each of its directors and executive officers. Each indemnification agreement provides for indemnification and advancements by Open Lending Corporation of certain expenses and costs relating to claims, suits or proceedings arising from his or
+her service to Open Lending Corporation or, at our request, service to other entities, as officers or directors to the maximum extent permitted by applicable law. 
+The foregoing description of the indemnification agreements does not purport to be complete and is qualified in its entirety by the terms and
+conditions of the indemnification agreements, forms of which is attached hereto as Exhibit 10.11 and 10.12 and are incorporated herein by reference. 
+Open Lending Corporation 2020 Stock Option and Incentive Plan 
+At the special meeting of Nebula stockholders held on June 9, 2020, Nebula stockholders considered and approved the 2020 Stock Option and
+Incentive Plan (the 2020 Plan). The Company has initially reserved 9,693,750 shares of Company common stock outstanding upon the Closing for the issuance of awards under the 2020 Plan. The 2020 Plan provides that the number of shares
+reserved and available for issuance under the plan will automatically increase each January 1, beginning on January 1, 2021, by 4.0% of the outstanding number of shares of Company common stock on the immediately preceding December 31
+(the Annual Increase). This limit is subject to adjustment in the event of a stock split, stock dividend or other change in the capitalization of the Company and its consolidated subsidiaries
+
+   4 
+
+
+
+
+
+
+
+
+
+ 
+after giving effect to the Business Combination (the Combined Company). The maximum aggregate number of shares of common stock that may be issued upon exercise of incentive stock
+options under the 2020 Plan shall not exceed the initial limit cumulatively increased on January 1, 2021 and on each January 1 thereafter by the lesser of the Annual Increase or 14,540,625 shares of Stock. Based upon a price per share of
+$10.00, the maximum aggregate market value of the common stock that could potentially be issued under the 2020 Plan is $96,937,500.                . 
+The 2020 Plan contains a limitation whereby the value of all awards under the 2020 Plan and all other cash compensation paid by the Combined
+Company to any non-employee director for services as a non-employee director may not exceed $750,000 in any calendar year. 
+The 2020 Plan will be administered by the Combined Companys compensation committee, the Board or such other similar committee pursuant
+to the terms of the 2020 Plan. The administrator, which initially will be the compensation committee, will have full power to select, from among the individuals eligible for awards, the individuals to whom awards will be granted, to make any
+combination of awards to participants, and to determine the specific terms and conditions of each award, subject to the provisions of the 2020 Plan. The administrator may delegate to the chief executive officer the authority to grant stock options
+and other awards to employees who are not subject to the reporting and other provisions of Section 16 of the Exchange Act, subject to certain limitations and guidelines. Persons eligible to participate in the 2020 Plan will be those full or
+part-time officers, employees, non-employee directors and other key persons (including consultants) as selected from time to time by the administrator in its discretion. Approximately 97 individuals are
+currently eligible to participate in the 2020 Plan, which includes approximately six officers, 83 employees who are not officers, seven non-employee directors, and one consultant. 
+The 2020 Plan permits the granting of both options to purchase common stock intended to qualify as incentive stock options under
+Section 422 of the Code and options that do not so qualify. Options granted under the 2020 Plan will be non-qualified options if they fail to qualify as incentive options or exceed the annual limit on
+incentive stock options. Incentive stock options may only be granted to employees of the Company and its subsidiaries. Non-qualified options may be granted to any persons eligible to receive incentive options
+and to non-employee directors and key persons. The option exercise price of each option will be determined by the administrator but may not be less than 100% of the fair market value of the common stock on the
+date of grant unless the option is granted (i) pursuant to a transaction described in, and in a manner consistent with, Section 424(a) of the Code or (ii) to individuals who are not subject to U.S. income tax. The term of each option
+will be fixed by our administrator and may not exceed ten years from the date of grant. The administrator will determine at what time or times each option may be exercised, including the ability to accelerate the vesting of such options. 
+Upon exercise of options, the option exercise price must be paid in full either in cash, by certified or bank check or other instrument
+acceptable to the compensation committee or by delivery (or attestation to the ownership) of shares of common stock that are beneficially owned by the optionee for at least six months or were purchased in the open market. Subject to applicable law,
+the exercise price may also be delivered by a broker pursuant to irrevocable instructions to the broker from the optionee. In addition, the compensation committee may permit non-qualified options to be
+exercised using a net exercise feature which reduces the number of shares issued to the optionee by the number of shares with fair market value equal to the aggregate exercise price. 
+The Combined Companys compensation committee may award stock appreciation rights subject to such conditions and restrictions as it may
+determine. Stock appreciation rights entitle the recipient to shares of common stock, or cash, equal to the value of the appreciation in our stock price over the exercise price. The exercise price may not be less than 100% of the fair market value
+of our common stock on the date of grant. The term of each stock appreciation right will be fixed by the administrator and may not exceed ten years from the date of grant. The administrator will determine at what time or times each stock
+appreciation right may be exercised.  The administrator may award restricted shares of common stock and restricted stock units to
+participants subject to such conditions and restrictions as it may determine. These conditions and restrictions may include the achievement of certain performance goals and/or continued employment with us through a specified vesting period. The
+administrator may also grant shares of common stock that are free from any restrictions under the 2020 Plan. Unrestricted stock may be granted to participants in recognition of past services or for other valid consideration and may be issued in lieu
+of cash compensation due to such participant. The administrator may grant dividend equivalent rights to participants that entitle the recipient to receive credits for dividends that would be paid if the recipient had held a specified number of
+shares of common stock. 
+   5 
+
+
+
+
+
+
+
+
+
+ The administrator may grant cash bonuses under the 2020 Plan to participants, subject to the
+achievement of certain performance goals.  The 2020 Plan provides that upon the effectiveness of a sale event, as defined in
+the 2020 Plan, an acquirer or successor entity may assume, continue or substitute outstanding awards under the 2020 Plan. To the extent that awards granted under the 2020 Plan are not assumed or continued or substituted by the successor entity, upon
+the effective time of the sale event, such awards under the 2020 Plan shall terminate. In such case, except as may be otherwise provided in the relevant award agreement, all options and stock appreciation rights with time-based vesting, conditions
+of restrictions that are not exercisable immediately prior to the effective time of the sale event will become fully exercisable as of the effective time of the sale event, all other awards with time-based vesting, conditions or restrictions, will
+become fully vested and nonforfeitable as of the effective time of the sale event and all awards with conditions and restrictions relating to the attainment of performance goals may become vested and nonforfeitable in the discretion of the
+administrator. In the event of such termination, individuals holding options and stock appreciation rights will be permitted to exercise such options and stock appreciation rights (to the extent exercisable) within a specified period of time prior
+to the sale event. In addition, in connection with the termination of the 2020 Plan upon a sale event, we may make or provide for a cash payment to participants holding vested and exercisable options and stock appreciation rights equal to the
+difference between the per share cash consideration payable to stockholders in the sale event and the exercise price of the options or stock appreciation rights and we may make or provide for a cash payment to participants holding other vested
+awards.  Participants in the 2020 Plan are responsible for the payment of any federal, state or local taxes that the Combined Company is
+required by law to withhold upon the exercise of options or stock appreciation rights or vesting of other awards. Subject to approval by the compensation committee, participants may elect to have the minimum tax withholding obligations satisfied by
+authorizing the Combined Company to withhold shares of common stock to be issued pursuant to the exercise or vesting of such award.  The
+administrator may amend or discontinue the 2020 Plan and the administrator may amend or cancel outstanding awards for purposes of satisfying changes in law or any other lawful purpose, but no such action may adversely affect rights under an award
+without the holders consent. Certain amendments to the 2020 Plan require the approval of the Combined Companys stockholders. 
+No awards may be granted under the 2020 Plan after the date that is ten years from the date of stockholder approval of the 2020 Plan. No
+awards under the 2020 Plan have been made prior to the date hereof. A more complete summary of the terms of the 2020 Plan is set forth in the Proxy Statement and Prospectus included in the Companys Registration Statement on Form S-4 (File No. 333- 237264) in the section titled Nebula Stockholder Proposal No. 4The 2020 Plan Proposal. That
+summary and the foregoing description of the 2020 Plan does not purport to be complete and is qualified in its entirety by reference to the text of the 2020 Plan, which is filed as Exhibit 10.10 hereto and incorporated herein by reference. 
+Credit Agreement  Open Lending has
+a term loan outstanding in the original principal amount of $170,000,000 (the Term Loan), that was incurred under that certain Credit Agreement, dated as of March 11, 2020, among Open Lending, UBS AG, Stamford Branch, as
+administrative agent, the lenders from time to time party thereto and the other parties thereto, as amended (the Credit Agreement). The proceeds of the Term Loan were used to, among other things, finance a distribution to Open
+Lendings equity investors prior to the consummation of the Business Combination. The Term Loan bears interest at a variable rate of LIBOR + 6.50% or the base rate + 5.50%. The obligations of Open Lending under the Credit Agreement are
+guaranteed by all of its subsidiaries and secured by substantially all of the assets of Open Lending and its subsidiaries, in each case, subject to certain customary exceptions. The Term Loan has a maturity date of March 11, 2027. Subject to
+the terms and conditions set forth in the Credit Agreement, Open Lending may be required to make certain mandatory prepayments prior to maturity. Voluntary prepayments and certain mandatory prepayments may be subject to certain prepayment premiums
+in the first 2 years after the date thereof. 
+   6 
+
+
+
+
+
+
+
+
+
+ The foregoing description of the Credit Agreement does not purport to be complete and is
+qualified in its entirety by the terms and conditions of the Credit Agreement, which is attached hereto as Exhibit 10.9 and is incorporated herein by reference.   
+
+
+Item 2.01.
+ Completion of Acquisition or Disposition of Assets. 
+On June 9, 2020, Nebula held a Special Meeting (the Special Meeting) at which the Nebula stockholders considered and adopted,
+among other matters, the Business Combination Agreement. On June 10, 2020, the parties to the Business Combination Agreement consummated the Transactions. 
+Each of the following transactions occurred in the following order: (i) Merger Sub Corp merged with and into Nebula, with Nebula
+surviving the First Merger as a wholly owned subsidiary of ParentCo; (ii) immediately following the First Merger and prior to the Blocker Contribution, Blocker redeemed a specified number of shares of Blocker common stock in exchange for cash;
+(iii) immediately following the Blocker Redemption: ParentCo acquired, and the Blocker Holder contributed to ParentCo, the remaining shares of Blocker common stock after giving effect to the Blocker Redemption such that, following the Blocker
+Contribution, Blocker is a wholly-owned subsidiary of ParentCo; (iv) immediately following the Blocker Contribution, Merger Sub LLC merged with and into Open Lending, with Open Lending surviving the Second Merger as a direct and indirect
+wholly-owned subsidiary of ParentCo; (v) immediately following the Second Merger, Blocker acquired, and ParentCo contributed to Blocker, all common units of the Surviving Company directly held by ParentCo after the Second Merger such that the
+Surviving Company is a wholly-owned subsidiary of Blocker; and (vi) the NAC Surviving Company acquired and ParentCo contributed to the NAC Surviving Company, the remaining shares of Blocker common stock after giving effect to the Blocker
+Redemption and the Blocker Contribution such that, following the ParentCo Blocker Contribution, Blocker is a wholly-owned subsidiary of the NAC Surviving Company (together with the other transactions related thereto). In connection with the Closing:
+  
+
+
+ 
+
+ 
+ each outstanding share of Nebula Class A Common Stock automatically converted into one share of ParentCo
+common stock;   
+
+
+ 
+
+ 
+ each outstanding Founder Share automatically converted into one share of ParentCo common stock;
+  
+
+
+ 
+
+ 
+ the equity holders of Open Lending received an aggregate of 51,909,746 shares of ParentCo common stock.
+ Blocker Holder is the beneficial owner of units in Open Lending. Bregal Investments, Inc. is the investment advisor to
+Blocker Holder. Mr. Gene Yoon is a Managing Partner and Mr. Blair Greenberg is a partner at Bregal Investments, Inc. and both serve on the board of directors of Open Lending Corporation on behalf of Blocker Holder. 
+True Wind Capital is an advisor to Nebula and to True Wind Capital, L.P., the managing member of Nebula Holdings, LLC. Mr. Adam Clammer,
+a member of the board of directors of Open Lending Corporation, is a managing member of True Wind Capital GP, LLC, the General Partner of True Wind Capital, L.P. Mr. Brandon Van Buren, a member of the board of directors of Open Lending
+Corporation, is a partner at True Wind Capital Management, L.P.  The material terms and conditions of the Business Combination Agreement
+are described in the Proxy Statement and Prospectus in the section titled The Business Combination Agreement, which is incorporated herein by reference. 
+Forward-Looking Statements  This
+Current Report on Form 8-K, or some of the information incorporated herein by reference, contains statements that are forward-looking and as such are not historical facts. This includes, without limitation,
+statements regarding the financial position, business strategy and the plans and objectives of management for future operations. These statements constitute projections, forecasts and forward-looking statements, and are not guarantees of
+performance. Such statements can be identified by the fact that they do not relate strictly to historical or current facts. 
+   7 
+
+
+
+
+
+
+
+
+
+ 
+When used in this Current Report on Form 8-K, words such as anticipate, believe, continue, could,
+estimate, expect, intend, may, might, plan, possible, potential, predict, project, should, strive,
+would and similar expressions may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. When the Company discusses its strategies or plans, it is making projections,
+forecasts or forward-looking statements. Such statements are based on the beliefs of, as well as assumptions made by and information currently available to, Open Lending Corporations management. Forward-looking statements in this Current
+Report on Form 8-K and in any document incorporated by reference in this Report may include, for example, statements about:   
+
+
+ 
+
+ 
+ the benefits of the Business Combination; 
+ 
+
+
+ 
+
+ 
+ the Combined Companys financial performance following the Business Combination; 
+ 
+
+
+ 
+
+ 
+ changes in Open Lendings strategy, future operations, financial position, estimated revenues and losses,
+projected costs, prospects and plans;   
+
+
+ 
+
+ 
+ expansion plans and opportunities; and 
+ 
+
+
+ 
+
+ 
+ the outcome of any known and unknown litigation and regulatory proceedings. 
+The forward-looking statements contained in this Current Report on Form 8-K and in any document
+incorporated by reference are based on current expectations and beliefs concerning future developments and their potential effects on the Company. There can be no assurance that future developments affecting Open Lending Corporation will be those
+that Open Lending Corporation has anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond Open Lending Corporations control) or other assumptions that may cause actual results or
+performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, those factors described in the Proxy Statement and Prospectus in the section
+titled Risk Factors beginning on page 49, which is incorporated herein by reference. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in
+material respects from those projected in these forward-looking statements. Open Lending Corporation undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise,
+except as may be required under applicable securities laws.  Business 
+The business of Open Lending prior to the Business Combination is described in the Proxy Statement and Prospectus in the section titled
+Information about Open Lending and that information is incorporated herein by reference.  Risk Factors 
+The risk factors related to Open Lendings business and operations and the Business Combination are set forth in the Proxy Statement and
+Prospectus in the section titled Risk Factors and that information is incorporated herein by reference.  Financial Information
+ Reference is made to the disclosure set forth in Item 9.01 of this Current Report on Form
+8-K concerning the financial information of Open Lending, Nebula and Open Lending and Nebula combined. Reference is further made to the disclosure contained in the Proxy Statement and Prospectus in the
+sections titled Selected Historical Financial Data of Open Lending, Selected Historical Financial Data of Nebula, Selected Unaudited Pro Forma Condensed Combined Financial Information, Open
+Lending Managements Discussion and Analysis of Financial Condition and Results of Operations and Nebula Managements Discussion and Analysis of Financial Condition and Results of Operations, which are
+incorporated herein by reference. 
+   8 
+
+
+
+
+
+
+
+
+
+ Managements Discussion and Analysis of Financial Condition and Results of Operations
+ Reference is made to the disclosure contained in the Proxy Statement and Prospectus in the sections titled Open Lending
+Managements Discussion and Analysis of Financial Condition and Results of Operations and Nebula Managements Discussion and Analysis of Financial Condition and Results of Operations, which are incorporated
+herein by reference.  Quantitative and Qualitative Disclosures about Market Risk 
+Reference is made to the disclosure contained in the Proxy Statement and Prospectus in the sections titled Open Lending
+Managements Discussion and Analysis of Financial Condition and Results of OperationsQuantitative and Qualitative Disclosures About Market Risk, which is incorporated herein by reference. 
+Properties  Reference is made to
+the disclosure contained in the Proxy Statement and Prospectus in the section titled Information about Open Lending  Facilities, which is incorporated herein by reference. 
+Security Ownership of Certain Beneficial Owners and Management 
+The following table sets forth information known to the Company regarding the beneficial ownership of Company common stock as of the Closing
+Date by:   
+
+
+ 
+
+ 
+ each person known to the Company to be the beneficial owner of more than 5% of outstanding Company common stock;
+  
+
+
+ 
+
+ 
+ each of the Companys executive officers and directors; and 
+ 
+
+
+ 
+
+ 
+ all executive officers and directors of the Company as a group. 
+Beneficial ownership is determined according to the rules of the SEC, which generally provide that a person has beneficial ownership of a
+security if he, she or it possesses sole or shared voting or investment power over that security, including options and warrants that are currently exercisable or exercisable within 60 days. Company stock issuable upon exercise of options and
+warrants currently exercisable within 60 days are deemed outstanding solely for purposes of calculating the percentage of total voting power of the beneficial owner thereof. 
+The beneficial ownership of Company common stock is based on 91,850,000 shares of Company common stock outstanding as of the Closing Date.
+ Unless otherwise indicated, the Company believes that each person named in the table below has sole voting and investment power with
+respect to all shares of Company common stock beneficially owned by them.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Name and Address of Beneficial Owner (1) 
+  
+Number ofCommonSharesBeneficiallyOwned
+ 
+  
+Percentage ofCommonSharesBeneficiallyOwned 
+ 
+
+
+
+ Greater than 5% Stockholders:
+  
+
+
+
+  
+
+
+
+
+ Bregal Investments Inc.(2) 
+  
+ 
+26,071
+ 
+  
+ 
+*
+ 
+
+ Bregal Sagemount I, LP(2) 
+  
+ 
+14,278,604
+ 
+  
+ 
+15.5
+% 
+
+ Nebula Holdings, LLC(3) 
+  
+ 
+11,937,500
+ 
+  
+ 
+13.0
+% 
+
+ Named Executive Officers and Directors:
+  
+
+
+
+  
+
+
+
+
+ John J. Flynn
+  
+ 
+2,827,772
+ 
+  
+ 
+3.08
+% 
+
+ Ross M. Jessup
+  
+ 
+3,222,227
+ 
+  
+ 
+3.51
+% 
+
+ Ryan J. Collins
+  
+ 
+1,702,431
+ 
+  
+ 
+1.85
+% 
+
+   9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Matthew R. Roe
+  
+ 
+113,659
+ 
+  
+ 
+*
+ 
+
+ Kenneth E. Wardle
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+ Adam H. Clammer(3) 
+  
+ 
+11,937,500
+ 
+  
+ 
+13.0
+% 
+
+ Blair J. Greenberg(2) 
+  
+ 
+14,304,675
+ 
+  
+ 
+15.5
+% 
+
+ Gene Yoon(2) 
+  
+ 
+14,304,675
+ 
+  
+ 
+15.5
+% 
+
+ Brandon Van Buren(3)
+  
+ 
+  
+ 
+  
+ 
+*
+ 
+
+ All current directors and executive officers as a group (9 persons)
+  
+ 
+43,374,622
+ 
+  
+ 
+47.2
+% 
+  
+
+
+*
+ Less than 1%. 
+
+
+(1)
+ Unless otherwise noted, the business address of each of these shareholders is c/o Open Lending Corporation,
+Barton Oaks One, 901 S. MoPac Expressway, Bldg. 1, Suite 510, Austin, TX 78746. 
+
+
+(2)
+ Bregal Sagemount I, L.P., is the record holder of the shares reported herein. Gene Yoon is the managing
+director, and Blair Greenberg is a director, of Bregal Investments, Inc., which is the registered investment advisor of Bregal Sagemount I, L.P. As such, they may be deemed to have or share beneficial ownership of the Class A Common Stock held
+directly by Bregal Sagemount I, L.P. Each such person disclaims any beneficial ownership of the reported shares other than to the extent of any pecuniary interest they may have therein, directly or indirectly. The business address of Bregal
+Sagemount I, L.P. is c/o Bregal Investments, Inc., 277 Park Avenue, 29th Floor New York, NY 10172. 
+
+
+(3)
+ Nebula Holdings, LLC is the record holder of the shares reported herein. True Wind Capital, L.P. is the
+managing member of Nebula Holdings, LLC. Mr. Greene and Mr. Clammer are the managing members of True Wind Capital GP, LLC, the General Partner of True Wind Capital, L.P. As such, they may be deemed to have or share beneficial ownership of
+the Class B Common Stock held directly by Nebula Holdings, LLC. Each such person disclaims any beneficial ownership of the reported shares other than to the extent of any pecuniary interest they may have therein, directly or indirectly. The
+business address of Nebula Holdings, LLC is Four Embarcadero Center, Suite 2100, San Francisco, CA 94111.  Directors and Executive
+Officers  The Companys directors and executive officers after the consummation of the Transactions are described in the Proxy
+Statement and Prospectus in the section titled Management of ParentCo After the Business Combination and that information is incorporated herein by reference. 
+Independence of our Board of Directors 
+Information with respect to the independence of the Companys directors is set forth in the Proxy Statement and Prospectus in the section
+titled Management of ParentCo After the Business CombinationIndependence of our Board of Directors and that information is incorporated herein by reference. 
+Committees of the Board of Directors 
+Information with respect to the composition of the committees of the board of directors immediately after the Closing is set forth in the Proxy
+Statement and Prospectus in the section titled Management of ParentCo After the Business CombinationBoard Committees and that information is incorporated herein by reference. 
+Executive Compensation  A
+description of the compensation of the named executive officers of Open Lending before the consummation of the Business Combination is set forth in the Proxy Statement and Prospectus in the sections titled Management of Open
+LendingOpen Lending Executive Compensation and that information is incorporated herein by reference.  At the Special
+Meeting, the Nebula stockholders approved the 2020 Plan. The description of the 2020 Plan is set forth in the Proxy Statement and Prospectus section entitled Nebula Stockholder Proposal No. 4  The 2020 Plan
+Proposal, which is incorporated herein by reference. A copy of the full text of the 2020 Plan is filed as Exhibit 10.10 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+   10 
+
+
+
+
+
+
+
+
+
+ Director Compensation 
+A description of the compensation of the directors of Open Lending and of Nebula before the consummation of the Business Combination is set
+forth in the Proxy Statement and Prospectus in the section titled Management of Open LendingDirector Compensation and Information about NebulaOfficer and Director Compensation, respectively, and that
+information is incorporated herein by reference.  Certain Relationships and Related Party Transactions 
+Certain relationships and related party transactions are described in the Proxy Statement and Prospectus in the section titled
+Interests of Nebulas Directors and Officers in the Business Combination, Certain Open Lending Relationships and Related Person Transactions and Certain Nebula Relationships and
+Related Person Transactions, respectively, and that information is incorporated herein by reference.  Legal Proceedings 
+Reference is made to the disclosure regarding legal proceedings in the section of the Proxy Statement and Prospectus titled
+Information about Open LendingLegal Proceedings and that information is incorporated herein by reference.  Market Price of
+and Dividends on the Companys Common Equity and Related Stockholder Matters  As of the Closing Date, there were approximately
+400 round lot holders.  Open Lending Corporations common stock began trading on Nasdaq under the symbol LPRO, on
+June 11, 2020, subject to ongoing review of Open Lending Corporations satisfaction of all listing criteria post-Business Combination. 
+Open Lending Corporation has not paid any cash dividends on shares of its common stock to date. Any decision to declare and pay dividends in
+the future will be made at the sole discretion of Open Lending Corporations board of directors and will depend on, among other things, Open Lending Corporations results of operations, cash requirements, financial condition, contractual
+restrictions and other factors that Open Lending Corporations board of directors may deem relevant. Because Open Lending Corporation is a holding company and has no direct operations, Open Lending Corporation will only be able to pay dividends
+from funds it receives from its subsidiaries. In addition, Open Lending Corporations ability to pay dividends will be limited by covenants in its existing indebtedness and may be limited by the agreements governing other indebtedness that it
+or its subsidiaries incur in the future.  Recent Sales of Unregistered Securities 
+Reference is made to the disclosure set forth below under Item 3.02 of this Current Report on Form 8-K
+concerning the issuance and sale by the Company of certain unregistered securities, which is incorporated herein by reference.  Description of
+Companys Securities  The description of the Companys securities is contained in the Proxy Statement and Prospectus in
+the section titled Description of ParentCo Securities and that information is incorporated herein by reference. 
+Immediately following the Closing, the authorized capital stock of the Company included 550,000,000 shares of common stock, par value
+$0.01 per share, and 10,000,000 shares of preferred stock, par value $0.01 per share. No shares of preferred stock were issued or outstanding immediately after the Business Combination. Unless Open Lending Corporations board of directors
+determines otherwise, Open Lending Corporation will issue all shares of its capital stock in uncertificated form. 
+   11 
+
+
+
+
+
+
+
+
+
+ Indemnification of Officers and Directors 
+As noted above, Open Lending Corporation entered into indemnification agreements with each of its directors and executive officers as of the
+Closing Date. Each indemnification agreement provides for indemnification and advancements by Open Lending Corporation of certain expenses and costs relating to claims, suits or proceedings arising from his or her service to Open Lending Corporation
+or, at our request, service to other entities, as officers or directors to the maximum extent permitted by applicable law.  The foregoing
+description of the indemnification agreements does not purport to be complete and is qualified in its entirety by the terms and conditions of the indemnification agreements, forms of which are attached hereto as Exhibit 10.11 and 10.12 and are
+incorporated herein by reference.  Financial Statements and Exhibits 
+The information set forth under Item 9.01 of this Current Report on Form 8-K is incorporated herein by
+reference.  Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+The information set forth under Item 4.01 of this Current Report on Form 8-K is incorporated herein by
+reference.   
+
+
+Item 3.02.
+ Unregistered Sales of Equity Securities. 
+As previously discussed, in connection with the Transactions, Nebula obtained commitments from subscribers to purchase shares of Nebula
+Class A Common Stock, which were converted into PIPE Shares for a purchase price of $10.00 per share, in the PIPE. Several fundamental investors committed an aggregate of $200 million to participate in the transaction through the PIPE
+anchored by True Wind Capital. True Wind Capital agreed to subscribe for $85,000,000 worth of such PIPE Shares for a purchase price of $10.00 per share. Such commitments were made by way of the Subscription Agreements dated as of January 5,
+2020, by and among each Subscriber, Nebula, Open Lending and ParentCo. Certain offering related expenses are payable by Nebula, including customary fees payable to the placement agents, Deutsche Bank and Goldman Sachs. 
+The PIPE Shares are identical to the shares of common stock that are held by the Public Stockholders (as defined in the Proxy Statement and
+Prospectus) at the time of the Closing, other than the PIPE Shares, when initially issued by Nebula in connection with the PIPE Closing, and such shares are not be registered with the SEC nor available to trade on NASDAQ. These securities were
+issued pursuant to and in accordance with the exemption from registration under the Securities Act, under Section 4(a)(2) and/or Regulation D promulgated under the Securities Act. 
+Pursuant to the Subscription Agreements, ParentCo agreed that, within 45 calendar days after the consummation of the Proposed Transactions,
+the Company will file with the SEC (at the Companys sole cost and expense) a registration statement registering the resale of the shares of common stock received by the Subscriber in connection with the Proposed Transactions (the Resale
+Registration Statement), and the Company shall use its commercially reasonable efforts to have the Resale Registration Statement declared effective as soon as practicable after the filing thereof; provided, however, that the Companys
+obligations to include the shares held by a Subscriber in the Resale Registration Statement will be contingent upon the respective Subscriber furnishing in writing, to the Company, such information regarding the Subscriber, the securities of the
+Company held by such Subscriber and the intended method of disposition of the shares, as shall be reasonably requested by the Company to effect the registration of such shares, and will execute such documents in connection with such registration, as
+the Company may reasonably request, which will be what is customary of a selling stockholder in similar situations.  Immediately upon the
+completion of the Business Combination and the other transactions contemplated by the Business Combination Agreement, Open Lending became a direct wholly-owned subsidiary of ParentCo. In connection with the Transactions, ParentCo changed its name to
+Open Lending Corporation.   
+
+
+Item 3.03.
+ Material Modification to Rights of Security Holders. 
+In connection with the consummation of the Business Combination, ParentCo changed its name to Open Lending Corporation and adopted the amended
+and restated articles of incorporation and the amended and restated bylaws effective as of the Closing Date. Reference is made to the disclosure described in the Proxy Statement and Prospectus in the section titled Comparison of Stockholder
+Rights, which is incorporated herein by reference. 
+   12 
+
+
+
+
+
+
+
+
+
+ Also as disclosed below in Item 8.01, in accordance with Rule
+12g-3(a) under the Securities Exchange Act of 1934, as amended (the Exchange Act), the Company is the successor issuer to Nebula and has succeeded to the attributes of Nebula as the registrant. In
+addition, the shares of common stock of Open Lending Corporation, as the successor to Nebula, are deemed to be registered under Section 12(b) of the Exchange Act. 
+The Companys common stock is listed for trading on Nasdaq under the symbol LPRO. 
+Amended and Restated Certificate of Incorporation 
+Upon the closing of the Business Combination, Nebulas amended and restated certificate of incorporation, was replaced with the amended
+and restated certificate of incorporation of ParentCo (the Amended and Restated Certificate of Incorporation), which, among other things:   
+
+
+ 
+(A)
+ increased the number of authorized shares of ParentCos common stock, $0.01 par value per share, from
+111,000,000 to 550,000,000 and the number of authorized shares of ParentCos preferred stock, $0.01 par value per share, from 1,000,000 to 10,000,000;   
+
+
+ 
+(B)
+ changed the vote required to remove a director of ParentCo from a majority of the voting power of all then
+outstanding shares of capital stock entitled to vote generally in the election of directors, voting together as a single class to not less than two-thirds (2/3) of the outstanding shares of capital stock
+entitled to vote at an election of directors, voting together as a single class and the affirmative vote of the holders of not less than two-thirds (2/3) of the outstanding shares of each class entitled to
+vote thereon; and   
+
+
+ 
+(C)
+ changed the vote required to amend ParentCos bylaws from a majority of the members of the Nebula board or
+by the stockholders, or by the affirmative vote of at least a majority of the voting power of all then outstanding shares of capital stock of Nebula entitled to vote generally in the election of directors, to not less than two-thirds (2/3) of the outstanding shares of capital stock generally entitled to vote, voting together as a single class; provided, however that if the board of directors recommends that stockholders approve such
+amendment or repeal at such meeting of stockholders, such amendment or repeal shall only require the affirmative vote of the majority of the outstanding shares of capital stock entitled to vote on such amendment or repeal, voting together as a
+single class.  The shareholders of Nebula approved the Amended and Restated Certificate of Incorporation at the Special
+Meeting, which have become the amended and restated certificate of incorporation of ParentCo upon the Closing of the Business Combination. This summary is qualified in its entirety by reference to the text of the amended and restated certificate of
+incorporation, which is included as Exhibit 3.1 hereto and incorporated herein by reference.  Amended and Restated Bylaws 
+The shareholders of Nebula approved the amended and restated bylaws at the Special Meeting, which have become the amended and restated bylaws
+of ParentCo upon the Closing of the Business Combination. These amended and restated bylaws provide that, unless we consent in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware is the sole and exclusive
+forum for any state law claim for (1) any derivative action or proceeding brought on our behalf; (2) any action asserting a claim of or based on a breach of a fiduciary duty owed by any director, officer or other employee of ours to us or
+our stockholders; (3) any action asserting a claim pursuant to any provision of the Delaware General Corporation Law, our amended and restated certificate of incorporation or our amended and restated bylaws; or (4) any action asserting a
+claim governed by the internal affairs doctrine, or the Delaware Forum Provision. The Delaware Forum Provision will not apply to any causes of action arising under the Securities Act or the Exchange Act. Our amended and restated bylaws further
+provide that unless we consent in writing to the selection of an alternative forum, the United States District Court for the Western District of Texas shall be the sole and exclusive forum for resolving any complaint asserting a cause of action
+arising under the Securities Act, or the Federal Forum Provision. In addition, our amended and restated bylaws provide that any person or entity 
+   13 
+
+
+
+
+
+
+
+
+
+ 
+purchasing or otherwise acquiring any interest in shares of the Companys Common Stock is deemed to have notice of and consented to the Delaware Forum Provision and the Federal Forum
+Provision; provided, however, that stockholders cannot and will not be deemed to have waived our compliance with the federal securities laws and the rules and regulations thereunder. This summary is qualified in its entirety by reference to the text
+of the amended and restated bylaws, which is included as Exhibit 3.2 hereto and incorporated herein by reference.   
+
+
+Item 4.01.
+ Change in Registrants Certifying Accountant. 
+(a) Dismissal of independent registered public accounting firm 
+The Company engaged Ernst & Young LLP (EY) as the Companys independent registered public accounting firm to audit
+the Companys consolidated financial statements for the year ended December 31, 2020. EY served as independent registered public accounting firm of Open Lending prior to the Business Combination. Accordingly, WithumSmith+Brown, PC
+(Withum), Nebulas independent registered public accounting firm prior to the Business Combination, was informed that it would be dismissed as the Companys independent registered public accounting firm following completion of
+the Companys review of the quarter ended March 31, 2020, which consists only of the accounts of the pre-Business Combination special purpose acquisition company, Nebula. 
+The audit reports of Withum on the consolidated financial statements of Nebula and subsidiaries as of December 31, 2019, 2018 and 2017,
+and for each year in the periods ended December 31, 2019, 2018, and for the period from October 2, 2017 (inception) through December 31, 2017, did not contain any adverse opinion or disclaimer of opinion, nor were they qualified or
+modified as to uncertainty, audit scope or accounting principles.  During the period from October 2, 2017 (inception) to
+March 31, 2020, there were no disagreements between the Company and Withum on any matter of accounting principles or practices, financial disclosure or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of
+Withum, would have caused it to make reference to the subject matter of the disagreements in its reports on the Companys financial statements for such period. 
+During the period from October 2, 2017 (inception) to March 31, 2020, there were no reportable events (as defined in
+Item 304(a)(1)(v) of Regulation S-K under the Exchange Act).  The Company has provided Withum with
+a copy of the foregoing disclosures and has requested that Withum furnish the Company with a letter addressed to the SEC stating whether it agrees with the statements made by the Company set forth above. A copy of Withums letter, dated
+June 15, 2020, is filed as Exhibit 16.1 to this Current Report on Form 8-K.   
+
+
+Item 5.01.
+ Changes in Control of Registrant. 
+Reference is made to the disclosure in the Proxy Statement and Prospectus in the section titled The Business Combination,
+which is incorporated herein by reference. Further reference is made to the information contained in Item 2.01 to this Current Report on Form 8-K, which is incorporated herein by reference. 
+Immediately after giving effect to the Business Combination, there were 91,850,000 shares of Open Lending Corporations common stock
+outstanding. As of such time, our executive officers and directors and their affiliated entities held 37.1% of our outstanding shares of common stock.   
+
+
+Item 5.02.
+ Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers.  Upon the consummation of the Transactions, and in accordance with the
+terms of the Business Combination Agreement, each executive officer of Nebula ceased serving in such capacities. Adam H. Clammer, the former Co-
+   14 
+
+
+
+
+
+
+
+
+
+ 
+Chief Executive Officer of Nebula was appointed as a director of the Company. The Class I directors are Brandon Van Buren, a designee of the Sponsor, and Gene Yoon, a designee of the Blocker
+Holder, and their terms will expire at the first annual meeting of stockholders to be held in 2021. The Class II directors are Adam H. Clammer, a designee of the Sponsor, and Blair Greenberg, a designee of the Blocker Holder, and their terms
+will expire at the second annual meeting of stockholders to be held in 2022. The Class III directors are John Flynn and Ross Jessup, both whom are designees of Open Lendings founders, and their terms will expire at the third annual
+meeting of stockholders to be held in 2023.  Upon the consummation of the Transactions, the Company established four board committees:
+audit committee, compensation committee, nominating and corporate governance committee and risk committee. Messrs. Clammer, Greenberg and van Buren were appointed to serve on the Companys audit committee, with Mr. Greenberg serving as the
+chair and qualifying as an audit committee financial expert, as such term is defined in Item 407(d)(5) of Regulation S-K. Messrs. Clammer, Greenberg and van Buren were appointed to serve on the Companys
+compensation committee, with Mr. Greenberg serving as the chair. Messrs. Clammer, Greenberg and Yoon were appointed to serve on the Companys nominating and corporate governance committee, with Mr. Yoon serving as the chair. Messrs.
+Greenberg, Yoon and Van Buren were appointed to serve on the Companys risk committee, with Mr. Greenberg serving as the chair. 
+A description of the compensation of the directors of Open Lending and of Nebula before the consummation of the Business Combination is set
+forth in the Proxy Statement and Prospectus in the section titled Management of Open LendingDirector Compensation and Information about NebulaOfficer and Director Compensation, respectively, and that
+information is incorporated herein by reference.Following the Business Combination, non-employee directors will receive varying levels of compensation for their services as directors and members of committees
+of the board of directors. Open Lending Corporation anticipates determining director compensation in accordance with industry practice and standards. 
+Additionally, upon consummation of the Transactions, John J. Flynn was appointed as the Companys President and Chief Executive Officer
+and Chairman of the Board; Ross M. Jessup was appointed as Chief Financial Officer and Chief Operating Officer; Ryan J. Collins was appointed as Chief Technology Officer and Chief Information Officer; Matthew R. Roe was appointed as Chief Revenue
+Officer.  A description of the compensation of the named executive officers of Open Lending before the consummation of the Business
+Combination is set forth in the Proxy Statement and Prospectus in the sections titled Management of Open LendingOpen Lending Executive Compensation and that information is incorporated herein by reference. 
+Reference is made to the disclosure described in the Proxy Statement and Prospectus in the section titled Management of ParentCo
+After the Business Combination beginning on page 229 for biographical information about each of the directors and officers following the Transactions, which is incorporated herein by reference. 
+The information set forth under Item 1.01. Entry into a Material Definitive AgreementOpen Lending Corporation 2020 Stock Option and
+Incentive Plan of this Current Report on Form 8-K is incorporated herein by reference.   
+
+
+Item 5.03.
+ Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. 
+The disclosure set forth in Item 3.03 of this Current Report on Form 8-K is incorporated in this Item
+5.03 by reference.   
+
+
+Item 5.06.
+ Change in Shell Company Status. 
+As a result of the Business Combination, the Company ceased to be a shell company upon the closing of the Business Combination. The material
+terms of the Business Combination are described in the sections titled The Business Combination Agreement and Nebula Stockholder Proposal No. 1The Business Combination Proposal beginning on page 121
+and 146, respectively, of the Proxy Statement and Prospectus, and are incorporated herein by reference. 
+   15 
+
+
+
+
+
+
+
+
+
+
+
+
+Item 8.01.
+ Other Events. 
+Upon the closing of the Business Combination, all outstanding shares of Nebula Class A common stock were automatically exchanged for one
+share of ParentCo common stock, each outstanding Founder Share was automatically converted into one share of ParentCo common stock, the equity holders of Open Lending received an aggregate of 51,909,746 shares of ParentCo common stock. 
+The Companys common stock is listed for trading on The Nasdaq Stock Market under the symbol LPRO. 
+Holders of uncertificated shares of Nebulas Class A common stock immediately prior to the Business Combination have continued as
+holders of shares of uncertificated shares of Open Lending Corporations common stock.  Holders of Nebulas shares who have
+filed reports under the Exchange Act with respect to those shares should indicate in their next filing, or any amendment to a prior filing, filed on or after the Closing Date that the Company is the successor to Nebula. 
+ 
+
+
+Item 9.01.
+ Financial Statements and Exhibits. 
+(a) Financial statements of businesses acquired. 
+The consolidated financial statements of Open Lending, LLC, for the three months ended March 31, 2020 and 2019 and the related notes
+thereto are set forth in the Registration Statement on Form S-4 filed on May 20, 2020 (Reg. No. 333-237264) beginning on page
+F-2 and are incorporated herein by reference.  The consolidated financial statements of Open
+Lending, LLC, for the years ended December 31, 2019, 2018 and 2017, the related notes and report of independent registered public accounting firm thereto are set forth in the Registration Statement on
+Form S-4 filed on May 20, 2020 (Reg. No. 333-237264) beginning on page F-17 and are incorporated herein by
+reference.  The consolidated financial statements of Nebula Acquisition Corporation, for the three months ended March 31, 2020 and
+2019 and the related notes thereto are set forth in the Registration Statement on Form S-4 filed on May 20, 2020 (Reg. No. 333-237264) beginning on page F-45 and are incorporated herein by reference.  The consolidated financial statements of Nebula
+Acquisition Corporation, for the years ended December 31, 2019 and 2018, the related notes and report of independent registered public accounting firm thereto are set forth in the Registration Statement on
+Form S-4 filed on May 20, 2020 (Reg. No. 333-237264) beginning on page F-61 and are incorporated herein by
+reference.  The consolidated financial statements of Nebula Acquisition Corporation, for the year ended December 31, 2018 and for the
+period from October 2, 2017 (date of inception) through December 31, 2017, the related notes and report of independent registered public accounting firm thereto are set forth in the Registration Statement on Form S-4 filed on May 20, 2020 (Reg. No. 333-237264) beginning on page F-79 and are incorporated herein by reference. 
+(b) Pro forma financial information. 
+Certain pro forma financial information of the Company is attached hereto as Exhibit 99.1 and is incorporated herein by reference. 
+(d) Exhibits. 
+   16 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ExhibitNumber
+  
+ Description
+
+
+
+
+
+
+2.1
+  
+Business Combination Agreement, dated as of January 
+5, 2020, by and among Nebula, Blocker, Blocker Holder, ParentCo, Merger Sub LLC, Merger Sub Corp, Open Lending, and Shareholder Representative Services LLC, as the Securityholder Representative (incorporated by reference to Annex A of ParentCos Registration
+Statement on Form S-4 (Reg. No. 333-237264), filed with the SEC on May 20, 2020). 
+
+
+
+
+2.2
+  
+Amendment No. 
+1 and Waiver, dated as of March 18, 2020, to the Business Combination Agreement, by and among Nebula, Blocker, Blocker Holder, ParentCo, Merger Sub LLC, Merger Sub Corp, Open Lending, and Shareholder Representative Services LLC, as the Securityholder Representative
+(incorporated by reference to Exhibit 2.2 to ParentCos Registration Statement on Form S-4 (Reg. No. 333-237264), filed with the SEC on March 18, 2020).
+
+
+
+
+
+2.3
+  
+Amendment No. 2 and Consent, dated as of March 
+26, 2020, to the Business Combination Agreement by and among Nebula, Blocker, Blocker Holder, ParentCo, Merger Sub LLC, Merger Sub Corp, Open Lending, and Shareholder Representative Services LLC, as the Securityholder Representative (incorporated by reference
+ to Exhibit 2.3 to Nebulas Current Report on Form 8-K filed March 27, 2020). 
+
+
+
+
+2.4
+  
+Amendment No. 3 and Consent, dated as of May 
+13, 2020, to the Business Combination Agreement by and among Nebula, Blocker, Blocker Holder, ParentCo, Merger Sub LLC, Merger Sub Corp, Open Lending, and Shareholder Representative Services LLC, as the Securityholder Representative (incorporated by reference
+ to Exhibit 2.4 to ParentCos Registration Statement on Form S-4 (Reg. No. 333-237264), filed with the SEC on May 13, 2020). 
+
+
+
+
+3.1
+  
+Amended and Restated Certificate of Incorporation of Open Lending Corporation (incorporated by reference to Exhibit 
+2.4 to ParentCos Registration Statement on Form S-4 (Reg. No. 333-237264), filed with the SEC on May 13, 2020). 
+
+
+
+
+3.2
+  
+Amended and Restated Bylaws of Open Lending Corporation. 
+
+
+
+
+10.1
+  
+Founder Support Agreement, dated as of January 5, 2020, by and among Nebula, ParentCo, Open Lending, the Sponsor, Adam H. Clammer,
+ James H. Greene, Jr., Rufina Adams, David Kerko, Frank Kern, James C. Hale and Ronald Lamb (incorporated by reference to Exhibit 10.1 to Nebulas Current Report on Form 8-K filed January 6, 2020).
+
+
+
+
+
+10.2
+  
+Amendment No. 1, dated as of March 
+18, 2020, to the Founder Support Agreement, by and among Nebula, ParentCo, Open Lending, the Sponsor, Adam H. Clammer, James H. Greene, Jr., Rufina Adams, David Kerko, James C. Hale and Ronald Lamb (incorporated by reference to Exhibit 10.2 to Nebulas
+ Current Report on Form 8-K filed March 18, 2020). 
+
+
+
+
+10.3
+  
+Amendment No. 2, dated May 
+13, 2020, to the Founder Support Agreement, by and among Nebula, ParentCo, Open Lending, the Sponsor, Adam H. Clammer, James H. Greene, Jr., Rufina Adams, David Kerko, James C. Hale and Ronald Lamb (incorporated by reference to Exhibit 10.3 to Nebulas
+ Current Report on Form 8-K filed May 13, 2020). 
+
+
+
+
+10.4
+  
+Form of Investor Support Agreement (incorporated by reference to Exhibit 10.2 to Nebulas Current Report on Form 8-K filed January 6, 2020). 
+
+
+
+
+10.5
+  
+Company Support Agreement, dated as of January 
+5, 2020, by and among Nebula, Bregal Investments, Inc., BRP Hold 11, Inc., Bee Cave Capital, LLC, Richard Watkins, Open Lending Opportunity Partners, Ryan Collins, Kurt Wilkin, Scott Gordon, Keith Jezek and Steve Letbetter (incorporated by reference to
+ Exhibit 10.3 to Nebulas Current Report on Form 8-K filed January 6, 2020). 
+
+
+
+
+10.6
+  
+Form of Subscription Agreement (incorporated by reference to Exhibit 10.4 to Nebulas Current Report on Form 8-K filed January 6, 2020). 
+
+
+
+
+10.7
+  
+Tax Receivable Agreement. 
+
+   17 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10.8
+  
+Investor Rights Agreement. 
+
+
+
+
+10.9
+  
+Credit Agreement, dated as of March 
+11, 2020, among Open Lending, LLC, the guarantors party thereto, UBS AG Stamford Branch, and the lenders party thereto (incorporated by reference to Exhibit 10.9 of Nebula Acquisition Corp.s Registration Statement on Form S-4 (Reg. No. 333-237264), filed with the SEC on May 13, 2020). 
+
+
+
+
+10.10
+  
+2020 Stock Option and Incentive Plan. (Incorporated by reference to Annex E of Nebula Acquisition Corp.s Registration Statement
+ on Form S-4 (Reg. No. 333-237264), filed with the SEC on May 20, 2020) 
+
+
+
+
+10.11
+  
+Form of Director Indemnification Agreement. 
+
+
+
+
+10.12
+  
+Form of Officer Indemnification Agreement. 
+
+
+
+
+16.1
+  
+Letter from WithumSmith+Brown, PC as to the change in certifying accountant, dated as of June 15, 2020. 
+
+
+
+
+99.1
+  
+Unaudited Pro Forma Condensed Combined Financial Statements of Nebula and Open Lending for the three months ended March 31, 2020 and the year ended December 31, 2019. 
+
+   18 
+
+
+
+
+
+
+
+
+
+ SIGNATURES 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+
+OPEN LENDING CORPORATION
+
+
+
+
+By:
+ 
+ /s/ Ross Jessup
+
+Name:
+ 
+Ross Jessup
+
+Title:
+ 
+Chief Financial Officer
+ Date: June 15, 2020 
+   19 
+
+
+
+
+

@@ -1,0 +1,680 @@
+
+8-K
+1
+form8-k.htm
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+Form
+8-K
+
+ 
+
+Current
+Report
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities
+Exchange Act of 1934
+
+ 
+
+June
+24, 2020
+
+Date
+of Report (Date of earliest event reported)
+
+ 
+
+8i
+ENTERPRISES ACQUISITION CORP.
+
+(Exact
+Name of Registrant as Specified in its Charter)
+
+ 
+
+
+
+    British
+    Virgin Islands
+     
+    001-38849
+     
+    N/A
+
+    (State
+                                         or other jurisdiction
+        of
+        incorporation)
+     
+    (Commission
+        File
+        Number)
+     
+    (I.R.S.
+                                         Employer
+        Identification
+        No.)
+
+ 
+
+
+
+    6
+                                         Eu Tong Sen Street
+        #08-13
+        The Central
+        Singapore
+        
+     
+    059817
+
+    (Address
+    of Principal Executive Offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: +65 67880388
+
+ 
+
+N/A
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    [X]
+    
+    Written
+    communications pursuant to Rule 425 under the Securities Act
+
+     
+     
+
+    [  ]
+    
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act
+
+     
+     
+
+    [  ]
+    
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+     
+     
+
+    [  ]
+    
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Ordinary
+    Shares
+     
+    JFK
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Warrants
+     
+    JFKKW
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Units
+     
+    JFKKU
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Rights
+     
+    JFKKR
+     
+    The
+    Nasdaq Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR
+§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging
+growth company [X]
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+      
+     
+    
+
+ 
+
+IMPORTANT
+NOTICES
+
+ 
+
+8i
+Enterprises Acquisition Corp, a British Virgin Islands business company (“JFK”), Diginex Limited, a Singapore public
+company limited by shares (“Singapore NewCo”), DIGITAL INNOVATIVE LIMITED, a British Virgin Islands business company
+(“BVI NewCo”), and Diginex Limited, a Hong Kong company (“Diginex”), and their respective directors, executive
+officers and employees and other persons may be deemed to be participants in the solicitation of proxies from the holders of JFK
+ordinary shares in respect of the proposed transactions described herein (the “Business Combination”). Information
+about JFK’s directors and executive officers and their ownership of JFK’s ordinary shares is set forth in JFK’s
+Prospectus, dated March 27, 2019, and Annual Report on Form 10-K, dated December 10, 2019, filed with the Securities and Exchange
+Commission (the “SEC”), as modified or supplemented by any Form 4 filed with the SEC since the date of such filing.
+Other information regarding the interests of the participants in the proxy solicitation will be included in the proxy statement/prospectus
+included in the Registration Statement on Form F-4/A jointly filed by Singapore NewCo and JFK pertaining to the Business Combination
+(the “Form F-4”). These documents can be obtained free of charge from the sources indicated above.
+
+ 
+
+In
+connection with the Business Combination described herein, Singapore NewCo has filed the Form F-4, which includes and serves as
+a proxy statement/prospectus for JFK’s shareholders. JFK has mailed the definitive proxy statement/prospectus and a proxy
+card to each shareholder entitled to vote at the meeting relating to the approval of the Business Combination and other proposals
+set forth in the proxy statement. INVESTORS AND SECURITY HOLDERS OF JFK ARE URGED TO READ THESE MATERIALS (INCLUDING ANY AMENDMENTS
+OR SUPPLEMENTS THERETO) AND ANY OTHER RELEVANT DOCUMENTS IN CONNECTION WITH THE BUSINESS COMBINATION THAT JFK WILL FILE WITH THE
+SEC WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT JFK, SINGAPORE NEWCO, BVI NEWCO, DIGINEX
+AND THE BUSINESS COMBINATION. The definitive proxy statement/prospectus and other relevant materials in connection with the Business
+Combination (when they become available), and any other documents filed by JFK with the SEC, may be obtained free of charge at
+the SEC’s website (www.sec.gov) or by writing to 8i Enterprises Acquisition Corp, 6 Eu Tong Sen Street, #08-13 The Central,
+Singapore.
+
+ 
+
+This
+Current Report on Form 8-K contains certain “forward-looking statements” within the meaning of the Securities Act
+of 1933 and the Securities Exchange Act of 1934, both as amended by the Private Securities Litigation Reform Act of 1995. Statements
+that are not historical facts, including statements about the pending Business Combination by and among JFK, Singapore NewCo,
+BVI NewCo and Diginex and the transactions contemplated thereby, and the parties’ perspectives and expectations, are forward-looking
+statements. Such statements include, but are not limited to, statements regarding the proposed transaction, including the anticipated
+initial enterprise value and post-closing equity value, the benefits of the proposed transaction, expected revenue opportunities,
+anticipated future financial and operating performance and results, including estimates for growth, expected management and governance,
+the ability to close the Business Combination, and the expected timing of the transactions contemplated by the (i) merger agreement
+by and among Singapore NewCo, BVI NewCo and JFK, dated October 8, 2019, and (ii) share exchange agreement by and among JFK, Diginex,
+the stockholders of Diginex set forth therein (the “Sellers”), and Pelham Limited, as the representative of the Sellers
+(the “Representative”), dated July 9, 2019 (the “Share Exchange Agreement”), as amended by the amendment
+and joinder to the Share Exchange Agreement, dated October 8, 2019, by and among JFK, Singapore NewCo, BVI NewCo, the Sellers,
+Diginex and the Representative (the “Amendment,” and together with the Share Exchange Agreement, the “Amended
+Share Exchange Agreement”), as further amended by the second amendment to the Share Exchange Agreement, dated January 28,
+2020 by and among JFK, Singapore NewCo, BVI NewCo, the Sellers, Diginex and the Representative (the “Second Amendment,”
+and together with the Amended Share Exchange Agreement, the “Second Amended Share Exchange Agreement”), as further
+amended by the third amendment to the Share Exchange Agreement, dated May 6, 2020 by and among JFK, Singapore NewCo, BVI NewCo,
+the Sellers, Diginex and the Representative (the “Third Amendment,” and together with the Second Amended Share Exchange
+Agreement, the “Third Amended Share Exchange Agreement”), and as further amended by the fourth amendment to the Share
+Exchange Agreement, dated June 24, 2020 by and among JFK, Singapore NewCo, BVI NewCo, the Sellers, Diginex and the Representative
+(the “Fourth Amendment,” and together with the Third Amended Share Exchange Agreement, the “Fourth Amended Share
+Exchange Agreement”). The words “expect,” “believe,” “estimate,” “intend,”
+“plan,” and similar expressions indicate forward-looking statements. These forward-looking statements are not guarantees
+of future performance and are subject to various risks and uncertainties, assumptions (including assumptions about general economic,
+market, industry and operational factors), known or unknown, which could cause the actual results to vary materially from those
+indicated or anticipated.
+
+ 
+
+
+
+      
+     
+    
+
+ 
+
+Such
+risks and uncertainties include, but are not limited to: (i) risks related to the expected timing and likelihood of completion
+of the Business Combination, including the risk that the Business Combination may not close due to one or more closing conditions
+to the Business Combination not being satisfied or waived on a timely basis or otherwise; (ii) the occurrence of any event, change
+or other circumstances that could give rise to the termination of the Fourth Amended Share Exchange Agreement; (iii) the risk
+that there may be a material adverse effect on the business, properties, assets, liabilities, results of operations or condition
+(financial or otherwise), of Diginex or its subsidiaries, taken as a whole; (iv) risks related to disruption of management time
+from ongoing business operations due to the proposed Business Combination; (v) the risk that any announcements relating to the
+proposed Business Combination could have adverse effects on the market price of JFK’s ordinary shares; (vi) risks related
+to the recent outbreak of the novel coronavirus (COVID-19) and its effects on the Business Combination; and (vii) other risks
+and uncertainties indicated from time to time in the Form F-4, including “Risk Factors” therein, and other factors
+identified in JFK’s and Singapore NewCo’s prior and future filings with the SEC, available at www.sec.gov.
+
+ 
+
+Should
+one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may
+vary materially from those indicated or anticipated by such forward-looking statements. Accordingly, you are cautioned not to
+place undue reliance on these forward-looking statements. Forward-looking statements relate only to the date they were made, and
+JFK, Singapore NewCo, Diginex, and their respective subsidiaries undertake no obligation to update forward-looking statements
+to reflect events or circumstances after the date they were made except as required by law or applicable regulation.
+
+ 
+
+Item
+1.01. Entry Into a Material Definitive Agreement
+
+ 
+
+Amended
+Share Exchange Agreement
+
+ 
+
+On
+July 9, 2019, 8i Enterprises Acquisition Corp. (“JFK”) filed a Current Report on Form 8-K to announce the entry into
+a share exchange agreement (the “Share Exchange Agreement”) with Diginex Limited, a Hong Kong company (“Diginex”),
+the stockholders of Diginex (the “Sellers”) and Pelham Limited, a Hong Kong company, as representative of the Sellers
+(the “Representative”).
+
+ 
+
+On
+October 8, 2019, each of the parties to the Share Exchange Agreement entered into an amendment and joinder to the Share Exchange
+Agreement (the “Amendment”) with Digital Innovative Limited, a Singapore public company limited by shares (“Singapore
+NewCo”), and its wholly-owned subsidiary DIGITAL INNOVATIVE LIMITED, a British Virgin Islands business company (“BVI
+NewCo”), for the purpose of joining both entities as parties to the Share Exchange Agreement and amending the terms of the
+Share Exchange Agreement.
+
+ 
+
+On
+January 28, 2020, each of the parties to the Share Exchange Agreement and Amendment entered into a second amendment to the Share
+Exchange Agreement (the “Second Amendment”). The Share Exchange Agreement originally provided that Diginex may consummate
+a private placement of its ordinary shares of up to $25 million prior to the date the Business Combination is consummated (the
+“Closing Date”). The size of the private placement was increased to $30 million in the Amendment. The purpose of the
+Second Amendment is to increase the size of the private placement from $30 million to $50 million.
+
+ 
+
+On
+May 6, 2020, each of the parties to the Second Amendment entered into a third amendment to the Share Exchange Agreement (the “Third
+Amendment,” and together with the Share Exchange Agreement, the Amendment and the Second Amendment, the “Third Amended
+Share Exchange Agreement”) to, among other things, (a) extend the outside Closing Date of the transactions contemplated
+by the Share Exchange Agreement (the “Share Exchange”) to June 23, 2020, (b) increase the number of ordinary shares
+of Singapore NewCo (“Singapore NewCo Ordinary Shares”) issuable to the Sellers in the Share Exchange from 20,000,000
+to 25,000,000, (c) increase the number of shares the Sellers are entitled to receive if the closing price of the Singapore NewCo
+Ordinary Shares satisfy certain thresholds (the “Earnout Shares”) from an aggregate of 5,000,000 to 12,000,000, adjust
+closing price targets and to increase the milestone dates by which the Earnout Shares could be issued from three years to four
+years after the anniversary of the Closing Date; (d) increase the number of options to purchase Singapore NewCo Ordinary Shares
+received upon cancellation of the outstanding options to purchase ordinary shares under Diginex’s existing incentive plan
+from 4,200,000 to 5,600,000, and (e) allow JFK to issue up to 1,000,000 Singapore NewCo Ordinary Shares to third party advisors
+or consultants to (i) assist JFK with maintaining funds of at least $15,000,000 in the trust account after giving effect to all
+JFK ordinary share redemptions, but prior to taking into account JFK’s liabilities for any fees and costs relating to the
+transactions contemplated by the Third Amended Share Exchange Agreement, or (ii) provide market making services to Diginex after
+the Closing.
+
+ 
+
+
+
+      
+     
+    
+
+ 
+
+The
+Third Amendment includes new covenants of the parties prior to the Closing Date, such as (a) JFK shall convert all outstanding
+promissory notes issued in favor of 8i Enterprises Pte. Ltd. into JFK private units as of the Closing Date (the “Sponsor
+Loan Conversion”), (b) JFK shall use commercially reasonable efforts to cause Chardan Capital LLC (“Chardan”)
+to agree to convert, effective as of the Closing Date, deferred underwriting compensation in the amount of $1,725,000 owed to
+Chardan and any additional fees to be paid by JFK to Chardan upon the consummation of the Closing into Singapore NewCo Ordinary
+Shares at $10.00 per share, which shares will be subject to a lock-up agreement restricting any transfer thereof for a period
+of no less than six months after Closing, (c) Diginex will use commercially reasonable efforts to cause one of its service providers
+to enter into a lock-up agreement in connection with receipt of Singapore NewCo Ordinary Shares that such service provider will
+receive on the Closing Date for a period of no less than six months after the Closing Date, and (d) each of JFK and Diginex will
+use best efforts to assist the other party to fulfill the new covenants relating to (i) JFK maintaining $15,000,000 in the trust
+account as of the Closing Date after giving effect to JFK’s ordinary share redemptions, but prior to taking into account
+JFK’s liabilities for any fees and costs relating to the transactions contemplated by the Third Amended Share Exchange Agreement,
+and (ii) Diginex raising at least $15,000,000 through the issuance of new ordinary shares to be completed no later than the Closing
+(the “Subsequent Diginex Private Placement”). The failure to comply with the covenants described in clause (d) of
+this paragraph will not constitute a material breach of the Third Amended Share Exchange Agreement for the purposes of fulfilling
+certain closing conditions of parties, or with respect to the indemnification or termination provisions set forth in the Third
+Amended Share Exchange Agreement. In the event the respective covenants that are the subject matter of (d) of this paragraph are
+not fulfilled, or, (i) if the market value of the unrestricted publicly held JFK ordinary shares (as calculated under the rules
+of The Nasdaq Capital Market (“NASDAQ”)) that are outstanding as of immediately prior to the Closing Date (after giving
+effect to the JFK ordinary share redemptions), and (ii) the combined stockholders equity of JFK and Diginex (after giving effect
+to the JFK ordinary share redemptions, the Share Exchange and the transactions contemplated thereby), fail to satisfy NASDAQ listing
+requirements ((i) and (ii), collectively, the “Nasdaq Requirements”), the parties have agreed to negotiate in good
+faith to reach a mutually agreeable resolution with respect thereto. However, if they are unable to reach an agreement, such failure
+will not be a material breach on the part of any party that elects to terminate the Third Amended Share Exchange Agreement because
+the transactions contemplated thereunder did not occur prior to June 23, 2020, the outside closing date.
+
+ 
+
+The
+Third Amendment includes new covenants of Diginex that (a) without JFK’s prior written consent (which consent will not be
+unreasonably withheld or delayed), Diginex and its affiliates will not, directly or indirectly, or through any other person (including,
+its directors, officers and agents) engage with or contact, for the purpose of making an investment into Diginex or any of its
+affiliates, any potential investor actually introduced to Diginex or its affiliates by JFK or its affiliates during the period
+commencing on April 27, 2020 and ending on the earlier of the Closing Date and termination of the Third Amended Share Exchange
+Agreement, and who have not previously (i) had any direct or indirect business or investment relationship with Diginex or its
+Affiliates or (ii) engaged in any discussions with or contacted or been contacted by, directly or indirectly, or through any other
+person (including, its directors, officers and agents), Diginex or the Diginex’s affiliates, advisors or representatives
+regarding a potential business or investment relationship, until the Closing Date, or in the event the Third Amended Shares Exchange
+Agreement is terminated, for a period of 12 months after the termination, and (b) without JFK’s prior written consent (which
+consent will not be unreasonably withheld, conditioned or delayed) Diginex will not use any proceeds of the Subsequent Diginex
+Private Placement, up to $15,000,000, for any purpose other than its operating expenses and capital expenditures.
+
+ 
+
+The
+Third Amendment includes new covenants of all parties that, (a) JFK will use commercially reasonable efforts to cause one of its
+service providers to enter into a lock-up agreement in connection with receipt of Singapore NewCo Ordinary Shares that such service
+provider will receive for a period of no less than six months after the Closing Date, (b) JFK will use commercially reasonable
+efforts to cause the balance of the trust account after giving effect to JFK’s ordinary share redemptions, but prior to
+taking into account JFK’s liabilities for any fees and costs relating to the transactions contemplated by the Third Amended
+Share Exchange Agreement, to be an amount greater than or equal to $15,000,000, (c) prior to the Closing Date, Diginex will use
+its commercially reasonable efforts to raise at least $15,000,000 through the Subsequent Diginex Private Placement, and (d) JFK
+and Diginex will use commercially reasonable efforts to satisfy the Nasdaq Requirements.
+
+ 
+
+
+
+      
+     
+    
+
+ 
+
+The
+Third Amendment includes new conditions to the obligations of the parties to consummate the Share Exchange, such as (i) the balance
+of the trust account will be an amount greater than or equal to $15,000,000 after giving effect to JFK’s ordinary share
+redemptions, but prior to taking into account JFK’s liabilities for any fees and costs relating to the Share Exchange, and
+(ii) during the period commencing on April 24, 2020 and ending on the Closing Date, Diginex will raise at least $15,000,000 through
+the Subsequent Diginex Private Placement. As a new condition to Diginex’s obligation to consummate the Share Exchange, JFK
+will deliver to Diginex evidence of the Sponsor Loan Conversion. The existing condition to consummate the Share Exchange that
+JFK receives executed copies of lock-up agreements from all of the Diginex shareholders has been revised, so that in Diginex’s
+sole discretion up to 5,000,000 of the Singapore NewCo Ordinary Shares issued in the Subsequent Diginex Private Placement may
+be issued without being subject to the restrictions in the lock-up agreement.
+
+ 
+
+The
+Third Amendment provides Diginex the right, at its sole option, to terminate the Third Amended Share Exchange Agreement if the
+Nasdaq Requirements are not met, or if after giving effect to the JFK ordinary share redemptions, the Share Exchange and the transactions
+contemplated thereby, JFK fails to comply with the net tangible assets requirements set forth in its Amended and Restated Memorandum
+and Articles of Association.
+
+ 
+
+On
+June 24, 2020, each of the parties to the Third Amendment entered into a fourth amendment to the Share Exchange Agreement (the
+“Fourth Amendment,” and together with the Share Exchange Agreement, the Amendment, the Second Amendment and the Third
+Amendment, the “Amended Share Exchange Agreement”) to, among other things, (a) extend the outside Closing Date of
+the Business Combination to September 28, 2020 and (b) agree to hold the special meeting no later than September 15, 2020.
+
+ 
+
+The Fourth Amendment includes
+new covenants that all of the parties will, (i) take all steps required to extend the time available to consummate the Business
+Combination for an additional three months to September 30, 2020, including, sharing payment of the extension fees payable to
+the JFK trust account in the amount of $575,000, (ii) use their commercially reasonable efforts to fulfill their respective
+covenants and closing conditions in order to hold the special meeting no later than September 15, 2020 and hold the closing
+of the Business Combination no later than September 28, 2020, and (iii) use their commercially reasonable efforts to have 6,411,100
+of the Singapore NewCo Ordinary Shares issuable, in the aggregate, to various parties pursuant to the Share Exchange Agreement
+be freely tradeable from the day immediately following the Closing Date.
+
+
+ 
+
+The
+foregoing description of the Fourth Amendment does not purport to be complete and is qualified in its entirety by the terms and
+conditions of the Fourth Amendment, a copy of which is filed as Exhibit 2.1 hereto and is incorporated by reference herein.
+
+ 
+
+Extension
+of time to complete the Business Combination
+
+ 
+
+On
+June 24, 2020, JFK issued promissory notes in the principal amount of $287,500 each to 8i Enterprises Pte Ltd and Diginex Limited
+(the “Funds”). The Funds were deposited into the JFK trust account for the benefit of its public stockholders in order
+to extend the period of time JFK has to complete a business combination for three additional months, from July 1, 2020 to September
+30, 2020. The notes do not bear interest and are payable five business days after the date JFK completes a business combination.
+The following events constitute events of default under the note:
+
+ 
+
+
+
+    1.
+    Failure
+    to make required payments;
+
+     
+     
+
+    2.
+    The
+    voluntary liquidation of JFK; and
+
+     
+     
+
+    3.
+    The
+    involuntary bankruptcy of JFK.
+
+ 
+
+Item
+2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The
+information in Item 1.01 is incorporated by reference into this item.
+
+ 
+
+
+
+
+      
+     
+    
+
+ 
+
+Item
+7.01. Regulation FD Disclosure
+
+ 
+
+On
+June 25, 2020, JFK issued a press release announcing the contribution made to its trust account to extend the period to consummate
+a business combination for an additional three months, from July 1, 2020 to September 30, 2020. A copy of the press release is
+attached hereto Exhibit 99.1.
+
+ 
+
+The
+foregoing information, including the press release attached hereto as Exhibit 99.1 is being furnished pursuant to Item 7.01 of
+this Current Report and shall not be deemed “filed” for the purposes of Section 18 of the Securities and Exchange
+Act of 1934, as amended, or otherwise subject to the liabilities of that Section.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits
+
+ 
+
+(d)
+Exhibits:
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+    2.1
+     
+    Fourth
+    Amendment to the Share Exchange Agreement dated as of June 24, 2020
+
+    10.1
+     
+    Promissory Note to 8i Enterprises Pte Ltd dated June 24, 2020
+
+    10.2
+
+
+
+     
+    Promissory
+    Note to Diginex Limited dated June 24, 2020
+
+    99.1
+     
+    JFK
+    Press Release, dated as of June 25, 2020
+
+ 
+
+
+
+      
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+Dated:
+June 26, 2020
+
+ 
+
+
+
+    8i
+    ENTERPRISES ACQUISITION CORP.
+     
+
+     
+     
+     
+
+    By:
+    /s/
+    James Tan
+     
+
+    Name:
+    James
+    Tan
+     
+
+    Title:
+    Chief
+    Executive Officer
+     
+
+ 
+
+
+     
+    
+
+
+
+
+
+

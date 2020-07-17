@@ -1,0 +1,394 @@
+
+8-K
+1
+f8k010320a_allegromerger.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): January 3, 2020
+
+ 
+
+ALLEGRO
+MERGER CORP. 
+
+(Exact
+Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38581
+     
+    82-2425125
+
+    (State
+                                         or Other Jurisdiction
+        of
+        Incorporation)
+     
+    (Commission
+        File
+        Number)
+     
+    (IRS
+                                         Employer
+        Identification
+        No.)
+
+ 
+
+
+
+    777
+                                         Third Avenue, 37th Floor
+        New
+        York, NY
+     
+     
+        10017
+
+    (Address
+    of Principal Executive Offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code:	(212) 319-7676
+
+ 
+
+Not
+Applicable
+
+	(Former
+Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+
+☐Written
+                                         communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☒Soliciting
+                                         material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+☐Pre-commencement
+                                         communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+☐Pre-commencement
+                                         communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on
+    which registered
+
+    Units, each consisting
+    of one share of common stock, one right, and one redeemable warrant
+     
+    ALGRU
+     
+    The Nasdaq Stock
+    Market LLC
+
+    Common stock, par
+    value $0.0001 per share
+     
+    ALGR
+     
+    The Nasdaq Stock
+    Market LLC
+
+    Rights, each to receive
+    one-tenth (1/10) of one share of common stock
+     
+    ALGRR
+     
+    The Nasdaq Stock
+    Market LLC
+
+    Redeemable warrants,
+    each exercisable for one share of common stock at an exercise price of $11.50 per share
+     
+    ALGRW
+     
+    The Nasdaq Stock
+    Market LLC
+
+
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+     
+     
+    
+
+
+
+ 
+
+
+Item
+                          2.03Creation
+                                         of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement
+                                         of a Registrant.
+
+ 
+
+The
+information included in Item 5.07 is incorporated by reference in this item to the extent required herein.
+
+ 
+
+
+Item
+                          5.07.Submission
+                                         of Matters to a Vote of Security Holders.
+
+ 
+
+On
+January 3, 2020, Allegro Merger Corp. (the “Company”) held a special meeting of its shareholders (the “Meeting”).
+At the Meeting, the Company’s shareholders considered a proposal to amend the Company’s amended and restated certificate
+of incorporation (the “charter”) to extend the date by which the Company has to consummate its initial business combination
+(the “Extension”) from January 6, 2020 to March 31, 2020 (the “Extended Date”). The proposal was approved
+by the Company’s shareholders. The following is a tabulation of the votes with respect to the proposal:
+
+ 
+
+
+
+    For  
+    Against  
+    Abstain  
+    Broker Non-Votes 
+
+     15,171,970  
+     4,000  
+     0  
+     0 
+
+
+
+
+ 
+
+In
+connection with this vote, the holders of 3,782,869 shares of common stock of the Company exercised their right to convert their
+shares into cash at a conversion price of approximately $10.22 per share, for an aggregate conversion amount of approximately
+$38.7 million.
+
+ 
+
+Following
+the Meeting, the Company filed the amendment to the charter with the Secretary of State of the State of Delaware.
+
+ 
+
+Additionally,
+in connection with the approval of the Extension, on January 3, 2020, certain individuals and entities (the “Contributors”)
+that participated in the private placement of units that occurred simultaneously with the Company’s initial public offering
+contributed to the Company an aggregate amount of $781,699.17, representing contributions covering a prorated amount of $0.02
+per unconverted public share for the partial month of January 2020 and $0.025 per unconverted public share for each of February
+2020 and March 2020 (each, a “Contribution”).
+
+ 
+
+Following
+the Meeting and filing of the amendment to the charter, the Company deposited $223,342.62, the Contribution for January 2020,
+into the trust account established in connection with the Company’s initial public offering. The Company will deposit the
+second Contribution on or before January 31, 2020, and will deposit the third Contribution on or before February 29, 2020, in
+each case, to the same trust account; provided that any such additional Contribution will only be made if the previously announced
+merger agreement with TGI Fridays is still then in effect, or, if such agreement is earlier terminated, the Board of Directors
+of the Company by majority vote determines to require such additional Contribution. If the Board of Directors determines not to
+require such additional Contribution, the Company will proceed to liquidate its assets and distribute the remaining amounts in
+the trust account to the then holders of public shares.
+
+ 
+
+The
+Contributions will not bear any interest and will be repayable by the Company to the Contributors upon consummation of an initial
+business combination. The Contributions will be forgiven if the Company is unable to consummate an initial business combination
+except to the extent of any funds held outside of the Company’s trust account.
+
+
+
+ 
+
+
+
+    1
+     
+    
+
+ 
+
+SIGNATURE
+
+
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+
+
+    Dated: January 6, 2020
+    
+                                              ALLEGRO MERGER CORP. 
+
+     
+     
+     
+
+     
+    By:
+    /s/ Eric S. Rosenfeld
+
+     
+     
+    Eric S. Rosenfeld
+
+     
+     
+    Chief Executive Officer
+
+
+
+ 
+
+ 
+
+2
+
+
+
+ 
+
+ 
+
+
+
+
+
+

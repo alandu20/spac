@@ -1,0 +1,399 @@
+
+8-K
+1
+f8k121219_kblmerger4.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): December
+12, 2019 
+
+ 
+
+KBL MERGER CORP. IV
+
+(Exact Name of Registrant as Specified in
+Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38105
+     
+    81-3832378
+
+    (State or Other Jurisdiction
+of Incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+
+
+    
+        527 Stanton Christian Road
+        Newark, DE 19713
+     
+    19713
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (302) 502-2727
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed
+Since Last Report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+
+
+    ☒
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  ☒
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    
+        Name of each exchange on
+        which registered
+
+    Common Stock, par value $0.0001 per share
+     
+    KBLM
+     
+    The NASDAQ Stock Market LLC
+
+    Warrants, each warrant exercisable for one-half of one share of Common Stock at an exercise price of $5.75 per half share
+     
+    KBLMW
+     
+    The NASDAQ Stock Market LLC
+
+    Rights, exchangeable into one-tenth of one share of Common Stock
+     
+    KBLMR
+     
+    The NASDAQ Stock Market LLC
+
+    Units, each consisting of one share of Common Stock, one Warrant and one Right
+     
+    KBLMU
+     
+    The NASDAQ Stock Market LLC
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+ 
+
+Attached as Exhibit 99.l
+to this Current Report on Form 8-K and incorporated into this Item 7.01 by reference is the investor presentation dated December 12, 2019 that will be used by KBL Merger Corp. IV (“KBL”) in making presentations to certain of its stockholders
+and other persons with respect to the transactions contemplated by that certain Business Combination Agreement, dated as of July 25,
+2019 (as it may be further amended from time to time, the “Business Combination Agreement”), entered into
+among KBL, CannBioRx Life Sciences Corp., a Delaware corporation (the “Company”), Katexco Pharmaceuticals Corp.,
+a British Columbia corporation (“Katexco”), CannBioRex Pharmaceuticals Corp., a British Columbia corporation
+(“CBR Pharma”), 180 Therapeutics L.P., a Delaware limited partnership (“180” and together
+with Katexco and CBR Pharma, the “Company Subsidiaries”), KBL Merger Sub, Inc., a Delaware corporation, and
+Lawrence Pemble, in his capacity as representative of the stockholders of the Company and the Company Subsidiaries.
+
+ 
+
+The information in
+this Current Report on Form 8-K and Exhibit 99.1 attached hereto is being furnished pursuant to Item 7.01 and shall not be
+deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), or otherwise be subject to the liabilities of that section, nor shall it be deemed to be incorporated by reference
+in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, regardless
+of any general incorporation language in such filings.  This Current Report on Form 8-K will not be deemed an admission as
+to the materiality of any of the information in this Item 7.01, including Exhibit 99.1.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+Certain statements
+made herein are “forward-looking statements” within the meaning of U.S. federal securities laws. Words such as “expect,”
+“estimate,” “project,” “budget,” “forecast,” “anticipate,” “intend,”
+“plan,” “may,” “will,” “could,” “should,” “believes,” “predicts,”
+“potential,” “continue” and similar expressions are intended to identify such forward-looking statements.
+These forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially
+from the expected results and, consequently, you should not rely on these forward-looking statements as predictions of future events.
+These forward-looking statements and factors that may cause such differences include, without limitation, statements relating to
+the timing and completion of the proposed business combination; KBL’s continued listing on the Nasdaq Stock Market until
+closing of the proposed business combination; expectations regarding the capitalization, resources and ownership structure of the
+combined company; the inability to recognize the anticipated benefits of the proposed business combination, which may be affected
+by, among other things, the amount of cash available following redemptions by KBL stockholders; the ability to meet the Nasdaq
+Stock Market’s listing standards following the consummation of the transactions contemplated by the proposed business combination;
+costs related to the proposed business combination; expectations with respect to future performance, growth and anticipated acquisitions;
+ability to recognize the anticipated benefits of the proposed business combination; the Company’s ability to execute its
+plans to develop and market new drug products and the timing and costs of these development programs; the Company’s estimates
+of the size of the markets for its potential drug products; potential litigation involving KBL or the Company or the validity or
+enforceability of the Company’s intellectual property; global economic conditions; geopolitical events and regulatory changes;
+access to additional financing; and other risks and uncertainties indicated from time to time in filings with the Securities and
+Exchange Commission (the “SEC”). Other factors include the possibility that the proposed business combination
+does not close, including due to the failure to receive required security holder approvals, or the failure of other closing conditions.
+The foregoing list of factors is not exclusive. Additional information concerning these and other risk factors is contained in
+KBL’s most recent filings with the SEC and will be contained in the proxy statement/prospectus to be filed as result of the
+transactions described above. All subsequent written and oral forward-looking statements concerning KBL or the Company, the transactions
+described herein or other matters and attributable to KBL or the Company or any person acting on their behalf are expressly qualified
+in their entirety by the cautionary statements above. Readers are cautioned not to place undue reliance upon any forward-looking
+statements, which speak only as of the date made. None of KBL or the Company undertake or accept any obligation or undertaking
+to release publicly any updates or revisions to any forward-looking statement to reflect any change in their expectations or any
+change in events, conditions or circumstances on which any such statement is based.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Additional Information and Where to Find It
+
+ 
+
+KBL has filed a registration
+statement on Form S-4, which includes a preliminary proxy statement/prospectus for KBL’s stockholders, with the SEC. KBL’s
+definitive proxy statement/prospectus will be mailed to KBL’s stockholders that do not opt to receive the document electronically.
+KBL and the Company urge investors, stockholders and other interested persons to read the preliminary proxy statement/prospectus,
+as well as other documents that will be filed with the SEC, because these documents will contain important information about the
+proposed business combination transaction. Such persons  can also read KBL’s Annual Report on Form 10-K for the fiscal
+year ended December 31, 2018, for a description of the security holdings of its officers and directors and their respective interests
+as security  holders in the consummation of the proposed business combination transaction. KBL’s definitive proxy statement/prospectus,
+which is included in the registration statement, will be mailed to stockholders of KBL as of a record date to be established. KBL’s
+stockholders will also be able to obtain a copy of such documents, without charge, by directing a request to:  KBL Merger
+Corp. IV, 150 West 56th Street, Suite 5901, New York, NY 10019; e-mail: admin@kblvc.com. These documents can also be obtained,
+without charge, at the SEC’s web site (http://www.sec.gov).
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+KBL and its directors
+and executive officers, may be deemed to be participants in the solicitation of proxies for the special meeting of KBL’s
+stockholders to be held to approve the proposed transactions in connection with the business combination. Information regarding
+the persons who may, under the rules of the SEC, be deemed participants in the solicitation of KBL’s stockholders in connection
+with the proposed transactions are set forth in the preliminary proxy statement/prospectus included in the registration statement
+that was filed with the SEC on November 12, 2019. You can find information about KBL’s executive officers and directors in
+its Annual Report on Form 10-K for the fiscal year ended December 31, 2018, which was filed with the SEC on April 1, 2019.
+You can obtain free copies of these documents from KBL using the contact information above.
+
+ 
+
+Disclaimer
+
+ 
+
+This communication
+is not a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities or in respect of the
+proposed transaction and shall not constitute an offer to sell  or a solicitation of an offer to buy the securities of KBL
+and the Company, nor shall there be any sale of any such securities in any state or jurisdiction in which such offer, solicitation,
+or sale would be unlawful prior  to registration or qualification under the securities laws of such state or jurisdiction.
+No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    
+        Exhibit
+        Number
+     
+    Description
+
+     
+     
+     
+
+    99.1
+     
+    Investor Presentation dated December 12, 2019.
+
+ 
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+Dated: December 12, 2019
+
+ 
+
+
+
+     
+    KBL MERGER CORP. IV
+
+     
+     
+
+     
+    By: 
+    /s/ Marlene Krauss, M.D.
+
+     
+     
+    Name: Marlene Krauss, M.D.
+Title: Chief Executive Officer
+
+ 
+
+ 
+
+3
+
+
+
+ 
+
+
+
+
+
+

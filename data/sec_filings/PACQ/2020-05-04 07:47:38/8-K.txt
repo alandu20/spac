@@ -1,0 +1,913 @@
+
+8-K
+1
+pacq20200429_8k.htm
+FORM 8-K
+
+
+	hpe20200429_8k.htm
+
+	
+
+
+
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+FORM 8-K
+
+ 
+
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(D)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported): May 4, 2020
+
+ 
+
+
+ 
+
+
+
+		
+			
+			Pure Acquisition Corp.
+			
+		
+		
+			
+			(Exact name of registrant as specified in its charter)
+
+			 
+			
+		
+		
+			
+			 
+
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			Delaware
+			
+			
+			001-38454
+			
+			
+			82-3434680
+			
+		
+		
+			
+			(State or other jurisdiction
+			of incorporation)
+			
+			
+			(Commission
+			File Number)
+			
+			
+			(I.R.S. Employer
+			Identification No.)
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			421 W. 3rd St., Suite 1000
+			Fort Worth, Texas 76102
+			
+		
+		
+			
+			(Address of principal executive offices)
+			(Zip code)
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			(817) 850-9200
+			
+		
+		
+			
+			(Registrant’s telephone number, including area code)
+			
+		
+
+
+
+ 
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+		
+			
+			Title of each class
+			
+			
+			 
+			
+			
+			Trading Symbol(s)
+			
+			
+			 
+			
+			
+			Name of each exchange 
+
+			on which registered
+			
+		
+		
+			
+			Class A Common Stock, par value $0.0001 per share
+			
+			
+			 
+			
+			
+			PACQ
+			
+			
+			 
+			
+			
+			NASDAQ
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			Warrants, each Warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
+			
+			
+			 
+			
+			
+			PACQW
+			
+			
+			 
+			
+			
+			NASDAQ
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
+			
+			
+			 
+			
+			
+			PACQU
+			
+			
+			 
+			
+			
+			NASDAQ
+			
+		
+
+
+
+ 
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☒     Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☒     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐     Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐     Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+		
+			
+			Item 1.01
+			
+			
+			Entry into a Material Definitive Agreement
+			
+		
+
+
+
+ 
+
+On May 4, 2020, Pure Acquisition Corp., a Delaware corporation (the “Company’), entered into the HPK Business Combination Agreement as defined and described below, with the respective parties thereto.
+
+ 
+
+HPK Business Combination Agreement
+
+ 
+
+On May 4, 2020, the Company, HighPeak Energy, Inc., a Delaware corporation and wholly owned subsidiary of the Company (“HighPeak Energy”), Pure Acquisition Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of HighPeak Energy (“MergerSub”), HighPeak Energy, LP, a Delaware limited partnership (“HighPeak I”), HighPeak Energy II, LP, a Delaware limited partnership (“HighPeak II”), HighPeak Energy III, LP, a Delaware limited partnership (“HighPeak III”), HPK Energy, LLC, a Delaware limited liability company (“HPK GP” and, together with HighPeak I, HighPeak II and HighPeak III, the “HPK Contributors”) and the general partner of HPK Energy, LP, a Delaware limited partnership (“HPK”), and solely for the limited purposes specified therein, HighPeak Energy Management, LLC, a Delaware limited liability company, entered into a Business Combination Agreement (the “HPK Business Combination Agreement,” and the transactions contemplated thereby, the “HPK Business Combination”), pursuant to which, among other things and subject to the terms and conditions contained therein, (i) MergerSub will merge with and into the Company, with the Company surviving as a wholly owned subsidiary of HighPeak Energy, (ii) each outstanding share of Class A Common Stock and Class B Common Stock of the Company (other than certain shares of Class B Common Stock of the Company held by HighPeak Pure Acquisition, LLC (the Company’s “Sponsor’) that will be forfeited in connection with the HPK Business Combination) will be converted into the right to receive one share of common stock of HighPeak Energy (“HighPeak Energy common stock”), (iii) HighPeak Energy will succeed to the Company’s rights and obligations under that certain Warrant Agreement, dated April 12, 2018, by and between the Company and Continental Stock Transfer & Trust Company, as warrant agent, and the Company’s warrants (other than warrants held by the Company’s Sponsor and HighPeak Energy Partners II, LP, a Delaware limited partnership (“HPEP II”) that will be forfeited in connection with the HPK Business Combination) will become warrants of HighPeak Energy exercisable for shares of HighPeak Energy common stock, (iv) the HPK Contributors will (a) contribute their limited partner interests in HPK to HighPeak Energy in exchange for HighPeak Energy common stock and the general partner interests in HPK to either HighPeak Energy or a wholly owned subsidiary of HighPeak Energy in exchange for no consideration, and (b) directly or indirectly contribute certain loans with respect to which the Company or HighPeak Energy is the obligor in exchange for shares of HighPeak Energy common stock, (v) all Sponsor Loans (as defined in the HPK Business Combination Agreement), if any, will be cancelled in connection with the HPK Closing (as defined below), and (vi) HighPeak Energy will cause HPK to merge with and into the Company with all interests in HPK being cancelled for no consideration.
+
+ 
+
+
+
+
+1
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Representations, Warranties and Covenants; Indemnification
+
+ 
+
+The HPK Business Combination Agreement contains customary representations and warranties by the parties thereto, as more particularly set forth in the HPK Business Combination Agreement. The HPK Business Combination Agreement also contains customary pre-closing covenants of the parties, including the obligation of the Company and its subsidiaries and HPK and its subsidiaries to conduct their respective businesses in the ordinary course and to refrain from taking certain specified actions, subject to certain exceptions, without the prior written consent of certain counterparties to the HPK Business Combination Agreement.
+
+ 
+
+The HPK Business Combination Agreement does not provide for indemnification with respect to any of the representations and warranties of the parties thereto. Under the HPK Business Combination Agreement, the parties have agreed to indemnify one another with respect to such indemnifying party’s exercise of its access rights under the HPK Business Combination Agreement and such indemnified party’s cooperation in connection with an amended registration statement on Form S-4, which will include a prospectus of HighPeak Energy and a proxy statement of the Company, and financing matters. Additionally, HighPeak Energy has agreed to indemnify, following the consummation of the HPK Business Combination (the “HPK Closing”), the directors and officers of HPK and its subsidiaries or such persons as are or were serving at the request of HPK or its subsidiaries as a director or officer of another corporation, partnership, limited liability company, joint venture, employee benefit plan, trust or other enterprise against certain claims arising out of such individuals serving in such positions.
+
+ 
+
+ 
+
+Conditions to the Parties’ Obligations to Consummate the HPK Business Combination
+
+ 
+
+Under the HPK Business Combination Agreement, the obligations of the parties to consummate the transactions contemplated thereby are subject to a number of closing conditions, including the following: (i) the expiration of the waiting period (or extension thereof) under the Hart-Scott Rodino Antitrust Improvement Act of 1976 (the “HSR Act”); (ii) the absence of specified adverse laws, injunctions or orders; (iii) the requisite approval by the Company’s stockholders, and the written consents of the Company, as the sole stockholder of HighPeak Energy, and by HighPeak Energy, as the sole stockholder of MergerSub (which written consents of the Company and HighPeak Energy are to be delivered within 24 hours of execution of the HPK Business Combination Agreement); (iv) the completion of the offer by the Company to redeem shares of Class A Common Stock issued in its initial public offering for cash in accordance with the organizational documents of the Company and the terms of the HPK Business Combination Agreement; (v) the Minimum Aggregate Funding Availability (as defined in the HPK Business Combination Agreement) being not less than $100,000,000 and the Minimum Equity Capitalization (as defined in the HPK Business Combination Agreement) being not less than $50,000,000; (vi) the representations and warranties of (a) the HPK Contributors, in the case of the Company, HighPeak Energy and MergerSub, and (b) the Company, HighPeak Energy and MergerSub, in the case of the HPK Contributors, being true and correct, subject to the materiality standards contained in the HPK Business Combination Agreement; (vii) material compliance by (a) the HPK Contributors, in the case of the Company, HighPeak Energy and MergerSub, and (b) the Company, HighPeak Energy and MergerSub, in the case of the HPK Contributors with their respective covenants under the HPK Business Combination Agreement; and (viii) delivery by the other parties of documents and other items required to be delivered by such parties at the HPK Closing. Additionally, the HPK Contributors’ obligations to consummate the transactions contemplated by the HPK Business Combination Agreement are also subject to the conditions that (a) the shares of HighPeak Energy common stock issuable to the HPK Contributors pursuant to the HPK Business Combination Agreement are approved for listing on the New York Stock Exchange (the “NYSE”) or the Nasdaq Capital Market (the “Nasdaq”), subject only to official notice of issuance thereof and (b) the Company shall have transferred, or as of the HPK Closing shall transfer, to HighPeak Energy certain cash (net of payments made in connection with stock redemptions and certain expenses).
+
+ 
+
+
+
+
+2
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Termination Rights
+
+ 
+
+The HPK Business Combination Agreement may be terminated at any time prior to the HPK Closing (i) by mutual written consent of the Company and the HPK Contributors or (ii) by any party upon the occurrence of any of the following: (a) if any governmental entity issues any order, decree, ruling or injunction or takes any other action permanently restraining, enjoining or otherwise prohibiting the consummation of the transactions contemplated by the HPK Business Combination Agreement and such order, decree, ruling or injunction or other action shall have become final and nonappealable or if there shall be adopted any law that makes consummation of the transactions contemplated by the HPK Business Combination Agreement illegal or otherwise prohibited; provided, however, that the right to terminate shall not be available to the terminating party if the failure to fulfill any material covenant or agreement under the HPK Business Combination Agreement by the Company, HighPeak Energy or MergerSub (in the case where the Company, HighPeak Energy or MergerSub is the terminating party) or the HPK Contributors (in the case where an HPK Contributor is the terminating party) has been the cause of or resulted in the circumstances described in the foregoing; (b) in the event that any breach of a representation, warranty or covenant by the Company, HighPeak Energy or MergerSub (in the case where an HPK Contributor is the terminating party) or the HPK Contributors (in the case where the Company, HighPeak Energy or MergerSub is the terminating party) would cause the failure of a condition relating to such matters, and such breach cannot be or has not been cured by the earlier of 30 days after notice is given and August 21, 2020; provided, however, that neither the party terminating nor its affiliates is also in equal breach of the HPK Business Combination Agreement; (c) if, after the final adjournment of the special meeting at which a vote of the Company’s stockholders has been taken to approve the business combination, the business combination did not receive the requisite votes to be approved; and (d) if the transactions contemplated by the HPK Business Combination Agreement and by each other agreement to be executed and delivered in connection therewith (collectively, the “Transactions”) have not been consummated on or before 5:00 p.m., Houston time on August 21, 2020; provided, however, that the failure to fulfill any material covenant or agreement by the Company, HighPeak Energy or MergerSub (in the case where the Company, HighPeak Energy or MergerSub is the terminating party) or the HPK Contributors (in the case where an HPK Contributor is the terminating party) has been the cause of or resulted in the failure of the consummation of the Transactions on or before such date.
+
+ 
+
+The foregoing description of the HPK Business Combination Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the HPK Business Combination Agreement, a copy of which is filed as Exhibit 2.1 to this Current Report on Form 8-K (this “Current Report”) and is incorporated herein by reference.
+
+ 
+
+Sponsor Support Agreement
+
+ 
+
+On May 4, 2020, the Company, and the Company’s Sponsor and HPEP II entered into a Sponsor Support Agreement (the “Support Agreement” and together with the HPK Business Combination Agreement, the “Business Combination Agreements”) as contemplated by the HPK Business Combination Agreement and for the purpose of facilitating the business combination. Pursuant to the Sponsor Support Agreement, (i) the Company’s Sponsor has agreed to irrevocably transfer to the Company, surrender and forfeit for no consideration, 5,350,000 shares of the Company’s Class B Common Stock and (ii) each of the Company’s Sponsor and HPEP has agreed to irrevocably transfer to the Company, surrender and forfeit for no consideration all warrants to purchase the Company’s Class A Common Stock held by the Company’s Sponsor or HPEP II, as applicable.
+
+ 
+
+The foregoing description of the Support Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the Support Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report and is incorporated herein by reference.
+
+ 
+
+Other Related Agreements
+
+ 
+
+The Business Combination Agreements contemplate the execution by the parties of various ancillary agreements at or before the HPK Closing, including, among others, a stockholders’ agreement, a registration rights agreement relating to the resale of the shares of HighPeak Energy common stock issuable as consideration for the HPK Business Combination and restated forward purchase agreement.
+
+ 
+
+Stockholders’ Agreement
+
+ 
+
+Concurrently with the HPK Closing, HighPeak Energy, the Company’s Sponsor, the HPK Contriubtors and Jack Hightower (“Hightower” and, together with the Company’s Sponsor, and the HPK Contributors, the “Principal Stockholder Group”) will enter into a Stockholders’ Agreement (the “Stockholders’ Agreement”), which will govern certain rights and obligations following the HPK Closing.
+
+ 
+
+
+
+
+4
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Under the Stockholders’ Agreement, the Principal Stockholder Group will be entitled, based on its percentage ownership of the total HighPeak Energy common stock outstanding immediately following the HPK Closing (the “Original Shares”) and provided that the Original Shares constitutes not less than the percentage of the then-outstanding total voting securities of HighPeak Energy set forth below, to nominate a number of directors for appointment to HighPeak Energy’s board of directors (the “HighPeak Energy Board”) as follows:
+
+ 
+
+
+
+		
+			
+			 
+			
+			
+			●
+			
+			
+			for so long as (i) the Principal Stockholder Group beneficially owns at least 35% of the Original Shares and (ii) the Original Shares constitutes at least 30% of HighPeak Energy’s then-outstanding voting securities, the Principal Stockholder Group can designate up to four (4) nominees, and if the Principal Stockholder Group beneficially owns 50% or less of the total outstanding voting securities of HighPeak Energy, at least one (1) nominee shall be independent as defined by applicable listing standards;
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			 
+			
+			
+			●
+			
+			
+			for so long as (i) the Principal Stockholder Group beneficially owns less than 35% but at least 25% of the Original Shares and (ii) the Original Shares constitutes at least 25% of HighPeak Energy’s then-outstanding voting securities, the Principal Stockholder Group can designate up to three (3) nominees;
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			 
+			
+			
+			●
+			
+			
+			for so long as (i) the Principal Stockholder Group beneficially owns less than 25% but at least 15% of the Original Shares and (ii) the Original Shares constitutes at least 15% of HighPeak Energy’s then-outstanding voting securities, the Principal Stockholder Group can designate up to two (2) nominees; and
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			 
+			
+			
+			●
+			
+			
+			if (i) the Principal Stockholder Group beneficially owns less than 15% but at least 5% of the Original Shares and (ii) the Original Shares constitutes at least 7.5% of HighPeak Energy’s then-outstanding voting securities, the Principal Stockholder Group can designate one (1) nominee.
+			
+		
+
+
+
+ 
+
+If at any time the Principal Stockholder Group owns less than 5% of the Original Shares, it will cease to have any rights to designate individuals for nomination to HighPeak Energy’s Board.
+
+ 
+
+Registration Rights Agreement
+
+ 
+
+Concurrently with the HPK Closing, HighPeak Energy will enter into a Registration Rights Agreement (the “HighPeak Registration Rights Agreement”) with the members of the Principal Stockholder Group and the Company’s existing three (3) independent directors, Sylvia K. Barnes, M. Gregory Colvin and Jared S. Sturdivant (such parties being collectively referred to in connection with the Registration Rights Agreement as the “Holders” and, each individually, each a “Holder”)), pursuant to which HighPeak Energy will be obligated, subject to the terms and conditions thereof and in the manner contemplated thereby, to register for resale under the Securities Act of 1933, as amended (the “Securities Act”), all or any portion of the shares of HighPeak Energy common stock that the Holders hold as of the date of the HighPeak Registration Rights Agreement, and that they may acquire thereafter, including upon the conversion, exchange or redemption of any other security therefor (the “Registrable Securities”). HighPeak Energy has agreed to file and cause to become effective a registration statement covering the Registrable Securities held by such Holder making a demand for registration, provided that no fewer than the amount of Registrable Securities representing the lesser of (i) $50 million or (ii) all Registrable Securities owned by such Holder, as applicable, are covered under the Holder’s demand for registration. Under the HighPeak Registration Rights Agreement, the Holders will also have “piggyback” registration rights exercisable at any time that allow them to include the shares of HighPeak Energy common stock that they own in certain registrations initiated by HighPeak Energy. Subject to customary exceptions, Holders will also have the right to request one or more underwritten offerings of Registrable Securities, provided, that, collectively, Holders may not request more than one underwritten offering in any three month period and each such offering include a number of Registrable Securities equal to the lesser of (i) $50 million and (ii) all of the Registrable Securities owned by such Holders as of the date of the request. In the event that the sale of registered securities under a registration statement would require disclosure of certain material non-public information not otherwise required to be disclosed, HighPeak Energy may postpone the effectiveness of the applicable registration statement or require the suspension of sales thereunder. HighPeak Energy may not delay or suspend a registration statement on more than two (2) occasions for more than sixty (60) consecutive calendar days or more than ninety (90) total calendar days, in each case, during any twelve (12) month period.
+
+ 
+
+Amended and Restated Forward Purchase Agreement
+
+ 
+
+On April 12, 2018, the Company entered into that certain  Forward Purchase Agreement (the “Original Forward Purchase Agreement”) with HighPeak Energy Partners, LP., a Delaware limited partnership and an affiliate of the Company’s Sponsor (“HPEP I”), pursuant to which HPEP I agreed to purchase up to 15,000,000 shares of Class A Common Stock of the Company and 7,500,000 warrants for $10.00 per unit, for an aggregate purchase price of $150,000,000 in a private placement which would close immediately prior to the HPK Closing. In connection with its entry into the Business Combination Agreement, the Company also agreed to enter into that certain Amended and Restated Forward Purchase Agreement (the “A&R Forward Purchase Agreement”), pursuant to which, among other things, HPEP I will assign its rights and obligations under the Original Forward Purchase Agreement to one or more third parties, which may include affiliates of HPEP I, the Company will assign its rights and obligations under the Original Forward Purchase Agreement to HighPeak Energy and (ii) the Original Forward Purchase Agreement would be amended to, among other things (a) extend the date by which the HPK Business Combination must be completed to August 21, 2020, (b) permit any affiliates of the Company’s Sponsor who become purchasers under the A&R Forward Purchase Agreement to subsequently terminate the A&R Forward Purchase Agreement upon written notice to HighPeak Energy, (c) provide for the purchasers under the A&R Forward Purchase Agreement to elect to purchase Forward Purchase Units (as defined in the form of A&R Forward Purchase Agreement) thereunder, provided that the number of Forward Purchase Units to be issued and sold thereunder does not exceed the maximum amounts specified therein, (d) permit the purchasers thereunder that are affiliates of the Company’s Sponsor to take certain actions without the consent of any unrelated third party purchasers and (e) expressly state that the purchasers under the A&R Forward Purchase Agreement will have several and not joint liability.
+
+ 
+
+
+
+		
+			
+			Item 3.01
+			
+			
+			Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing
+			
+		
+
+
+
+ 
+
+The Company’s Class A Common Stock and warrants are currently listed for trading on the Nasdaq under the symbols “PACQ” and “PACQW,” respectively. In addition, certain of the Company’s shares of Class A common stock and warrants currently trade as units consisting of one share of Class A Common Stock and one-half of one warrant, and are also listed for trading on the Nasdaq under the symbol “PACQU.” As a result of the business combination, and pursuant to that certain Warrant Agreement, the Company’s warrants will become warrants of HighPeak Energy and exercisable for shares of HighPeak Energy common stock. In connection with the HPK Closing, (i) the Company’s units will automatically separate into the component securities and will no longer trade as a separate security, (ii) all of the Company’s common stock, units and warrants will be delisted from the Nasdaq and will cease to be publicly traded and (iii) HighPeak Energy intends to list its common stock and warrants for trading on the Nasdaq under the symbols “HPK” and “HPKWS,” respectively.
+
+ 
+
+
+
+
+5
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+		
+			
+			Item 7.01
+			
+			
+			Regulation FD Disclosure
+			
+		
+
+
+
+ 
+
+On May 4, 2020, the Company announced that they had entered into the Business Combination Agreement. A copy of the press release is furnished as Exhibit 99.1 hereto.
+
+ 
+
+On May 4, 2020, the Company provided information regarding the proposed business combination in an investor presentation, a copy of which is furnished as Exhibit 99.2 hereto.
+
+ 
+
+The information furnished in this Item 7.01 (including the exhibits) shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, and is not incorporated by reference into any filing under the Securities Act or the Exchange Act.
+
+ 
+
+
+
+		
+			
+			Item 9.01
+			
+			
+			Financial Statements and Exhibits
+			
+		
+
+
+
+ 
+
+(d)     Exhibits. The following exhibits are filed with this Form 8-K:
+
+ 
+
+
+
+		
+			
+			Exhibit No.
+			
+			
+			 
+			
+			
+			Description of Exhibits
+			
+		
+		
+			
+			2.1*
+			
+			
+			 
+			
+			
+			Business Combination Agreement, dated May 4, 2020, by and among Pure Acquisition Corp., HighPeak Energy, Inc., Pure Acquisition Merger Sub, Inc., HighPeak Energy, LP, HighPeak Energy II, LP, HighPeak Energy III, LP, HPK Energy, LLC and, solely for limited purposes specified therein, HighPeak Energy Management, LLC
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			10.1
+			
+			
+			 
+			
+			
+			Sponsor Support Agreement, dated May 4, 2020, by and among Pure Acquisition Corp., HighPeak Energy Partners II, LP and HighPeak Pure Acquisition, LLC
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			99.1
+			
+			
+			 
+			
+			
+			Press Release, dated May 4, 2020
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			99.2
+			
+			
+			 
+			
+			
+			Investor Presentation, dated May 4, 2020
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			*
+			
+			
+			Certain schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule or exhibit will be furnished supplementally to the U.S. Securities and Exchange Commission (the “SEC”) upon request.  In addition, certain information has been excluded pursuant to Item 601(b)(2) of Regulation S-K because it is both (i) not material and (ii) would likely be competitively harmful if publicly disclosed.
+			
+		
+
+
+
+ 
+
+Legend Information
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+The information included herein and in any oral statements made in connection herewith include “forward-looking statements” within the meaning of Section 27A of the Securities Act, and Section 21E of the Exchange Act. All statements, other than statements of present or historical fact included in this Current Report, regarding the proposed merger of MergerSub into the Company and the proposed contribution of the partnership interests in HPK to HighPeak Energy, HighPeak Energy’s and the Company’s ability to consummate the HPK Business Combination, including raising an adequate amount of equity and debt financing, the benefits of the transaction and HighPeak Energy’s future financial performance following the transaction, as well as the Company’s and HighPeak Energy’s strategy, future operations, financial position, estimated revenues, and losses, projected costs, prospects, plans and objectives of management are forward looking statements. When used in this Current Report herein, including any oral statements made in connection herewith, the words “could,” “should,” “will,” “may,” “believe,” “anticipate,” “intend,” “estimate,” “expect,” “project,” the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These forward-looking statements are based on management’s current expectations and assumptions about future events and are based on currently available information as to the outcome and timing of future events. Except as otherwise required by applicable law, the Company and HighPeak Energy disclaim any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this Current Report. The Company and HighPeak Energy caution you that these forward-looking statements are subject to all of the risks and uncertainties, most of which are difficult to predict and many of which are beyond the control of the Company and HighPeak Energy, incident to the development, production, gathering and sale of oil, natural gas and natural gas liquids. These risks include, but are not limited to, commodity price volatility, low prices for oil and/or natural gas, developments in the global economy as well as the public health crisis related to the coronavirus (COVID-19) pandemic and resulting significant negative effects to the global economy, disrupted global supply chains and significant volatility and disruption of financial and commodity markets, inflation, increased operating costs, lack of availability of drilling and production equipment, supplies, services and qualified personnel, certificates related to new technologies, geographical concentration of operations, environmental risks, weather risks, security risks, drilling and other operating risks, regulatory changes, the uncertainty inherent in estimating oil and natural gas reserves and in projecting future rates of production, reductions in cash flow, lack of access to capital, HighPeak Energy’s ability to satisfy future cash obligations, restrictions in existing or future debt agreements, the timing of development expenditures, managing growth and integration of acquisitions, failure to realize expected value creation from property acquisitions, title defects and limited control over non-operated properties. Should one or more of the risks or uncertainties described in this Current Report and in any oral statements made in connection therewith occur, or should underlying assumptions prove incorrect, actual results and plans could differ materially from those expressed in any forward-looking statements. Additional information concerning these and other factors that may impact the Company’s and HighPeak Energy’s expectations and projections can be found in the Company’s periodic filings with the SEC, including the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019. The Company’s SEC Filings are available publicly on the SEC’s website at www.sec.gov.
+
+ 
+
+
+
+
+6
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report is for informational purposes only and shall not constitute an offer to sell or the solicitation of an offer to buy any securities pursuant to the proposed transaction or otherwise, nor shall there be any sale of securities in any jurisdiction in which the offer, solicitation or sale would be unlawful prior to the registration or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act.
+
+ 
+
+Important Information For Investors and Stockholders
+
+ 
+
+In connection with the proposed business combination, HighPeak Energy will file with the SEC a registration statement on Form S-4, which will include a prospectus of HighPeak Energy and a proxy statement of the Company. The Company and HighPeak Energy also plan to file other documents with the SEC regarding the proposed transaction. After the registration statement has been declared effective by the SEC, a definitive proxy statement/prospectus will be mailed to the shareholders of the Company. INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ THE PROXY STATEMENT/PROSPECTUS (INCLUDING ALL AMENDMENTS AND SUPPLEMENTS THERETO) AND OTHER DOCUMENTS RELATING TO THE PROPOSED BUSINESS COMBINATION THAT WILL BE FILED WITH THE SEC CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED BUSINESS COMBINATION. Investors and shareholders will be able to obtain free copies of the proxy statement/prospectus and other documents containing important information about the Company and HighPeak Energy once such documents are filed with the SEC, through the website maintained by the SEC at www.sec.gov. In addition, stockholders will be able to obtain free copies of the proxy statement/prospectus by directing a request to: Pure Acquisition Corp., 421 W. 3rd St., Suite 1000, Fort Worth, Texas 76102, email: IR@highpeakenergy.com, Attn: Investor Relations.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+The Company and HighPeak Energy and their respective directors and executive officers may be deemed to be participants in the solicitation of proxies from the Company’s shareholders in connection with the proposed transactions. Information about the directors and executive officers of the Company is set forth in the Company’s Annual Report on Form 10-K which was filed with the SEC on March 13, 2020. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the proxy statement/prospectus and other relevant materials to be filed with the SEC when they become available.
+
+ 
+
+Additional Information About the Business Combination and Where to Find It
+
+ 
+
+In connection with the proposed business combination, HighPeak Energy will file an amended registration statement on Form S-4, which will include a prospectus of HighPeak Energy and a proxy statement of the Company, with the SEC. Additionally, the Company and HighPeak Energy will file other relevant materials with the SEC in connection with the proposed merger of MergerSub into the Company and the proposed contribution of the partnership interests in HPK to HighPeak Energy. The materials to be filed by the Company and HighPeak Energy with the SEC may be obtained free of charge at the SEC’s web site at www.sec.gov. Investors and security holders of the Company are urged to read the proxy statement/prospectus and the other relevant materials when they become available before making any voting or investment decision with respect to the proposed business combination because they will contain important information about the business combination and the parties to the business combination.
+
+ 
+
+The Company and HighPeak Energy and their respective directors and executive officers may be deemed to be participants in the solicitation of proxies of the Company’s shareholders in connection with the proposed business combination. Investors and security holders may obtain more detailed information regarding the names, affiliations and interests of certain of the Company’s executive officers and directors in the solicitation by reading the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019, and the proxy statement/prospectus and other relevant materials filed with the SEC in connection with the business combination when they become available. Information concerning the interests of the Company’s and HighPeak Energy’s participants in the solicitation, which may, in some cases, be different than those of their stockholders generally, will be set forth in the proxy statement/prospectus relating to the business combination when it becomes available.
+
+ 
+
+
+
+
+7
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+		
+			
+			 
+			
+			
+			Pure Acquisition Corp. 
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			Date: May 4, 2020 
+			
+			
+			By:
+			
+			
+			/s/ Steven W. Tholen
+			
+		
+		
+			
+			 
+			
+			
+			Name:  
+			
+			
+			Steven W. Tholen 
+			
+		
+		
+			
+			 
+			
+			
+			Title: 
+			
+			
+			Chief Financial Officer 
+			
+		
+
+
+
+ 
+
+ 
+
+
+
+
+8
+
+
+
+
+
+
+

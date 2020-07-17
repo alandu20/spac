@@ -1,0 +1,676 @@
+
+8-K
+1
+tv526679_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the
+Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): August 2, 2019
+
+ 
+
+DD3 Acquisition
+Corp.
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+
+    British Virgin Islands
+(State or other jurisdiction
+of incorporation)
+    001-38700
+(Commission File Number)
+    N/A
+(I.R.S. Employer
+Identification No.)
+
+
+
+
+
+    
+        c/o DD3 Mex Acquisition Corp
+        Pedregal 24, 4th Floor
+        Colonia Molino del Rey, Del. Miguel Hidalgo
+        Mexico City, Mexico 
+        (Address of principal executive offices)
+         
+    
+         
+         
+         
+        11040
+        (Zip Code)
+
+
+
+
+
+     
+    
+        +52 (55) 8647-0417
+        (Registrant’s telephone number, including area code)
+         
+        Not Applicable
+        (Former name or former address, if changed since last report)
+     
+
+ 
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+ 
+
+
+xWritten communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one Ordinary Share and one Warrant
+     
+    DDMXU
+     
+    The Nasdaq Stock Market LLC
+
+    Ordinary Shares, no par value per share
+     
+    DDMX
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants, each warrant exercisable for one Ordinary Share at an exercise price of $11.50
+     
+    DDMXW
+     
+    The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01. Entry into a Material Definitive
+Agreement
+
+ 
+
+General
+
+ 
+
+On August 2, 2019,
+DD3 Acquisition Corp., a British Virgin Islands company (“DD3”), Campalier, S.A. de C.V., a Mexican sociedad anónima
+de capital variable (“Campalier”), Promotora Forteza, S.A. de C.V., a Mexican sociedad anónima de capital
+variable (“Forteza”), Strevo, S.A. de C.V., a Mexican sociedad anónima de capital variable (“Strevo”,
+and together with Campalier and Forteza, “Sellers”), Betterware de México, S.A. de C.V., a Mexican sociedad
+anónima de capital variable (“Betterware”), BLSM Latino América Servicios, S.A. de C.V., a Mexican
+sociedad anónima de capital variable (“BLSM” and together with Betterware, the “Companies”),
+and, solely for the purposes set forth in Article XI of the Agreement (as defined below), DD3 Mex Acquisition Corp, S.A. de C.V.,
+a Mexican sociedad anónima de capital variable, entered into a Combination and Stock Purchase Agreement (the “Agreement”),
+pursuant to which DD3 agreed to merge (the “Merger”) with and into Betterware in a transaction (the “Transaction”)
+that will result in Betterware surviving the merger (the “Surviving Company”) and BLSM becoming a wholly-owned subsidiary
+of the Surviving Company. Capitalized terms used in this Current Report on Form 8-K but not otherwise defined herein have the
+meanings given to them in the Agreement.
+
+ 
+
+The Agreement
+
+ 
+
+The Domestication
+
+ 
+
+The Agreement provides
+that, prior to the closing of the transactions contemplated by the Agreement (the “Closing”), DD3 will redomicile
+out of the British Virgin Islands and continue as a Mexican corporation pursuant to Section 184 of the BVI Business Companies
+Act, 2004, and Article 2 of the Mexican General Corporations Law (Ley General de Sociedades Mercantiles) (the “Domestication”).
+The ability to domesticate DD3 out of the British Virgin Islands to another jurisdiction is expressly provided for in DD3’s
+amended and restated memorandum and articles of association, subject to obtaining requisite shareholder approval.
+
+ 
+
+The Merger
+
+ 
+
+The Agreement provides
+that DD3 will purchase certain shares from the Sellers (the “Purchased Shares”) and thereafter merge with and into
+Betterware, with Betterware surviving the Merger as the Surviving Company and BLSM becoming a wholly-owned subsidiary of the Surviving
+Company, pursuant to the Merger Agreement (as defined and described below) to be executed at the Closing.
+
+ 
+
+Merger Consideration
+
+ 
+
+The Agreement provides
+that, at the effective time of the Merger pursuant to the Merger Agreement (the “Effective Time”):
+
+ 
+
+
+(i)DD3 will pay to the Sellers the amount, if any, by which the amount in the Trust Account (as defined
+below) as of the Closing exceeds $25,000,000 up to a maximum of $30,000,000;
+
+ 
+
+
+(ii)all of the Betterware shares issued and outstanding immediately prior to the Effective Time will
+be canceled and to the extent the Sellers receive $30,000,000 in cash consideration from the Trust Account, the Sellers will be
+entitled to receive 28,700,000 Surviving Company shares or if the Sellers receive less than $30,000,000 in cash consideration,
+the Sellers will be entitled to receive the number of Surviving Company shares equal to the Companies Valuation less the cash consideration
+amount received by the Sellers, divided by $10.00; provided, however, that a portion of such Surviving Company shares will be held
+in trust to secure debt obligations of the Surviving Company; and
+
+ 
+
+
+(iii)all of DD3’s ordinary shares issued and outstanding immediately prior to the Effective Time
+will be canceled and exchanged for Surviving Company shares on a one-for-one basis.
+
+ 
+
+Representations and Warranties
+
+ 
+
+The Agreement contains
+customary representations and warranties that each of DD3, the Companies and the Sellers have made to each other relating to their
+respective businesses and, in the case of DD3, its public filings.
+
+ 
+
+Pre-Closing Covenants
+
+ 
+
+The Agreement provides
+for customary pre-closing covenants, including the obligation of each of the Companies to conduct its business in the ordinary
+course in a manner consistent with past custom and practice, and each of the Sellers, the Companies and DD3 has agreed not to take
+certain actions, except as expressly contemplated by other provisions of the Agreement, as required by law or unless the other
+parties consent in writing.
+
+ 
+
+
+
+
+     2 
+     
+    
+
+ 
+
+Shareholders’ Meeting
+
+ 
+
+Pursuant to the terms
+of the Agreement, DD3 shall, as promptly as practicable, call and hold a meeting of its shareholders for the purpose of seeking
+its shareholders’ approval of the Transaction, the Agreement, the Domestication and certain other shareholder proposals related
+thereto (the “Shareholders’ Meeting”).
+
+ 
+
+Registration Statement
+
+ 
+
+The Agreement provides
+that, as promptly as practicable, (i) DD3 will prepare and file with the U.S. Securities and Exchange Commission (the “SEC”)
+a proxy statement (“Proxy Statement”) to be sent to DD3’s shareholders relating to the Shareholders’ Meeting
+and (ii) a registration statement on Form F-4 (the “Registration Statement”) will be filed with the SEC, in which the
+Proxy Statement will be included as a prospectus, in connection with the registration under the Securities Act of 1933, as amended
+(the “Securities Act”), of the Surviving Company securities to be issued in the Transaction. DD3 and the Companies
+have agreed to use their reasonable best efforts to have the Registration Statement declared effective under the Securities Act
+as promptly as practicable after it is filed with the SEC.
+
+ 
+
+Conditions to the Closing of the Transaction
+
+ 
+
+Consummation of the
+Transaction is subject to customary and other conditions, including, but not limited to, (i) the shareholders of DD3 having approved
+the transactions contemplated by the Agreement, (ii) the absence of any pending or threatened litigation or governmental order
+that would prohibit the Transaction, (iii) the receipt of antitrust approval from the Federal Economic Competition Commission of
+Mexico (Comisión Federal de Competencia Económica), (iv) after giving effect to the exercise of redemption
+rights by holders of the outstanding DD3 ordinary shares, a minimum amount of cash held by DD3 in the aggregate, whether in or
+outside the Trust Account, of at least $25,000,000; (v) the Registration Statement having been declared effective by the SEC; (vi)
+the completion of the Domestication; (vii) the completion of the Betterware corporate reorganization and release of the Purchased
+Shares and the Surviving Company shares to be issued to DD3’s shareholders upon consummation of the Transaction from any
+Existing Encumbrances; and (viii) the representations and warranties of the other parties to the Agreement being true and correct,
+subject to the de minimis, materiality and material adverse effect standards contained in the Agreement.
+
+ 
+
+Termination of the Agreement
+
+ 
+
+The Agreement may be
+terminated at any time prior to the Closing by mutual written consent of DD3 and the Sellers, or if the Closing has not occurred
+on or before January 31, 2020, by either DD3 or the Sellers. The Agreement also provides certain other customary termination rights
+to DD3 and the Sellers. In addition, DD3 may terminate the Agreement if either of the Companies suffers a material adverse effect
+or DD3 discovers any fact or circumstance existing as of the date of the Agreement that has not been previously disclosed to DD3
+that is a material adverse effect.
+
+ 
+
+Upon termination of
+the Agreement, all continuing obligations of the parties under the Agreement will terminate except for certain provisions that
+will survive indefinitely unless sooner terminated or modified by the parties in writing. The exercise of a right of termination
+under the Agreement will not preclude an action for breach of the Agreement.
+
+ 
+
+A copy of the Agreement
+is filed with this Current Report on Form 8-K as Exhibit 2.1 and is incorporated herein by reference. The foregoing description
+of the Agreement is qualified in its entirety by reference to the full text of the Agreement filed with this Current Report on
+Form 8-K. The Agreement is included to provide investors and security holders with information regarding its terms. It is not intended
+to provide any other factual information about DD3 or the other parties thereto. In particular, the assertions embodied in representations
+and warranties by the Companies and the Sellers contained in the Agreement are qualified by information in the disclosure schedules
+provided by the Companies and the Sellers in connection with the signing of the Agreement. These disclosure schedules contain information
+that modifies, qualifies and creates exceptions to the representations and warranties set forth in the Agreement. Moreover, certain
+representations and warranties in the Agreement were used for the purpose of allocating risk among DD3, the Companies and the Sellers,
+rather than establishing matters as facts. Accordingly, investors and security holders should not rely on the representations and
+warranties in the Agreement as characterizations of the actual state of facts about DD3, the Companies or the Sellers.
+
+ 
+
+
+
+
+     3 
+     
+    
+
+ 
+
+The Merger Agreement
+
+ 
+
+In connection with,
+and as a condition to the consummation of, the Transaction, Betterware and DD3 will enter into a Merger Agreement (the “Merger
+Agreement”) on the date of the Closing. Pursuant to the terms of the Merger Agreement, DD3 will merge with and into Betterware,
+Betterware will continue as the Surviving Company, the separate corporate existence of DD3 will cease and BLSM will become a wholly-owned
+subsidiary of the Surviving Company. At the Effective Time, (i) all of DD3’s ordinary shares issued and outstanding immediately
+prior to the Effective Time will be canceled and exchanged for shares of the Surviving Company on a one-for-one basis and (ii)
+all of the Betterware shares issued and outstanding immediately prior to the Effective Time will be canceled and to the extent
+the Sellers receive $30,000,000 in cash consideration from the Trust Account, the Sellers will be entitled to receive 28,700,000
+Surviving Company shares or if the Sellers receive less than $30,000,000 in cash consideration, the Sellers will be entitled to
+receive the number of Surviving Company shares equal to the Companies Valuation less the cash consideration amount received by
+the Sellers, divided by $10.00.
+
+ 
+
+The preceding summary
+of certain terms and conditions of the Merger Agreement is qualified in its entirety by reference to the form of Merger Agreement,
+a copy of which is included as Exhibit 2.2 to this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+The Registration Rights Agreement
+
+ 
+
+In connection with,
+and as a condition to the consummation of, the Transaction, DD3, Betterware and certain persons and entities that will receive
+securities of the Surviving Company in exchange for certain existing securities of DD3 and the Companies upon consummation of the
+Merger (collectively, the “Holders”) will enter into a Registration Rights Agreement (the “Registration Rights
+Agreement”) on the date of the Closing. Pursuant to the terms of the Registration Rights Agreement, the Surviving Company
+will be obligated to file a shelf registration statement to register the resale of certain securities of the Surviving Company
+held by the Holders. The Registration Rights Agreement will also provide the Holders with demand, “piggy-back” and
+Form F-3 registration rights, subject to certain minimum requirements and customary conditions.
+
+ 
+
+The preceding summary
+of certain terms and conditions of the Registration Rights Agreement is qualified in its entirety by reference to the form of Registration
+Rights Agreement, a copy of which is included as Exhibit B to the Agreement which is included as Exhibit 2.1 to this Current Report
+on Form 8-K and incorporated herein by reference.
+
+ 
+
+The Lock-Up Agreements
+
+ 
+
+In connection with,
+and as a condition to the consummation of, the Transaction, (i) certain persons and entities who will hold shares of the Surviving
+Company upon consummation of the Merger (the “Members”) will enter into a Member Lock-Up Agreement (the “Member
+Lock-Up Agreement”), and (ii) certain members of the Surviving Company’s management team (“Management”)
+will enter into a Management Lock-Up Agreement (the “Management Lock-Up Agreement” and, together with the Member Lock-Up
+Agreement, the “Lock-Up Agreements”), in each case, on the date of the Closing, pursuant to which the Members and Management
+will agree not to transfer any shares of the Surviving Company held by them for a period of six or twelve months, as applicable,
+after the Closing, subject to certain limited exceptions.
+
+ 
+
+The preceding summary
+of certain terms and conditions of the Lock-Up Agreements is qualified in its entirety by reference to the forms of Management
+Lock-Up Agreement and Member Lock-Up Agreement, copies of which are included as Exhibit I and Exhibit J, respectively, to the Agreement
+which is included as Exhibit 2.1 to this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+Additional Information
+
+ 
+
+In connection with
+the proposed Transaction, the Registration Statement will be filed with the SEC that will include the Proxy Statement and will
+constitute a prospectus in respect of the Surviving Company securities to be issued in the Transaction. DD3 will mail a definitive
+Proxy Statement and other relevant documents to the shareholders of DD3. Shareholders of DD3 and other interested persons are advised
+to read, when available, the preliminary Proxy Statement, and amendments thereto, and definitive Proxy Statement in connection
+with DD3’s solicitation of proxies for the special meeting to be held to approve the Transaction because these Proxy Statements
+will contain important information about DD3, Betterware and the Transaction. The definitive Proxy Statement will be mailed to
+shareholders of DD3 as of a record date to be established for voting on the Transaction. Shareholders will also be able to obtain
+copies of the Proxy Statement, without charge, once available, at the SEC’s Internet site at http://www.sec.gov or by directing
+a request to: DD3 Acquisition Corp., c/o DD3 Mex Acquisition Corp, Pedregal 24, 4th Floor, Colonia Molino del Rey, Del. Miguel
+Hidalgo, 11040 Mexico City, Mexico, or by calling +52 (55) 8647-0417.
+
+ 
+
+
+
+
+     4 
+     
+    
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+DD3, Betterware and
+their respective directors and executive officers may be considered participants in the solicitation of proxies with respect to
+the proposed Transaction under the rules of the SEC. Information about the directors and executive officers of DD3 is set forth
+in the final prospectus for DD3’s initial public offering, which was filed with the SEC on October 12, 2018.
+
+ 
+
+Information regarding
+the persons who may, under the rules of the SEC, be deemed participants in the solicitation of the shareholders in connection with
+the proposed Transaction will be set forth in the Proxy Statement when it is filed with the SEC. These documents can be obtained
+free of charge from the sources indicated above.
+
+ 
+
+Non-Solicitation
+
+ 
+
+This communication
+is not a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities or in respect of the
+proposed Transaction and shall not constitute an offer to sell or a solicitation of an offer to buy the securities of DD3 or Betterware,
+nor shall there be any sale of any such securities in any state or jurisdiction in which such offer, solicitation, or sale would
+be unlawful prior to registration or qualification under the securities laws of such state or jurisdiction. No offer of securities
+shall be made except by means of a definitive document.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This communication
+includes certain statements that are not historical facts but are forward-looking statements for purposes of the safe harbor provisions
+under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements generally are accompanied
+by words such as “believe,” “may,” “will,” “estimate,” “continue,”
+“anticipate,” “intend,” “expect,” “should,” “would,” “plan,”
+“predict,” “potential,” “seem,” “seek,” “future,” “outlook,”
+and similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These
+forward-looking statements include, but are not limited to, statements regarding projections, estimates and forecasts of revenue
+and other financial and performance metrics and projections of market opportunity and expectations, and the closing of the proposed
+Transaction. These statements are based on various assumptions and on the current expectations of DD3 and Betterware management
+and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and
+are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive
+statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions.
+Many actual events and circumstances are beyond the control of DD3 and Betterware. These forward-looking statements are subject
+to a number of risks and uncertainties, including changes in Betterware’s clients’ preferences, prospects and the competitive
+conditions prevailing in the industries in which Betterware operates; the inability of the parties to successfully or timely
+consummate the proposed Transaction, including the risk that any required regulatory approvals are not obtained, are delayed or
+are subject to unanticipated conditions that could adversely affect the combined company or the expected benefits of the proposed
+Transaction or that the approval of the shareholders of DD3 for the proposed Transaction is not obtained; failure to realize
+the anticipated benefits of the proposed Transaction, including as a result of a delay in consummating the proposed Transaction
+or a delay or difficulty in integrating the businesses of DD3 and Betterware; the amount of redemption requests made by DD3’s
+shareholders; the ability to meet Nasdaq’s listing standards following the consummation of the proposed Transaction;
+those factors discussed in DD3’s final prospectus for its initial public offering filed with the SEC on October 12, 2018
+under the heading “Risk Factors,” and other documents of DD3 filed, or to be filed, with the SEC. If the risks materialize
+or assumptions prove incorrect, actual results could differ materially from the results implied by these forward-looking statements.
+There may be additional risks that neither DD3 nor Betterware presently know or that DD3 and Betterware currently believe are immaterial
+that could also cause actual results to differ from those contained in the forward-looking statements. In addition, forward-looking
+statements reflect DD3’s and Betterware’s expectations, plans or forecasts of future events and views as of the date
+of this Current Report on Form 8-K. DD3 and Betterware anticipate that subsequent events and developments will cause DD3’s
+and Betterware’s assessments to change. However, while DD3 and Betterware may elect to update these forward-looking statements
+at some point in the future, DD3 and Betterware specifically disclaim any obligation to do so. These forward-looking statements
+should not be relied upon as representing DD3’s and Betterware’s assessments as of any date subsequent to the date
+of this Current Report on Form 8-K. Accordingly, undue reliance should not be placed upon the forward-looking statements.
+
+ 
+
+
+
+
+     5 
+     
+    
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)       Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Exhibit
+
+    2.1
+     
+    Combination and Stock Purchase Agreement, dated as of August 2, 2019, by and among DD3 Acquisition Corp., Campalier, S.A. de C.V., Promotora Forteza, S.A. de C.V., Strevo, S.A. de C.V., Betterware de México, S.A. de C.V., BLSM Latino América Servicios, S.A. de C.V., and, solely for the purposes of Article XI, DD3 Mex Acquisition Corp, S.A. de C.V. 
+
+    2.2
+     
+    Form of Merger Agreement.
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+     6 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    
+        DD3 Acquisition Corp.
+        
+         
+
+     
+    By:
+    /s/ Martin Werner
+
+     
+    
+        
+    Name: 
+    Martin Werner
+
+     
+     
+    Title: 
+    Chief Executive Officer
+
+ 
+
+ 
+
+Date:	August 8, 2019
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+     7 
+    
+
+
+
+
+
+

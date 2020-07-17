@@ -1,0 +1,464 @@
+
+8-K
+1
+paac8k060320.htm
+
+
+
+     
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or Section 15(d) of
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+June 4, 2020 (June 3, 2020)
+
+ 
+
+PROFICIENT ALPHA ACQUISITION CORP.
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+
+
+    Nevada
+     
+    001-38925
+     
+    83-1505892
+
+    (State or other jurisdiction of
+incorporation)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer
+Identification No.)
+
+ 
+
+
+
+    
+        40 Wall St., 29th Floor
+        New York, New York
+     
+    10005
+
+    (Address of principal executive offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code:  (917) 289-0932
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+     
+    ☒
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+     
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Common Stock, par value $0.001 per share
+     
+    PAAC
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants to purchase one share of Common Stock
+     
+    PAACW
+     
+    The Nasdaq Stock Market LLC
+
+    Rights to receive one-tenth (1/10) of one share of Common Stock
+     
+    PAACR
+     
+    The Nasdaq Stock Market LLC
+
+    Units, each consisting of one share of Common Stock, one Warrant and one Right
+     
+    PAACU
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company [X]
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  [ ] 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+    Item 5.07
+    Submission of Matters to a Vote of Security Holders.
+
+ 
+
+As previously
+reported, on March 10, 2020, Proficient Alpha Acquisition Corp. (the “Company”) entered into a Business
+Combination Agreement, dated as of March 10, 2020 (as amended, including as amended and restated by the First Amended and
+Restated Business Combination Agreement, dated as of May 12, 2020, the “Business Combination Agreement”) with Lion
+Financial Group Limited, a corporation organized under the laws of the British Virgin Islands (“Lion”), Lion
+Group Holding Ltd., a Cayman Islands exempted company and wholly-owned subsidiary of Lion (“Pubco”), Lion
+MergerCo I, Inc., a Delaware corporation and a wholly-owned subsidiary of Pubco, the shareholders of Lion and the other
+parties thereto.
+
+ 
+
+Merger Meeting
+
+ 
+
+On June 3, 2020, the Company
+held a special meeting of stockholders (the “Merger Meeting”) with respect to the business combination with Lion contemplated
+by the Business Combination Agreement (the “Business Combination”). There were 14,467,000 shares of common stock of
+the Company issued and outstanding on April 27, 2020, the record date for the Merger Meeting. At the Merger Meeting, there were
+10,977,994 shares present in person or by proxy, representing approximately 75.88% of the total shares outstanding as of the record
+date, which constituted a quorum. 
+
+ 
+
+The Company’s stockholders
+voted on the following proposals at the Merger Meeting, each of which was approved. The final vote tabulation for each proposal
+is set forth below.
+
+ 
+
+
+
+    1.
+    To approve the Business Combination Agreement and the transactions contemplated by the Business Combination Agreement.
+
+ 
+
+
+
+    For
+     
+    Against
+     
+    Abstentions
+     
+    Broker Non-Votes
+
+    10,745,994
+     
+    232,000
+     
+    0
+     
+    0
+
+  
+
+
+
+    2.
+    To approve, for purposes of complying with applicable Nasdaq Stock Market LLC listing rules, the issuance of more than 20% of the Company’s issued and outstanding shares of common stock in financing transactions in connection with the proposed Business Combination.
+
+ 
+
+
+
+    For
+     
+    Against
+     
+    Abstentions
+     
+    Broker Non-Votes
+
+    10,760,694
+     
+    230,000
+     
+    0
+     
+    0
+
+ 
+
+Extension Meeting
+
+ 
+
+On June 3, 2020, the Company
+held a separate special meeting of stockholders (the “Extension Meeting”) to amend the Company’s amended and
+restated articles of incorporation (the “Charter Amendment”) to extend the date by which the Company has to consummate
+a Business Combination from June 3, 2020 to September 3, 2020 (the “Extension Amendment Proposal”). There were 14,467,000
+shares of common stock of the Company issued and outstanding on April 27, 2020, the record date for the Extension Meeting. At the
+Extension Meeting, there were 9,998,749 shares present in person or by proxy, representing approximately 69.11% of the total shares
+outstanding as of the record date, which constituted a quorum. 
+
+ 
+
+The final voting results for the Extension Amendment
+Proposal were as follows:
+
+ 
+
+
+
+    For
+     
+    Against
+     
+    Abstain
+     
+    Broker Non-Votes
+
+    8,745,745
+     
+    1,253,004
+     
+    0
+     
+    0
+
+ 
+
+Stockholders holding 11,049,426
+shares of the Company’s common stock exercised their right to redeem such shares for a pro rata portion of the funds in the
+Company’s trust account (“Trust Account”). As a result, approximately $112.54 million (approximately $10.185
+per share) will be removed from the Trust Account to pay such holders. 
+
+ 
+
+The Company filed the Charter
+Amendment with the Nevada Secretary of State on June 3, 2020. Copies of the Company’s amended and restated articles of incorporation
+and the Charter Amendment are attached hereto as Exhibits 3.1 and 3.2, respectively, and are incorporated by reference.
+
+
+
+ 
+
+ 
+
+
+
+
+
+    Item 8.01
+    Other Events
+
+
+
+
+  
+
+On June 4, 2020, the Company
+issued a press release announcing that the stockholders of the Company had approved the Business Combination Agreement and the
+transactions contemplated thereby and the extension of the deadline to consummate a business combination. A copy of the press release
+is filed as Exhibit 99.1 hereto and is incorporated by reference.
+
+ 
+
+
+
+In connection with
+the Charter Amendment, Lion exercised its right under the Business Combination Agreement to extend the outside date of
+the Business Combination Agreement to July 3, 2020.
+
+
+
+
+ 
+
+
+
+
+
+    Item 9.01
+    Financial Statements and Exhibits.
+
+
+
+
+
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    
+        Exhibit
+        Number
+     
+    Description
+
+     
+     
+
+    3.1
+     
+    Amended and Restated Articles of Incorporation of Proficient as filed with the Nevada Secretary of State on May 29, 2019 (incorporated by reference to Exhibit 3.1 of Proficient’s Form 8-K (File No. 001-38925), filed with the SEC on June 4, 2019).
+
+    3.2
+     
+    Certificate of Amendment to Amended and Restated Articles of Incorporation of Proficient as filed with the Nevada Secretary of State on June 3, 2020
+
+    99.1
+     
+    Press Release, dated June 4, 2020
+
+ 
+
+ 
+
+
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: June 4, 2020
+
+ 
+
+ 
+
+ 
+
+
+
+     
+    PROFICIENT ALPHA ACQUISITION CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/ Kin Sze
+
+     
+     
+    Name: Kin Sze
+
+     
+     
+    Title: Chief Executive Officer
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+

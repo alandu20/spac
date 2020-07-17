@@ -1,0 +1,2060 @@
+
+8-K12B
+1
+tm2023499d1_8k.htm
+FORM 8-K12B
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+Date of Report (Date of earliest event reported):
+June 24, 2020
+
+ 
+
+WHOLE
+EARTH BRANDS, INC.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware 
+    001-38880 
+    38-4101973
+
+    (State or other jurisdiction of incorporation) 
+    (Commission File Number) 
+    (IRS Employer  Identification No.)
+
+
+ 
+
+125 S. Wacker Drive
+
+Suite 3150
+Chicago, IL 60606
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including area code: (312) 840-6000
+
+ 
+
+Act II Global Acquisition Corp.
+745 5th Avenue
+New York, NY 10151
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class 
+    Trading Symbol(s) 
+    Name of each exchange on which registered
+
+    Common stock, par value $0.0001 per share 
+    FREE 
+    The NASDAQ Stock Market LLC
+
+    Warrants to purchase one-half of one share of common stock 
+    FREEW 
+    The NASDAQ Stock Market LLC
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+     
+     
+    
+
+
+
+
+
+
+ 
+
+Introductory
+Note
+
+ 
+
+As previously disclosed,
+Act II Global Acquisition Corp., a Cayman Islands exempted company (“Act II”), entered into a Purchase Agreement,
+which was subsequently amended on each of February 12, 2020, May 8, 2020, and June 15, 2020 (as amended, the “Purchase
+Agreement”), with Flavors Holdings Inc., a Delaware corporation (“Flavors Holdings”), MW Holdings
+I LLC, a Delaware limited liability company (“MW Holdings I”), MW Holdings III LLC, a Delaware limited liability
+company (“MW Holdings III”), and Mafco Foreign Holdings, Inc., a Delaware corporation (“Mafco Foreign
+Holdings,” and together with Flavors Holdings, MW Holdings I, and MW Holdings II, the “Sellers”),
+and for the purposes of Amendments No. 2 and 3 to the Purchase Agreement, Project Taste Intermediate LLC, a Delaware limited liability
+company. The Purchase Agreement provided for, among other things, Act II’s (or its designee’s) purchase of all of the
+outstanding equity interests of Merisant Company, Merisant Luxembourg, Mafco Worldwide LLC, Mafco Shanghai LLC, EVD Holdings LLC,
+and Mafco Deutschland GmbH, in accordance with the terms and subject to the conditions of the Purchase Agreement (the transactions
+contemplated by the Purchase Agreement being collectively referred to herein as the “Business Combination”).
+
+ 
+
+On June 24, 2020, following
+the approval of the Business Combination at the extraordinary general meeting of the shareholders of Act II (the “Shareholders
+Meeting”), and approval of the Warrant Amendment (as described below) at the special meeting of the public warrant holders
+of Act II, each held on June 24, 2020, Act II domesticated into a Delaware corporation (the “Domestication”),
+and on June 25, 2020, consummated the remainder of the transactions contemplated by the Business Combination. In connection with
+the Domestication, the registrant changed its name from “Act II Global Acquisition Corp.” to “Whole Earth Brands,
+Inc.” (the “Company” or “Whole Earth Brands”). Unless otherwise defined herein, capitalized
+terms used in this Current Report on Form 8-K have the same meaning as set forth in the final prospectus and definitive proxy
+statement (the “Proxy Statement/Prospectus”) filed with the Securities and Exchange Commission (the “SEC”)
+on May 13, 2020, by Act II, and/or the supplement thereto (the “Supplement”) filed with the SEC on June 18,
+2020, by Act II.
+
+ 
+
+
+Item 1.01.Entry into Material Definitive Agreement.
+
+ 
+
+Credit Agreement 
+
+ 
+
+In connection with
+the Business Combination, on June 25, 2020, the Company entered into a senior secured loan agreement (the “Credit Agreement”)
+with Toronto Dominion (Texas) LLC, as administrative agent, and certain lenders, consisting of the following credit facilities
+(the “Credit Facilities”): (x) a term loan facility of $140 million (the “Term Loan Facility”)
+and (y) a revolving loan facility of up to $50 million (the “Revolving Facility”). The Revolving Facility
+included (x) a borrowing capacity available for letters of credit up to $5 million and (z) a $10 million sublimit for swingline
+loans. Any issuance of letters of credit or swingline loan advances reduces the amount available under the Revolving Facility.
+Each of the Credit Facilities matures on June 25, 2025.
+
+ 
+
+Loans outstanding
+under the Credit Facilities will accrue interest at a rate per annum equal to LIBOR, with a LIBOR floor of 1.00%, plus a margin
+between 3.00% and 3.75%, or, at Company’s option, a base rate based on the highest of the prime rate, the federal funds rate
+plus 0.50%, LIBOR for a one-month interest period plus 1.00%, and 2.00%, in each case plus an applicable margin between 2.00% and
+2.75%, with the margin in each case depending upon a total net leverage ratio, and undrawn amounts under the Revolving Facility
+will accrue a commitment fee at a rate per annum between ranging between 0.30% and 0.40% on the average daily undrawn portion of
+the commitments thereunder, with the applicable depending upon a total net leverage ratio.
+
+ 
+
+The obligations under
+the Credit Facilities are guaranteed by certain direct or indirect wholly-owned domestic subsidiaries of the Company, other than
+certain excluded subsidiaries, including, but not limited to, immaterial subsidiaries and foreign subsidiaries. The Credit Facilities
+are secured by substantially all of the personal property of the Company and the guarantor subsidiaries (in each case, subject
+to certain exclusions and qualifications).
+
+ 
+
+The Credit Facilities
+require the Company to make certain mandatory prepayments, with (i) 100% of net cash proceeds of all non-ordinary course asset
+sales or other dispositions of property in excess of $5,000,000 in any fiscal year, subject to the ability to reinvest such proceeds
+and certain other exceptions, (ii) 100% of the net cash proceeds of any debt incurrence, other than debt permitted under the definitive
+agreements (but excluding debt incurred to refinance the Credit Facilities) and (iii) 50% of “Excess Cash Flow,” as
+defined in the Credit Agreement which is included as an exhibit to this Current Report on Form 8-K, with a reduction to 25%
+if the total net leverage ratio for the fiscal year is less than or equal to 2.50 to 1.00 but greater than 2.00:1.00, and a reduction
+to 0% if the total net leverage ratio for the fiscal year is less than or equal to 2.00 to 1.00. The Company also is required to
+make quarterly amortization payments equal to (i) 1.25% per annum of the original principal amount of the Term Loan Facility during
+the first, second and third years after the closing date of the Credit Facilities, commencing after the first full fiscal quarter
+after the closing date of the Credit Facilities, and (ii) 2.50% per annum of the original principal amount of the Term Loan Facility
+during the fourth and fifth years after the closing date of the Credit Facilities (subject to reductions by optional and mandatory
+prepayments of the loans). The Company may prepay the Credit Facilities at any time without premium or penalty, subject to
+payment of customary breakage costs.
+
+ 
+
+The Credit Facilities
+contain financial covenants and a number of traditional negative covenants including negative covenants related to the following
+subjects: consolidations, mergers, and sales of assets; limitations on the incurrence of certain liens; limitations on certain
+indebtedness; limitations on the ability to pay dividends; and certain affiliate transaction.
+
+ 
+
+
+
+
+     1 
+     
+    
+
+ 
+
+The Credit Facilities
+also contain certain customary representations and warranties, affirmative covenants and events of default. If an event of default
+occurs, the lenders under the Credit Facilities are entitled to take various actions, including the acceleration of amounts due
+under the Credit Facilities and all actions permitted to be taken by a secured creditor.
+
+ 
+
+The foregoing summary
+of the Credit Agreement does not purport to be complete and is qualified in its entirety by the text of the Credit Agreement, which
+is attached hereto as Exhibit 10.1 and is incorporated herein by reference.
+
+ 
+
+Amended and Restated Warrant Agreement
+
+ 
+
+In connection
+with the Business Combination, warrant holders who held public warrants of Act II approved an amendment (the
+ “Warrant Amendment”) to the terms of Act II’s Warrant Agreement. Upon the completion of the Business
+Combination, (i) each of Act II’s outstanding warrants, which entitled the holder thereof to purchase one Class A
+ordinary share of Act II at an exercise price of $11.50 per share, became exercisable for one-half of one share at an
+exercise price of $5.75 per one-half share ($11.50 per whole share) of Whole Earth Brands, Inc. common stock and (ii) each
+holder of a public warrant received, for each such warrant (in exchange for the reduction in the number of shares for which
+such warrants are exercisable), a cash payment of $0.75. Pursuant to the Warrant Amendment, a public warrant holder may not exercise its warrants for fractional shares of
+the Company’s common stock, and, therefore, only two warrants (or a number of warrants evenly divisible by two) may be
+exercised at any given time by the public warrant holder.
+
+ 
+
+The material terms
+of the Warrant Amendment are discussed in the Proxy Statement/Prospectus under the section titled “Warrant Holder Proposal
+1: The Warrant Amendment Proposal,” which is incorporated herein by reference.
+
+ 
+
+This summary is
+qualified in its entirety by reference to the text of the Amended and Restated Warrant Agreement, which is attached hereto
+as Exhibit 4.2 and is incorporated herein by reference.
+
+ 
+
+Escrow Agreement
+
+ 
+
+On June 25, 2020, pursuant
+to the terms and conditions of the Purchase Agreement, the Company, the Sponsor, and Continental Stock Transfer & Trust
+Company, as escrow agent, entered into an escrow agreement (the “Escrow Agreement”) that provides for, among
+other things, restricting the 3,000,000 shares of Whole Earth Brands, Inc. common stock in an escrow account until such time as
+the escrow shares are to be released by the escrow agent to the Sponsor upon the occurrence of the triggering events set forth
+in the Purchase Agreement. The Sponsor maintains its voting rights and other stockholder rights with respect to the escrow shares
+while such shares are held in the escrow account.
+
+ 
+
+The Escrow Agreement
+will terminate upon the release of all escrowed sponsor shares.
+
+ 
+
+The foregoing description
+of the Escrow Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the Escrow
+Agreement, which is attached hereto as Exhibit 10.21 and is incorporated herein by reference.
+
+ 
+
+Indemnity Agreements 
+
+ 
+
+On June 25, 2020,
+the Company entered into indemnity agreements with each of its directors and executive officers. Each indemnity agreement provides
+for indemnification and advancement by the Company of certain expenses and costs relating to claims, suits or proceedings arising
+from service to the Company or, at the Company’s request, service to other entities, as officers or directors to the maximum
+extent permitted by applicable law.
+
+ 
+
+The foregoing description
+of the indemnity agreements does not purport to be complete and is qualified in its entirety by the terms and conditions of the
+indemnity agreements, a form of which is attached hereto as Exhibit 10.6 and is incorporated herein by reference.
+
+ 
+
+ 
+
+
+Item 2.01.Completion of Acquisition or Disposition of Assets.
+
+ 
+
+The disclosure set
+forth in the “Introductory Note” above is incorporated into this Item 2.01 by reference.
+
+ 
+
+Pursuant to the terms
+of the Purchase Agreement, the total consideration for the Business Combination and related transactions (the “Purchase
+Price”) was approximately $387.5 million. Adjusted for Merisant and MAFCO debt, excess transaction expenses, working
+capital adjustments, employee transaction bonuses and cash (in each case, estimated as of the Closing), net proceeds to Sellers
+were approximately $386.7 million. In connection with the Shareholders Meeting, holders of 3,573,331 Act II Class A ordinary
+shares, par value $0.0001 per share (“Act II Class A Shares”), exercised their right to redeem those shares
+for cash prior to the redemption deadline of June 22, 2020, at a price of approximately $10.18 per share, for an aggregate payment
+from Act II’s trust account of approximately $36.4 million. Upon the Closing, the Company’s units ceased trading,
+and the Company’s common stock and warrants began trading on The Nasdaq Stock Market under the symbols “FREE”
+and “FREEW,” respectively.
+
+ 
+
+
+
+
+     2 
+     
+    
+
+ 
+
+The per share
+redemption price of approximately $10.18 for holders of Act II Class A Shares electing to redeem was paid out of Act
+II’s trust account which, after taking into account the aggregate payment in respect of the redemption, had a balance
+immediately prior to the Closing of approximately $269.0 million. Such balance in the trust account, together with
+approximately $132.0 million in net proceeds from the debt financing pursuant to the Credit Agreement and $75.0 million in
+proceeds from the PIPE Financing (as defined below), were used to pay transaction expenses, the payment to the warrant
+holders in connection with the Warrant Amendment as described below, certain transaction bonuses and other payments to
+Merisant and MAFCO employees, and the Purchase Price of approximately $386.7 million.
+
+ 
+
+FORM 10 INFORMATION
+
+ 
+
+Item 2.01(f) of Form
+8-K states that if the predecessor registrant was a shell company, as Act II was immediately before the Business Combination,
+then the registrant must disclose the information that would be required if the registrant were filing a general form for registration
+of securities on Form 10. Accordingly, the Company, as the successor registrant to Act II, is providing the information below that
+would be included in a Form 10 if the Company were to file a Form 10. Please note that the information provided below relates to
+the Company as the combined company after the consummation of the Business Combination, unless otherwise specifically indicated
+or the context otherwise requires.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report
+on Form 8-K contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform
+Act of 1995. Such statements include, but are not limited to, statements about future financial and operating results, our plans,
+objectives, expectations and intentions with respect to future operations, products and services; and other statements identified
+by words such as “will likely result,” “are expected to,” “will continue,” “is anticipated,”
+ “estimated,” “believe,” “intend,” “plan,” “projection,” “outlook”
+or words of similar meaning. These forward-looking statements include, but are not limited to, statements regarding the Company’s
+industry and market sizes, future opportunities for the Company and the Company’s estimated future results. Such forward-looking
+statements are based upon the current beliefs and expectations of our management and are inherently subject to significant business,
+economic and competitive uncertainties and contingencies, many of which are difficult to predict and generally beyond our control.
+Actual results and the timing of events may differ materially from the results anticipated in these forward-looking statements.
+
+ 
+
+The factors
+previously disclosed in prior reports filed with the SEC, including the Proxy Statement/Prospectus, the Supplement and those
+identified elsewhere in this Current Report on Form 8-K among others, could cause actual results
+and the timing of events to differ materially from the anticipated results or other expectations expressed in the
+forward-looking statements.
+
+ 
+
+Actual results, performance
+or achievements may differ materially, and potentially adversely, from any projections and forward-looking statements and the assumptions
+on which those forward-looking statements are based. There can be no assurance that the data contained herein is reflective of
+future performance to any degree. You are cautioned not to place undue reliance on forward-looking statements as a predictor of
+future performance as projected financial information and other information are based on estimates and assumptions that are inherently
+subject to various significant risks, uncertainties and other factors, many of which are beyond our control. All information set
+forth herein speaks only as of the date hereof in the case of information about the Company or the date of such information in
+the case of information from persons other than the Company, and we disclaim any intention or obligation to update any forward
+looking statements as a result of developments occurring after the date of this Current Report on Form 8-K. Forecasts and estimates
+regarding the Company’s industry and end markets are based on sources we believe to be reliable, however there can be no
+assurance these forecasts and estimates will prove accurate in whole or in part. Annualized, pro forma, projected and estimated
+numbers are used for illustrative purpose only, are not forecasts and may not reflect actual results.
+
+ 
+
+Business
+
+ 
+
+The business of the
+Company is described in the Proxy Statement/Prospectus in the sections titled “Information About Act II,” “Information
+About Merisant,” and “Information About MAFCO Worldwide,” and that information is incorporated herein
+by reference.
+
+ 
+
+
+
+
+     3 
+     
+    
+
+ 
+
+Risk Factors
+
+ 
+
+The risks associated
+with the Company are described in the Proxy Statement/Prospectus in the section titled “Risk Factors,” and in
+the Supplement in the section titled “Update to Risk Factors,” each of which is incorporated herein by reference.
+In addition, the following risk factors have been updated since the filing of the Supplement:
+
+ 
+
+Our substantial indebtedness could
+adversely affect our financial condition.
+
+ 
+
+In connection with
+the Business Combination, on June 25, 2020, Whole Earth Brands, Inc. entered to into a senior secured credit facility consisting
+of (x) a term loan facility of up to $140,000,000 and (y) a revolving loan facility of up to $50,000,000, each maturing
+in five years. Loans outstanding under these credit facilities are expected to accrue interest at a rate per annum equal to LIBOR,
+with a LIOBR floor of 1.00%, plus a margin ranging from 3.00% to 3.75%, or, at Company’s option, a base rate based on the
+highest of the prime rate, the federal funds rate plus 0.50%, LIBOR for a one-month interest period plus 1.00%, and 2.00%, in each
+case plus an applicable margin between 2.00% and 2.75%, with the margin in each case depending on the achievement of certain leverage
+ratios, and undrawn amounts under the first lien revolving loan facility are expected to accrue a commitment fee at a rate per
+annum of 0.40% on the average daily undrawn portion of the commitments thereunder, with a step down to 0.30% upon achievement of
+certain leverage ratios. Principal payments on the first lien term loan facility will be due quarterly, in amounts expected to
+be equal to (i) 1.25% per annum of the original principal amount of the first lien term loan facility during the first, second and
+third years after the closing date of the credit facilities and (ii) 2.50% per annum of the original principal amount of the first
+lien term loan facility during the fourth and fifth years after the closing date of the credit facilities. For additional
+information, refer to "Item 1.01. Entry into Material Definitive Agreement—Credit
+Agreement" of this Current Report on Form 8-K.
+
+ 
+
+Our substantial indebtedness
+could:
+
+ 
+
+
+·require us to dedicate a substantial portion
+of cash flow from operations to payments in respect of our indebtedness, thereby reducing the availability of cash flow to fund
+working capital, capital expenditures, potential acquisition opportunities, a level of marketing necessary to maintain the current
+level of sales and other general corporate purposes;
+
+ 
+
+
+·increase the amount of interest that we
+have to pay, because some of our borrowings are at variable rates of interest, which will result in higher interest payments if
+interest rates increase, and, if and when we are required to refinance any of our indebtedness, an increase in interest rates would
+also result in higher interest costs;
+
+ 
+
+
+·increase our vulnerability to adverse
+general economic or industry conditions;
+
+ 
+
+
+
+
+·require refinancing, which we may not
+be able to do on reasonable terms;
+
+ 
+
+
+·limit our flexibility in planning for,
+or reacting to, competition and/or changes in our business or the industry in which we operate;
+
+ 
+
+
+·limit our ability to borrow additional
+funds;
+
+ 
+
+
+·restrict us from making strategic acquisitions
+or necessary divestitures, introducing new brands and/or products or exploiting business opportunities; and
+
+ 
+
+
+·place us at a competitive disadvantage
+compared to our competitors that have less debt and/or more financial resources.
+
+ 
+
+We may not be able to generate sufficient
+cash to service all of our indebtedness, and we may be forced to take other actions to satisfy our obligations under our indebtedness
+that may not be successful.
+
+ 
+
+Our ability to pay
+principal and interest on our debt obligations will depend upon, among other things, (a) our future financial and operating
+performance (including the realization of any cost savings described herein), which will be affected by prevailing economic, industry
+and competitive conditions and financial, business, legislative, regulatory and other factors, many of which are beyond our control;
+and (b) our future ability to borrow under our revolving credit facility, the availability of which depends on, among other
+things, our complying with the covenants in the credit agreement governing such facility.
+
+ 
+
+
+
+
+     4 
+     
+    
+
+ 
+
+We cannot assure you
+that our business will generate cash flow from operations, or that we will be able to draw under our revolving credit facility
+or otherwise, in an amount sufficient to fund our liquidity needs, including the payment of principal and interest on our debt.
+If our cash flows and capital resources are insufficient to service our indebtedness, we may be forced to reduce or delay capital
+expenditures, sell assets, seek additional capital, or restructure or refinance our indebtedness. These alternative measures may
+not be successful and may not permit us to meet our scheduled debt service obligations. Our ability to restructure or refinance
+our debt will depend on the condition of the capital markets and our financial condition at such time. Any refinancing of our debt
+could be at higher interest rates and may require us to comply with more onerous covenants, which could further restrict our business
+operations. In addition, the terms of existing or future debt agreements may restrict us from adopting some of these alternatives.
+In the absence of such operating results and resources, we could face substantial liquidity problems and might be required to dispose
+of material assets or operations to meet our debt service and other obligations. We may not be able to consummate those dispositions
+for fair market value or at all. Furthermore, any proceeds that we could realize from any such dispositions may not be adequate
+to meet our debt service obligations then due. Our inability to generate sufficient cash flow to satisfy our debt obligations,
+or to refinance our indebtedness on commercially reasonable terms or at all, could have a material adverse effect on our business,
+results of operations, and financial condition, and could negatively impact our ability to satisfy our debt obligations.
+
+ 
+
+Whole Earth Brands, Inc.’s
+indebtedness could adversely affect its financial condition and ability to conduct its operations, and Whole Earth Brands, Inc.
+may incur additional debt
+
+ 
+
+The total indebtedness
+under the new credit facility may be equal to $190,000,000 (including an undrawn revolving credit facility of $50,000,000 at the
+date of closing). Whole Earth Brands Inc.’s debt level and the terms of its financing arrangements could adversely affect
+its financial condition and limit its ability to successfully implement its growth strategies. In addition, under its credit facilities,
+certain of Whole Earth Brands, Inc.’s direct subsidiaries granted the lenders a security interest in substantially all of
+their assets. Whole Earth Brands, Inc. is permitted under the terms of its credit facilities to incur additional indebtedness,
+both under its credit facilities and otherwise. If such additional indebtedness is incurred, it may exacerbate the risks of Whole
+Earth Brands, Inc.’s indebtedness described herein.
+
+ 
+
+Whole Earth Brands,
+Inc.’s ability to meet its debt service obligations will depend on Whole Earth Brands, Inc.’s future performance, which
+will be affected by the other risk factors described herein. If Whole Earth Brands, Inc. does not generate enough cash flow to
+pay its debt service obligations, it may be required to refinance all or part of its existing debt, sell assets, borrow more money
+or raise equity. Whole Earth Brands, Inc. may not be able to take any of these actions on a timely basis, on satisfactory terms,
+or at all.
+
+ 
+
+Whole Earth Brands, Inc.’s
+credit facilities will contain financial and other covenants. The failure to comply with such covenants could have an adverse effect.
+
+ 
+
+Whole
+Earth Brands, Inc.’s credit facilities contemplated by the credit facilities documents contain certain financial and other
+covenants, including a maximum consolidated total net leverage ratio equal to or less than 4.00:1.00 and a
+minimum fixed charge coverage ratio equal to or greater than 1.25:1.00, and limitations on Whole Earth Brands, Inc.’s and
+its subsidiaries’ abilities to, among other things, incur additional indebtedness and make guarantees; incur liens on assets;
+engage in mergers or consolidations, dissolutions or other fundamental changes; sell assets; pay dividends and distributions or
+other restricted payments or repurchase stock; make investments, loans and advances, including acquisitions; amend organizational
+documents or other material agreements; enter into certain agreements that would restrict the ability of the Borrower and its subsidiaries
+to pay dividends; repay certain junior, unsecured or subordinated indebtedness; issue certain equity; engage in certain activities;
+and engage in certain transactions with affiliates, in each case, subject to customary exceptions materially consistent with credit
+facilities of such type and size. Any failure to comply with the restrictions of Whole Earth Brands, Inc.’s credit facilities
+may result in an event of default under the credit facilities. Whole Earth Brands, Inc.’s contemplated credit facilities
+bear interest at variable rates. If market interest rates increase, variable rate debt will create higher debt service requirements,
+which could adversely affect Whole Earth Brands, Inc.’s cash flow.
+ 
+
+
+
+
+     5 
+     
+    
+
+ 
+
+Financial Information
+
+ 
+
+Reference is made to
+the disclosure set forth in Item 9.01 of this Current Report on Form 8-K concerning the financial information of the Company.
+Reference is further made to the disclosure contained in the Proxy Statement/Prospectus in the sections titled “Selected
+Historical Financial Information of Act II,” “Selected Historical Financial Information of Merisant and MAFCO,”
+ “Act II’s Management’s Discussion and Analysis of Financial Condition and Results of Operations,”
+ “Merisant and MAFCO’s Management’s Discussion and Analysis of Financial Condition and Results of Operations,”
+and in the Supplement in the appendices titled “Act II’s Management’s Discussion and Analysis of Financial
+Condition and Results of Operations for the Three Months Ended March 31, 2020 and 2019,” “Merisant and MAFCO’s
+Management’s Discussion and Analysis for the Three Months Ended March 31, 2020 and 2019,” each of which are incorporated
+herein by reference.
+
+ 
+
+Properties
+
+ 
+
+The facilities of the
+Company are described in the Proxy Statement/Prospectus in the section titled “Information About Merisant — Facilities
+and Locations,” and “Information About MAFCO Worldwide — Facilities and Locations,” each of
+which is incorporated herein by reference.
+
+ 
+
+Security Ownership of Certain Beneficial Owners
+and Management
+
+ 
+
+The following table
+sets forth information regarding the beneficial ownership of shares of the Company’s common stock upon the completion of
+the Business Combination by:
+
+ 
+
+
+·each person known to the Company to be the beneficial owner of more than 5% of the shares of any
+class of the Company’s common stock;
+
+ 
+
+
+·each named executive officer or director of the Company; and
+
+ 
+
+
+·all officers and directors of the Company as a group.
+
+ 
+
+Beneficial ownership
+is determined according to the rules of the SEC, which generally provide that a person has beneficial ownership of a security if
+he, she or it possesses sole or shared voting or investment power over that security, including options and warrants that are currently
+exercisable or exercisable within 60 days.
+
+ 
+
+The beneficial ownership
+of shares of the Company’s common stock immediately following completion of the Business Combination is based on the following:
+(i) an aggregate of 38,426,669 ordinary shares of Act II issued and outstanding immediately prior to the completion of the Business
+Combination, which ordinary shares converted into shares of common stock of the Company upon completion of the Domestication, and
+which number reflects (x) the valid redemption of 3,573,331 Act II Class A Shares by public shareholders of Act II and (y) the
+forfeiture of 3,000,000 Act II Class B Shares at Closing (see the disclosure in the Proxy Statement/Prospectus in the section titled
+ “Shareholder Proposal 1: The Business Combination Proposal—Related Agreements—Sponsor Support Agreement,”
+and in the Supplement in the section titled “Supplemental Information to Proposal No. 1 — Business Combination Proposal
+ — Update to Sponsor Support Agreement”).
+
+ 
+
+The following table
+does not reflect, after giving effect to the Warrant Amendment, (i) 7,500,000 shares of Whole Earth Brands, Inc. common stock issuable
+upon the exercise of the public warrants, each exercisable for one half of one share of Whole Earth Brands, Inc. common
+stock at $5.75 per share, and (ii) 2,631,750 million shares of Whole Earth Brands, Inc. common stock issuable upon the
+exercise of the private placement warrants, each exercisable to purchase one half of one share of Whole Earth Brands, Inc. common
+stock at $5.75 per share.
+
+ 
+
+Unless otherwise indicated,
+the Company believes that all persons named in the table below have sole voting and investment power with respect to the voting
+securities beneficially owned by them.
+
+ 
+
+
+
+
+     6 
+     
+    
+
+ 
+
+
+
+      
+    Beneficial Ownership Upon the Completion  of the Business
+    Combination and Private
+ Placements 
+
+    Beneficial Owner 
+    Number of  Shares  
+    Percentage of  Outstanding Shares 
+
+    5% Stockholders 
+     ​  
+       
+
+    Sellers(8) 
+     600,000  
+     1.56%
+
+    Sponsor(1) 
+     4,500,000  
+     11.71%
+
+    Dicalite Management Group, Inc.(7) 
+     3,300,000  
+     8.59%
+
+    MMCAP International Inc. SPC(2) 
+     2,800,000  
+     7.29%
+
+    Linden Capital L.P.(4) 
+     2,435,299  
+     6.34%
+
+    Polar Asset Management Partners Inc.(4) 
+     2,350,000  
+     6.12%
+
+    UBS O’Connor LLC(5) 
+     2,733,444  
+     7.11%
+
+    Baron Small Cap Fund 
+     2,000,000  
+     5.2%
+
+    Directors and Named Executive Officers 
+     ​  
+     ​ 
+
+    Irwin D. Simon(6) 
+     -  
+     - 
+
+    Albert Manzone 
+     -  
+     - 
+
+    Lucas Bailey 
+     -  
+     - 
+
+    Andrew Rusie 
+     -  
+     - 
+
+    Denise Faltischek 
+     -  
+     - 
+
+    Steven M. Cohen 
+     -  
+     - 
+
+    John M. McMillin 
+     -  
+     - 
+
+    Anuraag Agarwal 
+     -  
+     - 
+
+    Ira J. Lamel(6) 
+     -  
+     - 
+
+    All executive officers and directors as a group (nine individuals) 
+     -  
+     - 
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+(1)According to a Schedule 13G/A filed with the SEC on June 26, 2020, Act II Global LLC and John Carroll,
+the managing member of Act II Global LLC, hold shared voting and dispositive power of the 4,500,000 shares of Whole Earth Brands,
+Inc. common stock held by Act II Global LLC. Mr. Carroll has sole voting and dispositive control over the shares held by Act II
+Global LLC and therefore may be deemed the beneficial owner of such shares. The principal business address for each of Act II Global
+LLC and Mr. Carroll is 745 5th Avenue, New York, New York  10151. Beneficial ownership presented in table includes 3,0000,000
+shares of Whole Earth Brands, Inc. common stock issued to the Sponsor that are held in escrow and subject to release upon the earliest
+to occur of (i) the volume weighted-average per-share trading price of shares of Whole Earth Brands, Inc. common stock being at
+or above $20.00 per share for twenty (20) trading days in any thirty (30)-trading day continuous trading period during the five
+(5) years following the Closing Date (the “Escrow Period”), (ii) a Change in Control (as defined in the Purchase
+Agreement) and (iii) the expiration of the Escrow Period.
+
+ 
+
+
+(2)According to a Schedule 13G/A filed with the SEC on February 5, 2020, MMCAP International Inc.
+SPC and MM Asset Management Inc. hold shared voting and dispositive power of 1,800,000 shares of Whole Earth Brands, Inc. common
+stock. MMCAP International Inc. SPC and MM Asset Management Inc. are the record and direct beneficial owners of the securities.
+MM Asset Management Inc. is the investment advisor of, and may be deemed to beneficially own securities held by, MMCAP International
+Inc. SPC. The address of the principal business office for MMCAP International Inc. SPC is c/o Mourant Governance Services (Cayman)
+Limited, 94 Solaris Avenue, Camana Bay, P.O. Box 1348, Grand Cayman, Cayman Islands KY1-1008. The address of the principal business
+office of MM Asset Management Inc. is 161 Bay Street, TD Canada Trust Tower, Suite 2240, Toronto, Ontario, Canada M5J 2S1. Beneficial
+ownership presented in the table includes shares of Whole Earth Brands, Inc. common stock issued connection with the PIPE Financing.
+
+ 
+
+
+(3)According to a Schedule 13G/A filed with the SEC on January 14, 2020, Linden GP LLC is the general
+partner of Linden Capital L.P. and, in such capacity, may be deemed to beneficially own 2,164,460 shares of Whole Earth Brands,
+Inc. common stock held by Linden Capital L.P. Linden Advisors LP is the investment manager of Linden Capital L.P. and trading advisor
+or investment advisor for separately managed accounts. Siu Min (Joe) Wong is the principal owner and controlling person of Linden
+Advisors LP and Linden GP LLC. In such capacities, Linden Advisors LP and Mr. Wong may each be deemed to beneficially own an aggregate
+of 2,435,299 shares of Whole Earth Brands, Inc. common stock held by Linden Capital L.P. and the managed accounts. The principal
+business address for Linden Capital is Victoria Place, 31 Victoria Street, Hamilton HM10, Bermuda. The principal business address
+for each of Linden Advisors LP, Linden GP LLC and Mr. Wong is 590 Madison Avenue, 15th Floor, New York, New York 10022.
+
+ 
+
+
+
+
+     7 
+     
+    
+
+ 
+
+
+(4)According to a Schedule 13G filed with the SEC on February 10, 2019, Polar Asset Management Partners
+Inc. holds sole voting and dispositive power of 2,250,000 shares of Whole Earth Brands, Inc. common stock. The business address
+for the reporting person is 401 Bay Street, Suite 1900, PO Box 19, Toronto, Ontario M5H 2Y4, Canada. Beneficial ownership presented
+in the table includes shares of Whole Earth Brands, Inc. common stock issued connection with the PIPE Financing.
+
+ 
+
+
+(5)According to a Schedule 13G filed with the SEC on February 13, 2020, UBS O’Connor LLC has
+sole voting and dispositive power of 1,733,444 shares of Whole Earth Brands, Inc. common stock. UBS O’Connor LLC serves as
+the investment manager to (i) Nineteen77 Global Multi-Strategy Alpha Master Limited (“GLEA”) and (ii) Nineteen77
+Global Merger Arbitrage Master Limited (“OGMA”). In such capacity, UBS O’Connor LLC exercises voting and
+investment power over the shares of Whole Earth Brands, Inc. common stock held for the account of GLEA and OGMA. UBS O’Connor
+LLC is a registered investment adviser under Section 203 of the Investment Advisers Act of 1940, as amended. Kevin Russell, the
+Chief Investment Officer of UBS O’Connor LLC, also has voting control and investment discretion over the securities described
+herein held by GLEA and OGMA. As a result, each of UBS O’Connor LLC and Mr. Russell may be deemed to have beneficial ownership
+(as determined under Section 13(d) of the Securities Exchange Act of 1934, as amended) of the Act II Class A Shares held for the
+account of GLEA and OGMA. The address of the principal business office of each of the reporting persons is One North Wacker Drive,
+32nd Floor, Chicago, Illinois 60606. Beneficial ownership presented in the table includes shares of Whole Earth Brands, Inc. common
+stock issued connection with the PIPE Financing.
+
+ 
+
+
+(6)Irwin D. Simon and Ira J. Lamel are members of the Sponsor.
+
+ 
+
+
+(7)According to a Schedule 13G filed with the SEC on June 18, 2020, Dicalite Management Group, Inc.,
+a Delaware corporation, is the record holder of, and holds shared voting and dispositive power over, 3,300,000 shares of Whole
+Earth Brands, Inc. common stock. Dicalite Management Group, Inc. is a wholly-owned subsidiary of Dicalite Management Holdings LLC,
+a Delaware limited liability company, the sole voting member of which is DPV Mineral Holding Company LLC, a Delaware limited company.
+The sole member of DPV Mineral Holding Company LLC is MTFG Management Services, LLC, a Delaware limited liability company. The
+sole member of MTFG Management Services, LLC is The Ronald O. Perelman 2016 Trust for Education and Charity, a New York trust.
+In such capacities, the foregoing entities may be deemed to have beneficial ownership of 3,300,000 Act II Class A Shares. The principal
+business address of each of Dicalite Management Group, Inc. and Dicalite Management Holdings LLC is 1 Belmont Avenue, Suite 500,
+Bala Cynwyd, Pennsylvania 19004. The principal business address of DPV Mineral Holding Company LLC, MTFG Management Services, LLC
+and The Ronald O. Perelman 2016 Trust for Education and Charity is 35 E. 62nd Street, New York, New York, 10065.
+
+ 
+
+
+(8)Includes 600,000 shares of Whole Earth Brands, Inc. common stock acquired in open market transactions.
+
+ 
+
+Directors and Executive Officers
+
+ 
+
+The Company’s
+directors and executive officers after the Closing are described in the Proxy Statement/Prospectus in the section titled “Management
+of Whole Earth Brands, Inc. Following the Business Combination,” and in the Supplement in the section titled “Update
+to Management of Whole Earth Brands, Inc. Following the Business Combination,” each of which is incorporated herein by
+reference.
+
+ 
+
+Executive Compensation
+
+ 
+
+The compensation of
+the named executive officers of Act II before the Business Combination is set forth in the Proxy Statement/Prospectus in the section
+titled “Information About Act II — Officer and director compensation,” which is incorporated herein by
+reference. The compensation of the named executive officers of Merisant and MAFCO before the Business Combination is set forth
+in the Proxy Statement/Prospectus in the section titled “Executive Compensation,” which is incorporated herein
+by reference.
+
+ 
+
+The information set
+forth in this Current Report on Form 8-K under Item 5.02 is incorporated in this Item 2.01 by reference.
+
+ 
+
+At the Shareholders
+Meeting, Act II’s shareholders approved the Whole Earth Brands, Inc. 2020 Long-Term Incentive Award Plan. A description of
+the material terms of the 2020 Plan is set forth in the section of the Proxy Statement/Prospectus titled “Shareholder
+Proposal 5— Whole Earth Brands, Inc. 2020 Long-Term Incentive Award Plan Proposal,” which is incorporated herein
+by reference. This summary is qualified in its entirety by reference to the complete text of the 2020 Plan, a copy of which is
+attached as an Exhibit 10.5 to this Current Report on Form 8-K.
+
+ 
+
+
+
+
+     8 
+     
+    
+
+ 
+
+Certain Relationships and Related Transactions,
+and Director Independence
+
+ 
+
+The certain relationships
+and related party transactions of the Company and Merisant and MAFCO are described in the Proxy Statement/Prospectus in the section
+titled “Certain Relationships and Related Person Transactions” and in the Supplement in the section titled “Update
+to Certain Relationship and Related Person Transactions,” each of which are incorporated herein by reference.
+
+ 
+
+Reference is made to
+the disclosure regarding director independence in the section of the Proxy Statement/Prospectus titled “Management of
+Whole Earth Brands, Inc. Following the Business Combination–Director Independence,” and in the section of the
+Supplement titled “Update to Management of Whole Earth Brands, Inc. Following the Business Combination,” each
+of which is incorporated herein by reference.
+
+ 
+
+The information set
+forth under the section of the Supplement titled “Supplemental Information to Proposal No. 1—Business Combination
+Proposal — Related Agreements — Elimination of the Investors Agreement,” and under “Item 5.02 Departure
+of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain
+Officers—Employment Agreements” of this Current Report on Form 8-K is incorporated into this Item 2.01 by reference.
+
+ 
+
+The Company has adopted
+a formal written policy that will be effective upon the Business Combination providing that persons meeting the definition of “Related
+Person” under Item 404(a) of Regulation S-K such as the Company’s executive officers, directors, nominees for election
+as directors, beneficial owners of more than 5% of any class of the Company’s capital stock and any member of the immediate
+family of any of the foregoing persons are not permitted to enter into a related party transaction with the Company without the
+approval of the Company’s nominating and corporate governance committee, subject to the exceptions described below.
+
+ 
+
+A related person transaction
+is a transaction, arrangement or relationship, or any series of similar transactions, arrangements or relationships that would
+be required to be disclosed pursuant to Item 404(a) of Regulation S-K, in which the Company and any related person are, were or
+will be participants in which the amount involves exceeds $120,000, and in which a related person had or will have a direct or
+indirect material interest. Transactions involving compensation for services provided to the Company as an employee or director
+and certain other transactions not required to be disclosed under Item 404(a) of Regulation S-K are not covered by this policy.
+
+ 
+
+Under the policy, the
+audit committee of the board of directors of the Company will review information that the audit committee deems necessary or appropriate
+to enable the committee to identify any existing or potential related person transactions and to effectuate the terms of the policy.
+In addition, under the Company’s code of ethics (as further described under Item 5.01 hereof, which is incorporated by reference
+into this Item 2.01), employees and directors have an affirmative responsibility to disclose any transaction or relationship that
+reasonably could be expected to give rise to a conflict of interest.
+
+ 
+
+Legal Proceedings
+
+ 
+
+Reference is made to
+the disclosure regarding legal proceedings in the sections of the Proxy Statement/Prospectus titled “Information About
+Act II—Legal Proceedings,” “Information About Merisant—Legal Proceedings,” “Information
+About MAFCO Worldwide—Legal Proceedings,” and in the section of the Supplement titled “Update to Legal
+Proceedings,” which are incorporated herein by reference.
+
+ 
+
+Market Price of and Dividends on the Registrant’s
+Common Equity and Related Stockholder Matters
+
+ 
+
+The Company’s
+common stock began trading on the Nasdaq under the symbol “FREE” and its warrants began trading on the Nasdaq Market
+under the symbol “FREEW” on June 25, 2020. Act II has not paid any cash dividends on its ordinary shares to date. The payment of cash
+dividends by the Company in the future will be dependent upon the Company’s revenues and earnings, if any, capital requirements
+and general financial condition subsequent to completion of the Business Combination. The payment of any dividends subsequent to
+the Business Combination will be within the discretion of the board of directors of the Company.
+
+ 
+
+Information regarding
+Act II’s ordinary shares, warrants and units and related shareholder matters are described in the Proxy Statement/Prospectus
+in the section titled “Market Price and Dividend Information” and such information is incorporated
+herein by reference.
+
+ 
+
+Recent Sales of Unregistered Securities
+
+ 
+
+Reference is made to
+the disclosure set forth under Item 3.02 of this Current Report on Form 8-K concerning the issuance of the Company’s common
+stock to certain accredited investors, which is incorporated herein by reference.
+
+ 
+
+
+
+
+     9 
+     
+    
+
+ 
+
+Description of Registrant’s Securities to
+be Registered
+
+ 
+
+The description of
+the Company’s securities is contained in the Proxy Statement/Prospectus in the sections titled “Description of Whole
+Earth Brands, Inc. Securities” and “Comparison of Corporate Governance and Shareholder Rights,” which
+are incorporated herein by reference.
+
+ 
+
+Indemnification of Directors and Officers
+
+ 
+
+The description of
+the indemnification arrangements with the Company’s directors and officers is contained in the Proxy Statement/Prospectus
+in the sections titled “Description of Whole Earth Brands, Inc. Securities — Limitations on Liability and Indemnification
+of Officers and Directors,” and “Comparison of Corporate Governance and Shareholder Rights,” each
+of which is incorporated herein by reference.
+
+ 
+
+Financial Statements and Supplementary Data
+
+ 
+
+Reference is made
+to the disclosure set forth under Item 9.01 of this Current Report on Form 8-K concerning the financial statements of the Company
+and the disclosure contained in the Proxy Statement/Prospectus in the sections titled “Merisant and MAFCO’s Management’s
+Discussion and Analysis of Financial Condition and Results of Operations” and in the Supplement in the appendices titled
+ “Merisant and MAFCO’s Management’s Discussion and Analysis for the Three Months Ended March 31, 2020 and
+2019,” each of which is incorporated herein by reference.
+
+ 
+
+Financial Statements and Exhibits
+
+ 
+
+Reference is made to
+the disclosure set forth under Item 9.01 of this Current Report on Form 8-K concerning the financial information of the Company.
+
+ 
+
+
+Item 3.02.Unregistered Sales of Equity Securities
+
+ 
+
+The PIPE Financing
+
+ 
+
+As previously
+disclosed, on February 12, 2020, Act II entered into subscription agreements (the “PIPE Subscription
+Agreements”), whereby the investors named therein (the “PIPE Investors”) committed to purchase
+shares of Whole Earth Brands, Inc. common stock and private placement warrants for aggregate proceeds of $75 million, simultaneously with or immediately prior to the Closing (the “PIPE
+Financing”). The PIPE Financing was conditioned on the Closing being scheduled to occur concurrently with or
+immediately following the closing of the PIPE Financing and other customary closing conditions.
+
+ 
+
+The PIPE Financing
+closed on June 25, 2020, and the issuance of an aggregate of 7,500,000 Whole Earth Brands, Inc. common stock and 5,263,500 private placement warrants exercisable
+for 2,631,750 shares of Whole Earth Brands, Inc. common stock occurred immediately
+after the consummation of the Business Combination. The sale and issuance was made to accredited investors in reliance on Rule
+506 of Regulation D under the Securities Act. No separate fees or commissions were paid to the placement agents other than payments
+made to such institutions for other services rendered in connection with the Act II initial public offering and/or the Business
+Combination.
+
+ 
+
+This summary is qualified
+in its entirety by reference to the text of the form of PIPE Subscription Agreements, which are included as Exhibit 10.20 to this
+Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+
+Item 3.03.Material Modification to Rights of Security Holders
+
+ 
+
+Certificate of Domestication, Certificate of Incorporation
+and Bylaws
+
+ 
+
+In connection with
+the Closing of the Business Combination, on June 24, 2020, the Company domesticated into the State of Delaware from the Cayman
+Islands by filing a Certificate of Domestication (the “Certificate of Domestication”) and Certificate of Incorporation
+(the “Certificate of Incorporation”) with the Delaware Secretary of State and also adopted bylaws (the “Bylaws”),
+which together replace Act II’s Amended and Restated Memorandum and Articles of Association. The material terms of the Certificate
+of Domestication, the Certificate of Incorporation, the Bylaws and the general effect upon the rights of holders of the Company’s
+capital stock are discussed in the Proxy Statement/Prospectus under the sections titled “Comparison of Corporate Governance
+and Shareholder Rights,” “Description of Whole Earth Brands, Inc. Securities — Authorized Capitalization,”
+ “Shareholder Proposal 2: The Domestication Proposal,” and “Shareholder Proposal 3: The Organizational
+Documents Proposal,” which are incorporated herein by reference.
+
+ 
+
+
+
+
+     10 
+     
+    
+
+ 
+
+Copies of the
+Certificate of Incorporation, Bylaws and Certificate of Domestication are attached hereto as Exhibits 3.1, 3.2
+and 3.3, respectively, and are incorporated herein by reference.
+
+ 
+
+Amended and Restated Warrant Agreement
+
+ 
+
+Reference is made
+to the disclosure set forth under Item 1.01 of this Current Report on Form 8-K concerning the amended and restated warrant
+agreement, which is incorporated by reference into this Item 3.03.
+
+ 
+
+Indemnity Agreements
+
+ 
+
+On June 25, 2020,
+we entered into indemnity agreements with each of our directors and executive officers. Each indemnity agreement provides for indemnification
+and advancement by the Company of certain expenses and costs relating to claims, suits or proceedings arising from service to the
+Company or, at our request, service to other entities, as officers or directors to the maximum extent permitted by applicable law.
+
+ 
+
+The foregoing description
+of the indemnity agreements does not purport to be complete and is qualified in its entirety by the terms and conditions of the
+indemnity agreements, a form of which is attached hereto as Exhibit 10.6 and is incorporated herein by reference.
+
+ 
+
+
+Item 5.01.Changes in Control of Registrant.
+
+ 
+
+Reference is made to
+the disclosure in the Proxy Statement/Prospectus in the section titled “Shareholder Proposal 1: The Business Combination
+Proposal,” and in the Supplement in the section titled “Supplemental Information to Proposal No. 1 — Business
+Combination Proposal,” each of which is incorporated herein by reference. Further reference is made to the information
+contained under “Introductory Note” and Item 2.01 to this Current Report on Form 8-K, each of which is incorporated
+in this Item 5.01 by reference.
+
+ 
+
+As of June 25, 2020,
+there were approximately 38,426,669 shares of Whole Earth Brands, Inc. common stock outstanding. These numbers (i) include 3,000,000
+shares of common stock held by the Sponsor in escrow subject to release based on performance criteria and/or expiration of the
+Escrow Period; and (ii) exclude (a) 7,500,000 shares of common stock underlying the public warrants that remain outstanding after
+the completion of the Business Combination, (b) 2,631,750 shares of common stock underlying the private placement warrants that
+were issued to the PIPE Investors, and (c) the shares of common stock reserved for future issuance under the Whole Earth Brands,
+Inc. 2020 Long-Term Incentive Plan. As a result of the Business Combination, based on such assumptions and after giving effect
+to the terms of such arrangements, (i) pre-Business Combination public shareholders of Act II hold approximately 58.6% of the
+voting power of the Company, (ii) the Sponsor holds approximately 11.7% of such voting power, and (iii) the PIPE Investors hold
+approximately 19.5% of such voting power (including, for this purpose, only those shares acquired in connection with the PIPE
+Financing and excluding any other shares held by the PIPE Investors). In addition, non-affiliates of the Company hold approximately
+88.3% of the voting power.
+
+ 
+
+
+
+
+     11 
+     
+    
+
+ 
+
+
+Item 5.02.Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+ 	Compensatory Arrangements of Certain Officers.
+
+ 
+
+Election of Directors and Appointment of Officers
+
+ 
+
+The following persons
+are serving as executive officers and directors following the Closing. For information concerning the executive officers and directors,
+see the disclosures in the Proxy Statement/Prospectus in the sections titled “Information about Act II — Directors
+and Executive Officers,” “Management of Whole Earth Brands, Inc. Following the Business Combination,”
+ “Executive Compensation,” and “Certain Relationships and Related Person Transactions,” and
+in the Supplement in the sections titled “Update to Management of Whole Earth Brands, Inc. Following the Business Combination”
+and “Update to Certain Relationships and Related Person Transactions,” each of which are incorporated herein
+by reference.
+
+ 
+
+
+
+    Name 
+    Age 
+    Position
+
+    Irwin D. Simon 
+    61 
+    Executive Chairman of the Board of Directors
+
+    Albert Manzone 
+    56 
+    Chief Executive Officer
+
+    Lucas Bailey 
+    39 
+    President, Flavors & Ingredients
+
+    Andrew Rusie 
+    46 
+    Chief Financial Officer
+
+    Denise Faltischek(1)(3)(6) 
+    47 
+    Director
+
+    Steven M. Cohen(2) (3) 
+    56 
+    Director
+
+    John M. McMillin(1)(2)(3) 
+    66 
+    Director
+
+    Anuraag Agarwal 
+    45 
+    Director
+
+    Ira J. Lamel(1)(2)(4)(5) 
+    72 
+    Director
+
+
+ 
+
+
+
+ 
+
+
+
+
+(1)Member of the audit committee
+
+
+
+(2)Member of the compensation committee
+
+
+
+(3)Member of the nominating and corporate governance committee
+
+
+
+(4)Chair of the audit committee
+
+
+
+(5)Chair of the compensation committee
+
+
+
+(6)Chair of the nominating and corporate governance committee
+
+
+
+
+
+ 
+
+In connection with
+the closing of the Business Combination, effective as of immediately prior to the Domestication, (i) each of John Carroll, Ira
+J. Lamel, and Ashish Gupta resigned as executive officers of Act II; and (ii) each of John Carroll and Desireé Rogers resigned
+as directors of Act II and from any positions held by them on any committee of the board of directors of Act II.
+
+ 
+
+Whole Earth Brands, Inc. 2020 Long-Term Incentive
+Plan
+
+ 
+
+At the Shareholders
+Meeting, Act II shareholders considered and approved the Whole Earth Brands, Inc. 2020 Long-Term Incentive Plan (the “2020
+Plan”) and reserved 9,300,000 shares of common stock for issuance thereunder. The 2020 Plan was approved by the shareholders
+on June 24, 2020, and became effective as of the same date.
+
+ 
+
+A more complete summary
+of the terms of the Whole Earth Brands, Inc. 2020 Long-Term Incentive Plan is set forth in the Proxy Statement/Prospectus in the
+section titled “Shareholder Proposal 5: The Incentive Award Plan Proposal.” That summary and the foregoing description
+are qualified in their entirety by reference to the text of the Whole Earth Brands, Inc. 2020 Long-Term Incentive Plan, which is
+filed as Exhibit 10.5 hereto and incorporated herein by reference.
+
+ 
+
+Long-Term Incentive,
+Special Incentive and Supplemental Bonus Awards
+
+ 
+
+As
+a result of the Business Combination, the Company (through its subsidiaries) is now party to annual long-term incentive plans and
+special incentive plans that provide certain named executive officers with cash incentive award opportunities, subject to the achievement
+of certain performance objectives. A more complete summary of the terms of the Awards granted pursuant to such plans is set forth
+in the Proxy Statement/Prospectus in the section titled “Executive Compensation
+ — Long-Term Incentive, Special Incentive and Supplemental Bonus Awards,” which is
+incorporated herein by reference.
+
+  
+
+Employment Agreements
+
+ 
+
+As a result of the
+Business Combination, the Company (through its subsidiaries) is now party to employment agreements with each of the Company’s
+executive officers: Albert Manzone (Chief Executive Officer), Lucas Bailey (President, Flavors & Ingredients), and Andrew Rusie
+(Chief Financial Officer). For a summary of the employment agreements, see the disclosures in the Proxy Statement/Prospectus in
+the sections titled “Executive Compensation — Executive Compensation Arrangements — Existing
+Agreements,” which is incorporated by reference herein.
+
+ 
+
+
+
+
+     12 
+     
+    
+
+ 
+
+This summary is
+qualified in its entirety by reference to the text of the employment agreements, copies of which are attached hereto as
+Exhibits 10.8 through 10.19 and are incorporated herein by reference.
+
+ 
+
+
+Item 5.03.Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+The information set
+forth in Item 3.03 of this Current Report on Form 8-K is incorporated by reference into this Item 5.03.
+
+ 
+
+
+Item 5.07Submission of Matters to a Vote of Security Holders.
+
+ 
+
+Extraordinary General Meeting of Shareholders
+
+ 
+
+On June 24, 2020, Act
+II reconvened an extraordinary general meeting of its shareholders (the “Shareholders Meeting”) at which the
+shareholders voted on the proposals set forth below, each of which is described in greater detail in the Proxy Statement/Prospectus.
+As previously disclosed, the Shareholders Meeting was originally convened and then adjourned, without conducting any other business,
+on June 15, 2020.
+
+ 
+
+As of May 1, 2020,
+the record date for the Shareholders Meeting, there were 30,000,000 shares of Class A ordinary shares of Act II, par value $0.0001
+per share (“Act II Class A Shares”), issued and outstanding and 7,500,000 Class B ordinary shares of Act II,
+par value $0.0001 per share (“Act II Class B Shares,” and together with Act II Class A Shares, “Act
+II Shares”), issued and outstanding. At the Shareholders Meeting, there were 33,056,855 Act II Shares were present in
+person or represented by proxy, and each of the proposals was approved by the shareholders. The final voting results for each matter
+submitted to a vote of the shareholders at the Shareholders Meeting are as follows:
+
+ 
+
+The Business Combination
+Proposal — To approve by ordinary resolution and adopt the Purchase Agreement and the Business Combination.
+
+ 
+
+
+
+    FOR 
+    AGAINST 
+    ABSTENTIONS
+
+    31,687,367 
+    1,369,488 
+    0
+
+
+ 
+
+The Domestication
+Proposal — To approve by special resolution the change of Act II’s jurisdiction of incorporation by deregistering
+as an exempted company in the Cayman Islands and continuing and domesticating as a corporation incorporated under the laws of the
+State of Delaware (the “Domestication”).
+
+ 
+
+
+
+    FOR 
+    AGAINST 
+    ABSTENTIONS
+
+    31,687,367 
+    1,369,488 
+    0
+
+
+ 
+
+
+
+
+     13 
+     
+    
+
+ 
+
+The Organizational
+Documents Proposal — To approve by special resolution the following material differences between Act II’s Amended
+and Restated Memorandum and Articles of Association and the proposed new certificate of incorporation and the proposed new bylaws
+of Act II Global Acquisition Corp. (a corporation incorporated in the State of Delaware, and the filing with and acceptance by
+the Secretary of State of Delaware of the certificate of domestication in accordance with Section 388 of the Delaware General Corporation
+Law (the “DGCL”)), which will be renamed “Whole Earth Brands, Inc.” in connection with the Business
+Combination (Act II after the Domestication, including after such change of name, is referred to herein as “Whole Earth Brands,
+Inc.”), including: (1) changing the corporate name from “Act II Global Acquisition Corp.” to “Whole Earth
+Brands, Inc.,” (2) making Whole Earth Brands, Inc.’s corporate existence perpetual, (3) adopting Delaware as the exclusive
+forum for certain stockholder litigation, and (4) removing certain provisions related to our status as a blank check company that
+will no longer be applicable upon consummation of the Business Combination.
+
+ 
+
+
+
+    FOR 
+    AGAINST 
+    ABSTENTIONS
+
+    31,687,367 
+    1,369,488 
+    0
+
+
+ 
+
+The Stock Issuance
+Proposal — To approve by ordinary resolution for the purposes of complying with the applicable provisions of Nasdaq Listing
+Rule 5635, the issuance of shares of Whole Earth Brands, Inc. common stock to the Sellers in connection with the Business Combination
+and any person or entity in connection with any incremental equity issuances, to the extent such issuances would require a shareholder
+vote under Nasdaq Listing Rule 5635.
+
+ 
+
+
+
+    FOR 
+    AGAINST 
+    ABSTENTIONS
+
+    31,687,367 
+    1,369,488 
+    0
+
+
+ 
+
+The Incentive Award
+Plan Proposal — To approve by ordinary resolution to approve and adopt the Whole Earth Brands, Inc. 2020 Long-Term Incentive
+Award Plan.
+
+ 
+
+
+
+    FOR 
+    AGAINST 
+    ABSTENTIONS
+
+    31,687,367 
+    1,369,488 
+    0
+
+
+ 
+
+Special Meeting of Public Warrant Holders
+
+ 
+
+On June 24, 2020, Act
+II also held reconvened a special meeting (the “Warrant Holders Meeting”) of holders (the “Public Warrant
+Holders”) of Act II warrants issued in its initial public offering (the “Public Warrants”) at which
+the Public Warrant Holders voted on the proposal set forth below, which is described in greater detail in the Definitive Proxy
+Statement/Prospectus. As previously disclosed, the Warrant Holders Meeting was originally convened and then adjourned, without
+conducting any other business, on June 15, 2020.
+
+ 
+
+There were 15,000,000
+public warrants of Act II issued and outstanding as of May 1, 2020, the record date for the Warrant Holders Meeting. At the Warrant
+Holders Meeting, holders of 11,277,958 Public Warrants were present in person or represented by proxy, and the only proposal was
+approved by the Public Warrant Holders. The final voting results for the Warrant Amendment Proposal (defined below), the only matter
+submitted to a vote of the Public Warrant Holders at the Warrant Holders Meeting, are as follows:
+
+ 
+
+The Warrant Amendment
+Proposal — To approve and adopt an amendment to the warrant agreement that governs Act II’s outstanding warrants
+(the “Warrant Amendment”) to provide that, immediately prior to the consummation of the Business Combination,
+(i) each of Act II’s outstanding warrants, which currently entitle the holder thereof to purchase one Act II Class A Share
+at an exercise price of $11.50 per share, will become exercisable for one-half of one share at an exercise price of $5.75 per one-half
+share ($11.50 per whole share), and (ii) each holder of a warrant will receive, for each such warrant, a cash payment of $0.75
+(although the holders of the private placement warrants have waived their rights to receive such payment) (the “Warrant
+Amendment Proposal”).
+
+ 
+
+
+
+    FOR 
+    AGAINST 
+    ABSTENTIONS
+
+    11,027,108 
+    250,850 
+    0
+
+
+ 
+
+In light of receipt
+of the requisite approvals by Act II’s shareholders and the Public Warrant Holders described above, the Business Combination
+closed on June 25, 2020, and the Whole Earth Brands, Inc. common stock and warrants (after giving effect to the Warrant Amendment)
+began publicly trading on Nasdaq under the new symbols FREE and FREEW, respectively, when the market opened on the same day.
+
+ 
+
+
+
+
+     14 
+     
+    
+
+ 
+
+
+Item 9.01.Financial Statements and Exhibits.
+
+ 
+
+
+(a)Financial statements of businesses acquired.
+
+ 
+
+Information responsive
+to Item 9.01(a) of Form 8-K is set forth in the financial statements included in the Proxy Statement/Prospectus beginning on
+page F-1 and in the financial statements included in
+the Supplement beginning on Page E-1, each of which are incorporated herein by reference.
+
+ 
+
+
+(b)Pro forma financial information.
+
+ 
+
+The unaudited pro
+forma condensed combined financial information of the Company for the year ended December 31, 2019 and as of and for the
+three months ended March 31, 2020, is filed as Exhibit 99.2 to this Current Report on Form 8-K and incorporated
+herein by reference.
+
+ 
+
+
+(c)Shell company transactions.
+
+ 
+
+Reference is made to
+Items 9.01(a) and (b) and the exhibit referred to therein, which are incorporated herein by reference.
+
+ 
+
+
+(d)Exhibits.
+
+
+ 
+
+
+
+    Exhibit
+ No.
+     
+    Description
+
+     
+     
+     
+
+    2.1†
+     
+    Purchase Agreement dated as of December 19, 2019, by and among Act II Global Acquisition Corp., Flavors Holdings Inc., MW Holdings I LLC, MW Holdings III LLC and Mafco Foreign Holdings, Inc. (incorporated by reference to Exhibit 2.1 of Act II’s Current Report on Form 8-K/425 (File No. 001-38880), filed with the SEC on December 23, 2019).
+
+    2.2†
+     
+    Amendment No. 1 to Purchase Agreement dated as of February 12, 2020 by and among Act II Global Acquisition Corp., Flavors Holdings Inc., MW Holdings I LLC, MW Holdings III LLC and Mafco Foreign Holdings, Inc. (incorporated by reference to Exhibit 2.1 of Act II’s Current Report on Form 8-K/425 (File No. 001-38880), filed with the SEC on February 13, 2020).
+
+    2.3†
+     
+    Amendment No. 2 to Purchase Agreement dated as of May 8, 2020, by and among Act II Global Acquisition Corp., Project Taste Intermediate LLC, Flavors Holdings Inc., MW Holdings I LLC, MW Holdings III LLC and Mafco Foreign Holdings, Inc. (incorporated by reference to Exhibit 2.1 of Act II’s Current Report on Form 8-K/425 (File No. 001-38880), filed with the SEC on May 11, 2020).
+
+    2.4†
+     
+    Amendment No. 3 to Purchase Agreement dated as of June 15, 2020, by and among Act II Global Acquisition Corp., Project Taste Intermediate LLC, Flavors Holdings Inc., MW Holdings I LLC, MW Holdings III LLC and Mafco Foreign Holdings, Inc. (incorporated by reference to Exhibit 2.1 of Act II’s Current Report on Form 8-K/425 (File No. 001-38880), filed with the SEC on June 16, 2020).
+
+    3.1*
+     
+    Certificate of Incorporation of Whole Earth Brands, Inc.
+
+    3.2*
+     
+    Bylaws of Whole Earth Brands, Inc. 
+
+    3.3*
+     
+    Certificate of Domestication of Act II.
+
+    4.1
+     
+    Specimen Common Stock Certificate of Whole Earth Brands, Inc. (incorporated by reference to Exhibit 4.5 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on May 11, 2020).
+
+
+ 
+
+
+
+
+     15 
+     
+    
+
+ 
+
+
+
+    Exhibit
+ No.
+     
+    Description
+
+
+ 
+
+
+
+    4.2*
+     
+    Amended and Restated Warrant Agreement dated as of June 25, 2020, by and between Whole Earth Brands, Inc. and Continental Stock Transfer & Trust Company.
+
+    10.1*#‡
+     
+    Loan Agreement dated June 25, 2020, by and among Whole Earth Brands, Inc., Toronto Dominion (Texas) LLC, as administrative agent, and certain lenders signatory thereto.
+
+    10.2
+     
+    Sponsor Support Agreement dated as of December 19, 2019, by and among Act II Global LLC, Act II Global Acquisition Corp., Flavors Holdings Inc., MW Holdings I LLC, MW Holdings III LLC and Mafco Foreign Holdings, Inc. (incorporated by reference to Exhibit 10.1 of Act II’s Current Report on Form 8-K/425 (File No. 001-38880), filed with the SEC on December 23, 2019).
+
+    10.3
+     
+    Amendment No. 1 to Sponsor Support Agreement dated as of February 12, 2020, by and among Act II Global LLC, Act II Global Acquisition Corp., Flavors Holdings Inc., MW Holdings I LLC, MW Holdings III LLC and Mafco Foreign Holdings, Inc. (incorporated by reference to Exhibit 10.1 of Act II’s Current Report on Form 8-K/425 (File No. 001-38880), filed with the SEC on February 13, 2020).
+
+    10.4
+     
+    Amendment No. 2 to Sponsor Support Agreement dated as of June 15, by and among Act II Global LLC, Act II Global Acquisition Corp., Flavors Holdings Inc., MW Holdings I LLC, MW Holdings III LLC and Mafco Foreign Holdings, Inc. (incorporated by reference to Exhibit 10.1 of Act II’s Current Report on Form 8-K/425 (File No. 001-38880), filed with the SEC on June 16, 2020).
+
+
+    10.5*+
+     
+    Whole Earth Brands, Inc. 2020 Long-Term Incentive Award Plan.
+
+    10.6+
+     
+    Form of Indemnity Agreement, between Whole Earth
+    Brands, Inc. and its directors and officers (incorporated by reference to Exhibit 10.11 of Act II’s Form S-4/A (File
+    No. 333-236459), filed with the SEC on May 11, 2020).
+
+    10.7
+     
+    Registration Rights Agreement dated April 25, 2019, among Act II Global Acquisition Corp., Act II Global LLC and certain other security holders named therein (incorporated by reference to Exhibit 10.4 to Act II’s Current Report on Form 8-K (File No. 333-236459) filed with the SEC on May 1, 2019).
+
+    10.8+
+     
+    Letter Agreement dated November 16, 2019, by and among Merisant Company, Flavors Holdings Inc. and Andy Rusie (incorporated by reference to Exhibit 10.13 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.9+
+     
+    Offer Letter, dated as of January 25, 2016, by and between Merisant Company 2 SARL and Albert Manzone (incorporated by reference to Exhibit 10.14 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.10+
+     
+    Amendment to Offer Letter dated as of July 1, 2017, by and between Merisant Company 2 SARL and Albert Manzone (incorporated by reference to Exhibit 10.15 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.11+
+     
+    2018 Amendment to Offer Letter dated as of November 4, 2018, by and between Merisant Company 2 SARL and Albert Manzone (incorporated by reference to Exhibit 10.16 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.12+
+     
+    3rd Amendment to Offer Letter dated as of June 10, 2019, by and between Merisant Company 2 SARL and Albert Manzone (incorporated by reference to Exhibit 10.17 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+
+ 
+
+
+
+
+     16 
+     
+    
+
+ 
+
+
+
+    Exhibit
+ No.
+     
+    Description
+
+
+ 
+
+
+
+    10.13+
+     
+    4th Amendment to Offer Letter dated as of July 23, 2019, by and between Merisant Company 2 SARL and Albert Manzone (incorporated by reference to Exhibit 10.18 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.14+
+     
+    5th Amendment to Offer Letter dated as of September 9, 2019, by and between Merisant Company 2 SARL and Albert Manzone (incorporated by reference to Exhibit 10.19 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.15+
+     
+    Executive Employment Agreement dated as of January 1, 2014, by and between MacAndrews & Forbes Holdings Inc. and Lucas Bailey (incorporated by reference to Exhibit 10.20 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.16+
+     
+    First Amendment to Executive Employment Agreement dated as of May 13, 2015, by and between Mafco Worldwide Corporation and Lucas Bailey (incorporated by reference to Exhibit 10.21 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.17+
+     
+    Second Amendment to Executive Employment Agreement dated as of February 11, 2017, by and between Mafco Worldwide Corporation and Lucas Bailey (incorporated by reference to Exhibit 10.22 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.18+
+     
+    Fourth Amendment to Executive Employment Agreement dated as of May 8, 2018, by and between Mafco Worldwide LLC and Lucas Bailey (incorporated by reference to Exhibit 10.23 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+
+    10.19+
+     
+    Fifth Amendment to Executive Employment Agreement dated as of December 19, 2019, by and between Mafco Worldwide Corporation and Lucas Bailey (incorporated by reference to Exhibit 10.24 of Act II’s Form S-4/A (File No. 333-236459), filed with the SEC on April 10, 2020).
+
+    10.20
+     
+    Form of Subscription Agreement by and between Act II Global Acquisition Corp. and the subscribers signatory thereto (incorporated by reference to Exhibit 10.3 of Act II’s Current Report on Form 8-K/425 (File No. 001-38880), filed with the SEC on February 13, 2020).
+
+    10.21*
+     
+    Escrow Agreement dated as of June 25, 2020, by and among Act II Sponsor LLC, Whole Earth Brands, Inc. and Continental Stock Transfer & Trust Company.
+
+    14.1*
+     
+    Whole Earth Brands, Inc. Code of Ethics, as adopted on June 24, 2020.
+
+    16.1*
+     
+    Letter from Marcum LLP to the SEC dated June 30,
+2020.
+
+    21.1*
+     
+    List of Subsidiaries.
+
+    99.1*
+     
+    Press Release dated June 25, 2020.
+
+    99.2*
+     
+    Unaudited
+    Pro Forma Condensed Combined Financial Information of the Company for the year ended December 31, 2019 and as of and for
+    the three months ended March 31, 2020.
+
+
+
+ 
+
+ 
+
+
+
+
+*Filed herewith
+
+
+ 
+
+
++Indicates a management or compensatory plan.
+
+
+ 
+
+
+†Schedules to this exhibit have been omitted pursuant
+to Item 601(b)(2) of Registration S-K. The Registrant hereby agrees to furnish a copy of any omitted schedules to the SEC upon
+request.
+
+
+
+ 
+
+
+
+#Certain schedules and exhibits to this agreement
+have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished
+supplementally to the SEC upon request.
+
+
+
+ 
+
+
+
+‡Certain portions of this exhibit (indicated by “[***]”)
+have been omitted pursuant to Regulation S-K, Item 601(b)(10).
+
+
+
+ 
+
+
+
+
+     17 
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    Whole Earth Brands, Inc.
+
+     
+     
+
+     
+     
+
+    Dated: June 30, 2020
+    By:
+     
+    /s/ Andrew Rusie
+
+     
+     
+     
+    Andrew Rusie
+
+     
+     
+     
+    Chief Financial Officer
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+ 
+
+
+
+
+     18 
+    
+
+ 
+
+
+
+

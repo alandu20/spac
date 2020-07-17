@@ -1,0 +1,638 @@
+
+8-K
+1
+d949883d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT REPORT
+ Pursuant to Section 13 or 15(d) 
+of the Securities Exchange Act of 1934 
+Date of Report (Date of Earliest Event Reported): July 15, 2020 
+   
+FORTRESS VALUE ACQUISITION CORP. 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-39277
+ 
+84-4465489
+
+ (State or other jurisdiction
+of incorporation)
+ 
+ (Commission
+File Number)
+ 
+ (IRS Employer
+Identification No.)
+ 1345 Avenue of the Americas, 46th Floor 
+New York, New York 10105 
+(Address of principal executive offices, including zip code) 
+Registrants telephone number, including area code: (212) 798-6100 
+Not Applicable  (Former
+name or former address, if changed since last report.)   
+  Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+ 
+
+
+☒
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of Each Class
+ 
+ Trading
+Symbols
+ 
+ Name of Each Exchange
+on Which Registered
+
+
+
+Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
+ 
+FVAC.U
+ 
+New York Stock Exchange
+
+Class A common stock, par value of $0.0001 per share
+ 
+FVAC
+ 
+New York Stock Exchange
+
+Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
+ 
+FVAC WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+
+
+
+Item 1.01
+ Entry into a Material Definitive Agreement. 
+On July 15, 2020, Fortress Value Acquisition Corp., a Delaware corporation (Parent), entered into an Agreement and Plan of Merger (the
+Merger Agreement), by and among Parent, FVAC Merger Corp. I, a Delaware corporation and a direct, wholly-owned subsidiary of Parent (MPMO Merger Corp.), FVAC Merger LLC
+II, a Delaware limited liability company that is treated as a corporation for U.S. federal income tax purposes and a direct, wholly-owned subsidiary of Parent (SNR Merger Company), FVAC
+Merger LLC III, a Delaware limited liability company and a direct wholly-owned subsidiary of Parent (MPMO Merger LLC), FVAC Merger LLC IV, a Delaware limited liability company and a direct wholly-owned subsidiary of Parent (SNR Merger LLC and, together with MPMO Merger Corp., SNR Merger Company and MPMO Merger LLC, the Merger Subs), MP Mine Operations LLC, a
+Delaware limited liability company (MPMO) and Secure Natural Resources LLC, a Delaware limited liability company (SNR and, together with MPMO, each a Company and collectively, the
+Companies). The Merger Agreement and the transactions contemplated thereby will constitute a Business Combination as contemplated by Parents Amended and Restated Certificate of Incorporation (the
+Charter).  Pursuant to the Merger Agreement, among other things, (a) the Companies will, prior to the consummation of the
+transactions contemplated by the Merger Agreement, complete a reorganization (the Pre-Closing Reorganization), pursuant to which, among other things, MPMO or an affiliate of an equityholder
+thereof will form a new Delaware corporation (MPMO Holdco), and SNR will form a new Delaware limited liability company that is treated as a corporation for U.S. federal income tax purposes (SNR HoldCo), (b)
+through two consecutive mergers constituting part of the same overall transaction, MPMO Merger Corp. will merge with and into MPMO Holdco, with MPMO HoldCo being the surviving corporation, and immediately thereafter MPMO Holdco will merge with and
+into MPMO Merger LLC, with MPMO Merger LLC being the surviving company (such mergers, the MPMO Mergers) and (c) through two consecutive mergers constituting part of the same overall transaction, SNR Merger Company will merge
+with and into SNR Holdco, with SNR Holdco being the surviving company, and immediately thereafter SNR Holdco will merge with and into SNR Merger LLC, with SNR Merger LLC being the surviving company (such mergers, the SNR Mergers,
+and together with the MPMO Mergers and the other transactions contemplated by the Merger Agreement, the Business Combination). As a result of the Business Combination, each of MPMO and SNR will be an indirect wholly-owned
+subsidiary of Parent.  The Merger Agreement and the Business Combination were unanimously approved by the board of directors of Parent (the
+Parent Board) on July 14, 2020.  The Merger Agreement 
+Consideration  Subject to the terms and conditions of the
+Merger Agreement, the consideration to be paid in respect of each share of common stock of MPMO HoldCo issued and outstanding immediately prior to the effective time of the first of the MPMO Mergers (the number of such issued and outstanding shares,
+the MPMO HoldCo Common Stock Amount), shall be:   
+
+
+ 
+
+ 
+ (a) a number of shares of Class A common shares of Parent, par value $0.0001 per share (Parent
+Class A Stock) equal to:   
+
+
+ 
+
+ 
+ (i) the number of shares of Parent Class A Stock equal to (A) $719,415,430.84, divided by (B)
+$10 (the MPMO Closing Number of Securities), divided by   
+
+
+ 
+
+ 
+ (ii) the sum of (x) the MPMO HoldCo Common Stock Amount plus (y) the MPMO HoldCo Preferred
+Stock Amount; and   
+
+
+ 
+
+ 
+ (b) the contingent right to receive a number of Parent Class A Stock that may be issued pursuant to an
+earnout, as described below and in the Merger Agreement (such shares, the Earnout Shares), following the consummation of the Business Combination. 
+   1 
+
+
+
+
+
+
+
+
+
+ Subject to the terms and conditions of the Merger Agreement, the consideration to be paid in respect of each
+share of preferred stock of MPMO HoldCo issued and outstanding immediately prior to the effective time of the first of the MPMO Mergers (the number of such issued and outstanding shares, the MPMO HoldCo Preferred Stock Amount),
+shall be:   
+
+
+ 
+
+ 
+ (a) a number of shares of Parent Class A Stock equal to: 
+ 
+
+
+ 
+
+ 
+ (i) the MPMO Closing Number of Securities, divided by 
+ 
+
+
+ 
+
+ 
+ (ii) the sum of (x) the MPMO HoldCo Common Stock Amount, plus (y) the MPMO HoldCo Preferred
+Stock Amount; and   
+
+
+ 
+
+ 
+ (b) the contingent right to receive a number of Earnout Shares following the consummation of the Business
+Combination.  Subject to the terms and conditions of the Merger Agreement, the consideration to be paid in respect of each of the common
+units issued by SNR HoldCo issued and outstanding immediately prior to the effective time of the first of the SNR Mergers (the number of such issued and outstanding units, the SNR HoldCo Common Unit Amount), shall be: 
+ 
+
+
+ 
+
+ 
+ (a) a number of shares of Parent Class A Stock equal to: 
+ 
+
+
+ 
+
+ 
+ (i) the number of Shares of Parent Class A Stock equal to: (x) $200,000,000, divided by (y) $10,
+divided by   
+
+
+ 
+
+ 
+ (ii) the SNR HoldCo Common Unit Amount; and 
+ 
+
+
+ 
+
+ 
+ (b) the contingent right to receive a number of Earnout Shares following the consummation of the Business
+Combination.  Pursuant to the contingent rights set forth above, the Earnout Shares shall be payable to each holder in the amounts set
+forth below if the price targets set forth below are achieved any time during the ten (10) years following the closing of the Business Combination (the Closing): 
+ 
+
+
+ 
+
+ 
+ the VWAP of Parent Class A Stock is greater than or equal to $18.00 for any twenty (20) trading days
+within any thirty- (30-) trading day period, a number of shares of Parent Class A Stock equal to (A) the percentage allocation of the closing number of Parent Class A Stock issued to such
+holder multiplied by (B) 6,430,000; and   
+
+
+ 
+
+ 
+ the VWAP of Parent Class A Stock is greater than or equal to $20.00 for any twenty (20) trading days
+within any thirty- (30-) trading day period, a number of shares of Parent Class A Stock equal to (A) the percentage allocation of the closing number of Parent Class A Stock issued to such holder
+multiplied by (B) 6,430,000.  In the event that there is an agreement with respect to the sale of Parent entered into after the
+Closing and prior to the date that is ten (10) years following the closing date of the Business Combination, any Earnout Shares that have not been issued prior to the closing of such sale shall be issued by Parent on the day prior to such sale.
+ Representations, Warranties and Covenants  Each of
+Parent, the Merger Subs and the Companies have made representations, warranties and covenants that are customary for a transaction of this nature. The representations and warranties contained in the Merger Agreement terminate and are of no further
+force or effect as of the consummation of the Business Combination.  The Merger Agreement contains additional covenants of the parties, including, among
+others, covenants providing for (a) the parties to conduct their respective businesses in the ordinary course through the consummation of the Business Combination, (b) Parent and the Companies to cease discussions regarding alternative
+transactions, (c) Parent to prepare (and file with the Securities and Exchange Commission (the SEC)) a registration statement on Form S-4 (the
+S-4 Registration Statement / Proxy Statement) for the purpose of registering under the Securities Act the shares 
+   2 
+
+
+
+
+
+
+
+
+
+ 
+of Parent Class A Stock to be issued in connection with the consummation of the Business Combination and promptly distributed to MPMOs equityholders and SNRs equityholders in
+connection with the Business Combination (which S-4 Registration Statement / Proxy Statement will constitute a proxy statement/prospectus for the purposes of soliciting proxies from Parents stockholders
+to vote in favor of adoption and approval of the Merger Agreement and certain other matters at a special meeting called therefor, (d) the protection of, and access to, confidential information of the parties, (e) the parties providing
+required notice under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the HSR Act), and (f) the parties providing notice and any related approvals (if required) to the relevant government agencies
+concerning nuclear licenses (the Nuclear Licenses).  Governance 
+In connection with the consummation of the transactions contemplated by the Merger Agreement, Parent will amend and restate its Charter such that Parent will
+have a three-tier board that will initially consist of seven (7) directors. The board shall be divided into three classes, as nearly equal in number as possible and designated Class I, Class II and Class III. The term of the
+initial Class I Directors shall expire at the first annual meeting of the stockholders of Parent following the Closing; the term of the initial Class II Directors shall expire at the second annual meeting of the stockholders of the
+Corporation following the Closing; and the term of the initial Class III Directors shall expire at the third annual meeting of the stockholders of the Corporation following the Closing. 
+Conditions to Consummation of the Business Combination 
+The consummation of the transactions contemplated by the Merger Agreement is subject to customary closing conditions for special purpose acquisition companies,
+including, among others: (a) approval by Parents stockholders and the Companies equityholders, (b) Parent having at least $5,000,001 of net tangible assets as of the effective time of the consummation of the business
+combination, (c) the expiration or termination of the waiting period under the HSR Act, (d) notice shall have been provided to the relevant government agencies concerning the Nuclear Licenses and any related approvals (if any) shall have
+been received, (e) the listing of the shares of Parent Class A Stock to be issued in connection with the Closing of the transactions contemplated by the Merger Agreement on the New York Stock Exchange (NYSE) and the
+effectiveness of the S-4 Registration Statement / Proxy Statement, (f) Parent having at least $150,000,000 in available cash immediately prior to the effective time of the first of both of the MPMO
+Mergers and SNR Mergers (after taking into account (i) payments required to satisfy Parents stockholder redemptions and (ii) the net proceeds from the Subscription Agreements (as described below)), (g) the consummation of
+(i) the Pre-Closing Reorganization and (ii) the transactions contemplated by the Parent Sponsor Letter Agreement (as defined below) and (h) the delivery by SNR and MPMO to Parent of (i) a
+title opinion in respect of certain mineral rights and (ii) a survey of certain real property.  Termination 
+The Merger Agreement may be terminated under certain customary and limited circumstances prior to the consummation of the Business Combination, including
+(a) by mutual written consent of the parties, (b) by either Parent or the Companies if (i) the consummation of the Business Combination has not occurred on or prior to March 31, 2021 (the Outside Date), (ii) a
+final and nonappealable order has been issued or governmental action permanently restrains, enjoins or otherwise prohibits the Business Combination or (iii) Parents stockholder approval is not obtained, (c) by the Companies upon a
+breach by Parent or the Merger Subs if such breach gives rise to a failure of a closing condition and cannot or has not been cured within the earlier of 30 days notice by the Companies or the Outside Date, and (d) by Parent (i) upon
+a breach by the Companies if such breach gives rise to a failure of a closing condition and cannot or has not been cured within the earlier of 30 days notice by Parent or the Outside Date, (ii) if a majority of the MPMO equityholders do
+not enter into the MPMO Support Agreement (as described below) within 24 hours of the date of the Merger Agreement, (ii) if a majority of the SNR equityholders do not enter into the SNR Support Agreement (as described below) within 24 hours of
+the date of the Merger Agreement or (iii) if either of the Companies respective equityholder approvals are not obtained within three business days of the S-4 Registration Statement / Proxy Statement being
+declared effective by the SEC.  A copy of the Merger Agreement is filed with this Current Report on Form 8-K (this
+Current Report) as Exhibit 2.1 and is incorporated herein by reference, and the foregoing description of the Merger Agreement is qualified in its entirety by reference thereto. The Merger Agreement contains representations,
+warranties and covenants that the respective parties made to each other as of the date of the Merger Agreement or other specific dates. The assertions embodied in those representations, warranties and covenants were made for purposes of the contract
+among the 
+   3 
+
+
+
+
+
+
+
+
+
+ 
+respective parties and are subject to important qualifications and limitations agreed to by the parties in connection with negotiating such agreement. Investors and security holders are not
+third-party beneficiaries under the Merger Agreement and should not rely on the representations, warranties or covenants, or any descriptions thereof, as characterizations of the actual state of facts or condition of any party to the Merger
+Agreement. The representations, warranties and covenants in the Merger Agreement are also modified in important part by the underlying disclosure schedules which are not filed publicly and which are subject to a contractual standard of materiality
+different from that generally applicable to stockholders and were used for the purpose of allocating risk among the parties rather than establishing matters as facts. We do not believe that these schedules contain information that is material to an
+investment decision. Before making any voting or investment decisions, stockholders are encouraged to read the S-4 Registration Statement / Proxy Statement and any other relevant documents carefully and in
+their entirety when they become available because they will contain important information about the proposed business combination.  The Subscription
+Agreements, Support Agreements, Exchange Agreement, Parent Sponsor Letter Agreement and Amended and Restated Registration Rights Agreement 
+Subscription Agreements  Concurrently with the execution
+of the Merger Agreement, Parent entered into subscription agreements (the Subscription Agreements) with certain investors (the PIPE Investors), pursuant to which the PIPE Investors have committed to purchase an
+aggregate amount of at least $200,000,000 in shares of Parent Class A Stock at a purchase price of $10.00 per share, substantially concurrent with, and contingent upon, the consummation of the Business Combination (the PIPE).
+ A copy of the form of Subscription Agreement is filed with this Current Report on Form 8-K as Exhibit 10.1 and is
+incorporated herein by reference, and the foregoing description of the Subscription Agreement is qualified in its entirety by reference thereto. 
+Support Agreements  The equityholders of MPMO holding at
+least a majority of the common units of MPMO issued and outstanding as of the date of the Merger Agreement have executed and delivered to Parent a support agreement (the MPMO Support Agreement) and (b) the equityholders of
+SNR holding at least a majority of the common units of SNR issued and outstanding as of the date of the Merger Agreement have executed and delivered to Parent a support agreement (the SNR Support Agreement, and together with the
+MPMO Support Agreement, the Support Agreements), pursuant to which, among other things, such equityholders have agreed to support the Business Combination and the other transactions contemplated by the Merger Agreement, subject to
+certain customary conditions.  Copies of the Support Agreements are filed with this Current Report on Form 8-K as
+Exhibits 10.2 and 10.3 and are incorporated herein by reference, and the foregoing description of the Support Agreements are qualified in its entirety by reference thereto. 
+Parent Sponsor Warrant Exchange Agreement  Concurrently
+with the execution the Merger Agreement, Parent and Fortress Acquisition Sponsor LLC (Sponsor) entered into an exchange agreement (the Parent Sponsor Warrant Exchange Agreement), pursuant to which Sponsor agreed
+to exchange all 5,933,333 of its warrants to purchase one share of Parent Class A Stock (the Private Placement Warrants) for an aggregate of 890,000 shares of Class F common stock of Parent (Parent
+Class F Stock), subject to and immediately prior to the consummation of the Business Combination.  A copy of the Parent
+Sponsor Warrant Exchange Agreement is filed with this Current Report on Form 8-K as Exhibit 10.4 and is incorporated herein by reference, and the foregoing description of the Parent Sponsor Warrant Exchange
+Agreement is qualified in its entirety by reference thereto. 
+   4 
+
+
+
+
+
+
+
+
+
+ Parent Sponsor Letter Agreement 
+Concurrently with the execution of the Merger Agreement, the holders of Parent Class F Stock (the Class F Holders)
+have entered into an amended and restated letter agreement (the Parent Sponsor Letter Agreement), pursuant to which the Class F Holders agreed to (a) vote all of their Parent Class F Stock in favor of the Business
+Combination and certain other matters, (b) certain restrictions on their Parent Class F Stock (other than any Parent Class F Stock received in exchange for Private Placement Warrants), in each case upon the terms and subject to the
+conditions set forth therein, and (c) subject to the satisfaction of certain conditions, immediately prior to the consummation of the Business Combination, if the (1)(A) amount of cash available in Parents trust account (the
+Trust Account), less (ii) any amounts required to satisfy the Parent stockholder redemptions, plus (2) the amount of the PIPE (the PIPE Investment Amount), is less than $495 million,
+then each Class F Holder shall surrender to Parent a number of Parent Class F Stock equal to such Class F Holders pro rata share of the product of (x) 8,625,000 and (y) a fraction, the numerator of which is (I)
+$495 million, minus (II)(A) the cash available in the Trust Account after deducting the amount required to satisfy redemptions, plus (B) the PIPE Investment Amount, and the denominator of which is $495 million (the
+Surrendered Shares). The Class F Holders agree that, as of the consummation of the Business Combination, all of the shares of Parent Class A Common Stock issued or issuable upon the exercise or conversion of the Founder
+Shares following Sponsors surrender of the Surrendered Shares (the Vesting Shares) shall be unvested and shall be subject to certain vesting and forfeiture provisions, as follows: (aa) 50% of the Vesting Shares beneficially
+owned by Sponsor and each of the other parties thereto shall vest at such time as a $12.00 Stock Price Level is achieved on or before the date that is ten years after the Closing, (bb) 25% of the Vesting Shares beneficially owned by Sponsor and each
+of the parties thereto shall vest at such time as a $14.00 Stock Price Level is achieved on or before the date that is ten years after the Closing and (cc) 25% of the Vesting Shares beneficially owned by Class F Holders shall vest at such time
+as a $16.00 Stock Price Level is achieved on or before the date that is ten years after the Closing. As used in this Current Report on Form 8-K, the applicable Stock Price Level will be considered
+achieved only when the VWAP of Parent Class A Common Stock on the New York Stock Exchange equals or exceeds the applicable threshold for any 20 trading days during a 30 consecutive trading day period. 
+A copy of the Parent Sponsor Letter Agreement is filed with this Current Report on Form 8-K as Exhibit 10.5 and is
+incorporated herein by reference, and the foregoing description of the Letter Agreement is qualified in its entirety by reference thereto.   
+
+
+Item 3.02
+ Unregistered Sales of Equity Securities. 
+The disclosure set forth above under the heading Subscription Agreements in Item 1.01 of this Current Report is incorporated by reference into this
+Item 3.02. The shares of Parent Class A Stock to be issued in the PIPE in connection with the Closing will not be registered under the Securities Act of 1933, as amended (the Securities Act), in reliance on the exemption from
+registration provided by Section 4(a)(2) of the Securities Act and/or Regulation D promulgated thereunder.   
+
+
+Item 7.01
+ Regulation FD Disclosure. 
+On July 15, 2020, Parent and the Companies issued a joint press release announcing the execution of the Merger Agreement. The press release is attached
+hereto as Exhibit 99.1.  Attached as Exhibit 99.2 and incorporated by reference herein is an investor presentation dated July 15, 2020, that will be
+used by Parent with respect to the Business Combination.  The information in this Item 7.01, including the information presented in Exhibit 99.1 and
+Exhibit 99.2, is being furnished by Parent and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to liabilities under
+that section, and shall not be deemed to be incorporated by reference into the filings of Parent under the Securities Act or the Exchange Act, except as expressly set forth by specific reference in such filings. The submission of the information set
+forth in this Item 7.01 shall not be deemed an admission as to the materiality of any information in this Item 7.01, including the information presented in Exhibit 99.1 and Exhibit 99.2, that is provided solely in connection with Regulation FD. 
+Forward-Looking Statements  Certain statements
+included in this Current Report on Form 8-K that are not historical facts are forward-looking statements for purposes of the safe harbor provisions under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements
+may be identified by the use of the words such as  estimate, plan, project, forecast, intend, expect, anticipate, believe, seek,
+target, or similar expressions that predict or indicate future events 
+   5 
+
+
+
+
+
+
+
+
+
+ 
+or trends or that are not statements of historical matters. These forward-looking statements include, but are not limited to, statements regarding estimates and forecasts of other financial and
+performance metrics and projections of market opportunity. These statements are based on various assumptions, whether or not identified in this Current Report on Form 8-K, and on the current expectations of the Companies and Parents
+management and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a
+prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and circumstances are beyond the control of the Companies
+and Parents. These forward-looking statements are subject to a number of risks and uncertainties, including changes in domestic and foreign business, market, financial, political and legal conditions; the inability of the parties to
+successfully or timely consummate the transaction; the risk that any required regulatory approvals are not obtained, are delayed or are subject to unanticipated conditions that could adversely affect the combined company or the expected benefits of
+the transaction; the risk that the approval of the shareholders of the Companies or stockholders of Parents is not obtained; the risk that any of the conditions to closing are not satisfied in the anticipated manner or on the anticipated
+timeline; failure to realize the anticipated benefits of the transaction; risks relating to the uncertainty of the projected financial information with respect to the Companies; risks related to the rollout of the Companies business
+strategy and the timing of expected business milestones; risks related to the Companies arrangements with Shenghe; the effects of competition on the Companies future business; risks related to political and macroeconomic uncertainty; the
+amount of redemption requests made by Parents public stockholders; the ability of Parents or the combined company to issue equity or equity-linked securities in connection with the transaction or in the future; the impact of the global COVID-19 pandemic on any of the foregoing risks; and those factors discussed in Parents final prospectus filed on May 1, 2020 under the heading Risk Factors, and other documents of
+Parents filed, or to be filed, with the SEC. If any of these risks materialize or our assumptions prove incorrect, actual results could differ materially from the results implied by these forward-looking statements. There may be additional
+risks that neither Parents nor the Companies presently know or that Parents and the Companies currently believe are immaterial that could also cause actual results to differ from those contained in the forward-looking
+statements. In addition, forward-looking statements reflect Parents and the Companies expectations, plans or forecasts of future events and views as of the date of this Current Report on Form 8-K. Parents and the Companies
+anticipate that subsequent events and developments will cause Parents and the Companies assessments to change. However, while Parents and the Companies may elect to update these forward-looking statements at some point in the
+future, Parents and the Companies specifically disclaim any obligation to do so, unless required by applicable law. These forward-looking statements should not be relied upon as representing Parents and the Companies
+assessments as of any date subsequent to the date of this press release. Accordingly, undue reliance should not be placed upon the forward-looking statements. 
+Disclaimer  This Current Report shall neither
+constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which the offer, solicitation, or sale would be unlawful prior to the registration or qualification
+under the securities laws of any such jurisdiction. This Current Report relates to a proposed business combination between Parents and the Companies. 
+Additional Information About the Proposed Business Combination and Where To Find It 
+The proposed business combination will be submitted to stockholders of Parents for their consideration and approval at a special meeting of stockholders.
+Parents intends to file a registration statement on Form S-4 (the Registration Statement) with the SEC, which will include preliminary and definitive proxy statements to be distributed to
+holders of Parents common stock in connection with Parents solicitation for proxies for the vote by Parents stockholders in connection with the proposed business combination and other matters as described in the Registration
+Statement, as well as the prospectus relating to the offer of the securities to be issued to the Companies shareholders in connection with the completion of the business combination. After the Registration Statement has been filed and declared
+effective, Parents will mail a definitive proxy statement and other relevant documents to its stockholders as of the record date established for voting on the proposed business combination. Parents stockholders and other interested
+persons are advised to read, once available, the preliminary proxy statement and any amendments thereto and, once available, the definitive proxy statement / prospectus, in connection with Parents solicitation of proxies for its special
+meeting of stockholders to be held to approve, among other things, the proposed business combination, because these documents will contain important information about Parents, the Companies and the proposed business combination. 
+
+   6 
+
+
+
+
+
+
+
+
+
+ 
+Stockholders may also obtain a copy of the preliminary or definitive proxy statement / prospectus, once available, as well as other documents filed with the SEC regarding the proposed business
+combination and other documents filed with the SEC by Parents, without charge, at the SECs website located at www.sec.gov or by directing a request to 1345 Avenue of the Americas, 46th Floor, New York, New York 10105, Attention: R.
+Edward Albert III, President (ealbert@fortress.com), CC: Alexander Gillette (agillette@fortress.com).  This Current Report on Form 8-K does not constitute
+an offer to sell or the solicitation of an offer to buy any securities, or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to
+registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended.
+ INVESTMENT IN ANY SECURITIES DESCRIBED HEREIN HAS NOT BEEN APPROVED OR DISAPPROVED BY THE SEC OR ANY OTHER REGULATORY AUTHORITY NOR HAS ANY AUTHORITY
+PASSED UPON OR ENDORSED THE MERITS OF THE OFFERING OR THE ACCURACY OR ADEQUACY OF THE INFORMATION CONTAINED HEREIN. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE. 
+Participants in the Solicitation  Parents,
+the Companies and certain of their respective directors, executive officers and other members of management and employees may, under SEC rules, be deemed to be participants in the solicitations of proxies from Parents stockholders in
+connection with the proposed business combination. Information regarding the persons who may, under SEC rules, be deemed participants in the solicitation of Parents stockholders in connection with the proposed business combination will be set
+forth in Parents proxy statement/prospectus when it is filed with the SEC. You can find more information about Parents directors and executive officers in Parents final prospectus dated April 29, 2020 and filed with the SEC on
+May 1, 2020. Additional information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be included in Parents preliminary and definitive
+proxy statement/prospectus when it becomes available. Stockholders, potential investors and other interested persons should read the proxy statement/prospectus carefully when it becomes available before making any voting or investment decisions.
+When available, these documents can be obtained free of charge from the sources indicated above.   
+
+
+Item 9.01
+ Financial Statements and Exhibits. 
+ 
+
+
+(d)
+ List of Exhibits. 
+The Exhibit Index is incorporated by reference herein. 
+   7 
+
+
+
+
+
+
+
+
+
+ Exhibit Index 
+ 
+
+
+
+
+
+
+
+
+
+
+Exhibit No.
+  
+Description
+
+
+
+
+
+
+  2.1*
+  
+Agreement and Plan of Merger, dated as of July 
+15, 2020, by and among Fortress Value Acquisition Corp., MPMO Merger Corp., SNR Merger Company, MPMO Merger LLC, SNR Merger LLC, MP Mine Operations LLC, and Secure Natural Resources LLC 
+
+
+
+
+10.1
+  
+Form of Subscription Agreement 
+
+
+
+
+10.2
+  
+MPMO Support Agreement, dated as of July 15, 2020, by and among Fortress Value Acquisition Corp. and certain equityholders of MPMO 
+
+
+
+
+10.3
+  
+SNR Support Agreement, dated as of July 15, 2020, by and among Fortress Value Acquisition Corp. and certain equityholders of SNR 
+
+
+
+
+10.4
+  
+Parent Sponsor Warrant Exchange Agreement, dated as of July 15, 2020, by and between Fortress Value Acquisition Corp. and Fortress Acquisition Sponsor LLC 
+
+
+
+
+10.5
+  
+Parent Sponsor Letter Agreement, dated as of July 15, 2020, by and among Fortress Value Acquisition Corp., Fortress Acquisition Sponsor LLC and the other parties thereto 
+
+
+
+
+99.1
+  
+Joint Press Release, dated as of July 15, 2020 
+
+
+
+
+99.2
+  
+Investor Presentation of MPMO, SNR and Fortress Value Acquisition Corp., dated July 15, 2020 
+  
+
+
+*
+ Schedules omitted pursuant to Item 601(b)(2) of Regulation S-K.
+Fortress Value Acquisition Corp. agrees to furnish supplementally a copy of any omitted schedule to the Securities and Exchange Commission upon request. 
+   8 
+
+
+
+
+
+
+
+
+
+ SIGNATURES 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Fortress Value Acquisition Corp.
+
+
+
+
+
+
+Date: July 15, 2020
+ 
+
+ 
+By:
+ 
+/s/ Andrew A. McKnight
+
+
+ 
+
+ 
+Name: Andrew A. McKnight
+
+
+ 
+
+ 
+Title: Chief Executive Officer
+
+   9 
+
+
+
+
+

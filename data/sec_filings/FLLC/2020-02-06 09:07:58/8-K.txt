@@ -1,0 +1,805 @@
+
+8-K
+1
+f8k013120_fellazoinc.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): January 31, 2020
+
+ 
+
+FELLAZO
+INC.
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    Cayman
+    Islands
+     
+    001-39002
+     
+    N/A
+
+    (State or other jurisdiction
+    of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (IRS Employer
+    Identification No.)
+
+ 
+
+Jinshan
+Building East, Unit 1903
+
+568
+Jinshan West Road
+
+Yong
+Kang City, Zhejiang Province
+
+People’s
+Republic of China 321300
+
+(Address
+of principal executive offices, including zip code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (86) 13012855255
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written communications pursuant
+    to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ☐
+    Soliciting material pursuant to Rule 14a-12
+    under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ☐
+    Pre-commencement communications pursuant to
+    Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ☐
+    Pre-commencement communications pursuant to
+    Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+        of
+        each class
+     
+    Trading
+        Symbol(s)
+     
+    Name
+        of each exchange
+        on
+        which registered
+
+     Units,
+    each consisting of one Ordinary Share, one Right and one Warrant
+     
+    FLLCU
+     
+     The
+    NASDAQ Stock Market LLC
+
+    Ordinary
+    Shares, par value $0.0001 per share
+     
+    FLLC
+     
+    The
+    NASDAQ Stock Market LLC
+
+    Rights,
+    exchangeable into one-tenth of one Ordinary Share
+     
+    FLLCR
+     
+    The
+    NASDAQ Stock Market LLC
+
+    Warrants,
+    each exercisable for one-half of one Ordinary Share, each whole Ordinary Share exercisable at $11.50 per whole share
+     
+    FLLCW
+     
+    The
+    NASDAQ Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company  þ
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+    Item 1.01
+    Entry into a Material
+    Definitive Agreement
+
+     
+     
+
+    Item 5.02
+    Departure of Directors or Certain Officers;
+    Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+     
+     
+
+As
+previously disclosed in a Current Report on Form 8-K filed on December 18, 2019 with the Securities and Exchange Commission (the
+“SEC”),  the Audit Committee (the “Audit Committee”)  of the Board of Directors (the “Board”) of
+Fellazo Inc. (the “Company”) had concluded that the occurrence of certain unauthorized related party transactions
+reflected inadequate and ineffective internal controls, resulting from a lack of proper instruction to the Company’s management
+and financial personnel or adequate guidelines regarding transactions between the Company and its sponsor, and between the Company
+and its management. As part of the Company’s efforts to remediate the aforementioned weaknesses in internal controls and
+prevent future violations, the Board approved the following changes in the Company’s leadership and sponsorship.
+
+ 
+
+Sponsor
+Transfer Agreement
+
+ 
+
+On
+January 31, 2020, the Company entered into an agreement (the “Sponsor Transfer Agreement”) with Swipy Ltd, TKK Capital
+Holdings (“TKK Capital”), Nicholas Ting Lun Wong, Jonathan Peng Fai Chong, Anderson Heng Hee Toh, Tiong Ming Tan,
+Chin Yong Tan, Lijun Yu and Ping Zhang (the “Parties”).
+
+ 
+
+The
+Sponsor Transfer Agreement provides for certain changes to the management, the Board, and the sponsorship of the Company. Among
+other things, and as described in further detail below, upon the satisfaction of certain conditions, the Company’s Board
+and management shall be replaced with a new team of individuals, the Company’s sponsor, Swipy Ltd, shall become 80% owned
+by TKK Capital, and the Company’s officers and directors shall receive certain compensation for their services rendered
+to the Company.
+
+ 
+
+Pursuant
+to the Sponsor Transfer Agreement, Nicholas Ting Lun Wong agreed to fund the Company with an aggregate of up to $1,270,000 to
+be applied toward the Company’s expenses to be incurred in connection with the transactions contemplated by the Sponsor
+Transfer Agreement and the Company’s business combination activities, including in connection with any extensions of time
+in which to consummate a business combination. Such Funds would be remitted in three installments as follows: (i) $70,000 to be
+paid upon execution of the Sponsor Transfer Agreement; (ii) $600,000 to be placed into an escrow account within 7 calendar days
+of a determination of the Nasdaq Hearings Panel (the “Panel”) to provide the Company with additional time to regain
+compliance with applicable Nasdaq Rules (the “First Deposit”), and (iii) another $600,000 to be placed into an escrow
+account within 14 calendar days thereafter.
+
+ 
+
+Changes
+to be effected within 3 business days following the funding of the First Deposit into escrow include, but are not limited to:
+(i) the Company will change its address and shall initiate action to change its name to TKK-Fellazo Acquisition Corp., or some
+other name selected by TKK Capital; of its name and address; (ii) the Company will enter into a new administrative services agreement
+with Texas Kang Kai Capital Management (Hong Kong) Limited which will provide certain administrative services to the Company for
+$10,000 a month, and in connection with the execution of such agreement, the Company shall terminate its existing administrative
+services agreement dated July 24, 2019 by and between the Company and Swipy Ltd; (iii) certain changes (the “Leadership
+Changes”) described in –Changes to the Management and Board below; (iii) Jonathan Peng Fai Chong, Anderson
+Heng Hee Toh will transfer all their equity interest in Swipy Ltd to TKK Capital; (iv) Nicholas Ting Lun Wong will retain a 20%
+equity interest in Swipy Ltd and transfer the balance of his 33% equity interest in Swipy Ltd to TKK Capital; and (v) Sing Wang
+will transfer 70,000 shares of TKK Symphony Acquisition Corporation to Nicholas Ting Lun Wong. The Sponsor Transfer Agreement
+will be terminated if the Panel determines to delist the Company’s securities from Nasdaq.
+
+ 
+
+Changes
+to the Management and Board
+
+ 
+
+Effective
+February 5, 2020, Jonathan Peng Fai Chong, a director of the Company, was vacated by the Board due to his personal health issues.
+As previously reported in an Form 8-K filed with the SEC on January 8, 2020, Mr. Chong had resigned as the Company’s Chief
+Financial Officer as of January 6, 2020.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Additionally,
+notwithstanding the conditions to the Company’s obligations to effect the Leadership Changes set forth in the Sponsor Transfer
+Agreement, effective February 5, 2020, the Company’s executive officers of the Company resigned from their respective offices
+and directorships as set forth below.
+
+ 
+
+
+
+    Name
+     
+    Title
+
+    Anderson
+    Heng Hee Toh
+     
+    Chief
+    Operating Officer and Director
+
+    Nicholas
+    Ting Lun Wong
+     
+    Chief
+    Executive Officer and Director
+
+ 
+
+Immediately
+following the vacation of the Mr. Chong and the resignations of Messrs. Toh and Wong, the Board appointed the following individuals
+to fill the vacancies resulting therefrom:
+
+ 
+
+
+
+    Name
+     
+    Title
+
+    Sing
+    Wang
+     
+    Non-Executive
+    Chairman of the Board
+
+    Stephen
+    Markscheid
+     
+    Interim
+    Chief Executive Officer, Chief Financial Officer and Director
+
+    Adrian
+    Leung
+     
+    Chief
+    Business Development Officer and Director
+
+ 
+
+Additionally,
+notwithstanding the conditions to the Company’s obligations to effect the Leadership Changes set forth in the Sponsor Transfer
+Agreement, the following members of the Board agreed to resign from their respective positions as set forth below, which resignations
+shall not take effect until 10 days following the Company’s mailing of an Information Statement on Schedule 14F-1 (“Schedule
+14F”) filed with the SEC.
+
+ 
+
+
+
+    Name
+     
+    Title
+
+    Tiong
+    Ming Tan
+     
+    Independent
+    Director (Chair of the Audit Committee and the Compensation Committee)
+
+    Chin
+    Yong Tan
+     
+    Independent
+    Director (member of the Audit Committee and member of the Compensation Committee)
+
+    Lijun
+    Yu
+     
+    Independent
+    Director
+
+    Ping
+    Zhang
+     
+    Independent
+    Director (member of the Audit Committee and member of the Compensation Committee)
+
+ 
+
+In
+connection with the foregoing contemplated resignations, the Board approved the appointment of the following individuals to fill
+the vacancies resulting from such resignations, effective 10 days following the mailing of Schedule 14F filed with the SEC.
+
+ 
+
+
+
+    Name
+     
+    Title
+
+    Ronald
+    Issen
+     
+    Independent
+    Director 
+
+    Thomas
+    Ren
+     
+    Independent
+    Director 
+
+    Ian
+    Lee
+     
+    Independent
+    Director
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Mr.
+Sing Wang, aged 56, has been the Chief Executive Officer and Chairman of Board of TKK Symphony Acquisition Corporation since
+February 2018. Throughout the past 30 years, Mr. Wang has spearheaded nearly 70 private equity and venture capital transactions
+globally across a wide range of sectors, including consumer, technology, telecommunications, media, financial institutions, healthcare
+and natural resources. He has served as the Vice General Manager (non-executive) of CMIG Capital Company Limited, a financial
+investment platform of China Minsheng Investment Group, since May 2017 and the Chairman of TKK Capital, a private equity/wealth
+management company, since August 2015. In February 2018, Mr. Wang was appointed Director and Chief Executive Officer of CM Seven
+Star Acquisition Corporation (NASDAQ: CMSS), a special purpose acquisition company that completed its initial public offering
+on October 25, 2017 and has entered into a share exchange agreement in November 2018, providing for the acquisition of Kaixin
+Auto Group, a premium used auto dealership group in China, from Renren Inc. (NYSE: RENN). From February 2016 to May 2017, Mr.
+Wang was the Chief Executive Officer and Executive Director of China Minsheng Financial Holding Corporation Limited (HKEx: 245),
+an overseas investment platform of China Minsheng Investment Group. From September 2015 to December 2017, Mr. Wang was a Senior
+Advisor to TPG China, Limited (Growth Platform), which specializes in growth equity and middle-market buyout opportunities. From
+2016 to November 2017, Mr. Wang was also the Executive Chairman of Evolution Media China, a newly-established media and internet
+investment platform closely associated with TPG Growth and Creative Artists Agency. From May 2006 to August 2015, Mr. Wang was
+a Partner at TPG and served as a Co-Chairman of TPG Greater China and the Head of TPG Growth North Asia. Prior to joining TPG,
+from mid-2000 to early 2006, Mr. Wang was the Chief Executive Officer and Executive Director of TOM Group Limited (HKEx: 2383),
+a Chinese-language media and internet conglomerate in Greater China. Previously, Mr. Wang was with Goldman Sachs from July 1993
+to May 2000, holding various positions, including as the Head of China High Technology in Hong Kong. He was a manager at HSBC
+Private Equity from November 1992 to June 1993, and a strategic consultant with McKinsey & Co. in Chicago from November 1989
+to September 1992.
+
+ 
+
+Mr.
+Stephen Markscheid, aged 65, has been serving as an independent director of TKK Symphony Acquisition Corporation since August
+2018. Mr. Markscheid has been the chairman of Still Waters Green Technology, a UK based renewable energy developer since December
+2019. He has also been a venture partner at DealGlobe, a Shanghai based boutique investment bank, since February 2017. Mr. Markscheid
+served multiple roles with NanoGraf Corporation, a Chicago-based developer of advanced materials, and is currently an advisor
+to the board of the company. He currently also serves as an independent director of ZZ Capital International (HKEx: 08295), Ener-Core
+(OTCQB: ENCR), Fanhua Inc., (formerly CNinsure Inc.) (NASDAQ: FANH), and Jinko Solar Inc. (NYSE: JKS), and Hexindai (NASDAQ: HX).
+Since November 2007, Mr. Markscheid has served as CEO of Synergenz Inc, the US subsidiary of a molecular diagnostic company. Prior
+to that, from June 2006 to September 2007, he was CEO of Huamei Capital, a boutique investment bank in Chicago. From January 1998
+to March 2006, he served as a director and later as Senior Vice President at different group companies of General Electric, where
+he led GE Capital’s business development activities in China and Asia Pacific, primarily acquisitions and direct investments.
+Prior to General Electric, from February 1994 to November 1997, Mr. Markscheid worked with the Boston Consulting Group throughout
+Asia. Prior to that, Mr. Markscheid was a commercial banker for 10 years in London, Chicago, New York, Hong Kong and Beijing with
+Chase Manhattan Bank and First National Bank of Chicago and has years of professional experience in the financial services industries.
+Mr. Markscheid holds a Master’s Degree in International Affairs from Johns Hopkins University, and an MBA from Columbia
+University, where he was class valedictorian and a Bachelor of Arts degree from Princeton University.
+
+ 
+
+Mr.
+Man Chak (Adrian) Leung, aged 40, is the general manager of China Seven Star Holdings Ltd since August 2019. Prior to that, Mr.
+Leung served as Co-Head of Risk and Portfolio Management at China Minsheng Financial Holding Corporation Limited (“CM Financial”)
+since 2018, a Hong Kong mainboard listed (Symbol: 0245.hk) financial holding platform where Mr. Leung joined CM Financial in December
+2016 from TPG Growth, a global mid-market private equity firm with over US$ 7 billion AUM. Prior to that, he was an analyst at
+Cathay Capital Group between 2001 to 2006. Mr. Leung holds a Bachelor of Business and Administration (Finance) from City University
+of Hong Kong.
+
+ 
+
+Mr.
+Ronald Issen, aged 57, has been the Chief Investment Officer of TKK Symphony Acquisition Corporation since February 2018.
+Mr. Issen is Founder and Managing Director of Issen & Company Limited since 2000, with over 20 years of financial experience
+in Asia, including Hong Kong, Singapore, Taiwan and Macau. From 2007 to 2013, Mr. Issen was a Senior Advisor with Apollo Global
+Management, LLC, and, from 2005 to 2007, was Senior Executive Vice President and a member of the Executive Management Committee
+of eSun Holdings Limited (HKEx: 571, part of Hong Kong’s Lai Sun Group), a Chinese-language media/entertainment and hospitality
+group. Prior to that, from 1989 to 1999, Mr. Issen was a senior banking executive with Banque Indosuez and its successor institutions
+(later acquired by Credit Agricole), having begun his career with Smith Barney, Harris Upham (later part of Salomon Brothers/Citigroup)
+and the Boston Consulting Group. Mr. Issen currently serves, among others, as a Board Director for Capella Hotel Group Pte Ltd,
+as Board Director for Cardiff City FC of the English Premier League and as Board Director of KV Kortrijk of the Belgian First
+Division A professional football league. He has served in the past on the boards of various subsidiary companies associated with
+Lippo Group, an Indonesian/Singaporean conglomerate, including Auric Pacific Group Limited (SGX: A23) (from 2015 to 2017), Food
+Junction Holdings Limited (SGX: 529) (from 2011 to 2013), and privately-held MIDAN City Development Co. Ltd. (from 2010 to 2011)
+in Korea. Separately, Mr. Issen was Deputy Chairman and Board Director of City e-Solutions Limited (HKEx: 557) from 2013 to 2016,
+and Director of CDL Hospitality Trusts (SGX: J85) from 2014 to 2016, an Asian hospitality REIT. Mr. Issen holds an MBA from the
+Stanford University Graduate School of Business where he was an EJ Gallo Foundation Fellow and a Bachelor of Arts from Williams
+College, cum laude with honors.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+Mr.
+Thomas Jintao Ren, aged 41, has served as the chief financial officer of Renren Inc. since September 2015. He has also served
+as the chief financial officer of Kaixin Auto since September 2015 and the chief financial officer of Oak Pacific Investment since
+September 2017. Prior to rejoining our company, Mr. Ren was the chief financial officer at Chukong Technologies. Mr. Ren was previously
+at Renren between 2005 and 2013, where he served as our senior finance director. Prior to that, Mr. Ren had worked at KPMG for
+five years. Mr. Ren holds a bachelor’s degree in economics from Renmin University of China. He is a certified public accountant
+in China and the United States, and a chartered professional accountant in Canada.
+
+ 
+
+Mr.
+Ian Lee, aged 50, has been the Chief Financial Officer of TKK Symphony Acquisition Corporation since February 2018 and a
+Director of its Board since August 15, 2018. Since January 2018, Mr. Lee has been serving as the Chief Financial Officer of TKK
+Capital. Mr. Lee was Chief Financial Officer and Operating Partner of Evolution Media China from May 2016 to January 2018. During
+his tenure at Evolution Media China, Mr. Lee worked closely with and reported directly to Mr. Wang, who served as Executive Chairman
+of Evolution Media China. From August 2014 to April 2016, Mr. Lee was Chief Financial Officer of TPG’s two RMB funds, Shanghai
+and Chongqing. From February 2013 to December 2013, he served as Chief Operating Officer of DMG (SZSE: 2143), a Chinese entertainment
+and communication company. From February 2012 to February 2013, Mr. Lee was a Consultant for 3R Group, an advertising and marketing
+company in China. From April 2005 to January 2012, Mr. Lee was with Omnicom Media Group, part of Omnicom Group (NYSE: OMC), a
+global advertising, marketing and corporate communications company, serving as Finance Director, Chief Financial Officer and President
+& Chief Operating Officer of China. From 1998 to 2004, Mr. Lee was with News Corp/21st Century Fox, where he spent seven years
+in the Sydney, Beijing, Shanghai and Hong Kong offices in various positions, including Vice President of STAR China, News Corp’s
+China Operation, and Finance Director of ChinaByte, a joint venture between People’s Daily and News Corp. Mr. Lee holds
+a Master of Management from University of Technology, Sydney, Australia and a Bachelor degree in Genetics from Sichuan University,
+China.
+
+ 
+
+None
+of the departing directors have resigned or (with respect to Messrs. Issen, Ren and Lee) have agreed to resign because of any
+disagreement with the Company on any matter relating to the Company’s operations, policies, or practices.
+
+ 
+
+There
+is no arrangement or understanding between the Messrs. Wang, Markscheid, Leung, Issen, Ren, Lee and any other person pursuant
+to which they have been selected as directors. There are no family relationships among directors, executive officers, or candidates
+nominated or chosen by the Company to become a director or executive officer of the Company. Other than as described herein, there
+are no transactions between the Company and any directors or officers that are subject to disclosure under Item 404(a) of Regulation
+S-K.
+
+ 
+
+The
+Company provided the departing directors with a copy of this Current Report on Form 8-K prior to its filing with the SEC and the
+opportunity to furnish the Company with a letter addressed to the Company stating whether they agree with the statements made
+by the Company in response to this Item 5.02 and if not, stating the respects in which they do not agree. Copies of such letters
+will be filed as exhibits to an amendment to this Form 8-K within two business days upon receipt.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+Director
+and Officer Compensation
+
+ 
+
+Except
+as provided below, none of Messrs. Wang, Markscheid, Leung, Issen, Ren, Lee will receive any cash compensation for services rendered
+in their respective positions as officers and/or directors to the Company.
+
+ 
+
+
+●promptly
+                                         following the First Deposit, but any event no later than the Closing Date (as such term
+                                         is defined in the Sponsor Transfer Agreement), Swipy Ltd shall transfer 15,000 ordinary
+                                         shares of the Company to each of Stephen Markscheid and Adrian Leung and 12,500 ordinary
+                                         shares of the Company to each of Sing Wang, Ronald Issen, Thomas Ren and Ian Lee; and
+                                         
+
+ 
+
+
+●in
+                                         the event that there is a liquidation of the Company’s trust account prior to a
+                                         business combination, the Company shall pay each of Stephen Markscheid and Adrian Leung
+                                         US$3,000 per month of service to the Company then-served by such individuals.
+
+ 
+
+Change
+in Committees of the Board
+
+ 
+
+In
+connection with the Leadership Changes, the Board resolved to reconstitute certain committees of the Board upon the effectiveness
+of Company’s mailing of the Schedule 14F. Namely, the Audit Committee of the Board will consist of Thomas Ren, Ronald
+Issen and Ian Lee, with Ian Lee serving as Chair; and the Compensation Committee of the Board will consist of Thomas Ren, Ronald
+Issen and Ian Lee, with Thomas Ren serving as Chair.
+
+ 
+
+Additionally,
+as part of the Company’s efforts to improve its internal controls, the Board determined to establish a new Nominating and
+Corporate Governance Committee and adopted a Nominating and Corporate Governance Committee Charter (the “NCG Committee Charter”),
+each of which shall become effective contemporaneously with the Leadership Change. The Nominating and Corporate Governance Committee
+will consist of Thomas Ren, Ronald Issen and Ian Lee, with Ronald Issen serving as Chair. 
+
+ 
+
+In
+accordance with the NCG Committee Charter, the Nominating and Corporate Governance Committee will be responsible for overseeing
+the selection of persons to be nominated to serve on the Board as well as the Company corporate governance practices. The Nominating
+and Corporate Governance Committee shall, in addition to evaluating and nominating candidates for election to the Board, focus
+on the following responsibilities:
+
+ 
+
+
+
+     
+    ●
+    Developing
+    and recommending to the Board a set of corporate governance principles and practices.
+
+ 
+
+
+
+     
+    ●
+    Reviewing
+    periodically the Company’s corporate governance principles and practices, the Company’s compliance with these
+    principles and practices, and recommend changes, as appropriate.
+
+ 
+
+
+
+     
+    ●
+    Overseeing
+    the evaluation of the Company’s management.
+
+ 
+
+
+
+     
+    ●
+    Overseeing,
+    reviewing and reporting to the Board regarding the Company’s succession planning for the Board, senior management and
+    other key employees.
+
+ 
+
+
+
+     
+    ●
+    Periodically
+    reviewing and reassessing the adequacy and scope of the NCG Committee Charter and the Nominating and Corporate Governance
+    Committee’s processes and procedures and recommending any proposed changes to the Board for approval.
+
+ 
+
+The
+foregoing descriptions of the Sponsor Transfer Agreement and the NCG Committee Charter does not purport to be complete and is
+qualified in its entirety by the provisions of the Sponsor Transfer Agreement and the NCG Committee Charter, which are attached
+hereto as Exhibits 10.1 and 99.1, respectively.
+
+ 
+
+Item 9.01.
+Financial Statements and Exhibits
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+
+
+
+
+    Exhibit No.
+     
+    Description
+
+     
+     
+     
+
+    10.1
+     
+    Sponsor Transfer
+    Agreement, dated January 31, 2020, by and among the Company, Swipy Ltd, TKK Capital Holdings, Nicholas Ting Lun Wong, Jonathan
+    Peng Fai Chong, Anderson Heng Hee Toh, Tiong Ming Tan, Chin Yong Tan, Lijun Yu and Ping Zhang.
+
+    99.1
+     
+    Form
+    of Nominating and Corporate Governance Committee Charter
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    FELLAZO INC.
+
+     
+     
+     
+
+    Date: February 6, 2020
+    By:
+    /s/
+    Stephen Markscheid
+
+     
+     
+    Name: Stephen Markscheid
+
+     
+     
+    Title:   Interim Chief Executive Officer,
+    Chief Financial Officer and Director
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+
+
+

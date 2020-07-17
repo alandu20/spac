@@ -1,0 +1,361 @@
+
+8-K
+1
+ea122848-8k_schultze.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d)
+of the
+Securities Exchange Act of 1934
+
+Date
+of report (Date of earliest event reported): June 9, 2020
+
+Schultze
+Special Purpose Acquisition Corp.
+(Exact name of registrant as specified in its charter)
+
+
+
+    Delaware
+(State or other jurisdiction
+of incorporation)
+    001-38760
+(Commission File Number)
+    83-0891815
+(I.R.S. Employer
+Identification No.)
+
+     
+     
+     
+
+    
+        800 Westchester Avenue, Suite 632
+        Rye Brook, NY
+        (Address of principal executive offices)
+    
+        10573
+        (Zip Code)
+
+     
+    
+        (914) 701-5260
+        (Registrant’s telephone number, including area code)
+        Not Applicable
+        (Former name or former address, if changed since last report)
+     
+
+     
+     
+     
+     
+     
+     
+
+ 
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+☐       Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐       Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐       Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐       Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of Common Stock and one Warrant
+     
+    SAMAU
+     
+    The Nasdaq Stock Market LLC
+
+    Common Stock, par value $0.0001 per share
+     
+    SAMA
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants, each warrant exercisable for one share of Common Stock at an exercise price of $11.50
+     
+    SAMAW
+     
+    The Nasdaq Stock Market LLC
+
+
+
+Indicate by check mark whether
+the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the
+Exchange Act. ☐
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+    
+     
+    
+
+ 
+
+
+
+
+Item 5.03.Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+
+
+The information
+included in Item 5.07 of this Current Report on Form 8-K is incorporated by reference in this Item 5.03 to the extent required
+herein.
+
+Item 5.07.	Submission of Matters to a Vote of Security
+Holders.
+
+On June 9, 2020,
+Schultze Special Purpose Acquisition Corp. (the “Company”) held a special meeting in lieu of the 2020 annual meeting
+of stockholders (the “Meeting”). At the Meeting, the Company’s stockholders approved the following items: (i)
+a proposal to amend (the “Charter Amendment”) the Company’s amended and restated certificate of incorporation
+to extend the date by which the Company has to consummate a business combination (the “Extension”) from June 13, 2020
+to September 30, 2020; (ii) a proposal to re-elect (the “Director Proposal”) two directors, Messrs. William G. LaPerch
+and William T. Allen, to the Company’s board of directors, with each such director to serve until the second annual meeting
+of stockholders following the Meeting or until his successor is elected and qualified; and (iii) a proposal to ratify the selection
+by the Company’s audit committee of Marcum LLP to serve as the Company’s independent registered public accounting firm
+for the fiscal year ending December 31, 2020 (the “Auditor Proposal”). The affirmative vote of at least sixty-five
+percent (65%) of the outstanding shares of the Company’s common stock (“Common Stock”) entitled to vote at the
+Meeting as of May 8, 2020 (the “Record Date”) was required to approve the Charter Amendment, a plurality of the shares
+of Common Stock present in person or by proxy and entitled to vote at the Meeting as of the Record Date and voting on the Director
+Proposal was required for the re-election of each of the directors in the Director Proposal and the affirmative vote of at least
+a majority of the shares of Common Stock present in person or by proxy and entitled to vote at the Meeting as of the Record Date
+and voting on the Auditor Proposal was required to approve the Auditor Proposal. 34,868 shares of Common Stock were redeemed in
+connection with the Extension.
+
+Set forth below
+are the final voting results for each of the proposals:
+
+Charter Amendment
+
+The Charter Amendment
+was approved. The voting results of the shares of Common Stock were as follows:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstain
+    
+
+     
+    12,795,401
+     
+     
+     
+    7,500
+     
+     
+     
+    16,150
+    
+
+Director Proposal
+
+The Director Proposal
+was approved, and each of Messrs. William G. LaPerch and William T. Allen were re-elected to the Company’s board of directors.
+The voting results of the shares of Common Stock were as follows:
+
+
+
+    Director
+     
+     
+    For
+     
+     
+    Withheld
+    
+
+     
+    William G. LaPerch
+     
+     
+     
+    12,074,469
+     
+     
+     
+    744,582
+    
+
+     
+    William T. Allen
+     
+     
+     
+    12,074,469
+     
+     
+     
+    744,582
+    
+
+Auditor Proposal
+
+The Auditor Proposal
+was approved. The voting results of the shares of Common Stock were as follows:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstain
+    
+
+     
+    12,819,051
+     
+     
+     
+    0
+     
+     
+     
+    0
+    
+
+Following the Meeting,
+the Company filed the Charter Amendment with the Secretary of State of the State of Delaware. A copy of the Charter Amendment is
+attached to this Current Report on Form 8-K as Exhibit 3.1 and incorporated herein by reference.
+
+
+Item 9.01.Financial Statements and Exhibits.
+
+
+
+(d)       Exhibits.
+
+
+
+    Exhibit No.
+     
+    Description
+
+    3.1
+     
+    Amendment to the Amended and Restated Certificate of Incorporation of Schultze Special Purpose Acquisition Corp., dated June 9, 2020
+
+ 
+
+
+    1
+     
+    
+
+
+
+SIGNATURE
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+
+     
+    SCHULTZE SPECIAL PURPOSE ACQUISITION CORP.
+
+     
+     
+
+     
+    By:     /s/ George J. Schultze                         
+
+     
+      	Name:	George J. Schultze
+  	Title:	Chief Executive Officer
+
+     
+     
+
+
+
+Date:	June 9, 2020
+
+
+    2
+    
+
+ 
+
+ 
+
+
+
+

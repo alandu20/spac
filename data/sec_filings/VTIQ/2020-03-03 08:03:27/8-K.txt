@@ -1,0 +1,1104 @@
+
+8-K
+1
+tm2011332d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the
+Securities Exchange Act of 1934
+
+ 
+
+Date of report (Date of earliest event
+reported): March 2, 2020
+
+ 
+
+VectoIQ
+Acquisition Corp.
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+    (State or other jurisdiction of incorporation) 
+    001-38495 
+    (Commission File Number) 
+    82-4151153
+    (I.R.S. Employer Identification Number)
+
+
+
+
+
+ 
+
+
+
+    1354 Flagler Drive Mamaroneck,
+    NY
+    (Address of principal executive offices) 
+    10543
+     (Zip code)
+
+
+
+
+
+ 
+
+(646) 475-8506 (Registrant’s telephone number, including area code)
+
+ 
+
+Not Applicable (Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of
+the following provisions:
+
+ 
+
+x          Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨           Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨           Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨           Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Common Stock, par value $0.0001 per share
+     
+    VTIQ
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants to purchase one share of Common Stock
+     
+    VTIQW
+     
+    The Nasdaq Stock Market LLC
+
+    Units, each consisting of one share of Common Stock and one Warrant
+     
+    VTIQU
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+     
+     
+    
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement
+
+ 
+
+General
+
+ 
+
+On March 2, 2020,
+VectoIQ Acquisition Corp., a Delaware corporation (“VectoIQ”), VCTIQ Merger Sub Corp., a Delaware corporation
+(“Merger Sub”), and Nikola Corporation, a Delaware corporation (the “Company”), entered into
+a business combination agreement (the “Business Combination Agreement”), pursuant to which VectoIQ and the Company
+will enter into a business combination. The terms of the Business Combination Agreement, which contains customary representations
+and warranties, covenants, closing conditions, termination fee provisions and other terms relating to the Merger (defined below)
+and the other transactions contemplated thereby, are summarized below. Capitalized terms used in this Current Report on Form 8-K
+but not otherwise defined herein have the meanings given to them in the Business Combination Agreement.
+
+ 
+
+The Business Combination Agreement
+
+ 
+
+Structure of the
+Transaction
+
+ 
+
+The transaction is
+structured as a reverse triangular merger, which includes the following:
+
+ 
+
+
+(a)Pursuant to the Business Combination Agreement, on the Closing Date, Merger Sub, a newly formed,
+wholly-owned direct subsidiary of VectoIQ, will be merged with and into the Company (the “Merger,” together
+with the other transactions related thereto, the “Proposed Transactions”), with the Company surviving the Merger
+as a wholly-owned direct subsidiary of VectoIQ (the “Surviving Corporation”);
+
+ 
+
+
+(b)Contemporaneously with the execution of the Business Combination Agreement, certain investors have
+entered into certain subscription agreements, pursuant to which such investors will purchase shares of VectoIQ Common Stock at
+a purchase price of $10.00 per share in a private placement to be consummated immediately prior to the consummation of the Proposed
+Transactions;
+
+ 
+
+
+(c)In addition, concurrently with the execution of the Business Combination Agreement, VectoIQ, the
+Company and the Key Company Stockholders entered into a Stockholder Support Agreement, pursuant to which such Key Company Stockholders
+agreed, among other things, to vote their shares of Company Common Stock and Company Preferred Stock in favor of the Business Combination
+Agreement and the Proposed Transactions; and
+
+ 
+
+
+(d)In connection with the Closing, VectoIQ, certain stockholders of the Company and certain stockholders
+of VectoIQ will also enter into a registration rights and lock-up agreement (the “Registration Rights and Lock-Up Agreement”).
+
+ 
+
+Conversion of Securities
+
+ 
+
+Immediately prior to
+the Effective Time, the Company will cause each share of Company Preferred Stock that is issued and outstanding immediately prior
+to the Effective Time to be automatically converted into a number of shares of Company Common Stock, and each converted share of
+Company Preferred Stock will no longer be outstanding and will cease to exist, such that each holder of Company Preferred Stock
+will thereafter cease to have any rights with respect to such securities.
+
+ 
+
+At the Effective Time,
+by virtue of the Merger and without any action on the part of VectoIQ, Merger Sub, the Company or the holders of any of the Company’s
+securities:
+
+ 
+
+
+(a)All shares of Company Common Stock issued and outstanding immediately prior to the Effective Time
+will be canceled and converted into the right to receive the number of shares of VectoIQ Common Stock equal to the Exchange Ratio
+(the “Per Share Merger Consideration”);
+
+ 
+
+
+
+
+     2 
+     
+    
+
+ 
+
+
+(b)All shares of Company Common Stock and Company Preferred Stock held in the treasury of the Company
+will be canceled without any conversion thereof and no payment or distribution will be made with respect thereto;
+
+ 
+
+
+(c)Each share of Merger Sub Common Stock issued and outstanding immediately prior to the Effective
+Time will be converted into and exchanged for one validly issued, fully paid and nonassessable share of common stock, par value
+$0.01 per share, of the Surviving Corporation; and
+
+ 
+
+
+(d)Each Company Option that is outstanding immediately prior to the Effective Time, whether vested
+or unvested, will be converted into an option to purchase a number of shares of VectoIQ Common Stock (such option, an “Exchanged
+Option”) equal to the product (rounded down to the nearest whole number) of (i) the number of shares of Company
+Common Stock subject to such Company Option immediately prior to the Effective Time and (ii) the Exchange Ratio, at an exercise
+price per share (rounded up to the nearest whole cent) equal to (A) the exercise price per share of such Company Option immediately
+prior to the Effective Time divided by (B) Exchange Ratio. Except as specifically provided in the Business Combination Agreement,
+following the Effective Time, each Exchanged Option will continue to be governed by the same terms and conditions (including vesting
+and exercisability terms) as were applicable to the corresponding former Company Option immediately prior to the Effective Time.
+
+ 
+
+Proxy Statement
+
+ 
+
+As promptly as practicable,
+after the date of the Business Combination Agreement and receipt of the PCAOB Audited Financials, (a) VectoIQ and the Company
+will prepare and file with the Securities and Exchange Commission (the “SEC”) a proxy statement/information
+statement (as amended or supplemented from time to time, the “Proxy/Information Statement”) to be sent to the
+Company Stockholders and the VectoIQ Stockholders relating to (i) with respect to the Company Stockholders, the action to
+be taken by certain stockholders of the Company pursuant to the Written Consent and (ii) with respect to the VectoIQ Stockholders,
+the VectoIQ Stockholders’ Meeting to be held to consider approval and adoption of (A) the Business Combination Agreement
+and the Merger, (B) the issuance of VectoIQ Common Stock as contemplated by the Business Combination Agreement, (C) the
+second amended and restated certificate of incorporation of VectoIQ and (D) any other proposals the parties deem necessary
+to effectuate the Merger (collectively, the “VectoIQ Proposals”) and (b) VectoIQ will prepare and file
+with the SEC a registration statement on Form S-4, in which the Proxy/Information Statement will be included as a prospectus,
+in connection with the registration under the Securities Act of 1933, as amended (the “Securities Act”), of
+shares of VectoIQ Common Stock to be issued to the Company Stockholders pursuant to the Business Combination Agreement.
+
+ 
+
+Stock Exchange Listing
+
+ 
+
+VectoIQ will use its
+reasonable best efforts to cause the shares of VectoIQ Common Stock to be issued in connection with the Proposed Transactions to
+be approved for listing on the Nasdaq Capital Market at Closing. Until the Closing, VectoIQ shall use its reasonable best efforts
+to keep the VectoIQ Common Stock and VectoIQ Warrants listed for trading on the Nasdaq Capital Market.
+
+ 
+
+Closing, Extension
+
+ 
+
+The Closing will occur
+as promptly as practicable, but in no event later than three Business Days following the satisfaction or waiver of all of the closing
+conditions. If, by May 1, 2020, VectoIQ and the Company determine that that the Closing is unlikely to be consummated on or
+before May 18, 2020 (the “First Expiration Date”), then VectoIQ shall take all actions necessary to obtain
+the approval of the VectoIQ Stockholders to extend the deadline for VectoIQ to consummate its initial business combination (the
+ “Extension”) to a date after the First Expiration Date but prior to August 31, 2020 (the “Outside
+Date”) in accordance with the VectoIQ Organizational Documents. VectoIQ shall use its reasonable best efforts to obtain
+stockholder approval for any and all required Extensions during the term of the Business Combination Agreement.
+
+ 
+
+
+     3 
+     
+    
+
+ 
+
+Representations,
+Warranties and Covenants
+
+ 
+
+The Business Combination
+Agreement contains customary representations, warranties and covenants of (a) the Company and (b) VectoIQ and Merger
+Sub relating to, among other things, their ability to enter into the Business Combination Agreement and their outstanding capitalization.
+The Company has agreed to customary “no shop” obligations subject to a customary “fiduciary out”.
+
+ 
+
+Conditions to Closing
+
+ 
+
+Mutual
+
+ 
+
+The obligations of
+the Company, VectoIQ and Merger Sub to consummate the Proposed Transactions, including the Merger, are subject to the satisfaction
+or waiver (where permissible) at or prior to the Closing of the following conditions:
+
+ 
+
+
+(a)The Written Consent has been delivered to VectoIQ;
+
+ 
+
+
+(b)The VectoIQ Proposals have been approved and adopted by the requisite affirmative vote of the VectoIQ
+Stockholders in accordance with the Proxy/Information Statement, the DGCL, the VectoIQ Organizational Documents and the rules and
+regulations of the Nasdaq Capital Market;
+
+ 
+
+
+(c)No Governmental Authority has enacted, issued, promulgated, enforced or entered any Law, rule,
+regulation, judgment, decree, executive order or award which is then in effect and has the effect of making the Proposed Transactions
+illegal or otherwise prohibiting consummation of the Proposed Transactions;
+
+ 
+
+
+(d)All required filings under the HSR Act have been completed and any applicable waiting period (and
+any extension thereof) applicable to the consummation of the Proposed Transactions under the HSR Act has expired or been terminated,
+and any pre-Closing approvals or clearances reasonably required thereunder have been obtained;
+
+ 
+
+
+(e)All consents, approvals and authorizations set forth in the Business Combination Agreement have
+been obtained from and made with all Governmental Authorities;
+
+ 
+
+
+(f)The Registration Statement has been declared effective under the Securities Act. No stop order
+suspending the effectiveness of the Registration Statement is in effect, and no proceedings for purposes of suspending the effectiveness
+of the Registration Statement have been initiated or be threatened by the SEC; and
+
+ 
+
+
+(g)The shares of VectoIQ Common Stock are listed on the Nasdaq Capital Market as of the Closing Date.
+
+ 
+
+VectoIQ and Merger
+Sub
+
+ 
+
+The obligations of
+VectoIQ and Merger Sub to consummate the Proposed Transactions are subject to the satisfaction or waiver (where permissible) at
+or prior to the Closing of the following additional conditions:
+
+ 
+
+
+(a)The representations and warranties of the Company contained in the sections titled (i) Organization
+and Qualification; Subsidiaries, (ii) Capitalization, (iii) Authority Relative to the Business Combination Agreement
+and (iv) Brokers in the Business Combination Agreement are each true and correct in all material respects as of the Closing
+Date as though made on the Closing Date (without giving effect to any limitation as to “materiality” or “Company
+Material Adverse Effect” or any similar limitation set forth therein), except to the extent that any such representation
+and warranty expressly speaks as of an earlier date, in which case such representation and warranty will be true and correct as
+of such earlier date. All other representations and warranties of the Company contained in the Business Combination Agreement will
+be true and correct (without giving any effect to any limitation as to “materiality” or “Company Material Adverse
+Effect” or any similar limitation set forth therein) in all respects as of the Closing Date, as though made on and as of
+the Closing Date, except (A) to the extent that any such representation and warranty expressly speaks as of an earlier date,
+in which case such representation and warranty will be true and correct as of such earlier date and (B) where the failure
+of such representations and warranties to be true and correct (whether as of the Closing Date or such earlier date), taken as a
+whole, does not result in a Company Material Adverse Effect;
+
+ 
+
+
+
+
+     4 
+     
+    
+
+ 
+
+
+(b)The Company has performed or complied in all material respects with all agreements and covenants
+required by the Business Combination Agreement to be performed or complied with by it on or prior to the Effective Time;
+
+ 
+
+
+(c)The Company has delivered to VectoIQ a customary officer’s certificate, dated the date of
+the Closing, certifying as to the satisfaction of certain conditions;
+
+ 
+
+
+(d)No Company Material Adverse Effect has occurred between the date of the Business Combination Agreement
+and the Closing Date;
+
+ 
+
+
+(e)Other than those persons identified as continuing directors
+in the Business Combination Agreement, all members of the Company Board and the Board of Directors of the subsidiaries of
+the Company, as required pursuant to the Business Combination Agreement, have executed written resignations effective as of the
+Effective Time;
+
+ 
+
+
+(f)All parties to the Registration Rights and Lock-Up Agreement (other than VectoIQ) have delivered,
+or cause to be delivered, to VectoIQ copies of the Registration Rights and Lock-Up Agreement duly executed by all such parties;
+
+ 
+
+
+(g)On or prior to the Closing, the Company delivered to VectoIQ a properly executed certification
+that shares of Company Common Stock are not “U.S. real property interests” in accordance with the Treasury Regulations
+under Sections 897 and 1445 of the Code, together with a notice to the IRS (which will be filed by VectoIQ with the IRS following
+the Closing) in accordance with the provisions of Section 1.897-2(h)(2) of the Treasury Regulations;
+
+ 
+
+
+(h)The Company has delivered to VectoIQ the PCAOB Audited Financials;
+
+ 
+
+
+(i)The Company has at least $60 million in cash; and
+
+ 
+
+
+(j)The Company has indebtedness for borrowed money of no more than $4.1 million.
+
+ 
+
+The Company
+
+ 
+
+The obligations of
+the Company to consummate the Proposed Transactions are subject to the satisfaction or waiver (where permissible) at or prior to
+Closing of the following additional conditions:
+
+ 
+
+
+(a)The representations and warranties of VectoIQ and Merger Sub contained in the sections titled (i) Corporation
+Organization (ii) Capitalization, (iii) Authority Relative to the Business Combination Agreement and (iv) Brokers
+in the Business Combination Agreement are each true and correct in all material respects as of the Closing Date as though made
+on the Closing Date (without giving effect to any limitation as to “materiality” or “Company Material Adverse
+Effect” or any similar limitation set forth therein), except to the extent that any such representation and warranty expressly
+speaks as of an earlier date, in which case such representation and warranty will be true and correct as of such earlier date.
+All other representations and warranties of VectoIQ and Merger Sub contained in the Business Combination Agreement are true and
+correct (without giving any effect to any limitation as to “materiality” or “VectoIQ Material Adverse Effect”
+or any similar limitation set forth therein) in all respects as of the Closing Date, as though made on and as of the Closing Date,
+except (A) to the extent that any such representation and warranty expressly speaks as of an earlier date, in which case such
+representation and warranty will be true and correct as of such earlier date and (B) where the failure of such representations
+and warranties to be true and correct (whether as of the Closing Date or such earlier date), taken as a whole, does not result
+in a VectoIQ Material Adverse Effect;
+
+ 
+
+
+
+
+     5 
+     
+    
+
+ 
+
+
+(b)VectoIQ and Merger Sub have performed or complied in all material respects with all agreements
+and covenants required by the Business Combination Agreement to be performed or complied with by it on or prior to the Effective
+Time;
+
+ 
+
+
+(c)VectoIQ has delivered to the Company a customary officer’s certificate (signed by the President
+of VectoIQ), dated the date of the Closing, certifying as to the satisfaction of certain conditions;
+
+ 
+
+
+(d)No VectoIQ Material Adverse Effect has occurred between the date of the Business Combination Agreement
+and the Closing Date;
+
+ 
+
+
+(e)A supplemental listing has been filed with the Nasdaq Capital Market as of the Closing Date to
+list the shares constituting the aggregate Per Share Merger Consideration;
+
+ 
+
+
+(f)VectoIQ has delivered a copy of the Registration Rights and Lock-Up Agreement duly executed by
+VectoIQ; and
+
+ 
+
+
+(g)The sale and issuance by VectoIQ of VectoIQ Common Stock or other securities of VectoIQ in connection
+with the Private Placements has resulted in gross proceeds of not less than $500 million.
+
+ 
+
+Termination
+
+ 
+
+The Business Combination
+Agreement may be terminated and the Proposed Transactions may be abandoned at any time prior to the Effective Time, notwithstanding
+any requisite approval and adoption of the Business Combination Agreement and the Proposed Transactions by the Company Stockholders
+or VectoIQ Stockholders, respectively, as follows:
+
+ 
+
+
+(a)By mutual written consent of VectoIQ and the Company;
+
+ 
+
+
+(b)By VectoIQ or the Company, if (i) the Effective Time will not have occurred prior to the Outside
+Date; provided, however, that the Business Combination Agreement may not be terminated by any party that either directly or indirectly
+through its affiliates is in breach or violation of any representation, warranty, covenant, agreement or obligation contained herein
+and such breach or violation is the principal cause of the failure of a the conditions to the Merger on or prior to the Outside
+Date; or (ii) any Governmental Authority in the United States has enacted, issued, promulgated, enforced or entered any injunction,
+order, decree or ruling (whether temporary, preliminary or permanent) which has become final and nonappealable and has the effect
+of making consummation of the Proposed Transactions illegal or otherwise preventing or prohibiting consummation of the Proposed
+Transactions, the Merger; or (iii) any of the VectoIQ Proposals fail to receive the requisite vote for approval at the VectoIQ
+Stockholders’ Meeting.
+
+ 
+
+
+(c)By the Company if (i) there is an occurrence of a breach of any representation, warranty,
+covenant or agreement on the part of VectoIQ and Merger Sub set forth in the Business Combination Agreement, or if any representation
+or warranty of VectoIQ and Merger Sub will have become untrue, in either case such that the conditions set forth in representations
+and warranties and the agreements and covenants of Merger Sub and VectoIQ specified in the conditions to the Merger section of
+the Business Combination Agreement would not be satisfied (“Terminating VectoIQ Breach”); provided that the
+Company has not waived such Terminating VectoIQ Breach and the Company is not then in material breach of their representations,
+warranties, covenants or agreements in the Business Combination Agreement; provided, however, that, if such Terminating VectoIQ
+Breach is curable by VectoIQ and Merger Sub, the Company may not terminate the Business Combination Agreement under this section
+for so long as VectoIQ and Merger Sub continue to exercise their reasonable efforts to cure such breach, unless such breach is
+not cured within thirty days after notice of such breach is provided by the Company to VectoIQ; or (ii) at any time prior
+to receipt of the Written Consent, in connection with entering into a Company Acquisition Agreement with respect to a Company Superior
+Proposal in accordance with Section 7.05(d) of the Business Combination Agreement; provided, that prior to or concurrently
+with such termination the Company pays the Termination Fee.
+
+ 
+
+
+
+
+     6 
+     
+    
+
+ 
+
+
+(d)By VectoIQ if (i) the Company Board or a committee thereof, prior to obtaining the Written
+Consent has made a Company Adverse Recommendation Change, or (ii) the Company has failed to deliver the Written Consent to
+VectoIQ within twenty-four hours after the Registration Statement becomes effective; or (iii) there is an occurrence of a
+breach of any representation, warranty, covenant or agreement on the part of the Company set forth in the Business Combination
+Agreement, or if any representation or warranty of the Company has become untrue, in either case such that the conditions set forth
+in representations and warranties and the agreements and covenants of the Company specified in the conditions to the Merger section
+of the Business Combination Agreement would not be satisfied (“Terminating Company Breach”); provided that VectoIQ
+has not waived such Terminating Company Breach and VectoIQ and Merger Sub are not then in material breach of their representations,
+warranties, covenants or agreements in the Business Combination Agreement; provided further that, if such Terminating Company Breach
+is curable by the Company, VectoIQ may not terminate the Business Combination Agreement under this provision for so long as the
+Company continues to exercise its reasonable efforts to cure such breach, unless such breach is not cured within thirty days after
+notice of such breach is provided by VectoIQ to the Company; or (iv) the PCAOB Audited Financials will not have been delivered
+to VectoIQ by the Company on or before not later than thirty days from the date of the Business Combination Agreement.
+
+ 
+
+Effect of Termination
+
+ 
+
+If the Business Combination
+Agreement is terminated, the agreement will forthwith become void, and there will be no liability under the Business Combination
+Agreement on the part of any party hereto, except as set forth in the Business Combination Agreement or in the case of termination
+subsequent to a willful material breach of the Business Combination Agreement by a party thereto.
+
+ 
+
+Termination Fee
+
+ 
+
+The Company will pay
+a termination fee in the amount of $82 million (the “Termination Fee”), in the event that:
+
+ 
+
+
+(a)(i) The Business Combination Agreement is terminated (x) by the Company or VectoIQ, if
+the Effective Time did not occur prior to the Outside Date, (y) by VectoIQ, if the Company failed to deliver the Written Consent
+to VectoIQ within twenty-four hours after the Registration Statement becomes effective or (z) pursuant to a Terminating Company
+Breach; (ii) a bona fide Company Acquisition Proposal has been made, proposed or otherwise communicated to the Company after
+the date of the Business Combination Agreement; and (iii) within six months of the date the Business Combination Agreement
+is terminated, the Company enters into a definitive agreement with respect to such Company Acquisition Proposal; or
+
+ 
+
+
+(b)The Business Combination Agreement is terminated (x) by VectoIQ if the Company Board or a
+committee thereof, prior to obtaining the Written Consent, shall have made a Company Adverse Recommendation Change or (y) by
+the Company, if at any time prior to receiving the Written Consent, the Company enters into a Company Acquisition Agreement with
+respect to a Company Superior Proposal.
+
+ 
+
+A copy of the Business
+Combination Agreement is filed with this Current Report on Form 8-K as Exhibit 2.1 and is incorporated herein by reference.
+The foregoing description of the Business Combination Agreement is qualified in its entirety by reference to the full text of the
+Business Combination Agreement filed with this Current Report on Form 8-K. The Business Combination Agreement is included
+to provide investors and security holders with information regarding its terms. It is not intended to provide any other factual
+information about VectoIQ, the Company or the other parties thereto. In particular, the assertions embodied in representations
+and warranties by VectoIQ, the Company and Merger Sub contained in the Business Combination Agreement are qualified by information
+in the disclosure schedules provided by the parties in connection with the signing of the Business Combination Agreement. These
+disclosure schedules contain information that modifies, qualifies and creates exceptions to the representations and warranties
+set forth in the Business Combination Agreement. Moreover, certain representations and warranties in the Business Combination Agreement
+were used for the purpose of allocating risk between the parties, rather than establishing matters as facts. Accordingly, investors
+and security holders should not rely on the representations and warranties in the Business Combination Agreement as characterizations
+of the actual state of facts about VectoIQ, the Company or Merger Sub.
+
+ 
+
+
+
+
+     7 
+     
+    
+
+ 
+
+Stockholder Support Agreement
+
+ 
+
+On March 2, 2020,
+the Key Company Stockholders entered into the Stockholder Support Agreement (the “Stockholder Support Agreement”)
+pursuant to which such Key Company Stockholders agreed to vote all of their shares of Company Common Stock and Company Preferred
+Stock in favor of the approval and adoption of the Proposed Transactions. Additionally, such Key Company Stockholders have agreed
+not to (a) transfer any of their shares of Company Common Stock and Company Preferred Stock (or enter into any arrangement
+with respect thereto) or (b) enter into any voting arrangement that is inconsistent with the Stockholder Support Agreement.
+
+ 
+
+The foregoing description of the Stockholder
+Support Agreement is qualified in its entirety by reference to the full text of the Stockholder Support Agreement, a copy of which
+is included as Exhibit 10.1 to this Current Report on Form 8-K, and incorporated herein by reference.
+
+ 
+
+Registration Rights and Lock-Up Agreement
+
+ 
+
+In connection with
+the Proposed Transactions, VectoIQ, certain persons and entities holding founder shares and private units of VectoIQ (the “Original
+Holders”) and certain stockholders of the Company (the “New Holders” and, collectively with the Original
+Holders, the “Holders”) will enter into the Registration Rights and Lock-Up Agreement at the Closing. Pursuant
+to the terms of the Registration Rights and Lock-Up Agreement, VectoIQ will be obligated to file a registration statement to register
+the resale of certain securities of VectoIQ held by the Holders. In addition, pursuant to the terms of the Registration Rights
+and Lock-Up Agreement and subject to certain requirements and customary conditions, including with regard to the number of demand
+rights that may be exercised, the Holders may demand at any time or from time to time, that VectoIQ file a registration statement
+on Form S-3 (or on Form S-1 if Form S-3 is not available) to register the securities of VectoIQ held by such Holders.
+The Registration Rights and Lock-Up Agreement will also provide the Holders with “piggy-back” registration rights,
+subject to certain requirements and customary conditions.
+
+ 
+
+The Registration Rights
+and Lock-Up Agreement further provides for the securities of VectoIQ held by the Holders to be locked-up for a period of time following
+the Closing, as described below, subject to certain exceptions. The securities held by the Original Holders will be locked-up for
+one year following the Closing, subject to earlier release if (i) the reported last sale price of VectoIQ’s common stock
+equals or exceeds $12.00 per share (as adjusted for stock splits, stock dividends, reorganizations, recapitalizations and the like)
+for any 20 trading days within any 30-trading day period commencing at least 150 days after the Closing or (ii) if VectoIQ
+consummates a liquidation, merger, stock exchange or other similar transaction after the Cloisng which results in all of VectoIQ’s
+stockholders having the right to exchange their shares of common stock for cash, securities or other property. The securities held
+by the New Holders, other than certain entities controlled by Trevor Milton, will be locked-up for 180 days after the Closing.
+The securities held by certain entities controlled by Trevor Milton will be locked up for one year following the Closing, except
+that they would be permitted to sell or otherwise transfer an aggregate of $70.0 million shares of VectoIQ Common Stock commencing
+180 days after the Closing.
+
+ 
+
+The foregoing description
+of the Registration Rights and Lock-Up Agreement is qualified in its entirety by reference to the full text of the form of Registration
+Rights and Lock-Up Agreement, a copy of which is included as Exhibit A to the Business Combination Agreement, filed as Exhibit 2.1
+to this Current Report on Form 8-K, and incorporated herein by reference.
+
+ 
+
+Subscription Agreements
+
+ 
+
+In connection with
+the execution of the Business Combination Agreement, effective as of March 2, 2020, VectoIQ entered into separate subscription
+agreements (each, a “Subscription Agreement”) with a number of investors (each a “Subscriber”),
+pursuant to which the Subscribers agreed to purchase, and VectoIQ agreed to sell to the Subscribers, an aggregate of 52,500,000
+shares of VectoIQ Common Stock (the “PIPE Shares”), for a purchase price of $10.00 per share and an aggregate
+purchase price of $525 million, in a private placement (the “PIPE”).
+
+ 
+
+
+
+
+     8 
+     
+    
+
+ 
+
+The closing of the
+sale of the PIPE Shares pursuant to the Subscription Agreement is contingent upon, among other customary closing conditions, the
+substantially concurrent consummation of the Proposed Transactions. The purpose of the PIPE is to raise additional capital for
+use by the combined company following the Closing.
+
+ 
+
+Pursuant to the Subscription
+Agreements, VectoIQ agreed that, within 45 calendar days after the consummation of the Proposed Transactions (the “Filing
+Deadline”), VectoIQ will file with the SEC (at VectoIQ’s sole cost and expense) a registration statement registering
+the resale of the PIPE Shares (the “Resale Registration Statement”), and VectoIQ shall use its commercially
+reasonable efforts to have the Resale Registration Statement declared effective as soon as practicable after the filing thereof.
+Under certain circumstances, additional payments by VectoIQ may be assessed with respect to the PIPE Shares in the event that (i) the
+Resale Registration Statement has not been filed with the SEC by the Filing Deadline; (ii) the Resale Registration Statement
+has not been declared effective by the SEC by 60 days (or 120 days if the SEC notifies VectoIQ that it will review the Resale Registration
+Statement) following the Filing Deadline; (iii) the Resale Registration Statement is declared effective by the SEC but thereafter
+ceases to be effective prior to the expiration of a designated effective period or a Subscriber is not permitted to utilize the
+Resale Registration Statement to resell the PIPE Shares; or (iv) under certain circumstances, VectoIQ fails to file with the
+Commission any required reports under Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), such that the Subscribers who are not affiliates of VectoIQ are unable to sell their PIPE Shares without restriction
+under Rule 144 under the Securities Act. The additional payments by VectoIQ shall accrue on the applicable registrable securities
+at a rate of 0.5% of the aggregate purchase price paid for such registrable securities per month, subject to certain terms and
+limitations (including a cap of 5.0% of the aggregate purchase price).
+
+ 
+
+The foregoing description
+of the Subscription Agreements is qualified in its entirety by reference to the full text of the form of the Subscription Agreement,
+a copy of which is included as Exhibit 10.2 to this Current Report on Form 8-K, and incorporated herein by reference.
+
+ 
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+The disclosure set
+forth above in Item 1.01 of this Current Report on Form 8-K is incorporated by reference herein. The securities of VectoIQ
+that may be issued in connection with the Subscription Agreements will not be registered under the Securities Act in reliance on
+the exemption from registration provided by Section 4(a)(2) of the Securities Act and/or Regulation D promulgated thereunder.
+
+ 
+
+Item 7.01. Regulation FD Disclosure.
+
+ 
+
+On March 3, 2020,
+VectoIQ and the Company issued a joint press release announcing the execution of the Business Combination Agreement and announcing
+that VectoIQ and the Company will hold a conference call on March 3, 2020 at 8:30 a.m. Eastern Time (the “Conference
+Call”). A copy of the press release, which includes information regarding participation in the Conference Call, is attached
+hereto as Exhibit 99.1 and incorporated herein by reference. The script that VectoIQ and the Company intend to use for the
+Conference Call is attached hereto as Exhibit 99.2 and incorporated herein by reference. Such exhibits and the information
+set forth therein shall not be deemed to be filed for purposes of Section 18 of the Exchange Act, or otherwise be subject
+to the liabilities of that section, nor shall it be deemed to be incorporated by reference in any filing under the Securities Act
+or the Exchange Act.
+
+ 
+
+Attached as Exhibit 99.3
+to this Current Report on Form 8-K and incorporated herein by reference is the form of presentation to be used by VectoIQ
+in presentations for certain of VectoIQ’s stockholders and other persons. Such exhibit and the information set forth therein
+shall not be deemed to be filed for purposes of Section 18 of the Exchange Act, or otherwise be subject to the liabilities
+of that section, nor shall it be deemed to be incorporated by reference in any filing under the Securities Act or the Exchange
+Act.
+
+ 
+
+
+
+
+     9 
+     
+    
+
+ 
+
+Important Information and Where to Find
+It
+
+ 
+
+In connection with
+the Proposed Transactions, VectoIQ intends to file a registration statement on Form S-4, including a proxy statement/prospectus/information
+statement (the “Registration Statement”), with the SEC, which will include a preliminary proxy statement to
+be distributed to holders of VectoIQ’s common stock in connection with VectoIQ’s solicitation of proxies for the vote
+by VectoIQ’s stockholders with respect to the Proposed Transactions and other matters as described in the Registration Statement,
+a prospectus relating to the offer of the securities to be issued to the Company’s stockholders in connection with the Proposed
+Transactions, and an information statement to Company’s stockholders regarding the Proposed Transactions. After the Registration
+Statement has been filed and declared effective, VectoIQ will mail a definitive proxy statement/prospectus, when available, to
+its stockholders. Investors and security holders and other interested parties are urged to read the proxy statement/prospectus,
+any amendments thereto and any other documents filed with the SEC carefully and in their entirety when they become available because
+they will contain important information about VectoIQ, the Company and the Proposed Transactions. Investors and security holders
+may obtain free copies of the preliminary proxy statement/prospectus and definitive proxy statement/prospectus (when available)
+and other documents filed with the SEC by VectoIQ through the website maintained by the SEC at http://www.sec.gov, or by directing
+a request to: VectoIQ Acquisition Corp., 1354 Flagler Drive, Mamaroneck, NY 10543.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+VectoIQ and the Company
+and their respective directors and certain of their respective executive officers and other members of management and employees
+may be considered participants in the solicitation of proxies with respect to the Proposed Transactions. Information about the
+directors and executive officers of VectoIQ is set forth in its Annual Report on Form 10-K for the fiscal year ended December 31,
+2018. Additional information regarding the participants in the proxy solicitation and a description of their direct and indirect
+interests, by security holdings or otherwise, will be included in the Registration Statement and other relevant materials to be
+filed with the SEC regarding the Proposed Transactions when they become available. Stockholders, potential investors and other
+interested persons should read the Registration Statement carefully when it becomes available before making any voting or investment
+decisions. When available, these documents can be obtained free of charge from the sources indicated above.
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report
+on Form 8-K shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be
+any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or
+qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of a
+prospectus meeting the requirements of Section 10 of the Securities Act.
+
+ 
+
+
+
+
+     10 
+     
+    
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report
+on Form 8-K includes certain statements that are not historical facts but are forward-looking statements for purposes of the
+safe harbor provisions under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements generally
+are accompanied by words such as “believe,” “may,” “will,” “estimate,” “continue,”
+ “anticipate,” “intend,” “expect,” “should,” “would,” “plan,”
+ “predict,” “potential,” “seem,” “seek,” “future,” “outlook,”
+and similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These
+forward-looking statements include, but are not limited to, statements regarding estimates and forecasts of revenue and other financial
+and performance metrics and projections of market opportunity and expectations, VectoIQ’s ability to enter into definitive
+agreements or consummate a transaction with the Company; VectoIQ’s ability to obtain the financing necessary consummate the
+Proposed Transactions; and the expected timing of completion of the Proposed Transactions. These statements are based on various
+assumptions and on the current expectations of VectoIQ’s and the Company’s management and are not predictions of actual
+performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and
+must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability.
+Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and
+circumstances are beyond the control of VectoIQ and the Company. These forward looking statements are subject to a number of risks
+and uncertainties, including general economic, financial, legal, political and business conditions and changes in domestic and
+foreign markets; the outcome of judicial proceedings to which the Company is, or may become a party; the inability of the parties
+to enter into definitive agreements or successfully or timely consummate the Proposed Transactions or to satisfy the other conditions
+to the closing of the Proposed Transactions, including the risk that any required regulatory approvals are not obtained, are delayed
+or are subject to unanticipated conditions that could adversely affect the combined company; the risk that the approval of the
+stockholders of VectoIQ for the Proposed Transactions is not obtained; failure to realize the anticipated benefits of the Proposed
+Transactions, including as a result of a delay in consummating the Proposed Transaction or difficulty in, or costs associated with,
+integrating the businesses of VectoIQ and the Company; the amount of redemption requests made by VectoIQ’s stockholders;
+the occurrence of events that may give rise to a right of one or both of VectoIQ and the Company to terminate the Business Combination
+Agreement; risks related to the rollout of the Company’s business and the timing of expected business milestones; the effects
+of competition on the Company’s future business; and those factors discussed in VectoIQ’s Annual Report on Form 10-K
+for the fiscal year ended December 31, 2018 under the heading “Risk Factors,” and other documents of VectoIQ filed,
+or to be filed, with the SEC. If the risks materialize or assumptions prove incorrect, actual results could differ materially from
+the results implied by these forward-looking statements. There may be additional risks that neither VectoIQ nor the Company presently
+do not know or that VectoIQ and the Company currently believe are immaterial that could also cause actual results to differ from
+those contained in the forward-looking statements. In addition, forward-looking statements reflect VectoIQ’s and the Company’s
+expectations, plans or forecasts of future events and views as of the date of this Current Report on Form 8-K. VectoIQ and
+the Company anticipate that subsequent events and developments will cause their assessments to change. However, while VectoIQ and
+the Company may elect to update these forward-looking statements at some point in the future, VectoIQ and the Company specifically
+disclaim any obligation to do so. These forward-looking statements should not be relied upon as representing VectoIQ’s or
+the Company’s assessments as of any date subsequent to the date of this Current Report on Form 8-K. Accordingly, undue
+reliance should not be placed upon the forward-looking statements.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)          Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Exhibit
+
+    2.1
+     
+    Business Combination Agreement, dated as of March 2, 2020, by and among VectoIQ, Merger Sub and the Company.
+
+     
+     
+     
+
+    10.1
+     
+    Stockholder Support Agreement, dated as of March 2, 2020, by and among VectoIQ, M&M Residual, LLC, T&M Residual, LLC, Valueact Spring Master Fund, L.P., VA Spring NM, LLC, OTW STL LLC, Thompson Nikola, LLC, Thompson Nikola II, LLC, Nimbus Holdings, LLC, Green Nikola Holdings LLC, Legend Capital Partners, and Iveco S.P.A.
+
+     
+     
+     
+
+    10.2
+     
+    Form of Subscription Agreement.
+
+     
+     
+     
+
+    99.1
+     
+    Press Release, dated March 3, 2020.
+
+     
+     
+     
+
+    99.2
+     
+    Conference Call Script.
+
+     
+     
+     
+
+    99.3
+     
+    Form of Investor Presentation.
+
+
+ 
+
+
+
+
+     11 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+hereunto duly authorized.
+
+ 
+
+Dated: March 2, 2020
+
+ 
+
+
+
+     
+    VECTOIQ ACQUISITION CORP.
+
+     
+     
+
+     
+    By:
+    /s/ Steve Shindler
+
+     
+     
+    Name:
+    Steve Shindler
+
+     
+     
+    Title:
+    Chief Financial Officer
+
+
+
+
+ 
+
+
+
+
+     12 
+    
+
+ 
+
+
+
+

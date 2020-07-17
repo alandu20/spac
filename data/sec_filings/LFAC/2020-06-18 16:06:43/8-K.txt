@@ -1,0 +1,394 @@
+
+8-K
+1
+e1988_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+
+
+PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+Date
+of Report (Date of earliest event reported): June 16, 2020
+
+LF
+CAPITAL ACQUISITION CORP.
+
+(Exact
+name of registrant as specified in its charter)
+
+
+
+    Delaware
+     
+    001-38545
+     
+    82-2196021
+
+    (State or other jurisdiction
+    of incorporation)
+     
+    (Commission File
+    Number)
+     
+    (IRS Employer Identification
+    No.)
+
+ 
+
+600
+Madison Avenue
+
+New
+York, NY 10022
+
+(Address
+of principal executive offices, including zip code)
+
+Registrant’s
+telephone number, including area code: (212) 688-1005
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+
+
+    ¨
+    Written communications
+    pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+    ¨
+    Soliciting material
+    pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+    ¨
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+    ¨
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+                                         of each exchange on
+        which
+        registered
+
+    Class
+    A Common Stock
+     
+    LFAC
+     
+    The Nasdaq Stock
+    Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company þ
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+
+       
+     
+    
+
+
+
+Item
+1.01. Entry into a Material Definitive Agreement.
+
+The
+disclosure contained in Item 2.03 is incorporated by reference in this Item 1.01
+
+Item
+2.03	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet 		Arrangement of a Registrant.
+
+As
+previously disclosed in LF Capital Acquisition Corp.’s (the “Company”) Form 10-K filed on March 5, 2019, the
+Company issued a convertible note (“Convertible Note”) to the Sponsor, pursuant to which the Sponsor agreed to provide
+a working capital loan to the Company of up to $1.5 million. The Convertible Note will either be repaid upon consummation of a
+business combination, without interest, or, at the lender’s discretion, up to $1,500,000 of the Convertible Note may be
+convertible into warrants of the post business combination entity at a price of $1.00 per warrant. The warrants would be identical
+to the Company’s warrants previously issued in a private placement contemporaneous with the Company’s initial public
+offering.
+
+On
+June 16, 2020, the Company was provided an advance of $320,000 in additional loan proceeds pursuant to the Convertible Note which
+increased the principal balance of the Note to $1,500,000. As previously disclosed in prior SEC filings, the Company was provided
+$400,000, $350,000, $130,000 and 300,000, in loan proceeds on March 4, 2019, August 19, 2019, January 10, 2020 and March 16, respectively.
+
+On
+June 16, 2020 the board of directors of the Company (the “Board”) approved an amendment to the Convertible Note (the
+“Note Amendment”) pursuant to which the maturity date of the note was extended to the earlier of (i) December 31,
+2020 and (ii) the effective date of a merger, share exchange, asset acquisition, share purchase, reorganization or similar business
+combination, involving the Company and one or more businesses. The foregoing description of the Note
+Amendment is qualified in its entirety by the full text of the Amendment, which is filed as Exhibit 10.1 hereto and
+incorporated herein by reference.
+
+
+     2 
+     
+    
+
+  
+                                                
+
+Item
+5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+On
+June 18, 2020, the “Company filed with the Secretary of State of the State of Delaware an amendment (the
+“Extension Amendment”) to the Company’s amended and restated certificate of incorporation to
+extend the date by which the Company has to consummate a merger, capital stock exchange, asset acquisition, stock purchase, reorganization
+or similar business combination with one or more businesses from June 22, 2020 to September 22, 2020 (the “Extension”).
+The Company’s stockholders approved the Extension Amendment at a special meeting of stockholders of the Company (the “Special Meeting”)
+on June 16, 2020. The foregoing description of the Extension Amendment is qualified in its entirety
+by the full text of the Amendment, which is filed as Exhibit 3.1 hereto and incorporated herein by reference.
+
+ 
+
+Item
+5.07. Submission of Matters to a Vote of Security Holders. 
+
+
+
+ 
+
+
+On
+June 16, 2020, at the Special Meeting, a total of 15,482,652 (or 79.78%) of the Company’s issued and outstanding shares
+of Class A common stock and Class B common stock held of record as of May 8, 2020, the record date for the Special Meeting,
+were present either in person or by proxy, which constituted a quorum. The Company’s stockholders voted on the following
+proposals at the Special Meeting, each of which were approved. The final vote tabulation for each proposal is set forth below. 
+
+ 
+
+Proposal
+1. To approve and adopt the Extension Amendment.
+
+ 
+
+
+
+    For
+     
+    Against
+     
+          
+    Abstained
+     
+     
+    
+
+    15,482,652
+     
+     
+    0
+     
+     
+     
+    0
+     
+     
+    
+
+  
+
+Proposal
+2. To approve the adjournment of the Special Meeting to a later date or dates, if necessary or appropriate, to permit further
+solicitation and vote of proxies in the event that there are insufficient votes for, or otherwise in connection with, the approval
+of the Extension Amendment proposal. 
+
+ 
+
+
+
+
+
+    15,482,652
+     
+     
+    0
+     
+     
+     
+    0
+     
+     
+    
+
+  
+
+Although
+this proposal would have received sufficient votes to be approved, no motion to adjourn was made because the adjournment
+of the Special Meeting was determined not to be necessary or appropriate.
+
+ 
+
+Item
+7.01 Regulation FD Disclosure. 
+
+
+
+
+
+ 
+
+In connection with the Extension, 2,089,939
+of the Company’s public shares were redeemed. As a result, approximately $141.7 million remains in the trust account.
+
+ 
+
+The information in this Item 7.01 shall not
+be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any
+filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference
+in such filing.
+
+ 
+
+Item 9.01 Financial
+Statements and Exhibits.
+
+
+  
+
+(d)
+Exhibits
+
+ 
+
+
+
+
+
+    Exhibit No.
+    Description
+
+     
+     
+
+    3.1
+    Amendment to Amended and Restated Certificate
+    of Incorporation of LF Capital 		Acquisition Corp.
+
+    10.1
+    Amendment to Convertible Promissory Note, dated
+    June 16, 2020
+
+
+ 
+
+	
+
+
+     3 
+     
+    
+
+	
+
+SIGNATURE
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+
+
+     
+    LF CAPITAL ACQUISITION  CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/
+    Philippe De Backer
+
+     
+     
+    Name: Philippe De Backer
+
+     
+     
+    Title: Chief Executive Officer
+
+ 
+
+Dated:
+June 18, 2020
+
+ 
+
+
+
+
+     4 
+    
+
+ 
+
+
+
+

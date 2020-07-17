@@ -1,0 +1,464 @@
+
+8-K
+1
+ea122347-8k_megalithfin.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or Section 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): May 26, 2020
+
+ 
+
+MEGALITH
+FINANCIAL ACQUISITION CORP.
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38633
+     
+    82-3410369
+
+    (State
+    or other jurisdiction
+    of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (IRS
+        Employer
+        Identification
+        No.)
+
+ 
+
+
+
+    535
+        5th Avenue, 29th Floor
+        New
+        York, New York
+     
+    10017
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (212) 235-0430
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+
+
+ 
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation to the registrant
+under any of the following provisions:
+
+ 
+
+
+☐Written
+                                         communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐Soliciting
+                                         material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+☐Pre-commencement
+                                         communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+☐Pre-commencement
+                                         communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+  
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Class
+    A Common Stock
+     
+    MFAC
+     
+    The
+    New York Stock Exchange
+
+    Warrants
+    to purchase Class A Common Stock
+     
+    MFAC.W
+     
+    The
+    New York Stock Exchange
+
+    Units,
+    each consisting of one share of Class A Common Stock and one Warrant
+     
+    MFAC.U
+     
+    The
+    New York Stock Exchange
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 		
+
+ 
+
+Emerging growth
+company 	☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.	☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+  
+
+Item 1.01 Entry Into a Material Definitive Agreement
+
+ 
+
+On May 26, 2020, the stockholders of Megalith
+Financial Acquisition Corp. (the “Company”) voted to approve the Trust Amendment Proposal (as defined below).
+In connection with the approval of the Trust Amendment Proposal, the Company and Continental Stock Transfer & Trust Company
+(the “Transfer Agent”) entered into the Amendment No. 1 to the Investment Management Trust Agreement (the “Amendment”)
+a copy of which is attached to this Current Report on Form 8-K as Exhibit 10.1 hereto and is incorporated herein by reference. The
+Amendment extends the date on which the Trust Account (as defined below) must be liquidated if the Company has not completed an
+initial business combination by 21 months from the closing of the IPO, which is May 28, 2020, to August 28, 2020 (or
+November 30, 2020 if the Company has executed a definitive agreement for an initial business combination by August 28,
+2020). All other terms of the Trust Agreement (as defined below) remain unchanged.
+
+ 
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+ 
+
+On May 26, 2020, the Company
+held a special meeting (the “Special Meeting”) of stockholders in lieu of the 2020 annual meeting of stockholders.
+At the Special Meeting, the Company’s stockholders approved the following items: (i) an amendment to the Amended and Restated
+Certificate of Incorporation to extend the date by which the Company must consummate a business combination (the “Extension”)
+from May 28, 2020 to August 28, 2020 (or November 30, 2020 if the Company has executed a definitive agreement for an initial
+business combination by August 28, 2020) (such date or later date, as applicable, the “Extended Date”)
+(the “Extension Proposal”); (ii) a proposal to amend the Investment Management Trust Agreement, dated August 23,
+2018 (the “Trust Agreement”), by and between the Company and the Transfer Agent to extend the date on which
+the trust account (the “Trust Account”) established in connection with the Company’s initial public offering
+(IPO) must be liquidated if the Company has not completed an initial business combination by 21 months from the closing
+of the IPO, which is May 28, 2020, to the Extended Date (the “Trust Amendment Proposal”); and (iii) a
+proposal to elect each of Messrs. Raj Date and Eric Frank as Class I directors of the Company with each such director to serve
+until the second annual general meeting of stockholders following the Special Meeting or until his or her successor is elected
+and qualified (the “Director Proposal”). The affirmative vote of the holders of at least 65% of the outstanding
+shares of the Company’s Class A common stock and Class B common stock (collectively, the “Common Stock”),
+voting as a single class, on the record date was required to approve the Extension Amendment Proposal and the Trust Amendment
+Proposal. The affirmative vote of a plurality of the votes cast by the stockholders present in person online or represented by
+proxy at the Special Meeting and entitled to vote on the Director Proposal at the Special Meeting was required to elect each of
+the two (2) nominees as Class I directors. The affirmative vote of the majority of the votes cast by stockholders present
+in person online or represented by proxy at the Special Meeting and entitled to vote on the Adjournment Proposal at the Special
+Meeting is required to approve the Adjournment Proposal.
+
+ 
+
+Following redemptions of
+13,733,885 of the shares of Class A common stock in connection with the Extension, a total of approximately $33,167,514.53 will
+remain in the Trust Account.
+
+
+
+
+
+ 
+
+Set
+forth below are the final voting results for the Extension Proposal, the Trust amendment Proposal and the Director Proposal. The
+Adjournment Proposal was not presented because there were enough votes to approve each of the Extension Proposal and the Trust
+Amendment Proposal.
+
+ 
+
+Extension
+Proposal
+
+ 
+
+The
+Extension Proposal was approved extending the date by which the Company has to consummate a business combination to the Extended
+Date. The voting results of the Common Stock of the Company were as follows:
+
+ 
+
+
+
+    For 
+    Against 
+    Abstentions 
+    Broker Non-Votes
+
+    17,887,850 
+    1,014 
+    0 
+    0
+
+
+ 
+
+Trust
+Amendment Proposal
+
+ 
+
+The
+Trust Amendment Proposal was approved extending the date by which the Company has to liquidate the Trust Account to the Extended
+Date. The voting results of the Common Stock of the Company were as follows:
+
+ 
+
+
+
+    For 
+    Against 
+    Abstentions 
+    Broker Non-Votes
+
+    17,887,850 
+    1,014 
+    0 
+    0
+
+
+ 
+
+Director
+Proposal
+
+ 
+
+        The
+proposal to re-elect each of the two directors, Raj Date and Eric Frank, to the Company’s board of directors was approved.
+The voting results of the Common Stock of the Company were as follows:
+
+ 
+
+
+
+    Director 
+    Votes For 
+    Votes Withheld 
+    Broker Non-Votes
+
+    Raj Date 
+    14,557,391 
+    3,331,474 
+    0
+
+    Eric Frank 
+    14,557,391 
+    3,331,473 
+    0
+
+
+   
+
+
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits 
+
+ 
+
+
+
+    
+        Exhibit
+        Number
+     
+    Description
+
+     
+     
+     
+
+    10.1
+     
+    Amendment No. 1 to the Investment Management Trust Agreement, dated May 26, 2020, by and between Megalith Financial Acquisition Corp. and Continental Stock Transfer & Trust Company. 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+
+
+     Dated:
+May 26, 2020
+    MEGALITH FINANCIAL 
+ACQUISITION CORP.
+
+     
+     
+
+     
+    By: 
+    /s/
+    A.J. Dunklau
+
+     
+     
+    Name:
+    A.J. Dunklau
+    Title: Chief Executive Officer and President
+
+ 
+
+ 
+
+2
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+

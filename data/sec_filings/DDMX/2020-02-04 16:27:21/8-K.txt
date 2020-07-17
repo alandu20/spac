@@ -1,0 +1,457 @@
+
+8-K
+1
+f8k020320b_dd3acquisition.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): February
+3, 2020
+
+ 
+
+DD3
+Acquisition Corp.
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+
+    British
+    Virgin Islands
+     
+    001-38700
+     
+    N/A
+
+    (State
+    or other jurisdiction
+     
+    (Commission
+File Number)
+     
+    (I.R.S.
+    Employer
+
+    of
+    incorporation)
+     
+     
+     
+    Identification
+    No.)
+
+ 
+
+
+
+    c/o
+                                         DD3 Mex Acquisition Corp
+        Pedregal
+        24, 4th Floor
+        Colonia
+        Molino del Rey, Del. Miguel Hidalgo
+        Mexico
+        City, Mexico 
+     
+    11040
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    Code)
+
+ 
+
++52
+(55) 8647-0417
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not
+Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+ 
+
+
+☒Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+☐Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Units,
+    each consisting of one Ordinary Share and one Warrant
+     
+    DDMXU
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Ordinary
+    Shares, no par value per share
+     
+    DDMX
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Warrants,
+    each warrant exercisable for one Ordinary Share at an exercise price of $11.50
+     
+    DDMXW
+     
+    The
+    Nasdaq Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company  ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01. Entry into a Material Definitive
+Agreement.
+
+ 
+
+As
+previously disclosed, on August 2, 2019, DD3 Acquisition Corp., a British Virgin Islands company (“DD3”), entered
+into a Combination and Stock Purchase Agreement (the “Agreement”) with Campalier, S.A. de C.V., a Mexican sociedad
+anónima de capital variable (“Campalier”), Promotora Forteza, S.A. de C.V., a Mexican sociedad anónima
+de capital variable (“Forteza”), Strevo, S.A. de C.V., a Mexican sociedad anónima de capital variable
+(“Strevo”, and together with Campalier and Forteza, the “Sellers”), Betterware de México, S.A.
+de C.V., a Mexican sociedad anónima de capital variable (“Betterware”), BLSM Latino América Servicios,
+S.A. de C.V., a Mexican sociedad anónima de capital variable (“BLSM”), and, solely for the purposes
+set forth in Article XI of the Agreement, DD3 Mex Acquisition Corp, S.A. de C.V., a Mexican sociedad anónima de capital
+variable (“DD3 Mexico”), pursuant to which DD3 agreed to merge with and into Betterware (the “Merger”)
+in a business combination (the “Transaction”) that will result in Betterware surviving the Merger and BLSM becoming
+a wholly-owned subsidiary of Betterware, which was amended on September 23, 2019 pursuant to the Amendment Agreement to the Combination
+and Stock Purchase Agreement (the “First Amendment”).
+
+ 
+
+On
+February 3, 2020, DD3, the Sellers, Betterware, BLSM and DD3 Mexico entered into the Second Amendment Agreement to the Combination
+and Stock Purchase Agreement (the “Second Amendment”). The Second Amendment, among other things, (i) permits the purchase
+price to be mutually determined by the parties based upon the amount of cash available in the trust account on the date of the
+special meeting of DD3’s shareholders to seek shareholder approval of the proposed Transaction and related matters (the
+“Special Meeting”) and for such purchase price to be payable at closing in cash or transferred as a liability to Betterware
+as part of the Merger and (ii) extends the date on which the Agreement may be terminated by either DD3 or the Sellers if the closing
+has not yet occurred from January 31, 2020 to March 15, 2020. Other than as modified pursuant to the First Amendment and the Second
+Amendment, the Agreement remains in full force and effect.
+
+ 
+
+A
+copy of the Second Amendment is filed with this Current Report on Form 8-K as Exhibit 2.1 and is incorporated herein by reference,
+and the foregoing description of the Second Amendment is qualified in its entirety by reference thereto.
+
+ 
+
+Additional
+Information
+
+ 
+
+In
+connection with the proposed Transaction, Betterware filed a registration statement on Form F-4 (File No. 333-233982) (the “F-4
+Registration Statement”) with the U.S. Securities and Exchange Commission (the “SEC”), which includes a proxy
+statement of DD3 with respect to the Special Meeting that also constitutes a prospectus of Betterware in respect of the securities
+to be issued in the proposed Transaction. Also in connection with the proposed Transaction, Betterware filed a registration statement
+on Form F-1 (File No. 333-234692) (the “F-1 Registration Statement”) with the SEC. On January 22, 2020, the F-4 Registration
+Statement and the F-1 Registration Statement, in each case, as amended, were declared effective and DD3 filed a definitive proxy
+statement with the SEC (the “Proxy Statement”), which was mailed on or about that date to DD3’s shareholders
+as of the January 16, 2020 record date for the Special Meeting. DD3’s shareholders and other interested persons are advised
+to read the Proxy Statement as well as other relevant documents filed with the SEC because these documents will contain important
+information about DD3, Betterware and the proposed Transaction. Shareholders will also be able to obtain copies of the Proxy Statement
+and other relevant documents filed with the SEC, without charge, once available, at the SEC’s Internet site at http://www.sec.gov
+or by directing a request to: DD3 Acquisition Corp., c/o DD3 Mex Acquisition Corp, Pedregal 24, 4th Floor, Colonia Molino del
+Rey, Del. Miguel Hidalgo, 11040 Mexico City, Mexico, or by calling +52 (55) 8647-0417.
+
+ 
+
+Participants
+in the Solicitation
+
+ 
+
+DD3,
+Betterware and their respective directors and executive officers may be considered participants in the solicitation of proxies
+with respect to the proposed Transaction under the rules of the SEC. Information about the directors and executive officers of
+DD3 is set forth in its Annual Report on Form 10-K for the fiscal year ended June 30, 2019, which was filed with the SEC on September
+20, 2019.
+
+ 
+
+Additional
+information regarding the persons who may, under the rules of the SEC, be deemed participants in the solicitation of the shareholders
+in connection with the proposed Transaction is set forth in the Proxy Statement. These documents can be obtained free of charge
+from the sources indicated above.
+
+ 
+
+Non-Solicitation
+
+ 
+
+This
+communication is not a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities or
+in respect of the proposed Transaction and shall not constitute an offer to sell or a solicitation of an offer to buy the securities
+of DD3 or Betterware, nor shall there be any sale of any such securities in any state or jurisdiction in which such offer, solicitation,
+or sale would be unlawful prior to registration or qualification under the securities laws of such state or jurisdiction. No offer
+of securities shall be made except by means of a definitive document.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Forward-Looking
+Statements
+
+ 
+
+This
+communication includes certain statements that are not historical facts but are forward-looking statements for purposes of the
+safe harbor provisions under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements generally
+are accompanied by words such as “believe,” “may,” “will,” “estimate,” “continue,”
+“anticipate,” “intend,” “expect,” “should,” “would,” “plan,”
+“predict,” “potential,” “seem,” “seek,” “future,” “outlook,”
+and similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These
+forward-looking statements include, but are not limited to, statements regarding projections, estimates and forecasts of revenue
+and other financial and performance metrics and projections of market opportunity and expectations, and the closing of the proposed
+Transaction. These statements are based on various assumptions and on the current expectations of DD3 and Betterware management
+and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and
+are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive
+statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from
+assumptions. Many actual events and circumstances are beyond the control of DD3 and Betterware. These forward-looking statements
+are subject to a number of risks and uncertainties, including changes in Betterware’s clients’ preferences, prospects
+and the competitive conditions prevailing in the industries in which Betterware operates; the inability of the parties to
+successfully or timely consummate the proposed Transaction, including the risk that any required regulatory approvals are not
+obtained, are delayed or are subject to unanticipated conditions that could adversely affect the combined company or the expected
+benefits of the proposed Transaction or that the approval of the shareholders of DD3 for the proposed Transaction is not obtained;
+failure to realize the anticipated benefits of the proposed Transaction, including as a result of a delay in consummating the
+proposed Transaction or a delay or difficulty in integrating the businesses of DD3 and Betterware; the amount of redemption
+requests made by DD3’s shareholders; the ability to meet Nasdaq’s listing standards following the consummation
+of the proposed Transaction; those factors discussed in DD3’s Annual Report on Form 10-K for the fiscal year ended June
+30, 2019 and the Proxy Statement, in each case, under the heading “Risk Factors,” and other documents of DD3 filed,
+or to be filed, with the SEC. If the risks materialize or assumptions prove incorrect, actual results could differ materially
+from the results implied by these forward-looking statements. There may be additional risks that neither DD3 nor Betterware presently
+know or that DD3 and Betterware currently believe are immaterial that could also cause actual results to differ from those contained
+in the forward-looking statements. In addition, forward-looking statements reflect DD3’s and Betterware’s expectations,
+plans or forecasts of future events and views as of the date of this Current Report on Form 8-K. DD3 and Betterware anticipate
+that subsequent events and developments will cause DD3’s and Betterware’s assessments to change. However, while DD3
+and Betterware may elect to update these forward-looking statements at some point in the future, DD3 and Betterware specifically
+disclaim any obligation to do so. These forward-looking statements should not be relied upon as representing DD3’s and Betterware’s
+assessments as of any date subsequent to the date of this Current Report on Form 8-K. Accordingly, undue reliance should not be
+placed upon the forward-looking statements.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)       Exhibits.
+
+ 
+
+
+
+    
+        Exhibit
+        No.
+     
+    Exhibit
+
+    2.1
+     
+    Second Amendment Agreement to the Combination and Stock Purchase Agreement, dated as of February 3, 2020, by and among DD3 Acquisition Corp., Campalier, S.A. de C.V., Promotora Forteza, S.A. de C.V., Strevo, S.A. de C.V., Betterware de México, S.A. de C.V., BLSM Latino América Servicios, S.A. de C.V., and DD3 Mex Acquisition Corp, S.A. de C.V.
+
+ 
+
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    DD3
+    Acquisition Corp. 
+
+     
+     
+
+     
+    By: 
+    /s/ Daniel Salim
+
+     
+    
+     Name: Daniel
+    Salim
+
+     
+    
+    Title: Chief Financial Officer
+
+ 
+
+Date:
+February 4, 2020
+
+ 
+
+ 
+
+3
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+

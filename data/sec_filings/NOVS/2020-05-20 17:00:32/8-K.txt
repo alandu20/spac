@@ -1,0 +1,391 @@
+
+8-K
+1
+tm2020291d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM 8-K
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+May 14, 2020
+
+ 
+
+
+
+    NOVUS CAPITAL
+    CORPORATION
+
+    (Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39288
+     
+    84-5042965
+
+    (State or Other Jurisdiction 
+     
+    (Commission 
+     
+    (IRS Employer
+
+    of Incorporation)
+     
+    File Number)
+     
+    Identification No.)
+
+ 
+
+8556 Oakmont Lane
+
+Indianapolis, IN 46260
+
+(Address of Principal Executive Offices)
+(Zip Code)
+
+ 
+
+(317) 590-6959
+
+(Registrant’s Telephone Number, Including
+Area Code)
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed
+Since Last Report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions
+(see General Instruction A.2. below):
+
+ 
+
+
+¨Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+
+ 
+
+
+¨Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+
+ 
+
+
+¨Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+ 
+
+
+¨Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+
+
+
+ 
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading
+Symbol(s)
+     
+    Name of each exchange on
+which registered
+
+    Units, each consisting of one share of common stock and one redeemable warrant
+     
+    NOVSU
+     
+    The Nasdaq Stock Market LLC
+
+    Common stock, par value $0.0001 per share
+     
+    NOVS
+     
+    The Nasdaq Stock Market LLC
+
+    Redeemable warrants, exercisable for shares of common stock at an exercise price of $11.50 per share
+     
+    NOVSW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+
+
+  
+
+
+Item 1.01.Entry into a Material
+Definitive Agreement.
+
+
+
+ 
+
+On May 14, 2020 the
+Registration Statement on Form S-1 (SEC File No. 333-237877) (the “Registration Statement”) relating to the
+initial public offering of units of Novus Capital Corporation (the “Company”) was declared effective by the
+Securities and Exchange Commission (“SEC”).
+
+ 
+
+On May 14, 2020, the
+Company entered into various agreements filed as exhibits to the Registration Statement. The Company also filed an amended and
+restated certificate of incorporation with the Secretary of State of the State of Delaware. The material terms of such agreements
+and the amended and restated certificate of incorporation are fully described in the Company’s final prospectus, dated May
+14, 2020 as filed with the SEC on May 15, 2020. This Current Report on Form 8-K is being filed solely to file such executed agreements
+and amended and restated certificate of incorporation.
+
+ 
+
+
+Item 5.03.Amendments to Certificate
+of Incorporation or Bylaws; Change in Fiscal Year.
+
+
+
+ 
+
+The information set forth in Item 1.01 is hereby incorporated
+by reference.
+
+ 
+
+
+Item 9.01.Financial Statement
+and Exhibits.
+
+
+
+ 
+
+
+
+     
+    (d)
+    Exhibits:
+
+ 
+
+
+
+    Exhibit
+     
+    Description
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement between the Company and EarlyBirdCapital,
+    Inc., as representative of the underwriters.
+
+     
+     
+     
+
+    1.2
+     
+    Business Combination Marketing Agreement between the Company
+    and EarlyBirdCapital, Inc.
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation.
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement between Continental Stock Transfer & Trust
+    Company and the Company.
+
+     
+     
+     
+
+    10.1
+     
+    Investment Management Trust Agreement between Continental Stock
+    Transfer & Trust Company and the Company.
+
+     
+     
+     
+
+    10.2
+     
+    Escrow Agreement between the Registrant, Continental Stock Transfer
+    & Trust Company and the Company’s Initial Stockholders.
+
+     
+     
+     
+
+    10.3
+     
+    Registration Rights Agreement between the Company and certain
+    security holders.
+
+     
+     
+     
+
+    99.1
+     
+    Press Release.
+
+ 
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+Dated: May 20, 2020
+
+ 
+
+
+
+     
+    NOVUS CAPITAL CORPORATION
+
+     
+     
+     
+
+     
+    By: 
+    /s/ Vincent Donargo
+
+     
+     
+    Name: Vincent Donargo
+
+     
+     
+    Title: Chief Financial Officer
+
+ 
+
+
+    3
+    
+
+
+
+
+
+

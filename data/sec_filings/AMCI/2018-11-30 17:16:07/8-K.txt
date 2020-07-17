@@ -1,0 +1,348 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+    
+    
+      UNITED STATES
+      SECURITIES AND EXCHANGE COMMISSION
+      Washington, D.C. 20549
+       
+      
+      FORM 8-K
+       
+      
+      CURRENT REPORT
+       
+      
+      PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+       
+      
+      Date of Report (Date of earliest event reported):  November 30, 2018
+            (November 27, 2018)
+      
+      
+      AMCI Acquisition Corp.
+      (Exact name of registrant as specified in its charter)
+       
+      
+      
+
+          
+            
+              Delaware
+            
+             
+            
+              001-38742
+            
+             
+            
+              83-0982969
+            
+          
+          
+            
+              (State or other jurisdiction of incorporation)
+            
+             
+            
+              (Commission File Number)
+            
+             
+            
+              (IRS Employer Identification No.)
+            
+          
+
+      
+       
+      
+      975 Georges Station Road, Suite 900
+      Greensburg, PA 15601
+      (Address of principal executive offices, including zip code)
+       
+      
+      Registrant’s telephone number, including area code:  (724) 672-4319
+       
+      
+      Not Applicable
+      (Former name or former address, if changed since last report)
+       
+      
+      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+          under any of the following provisions:
+       
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+                
+              
+
+          
+        
+      
+       
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+                
+              
+
+          
+        
+      
+      
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+                
+              
+
+          
+        
+      
+      
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+                
+              
+
+          
+        
+      
+      
+      
+      Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+          chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+       
+      
+      Emerging growth company ☒
+       
+      
+      If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new
+          or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+       
+        
+      
+        
+      
+        
+          
+      
+      
+      
+        
+
+            
+              
+                Item 8.01.
+              
+              
+                Other
+                    Events.
+              
+            
+
+        
+      
+       
+      
+      As previously reported on a Current Report on Form 8-K of AMCI Acquisition Corp. (the “Company”), on November 20, 2018, the Company consummated its initial public offering (“IPO”) of 20,000,000 units (the “Units”). Each Unit consists of one share of Class A common stock of the Company, par value $0.0001 per share (the “ Class A Common Stock ”), and one warrant of the Company (“Warrant”), with each Warrant entitling the holder thereof to purchase one share of
+          Class A Common Stock for $11.50 per share. The Units were sold at a price of $10.00 per Unit, generating gross proceeds to the Company of $200,000,000. The Company had granted the underwriters for the IPO (the “Underwriters”) a 45-day option to purchase up to 3,000,000 additional Units to cover over-allotments, if any (“Over-Allotment Units”).
+
+
+
+
+          On November 27, 2018, the Underwriters exercised the option in part and purchased an aggregate of 2,052,077 Over-Allotment Units, which were sold at an offering price of $10.00 per Unit, generating gross proceeds of $20,520,770.
+       
+      
+      As previously reported on a Current Report on Form 8-K of the Company, on November 20, 2018, simultaneously with the consummation of
+          the IPO, the Company completed the private sale (the “Private Placement”) of an aggregate of 5,500,000 warrants (the “Private Placement Warrants”) to AMCI Sponsor LLC (the “Sponsor”) at a purchase price of $1.00 per Private Placement Warrant, generating
+          gross proceeds to the Company of $5,500,000. On November 27, 2018, in connection with the sale of Over-Allotment Units, the Company consummated a private sale of an additional 410,416 Private Placement Warrants to the Sponsor, generating gross
+          proceeds of $410,416.
+       
+      
+      In addition, the 5,750,000 shares of Class B common stock of the Company (the “Founder Shares”) held by the Sponsor (prior to the exercise of the over-allotment) included an aggregate of up to 750,000 Founder Shares subject to forfeiture by the Sponsor to the extent that the Underwriters’
+          over-allotment option was not exercised in full. Since the Underwriters exercised the over-allotment option in part, the Sponsor forfeited 236,981 Founder Shares on November 27, 2018. The Founder Shares forfeited by the Sponsor were cancelled by
+          the Company.
+       
+      
+      A total of $220,520,770, (or $10.00 per Unit) comprised of $216,110,354 of the proceeds from the IPO (including the Over-Allotment
+          Units) and $4,410,416 of the proceeds of the sale of the Private Placement Warrants, was placed in a U.S.-based trust account at J.P. Morgan Chase Bank, N.A., maintained by Continental Stock Transfer & Trust Company, acting as trustee.
+       
+      
+      An audited balance sheet as of November 20, 2018 reflecting receipt of the net proceeds from the IPO and the Private Placement on
+          November 20, 2018, but not the proceeds from the sale of the Over-Allotment Units nor the Private Placement on November 27, 2018, had been prepared by the Company and previously filed on a Current Report on Form 8-K on November 27, 2018. The
+          Company’s unaudited pro forma balance sheet as of November 27, 2018, reflecting receipt of the proceeds from the sale of the Over-Allotment Units and the Private Placement on the same day is included as Exhibit 99.1 to this Current Report on Form
+          8-K.
+      
+      
+      On November 27, 2018, the Company issued a press release announcing the consummation of the sale of the Over-Allotment Units, a copy
+          of which is included as Exhibit 99.2 to this Current Report on Form 8-K.
+      
+         
+      
+      
+        
+
+            
+              
+                Item 9.01
+              
+              
+                Financial Statements and
+                      Exhibits.
+              
+            
+
+        
+      
+       
+      
+      (d) Exhibits
+      
+      
+      
+
+          
+            
+              Exhibit No.
+            
+             
+            
+              Description
+            
+          
+          
+            
+              99.1
+            
+             
+            
+              Pro Forma Balance Sheet
+            
+          
+          
+            
+              99.2
+            
+             
+            
+              Press Release, dated November 27, 2018
+            
+          
+
+      
+       
+      
+      
+        1
+        
+          
+      
+      SIGNATURE
+       
+      
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+          behalf by the undersigned hereunto duly authorized.
+       
+      
+      
+
+          
+             
+            
+              AMCI ACQUISITION CORP.
+            
+          
+          
+             
+             
+             
+          
+          
+             
+            
+              By:
+            
+            
+              /s/ William Hunter
+            
+          
+          
+             
+             
+            
+              Name: William Hunter
+            
+          
+          
+             
+             
+            
+              Title:  Chief Executive Officer
+            
+          
+          
+             
+             
+             
+          
+          
+            
+              Dated: November 30, 2018
+            
+             
+             
+          
+
+      
+       
+      
+       
+       
+        
+      
+         2
+        
+    
+  
+
+
+

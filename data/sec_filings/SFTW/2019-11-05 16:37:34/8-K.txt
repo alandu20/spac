@@ -1,0 +1,418 @@
+
+8-K
+1
+d826136d8k.htm
+FORM 8-K
+
+
+Form 8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT
+REPORT  Pursuant to Section 13 or Section 15(d) 
+of the Securities Exchange Act of 1934 
+Date of Report (Date of earliest event reported): October 31, 2019 
+   
+OSPREY TECHNOLOGY ACQUISITION CORP. 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-39113
+ 
+83-1833760
+
+ (State or other jurisdiction
+of incorporation or organization)
+ 
+ (Commission
+File Number)
+ 
+ (I.R.S. Employer
+Identification Number)
+
+
+
+
+ 1845 Walnut Street, 10th Floor
+Philadelphia, PA
+ 
+19103
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ Registrants telephone number, including area code: (212)
+920-1345  Not Applicable 
+(Former name or former address, if changed since last report) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing
+obligation to the registrant under any of the following provisions:   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+  
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+  
+ Trading
+Symbol(s)
+  
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of Class A common stock, $0.0001 par value per share, and one-half of one redeemable warrant
+  
+SFTW.U
+  
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+ Item 1.01. Entry into a Material Definitive Agreement. 
+On November 5, 2019, Osprey Technology Acquisition Corp. (the Company) consummated the sale of 27,500,000 units (the
+Units) in its initial public offering (the IPO). Each Unit consists of one share of the Companys Class A common stock, par value $0.0001 per share (Common Stock), and
+one-half of one redeemable warrant (each, a Warrant), where each whole Warrant entitles the holder to purchase one share of Common Stock for $11.50 per share. The Units were sold in the IPO at an
+offering price of $10.00 per Unit for gross proceeds of $275,000,000 (before underwriting discounts and commissions and offering expenses). Pursuant to the Underwriting Agreement (defined below), the Company granted the underwriters in the IPO (the
+Underwriters) a 45-day option to purchase up to 4,125,000 additional Units solely to cover over-allotments, if any (the Over-Allotment Option). Immediately following the consummation of
+the IPO, there were an aggregate of 34,375,000 shares of the Companys common stock issued and outstanding, assuming no exercise of the Over-Allotment Option and the forfeiture of 1,031,250 shares of common stock by the Sponsor (defined below).
+ In connection with the closing of the IPO, the Company entered into the following agreements, forms of which were previously filed as
+exhibits to the Companys registration statement on Form S-1 (File No. 333-234180) for the IPO, originally filed with the Securities and Exchange Commission
+(the Commission) on October 11, 2019 (as amended, the Registration Statement):   
+
+
+ 
+
+ 
+ An Underwriting Agreement, dated October 31, 2019 (the Underwriting Agreement), between the
+Company and Credit Suisse Securities (USA) LLC (Credit Suisse), as representative of the Underwriters;   
+
+
+ 
+
+ 
+ An Investment Management Trust Agreement, dated October 31, 2019, between the Company and Continental Stock
+Transfer & Trust Company;   
+
+
+ 
+
+ 
+ A Warrant Agreement, dated October 31, 2019, between the Company and Continental Stock Transfer &
+Trust Company;   
+
+
+ 
+
+ 
+ A Registration Rights Agreement, dated October 31, 2019, among the Company and certain security holders of
+the Company;   
+
+
+ 
+
+ 
+ A Letter Agreement, dated October 31, 2019, by and among the Company, its officers, its directors and Osprey
+Sponsor II, LLC (the Sponsor);   
+
+
+ 
+
+ 
+ A Private Placement Warrants Purchase Agreement, dated October 31, 2019, by and between the Company and the
+Sponsor; and   
+
+
+ 
+
+ 
+ An Administrative Services Agreement, dated October 31, 2019, between the Company and the Sponsor.
+ A description of the material terms of each of these agreements is included in the Registration Statement and
+incorporated herein by this reference. Also attached as exhibits are specimen certificates for the Units, Common Stock and Warrants, forms of which were previously filed as exhibits to the Registration Statement, each of which is incorporated herein
+by this reference. 
+
+
+
+
+
+
+
+
+ Item 3.02. Unregistered Sales of Equity Securities. 
+Simultaneously with the consummation of the IPO, the Company consummated the issuance and sale (Private Placement) of 7,500,000
+warrants (the Placement Warrants) in a private placement transaction at a price of $1.00 per Placement Warrant, generating gross proceeds of $7,500,000. The Placement Warrants were purchased by the Sponsor and are identical to the
+Warrants included in the IPO except that, so long as they are held by the Sponsor or their permitted transferees, (a) they are not redeemable by the Company, (b) they (including the underlying Common Stock) may not be transferred, assigned
+or sold until 30 days after the consummation of the Companys initial business combination, subject to certain limited exceptions, and (c) they may be exercised on a cashless basis. No underwriting discounts or commissions were paid with
+respect to such sale. The issuance of the Placement Warrants was made pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended. 
+Item 3.03. Material Modification to Rights of Security Holders. 
+The disclosure set forth under Item 5.03 is incorporated herein by this reference. 
+Item 5.03. Amendments to Certificate of Incorporation or Bylaws; Change in Fiscal Year. 
+On November 1, 2019, in connection with the IPO, the Company filed its amended and restated certificate of incorporation (the
+Amended and Restated Certificate) with the Secretary of State of the State of Delaware. A description of the material terms of the Amended and Restated Certificate is included in the Registration Statement and incorporated herein by this
+reference. A copy of the Amended and Restated Certificate is attached hereto as Exhibit 3.1 and is incorporated herein by this reference. 
+Item 8.01. Other Events.  A total of
+$275,000,000 of the net proceeds from the IPO and the Private Placement (which includes approximately $9,625,000 of the Underwriters deferred discount) were placed in a trust account established for the benefit of the Companys public
+stockholders at JP Morgan Chase Bank, N.A., with Continental Stock Transfer & Trust Company acting as trustee. Except for the withdrawal of interest to pay taxes (or dissolution expenses if a business combination is not consummated), none
+of the funds held in the trust account will be released until the earlier of (i) the completion of the Companys initial business combination, (ii) in connection with a stockholder vote to amend the Amended and Restated Certificate
+(A) to modify the substance or timing of the Companys obligation to allow redemptions in connection with an initial business combination or to redeem 100% of its Common Stock if it does not complete an initial business combination within
+24 months from the closing of the IPO or (B) with respect to any other provision relating to stockholders rights or pre-initial business combination activity or (iii) the redemption of all
+shares of Common Stock issued in the IPO if the Company is unable to complete an initial business combination within 24 months from the closing of the IPO. 
+A copy of the press release issued by the Company on October 31, 2019 regarding the pricing of the IPO is included as Exhibit 99.1 to
+this Current Report on Form 8-K.  A copy of the press release issued by the Company on
+November 5, 2019 regarding the closing of the IPO is included as Exhibit 99.2 to this Current Report on Form 8-K. 
+
+
+
+
+
+
+
+
+ Item 9.01. Financial Statements and Exhibits. 
+(d) Exhibits.   
+
+
+
+
+
+
+
+
+
+
+ ExhibitNo.
+  
+ Description
+
+
+
+
+
+
+  1.1
+  
+Underwriting Agreement, dated October 31, 2019, between the Company and Credit Suisse Securities (USA) LLC. 
+
+
+
+
+  3.1
+  
+Amended and Restated Certificate of Incorporation, filed with the Secretary of State of the State of Delaware on November 1, 2019. 
+
+
+
+
+  4.1
+  
+Warrant Agreement, dated October 31, 2019, between Continental Stock Transfer & Trust Company and the Company. 
+
+
+
+
+  4.2
+  
+Specimen Unit Certificate. 
+
+
+
+
+  4.3
+  
+Specimen Class A Common Stock Certificate. 
+
+
+
+
+  4.4
+  
+Specimen Warrant Certificate (included in Exhibit 4.1). 
+
+
+
+
+10.1
+  
+Letter Agreement, dated October 31, 2019, by and among the Company, its officers, its directors and Osprey Sponsor II, LLC. 
+
+
+
+
+10.2
+  
+Investment Management Trust Agreement, dated October 31, 2019, between Continental Stock Transfer & Trust Company and the Company. 
+
+
+
+
+10.3
+  
+Registration Rights Agreement, dated October 31, 2019, among the Company and certain security holders. 
+
+
+
+
+10.4
+  
+Private Placement Warrants Purchase Agreement, dated October 31, 2019, between the Company and Osprey Sponsor II, LLC. 
+
+
+
+
+10.5
+  
+Administrative Services Agreement, dated October 31, 2019, between the Company and Osprey Sponsor II, LLC. 
+
+
+
+
+99.1
+  
+Press Release, dated October 31, 2019 (pricing of the IPO). 
+
+
+
+
+99.2
+  
+Press Release, dated November 5, 2019 (closing of the IPO). 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dated: November 5, 2019
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+OSPREY TECHNOLOGY ACQUISITION CORP.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Jeffrey F. Brotman
+
+
+ 
+
+ 
+Name: Jeffrey F. Brotman
+
+
+ 
+
+ 
+Title: Chief Financial Officer, Chief Legal Officer and Secretary
+
+
+
+
+

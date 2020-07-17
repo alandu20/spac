@@ -1,0 +1,292 @@
+
+8-K
+1
+d937909d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+WASHINGTON, D.C. 20549   
+  FORM 8-K   
+  CURRENT
+REPORT  PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (Date of earliest event reported): June 15, 2020 
+   
+CF FINANCE ACQUISITION CORP. 
+(Exact Name of Registrant as Specified in Charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38759
+ 
+47-3806343
+
+(State or Other Jurisdictionof Incorporation)
+ 
+(CommissionFile Number)
+ 
+(IRS EmployerIdentification No.)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 110 East 59th Street
+New York, New York
+ 
+10022
+
+(Address of Principal Executive Offices)
+ 
+(Zip Code)
+ Registrants telephone number, including area code: 
+(212) 938-5000 Not Applicable 
+(Former Name or Former Address, if Changed Since Last Report) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing
+obligation of the registrant under any of the following provisions (see General Instruction A.2. below):   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+  
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))  Securities registered pursuant
+to Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbol(s)
+ 
+ Name of each exchange onwhich registered
+
+
+
+Units, each consisting of one share of Class A common stock and three-quarters of one redeemable warrant
+ 
+CFFAU
+ 
+The Nasdaq Stock Market
+
+Class A common stock, par value $0.0001 per share
+ 
+CFFA
+ 
+The Nasdaq Stock Market
+
+Redeemable warrants, exercisable for Class A common stock at an exercise price of $11.50 per share
+ 
+CFFAW
+ 
+The Nasdaq Stock Market
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act
+of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+ Item 1.01. Entry into a Material Definitive Agreement. 
+On June 15, 2020, CF Finance Acquisition Corp. (the Company) issued a promissory note (the
+Note) in the principal amount of $2,489,824.17 to CF Finance Holdings LLC (the Sponsor), pursuant to which the Sponsor loaned the Company the necessary funds to deposit in the Companys trust
+account for each share of the Companys Class A common stock (Public Share) that was not redeemed in connection with the extension of the Companys termination date from June 17, 2020 until September 17,
+2020.  The Company will deposit the funds into the Companys trust account and such amount will be distributed either to:
+(i) all of the holders of Public Shares upon the Companys liquidation or (ii) holders of Public Shares who elect to have their shares redeemed in connection with the consummation of the Companys initial business combination.
+ The Note bears no interest and is repayable in full upon consummation of the Companys initial business combination. Up to $750,000
+of the Note may also be converted into warrants at a price of $1.00 per warrant at the option of the Sponsor upon the consummation of the Companys initial business combination. Such warrants would be identical to the private placement warrants
+issued to the Sponsor at the Companys initial public offering.  The issuance of the Note was made pursuant to the exemption from
+registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended.  The foregoing description is qualified in its
+entirety by reference to the Note, a copy of which is attached as Exhibit 10.1 hereto and is incorporated herein by reference.  Item 2.03.
+Creation of a Direct Financial Obligation or an Obligation Under an Off-balance Sheet Arrangement of a Registrant. 
+The disclosure contained in Item 1.01 of this Current Report on Form 8-K is incorporated by reference
+in this Item 2.03.  Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. 
+On June 15, 2020, the Company filed an amendment to the Companys Amended and Restated Certificate of Incorporation with the
+Secretary of State of the State of Delaware (the Charter Amendment). The Charter Amendment extends the date by which the Company must consummate its initial business combination from June 17, 2020 to September 17, 2020.
+ The foregoing description is qualified in its entirety by reference to the Charter Amendment, a copy of which is attached as Exhibit
+3.1 hereto and is incorporated by reference herein.  Item 5.07. Submission of Matters to a Vote of Security Holders. 
+On June 15, 2020, the Company held a special meeting of stockholders (the Meeting). At the Meeting, the Companys
+stockholders approved the Charter Amendment extending the date by which the Company must consummate its initial business combination from June 17, 2020 to September 17, 2020 (the Extension Amendment Proposal). 
+The final voting results for the Extension Amendment Proposal were as follows: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ For
+ 
+ Against
+ 
+ Abstain
+ 
+ Broker
+Non-Votes
+
+
+
+ 30,906,825
+ 
+ 82,683
+ 
+ 2,000
+ 
+ 0
+ Stockholders holding 593,700 shares of the Companys Class A common stock exercised their right to
+redeem such shares for a pro rata portion of the funds in the Companys trust account. As a result, approximately $6.1 million (approximately $10.27 per share) will be removed from the Companys trust account to pay such holders.
+
+
+
+
+
+
+
+
+ Item 9.01 Financial Statements and Exhibits 
+ 
+
+
+
+
+
+
+
+
+
+
+ Exhibit Number
+  
+ Description
+
+
+
+
+
+
+3.1
+  
+Amendment to Amended and Restated Certificate of Incorporation. 
+
+
+
+
+10.1
+  
+Promissory Note, dated June 15, 2020. 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.  Dated: June 16, 2020 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CF FINANCE ACQUISITION CORP.
+
+
+
+
+By:
+ 
+ /s/ Howard W. Lutnick
+
+Name: Howard W. Lutnick
+
+Title: Chairman and Chief Executive Officer
+ [Signature Page to Form 8-K regarding action taken at the
+Companys Special Meeting of Stockholders,  Promissory Note and amendment to the Amended and Restated Certificate of
+Incorporation] 
+
+
+
+

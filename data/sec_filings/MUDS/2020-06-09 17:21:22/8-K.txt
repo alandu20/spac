@@ -1,0 +1,433 @@
+
+8-K12B/A
+1
+tm2021571d4_8k12ba.htm
+FORM 8-K12B/A
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K/A
+(Amendment No. 1)
+
+ 
+
+CURRENT REPORT Pursuant
+
+
+to
+Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): May 29, 2020
+
+ 
+
+ 
+
+HYCROFT MINING HOLDING CORPORATION
+
+
+
+ 
+
+
+
+(Exact name of Registrant as Specified
+in Its Charter)
+
+  
+
+
+
+    
+        Delaware
+    
+        001-38387
+        
+    
+        82-2657796
+        
+
+    
+        (State or Other Jurisdiction of
+        Incorporation)
+    
+        (Commission 
+        File Number)
+    
+        (IRS Employer
+        Identification No.)
+        
+
+ 
+
+
+
+    
+        8181 E. Tufts Avenue, Suite 510
+        Denver, Colorado
+    80237
+
+    
+    
+
+    (Address of principal executive offices)  
+    (Zip Code)
+
+ 
+
+(303) 524-1947
+
+
+
+(Registrant’s Telephone Number,
+Including Area Code)
+
+ 
+
+Mudrick Capital Acquisition Corporation
+527 Madison Avenue, 6th Floor
+New York, New York 10022
+
+
+
+ 
+
+
+
+
+
+(Former Name or Former Address, if Changed
+Since Last Report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions
+(see General Instruction A.2. below):
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the
+Act:
+
+ 
+
+
+
+    Title of each class
+     
+    
+        Trading
+        Symbol(s)
+        
+     
+    
+        Name of each exchange
+        on which registered
+        
+
+    
+        Class A common stock,
+        par value $0.0001 per share
+        
+     
+    HYMC
+     
+    The Nasdaq Capital Market
+
+     
+     
+     
+     
+     
+
+    Warrants to purchase
+Common Stock
+     
+    HYMCW
+     
+    The Nasdaq Capital Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+ 
+
+EXPLANATORY NOTE
+
+ 
+
+The purpose of this Amendment No. 1 on Form 8-K/A to Hycroft
+Mining Holding Corporation’s Current Report on Form 8-K, originally filed with the Securities and Exchange Commission on
+June 4, 2016 (the “Form 8-K”), is solely to furnish our XBRL (eXtensible Business Reporting Language) interactive data
+files as an exhibit to the Form 8-K in accordance with Regulation S-T.
+
+ 
+
+No other changes have been made to the Form 8-K. This Amendment
+No. 1 speaks as of the original filing date of the Form 8-K, does not reflect events that may have occurred subsequent to the original
+filing date and does not modify or update in any way disclosures made in the original Form 8-K.
+
+ 
+
+
+Item 9.01.Financial Statements and Exhibits.
+
+ 
+
+
+(d)Exhibits
+
+
+ 
+
+101.INS XBRL Instance*
+
+ 
+
+101.SCH XBRL Taxonomy
+Extension Schema*
+
+ 
+
+101.CAL XBRL Taxonomy
+Extension Calculation*
+
+ 
+
+101.DEF XBRL Taxonomy
+Extension Definition*
+
+ 
+
+101.LAB XBRL Taxonomy
+Extension Labeled*
+
+ 
+
+101.PRE XBRL Taxonomy
+Extension Presentation*
+
+ 
+
+* Furnished herewith.
+
+ 
+
+
+
+
+    2
+    
+    
+
+ 
+
+EXHIBIT INDEX
+
+ 
+
+
+
+    101.INS
+     
+    XBRL Instance*
+
+     
+     
+     
+
+    101.SCH
+     
+    XBRL Taxonomy Extension Schema*
+
+     
+     
+     
+
+    101.CAL
+     
+    XBRL Taxonomy Extension Calculation*
+
+     
+     
+     
+
+    101.DEF
+     
+    XBRL Taxonomy Extension Definition*
+
+     
+     
+     
+
+    101.LAB
+     
+    XBRL Taxonomy Extension Labeled*
+
+     
+     
+     
+
+    101.PRE
+     
+    XBRL Taxonomy
+Extension Presentation*
+
+ 
+
+ 
+
+ *        Filed
+herewith
+
+  
+
+
+
+
+    3
+    
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+    Dated: June 9, 2020
+    Hycroft Mining Holding Corporation
+     
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+    By:
+    /s/ Stephen M. Jones
+     
+
+     
+     
+    Stephen M. Jones
+     
+
+     
+     
+    Executive Vice President and Chief Financial Officer
+
+
+ 
+
+
+
+
+    4
+    
+
+ 
+
+
+
+
+
+
+
+

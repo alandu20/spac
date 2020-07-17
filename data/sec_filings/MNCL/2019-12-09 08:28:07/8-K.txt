@@ -1,0 +1,773 @@
+
+8-K
+1
+tm1924738d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+December 8, 2019
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+MONOCLE ACQUISITION CORPORATION
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+    Delaware
+    001-38801
+    82-1751907
+
+    (State or other jurisdiction 
+of incorporation)
+    (Commission 
+File Number)
+    (IRS Employer 
+Identification No.)
+
+ 
+
+750 Lexington Avenue, Suite 1501
+New York, NY 10022
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including area code: (212) 446-6981
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+ 
+
+
+xWritten communications pursuant to Rule 425 under
+the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under
+the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading
+ Symbol(s)
+     
+    Name of each exchange on which
+ registered
+
+    Units, each consisting of one share of Common 
+Stock and one redeemable Warrant
+     
+    MNCLU
+     
+    The Nasdaq Stock Market LLC
+
+    Common Stock, par value $0.0001 per share
+     
+    MNCL
+     
+    The Nasdaq Stock Market LLC
+
+    Redeemable warrants, each warrant exercisable 
+for one share of Common Stock at an exercise
+ price of $11.50
+     
+    MNCLW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of
+this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company.
+x
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 1.01Entry into a Material Definitive Agreement.
+
+ 
+
+Agreement and Plan of Merger
+
+ 
+
+On December 8,
+2019, Monocle Acquisition Corporation (“Monocle”) entered into an Agreement and Plan of Merger (the
+“Merger Agreement”) with Monocle Holdings Inc., a Delaware corporation and wholly-owned direct subsidiary
+of Monocle (“NewCo”), Monocle Merger Sub 1 Inc., a Delaware corporation and wholly-owned direct subsidiary
+of NewCo (“Merger Sub 1”), Monocle Merger Sub 2 LLC, a Delaware limited liability company and wholly-owned
+indirect subsidiary of NewCo (“Merger Sub 2” and together with Monocle, NewCo and Merger Sub 1, the
+“Monocle Parties”), AerSale Corp., a Delaware corporation (“AerSale”), and solely in
+its capacity as the initial Holder Representative, Leonard Green & Partners, L.P., a Delaware limited partnership.
+
+ 
+
+Pursuant to the Merger
+Agreement, (a) Merger Sub 1 will be merged with and into Monocle, with Monocle surviving the merger as a wholly-owned direct subsidiary
+of NewCo (the “First Merger”), and (b) Merger Sub 2 will be merged with and into AerSale, with AerSale surviving
+the merger as a wholly-owned indirect subsidiary of NewCo (the “Second Merger”). The First Merger, the Second
+Merger and the other transactions contemplated in the Merger Agreement are referred to herein as the “Business Combination.”
+In connection with the Business Combination, Monocle and AerSale will become direct or indirect wholly-owned subsidiaries of NewCo,
+the new public company after the closing of the Business Combination (the “Closing”). 
+
+ 
+
+Merger Consideration
+
+ 
+
+Under the Merger Agreement
+and pursuant to the First Merger, (i) all of the issued and outstanding shares of common stock of Monocle, par value $0.0001 per
+share (“Monocle Common Stock”), will be exchanged on a one-for-one basis for shares of common stock of NewCo,
+par value $0.0001 per share (“NewCo Common Stock”), (ii) each outstanding and unexercised warrant to purchase
+Monocle Common Stock will be exchanged on a one-for-one basis for a warrant to purchase NewCo Common Stock, in the same form and
+on the same terms and conditions as such warrants to purchase Monocle Common Stock, and (iii) each issued and outstanding shares
+of common stock of Merger Sub 1 will be canceled and converted into and become, on a one-for-one basis, a share of Monocle Common
+Stock.
+
+ 
+
+Under the Merger Agreement
+and pursuant to the Second Merger, the holders of issued and outstanding shares of capital stock of AerSale and AerSale in-the-money
+stock appreciation rights (“SARs”) will receive aggregate consideration equal to $400 million, consisting of
+(i) $250 million payable in cash (the “Aggregate Cash Consideration”) and (ii) 15,000,000 shares of
+NewCo Common Stock, valued at $10 per share (i.e., $150 million in the aggregate) (the “Aggregate Common Stock Consideration”).
+Under certain circumstances, the cash consideration payable at closing may be reduced to not less than $200 million in exchange
+for the issuance of up to $50 million of 5.00% Series A Convertible Preferred Stock of NewCo, par value $0.0001 per share (“NewCo
+Convertible Preferred Stock”) to the AerSale stockholders and holders of SARs.
+
+ 
+
+Holders of
+AerSale common stock, par value $0.01 per share, and SARs will also receive as consideration a contingent right to receive up
+to 2,500,000 additional shares of NewCo Common Stock in the aggregate, half of which will be issued at such time as the NewCo
+Common Stock price is greater than $12.50 per share for any period of twenty (20) trading days out of thirty (30) consecutive
+trading days on or prior to the fifth anniversary of the date of the Closing (the “Closing Date”) and the
+other half of which will be issued at such time as the NewCo Common Stock price is greater than $14.00 per share for any
+period of twenty (20) trading days out of thirty (30) consecutive trading days on or prior to the fifth anniversary of the
+Closing Date (collectively, the “Earnout Shares”). The Earnout Shares will also be issued upon the
+occurrence of a Liquidity Event (as defined in the Merger Agreement), solely to the extent the Liquidity Event Consideration
+(as defined in the Merger Agreement) is greater than $12.50, in which case half of the Earnout Shares will be issued, or
+$14.00, in which case the other half of the Earnout Shares will also be issued. Earnout Shares that have not been issued on
+or prior to the fifth anniversary of the Closing Date will be cancelled.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Representations
+and Warranties
+
+ 
+
+The Merger Agreement
+contains customary representations and warranties by the parties thereto. Except for any claim based upon Fraud (as defined in
+the Merger Agreement), the representations and warranties made by AerSale and Monocle to each other in the Merger Agreement will
+not survive the consummation of the Business Combination. Monocle has obtained customary representations and warranties insurance
+coverage in the event of breaches of the representations and warranties by AerSale.
+
+ 
+
+Covenants
+
+ 
+
+The Merger Agreement
+contains customary covenants of the parties thereto with respect to operation of their respective businesses prior to the Closing
+and efforts required to satisfy conditions precedent to the consummation of the Business Combination.
+
+ 
+
+Mutual Conditions
+to the Closing
+
+ 
+
+The Closing is subject
+to certain mutual conditions, including, among others, (i) the approval of the Business Combination and certain related matters
+by the requisite vote of holders of Monocle Common Stock, (ii) that the amount by which Necessary Cash (as more particularly defined
+in the Merger Agreement, but generally the amount of cash necessary to pay the Aggregate Cash Consideration plus each party’s
+transaction expenses and certain other amounts) exceeds Available Cash (as more particularly defined in the Merger Agreement, but
+generally the amount of the cash available from Monocle’s trust account after redemptions of Monocle Common Stock pursuant
+to Monocle’s amended and restated certificate of incorporation plus cash received from the debt financing and certain other
+amounts) is not more than $50 million, (iii) the expiration or termination of all applicable waiting periods (and any extensions
+thereof) under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “HSR Act”), (iv) no
+law or order prohibiting the consummation of the Business Combination being in force, (v) the execution and delivery of a customary
+registration rights agreement and lock-up agreement by the parties thereto, (vi) in the event that any NewCo Convertible Preferred
+Stock is issued, that the NewCo Certificate of Designation (as defined in the Merger Agreement) has been properly filed and is
+in effect prior to the Closing, and (vii) other customary closing conditions.
+
+ 
+
+AerSale’s
+Conditions to the Closing
+
+ 
+
+The obligation of
+AerSale to consummate the Business Combination is also conditioned upon, among other things: (i) the accuracy of the representations
+and warranties of the Monocle Parties (subject to customary materiality qualifiers) and (ii) the Monocle Parties performing in
+all material respects each of the covenants to be performed by it as of or prior to the Closing.
+
+ 
+
+Monocle’s
+Conditions to the Closing
+
+ 
+
+The obligation of
+Monocle to consummate the Business Combination is also conditioned upon, among other things: (i) the accuracy of the representations
+and warranties of AerSale (subject to customary materiality qualifiers except for certain fundamental representations), (ii) AerSale
+performing in all material respects each of the covenants to be performed by it as of or prior to the Closing and (iii) no Material
+Adverse Effect (as defined in the Merger Agreement) having occurred or continuing from the date of the Merger Agreement.
+
+ 
+
+Termination
+
+ 
+
+The Merger Agreement
+may be terminated under certain circumstances, including, among others: (i) by written consent of AerSale and Monocle; (ii)
+by AerSale or Monocle if the Closing has not occurred on or prior to August 31, 2020 (the “Termination Date”);
+provided, that either party may extend the Termination Date by one additional three (3) month-period if all of the conditions
+to Closing have been satisfied or waived as of the Termination Date, except for the condition related to the expiration or termination
+of the HSR Act waiting period; (iii) by either AerSale or Monocle if the other party has materially breached any of its representations,
+warranties, covenants or agreements set forth in the Merger Agreement such that the applicable condition to Closing would not be
+satisfied and has not cured such breach by the earlier of (a) 30 days of a written notice of such breach or (b) the Termination
+Date; (iv) by written notice of either party if the consummation of the Business Combination is permanently enjoined or prohibited
+by a final, non-appealable governmental order or (v) by either AerSale or Monocle if the Monocle Stockholder Approval (as defined
+in the Merger Agreement) is not obtained or if Necessary Cash exceeds Available Cash by more than $50 million.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Trust Account Waiver
+
+ 
+
+AerSale has agreed
+that it and its stockholders and affiliates will not have any right, title, interest or claim of any kind in or to any monies in
+Monocle’s trust account held for its public shareholders, and has agreed not to, and has waived any right to, make any claim
+against the trust account (including any distributions therefrom) directly or indirectly to Monocle’s public shareholders.
+
+ 
+
+The foregoing description
+of the Merger Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the Merger
+Agreement, a copy of which is attached as Exhibit 2.1 hereto and is incorporated by reference herein. The Merger Agreement
+has been attached to provide investors with information regarding its terms. The representations, warranties, covenants and agreements
+contained in the Merger Agreement, which were made only for purposes of such agreement and as of specific dates, were solely for
+the benefit of the parties to the Merger Agreement, may be subject to limitations agreed upon by the contracting parties (including
+being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Merger
+Agreement instead of establishing these matters as facts) and may be subject to standards of materiality applicable to the contracting
+parties that differ from those applicable to investors and reports and documents filed with the U.S. Securities and Exchange Commission
+(the “SEC”). Investors should not rely on the representations, warranties, covenants and agreements, or any
+descriptions thereof, as characterizations of the actual state of facts or condition of any party to the Merger Agreement. In addition,
+the representations, warranties, covenants and agreements and other terms of the Merger Agreement may be subject to subsequent
+waiver or modification. Moreover, information concerning the subject matter of the representations and warranties and other terms
+may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in Monocle’s
+public disclosures.
+
+ 
+
+Debt Financing
+
+ 
+
+In order to finance
+a portion of the Aggregate Cash Consideration payable in the Business Combination and the costs and expenses incurred in connection
+therewith, Monocle and NewCo entered into a debt commitment letter with Wells Fargo Bank, N.A. and PNC Bank, N.A., dated December
+8, 2019 (the “Debt Commitment Letter”), in connection with a $150 million senior secured asset-based revolving
+credit facility (the “ABL Facility”).
+
+ 
+
+The foregoing description
+of the Debt Commitment Letter does not purport to be complete and is qualified in its entirety by the terms and conditions of the
+Debt Commitment Letter, a copy of which is filed as Exhibit 10.1 hereto and incorporated by reference herein.
+
+ 
+
+Related Agreements
+
+ 
+
+Support and Release
+Agreement
+
+ 
+
+Concurrently with
+the execution of the Merger Agreement, NewCo, Monocle and the AerSale stockholders entered into a support and release agreement
+(the “Support and Release Agreement”), pursuant to which (i) the AerSale stockholders have agreed not to transfer
+any shares of AerSale capital stock prior to the Closing, (ii) the AerSale stockholders have made certain representations as to
+their ownership of AerSale capital stock, (iii) the AerSale stockholders have agreed to customary releases in favor of NewCo, Monocle
+and their respective affiliates related to activity on or prior to the Closing, and (iv) NewCo and Monocle, on behalf of themselves
+and the other Monocle Parties and their respective affiliates, have agreed to customary releases in favor of the AerSale stockholders
+and their respective affiliates related to activity on or prior to the Closing.
+
+ 
+
+The foregoing description
+of the Support and Release Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions
+of the Support and Release Agreement, a copy of which is filed as Exhibit 10.2 hereto and incorporated by reference herein.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Founder Shares
+Agreement
+
+ 
+
+Concurrently
+with the execution of the Merger Agreement, the founders of Monocle entered into a founder shares agreement
+(the “Founder Shares Agreement”), pursuant to which they have agreed to defer the vesting of an aggregate
+of 1,293,750 shares of Monocle Common Stock held by the Founders (representing 30% of the Founder Shares
+(as defined in the Merger Agreement)) (the “Unvested Founder Shares”), half of which will vest at such time as the
+NewCo Common Stock price is greater than $12.50 per share for any period of twenty (20) trading days out of thirty
+(30) consecutive trading days and the other half of which will vest at such time as the NewCo Common Stock price is greater
+than $14.00 per share for any period of twenty (20) trading days out of thirty (30) consecutive trading days. The Unvested
+Founder Shares will also vest upon the occurrence of a Liquidity Event on or prior to the fifth anniversary of the date of
+the Founder Shares Agreement, solely to the extent the Liquidity Event Consideration is greater than $12.50, in which case
+half of the Unvested Founder Shares which will vest, or $14.00, in which case the other half of the Unvested Founder Shares
+will also vest. Unvested Founder Shares that have not vested on or prior to the fifth anniversary of the Closing Date will
+be forfeited.
+
+ 
+
+The foregoing description
+of the Founder Shares Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of
+the Founder Shares Agreement, a copy of which is filed as Exhibit 10.3 hereto and incorporated by reference herein.
+
+ 
+
+
+Item 3.02Unregistered Sales of Equity Securities.
+
+ 
+
+The disclosure set
+forth above in Item 1.01 of this Current Report on Form 8-K with respect to the issuance of NewCo Common Stock and the potential
+issuance of NewCo Convertible Preferred Stock (the “Securities”) to the AerSale stockholders and SAR holders
+is incorporated by reference herein. The issuance of the Securities will not be registered under the Securities Act of 1933, as
+amended (the “Securities Act”), in reliance on the exemption from registration provided by Section 4(a)(2) of
+the Securities Act and/or Regulation D promulgated thereunder.
+
+ 
+
+
+Item 7.01Regulation FD Disclosure.
+
+ 
+
+On December 9, 2019,
+Monocle issued a press release announcing the execution of the Merger Agreement. A copy of the press release is furnished as Exhibit
+99.1 hereto.
+
+ 
+
+Furnished as Exhibit
+99.2 is a copy of an investor presentation to be used by Monocle in connection with the Business Combination.
+
+ 
+
+Monocle and AerSale
+will also host a teleconference at 10:30 a.m. Eastern Time. The teleconference and accompanying investor presentation can be accessed
+by visiting https://event.on24.com/wcc/r/2154390-1/A2D2AFD31A767E1FF8CF3D45AE919BA8. The teleconference can also be accessed
+by dialing +1 (866) 342 8591 or +1 (203) 518 9713 and providing the conference ID 120919 or asking for the Monocle/AerSale teleconference.
+
+ 
+
+A replay will
+be available from December 9, 2019 at  12:30 p.m. Eastern Time. The replay can be accessed by visiting
+the same link.
+
+ 
+
+The information in
+this Item 7.01 and Exhibits 99.1 and 99.2 attached hereto shall not be deemed “filed” for purposes of Section 18 of
+the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities
+of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except
+as expressly set forth by specific reference in such filing.
+
+ 
+
+Important Information About the Business Combination
+and Where to Find It
+
+ 
+
+In connection with
+the proposed Business Combination, Monocle intends to file a Registration Statement on Form S-4, which will include a preliminary
+proxy statement/prospectus of Monocle. Monocle will mail a definitive proxy statement/prospectus and other relevant documents to
+its stockholders. MONOCLES STOCKHOLDERS AND OTHER INTERESTED PERSONS ARE ADVISED TO READ, WHEN AVAILABLE, THE PRELIMINARY PROXY
+STATEMENT/PROSPECTUS AND THE AMENDMENTS THERETO AND THE DEFINITIVE PROXY STATEMENT/PROSPECTUS AND DOCUMENTS INCORPORATED BY REFERENCE
+THEREIN FILED IN CONNECTION WITH THE PROPOSED BUSINESS COMBINATION, AS THESE MATERIALS WILL CONTAIN IMPORTANT INFORMATION ABOUT
+AERSALE, MONOCLE AND THE PROPOSED BUSINESS COMBINATION. When available, the definitive proxy statement/prospectus and other relevant
+materials for the proposed Business Combination will be mailed to stockholders of Monocle as of a record date to be established
+for voting on the proposed Business Combination. Stockholders will also be able to obtain copies of the preliminary proxy statement/prospectus,
+the definitive proxy statement/prospectus and other documents filed with the SEC that will be incorporated by reference therein,
+without charge, once available, at the SEC’s web site at www.sec.gov.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+Monocle
+and AerSale and their respective directors and executive officers, under SEC rules, may be deemed to be participants in the solicitation
+of proxies of Monocle’s stockholders in connection with the proposed Business Combination. Investors and security holders
+may obtain more detailed information regarding the names and interests in the proposed Business Combination of Monocle’s
+directors and officers in Monocle’s filings with the SEC, including Monocle’s Form S-1 registration statement, which
+was declared effective by the SEC on February 6, 2019. Information regarding the persons who may, under SEC rules, be deemed participants
+in the solicitation of proxies to Monocle’s stockholders in connection with the proposed Business Combination will be set
+forth in the proxy statement/prospectus for the proposed Business Combination when available. Additional information regarding
+the interests of participants in the solicitation of proxies in connection with the proposed Business Combination will be included
+in the registration statement that the parties intend to file with the SEC.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report
+on Form 8-K includes “forward-looking statements” within the meaning of the “safe harbor” provisions of
+the Private Securities Litigation Reform Act of 1995. Monocle’s and AerSale’s actual results may differ from their
+expectations, estimates and projections and consequently, you should not rely on these forward looking statements as predictions
+of future events. Words such as “expect,” “estimate,” “project,” “budget,” “forecast,”
+“anticipate,” “intend,” “plan,” “may,” “will,” “could,”
+“should,” “believes,” “predicts,” “potential,” “continue,” and similar
+expressions are intended to identify such forward-looking statements. These forward-looking statements include, without limitation,
+Monocle’s and AerSale’s expectations with respect to future performance and anticipated financial impacts of the Business
+Combination, the satisfaction of the closing conditions to the Business Combination and the timing of the completion of the Business
+Combination. These forward-looking statements involve significant risks and uncertainties that could cause the actual results to
+differ materially from the expected results. Most of these factors are outside Monocle’s and AerSale’s control and
+are difficult to predict. Factors that may cause such differences include, but are not limited to: (1) the occurrence of any event,
+change or other circumstances that could give rise to the termination of the Merger Agreement or could otherwise cause the Business
+Combination to fail to close; (2) the outcome of any legal proceedings that may be instituted against Monocle and AerSale following
+the announcement of the Merger Agreement and the Business Combination; (3) the inability to complete the Business Combination,
+including due to failure to obtain approvals from the stockholders of Monocle and AerSale or other conditions to closing in the
+Merger Agreement; (4) the inability to obtain or maintain the listing of the shares of common stock of the post-acquisition company
+on The Nasdaq Stock Market following the Business Combination; (5) the risk that the Business Combination disrupts current plans
+and operations as a result of the announcement and consummation of the Business Combination; (6) the ability to recognize the anticipated
+benefits of the Business Combination, which may be affected by, among other things, competition, the ability of the combined company
+to grow and manage growth profitably and retain its key employees; (7) costs related to the Business Combination; (8) changes in
+applicable laws or regulations; (9) the possibility that AerSale or the combined company may be adversely affected by other economic,
+business, and/or competitive factors; and (10) other risks and uncertainties indicated from time to time in the proxy statement/prospectus
+relating to the Business Combination, including those under “Risk Factors” therein, and in Monocle’s other filings
+with the SEC. Monocle cautions that the foregoing list of factors is not exclusive. Monocle further cautions readers not to place
+undue reliance upon any forward-looking statements, which speak only as of the date made. Monocle does not undertake to release
+publicly any updates or revisions to any forward-looking statements to reflect any change in its expectations or any change in
+events, conditions or circumstances on which any such statement is based unless required to do so under applicable law.
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report
+on Form 8-K is not a proxy statement or solicitation of a proxy, consent or authorization
+with respect to any securities or in respect of the proposed Business Combination and shall not constitute an offer to sell or
+a solicitation of an offer to buy any securities, nor shall there be any sale of any securities in any state or jurisdiction in
+which such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of such
+state or jurisdiction.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+
+
+
+Item 9.01
+Financial Statements and Exhibits. 
+
+
+
+ 
+
+
+(d) Exhibits
+
+ 
+
+
+
+Exhibit No.
+ 
+Description
+
+2.1*
+ 
+Agreement
+and Plan of Merger, dated as of December 8, 2019, by and between Monocle Acquisition Corporation, Monocle Holdings Inc.,
+Monocle Merger Sub 1 Inc., Monocle Merger Sub 2 LLC, AerSale Corp. and, solely in its capacity as the initial Holder
+Representative, Leonard Green & Partners, L.P.
+
+10.1
+ 
+Debt Commitment Letter, dated December 8, 2019, by and among Wells Fargo Bank, N.A., PNC Bank, National Association, Monocle Acquisition Corporation and Monocle Holdings Inc.
+
+10.2
+ 
+Company Support and Mutual Release Agreement, dated December 8, 2019, by and among Monocle Holdings Inc., Monocle Acquisition Corporation, Green Equity Investors V, L.P., Green Equity Investors Side V, L.P., LGP Parts Coinvest LLC., Florida Growth Fund LLC, Enarey, LP and ThoughtValley Limited Partnership.
+
+10.3
+ 
+Founder Shares Agreement, dated December 8, 2019, by and among Monocle Partners, LLC, Cowen Investments II LLC, Monocle Acquisition Corporation and Monocle Holdings Inc.
+
+99.1
+ 
+Press Release, dated December 9, 2019.
+
+99.2
+ 
+Investor Presentation, dated December 9, 2019.
+
+
+
+ 
+
+
+
+
+*
+Certain exhibits and schedules to this Exhibit have been omitted in accordance with Regulation S-K Item 601(b)(2). Monocle agrees to furnish supplementally a copy of any omitted exhibit or schedule to the SEC upon its request.
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    MONOCLE ACQUISITION CORPORATION
+
+     
+     
+
+     
+     
+
+     
+    By:
+    /s/ Eric J. Zahler
+
+     
+     
+    Name: Eric J. Zahler
+
+     
+     
+    Title: President and Chief Executive Officer
+
+     
+     
+
+    Dated: December 9, 2019
+    
+
+
+
+ 
+
+
+
+
+     
+    
+
+ 
+
+ 
+
+
+
+

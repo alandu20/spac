@@ -1,0 +1,363 @@
+
+8-K
+1
+d949880d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT
+REPORT  PURSUANT TO SECTION 13 OR 15(D) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (Date of earliest event reported): June 22, 2020 
+   
+ARYA SCIENCES ACQUISITION CORP. 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cayman Islands
+ 
+001-38688
+ 
+98-1436307
+
+ (State or other jurisdiction
+of incorporation)
+ 
+ (Commission
+File Number)
+ 
+ (I.R.S. Employer
+Identification No.)
+
+
+
+
+
+ 51 Astor Place, 10th Floor
+New York, NY
+ 
+
+ 
+10003
+
+ (Address of principal
+executive offices)
+ 
+
+ 
+(Zip Code)
+ (212) 284-2300 
+(Registrants telephone number, including area code) 
+Not Applicable  (Former
+name or former address, if changed since last report)   
+  Check the appropriate box below
+if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:   
+
+
+☒
+ Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☒
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  Securities registered pursuant to
+Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbol(s)
+ 
+ Name of each exchange
+on which registered
+
+
+
+Class A ordinary shares included as part of the units
+ 
+ARYA
+ 
+The NASDAQ Stock Market LLC
+
+Warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+ 
+ARYAW
+ 
+The NASDAQ Stock Market LLC
+
+Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-half of one redeemable warrant
+ 
+ARYAU
+ 
+The NASDAQ Stock Market LLC
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+ Item 8.01 Other Events 
+Supplemental Disclosures to Proxy Statement 
+As previously disclosed, on March 17, 2020, ARYA Sciences Acquisition Corp., a Cayman Islands exempted company (ARYA or
+the Company), entered into a Business Combination Agreement (as it may be amended, supplemented or otherwise modified from time to time, the Business Combination Agreement), by and among ARYA, Immatics B.V., a
+Netherlands private limited liability company (TopCo), Immatics Biotechnologies GmbH, a German limited liability company (Immatics), Immatics Merger Sub 1, a Cayman Islands exempted company, and Immatics Merger
+Sub 2, a Cayman Islands exempted company.  On June 17, 2020, the Company received a letter (the Shareholder
+Letter) from a purported shareholder of ARYA claiming certain allegedly material omissions in the definitive proxy statement filed on June 10, 2020 by ARYA (the Proxy Statement) in connection with the transactions
+contemplated by the Business Combination Agreement (together, the Business Combination).   While ARYA believes
+that the disclosures set forth in the Proxy Statement comply fully with applicable law, in order to moot the plaintiffs disclosure claims in the Shareholder Letter, to avoid nuisance, cost and distraction, and to preclude any efforts to delay
+the closing of the Business Combination, ARYA has determined to voluntarily supplement the Proxy Statement with the supplemental disclosures set forth below (the Supplemental Disclosures). Nothing in the Supplemental Disclosures
+shall be deemed an admission of the legal necessity or materiality under applicable laws of any of the disclosures set forth herein. To the contrary, ARYA specifically denies all allegations in the Shareholder Letter that any additional disclosure
+was or is required. ARYA believes the Shareholder Letter is without merit.  Supplemental Disclosures to Proxy Statement 
+The following supplemental information should be read in conjunction with the Proxy Statement, which should be read in its entirety. All page
+references are to pages in the Proxy Statement, and terms used below, unless otherwise defined, have the meanings set forth in the Proxy Statement. Underlined text shows text being added to a referenced disclosure in the Proxy Statement. 
+The following disclosure replaces the paragraph under the heading Comparable Company Analysis on page 142 of the Proxy
+Statement.  Adam Stone, Chief Executive Officer of ARYA, Michael Altman, Chief Financial Officer of ARYA, and certain employees
+of Perceptive Advisors reviewed certain financial information of Immatics and compared it to certain publicly traded companies, selected based on the experience and the professional judgment of ARYAs management team. 
+The following disclosure replaces the first paragraph on page 136 of the Proxy Statement under the heading Background of the
+Business Combination.  ARYAs management looked to identify targets that (a) have a scientific or other
+competitive advantage in the markets in which they operate and which can benefit from access to additional capital as well as ARYAs managements industry relationships and expertise; (b) are ready to be public, with strong
+management, corporate governance and reporting policies in place; (c) would be likely to be well received by public investors and are expected to have good access to the public capital markets in the future; (d) have significant embedded
+and/or underexploited growth opportunities; (e) exhibit unrecognized value or other characteristics that ARYAs management believes have been unevaluated by the market based on its analysis and scientific and business due diligence review;
+and (f) will offer attractive risk-adjusted equity returns for ARYAs shareholders. In the process that led to identifying Immatics as an attractive business combination opportunity, ARYAs management team 
+
+
+
+
+
+
+
+
+ evaluated, conducted preliminary due diligence based on publicly available information and other market
+research and engaged in various levels of discussions with a number of different potential business combination targets across subsectors of the life sciences and medical technology sectors. In connection with such evaluation, preliminary due
+diligence and discussions, ARYA entered into non-disclosure agreements with more than ten potential business combination targets and submitted non-binding indications of
+interest or letters of intent with respect to three potential business combination targets (other than Immatics) with equity values ranging from $300 to $550 million (based on preliminary diligence and valuation analysis conducted by ARYA and
+its advisors). Such non-disclosure agreements contained customary terms for a special purpose acquisition company and a private company target, including confidentiality provisions and use restrictions for
+information provided by the target and exceptions to such provisions. Two of these potential business combination targets were pre-market biopharmaceutical companies with pipeline product candidates that
+required additional funding to further R&D efforts, and one of these potential business combination targets was a medical technology company with an existing product in the market. Each of these proposals contemplated that shares in the
+post-business combination company would represent substantially all of the consideration to be received by the equityholders of the potential target. After submitting these non-binding indications of interest
+or letters of intent, ARYA engaged in varying levels of additional discussions, negotiations and due diligence with these potential targets based on, among other factors, interest by, and due diligence access granted by, the potential target and
+terms on which these potential targets would be willing to consider a potential transaction (such as the equity valuation ascribed to the potential target). In each case, following these additional discussions, negotiations and due diligence, ARYA
+ultimately determined to abandon each of its other potential acquisition opportunities either because (i) the potential target pursued an alternative transaction or strategy, (ii) ARYA did not meet the valuation expectations of the
+potential target, or (iii) ARYA concluded that the target business would not be a suitable business combination opportunity for ARYA based on, among other factors, further due diligence indicating that the target business did not meet the
+criteria ARYA had established and the terms on which the potential target would be willing to consider a potential transaction.  The
+following disclosure replaces the first paragraph on page 138 of the Proxy Statement under the heading Background of the Business Combination. 
+Between January 29, 2020 and March 17, 2020, K&E and Goodwin exchanged revised drafts of the Business Combination Agreement and
+the related ancillary agreements, and engaged in negotiations of such documents and agreements. The various revised drafts reflected divergent views on, among other things, certain risk allocation points, closing conditionality and matters related
+to post-closing ownership. Over the same period of time, the representatives and advisors for ARYA and Immatics held numerous conference calls and came to agreement on various outstanding business issues, including, among others:
+(i) calculation of the transaction consideration, and the form such consideration would take, to be received by the Immatics equityholders (including the adjustments thereto and how the existing holders of Immatics SARs would participate in the
+post-closing ownership of TopCo), and the respective post-closing ownership amounts of the Immatics equityholders, the ARYA shareholders and the PIPE Investors (based on the agreed upon equity valuation of Immatics of $350,000,000, a per share value
+for the TopCo Shares of $10.00, the amount of cash anticipated to be available at closing in the Trust Account and the anticipated proceeds of the PIPE Financing); (ii) the percentage of Participating Shareholders needed to satisfy the closing
+condition in favor of ARYA; (iii) whether (A) the Aggregate TopCo Transaction Proceeds Condition would be a condition in favor of only certain parties or all parties and (B) an additional funding condition with respect to the Aggregate
+PIPE Proceeds would be included in favor of any party; (iv) the bring-down standard for purposes of the representation and warranty bring-down by the parties at the Closing; and (v) the overall suite of representations, warranties and
+covenants to be provided by each party under the BCA. For further information related to the final resolution of items (i) through (v), please see the sections entitled Consideration to Immatics Equityholders in the Business
+Combination, Conditions to Closing of the Business Combination, Representations and Warranties and Covenants and for a description of the analysis conducted by
+ARYAs management team with respect to the equity valuation of Immatics, see Summary of ARYA Financial Analysis. In the context of negotiating the Investor Rights Agreement, the parties agreed that the ARYA Initial
+Shareholders would be entitled for a period of time to nominate two individuals to serve on the Board of Directors of TopCo following the consummation of the Business Combination. One of the nominees selected by the ARYA Initial Shareholders was
+Adam Stone, Chief Executive Officer and a director of ARYA. The remainder of the ARYA Board and ARYAs officers will no longer serve as directors or officers, and will not otherwise be employees of, ARYA, TopCo or any of their respective
+subsidiaries upon consummation of the Business Combination. 
+
+
+
+
+
+
+
+
+ General Meeting Dial-in Information 
+As previously announced, the annual general meeting of ARYA shareholders (the General Meeting) will be held on Monday,
+June 29, 2020 at 9:00 a.m., New York City Time. On June 22, 2020, ARYA issued a press release announcing that, due to the public health and safety concerns related to the coronavirus (COVID-19)
+pandemic and recommendations and orders from federal and New York authorities, the General Meeting will be held remotely by teleconference. The purpose of the General Meeting is to vote on certain proposals relating to the previously announced
+Business Combination Agreement. A copy of the press release is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K. 
+The general meeting will be accessible by dialing (855) 642-8677 (toll freeNorth America)
+or (862) 298-9486 (International) and entering passcode 1770784. Shareholders will be able to ask questions of ARYA management via the conference line. 
+All information about the General Meeting, including the definitive proxy statement, is available at
+www.cstproxy.com/aryasciencesacquisitioncorp/2020.  Additional Information 
+In connection with the Business Combination, TopCo has filed a definitive prospectus of TopCo and ARYA has filed a definitive proxy statement
+of ARYA. ARYA has mailed the definitive proxy statement/prospectus and other relevant documents to its shareholders. Investors and security holders of ARYA are advised to read the definitive proxy statement/prospectus in connection with
+ARYAs solicitation of proxies for the General Meeting of shareholders, at which the Business Combination (and related matters) will be considered and voted upon, because the definitive proxy statement/prospectus contains important information
+about the Business Combination and the parties to the Business Combination. The definitive proxy statement/prospectus was mailed to shareholders of ARYA that hold their shares in street name as of May 29, 2020; shareholders that
+hold their shares in registered form are entitled to vote their shares held on the date of the meeting. Shareholders will also be able to obtain copies of the definitive proxy statement/prospectus, without charge, on the SEC website at www.sec.gov
+or by directing a request to: ARYA Sciences Acquisition Corp., 51 Astor Place, 10th Floor, New York, NY 10003.  Participants in the Solicitation
+ ARYA, Immatics, TopCo and their respective directors, executive officers, other members of management, and employees, under SEC rules,
+may be deemed to be participants in the solicitation of proxies of ARYAs shareholders in connection with the Business Combination. Investors and security holders may obtain more detailed information regarding the names and interests in the
+Business Combination of ARYAs directors and officers and such information and names of Immatics and TopCos directors and executive officers the definitive proxy statement/prospectus, which was filed with the SEC on June 10,
+2020.  Forward Looking Statements 
+Certain statements made herein are not historical facts but are forward-looking statements for purposes of the safe harbor provisions under The
+Private Securities Litigation Reform Act of 1995. Forward-looking statements generally are accompanied by words such as believe, may, will, estimate,
+continue, anticipate, intend, expect, should, would, plan, predict, potential,
+seem, seek, future, outlook and similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These forward-looking
+statements include, but are not limited to, statements regarding future events, the Business Combination, the estimated or anticipated future results and benefits of the combined company following the Business Combination, including the likelihood
+and ability of the parties to successfully consummate the Business Combination, future opportunities for the combined company, and other statements that are not historical facts. These statements are based on the current expectations of ARYAs
+management and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on, by any investor as a guarantee, an assurance, a
+prediction or a definitive 
+
+
+
+
+
+
+
+
+ 
+statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and circumstances are beyond the
+control of ARYA and Immatics. These statements are subject to a number of risks and uncertainties regarding ARYAs businesses and the Business Combination, and actual results may differ materially. These risks and uncertainties include, but are
+not limited to, general economic, political and business conditions; applicable taxes, inflation, interest rates and the regulatory environment; the outcome of judicial proceedings to which Immatics is or may become a party; the inability of the
+parties to consummate the Business Combination or the occurrence of any event, change or other circumstances that could give rise to the termination of the Business Combination Agreement; the outcome of any legal proceedings that may be instituted
+against the parties following the announcement of the Business Combination; the receipt of an unsolicited offer from another party for an alternative business transaction that could interfere with the Business Combination; the risk that the approval
+of the shareholders of ARYA or Immatics for the potential transaction is not obtained; failure to realize the anticipated benefits of the Business Combination, including as a result of a delay in consummating the potential transaction or difficulty
+in integrating the businesses of ARYA and Immatics; the risk that the Business Combination disrupts current plans and operations as a result of the announcement and consummation of the Business Combination; the ability of the combined company to
+grow and manage growth profitably and retain its key employees; the amount of redemption requests made by ARYAs shareholders; the inability to obtain or maintain the listing of the post-acquisition companys securities on Nasdaq following
+the Business Combination; costs related to the Business Combination; and those factors discussed in ARYAs Annual Report on Form 10-K for the year ended December 31, 2019, which was filed with the
+SEC on March 6, 2020 under the heading Risk Factors, as updated from time to time by ARYAs Quarterly Reports on Form 10-Q and other documents of ARYA on file with the SEC or in the proxy
+statement that will be filed, or to be filed, with the SEC by ARYA. There may be additional risks that ARYA presently does not know or that ARYA currently believes are immaterial that could also cause actual results to differ from those contained in
+the forward-looking statements. In addition, forward-looking statements provide ARYAs expectations, plans or forecasts of future events and views as of the date of this communication. ARYA anticipates that subsequent events and developments
+will cause ARYAs assessments to change. However, while ARYA may elect to update these forward-looking statements at some point in the future, ARYA specifically disclaims any obligation to do so. These forward-looking statements should not be
+relied upon as representing ARYAs assessments as of any date subsequent to the date of this communication. Accordingly, undue reliance should not be placed upon the forward-looking statements. 
+Disclaimer  This communication is
+for informational purposes only and is neither an offer to purchase, nor a solicitation of an offer to sell, subscribe for or buy any securities or the solicitation of any vote in any jurisdiction pursuant to the Business Combination or otherwise,
+nor shall there be any sale, issuance or transfer or securities in any jurisdiction in contravention of applicable law. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the
+Securities Act.  Item 9.01 Financial Statements and Exhibits. 
+(d) Exhibits   
+
+
+
+
+
+
+
+
+
+
+ExhibitNumber
+  
+Description
+
+
+
+
+
+
+99.1
+  
+Press Release, dated June 22, 2020. 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ARYA Sciences Acquisition Corp.
+
+
+
+
+
+
+Date: June 22, 2020
+ 
+By:
+ 
+
+ 
+ /s/ Michael Altman
+
+
+ 
+
+ 
+
+ 
+Name: Michael Altman
+
+
+ 
+
+ 
+
+ 
+Title:   Chief Financial Officer
+
+
+
+
+

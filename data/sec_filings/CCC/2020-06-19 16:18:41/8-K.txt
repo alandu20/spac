@@ -1,0 +1,365 @@
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    0001764046
+    false
+    00-0000000
+    
+  
+    
+    
+  
+    
+      
+        0001764046
+      
+      
+        2020-06-18
+        2020-06-19
+      
+    
+    
+      iso4217:USD
+    
+    
+      xbrli:shares
+    
+    
+      
+        
+          iso4217:USD
+        
+        
+          xbrli:shares
+        
+      
+    
+    
+  
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+
+
+WASHINGTON, DC 20549
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+FORM 8-K
+
+
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+ 
+
+Date of report (date of earliest event reported):
+June 19, 2020
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+CLARIVATE Plc 
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+    Jersey, Channel Islands
+    001-38911
+    N/A
+
+    (State or other jurisdiction of incorporation)
+    (Commission File Number)
+    (IRS Employer Identification No.)
+
+     
+     
+     
+
+    Friars House
+160 Blackfriars Road
+London SE1 8EZ
+United Kingdom
+
+    (Address of principal executive offices)
+
+     
+
+    Registrant’s telephone number, including area code: +44 207 433 4000
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+N/A 
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under
+the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under
+the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Securities registered pursuant to Section
+12(b) of the Securities Exchange Act of 1934:
+
+ 
+
+
+
+    
+        Title
+        of Each Class
+     
+    
+        Trading
+        Symbol
+     
+    
+        Name
+        of Each Exchange on Which Registered
+
+    Ordinary shares
+     
+    CCC
+     
+    New York Stock Exchange
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth
+company	x
+
+ 
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.	x
+
+ 
+
+ 
+
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+
+
+    
+    Item 8.01.
+    Other Events
+
+ 
+
+On June 4, 2020, Clarivate Plc filed a
+final prospectus dated June 3, 2020 with the Securities and Exchange Commission relating to an offering of its ordinary shares.
+Clarivate is filing as Exhibit 99.1 hereto the section entitled “Risk Factors” included in that prospectus for purposes of incorporating the information contained therein into
+Clarivate’s other registration statements filed or to be filed with Securities and Exchange Commission.
+
+ 
+
+
+
+    
+    Item 9.01.
+    Financial Statements and Exhibits
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    No.
+     
+    Description
+
+    99.1
+     
+    Risk Factors
+
+    104
+     
+    The cover page from the Company's Current Report on Form 8-K dated June 19, 2020, formatted in
+    Inline XBRL
+
+ 
+
+
+     
+     
+     
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+ 
+
+
+
+    Date:	June 19, 2020
+    CLARIVATE Plc
+
+     
+     
+
+     
+    By:
+    /s/ Richard Hanks
+
+     
+     
+    Richard Hanks
+
+     
+     
+    Chief Financial Officer
+
+ 
+
+
+     
+     
+
+
+
+ 
+
+

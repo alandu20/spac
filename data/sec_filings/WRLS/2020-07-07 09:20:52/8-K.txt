@@ -1,0 +1,266 @@
+
+8-K
+1
+ea123851-8k_americanvir.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d) of
+the
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event
+reported): July 6, 2020
+
+American Virtual Cloud Technologies,
+Inc.
+(Exact Name of registrant as Specified in Charter)
+
+
+
+    Delaware
+(State or other jurisdiction
+of incorporation)
+    001-38167
+(Commission File Number)
+    81-2402421
+(IRS Employer
+Identification No.)
+
+    
+        1720 Peachtree Street, Suite 629
+        Atlanta, GA
+        (Address of principal executive offices)
+    
+        30309
+        (Zip code)
+
+     
+    
+        (404) 234-3098
+        (Registrant’s telephone number, including area code)
+        Not Applicable
+        (Former name or former address, if changed since last report)
+     
+
+     
+     
+     
+     
+     
+     
+
+
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+☐       Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐       Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐       Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐       Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+Emerging growth company  ☒
+
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Common Stock, par value $0.0001 per share
+     
+    AVCT
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50
+     
+    AVCTW
+     
+    The Nasdaq Stock Market LLC
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+    
+     
+    
+
+ 
+
+Item 5.02.	Departure of Directors
+or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On July 6, 2020,
+the board of directors (the “Board”) of American Virtual Cloud Technologies, Inc. (the “Company”), upon
+the recommendation of its nominating committee, appointed Kent Mathy as a new director of the Company, effective immediately. The
+Board has determined that Mr. Mathy is an independent director within the meaning of applicable rules of the Nasdaq Stock Market.
+No determination has been made as to any committees of the Board on which Mr. Mathy may serve.
+
+Mr. Mathy, age 60,
+currently serves on the Board of Directors of Everbridge Inc. (Nasdaq:EVBG) and JourneyCare Hospice and formerly served as the
+President and CEO of Sequential Technology International, a business process outsourcer serving large enterprises. Mr. Mathy retired
+in 2016 as AT&T Inc.’s (NYSE:T) President of the Southeast Region. Previously, Mr. Mathy served as President of AT&T’s
+North Central Region. Prior to that, he was President-Business Markets Group at Cingular Wireless. Mr. Mathy joined AT&T Wireless
+Services in 2003 as Executive Vice President leading the Enterprise Solutions Group. Earlier in his career, Mr. Mathy served as
+Chairman and CEO of Celox Networks, a telecommunications network equipment company. Before joining Celox Networks, he was with
+AT&T (prior to its merger with SBC) for more than 18 years holding numerous management positions across the United States.
+
+Mr. Mathy has also
+served on the Board of Directors of Ribbon Communications (Nasdaq:RBBN) and Rogers Wireless, a subsidiary of Rogers Communications,
+Inc. (NYSE:RCI). Mr. Mathy holds a Bachelor of Business Administration Degree from the University of Wisconsin-Oshkosh. As a result,
+Mr. Mathy possesses particular knowledge and experience that strengthens the Board’s collective qualifications, skills and
+experience.
+
+In connection with
+his appointment, the compensation committee of the Company granted Mr. Mathy 60,000 restricted stock units, each representing a
+contingent right to receive one share of the Company’s common stock, vesting in four equal annual installments, provided
+he continues to serve on such date. In addition, the Company will enter into an indemnification agreement with Mr. Mathy in the
+same form as the indemnification agreements the Company has entered into with its other directors, which has been filed or incorporated
+by reference as Exhibit 10.10 to the Company’s Annual Report on Form 10-K for the year ended March 31, 2020 filed with the
+SEC on June 29, 2020. In general, the indemnification agreement provides for, among other things, indemnification of Mr. Mathy
+by the Company to the full extent authorized or permitted by law, subject to certain limited exceptions.
+
+There are no arrangements
+or understandings between Mr. Mathy and any other persons pursuant to which Mr. Mathy was selected as a director of the Company
+and Mr. Mathy is not a party to any transaction that would require disclosure under Item 404(a) of Regulation S-K promulgated by
+the SEC.
+
+A copy of the press
+release issued by the Company regarding Mr. Mathy’s appointment is attached hereto as Exhibit 99.1.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Exhibit
+
+    99.1
+     
+    Press Release dated July 7, 2020.
+
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+
+SIGNATURE
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Current Report on Form 8-K to be signed
+on its behalf by the undersigned hereunto duly authorized.
+
+
+
+     
+    
+        AMERICAN VIRTUAL CLOUD TECHNOLOGIES, INC.
+         
+
+     
+    By: /s/ Thomas H. King	
+
+     
+    Name:	Thomas H. King
+Title:	Chief Financial Officer
+
+ 
+
+Date:	July 7, 2020
+
+ 
+
+
+    3
+    
+
+ 
+
+
+
+
+
+
+
+
+
+

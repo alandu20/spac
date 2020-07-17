@@ -1,0 +1,398 @@
+
+8-K/A
+1
+ea120627-8ka1_americanvir.htm
+AMENDMENT NO. 1 TO FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K/a
+
+(Amendment
+No. 1) 
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): April 7, 2020
+
+ 
+
+American
+Virtual Cloud Technologies, Inc.
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38167
+     
+    81-2402421
+
+    (State
+    or other jurisdiction
+    of incorporation)
+     
+     (Commission
+    File Number)
+     
+     (I.R.S.
+    Employer
+    Identification Number)
+
+ 
+
+
+
+    1720
+    Peachtree Street, Suite 629
+    Atlanta, GA
+     
+    30309
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    code)
+
+ 
+
+(404)
+234-3098
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not
+Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under
+any of the following provisions:
+
+ 
+
+☐	Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐	Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐	Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐	Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§
+230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging
+growth company  ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Common
+    Stock, par value $0.0001 per share
+     
+    AVCT
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Warrants,
+    each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50
+     
+    AVCTW
+     
+    The
+    Nasdaq Stock Market LLC
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+
+
+
+ 
+
+Introductory
+Note
+
+ 
+
+On April 13, 2020, American Virtual Cloud Technologies, Inc. (f/k/a Pensare Acquisition Corp.), a Delaware corporation (“AVCT”),
+filed a Current Report on Form 8-K (the “Original Report”) to report the closing of the Merger and related matters
+under Items 1.01, 2.01, 2.03, 3.02, 3.03, 5.01, 5.02 and 9.01 of Form 8-K. Due to the large number of events to be reported
+under the specified items of Form 8-K, this Form 8-K/A is being filed to amend the Original Report to include additional matters
+related to the closing of Merger under Items 3.01 and 5.06 of Form 8-K.
+
+ 
+
+Capitalized terms used
+herein by not defined herein have the meanings given to such terms in the Original Report.  
+
+
+
+  
+
+Item
+3.01. Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing
+
+ 
+
+On
+April 9, 2020, the Company received a letter (the “Determination Letter”) from Nasdaq notifying the Company that it
+had not complied with the requirements of Nasdaq Listing Rule IM-5101-2, which requires that the Company meet the requirements
+for initial listing after completion of the Business Combination. The Determination Letter states that the Company’s common
+stock does not meet the minimum $4.00 bid price and the $15 million market value of publicly held shares requirements, which are
+set forth in Nasdaq Listing Rule 5505. The Company has requested a hearing before a Nasdaq Hearings Panel, which request has stayed
+any further action by Nasdaq pending the conclusion of the hearing process. The Company will address the Determination Letter
+at its hearing. The Determination Letter does not impact the Company’s obligation to file periodic reports and other reports
+with the SEC under applicable federal securities laws. There can be no assurance that the Company’s appeal will be successful.
+
+  
+
+Item
+5.06. Change in Shell Company Status.
+
+ 
+
+As
+a result of the consummation of the Merger, which fulfilled the definition of an initial business combination as required by the
+Charter, AVCT ceased to be a shell company, as defined in Rule 12b-2 of the Exchange Act, as of the Closing Date. The material
+terms of the Merger are described in the Proxy Statement in the section entitled “The Business Combination” beginning
+on page 65, which is incorporated herein by reference.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+  
+
+(d)       Exhibits.
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Exhibit
+
+    2.1
+     
+    Business Combination Agreement, dated as of July 24, 2019, by and among AVCT, Merger Sub, Holdings, and Computex (incorporated by reference to Exhibit 2.1 to AVCT’s Current Report on Form 8-K filed July 30, 2019).
+
+    2.2
+     
+    Amendment No. 1 to the Business Combination Agreement, dated as of December 20, 2019, by and among AVCT, Merger Sub, Holdings, and Computex (incorporated by reference to Exhibit 2.2 to AVCT’s Current Report on Form 8-K filed December 30, 2019).
+
+    2.3
+     
+    Amendment No. 2 to the Business Combination Agreement, dated as of April 3, 2020, by and among AVCT, Merger Sub, Holdings, and Computex (incorporated by reference to Exhibit 2.3 to AVCT’s Current Report on Form 8-K filed April 7, 2020).
+
+    10.1
+     
+    Securities Purchase Agreement, dated as of April 3, 2020, by and among AVCT and certain Investors (incorporated by reference to Exhibit 10.1 to AVCT’s Current Report on Form 8-K filed April 7, 2020).
+
+    10.2
+     
+    Third Amendment to Loan Documents, dated as of April 7, 2020, by and among Computex, AVCT, Computex, Inc., First Byte Computers, Inc., eNETSolutions, LLC and Comerica Bank (incorporated by reference to Exhibit 10.2 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+    10.3
+     
+    Registration Rights Agreement, dated as of April 7, 2020, by and among AVCT and certain stockholders and Investors (incorporated by reference to Exhibit 10.3 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+    10.4
+     
+    American Virtual Cloud Technologies, Inc. 2020 Equity Incentive Plan (incorporated by reference to Exhibit 10.4 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+    10.5
+     
+    Form of Convertible Debenture (incorporated by reference to Exhibit 10.5 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+    10.6
+     
+    Form of Warrant (incorporated by reference to Exhibit 10.6 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+    10.7
+     
+    Guaranty, dated as of April 7, 2020, issued by Computex, AVCT, Computex, Inc., First Byte Computers, Inc. and eNETSolutions, LLC (incorporated by reference to Exhibit 10.7 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+    99.1
+     
+    Unaudited pro forma condensed combined financial information of the Company for the years ended December 31, 2019 and 2018 (incorporated by reference to Exhibit 99.1 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+    99.2
+     
+    Audited Consolidated Financial Statements of Computex as of December 31, 2019 and 2018 and for the years ended December 31, 2019, 2018 and 2017 (incorporated by reference to Exhibit 99.2 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+    99.3
+     
+    Management’s Discussion and Analysis of Financial Condition and Results of Operations of Computex for the for the years ended December 31, 2019, 2018 and 2017 (incorporated by reference to Exhibit 99.3 to the Company's Current Report on Form 8-K filed on April 13, 2020).
+
+
+
+
+
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, hereunto duly authorized.
+
+ 
+
+Dated:
+April 14, 2020
+
+ 
+
+
+
+     
+    American
+    Virtual Cloud Technologies, Inc. 
+
+     
+     
+     
+
+     
+    By:
+    /s/ Darrell
+    J. Mays
+
+     
+    Name:
+    Darrell J.
+    Mays
+
+     
+    Title:
+    Chief Executive
+    Officer
+
+ 
+
+ 
+
+4
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+

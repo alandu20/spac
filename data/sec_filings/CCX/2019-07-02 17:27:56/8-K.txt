@@ -1,0 +1,574 @@
+
+8-K
+1
+tv524635_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+
+
+CURRENT
+REPORT
+
+ 
+
+PURSUANT
+TO SECTION 13 OR 15(D) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+June 26, 2019
+
+ 
+
+
+
+ 
+
+ 
+
+CHURCHILL
+CAPITAL CORP II
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+    
+        Delaware
+    001-38960
+    83-4388331
+
+    (State or other jurisdiction 
+of incorporation)
+    (Commission 
+File Number)
+    (I.R.S. Employer 
+Identification No.)
+
+ 
+
+
+
+    
+        640 Fifth Avenue, 12th Floor
+        New York, NY
+    10019
+
+    (Address of principal executive offices)
+    (Zip Code)
+
+ 
+
+(212) 380-7500
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communication pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencements communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+ Securities registered pursuant to
+Section 12(b) of the Act:
+
+ 
+
+
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of  
+     
+     
+     
+    New York Stock Exchange
+
+    Class A common stock, 
+     
+    CCX.U
+     
+     
+
+    $0.0001 par value, and one-third of one warrant
+     
+     
+     
+     
+
+     
+     
+     
+     
+     
+
+    Shares of Class A common stock
+     
+    CCX
+     
+    New York Stock Exchange
+
+     
+     
+     
+     
+     
+
+    Warrants included as part of the units
+     
+    CCX WS
+     
+    New York Stock Exchange
+
+
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 8.01Other Events.
+
+ 
+
+On July 1, 2019, Churchill Capital Corp
+II (the “Company”) consummated its initial public offering (the “IPO”) of 69,000,000 units
+(the “Units”), including the issuance of 9,000,000 Units as a result of the underwriters’ exercise of
+their over-allotment option. Each Unit consists of one share of the Company’s Class A common stock, par value $0.0001
+per share (the “Class A Common Stock”), and one-third of one warrant of the Company (the “Warrants”),
+each whole warrant entitling the holder thereof to purchase one whole share of Class A Common Stock at a price of $11.50 per share,
+subject to adjustment as provided in the Company’s registration statement on Form S-1, initially filed with the Securities and Exchange Commission on June 10, 2019 (File No. 333-232057). The Units were sold at a price of $10.00 per unit, generating
+gross proceeds to the Company of $690,000,000.
+
+ 
+
+Simultaneously with the closing of the IPO,
+the Company completed the private sale (the “Private Placement”) of an aggregate of 15,800,000 warrants (the
+“Private Placement Warrants”) at a purchase price of $1.00 per Private Placement Warrant, to the Company’s
+sponsor, Churchill Sponsor II LLC (the “Sponsor”), generating gross proceeds to the Company of $15,800,000.
+The Private Placement Warrants are identical to the warrants sold as part of the Units in the IPO, except that the Sponsor has
+agreed not to transfer, assign or sell any of the Private Placement Warrants (except to certain permitted transferees) until 30
+days after the completion of the Company’s initial business combination. The Private Placement Warrants are also not redeemable
+by the Company so long as they are held by the Sponsor or its permitted transferees.
+
+ 
+
+A total of $690,000,000 was placed
+in a U.S.-based trust account at J.P. Morgan Chase Bank, N.A. with Continental Stock Transfer & Trust Company acting
+as trustee. Except with respect to interest earned on the funds in the trust account that may be released to the Company to
+pay its taxes, the proceeds from the IPO will not be released from the trust account until the earliest of
+(i) the completion of the Company’s initial business combination, (ii) the redemption of any public shares
+properly tendered in connection with a shareholder vote to amend the Company’s amended and restated certificate of
+incorporation to modify the substance or timing of its obligation to provide for the redemption of its public shares in
+connection with an initial business combination or to redeem 100% of its public shares if the Company does not complete its
+initial business combination within 24 months from the closing of the IPO (or 27 months from the closing of the IPO if the
+Company has executed a letter of intent, agreement in principle or definitive agreement for an initial business combination
+within 24 months from the closing of the IPO), and (iii) the redemption of all of the Company’s public shares if
+it is unable to complete its business combination within 24 months (or 27 months upon the satisfaction of the conditions set
+forth in (ii)) from the closing of the IPO, subject to applicable law.
+
+ 
+
+In connection with the closing of the offering,
+the Company entered into an amendment to the underwriting agreement on July 1, 2019 pursuant to which the underwriting discount
+will be paid solely with respect to 1,060,000 of the shares sold pursuant to the overallotment option.  As a result, the
+deferred portion of the underwriting discount will be $21,371,000 and the Company will have an additional $1,588,000 available
+for working capital held outside the trust account.  
+
+
+
+ 
+
+In connection with the IPO, the Company
+also entered into the following agreements previously filed as exhibits to the Company’s Registration Statement:
+
+ 
+
+
+·An Underwriting Agreement, dated June 26, 2019, among the Company and Citigroup Global Markets Inc., as representative of the
+underwriters.
+
+ 
+
+
+·A Warrant Agreement, dated June 26, 2019, between the Company and Continental Stock Transfer & Trust Company, as warrant
+agent.
+
+ 
+
+
+
+    2
+     
+    
+
+ 
+
+
+·A Letter Agreement, dated June 26, 2019, among the Company, its officers and directors and the Sponsor.
+
+ 
+
+
+·An Investment Management Trust Agreement, dated June 26, 2019, between the Company and Continental Stock Transfer &
+Trust Company, as trustee.
+
+ 
+
+
+·A Registration Rights Agreement, dated June 26, 2019, among the Company and certain other security holders named therein.
+
+ 
+
+
+·A Private Placement Warrant Purchase Agreement, dated June 26, 2019, between the Company and the Sponsor.
+
+ 
+
+
+·An Indemnity Agreement, dated June 26, 2019, between the Company and Michael Klein.
+
+ 
+
+
+·An Indemnity Agreement, dated June 26, 2019, between the Company and Peter Seibold.
+
+ 
+
+
+·An Indemnity Agreement, dated June 26, 2019, between the Company and Mark Klein.
+
+ 
+
+
+·An Indemnity Agreement, dated June 26, 2019, between the Company and Malcolm S. McDermid.
+
+ 
+
+
+·An Indemnity Agreement, dated June 26, 2019, between the Company and Glenn August.
+
+ 
+
+
+·An Indemnity Agreement, dated June 26, 2019, between the Company and Karen G. Mills.
+
+ 
+
+
+·An Administrative Services Agreement, dated June 26, 2019, between the Company and an affiliate of the Sponsor.
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+ 
+
+
+(d)Exhibits. The following exhibits are filed with this Form
+8-K:
+
+
+ 
+
+
+
+    Exhibit
+ No.
+     
+    Description of Exhibits
+
+    1.1
+     
+    Underwriting Agreement, dated June 26, 2019, among the Company and Citigroup Global Markets Inc., as representative of the underwriters.
+
+    
+     
+     
+
+    1.2
+     
+     Amendment to the Underwriting Agreement, dated July 1, 2019, among the Company and Citigroup Global
+Markets Inc., as representative of the underwriters.
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated June 26, 2019, between the Company and Continental Stock Transfer & Trust Company, as warrant agent.
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreement, dated June 26, 2019, among the Company, its officers and directors and the Sponsor.
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated June 26, 2019, between the Company and Continental Stock Transfer & Trust Company, as trustee.
+
+     
+     
+     
+
+    10.3
+     
+    Registration Rights Agreement, dated June 26, 2019, among the Company and certain other security holders named therein.
+
+     
+     
+     
+
+    10.4
+     
+    Private Placement Warrant Purchase Agreement, dated June 26, 2019, between the Company and the Sponsor.
+
+     
+     
+     
+
+    10.5
+     
+    Indemnity Agreement, dated June 26, 2019, between the Company and Michael Klein.
+
+ 
+
+
+
+    3
+     
+    
+
+ 
+
+
+
+    Exhibit
+ No.
+     
+    Description of Exhibits
+
+
+
+
+    10.6
+     
+    Indemnity Agreement, dated June 26, 2019, between the Company and Peter Seibold.
+
+     
+     
+     
+
+    10.7
+     
+    Indemnity Agreement, dated June 26, 2019, between the Company and Mark Klein.
+
+     
+     
+     
+
+    10.8
+     
+    Indemnity Agreement, dated June 26, 2019, between the Company and Malcolm S. McDermid.
+
+     
+     
+     
+
+    10.9
+     
+    Indemnity Agreement, dated June 26, 2019, between the Company and Glenn August.
+
+     
+     
+     
+
+    10.10
+     
+    Indemnity Agreement, dated June 26, 2019, between the Company and Karen G. Mills.
+
+     
+     
+     
+
+    10.11
+     
+    Administrative Services Agreement, dated June 26, 2019, between the Company and an affiliate of the Sponsor.
+
+ 
+
+
+
+    4
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    Churchill Capital Corp II
+
+     
+     
+
+    Date: July 2, 2019
+    By:
+    /s/ Peter Seibold
+
+     
+     
+    Name:  
+    Peter Seibold
+
+     
+     
+    Title:
+    Chief Financial Officer
+
+ 
+
+
+
+    5
+    
+
+
+
+
+
+

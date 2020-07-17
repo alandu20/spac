@@ -1,0 +1,705 @@
+
+8-K
+1
+tm2021873d1_8k.htm
+8-K
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO
+SECTION 13 OR 15(d)
+
+OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report
+(Date of earliest event reported): June 5, 2020
+
+ 
+
+ 
+
+ 
+
+COLLIER CREEK
+HOLDINGS
+
+(Exact Name
+of Registrant as Specified in Charter)
+
+ 
+
+ 
+
+ 
+
+
+
+    Cayman Islands
+     
+    001-38686
+     
+    98-1425274
+
+    
+        (State or Other Jurisdiction
+        of Incorporation)
+     
+    
+        (Commission
+        File Number)
+     
+    
+        (IRS Employer
+        Identification No.)
+
+
+ 
+
+
+
+200 Park Avenue, 58th Floor 
+
+New York, New York 10166
+
+	 (Address of Principal Executive Offices, including zip code)    
+
+
+ 
+
+Registrant’s
+telephone number, including area code: (212) 355-5515
+
+ 
+
+Not Applicable
+
+(Former Name
+or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):
+
+ 
+
+
+
+    x
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+    ¨
+    Pre-commencement communications pursuant to Rule  14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+    ¨
+    Pre-commencement communications pursuant to Rule  13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+
+
+     
+     
+     
+     
+     
+
+    Title of each class
+     
+    
+        Trading
+        Symbol(s)
+         
+     
+    
+        Name of each exchange
+        on which registered
+         
+
+    Units, each consisting of one Class A ordinary share and one-third of one redeemable Warrant to purchase one Class A ordinary share
+     
+    CCH.U
+     
+    New York Stock Exchange
+
+    Class A ordinary shares, par value $0.0001 per share
+     
+    CCH
+     
+    New York Stock Exchange
+
+    Warrants, exercisable for one Class A ordinary shares for $11.50 per share
+     
+    CCH WS
+     
+    New York Stock Exchange
+
+ 
+
+Indicate by check mark whether
+the registrant is an emerging growth company as defined in Rule 405 of the Securities Act
+of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+
+
+
+
+     
+     
+    
+
+ 
+
+On June 5, 2020, Utz Brands Holdings, LLC
+(“Utz” or the “Company”), a Delaware limited liability company, Collier Creek Holdings (“Collier
+Creek” or “PubCo”) and the Sellers (as defined below) announced that Collier Creek, Utz and the Sellers
+entered into a definitive business combination agreement (the “Business Combination Agreement”). This Form 8-K
+is being filed to describe the material terms of the Business Combination Agreement and related agreements, which are filed as
+exhibits herewith.
+
+ 
+
+
+
+    Item 1.01
+    Entry Into A Material Definitive Agreement. 
+
+ 
+
+Business Combination Agreement
+
+ 
+
+The Business Combination Agreement, dated
+June 5, 2020 (the “Effective Date”), was entered into by and among PubCo, Utz, Series U of UM Partners, LLC,
+a series of a Delaware limited liability company (“Series U”) and Series R of UM Partners, LLC, a series of
+a Delaware limited liability company (“Series R” and, collectively with Series U, the “Sellers”).
+
+ 
+
+The Business Combination Agreement and the
+transactions contemplated thereby were unanimously approved by the board of directors of PubCo and by the board of managers of
+Utz.
+
+ 
+
+The Business Combination 
+
+ 
+
+The Business Combination Agreement
+provides for the consummation of the following transactions (collectively, the “Business Combination”):
+(a) PubCo will change its jurisdiction of incorporation by deregistering as an exempted company in the Cayman Islands and
+continuing and domesticating as a corporation incorporated under the laws of the State of Delaware (the
+ “Domestication”), upon which PubCo will change its name to “Utz Brands, Inc.”; (b) the Sellers
+will amend and restate Utz’s limited liability company agreement (the “Company A&R LLCA”) to,
+among other things, increase the capitalization of Utz to permit the issuance and ownership of interests in Utz as
+contemplated by the Business Combination Agreement and admit PubCo as the managing member of Utz; (c) PubCo will acquire
+certain equity interests of Utz (i) Utz, which proceeds will be used to pay transaction expenses and reduce existing
+indebtedness and (ii) from the Sellers as well as certain equity interests of equityholders of the Sellers (which will be
+immediately redeemed at the Closing by the Sellers for additional equity interests of Utz), in exchange for a combination of
+cash consideration and shares of newly issued Class V common stock, par value $0.0001 per share, of PubCo, which will have no
+economic value, but will entitle the Sellers to one vote per issued share and will be issued on a one-for-one basis for each
+membership unit in Utz (each, an “Utz Unit”) retained by the Sellers following the Business Combination.
+The Company A&R LLCA will provide the Sellers the right to exchange their retained Utz Units, together with the
+cancelation of an equal number of shares of Class V common stock, for Class A common stock of PubCo, subject to certain
+restrictions set forth therein. Certain of the Utz Units retained by the Sellers will, subject to performance based vesting
+conditions set forth in the Company A&R LLCA, (i) be restricted, (ii) not be exchangeable for Class A common stock of
+PubCo until vested, and (iii) will accrue the right to distributions on Utz Units from Utz, such distributions to be payable
+upon vesting. Any such restricted Utz Units that have not vested by the tenth anniversary of the Closing shall be
+automatically cancelled.
+
+ 
+
+Immediately prior to the consummation of
+the Business Combination (the “Closing”), PubCo will effect the Domestication pursuant to which (a) each Class
+A ordinary share and each Class B ordinary share of PubCo will automatically convert into one share of Class A common stock of
+PubCo (excluding, however, an aggregate of 2,000,000 Class B ordinary shares held by Collier Creek Partners, LLC (the “Sponsor”)
+and PubCo’s independent directors, which will instead automatically be converted into 2,000,000 shares of Class B common
+stock of PubCo pursuant to the Sponsor Side Letter Agreement (as defined below)) and (b) the outstanding warrants to purchase Class
+A ordinary shares of PubCo will automatically become exercisable for Class A common stock of PubCo.
+
+ 
+
+Following the consummation of the Business
+Combination, the combined company will be organized in an “Up-C” structure, in which substantially all of the assets
+and business of PubCo will be held by Utz. The combined company’s business will continue to operate through the subsidiaries
+of Utz and PubCo’s sole direct asset will be the equity interests of Utz held by it.
+
+ 
+
+Concurrent with the
+Closing, PubCo will enter into a tax receivable agreement (the “Tax Receivable Agreement”) with the Sellers.
+Pursuant to the Tax Receivable Agreement, PubCo will be required to pay the Sellers 85% of the amount of savings, if any, in U.S.
+federal, state and local income tax that PubCo actually realizes as a result of the increases in tax basis and certain other tax
+benefits related to the payment of the cash consideration pursuant to the Business Combination Agreement and any exchanges of Utz
+Units for Class A common stock of PubCo.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+In addition, in connection with the consummation
+of the Business Combination, PubCo will, among other things, enter into at Closing with the applicable Sellers, the Sponsor and
+certain other parties, (i) an investor rights agreement relating to, among other things, the composition of the board of directors
+of PubCo following the Business Combination, certain customary registration rights and lockup restrictions and (ii) a standstill
+agreement relating to certain prohibited actions regarding acquisition of additional common stock of PubCo and certain governance
+matters for a specified period of time after the Closing.
+
+ 
+
+Representations and Warranties, Covenants
+
+
+ 
+
+Under the Business Combination Agreement,
+the parties to the agreement made customary representations and warranties for transactions of this type regarding themselves.
+The representations and warranties made under the Business Combination Agreement generally will not survive the Closing, subject
+to certain exceptions, including, among others, representations and warranties relating to certain prohibited affiliate transactions.
+In addition, the parties to the Business Combination Agreement agreed to be bound by certain covenants that are customary for transactions
+of this type. The covenants made under the Business Combination generally will not survive the Closing, subject to certain exceptions,
+including, among others, certain covenants and agreements that by their terms are to be performed in whole or in part after the
+Closing.
+
+ 
+
+Conditions to Each Party’s Obligations
+
+
+ 
+
+The consummation of the Business Combination
+is subject to the satisfaction or waiver of certain customary closing conditions of the respective parties, including, without
+limitation: (a) the approval and adoption by PubCo’s shareholders of the Business Combination Agreement and transactions
+contemplated thereby; (b) if required, the expiration or termination of any applicable waiting period under the Hart-Scott-Rodino
+Antitrust Improvements Act of 1976, as amended; (c) the absence of a Material Adverse Effect (as defined in the Business Combination
+Agreement) since the Effective Date; and (d) the cash proceeds from the trust account established for the purpose of holding
+the net proceeds of Collier Creek’s initial public offering, net of any amounts paid to PubCo’s shareholders that exercise
+their redemption rights in connection with the Business Combination, plus the aggregate proceeds of any permitted equity financing
+under the Business Combination Agreement and aggregate gross proceeds of the forward purchase agreements by and among the Sponsor,
+PubCo and PubCo’s independent directors, equaling no less than $300,000,000 at the Closing.
+
+ 
+
+Termination 
+
+ 
+
+The Business Combination Agreement may be
+terminated under certain customary and limited circumstances at any time prior to the Closing, including (i) by written notice
+from the Sellers or PubCo to the other party or parties, if the Closing has not occurred by October 11, 2020, which date shall
+be automatically extended to no later than the six month anniversary of the Effective Date upon the occurrence of certain events
+(the “Outside Date”), provided that such right to terminate is not available to either the Sellers or PubCo
+if such party exercising the right is in material breach of its representations, warranties, covenants or agreements under the
+Business Combination Agreement (including, with respect to the Sellers, any breach by Utz).
+
+ 
+
+A copy of the Business
+Combination Agreement is attached as Exhibit 2.1 hereto and is incorporated herein by reference, and the foregoing description
+of the Business Combination Agreement is qualified in its entirety by reference thereto.
+
+ 
+
+Sponsor Side Letter Agreement
+
+ 
+
+Concurrent with
+the execution of the Business Combination Agreement, the Sponsor, certain equityholders of the Sponsor and PubCo’s independent
+directors entered into a Sponsor Side Letter Agreement (the “Sponsor Side Letter Agreement”), pursuant to which,
+at Closing, an aggregate of 2,000,000 Class B ordinary shares of PubCo held by the Sponsor and PubCo’s independent directors
+will automatically convert into 2,000,000 shares of Class B common stock of PubCo, comprised of 1,000,000 shares of Series B-1
+non-voting common stock, par value $0.0001 per share, and 1,000,000 shares of Series B-2 non-voting common stock, par value $0.0001
+per share. All such shares of Class B common stock are restricted shares that are subject to certain performance-based conversion
+events and upon the occurrence of which such Class B common stock would convert on a one-for-one basis into Class A common stock
+of PubCo. The shares of Class B common stock will accrue and be entitled to dividends paid on the Class A common stock, with such
+dividends payable upon the conversion of the shares of Class B common stock into shares of Class A common stock. Any shares of
+Class B common stock that have not converted into shares of Class A common stock by the tenth anniversary of the Closing shall
+be automatically cancelled.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+A copy of the Sponsor
+Side Letter Agreement is attached as Exhibit 10.1 hereto and is incorporated herein by reference, and the foregoing description
+of the Sponsor Side Letter Agreement is qualified in its entirety by reference thereto.
+
+ 
+
+Unit Purchase Agreement
+
+ 
+
+Concurrent with
+the execution of the Business Combination Agreement, PubCo, the Sellers and BSOF SN LLC, a Delaware limited liability company (“UPA
+Seller”) entered into a Unit Purchase Agreement (the “Unit Purchase Agreement”), pursuant to which,
+substantially simultaneously with Closing, PubCo will purchase an aggregate of 125,000 Series A Preferred Units of the Sellers
+and 102,060.14 Common Units of the Sellers from UPA Seller (the “Unit Purchase”). Under the Unit Purchase Agreement,
+the parties to the agreement made customary representations and warranties for transactions of this type regarding themselves.
+The representations and warranties made under the Unit Purchase Agreement will not survive the consummation of the Unit Purchase.
+The consummation of the Unit Purchase is subject to the satisfaction or waiver of certain customary closing conditions of the respective
+parties, including, without limitation, the Closing of the Business Combination, and shall be consummated substantially simultaneously
+with the Business Combination. The Unit Purchase Agreement will terminate automatically upon the termination of the Business Combination
+Agreement or otherwise in accordance with its terms.
+
+ 
+
+A copy of the Unit
+Purchase Agreement is attached as Exhibit 10.2 hereto and is incorporated herein by reference, and the foregoing description of
+the Unit Purchase Agreement is qualified in its entirety by reference thereto.
+
+ 
+
+
+
+    Item 7.01
+    Regulation FD Disclosure.
+
+ 
+
+	On June 5, 2020, Collier Creek issued
+a press release announcing the execution of the Business Combination Agreement. The press release is attached hereto as Exhibit
+99.1 and incorporated by reference herein.
+
+ 
+
+	Furnished as Exhibit 99.2 hereto and
+incorporated into this Item 7.01 by reference is the investor presentation that Collier Creek has prepared for use in connection
+with various meetings and conferences with investors.
+
+ 
+
+	The foregoing (including Exhibits 99.1
+and 99.2) is being furnished pursuant to Item 7.01 and will not be deemed to be filed for purposes of Section 18 of the Securities
+Exchange Act, of 1934, as amended (the “Exchange Act”) or otherwise be subject to the liabilities of that section,
+nor will it be deemed to be incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities
+Act”), or the Exchange Act.
+
+ 
+
+Additional Information 
+
+ 
+
+Collier Creek intends to file a registration
+statement with the Securities and Exchange Commission (the “SEC”) which will include a preliminary proxy statement
+and preliminary prospectus of Collier Creek in connection with the proposed Business Combination and, after the registration statement
+is declared effective, will mail a proxy statement/prospectus and other relevant documents to its shareholders. Collier Creek’s
+shareholders and other interested persons are advised to read, when available, the preliminary proxy statement/prospectus, any
+amendments thereto, and the definitive proxy statement/prospectus in connection with Collier Creek’s solicitation of proxies
+for the special meeting to be held to approve the Business Combination as these materials will contain important information about
+Utz and Collier Creek and the proposed Business Combination. The definitive proxy statement/prospectus will be mailed to the
+shareholders of Collier Creek as of a record date to be established for voting on the Business Combination. Such shareholders will
+also be able to obtain copies of the proxy statement, without charge, once available, at the SEC’s website at http://www.sec.gov,
+or by directing a request to: Collier Creek Holdings, 200 Park Avenue, 58th Floor, New York, NY 10166, attention: Bradford Williams
+(williams@cc.capital).
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Participants in the Solicitation 
+
+ 
+
+Collier Creek, Utz and their respective
+directors, executive officers, other members of management, and employees, under SEC rules, may be deemed to be participants in
+the solicitation of proxies of Collier Creek’s shareholders in connection with the Business Combination. Investors
+and security holders may obtain more detailed information regarding the names and interests in the Business Combination of Collier
+Creek’s directors and officers in Collier Creek’s filings with the SEC, including Collier Creek’s Annual Report
+on Form 10-K for the fiscal year ended December 31, 2019, which was filed with the SEC on March 12, 2020, and such
+information and names of Utz’s directors and executive officers will also be in the Registration Statement on Form S-4 to
+be filed with the SEC by Collier Creek, which will include the proxy statement/prospectus of Collier Creek for the Business Combination.
+Shareholders can obtain copies of Collier Creek’s filings with the SEC, without charge, at the SEC’s website at www.sec.gov,
+or by directing a request to: Collier Creek Holdings, 200 Park Avenue, 58th Floor, New York, NY 10166, attention: Bradford
+Williams (williams@cc.capital).
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This communication is for informational
+purposes only and is neither an offer to purchase, nor a solicitation of an offer to sell, subscribe for or buy any securities
+or the solicitation of any vote in any jurisdiction pursuant to the Business Combination or otherwise, nor shall there be any sale,
+issuance or transfer or securities in any jurisdiction in contravention of applicable law. No offer of securities shall be made
+except by means of a prospectus meeting the requirements of Section 10 of the Securities Act and otherwise in accordance with
+applicable law.
+
+ 
+
+Forward-Looking Statements 
+
+ 
+
+This Current
+Report includes “forward-looking statements” within the meaning of the “safe harbor” provisions of the
+Private Securities Litigation Reform Act of 1995. Collier Creek’s and Utz’s
+actual results may differ from their expectations, estimates and projections and consequently, you should not rely on these
+forward looking statements as predictions of future events. Words such as “expect,” “estimate,”
+ “project,” “budget,” “forecast,” “anticipate,” “intend,”
+ “plan,” “may,” “will,” “could,” “should,” “believes,”
+ “predicts,” “potential,” “continue,” and similar expressions are intended to identify
+such forward-looking statements. These forward-looking statements include, without limitation, Collier Creek’s
+and Utz’s expectations with respect to future performance and anticipated financial impacts of the proposed Business
+Combination, the satisfaction of the closing conditions to the Business Combination and the timing of the completion of the
+Business Combination. These forward-looking statements involve significant risks and uncertainties that could cause the
+actual results to differ materially from the expected results. Most of these factors are outside Collier Creek’s and
+Utz’s control and are difficult to predict. Factors that may cause such differences include, but are not limited to:
+(1) the occurrence of any event, change or other circumstances that could give rise to the termination of the Business
+Combination Agreement; (2) the outcome of any legal proceedings that may be instituted against Collier Creek and Utz
+following the announcement of the Business Combination Agreement and the transactions contemplated therein; (3) the
+inability to complete the proposed Business Combination, including due to failure to obtain approval of the shareholders of
+Collier Creek or other conditions to closing in the Business Combination Agreement; (4) the occurrence of any event,
+change or other circumstance that could give rise to the termination of the Business Combination Agreement or could otherwise
+cause the Business Combination to fail to close; (5) the amount of redemption requests made by Collier Creek’s
+shareholders; (6) the inability to obtain or maintain the listing of the post-business combination company’s
+common stock on the New York Stock Exchange following the proposed Business Combination; (7) the risk that the
+proposed Business Combination disrupts current plans and operations; (8) the ability to recognize the anticipated
+benefits of the proposed Business Combination, which may be affected by, among other things, competition, the ability of the
+combined company to grow and manage growth profitably and retain its key employees; (9) costs related to the proposed
+Business Combination; (10) changes in applicable laws or regulations; (11) the possibility that Utz or the combined
+company may be adversely affected by other economic, business, and/or competitive factors; and (12) other risks and
+uncertainties indicated from time to time in the proxy statement/prospectus relating to the proposed Business Combination,
+including those included in the section “Risk Factors”, and in Collier Creek’s other filings with the SEC.
+Some of these risks and uncertainties may in the future be amplified by the COVID-19 outbreak and there may be additional
+risks that Collier Creek considers immaterial or which are unknown. It is not possible to predict or identify all such risks.
+Collier Creek cautions that the foregoing list of factors is not exclusive. Collier Creek cautions readers not to place undue
+reliance upon any forward-looking statements, which speak only as of the date made. Collier Creek does not undertake or
+accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to
+reflect any change in its expectations or any change in events, conditions or circumstances on which any such statement is
+based, except as otherwise required by law.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+    Item 9.01
+    Financial Statements and Exhibits. 
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit
+Number
+     
+    Description
+
+     
+     
+
+    2.1†
+     
+    Business Combination Agreement, dated as of June 5, 2020, by and among Collier Creek Holdings, Series U of UM Partners, LLC, Series R of UM Partners, LLC and Utz Brands Holdings, LLC
+
+     
+     
+
+    10.1
+     
+    Sponsor Side Letter Agreement, dated as of June 5, 2020, by and among Collier Creek Holdings, Collier Creek Partners, LLC and the other parties thereto
+
+     
+     
+     
+
+    10.2
+     
+    Unit Purchase Agreement, dated as of June 5, 2020, by and among Collier Creek Holdings, BSOF SN LLC, Series U of UM Partners, LLC, and Series R of UM Partners, LLC
+
+     
+     
+     
+
+    99.1
+     
+    Press Release, dated June 5, 2020
+
+     
+     
+     
+
+    99.2
+     
+    Investor Presentation, dated June 2020
+
+ 
+
+
+
+    †
+    Certain of the exhibits and schedules to this exhibit have been omitted in accordance with Regulation S-K Item 601(b)(2). Collier Creek agrees to furnish supplementally a copy of all omitted exhibits and schedules to the SEC upon its request. 
+
+
+ 
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE 
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+    Dated: June 5, 2020
+    COLLIER CREEK HOLDINGS
+
+     
+     
+     
+
+     
+    By:
+     
+    
+        /s/ Jason K. Giordano
+
+     
+    Name:
+     
+    Jason K. Giordano
+
+     
+    Title:
+     
+    Co-Executive Chairman
+
+ 
+
+
+
+
+     
+    
+
+ 
+
+
+
+

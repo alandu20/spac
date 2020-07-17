@@ -1,0 +1,776 @@
+
+8-K
+1
+ea123538-8k_insuranceacqu.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or Section 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): June 29, 2020
+
+ 
+
+INSURANCE
+ACQUISITION CORP.
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38839
+     
+    82-5325852
+
+    (State
+    or other jurisdiction of
+    incorporation or organization)
+     
+    (Commission
+    File Number)
+     
+    (I.R.S.
+    Employer
+    Identification Number)
+
+ 
+
+
+
+    2929
+        Arch Street, Suite 1703
+        Philadelphia, PA
+     
+    19104
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (215) 701-9555
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation to the registrant
+under any of the following provisions:
+
+ 
+
+
+☒Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+☐Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Class
+    A common stock, par value $0.0001 per share
+     
+    INSU
+     
+    Nasdaq
+    Capital Market
+
+    Warrants
+    to purchase one-half of one share of Class A common stock
+     
+    INSUW
+     
+    Nasdaq
+    Capital Market
+
+    Units,
+    each consisting of one share of Class A common stock, $.0001 par value, and one-half of one Warrant
+     
+    INSUU
+     
+    Nasdaq
+    Capital Market
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company	☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.	☐
+
+  
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01 Entry Into A Material Definitive Agreement.
+
+ 
+
+On June 29, 2020, Insurance
+Acquisition Corp., a Delaware corporation (the “Company”), entered into an Agreement and Plan of Merger (the
+“Merger Agreement”) among the Company, IAC Merger Sub, Inc., a Delaware corporation and direct wholly owned
+subsidiary of the Company (“Merger Sub”), and Shift Technologies, Inc., a Delaware corporation (“Shift”),
+providing for, among other things, and subject to the conditions therein, the combination of Shift and the Company pursuant to
+the proposed merger of Merger Sub with and into Shift with Shift continuing as the surviving entity (the “Merger”).
+
+ 
+
+The
+Merger Agreement
+
+ 
+
+Merger
+
+ 
+
+As
+a result of the Merger, each outstanding share of Shift common stock, par value $0.0001 per share (“Shift Common
+Stock”), will be converted into the right to receive newly issued shares of the Company’s Class A common
+stock, $0.0001 par value per share (“Company Common Stock”), as calculated pursuant to the terms of the
+Merger Agreement.
+
+ 
+
+Consideration
+
+ 
+
+Pursuant
+to the Merger Agreement, the aggregate consideration (“Merger Consideration”) to be paid by the Company to
+the stockholders of Shift (the “Shift Stockholders”) in the Merger will consist of (i) 38,000,000 shares of
+Company Common Stock, subject to adjustment in accordance with the terms of the Merger Agreement, and (ii) 6,000,000 shares of
+Company Common Stock (the “Additional Shares”) that will be deposited into an escrow account at the closing
+of the Merger (the “Closing”). If the reported closing sale price of the Company Common Stock does not exceed
+$12.00 per share for 20 out of any 30 consecutive trading days during the first 12 months following the Closing (the “First
+Threshold”), then 3,000,000 Additional Shares will be returned to the Company (and either placed into treasury or retired,
+in the discretion of the Company). If the First Threshold is reached, such Additional Shares will be released from escrow to the
+respective Shift Stockholders that are the holders thereof. If the reported closing sale price of the Company Common Stock does
+not exceed $15.00 per share for 20 out of any 30 consecutive trading days during the first 30 months following the Closing (the
+“Second Threshold”), then fifty percent (50%) of the Additional Shares will be returned to the Company (and
+either placed into treasury or retired, in the discretion of the Company). If the Second Threshold is reached, such Additional
+Shares will be released from escrow to the respective Shift Stockholders that are the holders thereof. The Shift Stockholders
+are entitled to vote all of the Additional Shares while they are held in escrow.
+
+ 
+
+Redemption
+Offer
+
+ 
+
+Pursuant
+to the Company’s amended and restated certificate of incorporation and in accordance with the terms of the Merger Agreement,
+the Company will be providing its public stockholders with the opportunity to redeem, upon the Closing, their respective shares
+of Company Common Stock for cash equal to the applicable pro rata share of the aggregate amount on deposit as of two (2) business
+days prior to the consummation of the Merger in the Company’s trust account (which holds the proceeds of the Company’s
+initial public offering, less taxes payable).
+
+ 
+
+Representations,
+Warranties and Covenants
+
+ 
+
+Each
+of Shift, the Company and Merger Sub have made representations, warranties and covenants in the Merger Agreement that are customary
+for transactions of this nature. The representations and warranties of the Company, Merger Sub and Shift will not survive the
+Closing.
+
+ 
+
+Conditions
+to Consummation of the Merger
+
+ 
+
+Consummation of the
+transactions contemplated by the Merger Agreement is subject to customary conditions of the respective parties, including, among
+others, that (i) the Merger be approved by the Company’s stockholders and the Shift Stockholders; (ii) there has been no
+material adverse effect (as defined in the Merger Agreement) that is continuing with respect to Shift or the Company since the
+date of the Merger Agreement; (iii) the filings of the Company and Shift pursuant to the Hart-Scott-Rodino Antitrust Improvements
+Act of 1976, as amended, shall have been made and the applicable waiting period and any extension thereof will have expired or
+been terminated; (iv) the Company will have at least $5,000,001 of net tangible assets immediately following the Closing (after
+giving effect to the redemption of public shares by the Company’s public stockholders, the PIPE Investment (as defined below)
+and the other transactions contemplated to occur upon the Closing); and (v) Parent shall have at least $100,000,000 in cash and
+cash equivalents after giving effect to the Closing (taking into account, among other things, the exercise by the holders of shares
+of Company Common Stock issued in the Company’s initial public offering of securities and outstanding immediately before
+the Closing of their right to redeem such shares into a pro rata share of the Trust Account in accordance with the Company’s
+certificate of incorporation).
+
+ 
+
+
+
+
+     1 
+     
+    
+
+ 
+
+Termination
+
+ 
+
+The
+Merger Agreement may be terminated at any time prior to the consummation of the Merger by mutual written consent of the Company
+and Shift and in certain other limited circumstances, including if the Merger has not been consummated by December 31, 2020 (as
+such date may be extended pursuant to the Merger Agreement, the “Outside Date”).
+
+ 
+
+The Company may also
+terminate the Merger Agreement if Shift does not deliver to the Company within twenty business days following the date of the Merger
+Agreement a voting agreement of the Shift Stockholders in support of the Merger, or the consolidated financial statements of the
+Company Entities as of December 31, 2019, audited in accordance with the standards of the Public Company Accounting Oversight Board,
+together with its auditor’s signed opinion on such financial statements. In addition, the Company may terminate the Merger
+Agreement if Shift delivers a final, signed quality of earnings report from Deloitte LLP that demonstrates, as determined by an
+independent third party to be chosen by Shift and the Company, that the draft quality of earnings report provided to the Company
+in connection with the signing of the Merger Agreement contained a material misstatement of fact, or omitted to state a material
+fact necessary to make the statements therein not materially misleading; provided, that the Company must elect to so terminate
+within fifteen business days of receiving such final quality of earnings report.
+
+ 
+
+If
+the Merger Agreement is validly terminated, no party thereto will have any liability or any further obligation to any other party
+under the Merger Agreement, with certain limited exceptions, including liability for any intentional and willful breach of the
+Merger Agreement.
+
+ 
+
+Additional
+Agreements to be Executed at Closing
+
+ 
+
+The Merger Agreement
+provides that, upon consummation of the Merger, the Company will enter into (1) a letter agreement with Insurance Acquisition
+Sponsor, LLC, a Delaware limited liability company, and Dioptra Advisors, LLC, a Delaware limited liability company (collectively,
+“Sponsor”) providing for certain board observer rights in favor of Sponsor, and clarifying that existing restrictions
+on transfer on Sponsor’s shares of Class B common stock, $0.0001 par value per share (“Class B Stock”)
+apply to the shares of Company Common Stock issued to Sponsor upon conversion of such shares of Class B Stock, which will occur
+automatically upon the consummation of the Merger, and (2) a letter agreement with each of the Shift Stockholders providing for
+certain restrictions on transfer applicable to the shares of Company Common Stock issued as Merger Consideration.
+
+ 
+
+The Merger Agreement
+has been unanimously approved by the Company’s board of directors, and the board has recommended that the Company’s
+stockholders adopt the Merger Agreement and approve the Merger.
+
+ 
+
+The
+Merger Agreement contains representations, warranties and covenants that the respective parties made to each other as of the date
+of such agreement or other specific dates. The assertions embodied in those representations, warranties and covenants were made
+for purposes of the contract among the respective parties and are subject to important qualifications and limitations agreed to
+by the parties in connection with negotiating such agreement. The representations, warranties and covenants in the Merger Agreement
+are also modified in part by the underlying disclosure schedules which are not filed publicly and which are subject to a contractual
+standard of materiality different from that generally applicable to stockholders and were used for the purpose of allocating risk
+among the parties rather than establishing matters as facts. The Company does not believe that these schedules contain information
+that is material to an investment decision. Investors are not third-party beneficiaries under the Merger Agreement and should
+not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state
+of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates.
+
+ 
+
+This
+description of the Merger Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions
+of the Merger Agreement, a copy of which is attached hereto as Exhibit 2.1 and is incorporated herein by reference.
+
+ 
+
+Voting
+Agreement
+
+ 
+
+The Merger
+Agreement provides that Shift will use its reasonable best efforts to obtain, within ten business days after the date of the
+Merger Agreement, a duly executed Voting Agreement (the “Voting Agreement”) from Shift Stockholders
+holding shares of the capital stock of Shift in such number as is necessary to obtain the Shift Stockholder Vote, pursuant to
+which the Shift Stockholders party thereto will agree to, among other things, vote all of the securities of Shift
+beneficially owned or held by such stockholder (their “Voting Shares”) (i) in favor of the adoption of the
+Merger Agreement and approval of the Merger and the other transactions contemplated by the Merger Agreement; (ii) in favor of
+any proposal to adjourn or postpone to a later date any meeting of the Shift Stockholders if there are not sufficient votes
+to approve the Merger; (iii) against any action, proposal, transaction or agreement which could reasonably be expected to
+result in a breach of any covenant, representation or warranty or any other obligation or agreement of Shift under the Merger
+Agreement; (iv) against any action, proposal, transaction or agreement that could reasonably be expected to impede, interfere
+with, delay, discourage, adversely affect or inhibit the timely consummation of the Merger or the fulfillment of the
+applicable conditions of Shift under the Merger Agreement or change in any manner the voting rights of any class of shares of
+Shift (including any amendments to Shift’s organizational documents); and (v) against any alternative acquisition
+proposal or transaction. Sponsor will also sign and deliver the Voting Agreement, and pursuant thereto will agree to, among
+other things, vote all of the securities of the Company beneficially owned or held by Sponsor (its “Voting
+Shares”) (i) in favor of the adoption of the Merger Agreement and approval of the Merger and the other transactions
+contemplated by the Merger Agreement; (ii) in favor of any proposal to adjourn or postpone to a later date any meeting of the
+Company’s Stockholders if there are not sufficient votes to approve the Merger; (iii) against any action, proposal,
+transaction or agreement which could reasonably be expected to result in a breach of any covenant, representation or warranty
+or any other obligation or agreement of the Company or Merger Sub under the Merger Agreement; (iv) against any action,
+proposal, transaction or agreement that could reasonably be expected to impede, interfere with, delay, discourage, adversely
+affect or inhibit the timely consummation of the Merger or the fulfillment of the applicable conditions of the Company under
+the Merger Agreement or change in any manner the voting rights of any class of shares of the Company (including any
+amendments to the Company’s organizational documents, except as required by the Merger Agreement); and (v) against any
+alternative acquisition proposal or transaction.
+
+ 
+
+
+
+
+     2 
+     
+    
+
+ 
+
+The Voting Agreement
+generally prohibits the Sponsor and the Shift Stockholders party thereto from transferring, or permitting to exist any liens on,
+their Voting Shares prior to the consummation of the Merger, other than to certain permitted transferees who become party to, and
+bound by, the Voting Agreement. The Voting Agreement will automatically terminate upon the earlier to occur of (i) the Closing
+and (ii) the termination of the Merger Agreement in accordance with its terms.
+
+ 
+
+This
+description of the Voting Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions
+of the Voting Agreement, a form of which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.
+
+ 
+
+PIPE
+Subscription Agreements
+
+ 
+
+Concurrently
+with the execution and delivery of the Merger Agreement, certain institutional accredited investors (the “PIPE
+Investors”), including affiliates of Sponsor, entered into subscription agreements (the “PIPE Subscription
+Agreements”) pursuant to which the PIPE Investors have committed to subscribe for and purchase up to 18,500,000
+shares of Company Common Stock (the “PIPE Shares”) at a purchase price per share of $10.00. In addition,
+an affiliate of the Sponsor is permitted under its PIPE Subscription Agreement to purchase up to an additional 1,300,000 PIPE
+Shares, subject to certain limitations. The purchase of the PIPE Shares will be consummated concurrently with the
+Closing.
+
+ 
+
+This
+description of the PIPE Subscription Agreements does not purport to be complete and is qualified in its entirety by the terms
+and conditions of the form of PIPE Subscription Agreement, a form of which is attached hereto as Exhibit 10.2 and is incorporated
+herein by reference.
+
+ 
+
+Item
+3.02 Unregistered Sales of Equity Securities.
+
+ 
+
+The
+information set forth under the heading “PIPE Subscription Agreements” in Item 1.01 above is incorporated by reference
+herein.
+
+ 
+
+Item
+7.01 Regulation FD Disclosure.
+
+ 
+
+Attached
+hereto as Exhibit 99.1 and incorporated into this Item 7.01 by reference is the investor presentation that will be used by the
+Company in making presentations to certain existing and potential stockholders of the Company with respect to the Merger.
+
+ 
+
+Attached
+hereto as Exhibit 99.2 and incorporated into this Item 7.01 by reference is a copy of the joint press release issued on June 29,
+2020 by the Company and Shift announcing the execution of the Merger Agreement.
+
+ 
+
+In
+addition, on June 29, 2020, the Company and Shift engaged in various communications with Shift’s employees, former employees
+and investors concerning the proposed Merger. Copies of those communications are furnished as Exhibits 99.3, 99.4, 99.5, and 99.6
+to this report.
+
+ 
+
+The
+information in this Item 7.01 (including Exhibits 99.1, 99.2, 99.3, 99.4., 99.5, and 99.6) is being furnished and shall not be
+deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”),
+or otherwise be subject to the liabilities of that section, nor shall it be deemed to be incorporated by reference in any filing
+under the Securities Act of 1933, as amended, or the Exchange Act.
+
+ 
+
+Additional
+Information About the Transaction and Where to Find It
+
+ 
+
+The
+Company intends to file with the SEC a Registration Statement on Form S-4, which will include a preliminary proxy statement/prospectus
+in connection with the Merger and will mail a definitive proxy statement/prospectus and other relevant documents to its stockholders.
+The Company’s stockholders and other interested persons are advised to read, when available, the preliminary proxy statement/prospectus,
+and amendments thereto, and the definitive proxy statement/prospectus in connection with the Company’s solicitation of proxies
+for its stockholders’ meeting to be held to approve the Merger because the proxy statement/prospectus will contain important
+information about the Company, Shift and the Merger. The definitive proxy statement/prospectus will be mailed to stockholders
+of the Company as of a record date to be established for voting on the Merger. Stockholders will also be able to obtain copies
+of the Registration Statement on Form S-4 and the proxy statement/prospectus, without charge, once available, at the SEC’s
+website at www.sec.gov or by directing a request to: Insurance Acquisition Corp., 2929 Arch Street, Suite 1703, Philadelphia,
+PA 19104, Attn: Joseph Pooler.
+
+ 
+
+
+
+
+     3 
+     
+    
+
+ 
+
+Participants
+in Solicitation
+
+ 
+
+The
+Company, Shift and certain of their respective directors and officers may be deemed participants in the solicitation of proxies
+of the Company’s stockholders with respect to the approval of the Merger. Information regarding the Company’s directors
+and officers and a description of their interests in the Company is contained in the Company’s annual report on Form 10-K
+for the fiscal year ended December 31, 2019. Additional information regarding the participants in the proxy solicitation, including
+Shift’s directors and officers, and a description of their direct and indirect interests, by security holdings or otherwise,
+will be included in the Registration Statement on Form S-4 and the definitive proxy statement/prospectus for the Merger when available.
+Each of these documents is, or will be, available at the SEC’s website or by directing a request to the Company as described
+above under “Additional Information About the Transaction and Where to Find It.”
+
+ 
+
+In
+connection with the Merger, at any time prior to the special meeting to approve the Merger, certain existing Company stockholders,
+which may include certain of the Company’s officers, directors and other affiliates, may enter into transactions with stockholders
+and other persons with respect to the Company’s securities to provide such investors or other persons with incentives in
+connection with the approval and consummation of the Merger. While the exact nature of such incentives has not yet been determined,
+they might include, without limitation, arrangements to purchase shares from or sell shares to such investors and persons at nominal
+prices or prices other than fair market value. These stockholders will only effect such transactions when they are not then aware
+of any material nonpublic information regarding the Company, Shift or their respective securities.
+
+ 
+
+Forward
+Looking Statements
+
+ 
+
+This
+Current Report on Form 8-K contains “forward-looking statements” within the meaning of the “safe harbor”
+provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of
+words such as “anticipate”, “believe”, “could”, “continue”, “expect”,
+“estimate”, “may”, “plan”, “outlook”, “future” and “project”
+and other similar expressions that predict or indicate future events or trends or that are not statements of historical matters.
+These statements, which involve risks and uncertainties, relate to analyses and other information that are based on forecasts
+of future results and estimates of amounts not yet determinable and may also relate to the Company’s and Shift’s future
+prospects, developments and business strategies. In particular, such forward-looking statements include statements concerning
+the timing of the Merger; the business plans, objectives, expectations and intentions of the public company once the transaction
+is complete, and Shift’s estimated and future results of operations, business strategies, competitive position, industry
+environment and potential growth opportunities. These statements are based on the Company’s or Shift’s management’s
+current expectations and beliefs, as well as a number of assumptions concerning future events.
+
+ 
+
+Such
+forward-looking statements are subject to known and unknown risks, uncertainties, assumptions and other important factors, many
+of which are outside the Company’s or Shift’s control that could cause actual results to differ materially from the
+results discussed in the forward-looking statements. These risks, uncertainties, assumptions and other important factors include,
+but are not limited to, (1) the occurrence of any event, change or other circumstances that could give rise to the termination
+of the Merger Agreement; (2) the inability to complete the transactions contemplated by the Merger Agreement due to the failure
+to obtain approval of the stockholders of the Company or other conditions to closing in the Merger Agreement; (3) the ability
+of the public entity to meet Nasdaq’s listing standards following the Merger; (4) the inability to complete the private
+placement; (5) the risk that the proposed transaction disrupts current plans and operations of Shift as a result of the announcement
+and consummation of the transactions described herein; (6) the ability to recognize the anticipated benefits of the proposed transaction,
+which may be affected by, among other things, competition, the ability of the combined company to grow and manage growth profitably,
+maintain relationships with suppliers and agents and retain its management and key employees; (7) costs related to the proposed
+transaction; (8) changes in applicable laws or regulations and delays in obtaining, adverse conditions contained in, or the inability
+to obtain necessary regulatory approvals required to complete the potential transaction; (9) the possibility that Shift may be
+adversely affected by other economic, business, regulatory and/or competitive factors; (10) the outcome of any legal proceedings
+that may be instituted against the Company, Shift or any of their respective directors or officers, following the announcement
+of the potential transaction; and (11) the failure to realize anticipated pro forma results and underlying assumptions, including
+with respect to estimated stockholder redemptions and purchase price and other adjustments.
+
+ 
+
+
+
+
+     4 
+     
+    
+
+ 
+
+Additional
+factors that could cause actual results to differ materially from those expressed or implied in forward-looking statements can
+be found in the Company’s most recent annual report on Form 10-K, subsequently filed quarterly reports on Form 10-Q and
+current reports on Form 8-K, which are available, free of charge, at the SEC’s website at www.sec.gov, and will also
+be provided in the Registration Statement on Form S-4 and the Company’s proxy statement/prospectus when available. New risks
+and uncertainties arise from time to time, and it is impossible for us to predict these events or how they may affect us. You
+are cautioned not to place undue reliance upon any forward-looking statements, which speak only as of the date made, and the Company
+and Shift undertake no obligation to update or revise the forward-looking statements, whether as a result of new information,
+future events or otherwise.
+
+ 
+
+This
+communication is not intended to be all-inclusive or to contain all the information that a person may desire in considering
+an investment in the Company and is not intended to form the basis of an investment decision in the Company. All subsequent written
+and oral forward-looking statements concerning the Company and Shift, the proposed transaction or other matters and attributable
+to the Company and Shift or any person acting on their behalf are expressly qualified in their entirety by the cautionary statements
+above.
+
+ 
+
+Disclaimer
+
+ 
+
+This
+communication shall neither constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there
+be any sale of securities in any jurisdiction in which the offer, solicitation or sale would be unlawful prior to the registration
+or qualification under the securities laws of any such jurisdiction.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+See the Exhibit Index below,
+which is incorporated by reference herein.
+
+
+
+ 
+
+EXHIBIT INDEX
+
+ 
+
+
+
+    Exhibit
+        No.
+     
+    Description
+
+    2.1
+     
+    Agreement
+    and Plan of Merger, dated June 29, 2020, by and among Insurance Acquisition Corp., IAC Merger Sub Inc. and Shift Technologies,
+    Inc.*
+
+    10.1
+     
+    Form of Voting Agreement, by and among Insurance Acquisition Corp., Shift Technologies, Inc., Insurance Acquisition Sponsor, LLC, Dioptra Advisors, LLC and certain stockholders of Shift Technologies, Inc.
+
+    10.2
+     
+    Form of PIPE Subscription Agreement
+
+    99.1
+     
+    Investor Presentation
+
+    99.2
+     
+    Press Release, dated June 29, 2020
+
+    99.3
+     
+    Script for June 29, 2020 Investor Call
+
+    99.4
+     
+    June 29, 2020 Shift Blog Post
+
+    99.5
+     
+    Letter to Shift Employees dated June 29, 2020
+
+    99.6
+     
+    Letter to Shift Ex-Employees and Investors dated June 29, 2020
+
+ 
+
+*Schedules
+and other similar attachments to this Exhibit have been omitted in accordance with Regulation S-K Item 601(b)(2). The
+Registrant agrees to furnish supplementally a copy of all omitted schedules to the Securities and Exchange Commission upon
+its request. 
+
+ 
+
+
+     5 
+     
+    
+
+
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    INSURANCE
+    ACQUISITION CORP. 
+
+     
+     
+
+    Dated:
+    June 29, 2020
+    By:
+    /s/
+        John M. Butler
+
+     
+    Name:  
+    John M. Butler
+
+     
+    Title: 
+    Chief Executive Officer
+
+ 
+
+
+
+ 
+
+6
+
+
+
+ 
+
+
+
+
+
+

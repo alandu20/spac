@@ -1,0 +1,452 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+    
+    
+      UNITED STATES
+      SECURITIES AND EXCHANGE COMMISSION
+      WASHINGTON, D.C. 20549
+      
+      
+      
+        
+      
+      
+      FORM 8-K
+      
+      
+      CURRENT REPORT
+      PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+      
+      
+      Date of Report (Date of earliest event reported): May 21, 2020 (May 20, 2020)
+      
+      
+      AMCI ACQUISITION CORP.
+      (Exact Name of Registrant as Specified in Charter)
+      
+      
+      
+
+          
+            
+              Delaware
+            
+            
+              001-38615
+            
+            
+              83-0982969
+            
+          
+          
+            
+              (State or Other Jurisdiction of Incorporation)
+            
+            
+              (Commission File Number)
+            
+            
+              (IRS Employer Identification No.)
+            
+          
+
+      
+      
+      
+      
+
+          
+            
+              1501 Ligonier Street, Suite 370
+              Latrobe, PA
+            
+             
+            
+              15650
+            
+          
+          
+            
+              (Address of Principal Executive Offices)
+            
+             
+            
+              (Zip Code)
+            
+          
+
+      
+      
+      
+      Registrant’s telephone number, including area code: (724) 672-4319
+      
+      
+      Not Applicable
+      (Former Name or Former Address, if Changed Since Last Report)
+      
+      
+      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+      
+      
+      
+
+          
+            ☐
+            
+              Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+            
+          
+
+      
+      
+      
+      
+
+          
+            ☐
+            
+              Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+            
+          
+
+      
+      
+      
+      
+
+          
+            ☐
+            
+              Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+            
+          
+
+      
+      
+      
+      
+
+          
+            ☐
+            
+              Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+            
+          
+
+      
+      
+      
+      Securities registered pursuant to Section 12(b) of the Act:
+      
+      
+      
+
+          
+            
+              Title of Each Class
+            
+             
+            
+              Trading Symbol(s)
+            
+             
+            
+              Name of Each Exchange on Which Registered
+            
+          
+          
+            
+              Common Stock, par value $0.0001 per share
+            
+             
+            
+              AMCI
+            
+             
+            
+              The Nasdaq Stock Market LLC
+            
+          
+          
+            
+              Warrants to purchase one share of Common Stock
+            
+             
+            
+              AMCIW
+            
+             
+            
+              The Nasdaq Stock Market LLC
+            
+          
+          
+            
+              Units, each consisting of one share of Common Stock
+              and one Warrant
+            
+             
+            
+              AMCIU
+            
+             
+            
+              The Nasdaq Stock Market LLC
+            
+          
+
+      
+      
+      
+      Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+        (§240.12b-2 of this chapter).
+      
+      
+      Emerging growth company  ☒
+      
+      
+      If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+        Act. ☐
+       
+      
+      
+        
+      
+        
+        
+          
+        
+      
+      
+
+          
+            Item 1.01.
+            
+              Entry into a Material Definitive Agreement.
+            
+          
+
+      
+      
+      
+      On May 20, 2020, AMCI Acquisition Corp. (the “Company”) issued a promissory note (the “Note”) in the principal amount of up to $2,365,649 to Orion Resource Partners (USA) LP (“Orion”), pursuant to which Orion agreed, among other things, to loan the Company the necessary funds to deposit in the Company’s trust account for each share of the Company’s Class A common stock (“Public Share”) that was not redeemed in connection with the extension of the Company’s termination date from May 20, 2020 until October 20, 2020.
+      
+      
+      The Note provides that, commencing May 20, 2020, Orion shall advance to the Company monthly payments of approximately $373,000, up to a maximum amount of approximately $1.9 million.
+        The Company will deposit these advances into the Company’s trust account and such amounts will be distributed either to: (i) all of the holders of Public Shares upon the Company’s liquidation or (ii) holders of Public Shares who elect to have their
+        shares redeemed in connection with the consummation of the Company’s initial business combination. Orion will also advance the Company up to $500,000 to pay fees and expenses incurred by the Company in completing its initial business combination.
+      
+      
+      The Note bears no interest unless the Company enters into a definitive agreement for an initial business combination with a party that is not affiliated with Orion (“Third Party Business Combination”), in which case the Note will bear interest at 1% per annum. The Note is due and payable upon
+          the earlier to occur of (i) the date on which the Company consummates its initial business combination and (ii) October 20, 2020.
+      
+      
+      The Company’s obligations under the Note are subject to a limited recourse guarantee by AMCI Sponsor LLC, the Company’s sponsor (“Sponsor”),
+        and are secured by a portion of the founder shares and private placement warrants (the “Pledged Securities”) of the Company owned by Sponsor. Following the occurrence of a Third Party Business Combination, no
+        amounts will be due under the Note if Orion elects to realize under the Pledged Securities.
+      
+      
+      On May 20, 2020, Orion advanced approximately $373,000 to the Company, which funds were deposited in the Company’s trust account.
+      
+      
+      The issuance of the Note was made pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended.
+      
+      
+      The foregoing description is qualified in its entirety by reference to the Note, a copy of which is attached as Exhibit 10.1 hereto and is incorporated herein by reference.
+      
+      
+      
+        
+
+            
+              
+                Item 2.03.
+              
+              
+                Creation of a Direct Financial Obligation or an Obligation Under an Off‐balance Sheet Arrangement of a Registrant.
+              
+            
+
+        
+      
+      
+      
+      The disclosure contained in Item 1.01 of this Current Report on Form 8-K is incorporated by reference in this Item 2.03.
+      
+      
+      
+        
+
+            
+              
+                Item 5.03.
+              
+              
+                Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+              
+            
+
+        
+      
+      
+      
+      On May 19, 2020, the Company filed an amendment to the Company’s Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Delaware (the “Charter Amendment”). The Charter Amendment extends the date by which the Company must consummate a business combination from May 20, 2020 to October 20, 2020.
+      
+      
+      The foregoing description is qualified in its entirety by reference to the Charter Amendment, a copy of which is attached as Exhibit 3.1 hereto and is
+        incorporated by reference herein.
+       
+      
+      
+        
+        
+          
+        
+      
+      
+
+          
+            Item 9.01.
+            
+              Financial Statements and Exhibits.
+            
+          
+
+      
+      
+      
+      (d) Exhibits
+      
+      
+      
+
+          
+            
+              Exhibit
+              Number
+            
+             
+            
+              Description
+            
+          
+          
+             
+             
+             
+          
+          
+            
+              3.1
+            
+             
+            
+              Amendment to Amended and Restated Certificate of Incorporation
+            
+          
+          
+             
+             
+             
+          
+          
+            
+              10.1
+            
+             
+            
+              Promissory Note, dated May 20, 2020
+            
+          
+
+      
+       
+      
+      
+        
+        
+          
+        
+      
+      
+         SIGNATURE
+        
+        
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+        
+        
+        
+          
+
+              
+                
+                  Dated: May 21, 2020
+                
+                
+                   
+                
+              
+              
+                
+                   
+                
+                
+                   
+                
+              
+              
+                
+                   
+                
+                
+                  AMCI ACQUISITION CORP.
+                
+              
+              
+                 
+                 
+              
+              
+                 
+                By: /s/ William Hunter
+                 
+              
+              
+                 
+                
+                  Name: William Hunter
+                
+              
+              
+                 
+                
+                  Title: Chief Executive Officer
+                
+              
+
+          
+        
+         
+        
+      
+    
+    
+    
+    
+      
+  
+
+
+

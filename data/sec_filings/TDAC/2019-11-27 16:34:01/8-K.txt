@@ -1,0 +1,419 @@
+
+8-K
+1
+f8k112619_tridentacq.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+Form
+8-K
+
+ 
+
+Current
+Report
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities
+Exchange Act of 1934
+
+ 
+
+November
+26, 2019
+
+Date
+of Report (Date of earliest event reported)
+
+ 
+
+Trident
+Acquisitions Corp.
+
+(Exact
+Name of Registrant as Specified in its Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38508
+     
+    81-1996183
+
+    (State or other jurisdiction
+ of incorporation)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer 
+Identification No.)
+
+ 
+
+
+
+    77 Water Street, Fl 8
+New York, NY
+     
+    10005
+
+    (Address
+        of Principal Executive Offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (646) 229-7549
+
+ 
+
+
+
+    N/A
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+☐Written
+communications pursuant to Rule 425 under the Securities Act
+
+
+ 
+
+
+☐Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol
+     
+    Name
+    of each exchange on which registered
+
+    Units, each consisting
+    of one share of common stock and one Warrant to acquire one share of common stock
+     
+    TDACU
+     
+    NASDAQ Capital Market
+
+    Common stock, $0.001
+    par value per share
+     
+    TDAC
+     
+    NASDAQ Capital Market
+
+    Warrants 
+     
+    TDACW
+     
+    NASDAQ Capital Market
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR
+§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01. Entry Into a Material Definitive Agreement
+
+ 
+
+Subsequent
+to the approval by its stockholders of the Amendment to the Investment Management Trust Agreement dated May 29, 2018 between it
+and Continental Stock Transfer & Trust Company (“CST”) at the Annual Meeting (as defined below in Item
+5.07) (the “Trust Amendment”), on November 27, 2019, Trident Acquisitions Corp. (“Trident”
+or the “Company”) entered into the Trust Amendment with CST. The Trust Amendment extends the time by which
+Trident has to consummate a business combination for an additional 180 days, from December 1, 2019 to May 29, 2020 (the “Extended
+Termination Date”). 
+
+ 
+
+Item
+5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+Subsequent
+to the approval by its stockholders of the Amendment to Trident’s Amended and Restated Certificate of Incorporation (the “Charter Amendment”), on November 27, 2019, Trident filed the Charter Amendment
+with the Delaware Secretary of State. The Charter Amendment extends the time by which Trident has to consummate a business combination
+from December 1, 2019 to the Extended Termination Date.
+
+ 
+
+Item
+5.07. Submissions of Matters to a Vote of Security Holders.
+
+ 
+
+Trident
+held its Annual Meeting of Stockholders (the “Annual Meeting”) on November 26, 2019 at the offices of Loeb & Loeb LLP, 345 Park Avenue, New York, NY 10154. Summarized below are the results of the matters voted on at the Annual Meeting.
+
+
+ 
+
+
+
+    Matters Voted On 
+    For  
+    Withheld  
+    Abstain 
+
+    Election of two Class I directors to serve until the 2022 Annual Meeting of Stockholders of the Company and until his or her successor has been duly elected and qualified or until his or her earlier resignation, removal or death: 
+       
+       
+      
+
+    Vadim Komissarov (Class I) 
+     17,652,564  
+     5,462,020  
+     -- 
+
+    Thomas Gallagher (Class I) 
+     17,652,564  
+     5,462,020  
+     -- 
+
+
+
+ 
+
+
+
+    Matters Voted On 
+    For  
+    Against  
+    Abstain 
+
+    Proposal to amend the Company’s amended and restated certificate of incorporation to extend the date by which the Company has to complete a business combination for an additional 180 days, from December 1, 2019 to the Extended Termination Date. 
+     22,048,584  
+     20,000  
+     1,046,000 
+
+      
+        
+        
+       
+
+    Proposal to amend the Company’s investment management trust agreement, dated as of May 29, 2018, by and between the Company and Continental Stock Transfer & Trust Company, to extend the date on which to commence liquidating the trust account established in connection with the Company’s initial public offering in the event the Company has not consummated a business combination by the Extended Termination Date. 
+     16,290,044  
+     20,000  
+     1,046,000 
+
+      
+        
+        
+       
+
+    Ratify the appointment of Marcum LLP as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2019. 
+     18,654,584  
+     0  
+     4,460,000 
+
+
+ 
+
+As
+a result of the voting at the Annual Meeting, each of the nominees for director named above was elected and each of the proposals
+described above was approved by the Company’s stockholders. Prior to the Annual Meeting, holders of 13,081,434 shares of
+the Company’s common stock redeemed their shares for cash, resulting in a trust account balance of $74,080,841.35 after
+giving effect to the redemptions.
+
+ 
+
+
+    1
+     
+    
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits
+
+ 
+
+
+(c)Exhibits:
+
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+     
+     
+     
+
+    3.1
+     
+    Amendment to the Amended and Restated Certificate
+    of Incorporation of Trident Acquisitions Corp., dated November 27, 2019
+
+     
+     
+     
+
+    10.1
+     
+    Amendment to the Investment Management Trust
+    Agreement between Trident Acquisitions Corp. and Continental Stock Transfer & Trust Company, dated November 27, 2019
+
+ 
+
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+Dated:
+November 27, 2019
+
+ 
+
+TRIDENT
+ACQUISITIONS CORP.
+
+ 
+
+
+
+    By:
+    /s/ Vadim Komissarov
+     
+
+    Name: 
+    Vadim Komissarov 
+     
+
+    Title:
+    President
+     
+
+ 
+
+
+
+ 
+
+3
+
+ 
+
+
+
+
+
+

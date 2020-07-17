@@ -1,0 +1,361 @@
+
+8-K
+1
+form8-k.htm
+
+
+
+     
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+ 
+
+PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): January 31, 2019
+
+ 
+
+ANDINA
+ACQUISITION CORP. III
+
+(Exact
+Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Cayman
+    Islands
+     
+    001-38785
+     
+    N/A
+
+    (State
+    or Other Jurisdiction 
+     
+    (Commission
+    
+     
+    (IRS
+    Employer
+
+    of
+    Incorporation)
+     
+    File
+    Number)
+     
+    Identification
+    No.)
+
+ 
+
+Calle
+113 # 7-45 Torre B
+
+Oficina
+1012
+
+Bogotá,
+Colombia
+
+(Address
+of Principal Executive Offices) (Zip Code)
+
+ 
+
+(646)
+565-3861
+
+(Registrant’s
+Telephone Number, Including Area Code)
+
+ 
+
+Not
+Applicable
+
+(Former
+Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+
+
+     
+    [  ]
+    Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+     
+
+     
+    [  ]
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+     
+
+     
+    [  ]
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+     
+
+     
+    [  ]
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company [X]
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+       
+     
+    
+
+ 
+
+Item
+3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+The
+information provided in Item 8.01 of this Form 8-K is incorporated by reference into this Item 3.02.
+
+ 
+
+ Item 8.01. Other Events.
+
+
+
+ 
+
+On
+January 31, 2019, the Company consummated the initial public offering (“IPO”) of 10,800,000 of its units (“Units”),
+including 800,000 Units subject to the underwriters’ over-allotment option. Each Unit consists of one ordinary share, $0.0001
+par value per share (“Ordinary Share”), one right (“Right”) to receive one-tenth of one
+Ordinary Share, and one redeemable warrant (“Warrant”), with each Warrant entitling the holder to purchase
+one Ordinary Share at a price of $11.50 per share. The Units were sold at an offering price of $10.00 per Unit, generating gross
+proceeds of $108,000,000.
+
+ 
+
+Simultaneously
+with the consummation of the IPO, the Company consummated the private placement (“Private Placement”) of 395,000
+Units (“Private Units”) at a price of $10.00 per Private Unit, generating total proceeds of $3,950,000, to
+certain of the Company’s initial shareholders, Cowen and Company, LLC and Craig-Hallum Capital Group LLC, the joint book-running
+managers of the IPO, and their respective affiliates. The Private Units are identical to the Units sold in the IPO, except that
+the Warrants underlying the Private Units are non-redeemable and may be exercised on a cashless basis, in each case so long as
+they continue to be held by the initial shareholders or their permitted transferees. The purchasers of the Private Units have
+agreed (A) to vote the Ordinary Shares underlying the Private Units in favor of any proposed business combination, (B) not to
+propose, or vote in favor of, an amendment to the Company’s amended and restated memorandum and articles of association
+with respect to the Company’s pre-business combination activities prior to the consummation of such a business combination
+unless the Company provides public shareholders with the opportunity to convert their public shares in connection with any such
+vote, (C) not to convert any Ordinary Shares underlying the Private Units for cash from the trust account in connection with a
+shareholder vote to approve a proposed initial business combination or a vote to amend the provisions of the Company’s amended
+and restated memorandum and articles of association relating to shareholders’ rights or pre-business combination activity,
+and (D) that the Ordinary Shares underlying the Private Units shall not participate in any liquidating distribution from the trust
+account upon winding up if a business combination is not consummated. The purchasers of Private Units have also agreed not to
+transfer, assign or sell any of the Private Units or underlying securities (except to certain permitted transferees) until the
+completion of the Company’s initial business combination.
+
+ 
+
+An
+audited balance sheet as of January 31, 2019 reflecting receipt of the proceeds received by the Company in connection with the
+consummation of the IPO and the Private Placement has been issued by the Company and is included as Exhibit 99.1 to this Current
+Report on Form 8-K. A copy of the press release issued by the Company announcing the consummation of the IPO and Private Placement
+is included as Exhibit 99.2 to this Current Report on Form 8-K.
+
+ 
+
+Item
+9.01. Financial Statement and Exhibits.
+
+ 
+
+
+
+     
+    (d)
+    Exhibits:
+
+ 
+
+
+
+     
+    Exhibit
+     
+    Description
+
+     
+     
+     
+     
+
+     
+    99.1
+     
+    Audited Balance Sheet.
+
+     
+     
+     
+     
+
+     
+    99.2
+     
+    Press Release Announcing Consummation of IPO.
+
+ 
+
+
+
+     2 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+    Dated:
+    February 6, 2019
+     
+     
+
+     
+    ANDINA ACQUISITION CORP. III
+
+     
+     
+     
+
+     
+    By:
+    /s/
+    Julio A. Torres  
+
+     
+    Name: 
+    Julio
+    A. Torres
+
+     
+    Title:
+    Chief
+    Executive Officer
+
+ 
+
+
+
+
+     3 
+     
+    
+
+ 
+
+
+
+
+
+
+
+

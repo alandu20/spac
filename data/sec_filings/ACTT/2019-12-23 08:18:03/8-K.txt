@@ -1,0 +1,703 @@
+
+8-K
+1
+tv535070_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):  December
+19, 2019
+
+ 
+
+ACT II
+GLOBAL ACQUISITION CORP.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Cayman Islands
+     
+    001-38880
+     
+    38-4101973
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+745 5th Avenue
+
+New York, NY 10151
+
+Attn: Christopher Giordano; Jon Venick
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (212) 335-4500
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    x
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+     
+     
+     
+     
+     
+
+    Units, each consisting of one Class A Ordinary Share and one-half of one Redeemable Warrant
+     
+    ACTTU
+     
+    The NASDAQ Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Class A Ordinary Shares, par value $0.0001 per share
+     
+    ACTT
+     
+    The NASDAQ Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Redeemable Warrants, each exercisable for one Class A Ordinary Share for $11.50 per share
+     
+    ACTTW
+     
+    The NASDAQ Stock Market LLC
+
+ 
+
+ 
+
+
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+    Item 1.01
+    Entry Into A Material Definitive Agreement.
+
+ 
+
+Purchase Agreement
+
+ 
+
+On December 19,
+2019, Act II Global Acquisition Corp. (the “Company” or “Purchaser”) entered into a
+purchase agreement (the “Agreement”) with Flavors Holdings Inc. (“Flavors Holdings”), MW
+Holdings I LLC (“MW Holdings I”), MW Holdings III LLC (“MW Holdings III”) and Mafco Foreign
+Holdings (together with Flavors Holdings, MW Holdings I and MW Holdings III, the “Sellers”), in connection with
+the proposed purchase of all of the outstanding equity interests of Merisant Company (“Merisant”), Merisant
+Luxembourg (“Merisant Luxembourg),” Mafco Worldwide LLC (“Mafco Worldwide”), Mafco Shanghai
+LLC (“Mafco Shanghai”), EVD Holdings LLC (“EVD Holdings”), and Mafco Deutschland (together
+with Merisant, Merisant Luxembourg, Mafco Worldwide, Mafco Shanghai, and EVD Holdings, the “Transferred Entities,”
+and together with their direct and indirect subsidiaries, the “Acquired Companies”). Subject to the terms and
+conditions of the Agreement, at the closing of the transactions (the “Transactions”) contemplated thereunder
+(the “Closing”), the Sellers shall sell, convey, assign, transfer and deliver to the Purchaser, and Purchaser
+shall purchase, the issued and outstanding capital stock of the Transferred Entities (the “Transferred Equity Interests”)
+and certain assets and assume certain liabilities included in the Transferred Assets and Liabilities (each as defined in the Agreement),
+in each instance, free and clear of all liens, in exchange, subject to the limitations set forth below, for the Cash Consideration,
+Purchaser Ordinary Share Consideration, Escrowed Seller Shares and Additional Earnout Consideration (each as hereinafter defined).
+
+ 
+
+Subject to the
+terms and conditions set forth in the Agreement, at the Closing, the Sellers shall receive (i) $450,000,000 in cash, plus or minus
+the Adjustment Amount (as defined in the Agreement) (the “Cash Consideration”), and (ii) that number of Class
+A Ordinary Shares of the Company (“Class A Ordinary Shares”) equal to the higher of (A) 6,000,000 or (B) the
+quotient of $60,000,000 divided by the lowest per share price at which Class A Ordinary Shares are sold by the Purchaser
+to any person from and after the date of the Agreement but prior to, at or in connection with the Closing (the “Purchaser
+Ordinary Share Consideration”). An additional 1,000,000 Class A Ordinary Shares will be issued to the Sellers at the
+Closing (the “Escrowed Seller Shares”), which shall be held in escrow by the Purchaser’s transfer agent,
+and released to the Sellers upon the earliest to occur of (i) the volume weighted-average per-share trading price of Class A Ordinary
+Shares being at or above $13.50 per share for twenty (20) trading days in any thirty (30)-trading day continuous trading period
+between the date of the Closing but on or prior to the fifth (5th) anniversary of the Closing (the “Earnout Period”),
+(ii) a Change in Control (as defined in the Agreement), and (iii) the expiration of the Earnout Period.
+
+ 
+
+In addition, subject
+to the terms and conditions set forth in the Agreement, during the Earnout Period, Sellers have the contingent right to receive
+additional earnout consideration from Purchaser based on the performance mechanics described below (“Additional Earnout
+Consideration”). In the event that the volume weighted-average per-share trading price of Class A Ordinary Shares is
+at or above $14.00 per share (subject to certain adjustments more thoroughly described in the Agreement) (the “Tier 1
+Threshold Price”) for twenty (20) trading days in any thirty (30)-day continuous trading period during the Earnout Period,
+the Sellers will have the right to receive a number of additional Class A Ordinary Shares equal to $20,000,000 divided by
+the Tier 1 Threshold Price (the “Tier 1 Consideration”). Additionally, in the event that the volume weighted-average
+per-share trading price of Class A Ordinary Shares is at or above $16.00 per share (subject to certain adjustments more thoroughly
+described in the Agreement) (the “Tier 2 Threshold Price”) for twenty (20) trading days in any thirty (30)-day
+continuous trading period during the Earnout Period, the Sellers will have the right to receive a number of additional Class A
+Ordinary Shares equal to $20,000,000 divided by the Tier 2 Threshold Price (the “Tier 2 Consideration,”
+and together with the Cash Consideration, the Purchaser Ordinary Share Consideration, the Escrowed Seller Shares and the Tier 1
+Consideration, the “Purchase Price”). In the event that a Change in Control occurs prior to the expiration of
+the Earnout Period at or above a Class A Ordinary Shares per share price (or implied per share price) of $10.00 per share (the
+“Acceleration Price”), the Sellers will have the right to receive a number of additional Class A Ordinary Shares
+equal to the sum of (i) $20,000,000 divided by the Tier 1 Threshold Price plus (ii) $20,000,000 divided by the
+Tier 2 Threshold Price immediately prior to the consummation of the Change in Control.
+
+ 
+
+Immediately following
+the Closing, Act II Sponsor LLC (the “Purchaser Sponsor”) shall place (i) (A) 3,000,000 Class A Ordinary
+Shares (which will be converted at Closing from Class B Ordinary Shares) (the “Initial Escrowed Sponsor Shares”)
+and (B) 2,000,000 Class A Ordinary Shares (which will be converted at the Closing from Class B Ordinary Shares) (the “Secondary
+Escrowed Sponsor Shares”), into escrow which shall be held in escrow by the Purchaser’s transfer agent. The Initial
+Escrowed Sponsor Shares shall be released to Purchaser Sponsor upon the earliest to occur of (i) the volume weighted-average per-share
+trading price of Class A Ordinary Shares being at or above $13.50 per share for twenty (20) trading days in any thirty (30)-trading
+day continuous trading period during the Earnout Period, (ii) a Change in Control, and (iii) the expiration of the Earnout Period.
+The Secondary Escrowed Sponsor Shares shall be released to Purchaser Sponsor upon the earliest to occur of (i) the volume weighted-average
+per-share trading price of Class A Ordinary Shares being at or above $15.00 per share for twenty (20) trading days in any thirty
+(30)-trading day continuous trading period during the Earnout Period, (ii) a Change in Control, and (iii) the expiration of the
+Earnout Period.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+The Agreement contains customary representations,
+warranties and covenants of the Sellers and the Purchaser, including, among others, covenants (i) to conduct their respective
+businesses in the ordinary course during the period between the execution of the Purchase Agreement and the Closing and (ii) not
+to engage in certain kinds of transactions during such period.
+
+ 
+
+The Closing is subject to customary conditions,
+including, among others, that (i) the applicable waiting period under the HSR Act (as defined in the Agreement) shall have expired
+or been terminated, (ii) the shareholders of the Purchaser shall have (A) approved and adopted the Agreement and the consummation
+of the Transactions; (B) approved, for purposes of complying with applicable listing rules of NASDAQ, of the issuance of equity
+interests of the Purchaser in connection with the consummation of the Transactions; and (C) approved of the redomestication
+of Purchaser to Delaware, (iii) at the Closing, after giving effect to (A) the completion of any redemptions by holders of the
+Class A Ordinary Shares of all or a portion of their Class A Ordinary Shares upon the consummation of a Business Combination (as
+defined in the Purchaser’s organizational documents) in accordance with Purchaser’s organizational documents; (B) the
+completion of any additional equity financing obtained by Purchaser prior to the Closing; and (C) all available amounts in the
+trust account established by the Purchaser in connection with the consummation of its initial public offering, but excluding, for
+the avoidance of doubt, any proceeds contemplated by the Debt Financing (as hereinafter defined), the Purchaser shall have cash
+in an amount equal to or exceeding $210,000,000, and (iv) solely as a condition to the Sellers’ obligation to close the Transactions,
+the Purchaser Ordinary Shares Consideration shall have been approved for listing on NASDAQ.
+
+ 
+
+Upon entry into the Agreement, the Purchaser
+provided to the Sellers an executed and binding copy of the commitment letter dated as of the date thereof from The Toronto-Dominion
+Bank, New York Branch and TD Securities (USA) LLC (together with each Affiliate thereof and each former, current and future Representative
+of each such person, the “Debt Providers”), relating to the commitment of the Debt Providers to provide, subject
+only to the terms and conditions set forth therein, the full amount of the debt financing stated therein (the “Debt Financing”).
+At any time from and after the date of the Agreement, the Purchaser may procure additional equity financing in the form of the
+issuance and sale of additional Class A Ordinary Shares from persons and on terms reasonably acceptable to the Sellers. The Purchaser
+is obligated, in consultation with the Sellers, to use reasonable best efforts to, as promptly as possible after the date of the
+Purchase Agreement, obtain a binding commitment for a “term loan B” facility.
+
+ 
+
+At the Closing and subject to it, the Purchaser
+shall pay all transaction related costs (other than any brokerage, finder’s, investment banker’s, financial advisor
+or other fee, commission or like payment payable by an Acquired Company solely as a result of or in connection with the consummation
+of the Transactions, if any) incurred by the Sellers and Acquired Companies subsequent to July 21, 2019.
+
+ 
+
+The foregoing description of the Agreement
+and the Transactions are not complete and are subject to and qualified in their entirety by reference to the Agreement, a copy
+of which is filed as Exhibit 2.1 to this Current Report on Form 8-K, and is incorporated herein by reference.
+
+ 
+
+Sponsor
+Support Agreement
+
+ 
+
+In addition to and concurrent with the
+execution of the Agreement, the Purchaser Sponsor, the Company and the Sellers entered into a Sponsor Support Agreement (the “Support
+Agreement”), pursuant to which the Purchaser Sponsor agreed to certain covenants and agreements related to the Transactions,
+particularly with respect to taking supportive actions to consummate the Transactions and to designate two of the Sellers’
+directors to the Board of Directors of the Company, to be effective at the Closing. In addition, the Purchaser Sponsor irrevocably
+waived its anti-dilution protections under the Company’s Amended and Restated Memorandum and Articles of Association in connection
+with any new issuances of Class A Ordinary Shares.
+
+ 
+
+The foregoing descriptions of the Support
+Agreement and the transactions contemplated thereby are not complete and are subject to and qualified in their entirety by reference
+to the Support Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K, and is incorporated
+herein by reference.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+General
+
+ 
+
+The Purchaser’s Board of Directors
+has (i) determined that it is in the best interests of the Purchaser for the Purchaser to enter into the Agreement and consummate
+the Transactions in accordance with the terms and conditions thereof and (ii) approved the execution and delivery of the Agreement,
+the Purchaser’s performance of its obligations thereunder and the consummation of the Transactions in accordance with the
+terms and conditions thereof.
+
+ 
+
+The Agreement has been included to provide
+investors with information regarding the terms of the Transactions, and the other transactions contemplated by the Agreement. The
+Agreement is not intended to provide any other factual information about the Purchaser, the Sellers or their respective subsidiaries
+or affiliates. The Agreement contains representations and warranties of the Purchaser and the Sellers. The assertions embodied
+in those representations and warranties were made for purposes of the Agreement, and are qualified by information in disclosure
+schedules that the parties have exchanged in connection with the execution of the Agreement.
+
+ 
+
+The disclosure schedules contain information
+that modifies, qualifies and creates exceptions to the representations and warranties set forth in the Agreement. In addition,
+certain representations and warranties were made as of a specific date, may be subject to a contractual standard of materiality
+different from what an investor might view as material, or may have been used for purposes of allocating risk between the respective
+parties rather than establishing matters as facts. Accordingly, you should read the representations and warranties in the Agreement
+not in isolation but only in conjunction with the other information about Purchaser that is included in reports, statements and
+other filings made with the Securities and Exchange Commission (the “SEC”).
+
+ 
+
+ITEM 7.01 - Regulation FD Disclosure.
+
+ 
+
+Investor Presentation
+
+ 
+
+The Company prepared an investor presentation
+with respect to the contemplated Transactions. A copy of the investor presentation is furnished as Exhibit 99.1 to this Current
+Report on Form 8-K. The investor presentation will be used by the Company during calls with investors, shareholders, analysts,
+brokers and other parties interested in the Transactions. The investor presentation will be posted on the Company’s website.
+
+ 
+
+The investor presentation shall not be
+deemed “filed” for any purpose, including for the purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended (the “Exchange Act”), or otherwise subject to the liabilities of that Section. The information in
+this Item 7.01, including Exhibit 99.1, shall not be deemed incorporated by reference into any filing under the Securities
+Act of 1933, as amended (the “Securities Act”), or the Exchange Act regardless of any general incorporation
+language in the filing.
+
+ 
+
+Press Release & Conference Call
+
+ 
+
+On December 19, 2019, the Company issued
+a press release announcing the execution of the Agreement and related information, a copy of which is attached to this Current
+Report on Form 8-K as Exhibit 99.2 and is incorporated herein by reference. In addition, on December 20, 2019, at 8:00
+am ET, the Company held a previously announced conference call to discuss the Transactions. A copy of the conference call transcript
+is attached to this Current Report on Form 8-K as Exhibit 99.3 and is incorporated herein by reference.
+
+ 
+
+The press release and conference call transcript
+shall not be deemed “filed” for any purpose, including for the purposes of Section 18 of the Exchange Act or otherwise
+subject to the liabilities of that Section. The information in this Item 7.01, including Exhibit 99.2 and 99.3, shall not
+be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act regardless of any general incorporation
+language in the filing.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Cautionary Statement Concerning Forward-Looking
+Statements
+
+ 
+
+Certain of the matters discussed in this
+communication constitute forward-looking statements within the meaning of the Securities Act of 1933 and the Securities Exchange
+Act of 1934, both as amended by the Private Securities Litigation Reform Act of 1995. The forward-looking statements include, among
+other things, statements regarding the intent, belief or expectations of the Company and can be identified by the use of words
+such as “may,” “will,” “should,” “would,” “will be,” “will continue,”
+“will likely result,” “believe,” “project,” “expect,” “anticipate,”
+“intend,” “estimate” and other comparable terms. Such forward-looking statements with respect to financial
+performance, strategies, prospects and other aspects of the businesses of Purchaser, Sellers or the combined company after completion
+of the business combination are based on current expectations that are subject to risks and uncertainties. A number of factors
+could cause actual results or outcomes to differ materially from those expressed or implied by such forward-looking statements.
+These factors include, but are not limited to: (1) the occurrence of any event, change or other circumstances that could give rise
+to the termination of negotiations and any subsequent definitive agreements with respect to the business combination; (2) the possibility
+that the terms and conditions set forth in any definitive agreements with respect to the business combination may differ materially
+from the expected terms on which this information is based; (3) the outcome of any legal proceedings that may be instituted against
+Purchaser, the combined company or others following the announcement of the business combination and any definitive agreements
+with respect thereto; (4) the inability to complete the business combination due to the failure to obtain approval of the shareholders
+of Purchaser, to obtain financing to complete the business combination or to satisfy conditions to closing in the definitive agreements
+with respect to the business combination; (5) changes to the proposed structure of the business combination that may be required
+or appropriate as a result of applicable laws or regulations or as a condition to obtaining regulatory approval of the business
+combination; (6) the ability to comply with NASDAQ listing standards following the consummation of the business combination; (7)
+the risk that the business combination disrupts current plans and operations of Sellers as a result of the announcement and consummation
+of the business combination; (8) the ability to recognize the anticipated benefits of the business combination, which may be affected
+by, among other things, competition, the ability of the combined company to grow and manage growth profitably, maintain relationships
+with suppliers, obtain adequate supply of products and retain its management and key employees; (9) costs related to the business
+combination; (10) changes in applicable laws or regulations; (11) the possibility that Sellers or the combined company may be adversely
+affected by other economic, business, and/or competitive factors; (12) the inability to achieve estimates of expenses and profitability;
+(13) the impact of foreign currency exchange rates and interest rate fluctuations on results; and (14) other risks and uncertainties
+indicated from time to time in the final prospectus of Purchaser, including those under “Risk Factors” therein, and
+other documents filed (or furnished) or to be filed (or furnished) with the Securities and Exchange Commission by Purchaser. You
+are cautioned not to place undue reliance upon any forward-looking statements, which speak only as of the date made. Seller and
+Purchaser undertake no commitment to update or revise the forward-looking statements, whether as a result of new information, future
+events or otherwise, except as required by law.
+
+ 
+
+Additional Information and Where to
+Find It:
+
+ 
+
+In connection with the proposed business
+combination, Purchaser intends to file with the SEC a Registration Statement on Form S-4 and will mail the definitive proxy statement/prospectus
+and other relevant documentation to Purchaser’s shareholders. This filing does not contain all the information that should
+be considered concerning the Transactions. It is not intended to form the basis of any investment decision or any other decision
+with respect to the business combination. This communication shall not constitute an offer to sell or the solicitation of an offer
+to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale
+would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities
+shall be made except by means of a prospectus meeting the requirements of the federal securities laws.
+
+ 
+
+Purchaser shareholders and other interested
+persons are advised to read, when available, the preliminary proxy statement and any amendments thereto, and the definitive proxy
+statement in connection with Purchaser’s solicitation of proxies for the special meeting to be held to approve the proposed
+transaction, because these materials will contain important information about Purchaser, the Acquired Companies and the Transactions.
+The definitive proxy statement will be mailed to Purchaser shareholders as of a record date to be established for voting on the
+business combination when it becomes available.
+
+ 
+
+WE URGE INVESTORS TO READ THE PROXY
+STATEMENT/PROSPECTUS AND ANY OTHER RELEVANT DOCUMENTS FILED BY PURCHASER IN CONNECTION WITH THE PROPOSED TRANSACTIONS WHEN THEY
+BECOME AVAILABLE, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT PURCHASER, THE ACQUIRED COMPANIES AND THE PROPOSED TRANSACTIONS.
+INVESTORS ARE URGED TO READ THESE DOCUMENTS CAREFULLY AND IN THEIR ENTIRETY.
+
+ 
+
+Shareholders will also be able to
+obtain a copy of the preliminary proxy statement and definitive proxy statement once they are available, without charge, at
+the SEC’s website at www.sec.gov or by directing a request to Act II at 745 5th Avenue New York, NY 10151. This press
+release shall not constitute a solicitation of a proxy, consent or authorization with respect to any securities or in respect
+of the business combination. Please call the SEC at 1-800-SEC-0330 or visit the SEC’s website for further information
+on its public reference room.
+
+ 
+
+Participants in the Proxy Solicitation:
+
+ 
+
+Purchaser, the Acquired Companies and their
+respective directors and officers and representatives or affiliates may be deemed participants in the solicitation of proxies of
+Purchaser shareholders in connection with the Transactions. Purchaser shareholders and other interested persons may obtain, without
+charge, more detailed information regarding the directors and officers of Purchaser in the final prospectus of Purchaser, which
+was filed with the SEC on April 29, 2019. Information regarding the persons who may, under SEC rules, be deemed participants in
+the solicitation of proxies to Purchaser shareholders in connection with the business combination will be set forth in the proxy
+statement for the business combination when available. Additional information regarding the interests of participants in the solicitation
+of proxies in connection with the business combination will be included in the proxy statement that Purchaser intends to file with
+the SEC and other documents furnished or filed with the SEC by Purchaser.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+ITEM 9.01 - Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+     
+     
+     
+
+    2.1
+     
+    Purchase
+    Agreement, dated December 19, 2019, by and among the Company and the Sellers.†
+
+     
+     
+     
+
+    10.1
+     
+    Sponsor
+    Support Agreement, dated December 19, 2019, by and among the Purchaser Sponsor, the Company and the Sellers.
+
+     
+     
+     
+
+    99.1
+     
+    Press
+    Release, dated December 19, 2019.
+
+     
+     
+     
+
+    99.2
+     
+    Investor
+    Presentation, dated December 2019.
+
+     
+     
+     
+
+    99.3
+     
+    Transcript
+    of December 20, 2019 Purchaser Conference Call.
+
+ 
+
+
+†Schedules and exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The registrant hereby undertakes to
+furnish supplemental copies of any of the omitted schedules or exhibits upon request by the SEC.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+
+
+     
+    Act II Acquisition Corp.
+
+     
+     
+     
+
+    Date: December 23, 2019
+    By:
+    /s/ Ira J. Lamel
+
+     
+     
+    
+        Name: Ira J. Lamel
+        Title: Chief Financial Officer
+
+ 
+
+
+
+
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+

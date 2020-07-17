@@ -1,0 +1,578 @@
+
+8-K
+1
+tm19251101_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+December 12, 2019
+____________________
+
+ 
+
+NEW FRONTIER CORPORATION
+
+(Exact name of registrant as specified in
+its charter)
+
+____________________
+
+ 
+
+
+
+    Cayman Islands
+    001-38562
+    N/A
+
+    (State or other jurisdiction of incorporation)
+    (Commission File Number)
+    (IRS Employer Identification No.)
+
+ 
+
+23rd Floor, 299 QRC
+
+287-299 Queen’s Road Central
+
+Hong Kong
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: 852-6491-9230
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+___________________
+
+ 
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+ 
+
+
+
+     
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+    Trading Symbol(s)
+    Name of each exchange on which registered
+
+    Units, each consisting of one Class A ordinary share and one-half of one warrant
+    NFC.U
+    New York Stock Exchange
+
+    Class A Ordinary Shares, $0.0001 par value
+    NFC
+    New York Stock Exchange
+
+    Warrants, each exercisable for one Class A ordinary share
+    NFC WS
+    New York Stock Exchange
+
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company x
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 5.02. Departure of Directors or Certain Officers; Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+On December 12, 2019,
+New Frontier Corporation, a Cayman Islands exempted company (the “Company”), held an extraordinary general meeting
+(the “Extraordinary General Meeting”). At the Extraordinary General Meeting, the Company’s shareholders approved
+the New Frontier Health Corporation 2019 Omnibus Incentive Plan (the “Incentive Plan”). A description of the Incentive
+Plan is included in the Company’s definitive proxy statement filed with the U.S. Securities and Exchange Commission (the
+“SEC”) on November 27, 2019 (the “Proxy Statement”), which description is incorporated herein by reference.
+Such description does not purport to be complete and is qualified in its entirety by reference to the full text of the Incentive
+Plan, which is attached as Annex E to the Proxy Statement and is also incorporated herein by reference.
+
+ 
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+ 
+
+At the Extraordinary
+General Meeting, a total of 36,166,094 (89.4%) of the issued and outstanding Class A ordinary shares and Class B ordinary shares
+of the Company, held of record as of November 19, 2019, the record date for the Extraordinary General Meeting, were present either
+in person or by proxy, which constituted a quorum. The Company’s shareholders voted on the following proposals at the Extraordinary
+General Meeting, each of which was approved. The final vote tabulation for each proposal is set forth below. There were no broker
+non-votes cast on any of the proposals.
+
+ 
+
+
+1.Business Combination Proposal: To approve by ordinary resolution and adopt the Transaction
+Agreement, dated as of July 30, 2019, as may be amended from time to time (the “Transaction Agreement”), by and among
+the Company, NF Unicorn Acquisition L.P., a Cayman Islands exempted limited partnership and wholly owned indirect subsidiary of
+the Company, Healthy Harmony Holdings, L.P., a Cayman Islands exempted limited partnership (“Healthy Harmony”), Healthy
+Harmony GP, Inc., a Cayman Islands exempted company and the sole general partner of Healthy Harmony (“HH GP”) and the
+sellers named therein, and the transactions contemplated thereby (the transactions contemplated by the Transaction Agreement, the
+“Business Combination”):
+
+ 
+
+
+
+    Votes For 
+    Votes Against 
+    Abstentions
+
+    34,766,474 
+    1,304,013 
+    95,607
+
+
+ 
+
+
+2.Charter Approval Proposal: To approve by special resolution, conditional upon, and
+with effect from, the closing of the Business Combination (the “Closing”), that the amended and restated memorandum
+and articles of association of the Company currently in effect (the “Current Charter”) be amended and restated by their
+deletion in their entirety and the substitution in their place of the amended and restated memorandum and articles association
+(the “Proposed Charter”) of New Frontier Health Corporation (“NFH”):
+
+ 
+
+
+
+    Votes For 
+    Votes Against 
+    Abstentions
+
+    34,766,474 
+    1,304,013 
+    95,607
+
+
+ 
+
+The Charter Provisions Proposals.
+The following proposals to approve the following material differences between the Current Charter and the Proposed Charter:
+
+ 
+
+
+3.Charter Proposal A: To approve by ordinary resolution, conditional upon, and with
+effect from, the Closing, the provision in the Proposed Charter increasing the authorized share capital from $20,100 divided into
+180,000,000 Class A ordinary shares, par value $0.0001 per share, of the Company, 20,000,000 Class B ordinary shares, par value
+$0.0001 per share, of the Company, and 1,000,000 preference shares, par value $0.0001 per share, of the Company to $50,000 divided
+into 490,000,000 ordinary shares, par value $0.0001 per share, and 10,000,000 preference shares, par value $0.0001 per share, by
+(i) the cancelation of 20,000,000 Class B ordinary shares, (ii) the redesignation of all issued Class A ordinary shares as ordinary
+shares, (iii) the redesignation of all unissued Class A ordinary shares as ordinary shares, (iv) the creation of an additional
+310,000,000 ordinary shares each with the rights set out in the Proposed Charter, and (v) the creation of an additional 9,000,000
+preference shares:
+
+ 
+
+
+
+    Votes For
+     
+    Votes Against
+     
+    Abstentions
+    
+
+    34,262,405
+     
+    1,808,082
+     
+    95,607
+    
+
+  
+
+
+
+
+     
+     
+    
+
+ 
+
+
+4.Charter Proposal B: To approve by special
+resolution, conditional upon, and with effect from, the Closing, the provision in the Proposed Charter providing that each director
+of NFH will be elected annually at each annual general meeting (or extraordinary general meeting in lieu thereof) following the
+Closing:
+
+
+ 
+
+
+
+    Votes For
+     
+    Votes Against
+     
+    Abstentions
+    
+
+    36,070,487
+     
+    0
+     
+    95,607
+    
+
+ 
+
+
+5.Charter Proposal C: To approve by special
+resolution, conditional upon, and with effect from, the Closing, all other material differences between the Current Charter and
+the Proposed Charter including, among other things, (i) changing the name of the Company from “New Frontier Corporation”
+to “New Frontier Health Corporation” and making NFH’s corporate existence perpetual, (ii) granting a waiver
+regarding corporate opportunities to certain persons, and (iii) removing certain provisions related to the Company’s status
+as a blank check company that will no longer apply upon consummation of the Business Combination:
+
+
+ 
+
+
+
+    Votes For
+     
+    Votes Against
+     
+    Abstentions
+    
+
+    34,766,474
+     
+    1,304,013
+     
+    95,607
+    
+
+ 
+
+
+6.Director Election Proposal: To approve
+by ordinary resolution, conditional upon, and with effect from, the Closing, the appointment of each of Qiyu Chen, Roberta Lipson,
+Shan Fu and David Zeng as a director of NFH, each to hold office in accordance with the Proposed Charter:
+
+
+ 
+
+
+
+     
+    Votes For
+     
+    Votes Withheld
+    
+
+    Qiyu Chen
+    11,702,500
+     
+    0
+    
+
+    Roberta Lipson
+    11,702,500
+     
+    0
+    
+
+    Shan Fu
+    11,702,500
+     
+    0
+    
+
+    David Zeng
+    11,702,500
+     
+    0
+    
+
+ 
+
+
+7.Share Issuance Proposal: To approve
+by ordinary resolution, for the purposes of complying with the applicable listing rules of the New York Stock Exchange, the issuance
+by the Company of (i) Class A ordinary shares to (x) certain accredited investors pursuant to certain Forward Purchase Agreements
+and certain Subscription Agreements, (y) to certain sellers and members of UFH’s management in connection with the Business
+Combination, (ii) Class B ordinary shares to an anchor investor and New Frontier Public Holding Ltd. in connection with the increase
+in the Company’s commitments under the Forward Purchase Agreements, and (iii) warrants, each exercisable for one Class A
+ordinary share, to certain investors pursuant to the Forward Purchase Agreements:
+
+
+ 
+
+
+
+    Votes For
+     
+    Votes Against
+     
+    Abstentions
+    
+
+    34,766,474
+     
+    1,304,013
+     
+    95,607
+    
+
+ 
+
+
+8.Incentive Award Plan Proposal: To approve
+by ordinary resolution, the Incentive Plan:
+
+
+ 
+
+
+
+    Votes For
+     
+    Votes Against
+     
+    Abstentions
+    
+
+    34,766,474
+     
+    1,304,013
+     
+    95,607
+    
+
+ 
+
+Item 7.01. Regulation FD Disclosure.
+
+ 
+
+On December 12, 2019,
+the Company issued a press release announcing that its shareholders voted to approve the Business Combination at the Extraordinary
+General Meeting, a copy of which is furnished as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+The information reported
+in this Item 7.01, including the material attached hereto as Exhibit 99.1, shall not be deemed “filed” for purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the
+liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as
+amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Information Concerning Forward-Looking
+Statements
+
+ 
+
+The Company makes forward-looking statements
+in this report within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements relate
+to expectations or forecasts for future events. These statements may be preceded by, followed by or include the words “estimates,”
+“projected,” “expects,” “anticipates,” “forecasts,” “plans,” “intends,”
+“believes,” “seeks,” “may,” “will,” “should,” “future,”
+“propose” and variations of these words or similar expressions (or the negative versions of such words or expressions)
+are intended to identify forward-looking statements. These forward-looking statements are not guarantees of future performance,
+conditions or results, and involve a number of known and unknown risks, uncertainties, assumptions and other important factors,
+many of which are outside the Company’s or UFH’s control, that could cause actual results or outcomes to differ materially
+from those discussed in the forward-looking statements. These forward-looking statements include, without limitation, the Company’s
+and UFH’s expectations with respect to the timing of the Extraordinary Meeting, the satisfaction of the closing conditions
+of the Business Combination and the timing of the completion of the Business Combination. Important factors, among others, that
+may affect actual results or outcomes include the inability to complete the Business Combination (including due to the failure
+to receive required shareholder approvals, or the failure of other closing conditions); the inability to recognize the anticipated
+benefits of the proposed Business Combination; the inability to meet the listing requirements of the New York Stock Exchange; costs
+related to the Business Combination; UFH’s ability to manage growth; UFH’s ability to execute its business plan and
+meet its projections; UFH’s ability to identify, consummate and integrate acquisitions; rising costs adversely affecting
+UFH’s profitability; potential litigation involving the Company or UFH, or after the closing, the post-business combination
+company; general economic and market conditions impacting demand for UFH’s services, and in particular economic and market
+conditions in the Chinese healthcare industry and changes in the rules and regulations that apply to such business, including as
+it relates to foreign investments in such businesses; and such other risks and uncertainties as are discussed in the definitive
+proxy statement relating to the Business Combination, including those under “Risk Factors” therein, and in the Company’s
+other filings with the SEC. None of the Company or UFH undertakes any obligation to update or revise any forward-looking statements,
+whether as a result of new information, future events or otherwise, except as required by law.
+
+  
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+
+(d)Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+     
+
+    10.1
+     
+    New Frontier Health Corporation 2019 Omnibus Incentive Plan (incorporated by reference to Annex E to the Company’s Definitive Proxy Statement on Schedule 14A, filed with the SEC on November 27, 2019).
+
+    99.1
+     
+    Press Release.
+
+
+ 
+
+
+     
+     
+    
+
+  
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    New Frontier Corporation
+     
+
+     
+     
+     
+
+     
+    By:
+    /s/ Carl Wu
+     
+
+    Dated: December 12, 2019
+     
+    Name: Carl Wu
+     
+
+     
+     
+    Title: Chief Executive Officer
+     
+
+ 
+
+ 
+
+
+
+
+     
+    
+
+
+
+
+
+

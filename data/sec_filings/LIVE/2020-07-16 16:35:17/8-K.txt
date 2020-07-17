@@ -1,0 +1,378 @@
+
+8-K
+1
+live-8k_20200710.htm
+8-K
+
+
+
+
+
+live-8k_20200710.htm
+
+
+
+
+
+ 
+ 
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, D.C. 20549
+ 
+FORM 8-K
+ 
+CURRENT REPORT
+ 
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+Date of Report (Date of earliest event reported):  July 10, 2020
+ 
+Live Ventures Incorporated
+(Exact Name of Registrant as Specified in Charter)
+ 
+ 
+
+
+
+
+Nevada
+
+001-33937
+
+85-0206668
+
+
+
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+
+ 
+
+
+
+
+325 E. Warm Springs Road, Suite 102
+Las Vegas, NV 89119
+
+
+
+(Address of Principal Executive Offices and Zip Code)
+
+
+ 
+Registrant’s telephone number, including area code: 702-997-5968
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+
+
+
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+
+Title of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+
+
+Common Stock, $0.001 par value per share
+
+ 
+
+LIVE
+
+ 
+
+The NASDAQ Stock Market LLC (The NASDAQ Capital Market)
+
+
+ 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+ 
+Emerging growth company   ☐
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+ 
+ 
+ 
+ 
+
+ 
+Item 1.01.  Entry into a Material Definitive Agreement.
+Acquisition of Precision Industries, Inc.
+On July 14, 2020 (the “Closing Date”), Live Ventures Incorporated (“Live Ventures”) entered into a definitive Agreement and Plan of Merger (the “Merger Agreement”) with Precision Industries, Inc., a Pennsylvania corporation (“Precision”), President Merger Sub Inc., a Pennsylvania corporation and a wholly-owned subsidiary of Live Ventures (“Merger Sub”), and D. Jackson Milhollan, as shareholders’ representative, pursuant to which Live Ventures acquired Precision by the consummation of a merger (the “Merger”) of its Merger Sub with and into Precision, with Precision surviving the Merger. 
+ 
+Pursuant to the Merger Agreement, and subject to the terms and conditions contained therein, at the closing of the Merger, Live Ventures paid Precision’s shareholders aggregate consideration of $31,475,000 in cash (the “Merger Consideration”), subject to (i) certain adjustments with respect to Precision’s cash, expenses incurred in connection with the Merger, debt, and net working capital balances at the closing of the Merger, (ii) the withholding of a portion of the Merger Consideration in connection with the Precision shareholders’ indemnification obligations under the Merger Agreement, and (iii) the withholding of a portion of the Merger Consideration as an expense account for the shareholders’ representative. At the effective time of the Merger (the “Effective Time”), shares of Precision’s outstanding common stock (the “Precision Common Stock”) were converted into the right to receive a portion of the Merger Consideration in accordance with the terms of the Merger Agreement.  None of the Precision shareholders exercised their dissenters or appraisal rights under the provisions of the Pennsylvania Associations Code (the “PAC”).
+ 
+The Merger Agreement contains customary representations, warranties, covenants, and agreements of Live Ventures, Merger Sub, and Precision, including indemnification rights in favor of Live Ventures that are customary for a transaction of this nature and magnitude. 
+ 
+Precision’s Board of Directors unanimously (i) determined that the Merger Agreement and the transactions contemplated by the Merger Agreement, including the Merger, were in the best interests of Precision and its shareholders, (ii) approved and declared it advisable to execute the Merger Agreement and to consummate the transactions contemplated thereby, including the Merger, and (iii) recommended the adoption of the Merger Agreement by Precision’s shareholders, all in accordance with the PAC.
+ 
+In connection with the Merger, Live Ventures formed “Precision Affiliated Holdings LLC”, a Delaware limited liability company (“Precision Holdings”), as its wholly-owned subsidiary for the purpose of its holding 100% of the issued and outstanding shares of capital stock of Precision.  Pursuant to the terms of a Contribution Agreement (the “Contribution Agreement”) and in connection with the Merger and the financing of the acquisition of Precision, Live Ventures caused the capital stock of Precision to be vested in Precision Holdings.  
+ 
+The foregoing brief summary description of certain terms and provisions of the Merger Agreement and the Contribution Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement and the Contribution Agreement, copies of which are attached as Exhibit 2.1 and Exhibit 10.1, respectively, to this Current Report on Form 8-K.
+The Merger Agreement, the Contribution Agreement, and the descriptions above have been included to provide investors and securityholders with information regarding the terms of the Merger Agreement and the Contribution Agreement. They are not intended to provide any other factual information about Live Ventures, Precision, or their respective subsidiaries, affiliates, or stockholders. The representations, warranties, and covenants contained in the Merger Agreement were made only for purposes of that agreement as of specific dates; were solely for the benefit of the parties to the Merger Agreement; and may be subject to limitations agreed upon by the parties, including being qualified by confidential disclosures made by each contracting party to the other for the purposes of allocating contractual risk between them that differ from those applicable to investors or securityholders. Investors and securityholders should be aware that the representations, warranties and covenants or any description thereof may not reflect the actual state of facts or condition of Live Ventures, Precision, Merger Sub, or any of their respective subsidiaries, affiliates, businesses, or stockholders. Moreover, information concerning the subject matter of the representations, warranties and covenants may change after the date of the Merger Agreement. Accordingly, investors and securityholders should read the representations and warranties in the Merger Agreement not in isolation but only in conjunction with the other information about Live Ventures and its subsidiaries that Live Ventures includes in reports, statements, and other filings it makes with the U.S. Securities and Exchange Commission.
+Financing Transactions
+ 
+Loan with Encina Business Credit, LLC
+ 
+On the Closing Date, Precision Holdings, a wholly-owned subsidiary of Live Ventures and the holder of 100% of the issued and outstanding shares of capital stock of Precision and Merger Sub entered into a Loan and Security Agreement (the “Loan Agreement”) by and among Precision and Merger Sub, as Borrowers, Precision Holdings, as a Loan Party Obligor, the lenders from time to time 
+2
+
+ 
+party thereto, and Encina Business Credit, LLC, as Agent (the “Agent”).  The Loan Agreement provides for a $1.72 million secured term loan (the “Term Loan”), and secured revolving loans (the “Revolving Loans”, and together with the Term Loan, the “Encina Loans”) in a principal amount not to exceed the lesser of (i) $23,500,000 and (ii) a borrowing base equal to the sum of (a) 85% of eligible accounts receivable of the two Borrowers, plus (b) 85% of eligible inventory of the two Borrowers, subject to an eligible inventory sublimit that begins at $14.0 million and declines to $12.0 during the term of the Loan Agreement, minus (c) customary reserves.  The Encina Loans will be used (v) in connection with the consummation and financing of  the Merger, (w) to repay in full certain indebtedness of Precision, (x) to pay the fees, costs, and expenses incurred in connection with the Loan Agreement and the Merger Agreement, (y) for Borrowers’ working capital purposes, and (z) for other lawful business purposes.
+ 
+The Revolving Loans bear interest at an interest rate equal to the one-month London interbank offered rate (“LIBOR”) plus the applicable margin. The applicable margin ranges from 4.50% to 5.50% per annum (subject to a LIBOR floor of 1.00%) and is determined based on a pricing grid based on the Borrowers’ inventory-to-accounts receivable availability ratio and average Revolving Loan excess availability. The applicable margin through January 31, 2021 is 5.50%.  The Term Loan bears interest at an interest rate equal to LIBOR plus 6.50%.
+ 
+The outstanding principal amounts of the Encina Loans and all accrued and unpaid interest are due and payable on July 14, 2023 (the “Scheduled Maturity Date”).  The Term Loan requires monthly payments of principal in the amount of $28,666.67 plus accrued and unpaid interest. The Revolving Loans require monthly payments of accrued and unpaid interest.  The Borrowers may prepay the Term Loan in whole or in part, and may prepay the Revolving Loans in part, at any time without penalty or premium.  The Borrowers may prepay and terminate the Revolving Loans in whole at any time, subject to the payment (with certain exceptions described below) of an early termination fee equal to: (i) 3.0% of the Revolving Loan Commitment ($23,500,000) if prepaid during the period of time from and after the Closing Date up to the first anniversary of the Closing Date; (ii) 1.0% of the Revolving Loan Commitment on and after the first anniversary of the Closing Date, but on or before the second anniversary of the Closing Date, or (iii) 0.50% on and after the second anniversary of the Closing Date, but on or before the third anniversary of the Closing Date; provided, during the three months preceding the Scheduled Maturity Date, no early termination fee will be payable so long as Borrowers provide at least 90-days’ prior written notice to Agent of such proposed Revolving Loan Commitment termination.
+ 
+The Encina Loans are also subject to customary mandatory prepayments upon the occurrence of certain asset dispositions, casualty, taking or condemnation events, equity issuances, the incurrence of certain indebtedness, and receipt of extraordinary receipts.
+ 
+The Encina Loans are secured by a lien on substantially all of the assets of Precision Holdings, the Borrowers, and any future subsidiaries of the Borrowers, and are guaranteed by Precision Holdings and future subsidiaries of the Borrowers.
+ 
+The Loan Agreement contains certain representations and warranties, affirmative and negative covenants, financial covenants, conditions, and events of default that are customarily required for similar financings, which impose restrictions on, among other things, the ability of Precision Holdings, the Borrowers, and the Borrowers’ subsidiaries to make investments, pay dividends or distributions, sell assets, incur additional debt and liens, and make capital expenditures.
+ 
+The foregoing descriptions of the Loan Agreement do not purport to be complete and are qualified in their entirety by reference to the complete text thereof, a copy of which is attached as Exhibit 10.2 to this Current Report on Form 8-K. 
+ 
+Loan from Isaac Capital Group LLC
+ 
+On July 10, 2020, Live Ventures borrowed $2.0 million (the “ICG Loan”) from Isaac Capital Group LLC (“ICG”).  The ICG Loan matures on May 1, 2025 and bears interest at a rate of 12.5% per annum. Interest is payable in arrears on the last day of each month, commencing July 31, 2020. Live Ventures used the proceeds from the ICG Loan to finance the acquisition of Precision.  The ICG Loan documents contain events of default and other provisions customary for a loan of this type. 
+ 
+Jon Isaac, Live Ventures’ President and Chief Executive Officer, is the President and sole member of ICG.  As of June 17, 2020, Mr. Isaac is the beneficial owner of approximately 52.9% of the outstanding capital stock (on an as-converted and as-exercised basis) of Live Ventures, which percentage includes ICG’s beneficial ownership of approximately 45.4% of the outstanding capital stock (on an as-converted and as-exercised basis) of Live Ventures.
+ 
+The foregoing description of the ICG Loan is qualified in its entirety by reference to the complete text of the Loan and Security Agreement among Isaac Capital Fund I, LLC (“ICF”) and certain direct and indirect wholly-owned subsidiaries of Live Ventures, dated as of July 6, 2015, and that certain Consent, Joinder and First Amendment to Loan and Security Agreement among ICF and certain of the same subsidiaries and one additional indirect wholly-owned subsidiary of Live Ventures, dated as of January 31, 2020, a copy of each of which is filed as Exhibit 10.18 and Exhibit 10.19, respectively, to Live Ventures’ Annual Report on Form 10-K for the fiscal year ended September 30, 2019; the Second Amendment to Loan and Security Agreement and Novation by and among Live Ventures, Marquis Affiliated Holdings LLC, Marquis Industries, Inc., and Isaac Capital Fund I LLC, a copy of which is attached as Exhibit 10.3 to this Current Report on Form 8-K; and the Assignment and Assumption Agreement between ICF and ICG, dated as of July 10, 2020, of copy of which is attached as Exhibit 10.4 to this Current Report on Form 8-K .
+ 
+Loan from Spriggs Investments LLC
+ 
+3
+
+ 
+On July 10, 2020, Live Ventures executed a promissory note (the “Spriggs Promissory Note”) in favor of Spriggs Investments LLC (“Spriggs Investments”), a limited liability company whose sole member is Rodney Spriggs, the President and Chief Executive Officer of Vintage Stock, Inc., a wholly-owned subsidiary of Live Ventures, that memorializes a loan by Spriggs Investments to Live Ventures in the initial principal amount of $2,000,000 (the “Spriggs Loan”). The Spriggs Loan matures on July 10, 2022 and bears simple interest at a rate of 10.0% per annum. Interest is payable in arrears on the last day of each month, commencing July 31, 2020. Live Ventures may prepay the Spriggs Loan in whole or in part at any time or from time to time without penalty or premium by paying the principal amount to be prepaid, together with accrued interest thereon to the date of prepayment; provided, however, that, if Live Ventures prepays the Spriggs Loan in whole or in part on or prior to December 10, 2020, then Live Ventures would also be obligated to pay a prepayment penalty to Spriggs Investments in an amount equal to $100,000, less the amount of any interest paid or to be paid by Live Ventures up to the date of prepayment.  Live Ventures used the proceeds from the Spriggs Loan to finance the acquisition of Precision.  The Spriggs Promissory Note contains events of default and other provisions customary for a loan of this type. The Spriggs Loan was guaranteed by Jon Isaac, Live Ventures’ President and Chief Executive Officer, and by ICG.  
+ 
+As of June 17, 2020, Mr. Spriggs is a record and beneficial owner of less than 1.0% of the outstanding capital stock of Live Ventures.
+ 
+The foregoing descriptions of the Spriggs Loan and the Spriggs Promissory Note are qualified in their entirety by reference to the complete text of the Spriggs Promissory Note, a copy of which is attached as Exhibit 10.5 to this Current Report on Form 8-K.
+Item 2.01.  Completion of Acquisition or Disposition of Assets.
+ 
+The information set forth in Item 1.01 above is incorporated by reference into this Item 2.01.
+ 
+Item 2.03.  Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+ 
+The information set forth in Item 1.01 above is incorporated by reference into this Item 2.03.
+Item 5.02.  Departure of Directors or Certain Officers; Election of Directors, Appointment of Certain Officers; Compensatory Arrangement of Certain Officers.
+On the Closing Date, Thomas Sedlak, the former Senior Vice President of Precision,  was appointed as the Chief Executive Officer of Precision.  Mr. Sedlak, age 49, most recently served as Precision’s Senior Vice President.  Mr. Sedlak joined Precision in 2008 as the Controller and was promoted to Manager of Operations in October 2008.  In January 2013, Mr. Sedlak was promoted to Vice President of Operations and, in November 2017, Mr. Sedlak was promoted to Senior Vice President.  Prior to joining Precision, Mr. Sedlak had more than 11 years of financial management and controllership experience with PPG Industries and DQE Energy Services.  Mr. Sedlak holds a Bachelor’s Degree from Robert Morris University and Master of Business Administration from the University of Pittsburgh – Joseph M. Katz Graduate School of Business.
+ 
+On the Closing Date, Mr. Sedlak and Precision entered into (i) an Employment Agreement (the “Employment Agreement”) and (ii) a Deferred Compensation Agreement (the “Deferred Compensation Agreement”).  Under the Employment Agreement, Mr. Sedlak was appointed as Precision’s Chief Executive Officer through July 14, 2025, the date on which the Employment Agreement expires.  Mr. Sedlak is entitled to an annual base salary of $275,000 and is eligible to participate in all employee plans, practices, and programs maintained by Precision.  Mr. Sedlak is eligible for annual cash bonuses after the end of each fiscal year during the term based on the attainment by Precision of EBITDA within certain specified ranges as more fully described in the Employment Agreement.  Mr. Sedlak is also entitled to receive a car allowance of $1,000 per month, an allowance of $4,000 to contribute to the purchase and/or lease of any vehicle that will be used as his primary vehicle, an allowance of $400 per month to contribute to the premiums of a $4.0 million life insurance policy, and an allowance of up to $500 per month to contribute to the purchase by him of a long-term disability insurance policy.  In the event of a change of control of Precision and, if within six months of the change of control, Precision terminates Mr. Sedlak’s employment for any reason other than for cause, death, or disability, then Mr. Sedlak will be entitled to an amount equal to his base salary in effect at the time for a period equal to 24 months.  Precision may terminate Mr. Sedlak for “cause” (as defined in the Employment Agreement), or, in the event Mr. Sedlak becomes disabled or is unable to perform the essential functions of his job for 90 days out of any 365-day period, without “cause.”  If Precision terminates Mr. Sedlak’s employment without “cause”, he will continue to receive his annual salary for a period of nine months following such termination and be entitled to receive a pro-rata portion of any earned bonus.  Mr. Sedlak’s employment agreement also contains customary confidentiality, non-competition, non-solicitation, and non-disparagement provisions.  Under the terms of the Deferred Compensation Agreement, Precision has agreed to credit an account established in the name of Mr. Sedlak an amount equal to 15% of his annual base salary.  Such credited amounts will be paid to Mr. Sedlak as deferred compensation after he experiences a separation from service as defined in the Deferred Compensation Agreement.  Amounts credited to Mr. Sedlak under the Deferred Compensation Agreement are fully vested upon allocation and crediting.
+ 
+The foregoing is a summary description of certain terms of the Employment Agreement and Deferred Compensation Agreement and does not purport to be complete, and it is qualified in its entirety by reference to the full text of the Employment Agreement and 
+4
+
+ 
+the Deferred Compensation Agreement, copies of which are attached as Exhibit 10.6 and Exhibit 10.7, respectively, to this Current Report on Form 8-K.
+ 
+Item 8.01. Other Events.
+ 
+On July 15, 2020, Live Ventures issued a press release announcing the acquisition of Precision. A copy of the press release is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K.
+ 
+Item 9.01. Financial Statements and Exhibits
+(a)  Financial Statements of Business Acquired.
+The financial statements required by Item 9.01(a) of Form 8-K will be filed by amendment to this Form 8-K no later than 71 days after the date this initial Current Report on Form 8-K must be filed.
+(b)  Pro Forma Financial Information.  
+The pro forma financial statements required by Item 9.01(b) of Form 8-K will be filed by amendment to this Form 8-K no later than 71 days after the date this initial Current Report on Form 8-K must be filed.
+(d)        Exhibits.
+ 
+
+
+
+
+Exhibit
+Number
+
+ 
+
+Description
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+2.1
+
+ 
+
+Agreement and Plan of Merger, dated as of July 14, 2020, by and among Live Ventures Incorporated, President Merger Sub Inc., Precision Industries, Inc., and D. Jackson Milhollan* 
+
+
+
+10.1
+
+ 
+
+Contribution Agreement dated effective as of July 14, 2020 by and between Live Ventures Incorporated and Precision Affiliated Holdings LLC
+
+
+
+10.2
+
+ 
+
+Loan and Security Agreement dated July 14, 2020 by and among Precision Industries, Inc., President Merger Sub Inc., Precision Affiliated Holdings LLC, and the lenders party thereto
+
+
+
+10.3
+
+ 
+
+Second Amendment to Loan and Security Agreement and Novation Agreement dated as of July 10, 2020 by and among Live Ventures Incorporated, Marquis Affiliated Holdings LLC, Marquis Industries Inc., and Isaac Capital Fund I, LLC
+
+
+
+10.4
+
+ 
+
+Assignment and Assumption Agreement dated as of July 10, 2020 by and between Isaac Capital Fund I, LLC and Isaac Capital Group, LLC
+
+
+
+10.5
+
+ 
+
+Promissory Note dated July 10, 2020 issued by Live Ventures Incorporated in favor of Spriggs Investments, LLC
+
+
+
+10.6
+
+ 
+
+Employment Agreement, dated as of July 14, 2020, by and between Thomas Sedlak and Precision Industries, Inc.
+
+
+
+10.7
+
+ 
+
+Deferred Compensation Agreement, dated as of July 14, 2020, by and between Thomas Sedlak and Precision Industries, Inc.
+
+
+
+99.1
+
+ 
+
+Press Release, dated July 15, 2020
+
+
+
+______________________
+* Schedules and exhibits to the Merger Agreement have been omitted pursuant to Item 601(b)(2) of Regulation S-K.  Live Ventures hereby undertakes to furnish copies of any of the omitted schedules and exhibits upon request by the Securities and Exchange Commission.
+
+
+5
+
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+
+
+
+LIVE VENTURES INCORPORATED
+
+
+
+ 
+
+ 
+
+
+
+By:
+
+/s/ Jon Isaac 
+
+
+
+ 
+
+Name:  Jon Isaac
+
+
+
+ 
+
+Title:    Chief Executive Officer
+
+
+ 
+Dated: July 16, 2020
+ 
+6
+
+

@@ -1,0 +1,3820 @@
+
+8-K12B
+1
+tm2021571d1_8k12b.htm
+FORM 8-K12B
+
+
+
+     
+
+
+
+
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT Pursuant
+
+
+to
+Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): May 29, 2020
+
+ 
+
+ 
+
+HYCROFT MINING HOLDING CORPORATION
+
+
+
+ 
+
+
+
+(Exact name of Registrant as Specified
+in Its Charter)
+
+  
+
+
+
+    Delaware
+    001-38387
+        
+
+
+
+
+    82-2657796
+        
+
+    
+        (State or Other Jurisdiction of
+        Incorporation)
+    
+        (Commission 
+        File Number)
+    
+        (IRS Employer
+        Identification No.)
+        
+
+ 
+
+
+
+    
+        8181 E. Tufts Avenue, Suite 510
+        Denver, Colorado
+    80237
+
+    (Address of principal executive offices)  
+    (Zip Code)
+
+ 
+
+(303) 524-1947
+
+
+
+(Registrant’s Telephone Number,
+Including Area Code)
+
+ 
+
+Mudrick Capital Acquisition Corporation
+527 Madison Avenue, 6th Floor
+New York, New York 10022
+
+
+
+
+
+ 
+
+
+
+(Former Name or Former Address, if Changed
+Since Last Report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions
+(see General Instruction A.2. below):
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the
+Act:
+
+
+
+
+
+     
+     
+     
+     
+     
+
+    Title of each class
+     
+    
+        Trading
+        Symbol(s)
+     
+    
+        Name of each exchange
+        on which registered
+
+    
+        Class A common stock,
+        par value $0.0001 per share
+     
+    HYMC
+     
+    The Nasdaq Capital Market
+
+     
+     
+     
+     
+     
+
+    Warrants to purchase
+Common Stock
+     
+    HYMCW
+     
+    The Nasdaq Capital Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+INTRODUCTORY NOTE
+
+ 
+
+On May 29, 2020, Hycroft Mining Holding Corporation,
+formerly known as Mudrick Capital Acquisition Corporation (the “Company” or “HYMC” or,
+prior to the business combination as described below, “MUDS”), consummated the transactions contemplated
+by the Purchase Agreement, dated as of January 13, 2020, by and among the Company, MUDS Acquisition Sub, Inc.
+(“Acquisition Sub”) and Hycroft Mining Corporation (“Hycroft” or
+ “Seller”), as amended by that certain Amendment to Purchase Agreement, dated as of February 26, 2020 (the
+ “Purchase Agreement”). Pursuant to the Purchase Agreement, Acquisition Sub acquired all of the issued and
+outstanding equity interests of the direct subsidiaries of Hycroft and substantially all of the other assets and assumed
+substantially all of the liabilities of Hycroft, a US-based gold and silver producer operating the Hycroft mine located in
+the mining region of northern Nevada. In connection with the completion of the business combination transactions contemplated
+by the Purchase Agreement, the Company changed its name from Mudrick Capital Acquisition Corporation to Hycroft Mining
+Holding Corporation. The above description of the Purchase Agreement does not purport to be complete and is qualified in its
+entirety by the full text of the Purchase Agreement, which is included as Exhibit 2.1 to this Current Report on Form 8-K and
+is incorporated herein by reference. The terms “business combination”, “debt and warrant assumption”,
+ “exchange”, “forward purchase”, “private investment” and “public units” have
+the same meaning as set forth in the final joint proxy statement/prospectus filed with the U.S. Securities and Exchange
+Commission (“SEC”) on May 7, 2020 (the “Proxy Statement/Prospectus”). Capitalized terms
+used but not defined in this Current Report on Form 8-K have the same meaning as set forth in the Proxy
+Statement/Prospectus.
+
+ 
+
+
+Item 1.01Entry into a Material Definitive Agreement.
+
+ 
+
+To the extent required by Item 1.01 of Form 8-K, the disclosures
+contained in Item 2.01 of this Current Report on Form 8-K are incorporated by reference.
+
+ 
+
+
+Item 2.01.Completion of Acquisition or Disposition of Assets. 
+
+ 
+
+As indicated in the Introductory Note above, the Company completed
+the business combination with Hycroft on May 29, 2020, in accordance with the terms of the Purchase Agreement.
+
+ 
+
+In accordance with the Purchase Agreement, Allied VGH Inc.,
+a Nevada corporation (“Allied VGH”), and Allied Nevada Delaware Holdings Inc., a Delaware corporation (“Allied
+Delaware”), were converted into limited liability companies prior to the consummation of the business combination. Pursuant
+to the business combination, Acquisition Sub (a) acquired from Hycroft (i) all of the issued and outstanding equity interests of
+Allied Nevada Gold Holdings, LLC, a Nevada limited liability company, Allied VGH (as converted), and Allied Delaware (as converted),
+the direct subsidiaries of Hycroft, and (ii) substantially all of the remaining assets of Hycroft subject to specified retained
+assets and the Company and (b) assumed substantially all of the liabilities of Hycroft.
+
+ 
+
+The value of the aggregate consideration was estimated at approximately
+$615.0 million, which amount was inclusive of the value of the 15,140,584 shares of the Company’s Class A common stock, par
+value $0.0001 per share (the “HYMC Common Stock”), issued as consideration to Hycroft in the business combination
+(and promptly distributed pro rata to Hycroft’s shareholders), the value of Hycroft’s debt assumed by the Company at
+the closing of the business combination, and the value of Hycroft’s debt paid off or exchanged for shares of HYMC Common
+Stock and cancelled by Hycroft at the closing of the business combination.
+
+ 
+
+On May 29, 2020, immediately prior to the consummation of the
+business combination, the Company issued, in a private placement transaction (the “PIPE Financing”), an
+aggregate of 7,596,309 shares of HYMC Common Stock and 3.25 million warrants to purchase HYMC Common Stock at an exercise price
+of $11.50 per share (the “PIPE warrants”) for an aggregate purchase price of approximately $76.0 million, to
+certain funds affiliated with or managed by Mudrick Capital, Whitebox, Highbridge, Aristeia and Wolverine (such funds and/or their
+permitted assigns, the “Initial Subscribers”) pursuant to the terms of separate Subscription/Backstop Agreements,
+dated January 13, 2020 and amended as of May 28, 2020 (collectively, the “Subscription Agreements”).
+
+ 
+
+On May 29, 2020, immediately prior to the consummation of the
+business combination, Mudrick Capital Acquisition Holdings LLC (“sponsor”) surrendered to the Company 3,511,820
+shares of MUDS Class B common stock for cancellation in accordance with the terms of the Purchase Agreement and that certain letter
+agreement, dated as of January 13, 2020, by and between the Company and sponsor (the “Parent Sponsor Letter Agreement”).
+
+ 
+
+
+
+
+    2 
+     
+    
+
+ 
+
+At the consummation of the business combination, the Company,
+sponsor, Cantor Fitzgerald & Co. (“Cantor”), holders of Excess Notes and 1.5 Lien Notes that received shares
+of the HYMC Common Stock upon exchange of such Excess Notes and 1.5 Lien Notes, certain stockholders of Hycroft that received shares
+of HYMC Common Stock in the business combination and may be affiliates of the Company after consummation of the business combination,
+the Initial Subscribers and Sprott Private Resource Lending II (Collector), L.P. (“Lender” and, such persons
+or entities, collectively, the “restricted stockholders”) entered into the Second Amended and Restated Registration
+Rights Agreement (the “Registration Rights Agreement”), pursuant to which the restricted stockholders are entitled
+to, among other things, customary registration rights, including demand, piggy-back and shelf registration rights, subject to cut-back
+provisions. The restricted stockholders have agreed in the Registration Rights Agreement not to sell, transfer, pledge or otherwise
+dispose of shares of HYMC Common Stock they hold or receive for certain time periods, ranging from between 30 days after the consummation
+of the business combination for warrants purchased in the PIPE Financing to six months for shares received in the exchange, to
+one year after the consummation of the business combination for founder shares (as defined in the Proxy Statement/Prospectus),
+subject to certain exceptions. Pursuant to the terms of the Registration Rights Agreement, the Company is obligated to file a shelf
+registration statement on Form S-3, or Form S-1 if unavailable, and may be required to register up to approximately 62 million
+shares of HYMC Common Stock, in addition to warrants.
+
+ 
+
+Concurrently with the consummation of the business combination,
+sponsor also purchased 625,000 shares of HYMC Common Stock and 2,500,000 forward purchase units, each such unit comprised of one
+share of HYMC Common Stock and one warrant to purchase one share of HYMC Common Stock for $11.50 per share, in accordance with
+the terms of the Forward Purchase Contract, dated January 24, 2018, between the Company and sponsor (the “Forward Purchase
+Contract”).
+
+ 
+
+On October 4, 2019, Hycroft, as borrower, certain subsidiaries
+of Hycroft, as guarantors, Lender, and Sprott Resource Lending Corp., as arranger, executed a secured multi-advance term credit
+facility pursuant to which Lender committed to make, subject to certain conditions set forth therein, term loans in an aggregate
+principal amount up to $110,000,000 (the “Initial Sprott Credit Agreement”). On May 29, 2020, the Company and
+certain of its subsidiaries, as guarantors, entered into the Amended and Restated Credit Agreement (the “Sprott Credit
+Agreement”) to update the conditions precedent and effect certain other changes to conform the terms of the Initial Sprott
+Credit Agreement to the details of the business combination. At the consummation of the business combination, the Company assumed
+the Initial Sprott Credit Agreement pursuant to the terms of the Purchase Agreement, entered into the Sprott Credit Agreement,
+borrowed $70,000,000 under such facility and issued to Lender 496,634 shares of HYMC Common Stock equal to approximately 1% of
+the Company’s post-closing shares of HYMC Common Stock outstanding. In addition, concurrently with the consummation of the
+business combination, the Company and Hycroft Resources & Development, LLC, a Delaware limited liability company (“HRD”)
+and an indirect wholly-owned subsidiary of Hycroft acquired by the Company in the business combination, entered into a Royalty
+Agreement with Sprott Private Resource Lending II (CO) Inc. (the “Sprott Royalty Agreement” and, together with
+the Sprott Credit Agreement, the “Sprott Agreements”), pursuant to which, among other things, HRD received $30,000,000
+in cash consideration in exchange for a 1.5% net smelter perpectual royalty payment relating to the Hycroft mine, the principal
+asset of HRD acquired in the business combination.
+
+ 
+
+On May 28, 2020, in connection with the closing of the business
+combination, Seller, Acquisition Sub, the 1.25 Lien Noteholders and the 1.5 Lien Noteholders entered into an Omnibus Amendment
+to the Note Purchase Agreement and Exchange Agreement (the “Omnibus Amendment”), which effected certain technical
+changes, and added certain representations and warranties to, the Exchange Agreement.
+
+ 
+
+Certain affiliates, officers and directors of the Company had
+material relationships with Hycroft prior to the consummation of the business combination, as described in the Proxy Statement/Prospectus
+in the sections entitled “Certain Relationships and Related Transactions – MUDS’ Related Party Transactions
+ – Interest in Seller, the Business Combination and Private Investment” beginning on page 295 and “Certain
+Relationships and Related Transactions – Seller Related Party Transactions” beginning on page 297, each of which
+sections is incorporated herein by reference.
+
+ 
+
+On May 29, 2020, in connection with the consummation of the
+business combination, the Company amended and restated its existing amended and restated certificate of incorporation (such second
+amended and restated certificate of incorporation, the “Second Amended and Restated Charter”) to:
+
+ 
+
+(a) change the name of the Company
+to Hycroft Mining Holding Corporation;
+
+ 
+
+
+
+
+    3 
+     
+    
+
+ 
+
+(b) increase the total number of authorized
+shares of all classes of capital stock from 111,000,000 shares to 410,000,000, consisting of (i) 400,000,000 shares of the HYMC
+Common Stock and (ii) 10,000,000 shares of preferred stock;
+
+ 
+
+(c) remove or amend those provisions of
+existing certificate of incorporation which terminated or otherwise ceased to be applicable following the completion of the business
+combination, including removal of certain provisions relating to the Company’s prior status as a blank check company and
+the Company’s Class B Common Stock that no longer apply;
+
+ 
+
+(d) clarify the exclusive forum provision
+to provide the Court of Chancery of the State of Delaware as the exclusive forum for certain stockholder litigation shall not apply
+to any action to enforce any liability or duty under the Securities Act of 1933, as amended, or the Exchange Act of 1934, as amended,
+for which there is exclusive federal or concurrent federal and state jurisdiction;
+
+ 
+
+(e) permit stockholder action by written
+consent;
+
+ 
+
+(f) provide that the Company will not be
+governed by Section 203 of the Delaware General Corporation Law (“DGCL”) and included a provision that is substantially
+similar to Section 203 of the DGCL, but excludes the investment funds affiliated with sponsor and their respective successors and
+affiliates and the investment funds affiliated with or managed by Mudrick Capital, Whitebox, Highbridge, Aristeia and Wolverine
+and their respective successors and affiliates from the definition of “interested stockholder,”; and
+
+ 
+
+(f) declassify the board of directors.
+
+ 
+
+Upon consummation of the business combination, the Company assumed
+Hycroft’s liabilities and obligations under the warrant agreement, dated as of October 22, 2015, by and between Hycroft and
+Computershare Inc., a Delaware corporation, and its wholly-owned subsidiary Computershare Trust Company, N.A., a federally chartered
+trust company, collectively as warrant agent (the “Hycroft Warrant Agreement”). Each warrant of Hycroft outstanding
+and unexercised immediately prior to the effective time of the business combination is exercisable to purchase shares of HYMC Common
+Stock at an exercise price of $44.82 per share, and each warrant is exercisable into approximately 0.2523 shares of HYMC common
+stock.
+
+ 
+
+Following the completion of the PIPE Financing and the business
+combination and related debt and warrant assumption, there were 50,160,042 shares of HYMC Common Stock outstanding. Immediately
+following the completion of such transactions, the Company’s share capital consisted of: (A) 15,140,584 shares of HYMC Common
+Stock issued to Hycroft and distributed pro rata to Hycroft’s stockholders in the business combination, (B) 1,688,180 shares
+of HYMC Common Stock issued to sponsor, which shares converted from an equal number of shares of MUDS Class B common stock
+in accordance with the terms of the amended and restated certificate of incorporation of MUDS, as amended, in effect immediately
+prior to the consummation of the business combination and the Parent Sponsor Letter Agreement, (C) 20,871,236 shares of HYMC Common
+Stock issued to the holders of the Excess Notes and the 1.5 Lien Notes in the exchange, (D) (x) 7,596,309 shares of HYMC Common
+Stock issued pursuant to the Subscription Agreements and (y) 3,249,999 warrants (the “PIPE warrants”) to
+purchase one share of HYMC Common Stock at an exercise price of $11.50 per share issued pursuant to the Subscription Agreements,
+in the private investment, (E) 1,197,704 shares of HYMC Common Stock, representing outstanding shares held by the Company’s
+public stockholders and not redeemed in connection with the business combination, (F) 20,800,000 outstanding warrants to purchase
+one share of HYMC Common Stock for $11.50 per share (“public warrants”), (G) 3,125,000 shares of HYMC Common
+Stock and 2,500,000 warrants to purchase one share of HYMC Common Stock at an exercise price of $11.50 per share, issued to
+sponsor in connection with the transactions contemplated by the Forward Purchase Contract, (H) 6,700,000 warrants to purchase one
+share of HYMC Common Stock (the “sponsor private placement warrants”) issued to sponsor, pursuant to the Private
+Placement Warrants Purchase Agreement, dated as of January 15, 2018, by and between MUDS and sponsor, (I) 1,040,000 warrants
+to purchase one share of HYMC Common Stock (together with the sponsor private placement warrants, the “private placement
+warrants”) issued to Cantor, pursuant to the Private Placement Warrant Purchase Agreement, dated as of January 16,
+2018, by and between MUDS and Cantor, (J) restricted stock units convertible into shares of HYMC Common Stock valued at no
+more than $3,999,000 received in connection with the business combination in exchange for restricted stock units convertible
+into shares of Hycroft common stock, (K) 44,395 shares of HYMC Common Stock issued to Cantor as partial payment of Cantor’s
+deferred underwriting commission (the “underwriting commission issuance”), pursuant to the Underwriting Agreement,
+dated as of February 7, 2018, as amended on February 12, 2020, by and among MUDS and Cantor, as representative of the several
+underwriters, (L) 496,634 shares of HYMC Common Stock issued to Lender pursuant to the Sprott Credit Agreement, and (K) 12,721,623
+Hycroft warrants exercisable into 3,210,213 shares of HYMC Common Stock at an exercise price of $44.82 per share following the
+business combination.
+
+ 
+
+
+
+
+    4 
+     
+    
+
+ 
+
+The issuance of the shares of HYMC Common Stock to Hycroft for
+prompt distribution to its stockholders was registered with the SEC on the registration statement on Form S-4 filed with the SEC
+(File No. 333-236460) (as amended, the “Registration Statement”) and effective on May 7, 2020. The issuance
+of the shares of HYMC Common Stock to holders of stock options and restricted stock units issued under the HYMC 2020 Performance
+and Incentive Pay Plan (the “Incentive Plan”) will be registered with the SEC on a registration statement on
+Form S-8. The Company has agreed in the Registration Rights Agreement to file a registration statement in respect of shares of
+HYMC Common Stock and warrants held by the parties to the Registration Rights Agreement, including the shares of HYMC Common Stock
+underlying such warrants, with the SEC on a registration statement on Form S-3, or Form S-1 if Form S-3 is not available, as soon
+as practicable but in no event later than fifteen (15) business days following the completion of the business combination.
+
+ 
+
+The foregoing descriptions of the Sprott Agreements, the Hycroft
+Warrant Agreement, the Subscription Agreements, the Registration Rights Agreement, the Omnibus Amendment, and the Second Amended
+and Restated Charter do not purport to be complete and are subject to and qualified in their entirety by reference to the Sprott
+Agreements, the Hycroft Warrant Agreement, the Subscription Agreements, the Registration Rights Agreement, the Omnibus Amendment
+and the Second Amended and Restated Charter, copies of which are included as Exhibits 10.1, 10.2, 4.1, 10.3, 10.4, 10.5, 10.12
+and 3.1, respectively, of this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+Form
+10 information
+
+ 
+
+Item 2.01(f) of Form 8-K states that, if the predecessor registrant
+was a “shell company” (as such term is defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”)), then the registrant must disclose the information that would be required if the
+registrant were filing a general form for registration of securities on Form 10. Prior to the completion of the business combination
+described in Item 2.01 above, the Company was a “shell company.” As a result of the completion of the business combination,
+the Company has ceased to be a shell company. Accordingly, the Company is providing the information below that would be included
+in a Form 10 if the Company were to file a Form 10. Please note that the information provided below relates to the resultant company
+after the consummation of the business combination, unless otherwise specifically indicated or the context otherwise requires.
+
+ 
+
+BUSINESS
+
+ 
+
+The business of the Company after the business combination will
+be the business of Hycroft prior to the business combination, which is described in the Proxy Statement/Prospectus in the section
+entitled “Information about the Seller and the Hycroft Business” beginning on page 206, which section is incorporated
+herein by reference.
+
+ 
+
+Risk Factors
+
+ 
+
+The risks associated with the Company’s business are described
+in the Proxy Statement/Prospectus in the sections entitled “Risk Factors – Risks Related to Seller’s Industry”,
+ “Risk Factors – Risks Related to the Hycroft Business”, and “Risk Factors – Risks Related
+to MUDS and the Business Combination”, beginning on page 51, page 57 and page 66, respectively, which sections are incorporated
+herein by reference.
+
+ 
+
+FINANCIAL INFORMATION
+
+ 
+
+Management’s Discussion and Analysis
+of Financial Condition and Results of Operations
+
+ 
+
+As a result of the completion of the business combination,
+the financial statements of Hycroft are now the financial statements of the Company. Prior to the business combination, the Company
+had no operating assets but, upon consummation of the business combination, the business and operating assets of Hycroft sold to
+the Company became the sole business and operating assets of the Company. Accordingly, the financial statements of Hycroft and
+its subsidiaries as they existed prior to the business combination and reflecting the sole business and operating assets of the
+Company going forward, are now the financial statements of the Company. Thus, the following discussion and analysis should be read
+in conjunction with the consolidated financial statements and related notes of Hycroft included as Exhibit 99.1 to this Curent
+Report on Form 8-K. Unless the context otherwise requires, for purposes of this section, the terms
+ “we,” “us,” “Seller”, or “Hycroft” refer to Hycroft Mining Corporation and its
+subsidiaries as they existed prior to the business combination. The following discussion of our financial condition and results
+of operations for the quarter ended March 31,2020 should be read in conjunction with the consolidated financial statements and
+related notes of Hycroft included in the Proxy Statement/Prospectus and incorporated by reference herein. This discussion
+contains forward-looking statements reflecting the Company’s current expectations, estimates, plans and assumptions concerning
+events and financial trends that involve risks and may affect the Company’s future operating results or financial position.
+Actual results and the timing of events may differ materially from those contained in these forward-looking statements due to a
+number of factors, including those discussed in the Proxy Statement/Prospectus in the sections entitled “Cautionary Note
+Regarding Forward-Looking Statements” and “Risk Factors,” beginning on pages 186 and 51, respectively.
+
+ 
+
+
+
+
+    5 
+     
+    
+
+ 
+
+The information set forth in the section of the Proxy Statement/Prospectus
+entitled “Seller’s Management’s Discussion and Analysis of Financial Condition and Results of Operations”
+beginning on page 235 thereof is incorporated herein by reference.
+
+ 
+
+For information on the Company prior to the business combination,
+see the section in the Proxy Statement/Prospectus entitled “MUDS’ Management Discussion and Analysis of Financial Condition
+and Results of Operations” beginning on page 201 and the Company’s Quarterly Report on Form 10-Q for the quarterly
+period ended March 31, 2020 filed on May 8, 2020, each of which is incorporated by reference.
+
+ 
+
+ General
+
+
+
+ 
+
+We are a U.S.-based development stage gold mining company that
+mines oxide, transition and sulfide heap ore at our sole property, the Hycroft Mine. The Hycroft Mine is an open-pit heap leach
+operation located in Nevada. Gold and silver sales represent 100% of our revenues and the market prices of gold and silver significantly
+impact our financial position, operating results and cash flows.
+
+ 
+
+The Hycroft Mine restarted mining operations
+during the first half of 2019 after being in a care and maintenance mode for more than two years. From the beginning of 2017 through
+the first three months of 2019, the Hycroft Mine was in a care and maintenance mode, which it entered when it was determined that
+we could no longer economically recover metal. While in care and maintenance, our gold and silver production was a byproduct of
+our maintenance activities.
+
+ 
+
+Effective July 31, 2019, M3 Engineering and
+Technology Corporation (“M3 Engineering”), in conjunction with SRK Consulting (U.S.), Inc. (“SRK”)
+and us, completed the Hycroft Technical Report Summary, Heap Leaching Feasibility Study prepared for Hycroft with an effective
+date of July 1, 2019, prepared in accordance with the requirements of the Modernization of Property Disclosures for Mining Registrants
+set forth in subpart 1300 of Regulation S-K,which was filed as Exhibit 96.1 to the Proxy Statement/Prospectus (the “Hycroft
+Technical Report”), for a two-stage, heap oxidation and subsequent leaching of transition and sulfide ores. As of June
+30, 2019, based on the Hycroft Technical Report, the Hycroft Mine had proven and probable mineral reserves of 12.0 million ounces
+of gold and 481.4 million ounces of silver, which are contained in oxide, transition and sulfide ores. Pursuant to the current
+34-year life of mine plan in the Hycroft Technical Report, once fully operational, mining will range from approximately 85 –
+100 million tons per year. As set forth in the Hycroft Technical Report, we expect mining will be performed by a contract mining
+company or we will primarily use a short-term equipment rental fleet during the initial five-year ramp-up using customary truck
+and shovel open pit mining methods. After the initial ramp-up, we expect to self-perform mining with our own equipment fleet.
+
+ 
+
+The Hycroft Technical Report classifies
+the ore into three categories based on how the ore will be processed. Category 1 ore, which is comprised of low-grade ore
+with high cyanide soluble gold, will not go through a pre-oxidation step nor will it be crushed due to its low-grade.
+Category 1 ore accounts for 4% of the ore over the current life of the mine. Category 2 ore, which is comprised of high-grade
+ore with high cyanide soluble gold, will be crushed, but will not go through a pre-oxidation step. Category 2 ore accounts
+for 2% of the ore over the current life of the mine. Category 3 ore, which is comprised of low cyanide soluble gold, will be
+crushed and go through a pre-oxidation step. Category 3 ore accounts for 94% of the ore over the current life of the mine.
+Categories 2 and 3 ore will each be crushed to increase surface area and will follow a slightly different process once
+crushed. As part of the crushing process, Category 3 ore will be mixed with soda ash to induce a pre-oxidation process,
+rinsed with fresh water and a saturated lime solution and then leached with lime and cyanide. The pre-oxidation period will
+vary based on the character of the ore. Once crushed, Category 2 ore will be leached using lime and cyanide. Category 1 ore
+will be stacked as run- of-mine (not crushed) and then leached using lime and cyanide. The focus of the Hycroft Technical
+Report was the test work done on the two-stage pre-oxidation and cyanide leaching of the Category 3 ores, which was
+determined to be economically effective.
+
+ 
+
+
+
+
+    6 
+     
+    
+
+ 
+
+Pregnant solution from the heap leach pads,
+which will include solution from each of the three ore types, will be processed at our two existing Merrill-Crowe zinc-cementation
+facilities. The gold and silver doré produced at the mine site will be further refined by a third party to meet the required
+market standards of 99.95% pure gold and 99.90% pure silver, which will then be sold at current spot gold and silver prices.
+
+ 
+
+Recent Developments
+
+ 
+
+On May 29, 2020, we completed the
+business combination described in Item 2.01, which is incorporated herein by reference. 
+
+ 
+
+COVID-19
+
+ 
+
+In December 2019, a novel strain of
+coronavirus (COVID-19) was reported in Wuhan, China. On January 30, 2020, the World Health Organization declared the outbreak to
+constitute a “Public Health Emergency of International Concern”. In February 2020, the first death due to the virus
+was reported in the United States. Subsequently, the virus has spread throughout the United States with a significant number of
+deaths reported. On March 13, 2020, President Trump declared a national state of emergency and issued guidelines including working
+from home whenever possible, avoiding social gatherings and discretionary travel and other protective measures of socially distancing
+to reduce the spread of COVID-19. The COVID-19 outbreak has disrupted and continues to disrupt supply chains and affect production
+and sales across a range of industries. The extent of the impact of COVID-19 on our operational and financial performance will
+depend on certain developments, including the duration and spread of the outbreak, and the direct and indirect impacts on our employees,
+vendors and customers all of which are uncertain and cannot be fully anticipated or predicted. As of the date of this Current Report
+on Form 8-K, the extent to which COVID-19 may impact our financial condition or results of operations is uncertain, but could be
+material and adverse.
+
+ 
+
+Recently Issued Accounting Pronouncements
+
+ 
+
+For a discussion of Recently
+Issued Accounting Pronouncements, see Note 2 — Summary of Significant Accounting Policies to Notes to Consolidated
+Financial Statements.
+
+ 
+
+Critical Accounting
+Estimates
+
+ 
+
+“Management’s Discussion and
+Analysis of Financial Condition and Results of Operations” is based on our consolidated financial statements, which have
+been prepared in accordance with United States generally accepted accounting principles, which we refer to as “GAAP”.
+The preparation of these statements requires us to make assumptions, estimates, and judgments that affect the reported amounts
+of assets, liabilities, revenues, and expenses. We base our assumptions, estimates, and judgments on historical experience, current
+trends and other factors that we believe to be relevant at the time our consolidated financial statements are prepared. On a regular
+basis, we review our accounting policies, assumptions, estimates and judgments to ensure that our consolidated financial statements
+are presented fairly and in accordance with GAAP. However, because future events and their effects cannot be determined with certainty,
+actual results could differ, and such differences could be material.
+
+ 
+
+We consider an accounting estimate to be critical
+if it requires significant management judgment and assumptions about matters that are highly uncertain at the time the estimate
+is made and if changes in the estimate that are reasonably possible could materially impact our consolidated financial statements.
+Although other estimates are used in preparing our consolidated financial statements, we believe that the following accounting
+estimates are the most critical to understanding and evaluating our reported financial results. For information on all of our significant
+accounting policies, see Note 2 — Summary of Significant Accounting Policies to Notes to Consolidated Financial Statements.
+
+ 
+
+
+
+
+    7 
+     
+    
+
+ 
+
+Ore on
+Leach Pads
+
+ 
+
+Estimate Required
+
+ 
+
+The recovery of gold and silver at the Hycroft
+Mine has been accomplished through a heap leaching process, the nature of which limits our ability to precisely determine the recoverable
+gold and silver ounces in ore on leach pads. We estimate the quantity of recoverable gold and silver ounces in ore on leach pads
+using surveyed volumes of material, ore grades determined through sampling and assaying of blastholes, and estimated recovery rates
+based on ore type, domain and level of oxidation actually achieved prior to leaching. The estimated recoverable gold and silver
+ounces placed on the leach pads and recovery rates are periodically reconciled by comparing the related ore processed to the actual
+gold and silver ounces recovered (metallurgical balancing) from such ore. The ultimate recoverable gold and silver ounces over
+the life-of- mine is unknown until mining operations cease. A change in the recovery rate or the quantity of recoverable gold and
+silver ounces in our ore on leach pads could materially impact our consolidated financial statements.
+
+ 
+
+Impact of
+Change in Estimate
+
+ 
+
+Changes in recovery rate estimates or estimated
+recoverable gold and silver ounces that do not result in write-downs are accounted for on a prospective basis; however, if a write-down
+is required, ore on leach pads would be adjusted to market values before prospectively accounting for the remaining costs and revised
+estimated recoverable gold ounces.
+
+ 
+
+During the three months ended March 31, 2020,
+Hycroft recognized a $6.9 million write-down of ore on leach pads as a result of metallurgical balancing. Cash production costs
+written-off were $6.4 million and capitalized depreciation and amortization costs written-off were $0.5 million. Based on metallurgical
+balancing results, Hycroft determined that 3,980 ounces of gold that had been placed on the leach pads were no longer recoverable
+and wrote-off these ounces. The write-off of these ounces was primarily due to poor execution of maintaining the critical variables
+necessary for oxidation and ultimately recovery of a specific cell of the leach pads. As a result, Hycroft determined that it would
+recover 20% less than planned of the mismanaged section of the leach pads.
+
+ 
+
+Impairment
+of Long-Lived Assets
+
+ 
+
+Estimate Required
+
+ 
+
+Our long-lived assets, which consist of plant
+and equipment, are evaluated for recoverability annually and at interim periods if triggering events or changes in circumstances
+indicate that the related carrying amounts may not be recoverable. An impairment is determined to exist if the total projected
+future cash flows on an undiscounted basis are less than the carrying amount of a long-lived asset group. An impairment loss is
+measured and recorded based on the excess carrying value of the impaired long-lived asset group over fair value.
+
+ 
+
+To determine fair value, we use a discounted
+cash flow model based on quantities of estimated recoverable minerals and incorporate projections and probabilities involving metal
+prices (considering current and historical prices, price trends and related factors), production levels, operating and production
+costs, and the timing and capital costs of expansion and sustaining projects, all of which are based on life-of- mine plans. In
+estimating future cash flows, assets are grouped at the lowest level for which there are identifiable cash flows that are largely
+independent of future cash flows from other asset groups. The assumptions, projections and probabilities used to determine estimates
+of future cash flows are consistent or reasonable in relation to internal budgets and projections. Any change in the assumptions,
+projections, or probabilities used in our impairment calculations could materially impact our consolidated financial statements.
+
+ 
+
+Impact of
+Change in Estimate
+
+ 
+
+There were no such impairments during the three
+months ended March 31, 2020 or 2019.
+
+ 
+
+Reclamation
+Liability
+
+ 
+
+Estimate Required
+
+ 
+
+Hycroft will be required to perform reclamation
+activity at the Hycroft Mine in the future. As a result of this requirement, Hycroft has recorded a reclamation liability on our
+consolidated balance sheets that is based on its expectation of the costs that will be incurred years in the future. Any underestimate
+or unanticipated reclamation costs or any changes in governmental reclamation requirements could require us to record or incur
+additional reclamation costs. Reclamation liabilities are accrued when they become known, are probable and can be reasonably estimated.
+
+ 
+
+
+
+
+    8 
+     
+    
+
+ 
+
+Impact of
+Change in Estimate
+
+ 
+
+Whenever a previously unrecognized reclamation
+liability becomes known, or a previously estimated reclamation cost is increased, the amount of that liability and additional cost
+will be recorded at that time and could materially reduce our consolidated net income attributable to stockholders. There were
+no such increases during the three months ended March 31, 2020 or 2019.
+
+ 
+
+As of March 31, 2020, Hycroft estimated
+that no significant reclamation expenditures will be made until 2047 and that reclamation work will be completed by the end of
+2065.
+
+ 
+
+Proven
+and Probable Ore Reserves
+
+ 
+
+Estimate Required
+
+ 
+
+Proven and probable ore reserves are the part
+of a mineral deposit that can be economically and legally extracted or produced at the time of the reserve determination. Our proven
+and probable reserves are periodically updated, usually on an annual basis. Estimated recoverable gold ounces in our proven and
+probable reserves at the Hycroft Mine are used in units-of-production amortization calculations and are the basis for future cash
+flow estimates utilized in impairment calculations. When determining proven and probable reserves, we must make assumptions and
+estimates of future commodity prices, the mining methods we use and intend to use in the future, and the related costs incurred
+to develop, mine, and process our reserves. Our estimates of recoverable gold and silver ounces in proven and probable reserves
+are prepared by and are the responsibility of our employees. Any change in estimate or assumption used to determine our proven
+and probable reserves could change our estimated recoverable gold and silver ounces in such reserves, which may have a material
+impact on our consolidated financial statements and/or our calculations of units-of-production amortization and impairment charges
+(if any).
+
+ 
+
+Impact of
+Change in Estimate
+
+ 
+
+Future changes in estimates of recoverable gold
+ounces will be used in our units-of-production calculations and impairment calculations on a prospective basis.
+
+ 
+
+Income
+Taxes
+
+ 
+
+Estimate Required
+
+ 
+
+We account for income taxes using the liability
+method, recognizing certain temporary differences between the financial reporting basis of our liabilities and assets and the related
+income tax basis for such liabilities and assets. Deferred income taxes arise from temporary differences between the tax basis
+of assets and liabilities and their reported amounts in the consolidated financial statements, which will result in taxable or
+deductible amounts in the future. In evaluating our ability to recover our deferred tax assets, we consider all available positive
+and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax-planning
+strategies, and results of recent operations. In projecting future income, we make estimates about future gold and silver sales,
+metals prices and future production costs. Additionally, significant judgment must be used in determining how much weight to give
+each piece of evidence considered in determining realizability. Changes to any of these estimates or assumptions could change our
+conclusions regarding the realizability of deferred tax assets and corresponding income tax, which may have a material impact on
+our consolidated financial statements.
+
+ 
+
+Impact of
+Change in Estimate
+
+ 
+
+As of March 31, 2020 and December 31, 2019,
+based on the weight of available evidence, Hycroft determined that it was more likely than not that the benefit of its net deferred
+tax assets would not be realized and recorded full valuation allowances against such assets. In considering the evidence, Hycroft
+gave significant weight to recent operating results and future projections.
+
+ 
+
+
+
+
+    9 
+     
+    
+
+ 
+
+Hycroft Mine
+
+ 
+
+Restart
+of Mining Activities
+
+ 
+
+On July 8, 2015, Hycroft suspended mining operations,
+but continued to operate the processing facilities to produce gold and silver from the ore that had been previously placed on the
+leach pads. At the beginning of 2017, the Hycroft Mine entered a care and maintenance mode to minimize expenditures and conserve
+cash. As part of the care and maintenance mode Hycroft stopped the use of cyanide and lime on the leach pads.
+
+ 
+
+In late 2018, Hycroft began construction of
+new leach pads to demonstrate its recently developed heap oxidation and leach process, as discussed in the Hycroft Technical Report,
+in a commercial setting. Additionally, Hycroft began preparing the mine, including its facilities and mining equipment for a restart.
+Hycroft began mining in April 2019, with a focus on transition and sulfide ores, but supplemented with oxide ores to improve near-term
+cash flow and support crusher and equipment commissioning. Ore has been placed on the new leach pads and is in the active oxidation
+and leaching phase.
+
+ 
+
+For the three months ended March 31,
+2020, Hycroft recovered and sold 6,560 ounces of gold and 49,373 ounces of silver, at average realized prices of $1,574 per ounce
+of gold and $16 per ounce of silver. During the three months ended March 31, 2019 there were no sales of gold or silver.
+
+ 
+
+The Hycroft Mine’s proven and
+probable reserves are contained in oxide, transition and sulfide ores. Hycroft has previously recovered metals contained in oxide
+and transition ores through our heap leach operations. Based on the Hycroft Technical Report, we intend to focus on heap leach
+oxidation of our transition and sulfide ores using soda ash to manage pH and alkalinity during the oxidation process and then
+subsequent cyanidation of the oxidized ores. The following simplified schematic outlines the process that is outlined in the Hycroft
+Technical Report.
+
+ 
+
+ 
+
+ 
+
+
+
+
+    10 
+     
+    
+
+
+
+ 
+
+ Mining
+
+
+
+ 
+
+We mine using typical truck and shovel
+open pit mining methods. The mine plan developed for the Hycroft Technical Report requires a range of approximately 85 –
+100 million tons per year to be mined (both ore and waste) throughout the 34-year mine life. Production will ramp up gradually
+from 10 million tons in year two (2020) to 85 million tons in year six. Another ramp-up in production is projected to occur in
+year 10 to 100 million tons. We currently have a small existing fleet of mine equipment that we own and began using again during
+2019 alongside a small fleet of leased equipment. We plan on using contract mining or leasing equipment during the ramp up through
+year six. After year six, we expect to begin to transition back to our own fleet, which we will need to purchase.
+
+ 
+
+
+Processing
+
+ 
+
+The ore is
+being processed and will continue to be processed using the following methods:
+
+ 
+
+Ore Category 1 — low-grade
+ore with high cyanide soluble gold will be cyanide leached to extract the gold and silver. This ore will not be pre-oxidized and
+will be stacked on the leach pads as run-of-mine ore. We expect this ore to account for 4% of the ore over the current life of
+the mine.
+
+ 
+
+Ore Category 2 — high-grade
+ore with high cyanide soluble gold will be crushed to a P80 of 3∕4” and cyanide leached to extract the gold and silver.
+This ore will not be pre-oxidized. We expect this ore to account for 2% of the ore over the current life of the mine.
+
+ 
+
+Ore Category 3 — low cyanide
+soluble ratio ores will be crushed to a P80 of 1∕2”. The crushed ore will be mixed with soda ash to induce an alkaline
+pre-oxidation process. After this ore has been oxidized to the desired extent, we will rinse the ore with fresh water and a saturated
+lime solution and then cyanide leach the ore to extract the gold and silver. We expect this ore to account for 94% of the ore over
+the current life of the mine. This process is the subject of a pending patent application.
+
+ 
+
+Crushing
+Plant
+
+ 
+
+The crushing system is initially designed
+to run a nominal capacity of 65,750 tons per day ramping up to 98,630 tons per day with the addition of two more tertiary crushers.
+Category 2 and Category 3 ores are transported to the primary crusher dump pocket via haul truck. Prior to the primary crusher,
+the ore that is being routed as Category 3 passes under a soda ash silo where a pre-determined amount of soda ash is added to the
+ore to begin the pre-oxidation process. The ore proceeds through three stages of crushing and exits the tertiary crushers routed
+as either 3∕4” crushed or 1∕2” crushed. It is then hauled to the leach pads.
+
+ 
+
+Pre-Oxidation
+
+ 
+
+We begin the pre-oxidation of the
+Category 3 ore at the crusher using in-situ moisture and solid soda ash. The amount of soda ash required for the ore is relative
+to the percent sulfide-sulfur content of the ore. We regularly sample the mined ore for reagent addition control.
+
+ 
+
+Once we have placed Category 3 ore
+on the heap, additional soda ash solution is applied to bring the ore to field capacity (8 – 10% moisture). The solution
+in the heap is replenished on a regular basis using soda ash solution in order to offset evaporation and carbonate consumption.
+
+ 
+
+We determine the pre-oxidation duration
+by the characteristics of the ore and the measured extent of oxidation based upon sulfate production. The extent of the oxidation
+will be determined by the target recoveries for each domain and the initial cyanide soluble gold, which is translated to degrees
+of oxidation already achieved. The number of days required to attain target oxidation is dependent upon the sulfide-sulfur content
+of the ore, with higher sulfide-sulfur corresponding to longer oxidations cycles. The majority of the Category 3 ore is expected
+to take between 30 and 120 days to complete pre-oxidation.
+
+ 
+
+Rinse Cycle
+
+ 
+
+When the pre-oxidation cycle has been
+completed, we rinse the Category 3 ore first with fresh water and then with a saturated lime solution prior to the commencement
+of cyanidation leach. This is necessary to remove sulfate and bicarbonate from the heap and reduce cyanide loss during leaching.
+The alkalinity of the solution in the heap is monitored to ensure rinse completion prior to the start of cyanidation.
+
+ 
+
+Heap Leach
+Cyanidation
+
+ 
+
+The cyanidation conditions for all
+placed ore is the same regardless of crush size or the use of pre- oxidation. The pH is controlled using lime. Category 1 and Category
+2 ores, those ores not going through pre- oxidation or rinse, undergo a 200-day primary leach cycle. Category 3 ore, having already
+been oxidized and rinsed, undergo a nominal 60-day primary leach cycle.
+
+ 
+
+
+
+
+    11 
+     
+    
+
+ 
+
+Merrill-Crowe
+and Refinery
+
+ 
+
+Due to the high silver content of
+the pregnant solution, gold and silver are recovered by zinc cementation. We have two existing Merrill-Crowe plants, which are
+used to process pregnant solution from the heap leach operation. The older plant has a capacity of 4,500 gallons per minute. The
+newer plant is considerably larger, with a present capacity of 21,500 gallons per minute.
+
+ 
+
+The wet filter cakes from the Merrill-Crowe
+circuits will be transferred to retort pans, which are then put into a retort furnace to remove water and mercury. Water and then
+mercury are sequentially volatilized from the precipitate by heating the precipitate under a partial vacuum. The dried filter cake
+is mixed with flux, a clarifying agent used to remove certain impurities and reduce the melting point of elements in the precipitate,
+and then transferred to an electric arc furnace where it is smelted to produce doré.
+
+ 
+
+Results of
+Operations
+
+ 
+
+Three Months Ended March 31, 2020 Compared
+to the Three Months Ended March 31, 2019
+
+ 
+
+Metal sales
+
+ 
+
+Gold sales
+
+ 
+
+The table below summarizes changes
+in gold sales, ounces sold and average realized prices for the following periods:
+
+
+ 
+
+
+
+      
+    Three months ended March 31, 
+
+      
+    2020  
+    2019 
+
+      
+    (dollars
+in thousands, except
+                                                                ounce amounts) 
+
+    Gold sales 
+    $10,328  
+    $- 
+
+    Gold ounces sold 
+     6,560  
+     - 
+
+    Average realized price (per ounce) 
+    $1,574  
+    $- 
+
+
+      
+       
+      
+
+      
+    2020 vs. 2019  
+      
+
+    The change in gold revenue was attributable to: 
+        
+       
+
+    Increase in ounces sold 
+    $10,328  
+       
+
+
+
+ 
+
+During the three months ended March
+31, 2020, Hycroft’s gold sales were $10.3 million, which was included as Revenues on its consolidated statements of operations
+compared to $0 in gold sales during the same period in the prior year. Hycroft did not restart mining operations until April 2019
+and, accordingly, no gold ounces were sold during the first quarter of 2019.
+
+ 
+
+Silver sales
+
+ 
+
+The table below summarizes changes
+in silver sales, ounces sold and average realized prices for the following periods:
+
+ 
+
+
+
+      
+    Three months ended March 31, 
+
+      
+    2020  
+    2019 
+
+      
+    (dollars in thousands, except
+                                                                              ounce amounts) 
+
+    Silver sales 
+    $796  
+    $- 
+
+    Silver ounces sold 
+     49,373  
+     - 
+
+    Average realized price (per ounce) 
+    $16  
+    $- 
+
+      
+        
+       
+
+
+      
+    2020 vs. 2019  
+      
+
+    The change in silver revenue was attributable to: 
+        
+       
+
+    Increase in ounces sold 
+    $796  
+       
+
+
+ 
+
+
+
+
+    12 
+     
+    
+
+ 
+
+During the three months ended March
+31, 2020, Hycroft’s silver sales were $0.8 million, which was included as Revenues on its consolidated statements of operations
+compared to $0 in silver sales during the same period in the prior year. Hycroft did not restart mining operations until April
+2019 and, accordingly, no silver ounces were sold during the first quarter of 2019.
+
+ 
+
+Total cost
+of sales
+
+ 
+
+Total cost of sales consists of production
+costs and depreciation and amortization. The table below summarizes changes in total cost of sales for the following periods:
+
+ 
+
+
+
+      
+    Three months ended March 31, 
+
+      
+    2020  
+    2019 
+
+      
+    (dollars in thousands) 
+
+    Production costs 
+    $15,569  
+    $- 
+
+    Depreciation and amortization 
+     1,334  
+     - 
+
+    Write-down of production inventories 
+     6,965  
+       
+
+    Total cost of sales 
+    $23,868  
+    $- 
+
+      
+        
+       
+
+
+      
+    2020 vs. 2019  
+      
+
+    The change in cost of sales was attributable to: 
+        
+       
+
+    Increase in ounces sold 
+    $10,003  
+      
+
+    Write-down of production inventories due to metallurgical balancing 
+     6,965  
+       
+
+    Period costs directly expensed to cost of sales 
+     6,900  
+       
+
+    Total change in cost of sales, excluding write-down of production inventories 
+    $23,868  
+       
+
+
+ 
+
+
+
+
+
+    13 
+     
+    
+
+ 
+
+Production
+costs
+
+ 
+
+For the three months ended March 31,
+2020, Hycroft recognized $15.6 million in production costs, or $2,373 per ounce of gold sold. The cost per ounce of gold sold was
+significantly higher than is expected in future periods primarily driven by (1) $5.3 million in contractors costs to supplement
+areas where we are lacking manpower, (2) $3.8 million in maintenance costs primarily as a result of unplanned maintenance, and
+(3) $7.8 million in reagents, which was higher than expected primarily due to consuming more soda ash and lime than planned. Hycroft
+made the decision to expense $6.4 million of these costs immediately. Excluding the $6.4 million of period costs, the production
+costs per ounce of gold sold decreased to $1,404, which was still higher than is expected in future periods and was primarily a
+result of (1) the use of contractors to supplement maintenance employees and (2) higher than anticipated consumption of reagents.
+Replacing contractors with full time employees has been a focus for us for more than six months and it is expected it to continue
+to be a focus for us during 2020 as it has proven challenging to hire qualified employees given the low unemployment levels across
+Northern Nevada and competition from other nearby mining companies.
+
+ 
+
+Depreciation
+and amortization
+
+ 
+
+Depreciation and amortization expense
+was $1.3 million, or $203 per ounce of gold sold for the three months ended March 31, 2020. Depreciation and amortization expense
+mostly related to buildings, processing equipment and the leach pad.
+
+ 
+
+Write-down
+of production inventories
+
+ 
+
+As discussed above in Critical
+Accounting Estimates, the estimated recoverable gold ounces placed on the leach pads are periodically reconciled by comparing
+the related gold ore contents to the actual gold ounces recovered (metallurgical balancing). Based on metallurgical balancing results,
+Hycroft determined that 3,980 ounces of gold that had been placed on the leach pads were no longer recoverable and wrote-off these
+ounces. As a result of the write-off Hycroft recognized a Write-down of production inventories on the consolidated statements of
+operations of $6.9 million. Cash production costs written-off were $6.4 million and capitalized depreciation and amortization costs
+written-off were $0.5 million. The write-off of these ounces was primarily due to poor execution of maintaining the critical variables
+necessary for oxidation and ultimately recovery of a specific cell of the leach pads. As a result, Hycroft determined that it would
+recover 20% less than planned of the mismanaged section of the leach pads.
+
+ 
+
+Operating
+expenses
+
+ 
+
+Care and maintenance,
+net
+
+ 
+
+Care and maintenance, net decreased
+from $3.8 million for the three months ended March 31, 2019 to $0 for the 2020 period. The decrease in Care and maintenance, net
+was primarily driven by the restart of mining operations at the Hycroft Mine. Upon restarting in April 2019, Hycroft no longer
+recorded any costs to care and maintenance, net.
+
+ 
+
+Project and development
+
+ 
+
+Project and development costs decreased
+from $2.2 million for the three months ended March 31, 2019 to $0 for the 2020 first quarter. In late 2018, the Company began the
+process of restating mining operations and, as noted above, restarted mining in April 2019. During 2019, Hycroft completed all
+project and development of the mine and have not incurred any costs in 2020 that were classified as project and development now
+that the mine is in operation. During the 2019 first quarter, costs were incurred related to the restart of the Hycroft Mine, such
+as maintenance and repair of mobile mining equipment and processing equipment (crusher, Merrill-Crowe facility), to prepare for
+use after sitting idle for several years. During 2019, Hycroft also incurred costs to prepare feasibility studies, including the
+Hycroft Technical Report.
+
+ 
+
+Pre-production
+depreciation and amortization
+
+ 
+
+Pre-production depreciation and amortization
+represents expense recognized prior to the restart of mining operations at the Hycroft Mine. For first quarter of 2019, pre-production
+depreciation and amortization was $0.8 million compared to $0 for the three months ended March 31, 2020. The decrease in pre-production
+depreciation and amortization was due to restarting mining operations and, therefore, recording depreciation and amortization to
+ore on the leach pads (beginning April 2019), which was recognized on the Consolidated Statements of Operations as part of Total
+cost of sales as ounces of gold are sold.
+
+ 
+
+
+
+
+    14 
+     
+    
+
+ 
+
+Accretion
+
+ 
+
+For each of the three months ended
+March 31, 2020 and 2019, Hycroft recognized $0.1 million in accretion expense.
+
+ 
+
+General and
+administrative
+
+ 
+
+General and administrative costs
+for the three months ended March 31, 2020 and 2019 were $2.0 million and $1.9 million, respectively. The increase in general
+and administrative costs was primarily driven by a $0.2 million increase in stock-based compensation costs, due to restricted
+stock units being granted in February 2019 and, therefore, Hycroft only recognized expense for part of the quarter in 2019,
+whereas in 2020 Hycroft recognized a full quarter of expense. Additionally, the cost of certain of Hycroft’s insurance
+policies increased by $0.2 million from the prior year. The increases were partially offset by a $0.3 million decrease in
+expense recognition related to Hycroft’s phantom shares as a result of granting fewer shares in 2020.
+
+ 
+
+Interest
+expense
+
+ 
+
+For the three months ended March 31,
+2020 and 2019, interest expense was $19.9 million and $14.4 million, respectively, an increase of $5.5 million, or 38%. The increase
+was primarily due to an increase in the average debt balance from $442.2 million for the 2019 first quarter to $574.7 million for
+the 2020 first quarter. The average debt balance increased due to PIK interest on our Second Lien Notes, the 1.5 Lien Notes and
+the 1.25 Lien Notes. Additionally, Hycroft issued 1.25 Lien Notes during 2019 and the first quarter of 2020, which were issued
+to fund the restart of mining operations and pay operating costs that were in excess of Hycroft’s sales proceeds. The increase
+in the interest rate on the First Lien Credit Agreement also contributed to the increase in interest expense. Interest expense
+for the three months ended March 31, 2020 and 2019 was reduced by less than $0.1 million and $0.1 million, respectively, for interest
+that was capitalized to projects during each period.
+
+ 
+
+Reorganization
+items, net
+
+ 
+
+On March 10, 2015, Hycroft filed voluntary
+petitions for relief under Chapter 11 of Title 11 of the United States Code with the United States Bankruptcy Court for the District
+of Delaware (the “Bankruptcy Court”) in an effort to recapitalize Hycroft’s balance sheet by reducing its debt
+balances while concurrently providing additional liquidity. Expenses directly associated with finalizing the chapter 11 cases before
+the Bankruptcy Court were reported as Reorganization items, net in the Consolidated Statements of Operations. We incurred
+legal and professional fees of $0 and $0.3 million for the three months ended March 31, 2020 and 2019, respectively. The decrease
+was a result of the final claims being settled during the third quarter of 2019 and no additional costs being incurred after the
+settlements. On October 3, 2019, the Bankruptcy Court finalized the proceedings and closed the case.
+
+ 
+
+Income
+tax expense and benef it
+
+ 
+
+There was no income tax expense or
+benefit recognized during the three months ended March 31, 2020 or 2019.
+
+ 
+
+Net loss
+
+ 
+
+Due to the activity discussed above,
+Hycroft realized net losses of $34.6 million and $23.4 million for the first quarters of 2020 and 2019, respectively.
+
+ 
+
+
+
+
+    15 
+     
+    
+
+ 
+
+Liquidity
+and Capital Resources
+
+ 
+
+ General
+
+
+
+ 
+
+In the absence of profitable operations
+following Hycroft’s emergence from chapter 11 bankruptcy proceedings, Hycroft’s primary source of liquidity beginning
+in 2016 and through the end of 2018 was from the issuance of 1.5 Lien Notes to the Fund Lenders. Hycroft’s primary continuing liquidity
+needs prior to restarting operations were to finance its operational needs for care and maintenance of the leach pads, to continue
+to conduct test work related to the two-stage oxidation and subsequent leaching of our sulfide and transition ores, preparation
+of the Hycroft Technical Report, its general and administrative costs, and debt service, primarily interest payments pursuant to
+the First Lien Credit Agreement.
+
+ 
+
+Hycroft began the restart of mining
+operations in 2019. Hycroft financed the restart with the issuance of 1.25 Lien Notes to the holders of the 1.5 Lien Notes. Hycroft
+expected to recapitalize our business with both debt and equity which will be used to finance the remaining cash requirements of
+the restart as operations and related gold and silver production and sales are ramped up.
+
+ 
+
+During 2019, Hycroft began to produce
+and sell gold from mining performed during 2019. Despite gold and silver sales in 2019 and 2020, Hycroft continued to incur losses
+due to the costs expended on the restart in conjunction with operational missteps and inefficiencies. Hycroft did not generate
+sufficient cash flow from its operations during either 2019 or the first quarter of 2020 to cover its operating costs, general
+and administrative costs, and capital project costs and Hycroft was reliant upon additional debt funding to continue operations.
+Hycroft was reliant on debt issuances to fund operations in 2019 and through the closing of the business combination with MUDS.
+
+ 
+
+Upon closing the business combination
+with MUDS we received net cash proceeds of approximately $212.7 million, of which we will utilize as much as $39.0 million for
+capital expenditures through the remainder of 2020. This includes $30.0 million to $35.0 million to construct a new leach pad,
+$2.0 million to $3.0 million of capital expenditures associated with our cone crushers, and approximately $2.5 million of miscellaneous
+sustaining capital expenditures. Assuming we are able to ramp up operations and produce and sell the forecasted volumes, we believe
+that we will be able to meet our funding needs for at least the next twelve months.
+
+ 
+
+Sprott Credit Agreement
+
+ 
+
+On October 4, 2019, Hycroft, as borrower, and certain of its
+subsidiaries, as guarantors, entered into the Initial Sprott Credit Agreement with Lender for a secured multi-advance term credit
+facility with an original aggregate principal amount not in excess of $110.0 million. In connection with the consummation of the
+business combination, the Company assumed the Initial Sprott Credit Agreement pursuant to the terms of the Purchase Agreement,
+entered into an amended and restated credit agreement (i.e., the Sprott Credit Agreement), with HYMC becoming a party thereto,
+borrowed $70,000,000 under such facility and issued to Lender 496,634 shares of HYMC Common Stock equal to approximately 1% of
+the Company’s post-closing shares of HYMC Common Stock outstanding. As a result, HYMC is the borrower under the Sprott Credit
+Agreement.
+
+ 
+
+The obligations of the borrower under the Sprott Credit Agreement
+are guaranteed by (i) HRD and Allied VGH and their respective successors and permitted assigns and (ii) any existing or future
+subsidiary of the guarantors or the borrower, which we collectively refer to as the “Credit Parties,” other than the
+guarantors, that acquires or holds any assets with a book value greater than $1.0 million other than certain equity interests disclosed
+to Lender. The obligations under the Sprott Credit Agreement will be secured by a lien on all properties and assets now owned,
+leased or hereafter acquired or leased by any Credit Party including a security interest to Lender of all membership interests
+in HRD and Allied VGH.
+
+ 
+
+The Sprott Credit Agreement will be accessed by the borrower
+through one or more advances. The initial two advances were in the principal amounts of $55.0 million and $15.0 million, respectively,
+and the Lender may make a subsequent advance, assuming satisfaction of applicable conditions and production milestones, for up
+to an additional $40.0 million in aggregate principal amount. The Sprott Credit Agreement was made available at an original
+issue discount of 2%. The Sprott Credit Agreement has been, and will be used for, (i) repayment of indebtedness and liabilities
+under the existing first lien secured facility with Scotia Bank, as administrator, and other payoff amounts, (ii) payment of costs
+and expenses to put the Hycroft Mine into commercial production and/or to maintain or increase commercial production, and (iii)
+payment of Lender’s fees and expenses incurred in connection with the Sprott Credit Agreement.
+
+ 
+
+
+
+
+    16 
+     
+    
+
+ 
+
+Advances under the Sprott Credit Agreement bear interest monthly
+at a floating rate equal to seven percent (7%) plus the greater of (i) US Dollar three month LIBOR and (ii) one and one-half percent
+(1.50%), per annum, accruing daily and compounded monthly. For a period of twelve (12) months following the initial advance, no
+cash payments of interest or principal will be due, with 100% of interest accruing being capitalized on a monthly basis and added
+to the outstanding principal balance of the Sprott Credit Agreement.
+
+ 
+
+For each calendar quarter commencing on March 1, 2021 and ending
+on the maturity date, the borrower shall pay Lender additional interest on the last business day of such calendar quarter, calculated
+according to a formula set forth in the Sprott Credit Agreement. Upon the prepayment of the entire Sprott Credit Agreement, all
+remaining additional interest payments and all remaining and yet unpaid additional interest must be prepaid as well.
+
+ 
+
+The borrower shall be required under the Sprott Credit Agreement
+to make principal repayments beginning on August 31, 2021 and on the last business day of each calendar quarter thereafter. The
+first four (4) principal repayments will be in an amount equal to two and one-half percent (2.50%) of the outstanding principal
+amount of the Sprott Credit Agreement on May 31, 2021 (including all capitalized interest thereon, if any, but excluding the principal
+repayment then due). All subsequent principal repayments shall be in an amount equal to seven and one-half (7.50%) of the outstanding
+principal amount of the Sprott Credit Agreement on May 31, 2021 (including all capitalized interest thereon, if any, but excluding
+the principal repayment then due). The entire outstanding balance of the Sprott Credit Agreement, together with all unpaid interest
+and fees (including all capitalized interest, if any), is due on the day that is five years from the last day of the month of the
+initial closing date, which shall be no later than May 31, 2025, the maturity date.
+
+ 
+
+The Sprott Credit Agreement may be repaid in whole or in part,
+at any time prior to the maturity date. Each prepayment or cancellation of the Sprott Credit Agreement (including capitalized interest,
+if any), whether in whole or in part, voluntarily or mandatory, subject to certain exceptions, that occurs on or prior to the fourth
+anniversary of the date of the initial advance is subject to a prepayment premium, payable on the date of the prepayment or cancellation
+as follows.
+
+ 
+
+
+
+    Prepayment Date 
+    Percentage of Principal  Amount Outstanding
+
+    Prior to 2nd anniversary of initial advance date 
+    5.0%
+
+    After 2nd anniversary but prior to 4th anniversary of initial advance date 
+    3.0%
+
+
+ 
+
+In addition to the required quarterly repayment of principal
+beginning on August 31, 2021, the borrower will be required under the Sprott Credit Agreement to make a mandatory prepayment (A)
+if at any time after the date of the initial advance, any Credit Party (i) sells or otherwise disposes of certain assets other
+than those permitted by the Sprott Credit Agreement in one or more transactions, to the extent that cash proceeds of such sale
+or other disposal exceed $500,000 when aggregated with the proceeds of all other sales and disposals of the Credit Parties, or
+(ii) receives any insurance proceeds greater than $1.0 million which are not otherwise expended on the Hycroft Mine within one-hundred
+eighty (180) days, and (B) upon the occurrence of a change of control (in certain circumstances) other than any change of control
+resulting from the business combination. In addition to the amount of any such mandatory prepayment, borrower shall pay to the
+Lender an amount equal to the applicable prepayment premium unless otherwise excused by the Sprott Credit Agreement.
+
+ 
+
+Sprott Royalty Agreement
+
+ 
+
+The Company, HRD and Sprott Private Resource Lending II (Co)
+Inc. (the “Payee”), an affiliate of the Lender, entered into a royalty agreement with respect to the Hycroft
+Mine (the “Sprott Royalty Agreement”) at the closing of the business combination. Pursuant to the terms of the
+Sprott Royalty Agreement, at the closing of the business combination, Payee paid to HRD cash consideration in the amount of $30.0
+million, for which HRD granted to Payee a perpetual royalty equal to one and one-half percent (1.50%) of net smelter returns, payable
+monthly. Net smelter returns for any given month are calculated by monthly production multiplied by monthly average gold price
+or monthly average silver price, minus allowable deductions.
+
+ 
+
+
+
+
+    17 
+     
+    
+
+ 
+
+HRD has the right to repurchase a portion of the royalty
+on the each of the first and second anniversary of the effective date of the Sprott Royalty Agreement. For the first anniversary,
+the repurchase right is in respect of up to 33.3% of the initial royalty in consideration of a purchase price calculated pursuant
+to a formula described in the Sprott Royalty Agreement. For the second anniversary, the repurchase right is in respect of any remaining
+portion of the initial royalty that was not acquired on the first anniversary up to the ceiling of 33.3% of the initial royalty
+plus up to 33.3% of the increased amount of the royalty in consideration of a purchase price calculated pursuant to a formula described
+in the Sprott Royalty Agreement.
+
+ 
+
+In addition to the terms generally described above,
+the Sprott Royalty Agreement contains other terms and conditions commonly contained in royalty agreements of this nature.
+
+ 
+
+New Subordinated Notes
+
+ 
+
+In connection with the business combination,
+HYMC assumed $80.0 million in aggregate principal amount of the New Subordinated Notes. The New Subordinated Notes are secured
+and subordinate in priority to the senior debt obligations under the Sprott Credit Agreement. The New Subordinated Notes bear interest
+at a rate of 10% per annum, payable in kind on a quarterly basis. The principal on the New Subordinated Notes is due December 1,
+2025.
+
+ 
+
+Cash and
+liquid assets
+
+ 
+
+Hycroft placed substantially all of
+its cash in operating accounts with two well-capitalized financial institutions, thereby ensuring balances remain readily available.
+Due to the nature of our operations and the composition of our current assets, Hycroft’s cash and metal inventories balances
+represented substantially all of its liquid assets on hand. As of March 31, 2020, Hycroft had existing cash of $6.5 million, an
+increase of $0.3 million from $6.2 million at December 31, 2019.
+
+ 
+
+Restricted
+cash
+
+ 
+
+As of March 31, 2020, Hycroft held
+$42.5 million in restricted cash accounts. The majority of the restricted cash, or $39.6 million, was held as collateral for Hycroft’s
+surface management surety bonds while the remaining $2.9 million was held in accordance with certain of its debt covenants. All
+the restricted cash was held by well-capitalized financial institutions.
+
+ 
+
+Available
+sources of liquidity
+
+ 
+
+The following
+table summarizes our available sources of liquidity:
+
+ 
+
+
+
+      
+    March 31,
+2020  
+    December
+    31,
+2019 
+
+    Cash 
+    $6,566  
+    $6,220 
+
+    Metal inventories(1) 
+     2,098  
+     1,894 
+
+    Ore on leach pads(2) 
+     26,122  
+     22,062 
+
+    Total liquidity sources 
+    $34,786  
+    $30,1766 
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+(1)Metal inventories contained approximately 1,604 ounces
+of gold which are expected to be sold within the next 12 months. Assuming a gold selling price of $1,608.95 per ounce (the March
+31, 2020 P.M. fix) and excluding any proceeds from silver sales, the sale of all gold ounces estimated to be recovered from our
+metal inventories would provide Hycroft with $2.6 million of revenue.
+
+
+ 
+
+
+
+
+    18 
+     
+    
+
+ 
+
+
+(2)Ore on leach pads contained approximately 18,921 ounces
+of gold which are expected to be sold within the next 12 months. Assuming a gold selling price of $1,608.95 per ounce (the March
+31, 2020 P.M. fix) and excluding any proceeds from silver sales, the sale of all gold ounces estimated to be recovered from our
+ore on leach pads would provide Hycroft with $30.4 million of revenue.
+
+
+ 
+
+Sources
+and uses of cash:
+
+ 
+
+Three Months
+Ended March 31, 2020 Compared to the Three Months Ended March 31, 2019
+
+ 
+
+
+
+      
+    Three months ended March 31, 
+
+      
+    2020  
+    2019 
+
+      
+    (dollars in thousands) 
+
+    Net loss 
+    $(34,618) 
+    $(23,440)
+
+    Net non-cash adjustments 
+     26,040  
+     13,503 
+
+    Net change in operating assets and liabilities 
+     (10,867) 
+     864 
+
+    Net cash used in operating activities 
+     (19,445) 
+     (9,073)
+
+    Net cash used in investing activities 
+     (2,090) 
+     (4,498)
+
+    Net cash provided by financing activities 
+     21,658  
+     17,154 
+
+    Net decrease in cash 
+     123  
+     3,583 
+
+    Cash, beginning of period 
+     48,967  
+     52,861 
+
+    Cash, end of period 
+    $49,090  
+    $56,444 
+
+
+ 
+
+Cash used
+in and provided by operating activities
+
+ 
+
+For the three months ended March 31,
+2020, Hycroft used $19.4 million of cash for operating activities primarily attributable to a net loss of $34.6 million and increases
+in the following operating assets; production-related inventories ($10.4 million), prepaid and other ($1.5 million) and accounts
+receivable ($0.8 million), and a decrease in interest payable ($0.4 million). The cash outflows driven by the items described above
+were partially offset by certain non-cash expenses, including a $17.0 million non-cash portion of interest expense, $7.0 million
+write-down of production inventories, $1.3 million depreciation and amortization and $0.4 million stock-based compensation. There
+was also an increase in accounts payable ($2.4 million) that partially offset the cash outflows.
+
+ 
+
+For the three months ended March
+31, 2019, Hycroft used $9.1 million of cash for operating activities primarily attributable to a net loss of $23.4 million
+and a decrease in interest payable ($0.4 million). The negative impact on cash flow from operations of the net loss and
+decrease in interest payable were partially offset by certain non-cash expenses, including a $11.9 million non-cash portion
+of interest expense, $0.8 million depreciation and amortization and $0.5 million of phantom share compensation. Additionally, there were
+increases in accounts payable ($1.6 million) that offset the negative impact on cash flow from operations of the net loss and
+interest payable.
+
+ 
+
+Cash used
+in investing activities
+
+ 
+
+For the three months ended March 31,
+2020 and 2019, Hycroft used $2.1 million and $4.5 million, respectively, in investing activities. For 2020, the costs primarily
+related to (1) construction of new leach pad space of $1.1 million, and (2) construction or purchases of processing equipment of
+$0.6 million. For the 2019 period the spend was mostly driven by (1) construction of new leach pad space for the restart of $2.2
+million and (2) the purchase and installation of four new cone crushers for $1.9 million.
+
+ 
+
+Cash used
+in and provided by financing activities
+
+ 
+
+Cash generated by financing activities was $21.7
+million for the three months ended March 31, 2020, which was mostly driven by net issuances of $24.9 million in aggregate principal
+amount of 1.25 Lien Notes (net of issuance costs). The 1.25 Lien Notes were used to fund operational costs and capital expenditures
+due to not generating enough cash from sales. Hycroft spent $2.6 million for legal and consulting fees related to the business
+combination and $0.6 million for extending the maturity of the First Lien Credit Agreement, partially offsetting the net cash received
+from the issuance of 1.25 Lien Notes.
+
+ 
+
+
+
+
+    19 
+     
+    
+
+ 
+
+The amount of cash generated by financing activities
+was $17.2 million for the three months ended March 31, 2019, which was mostly driven by net issuances of $18.0 million in aggregate
+principal amount of 1.25 Lien Notes (net of issuance costs). The 1.25 Lien Notes were used to fund the restart of mining operations.
+Hycroft spent $0.7 million for legal and consulting fees related to the business combination and the review of its other strategic
+alternatives and $0.1 million for extending the maturity of the First Lien Credit Agreement, partially offsetting the net cash
+received from the issuance of 1.25 Lien Notes.
+
+ 
+
+Future
+capital and cash requirements
+
+ 
+
+The following table provides Hycroft’s
+gross contractual cash obligations as of March 31, 2020, which are grouped in the same manner as they were classified in the Condensed
+Consolidated Statements of Cash Flows in order to provide a better understanding of the nature of the obligations and to provide
+a basis for comparison to historical information. We believe the following provides the most meaningful presentation of near-term
+obligations expected to be satisfied using current and available sources of liquidity
+
+ 
+
+
+
+      
+       
+    Payments Due by Period 
+
+      
+       
+    Less than  
+    1 - 3  
+    3 - 5  
+    More than 
+
+      
+    Total  
+    1 Year  
+    Years  
+    Years  
+    5 Years 
+
+      
+    (dollars in thousands) 
+
+    Operating activities 
+        
+        
+        
+        
+       
+
+    Interest related to debt (1) 
+    $13,287  
+    $13,287  
+    $-  
+    $-  
+    $- 
+
+    Operating lease requirements (2) 
+     12,213  
+     11,660  
+     553  
+     -  
+     - 
+
+    Remediation and reclamation expenditures (3) 
+     62,213  
+     -  
+     -  
+     -  
+     62,213 
+
+    Financing activities 
+        
+        
+        
+        
+       
+
+    Repayments of debt principal (4) 
+     596,335  
+     596,335  
+     -  
+     -  
+     - 
+
+    Repayment of pay-in-kind interest (5) 
+     16,578  
+     16,578  
+     -  
+     -  
+     - 
+
+      
+    $700,626  
+    $637,860  
+    $553  
+    $-  
+    $62,213 
+
+
+ 
+
+
+
+ 
+
+
+
+
+(1)Interest payments were calculated based on the debt outstanding
+as of March 31, 2020 and includes interest that will be paid at maturity, but not added to the principal balance as payment-in-kind
+interest.
+
+
+
+(2)As noted below in Off-balance sheet arrangements, the
+Company has two operating leases which are included.
+
+
+
+(3)Mining operations are subject to extensive environmental
+regulations in the jurisdictions in which they are conducted and we are required, upon cessation of operations, to reclaim and
+remediate the lands that our operations have disturbed. The estimated undiscounted cash outflows of these remediation and reclamation
+obligations are reflected here.
+
+
+
+(4)Repayments of principal on debt consists of amounts due
+under term obligations.
+
+
+
+(5)Repayments of payment-in-kind interest will occur at
+debt maturity and only includes interest that will be added to the principal during 2020.
+
+
+ 
+
+Off-balance
+sheet arrangements
+
+ 
+
+As of March 31, 2020 and December 31, 2019,
+Hycroft’s off-balance sheet arrangements consisted of an operating lease agreement and royalty agreements. During the first
+quarter of 2020, Hycroft also signed a lease for mining equipment.
+
+ 
+
+
+
+
+    20 
+     
+    
+
+ 
+
+The operating lease for our office space in
+Denver, Colorado is $0.1 million annually and expires in January 2022. We have a one-year operating lease for mobile mining equipment
+that we will use to supplement our own fleet. As of March 31, 2020, none of the equipment had been placed into service, but certain
+equipment was placed into service subsequent to the quarter end and before the date of this filing. Once all equipment is placed
+into service, the equipment lease is for $12.6 million, part of which was prepaid as of March 31, 2020.
+
+ 
+
+As we have elected to take advantage of the
+extended transition period for complying with new or revised accounting standards, the liability for our operating leases will
+remain off of our balance sheet until the new lease accounting rules apply to privately-held companies in accordance with the JOBS
+Act or we are no longer an emerging growth company.
+
+ 
+
+A portion of the Hycroft Mine is subject to
+a mining lease that requires a 4% net profit royalty be paid to the owner of patented and unpatented mining claims relating to
+the Hycroft Mine. The mining lease also requires an annual advance payment of $120,000 every year mining occurs on the leased claims.
+An additional advance payment is required in any year in which five million tons or more are mined from the property, subject to
+the 4% net profit royalty. This lease is classified as an off-balance sheet arrangement because the royalty payments are contingent
+upon mining activity and other events. All advance payments are credited against the future payments due under the 4% net profit
+royalty. The total payments due under the mining lease are capped at $7.6 million. Through March 31, 2020 and December 31, 2019,
+Hycroft had paid $2.6 million and $2.5 million, respectively.
+
+ 
+
+Hycroft  entered into a bonus plan whereby,
+upon the consummation of a sale transaction or certain other transformative transactions as defined in the plan, including the
+consummation of the business combination, Hycroft will be obligated to pay certain senior level employees a total of $5.9 million,
+based upon the value of the transaction.
+
+ 
+
+PROPERTIES
+
+ 
+
+The Company’s physical properties after consummation of
+the business combination are described in the disclosure regarding the properties of Hycroft and its subsidiaries set forth in
+the Proxy Statement/Prospectus in the section entitled “Information about Seller and the Hycroft Business—Operating
+Properties” beginning on page 218, which section is incorporated herein by reference, and see “—Management’s
+Discussion and Analysis of Financial Condition and Results of Operations – Off Balance Sheet Arrangement” in this Current
+Report on Form 8-K for information on the mining lease with respect to which Hycroft’s property is subject. As reflected
+in the information included in such section and incorporated by reference herein, Hycroft and the Company elected to early adopt
+and comply with the rules set forth under Modernization of Property Disclosures for Mining Registrants as promulgated and adopted
+by the SEC.
+
+ 
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+ 
+
+The following table sets forth certain information concerning
+the ownership of HYMC Common Stock immediately following the completion of the business combination on May 29, 2020, by (i) those
+persons who are known to the Company to be the beneficial owner(s) of more than five percent of the HYMC Common Stock, (ii) each
+of the Company’s directors and named executive officers and (iii) all directors and executive officers of the Company
+as a group.
+
+ 
+
+The number of shares of HYMC Common Stock beneficially owned
+by each entity, person, director or executive officer is determined in accordance with the rules of the SEC, and the information
+is not necessarily indicative of beneficial ownership for any other purpose. Under such rules, beneficial ownership generally includes
+any shares of HYMC Common Stock over which the individual has sole or shared voting power or investment power as well as any shares
+of HYMC Common Stock that the individual has the right to acquire within 60 days of June 1, 2020, through the exercise of warrants
+or other rights. Unless otherwise indicated in the footnotes to this table, the Company believes each of the stockholders named
+in this table has sole voting and investment power with respect to the shares of HYMC Common Stock indicated as beneficially owned.
+
+ 
+
+
+
+
+    21 
+     
+    
+
+
+
+ 
+
+
+
+    Name and Address of Beneficial Owner 
+    Shares Beneficially Owned  
+    Percentage of Beneficial Ownership 
+
+    5% or Greater Stockholders 
+        
+       
+
+    Mudrick Capital Management L.P. and affiliated entities(1) 
+     23,277,130  
+     45.2%
+
+    Mudrick Capital Acquisition Holdings LLC(2) 
+     9,813,180  
+     17.8%
+
+    Whitebox Advisors and affiliated entities(3) 
+     13,012,516  
+     25.5%
+
+    Highbridge Capital Management LLC and affiliated entities(4) 
+     7,427,411  
+     14.7%
+
+    Aristeia Capital, LLC and affiliated entities(5) 
+     4,989,085  
+     9.9%
+
+    Wolverine Asset Management, LLC and affiliated entities(6) 
+     2,420,473  
+     4.8%
+
+      
+        
+       
+
+    Named Executive Officers and Directors(7) 
+        
+       
+
+    Randy Buffington 
+     --  
+     --%
+
+    Stephen M. Jones 
+     --  
+     --%
+
+    John Ellis 
+     --  
+     --%
+
+    Michael Harrison(8) 
+     --  
+     --%
+
+    Eugene Davis 
+     --  
+     --%
+
+    Marni Wieshofer 
+     --  
+     --%
+
+    Thomas Weng 
+     --  
+     --%
+
+    David Kirsch(9) 
+     --  
+     --%
+
+    All current executive officers and directors as a group (8 individuals) 
+        
+      %
+
+
+
+
+
+
+
+
+ 
+
+
+
+(1)Includes 1,295,892 shares of HYMC Common Stock underlying warrants. Mudrick Capital Management, L.P. is the investment manager
+of Blackwell Partners LLC – Series A, Boston Patriot Batterymarch St. LLC, Boston Patriot Newbury St. LLC, Mercer QIF Fund
+PLC, Mudrick Distressed Opportunity Drawdown Fund, L.P., Mudrick Distressed Opportunity Fund Global L.P., Mudrick Distressed Opportunity
+Specialty Fund, LP, Mudrick Distressed Senior Secured Fund Global, L.P., and Mudrick Distressed Opportunity Drawdown Fund II, L.P.
+(the “Mudrick Funds”) and holds voting and dispositive power over the shares of HYMC Common Stock held by the
+Mudrick Funds. Mudrick Capital Management, LLC is the general partner of Mudrick Capital Management, L.P., and Jason Mudrick is
+the sole member of Mudrick Capital Management, LLC. As such, Mudrick Capital Management, L.P., Mudrick Capital Management, LLC
+and Jason Mudrick may be deemed to have beneficial ownership of the shares of HYMC Common Stock directly held by the Mudrick Funds.
+Each such entity or person disclaims any beneficial ownership of the reported shares other than to the extent of any pecuniary
+interest they may have therein, directly or indirectly. The business address of such holders is 527 Madison Avenue, 6th
+Floor, New York, New York 10022.
+ 
+
+(2)Includes 5,000,000 shares of HYMC Common Stock and shares underlying warrants that constitute the forward purchase
+                                                               units. Sponsor is the record holder of such shares. Mudrick Capital Management, L.P. is the managing member of sponsor and
+                                                               has voting and investment discretion with respect to the securities held by sponsor. Jason Mudrick is the sole member of
+                                                               Mudrick Capital Management, LLC, the general partner of Mudrick Capital Management, L.P. As such, Mudrick Capital Management,
+                                                               L.P., Mudrick Capital Management, LLC and Jason Mudrick may be deemed to have beneficial ownership of the shares of HYMC
+                                                               Common Stock directly held by sponsor. Each such entity or person disclaims any beneficial ownership of the reported shares
+                                                               other than to the extent of any pecuniary interest they may have therein, directly or indirectly. Sponsor is 100% owned by
+                                                               investment funds and separate accounts managed by Mudrick Capital Management, L.P. The business address of such holders is
+                                                               527 Madison Avenue, 6th Floor, New York, New York 10022.
+
+ 
+
+David Kirsch has a pecuniary interest in shares of
+HYMC Common Stock of the issuer through his ownership of membership interests of our sponsor but does not beneficially own such
+shares.
+
+ 
+
+
+(3)Includes 913,017 shares of HYMC Common Stock underlying warrants. Whitebox Advisors LLC is the investment manager of Whitebox
+Institutional Partners, LP, Whitebox Asymmetric Partners, LP, Whitebox Credit Partners, LP, Whitebox Multi-Strategy Partners, LP
+(the “Whitebox Funds”) and holds voting and disposable power over the shares of the Company held by the Whitebox
+Funds. Whitebox Advisors LLC is owned by Robert Vogel, Paul Twitchell, Jacob Mercer, Paul Roos, and Mark Strefling. The address
+of these persons is 3033 Excelsior Blvd., Suite 500, Minneapolis, Minnesota 55416.
+ 
+
+
+
+
+    22 
+     
+    
+
+ 
+
+(4)Includes 520,532 shares of HYMC Common Stock underlying warrants. Highbridge Capital Management, LLC (“HCM”),
+the trading manager of Highbridge MSF International Ltd. (“MSF”) and Highbridge Tactical Credit Master Fund,
+L.P. (“TCF” and, together with MSF, the “Highbridge Funds”), may be deemed to be the beneficial
+owner of the shares held by the Highbridge Funds. Mark Vanacore is responsible for the investment and voting decisions made by
+HCM with respect to the shares held by MSF, and Jonathan Segal and Jason Hempel are responsible for the investment and voting decisions
+made by HCM with respect to the shares held by TCF. The Highbridge Funds and the foregoing individuals disclaim any beneficial
+ownership of these shares. The business address of HCM is 277 Park Avenue, 23rd Floor, New York, NY 10172 and the business address
+of the Highbridge Funds is c/o HedgeServ (Cayman) Ltd., Cricket Square, Floor 6, George Town, Grand Cayman KY1-1104, Cayman Islands.
+ 
+
+(5)Includes 350,573 shares of HYMC Common Stock underlying warrants. Aristeia Capital, L.L.C. and Aristeia Advisors, L.P. (collectively,
+ “Aristeia”) may be deemed the beneficial owners of the securities described herein in their capacity as the
+investment manager and/or general partner, as the case may be, of APSV, LLC, ALSV Limited and Windermere Ireland Fund PLC (collectively,
+the “Aristeia Funds”), which are the holders of such securities. As investment manager, trading advisor and/or
+general partner of each Aristeia Fund, Aristeia has voting and investment control with respect to the securities held by each Aristeia
+Fund. Anthony M. Frascella and William R. Techar are the Co-Chief Investment Officers of Aristeia. Each of Aristeia and such individuals
+disclaim beneficial ownership of the securities referenced herein except to the extent of its or his direct or indirect economic
+interest in the Aristeia Funds.The business address of such holders is One Greenwich Plaza, Third Floor, Greenwich, Connecticut
+06830.
+ 
+
+(5)Includes 169,985 shares of HYMC Common Stock underlying warrants. Wolverine Asset Management, LLC is wholly owned by Wolverine
+Holdings, L.P. (“Wolverine Holdings”). Robert R. Bellick and Christopher L. Gust may be deemed to control Wolverine
+Trading Partners, Inc. (“WTP”), the general partner of Wolverine Holdings. The business address of such holders
+is 175 W. Jackson Blvd., Suite 340, Chicago, Illinois 60604.
+ 
+
+(7)The business address of the individuals is 8181 E. Tufts Avenue, Suite 510, Denver, Colorado 80237.
+ 
+
+(8)Mr. Harrison disclaims beneficial ownership of HYMC Common Stock issued to Sprott entities pursuant to the Sprott Credit Agreement.
+ 
+
+(9)Mr. Kirsch has a pecuniary interest in shares of HYMC Common Stock through his ownership of membership interests of sponsor
+but does not beneficially own such shares.
+ 
+DIRECTORS AND EXECUTIVE OFFICERS
+
+ 
+
+The directors and executive officers of the Company following
+the business combination and the remaining information required to be provided herein are described in the disclosure in Item 5.02
+of this Current Report on Form 8-K and in the Proxy Statement/Prospectus in the section entitled “Management After the
+Business Combination” beginning on page 270, which are each incorporated herein by reference.
+
+ 
+
+EXECUTIVE COMPENSATION
+
+ 
+
+The executive compensation of the Company’s executive
+officers and directors is set forth in the Proxy Statement/Prospectus in the section entitled “Management After the Business
+Combination – HYMC Executive Officer and Director Compensation” beginning on page 274, which section is incorporated
+herein by reference.
+
+ 
+
+
+
+
+    23 
+     
+    
+
+ 
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE
+
+ 
+
+The certain relationships and related party transactions of
+the Company are described in the Proxy Statement/Prospectus in the section entitled “Certain Relationships and Related
+Transactions” beginning on page 295, which section is incorporated herein by reference.
+
+ 
+
+The Company’s board of directors has determined that Messrs.
+Ellis, Harrison, Kirsch, Davis and Weng and Ms. Wieshofer are “independent directors” under Nasdaq Capital Market listing
+standards. The Company’s board of directors reviews independence on an annual basis and has also determined that each current
+member of the Company’s Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee is independent
+as defined under the applicable Nasdaq Stock Market listing standards and SEC rules. The Company’s board of directors further
+determined that Ms. Wieshofer qualifies as an audit committee financial expert in accordance with applicable rules and guidance.
+In making these determinations, the Company’s board of directors found that none of these directors had a material or other
+disqualifying relationship with the Company.
+
+ 
+
+LEGAL PROCEEDINGS 
+
+ 
+
+On February 7, 2020, a purported class action complaint
+was filed by a purported holder of Hycroft warrants, in the Court of Chancery of the State of Delaware against Hycroft and
+MUDS. The complaint sought a declaratory judgment that the transactions contemplated under the Purchase Agreement constitute
+a “Fundamental Change” under the terms of the Hycroft Warrant Agreement and thereby requiring that the Hycroft
+warrants be assumed by MUDS as part of the transactions, in addition to asserting claims for (i) breach or anticipatory
+breach of contract against Hycroft, (ii) breach or anticipatory breach of the implied covenant of good faith and fair dealing
+against Hycroft, and (iii) tortious interference with contractual relations against MUDS. The complaint sought unspecified
+money damages and also sought an injunction enjoining Hycroft and MUDS from consummating the transactions. On February 26,
+2020, MUDS and Hycroft entered into an Amendment to the Purchase Agreement whereby Hycroft’s liabilities and
+obligations under the Hycroft Warrant Agreement were included as a Parent Assumed Liability under the Purchase Agreement. On
+March 27, 2020, MUDS and Hycroft filed motions to dismiss the complaint. On May 15, 2020, a
+hearing was held and the complaint was dismissed with prejudice. On May 21, 2020, Plaintiff filed a motion to alter or amend
+the Court’s order in order to retain jurisdiction in order to file application for a mootness fee, to which MUDS and
+Hycroft, while disputing factual assertions and characterizations, did not oppose.
+
+ 
+
+MARKET PRICE OF AND DIVIDENDS ON COMMON EQUITY AND RELATED
+STOCKHOLDER MATTERS
+
+ 
+
+Prior to the completion of the business combination on May 29,
+2020, the Company’s publicly-traded units, Class A common stock and warrants were listed on the NASDAQ Capital Market (“NASDAQ”)
+under the symbols “MUDSU”, “MUDS” and “MUDSW”, respectively. The Company listed its publicly-traded
+HYMC Common Stock and warrants effective upon the consummation of the business combination on NASDAQ under the symbols “HYMC”
+and “HYMCW”, respectively. The Company will use its commercially reasonable best efforts to register and apply to list
+the Hycroft warrants for trading on NASDAQ, subject to applicable listing requirements, as soon as reasonably practicable.
+
+ 
+
+The Company has not paid any cash dividends on its common stock
+to date. The payment of cash dividends in the future (following consummation of the business combination) will be dependent upon
+the Company’s revenues and earnings, if any, capital requirements and general financial condition subsequent to completion
+of a business combination. The payment of any cash dividends subsequent to the business combination will be within the discretion
+of the Company’s board of directors at such time. In addition, the Company is not currently contemplating and does not anticipate
+declaring any stock dividends in the foreseeable future. Further, if the Company incurs any indebtedness, its ability to declare
+dividends may be limited by restrictive covenants it may agree to in connection therewith.
+
+ 
+
+As of June 1, 2020, there were   54 record
+holders of HYMC Common Stock.
+
+ 
+
+The Company has no equity compensation plans currently in effect
+that were in effect as of December 31, 2019. The information in the table below reflects the issuance of replacement equity incentive
+awards under the Incentive Plan in the form of an equivalent value of restricted stock units convertible into shares of the Company’s
+common stock to holders of Hycroft’s equity awards granted in 2019.
+
+ 
+
+
+
+
+    24 
+     
+    
+
+ 
+
+
+
+      
+    (a)  
+    (b)  
+    (c) 
+
+    Plan category 
+    Number of securities to be issued upon exercise of outstanding options, warrants and rights  
+    Weighted-average exercise price of outstanding options, warrants and rights  
+    Number of securities remaining available for future issuance under equity compensation  plans (excluding securities reflected in column (a)) 
+
+    Equity compensation plans approved by security holders(1) 
+     196,841  
+      N/A  
+     2,311,161 
+
+    Equity compensation plans not approved by security holders 
+     --  
+     --  
+     -- 
+
+
+ 
+
+
+(1)Includes the Incentive
+Plan and is based on the closing stock price on the date of the transaction of $12.65 to determine the number of shares to be
+issued. While the value of  the awards issued has been determined, the actual number of shares to be issued will be
+determined on the vesting dates using the closing prices on those dates.
+
+ 
+
+RECENT SALES OF UNREGISTERED SECURITIES 
+
+ 
+
+The disclosure concerning the Company’s founder shares,
+the private placement warrants, shares of HYMC Common Stock and the PIPE warrants pursuant to the Subscription Agreements in connection
+with the PIPE Financing, the shares issued to Sprott pursuant to the Sprott Credit Agreement, and the shares issued pursuant to
+the Forward Purchase Contract contained in the section of the Proxy Statement/Prospectus entitled, respectively, “Description
+of Securities – Authorized and Outstanding Stock– MUDS Founder Shares”, “– Warrants – MUDS
+Private Placement Warrants”, “– Pipe Warrants Issued in Private Investment” beginning
+on page 284 and “The Purchase Agreement and Related Agreements – Related Agreements – Forward Purchase Agreement”,
+beginning on page 168, are incorporated by reference. The founder shares, the shares issued to Cantor, the shares of HYMC Common
+stock and warrants issued pursuant to the Forward Purchase Contract, the private placement warrants and the shares of HYMC Common
+Stock issued pursuant to the Sprott Credit Agreement and the PIPE Financing, have not been registered under the Securities Act,
+and were issued in reliance on the exemption from registration requirements thereof provided by Section 4(a)(2) of the Securities
+Act and/or Regulation D promulgated thereunder as a transaction by an issuer not involving a public offering without any form of
+general solicitation or general advertising.
+
+ 
+
+DESCRIPTION OF SECURITIES
+
+ 
+
+General
+
+ 
+
+These summaries are not intended to be a complete discussion
+of the rights of Company stockholders and are qualified in their entirety by reference to the Delaware General Corporation Law
+and the various documents of the Company that are referred to in the summaries, as well as reference to the Second Amended and
+Restated Certificate of Incorporation and Amended and Restated Bylaws, copies of which are included as Exhibits 3.1 and 3.2, respectively,
+of this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+Authorized Capital Stock
+
+ 
+
+The Second Amended and Restated Certificate of Incorporation
+authorizes the issuance of up to 400,000,000 shares of common stock, $0.0001 par value per share, and 10,000,000 shares
+of preferred stock.
+
+ 
+
+
+
+
+    25 
+     
+    
+
+ 
+
+Company Class A Common Stock
+
+ 
+
+Voting Power
+
+ 
+
+Except as otherwise required
+by law or as otherwise provided in any certificate of designation for any series of preferred stock, under the Second Amended
+and Restated Certificate of Incorporation, the holders of HYMC Common Stock possess all voting power
+for the election of directors and all other matters requiring stockholder action and are entitled to one vote per share on matters
+to be voted on by stockholders. The holders of HYMC Common Stock will at all times vote together as one class on all matters submitted
+to a vote of the Company common stockholders under the Second Amended and Restated Certificate of Incorporation.
+
+ 
+
+Preferred Shares
+
+ 
+
+The Second Amended and Restated Certificate
+of Incorporation provides that shares of preferred stock may be issued from time to time in one or more series. The Company’s
+board of directors is authorized to fix the voting rights, if any, designations, powers, preferences and relative, participating,
+optional, special and other rights, if any, and any qualifications, limitations and restrictions thereof, applicable to the shares
+of each series. The Company’s board of directors is able, without stockholder approval, to issue preferred stock with voting
+and other rights that could adversely affect the voting power and other rights of the holders of the common stock and could have
+anti-takeover effects. The ability of the Company’s board of directors to issue preferred stock without stockholder approval
+could have the effect of delaying, deferring or preventing a change of control of us or the removal of existing management. The
+Company has no preferred stock outstanding at the date hereof. Although the Company does not currently intend to issue any shares
+of preferred stock, it cannot assure you that it will not do so in the future.
+
+ 
+
+Dividends
+
+ 
+
+Subject to the rights, if any, of holders of any outstanding
+shares of preferred stock, the Second Amended and Restated Certificate of Incorporation provides that holders of HYMC Common Stock
+are entitled to receive such dividends and other distributions, if any, as may be declared from time to time by the Company board
+of directors in its discretion out of legally available funds and shall share equally on a per share basis in such dividends and
+distributions.
+
+ 
+
+Number and Election of Directors
+
+ 
+
+The Second Amended and Restated Certificate of Incorporation
+and the Company’s Amended and Restated Bylaws provide that the Company’s board of directors will be elected at each
+annual meeting of stockholders. The term of all directors shall be for one year and will expire at the next annual meeting of stockholders
+or until their respective successors are duly elected and qualified. With the approval of the stockholders at the special meeting
+of the stockholders on May 29, 2020, the Company board of directors was declassified and the seven directors nominated were elected
+to the Company board of directors upon the completion of the business combination. The directors and executive officers of the
+Company following the business combination are described in the disclosure in Item 5.02 of this Current Report on Form 8-K and
+in the Proxy Statement/Prospectus in the section entitled “Management After the Business Combination” beginning
+on page 270, which are each incorporated herein by reference.
+
+ 
+
+Under the Second Amended and Restated Certificate of Incorporation,
+there is no cumulative voting with respect to the election of directors, with the result that directors will be elected by a plurality
+of the votes cast at a meeting of stockholders by holders of common stock.
+
+ 
+
+Liquidation Preference
+
+ 
+
+The Second Amended and Restated Certificate of Incorporation
+provides that in the event of voluntary or involuntary liquidation, dissolution, or winding up of the Company, the holders of HYMC
+Common Stock will be entitled to receive all of the remaining assets of the Company available for distribution to stockholders,
+ratably in proportion to the number of shares of common stock held by them, after the rights of creditors and the holders of the
+preferred stock have been satisfied.
+
+ 
+
+ 
+
+
+    26 
+     
+    
+
+
+
+ 
+
+Business Combinations
+
+ 
+
+The Second Amended and Restated Certificate of Incorporation
+provides that the Company will not be governed by Section 203 of the DGCL and includes a provision that is substantially similar
+to Section 203 of the DGCL, but excludes the investment funds affiliated with sponsor and their respective successors and affiliates
+and the investment funds affiliated with or managed by Mudrick Capital Management, L.P., Whitebox Advisors LLC, Highbridge Capital
+Management, LLC, Aristeia Capital, LLC and Wolverine Asset Management, LLC and their respective successors and affiliates from
+the definition of “interested stockholder.”
+
+ 
+
+Pre-emption Rights
+
+ 
+
+The holders of HYMC Common Stock will not have preemptive or
+other subscription rights and there will be no sinking fund or redemption provisions applicable to the HYMC Common Stock.
+
+ 
+
+Removal of Directors; Vacancies on the Board of Directors
+
+ 
+
+The Second Amended and Restated Certificate of Incorporation
+and the Company’s Amended and Restated Bylaws provide that, subject to the rights of the holders of any series of the Company
+preferred stock, directors may be removed only by the affirmative vote of the holders of a majority of the voting power of all
+shares then entitled to vote at an election of directors. Furthermore, subject to the rights of the holders of any series of the
+Company preferred stock, any vacancy on the Company’s board of directors, however occurring, including a vacancy resulting
+from an increase in the size of the Company’s board, may only be filled by the affirmative vote of a majority of the Company’s
+directors then in office, even if less than a quorum, or by a sole remaining director, and shall not be filled by a vote of the
+stockholders.
+
+ 
+
+Corporate Opportunity
+
+ 
+
+The Second Amended and Restated Certificate of Incorporation
+provides that, to the extent allowed by applicable law, the doctrine of corporate opportunity, or any other analogous doctrine,
+does not apply with respect to the Company or any of its officers or directors in circumstances where the application of such corporate
+opportunity doctrine would conflict with any fiduciary duties or contractual obligations they may have. Mudrick Capital Management,
+L.P., Whitebox Advisors LLC, Highbridge Capital Management, LLC, Aristeia Capital, LLC and Wolverine Asset Management, LLC and
+the investment funds affiliated with them, including their respective partners, principals, directors, officers, members, managers,
+equity holders and/or employees (including any of the foregoing who serve as officers or directors of the Company) do not have
+any fiduciary duty to refrain from engaging directly or indirectly in the same or similar business activities or lines of business
+as the Company or any of its subsidiaries, except as may otherwise be provided in separate agreement between such person or entity
+and the Company.
+
+ 
+
+Amendment of Certificate of Incorporation or Bylaws
+
+ 
+
+As required by the DGCL, any amendment of the Second Amended
+and Restated Certificate of Incorporation must first be approved by a majority of the Company’s board of directors and, if
+required by law or the Second Amended and Restated Certificate of Incorporation, thereafter be approved by a majority of the outstanding
+shares entitled to vote on the amendment, and a majority of the outstanding shares of each class entitled to vote on the amendment
+as a class.
+
+ 
+
+The Company’s Amended and Restated Bylaws may be amended,
+altered or repealed by the affirmative vote of a majority of the Company directors then in office, and may also be amended, altered
+or repealed by the affirmative vote of a majority of the outstanding shares entitled to vote generally in the election of directors.
+
+ 
+
+
+
+
+    27 
+     
+    
+
+ 
+
+Warrants
+
+ 
+
+HYMC Public Warrants
+
+ 
+
+Each public warrant of the Company
+issued in the Company’s initial public offering consummated on February 12, 2018 (the “IPO” and each such
+warrant, an “HYMC public warrant”) entitles the registered holder to purchase one share of HYMC Common Stock
+at an exercise price of $11.50 per share, subject to adjustment as discussed below, at any time commencing 30 days after the completion
+of the business combination. Pursuant to the warrant agreement relating to the HYMC public warrants (the “HYMC Warrant
+Agreement”), a public warrant holder may exercise its HYMC public warrants only for
+a whole number of shares of HYMC Common Stock. The HYMC public warrants will expire five years after the completion of the business
+combination, at 5:00 p.m., New York City time, or earlier upon redemption or liquidation.
+
+ 
+
+The Company is not obligated to deliver any shares of its HYMC
+Common Stock pursuant to the exercise of a HYMC public warrant and will have no obligation to settle such HYMC public warrant exercise
+unless a registration statement under the Securities Act with respect to the shares of HYMC Common Stock underlying the warrants
+is then effective and a prospectus relating thereto is current, subject to the Company satisfying its obligations described below
+with respect to registration. No HYMC public warrant will be exercisable, and the Company will not be obligated to issue any shares
+to holders seeking to exercise their HYMC public warrants, unless the shares of HYMC Common Stock issuable upon such warrant exercise
+have been registered, qualified or deemed to be exempt under the securities laws of the state of residence of the registered holder
+of the HYMC public warrants. In the event that the conditions in the two immediately preceding sentences are not satisfied with
+respect to an HYMC public warrant, the holder of such HYMC public warrant will not be entitled to exercise such HYMC public warrant
+and such HYMC public warrant may have no value and expire worthless. In no event will the Company be required to net cash settle
+any HYMC public warrant.
+
+ 
+
+The Company has agreed pursuant to the Registration Rights Agreement
+that as soon as practicable, but in no event later than fifteen (15) business days after the consummation
+of the business combination, it will use its best efforts to file with the SEC a registration
+statement on Form S-3, or Form S-1 if Form S-3 is not available, for the registration, under
+the Securities Act, of the shares of HYMC Common Stock issuable upon exercise of the HYMC public warrants. The Company will use
+its best efforts to cause the same to become effective and to maintain the effectiveness of such registration statement and a current
+prospectus relating thereto, until the expiration of the HYMC public warrants in accordance with the provisions of the warrant
+agreement. If a registration statement covering the shares of HYMC Common Stock issuable upon exercise of the HYMC public warrants
+is not effective by the sixtieth (60th) day after the closing of the business combination, HYMC public warrant holders may, until
+such time as there is an effective registration statement and during any period when we will have failed to maintain an effective
+registration statement, exercise warrants on a “cashless basis” in accordance with Section 3(a)(9) of the Securities
+Act or another exemption.
+
+ 
+
+Once the HYMC public warrants become exercisable,
+the Company may call the HYMC public warrants for redemption:
+
+ 
+
+
+•in whole and not in part;
+
+
+ 
+
+
+•at a price of $0.01 per public warrant;
+
+
+ 
+
+
+•upon not less than 30 days’ prior written notice
+of redemption (the “30 day redemption period”) to each HYMC public warrant holder; and
+
+
+ 
+
+
+•if, and only if, the last reported sale price of the
+HYMC Common Stock equals or exceeds $18.00 per share (as adjusted for share splits, share capitalizations, reorganizations, recapitalizations
+and the like) for any 20 trading days within a 30 trading day period ending three business days prior to the date the Company
+sends the notice of redemption to the HYMC public warrant holders.
+
+
+ 
+
+If and when the HYMC public warrants become redeemable, the
+Company may exercise its redemption right even if it is unable to register or qualify the underlying securities for sale under
+all applicable state securities laws.
+
+ 
+
+If the foregoing conditions are satisfied and the Company issues
+a notice of redemption of the HYMC public warrants, each HYMC public warrant holder will be entitled to exercise his, her or its
+HYMC public warrant prior to the scheduled redemption date. However, the price of the HYMC Common Stock may fall below the $18.00
+redemption trigger price (as adjusted for share splits, share capitalizations, reorganizations, recapitalizations and the like)
+as well as the $11.50 per share warrant exercise price after the redemption notice is issued.
+
+ 
+
+
+
+
+    28 
+     
+    
+
+ 
+
+If the Company calls the HYMC public warrants for redemption
+as described above, the Company’s management will have the option to require any holder that wishes to exercise his, her
+or its HYMC public warrant to do so on a “cashless basis.” In determining whether to require all holders to exercise
+their public warrants on a “cashless basis,” the Company’s management will consider, among other factors, the
+Company’s cash position, the number of HYMC public warrants that are outstanding and the dilutive effect on stockholders
+of issuing the maximum number of shares of HYMC Common Stock issuable upon the exercise of its HYMC public warrants. If the Company
+board of directors takes advantage of this option, all holders of HYMC public warrants would pay the exercise price by surrendering
+their HYMC public warrants for that number of shares of HYMC Common Stock equal to the quotient obtained by dividing (x) the product
+of the number of shares of HYMC Common Stock underlying the HYMC public warrants, multiplied by the difference between the exercise
+price of the HYMC public warrants and the “fair market value” (defined below) by (y) the fair market value. The “fair
+market value” shall mean the average reported closing price of the HYMC Common Stock for the ten trading days ending on the
+third trading day prior to the date on which the notice of redemption is sent to the holders of warrants. If the Company’s
+management takes advantage of this option, the notice of redemption will contain the information necessary to calculate the number
+of shares of HYMC Common Stock to be received upon exercise of the HYMC public warrants, including the “fair market value”
+in such case. Requiring a cashless exercise in this manner will reduce the number of shares to be issued and thereby lessen the
+dilutive effect of a HYMC public warrant redemption. If the Company’s management does not take advantage of this option,
+sponsor and its permitted transferees would still be entitled to exercise their HYMC private placement warrants described in “
+– HYMC Private Placement Warrants” below for cash or on a cashless basis using the same formula described above
+that other HYMC warrant holders would have been required to use had all HYMC public warrant holders been required to exercise their
+HYMC public warrants on a cashless basis, as described in more detail below.
+
+ 
+
+A holder of a HYMC public warrant
+may notify the Company in writing in the event it elects to be subject to a requirement that such
+holder will not have the right to exercise such public warrant, to the extent that after giving effect to such exercise, such person
+(together with such person’s affiliates), to the HYMC public warrant agent’s actual knowledge, would beneficially own
+in excess of 4.9% or 9.8% (or such other amount as specified by the holder) of the shares of HYMC Common Stock outstanding
+immediately after giving effect to such exercise.
+
+ 
+
+If the number of outstanding shares
+of HYMC Common Stock is increased by a stock dividend payable in shares of HYMC Common
+Stock, or by a split-up of HYMC Common Stock or other similar
+event, then, on the effective date of such stock dividend, split-up or similar event, the number of shares of HYMC Common
+Stock issuable on exercise of each HYMC public warrant will be increased in proportion to such increase
+in outstanding HYMC Common Stock. A rights offering to holders of shares of HYMC Common
+Stock entitling holders to purchase shares of HYMC Common Stock at
+a price less than the fair market value will be deemed a stock dividend of a number of shares of HYMC Common Stock equal to the
+product of (i) the number of shares of HYMC Common Stock actually sold in such rights offering
+(or issuable under any other equity securities sold in such rights offering that are convertible into or exercisable for HYMC
+Common Stock) and (ii) the quotient of (x) the price per share of HYMC Common Stock paid
+in such rights offering and (y) the fair market value. For these purposes, (i) if the rights offering is for securities convertible
+into or exercisable for HYMC Common Stock, in determining the price payable for the HYMC
+Common Stock, there will be taken into account any consideration received for such rights, as well
+as any additional amount payable upon exercise or conversion and (ii) fair market value means the volume weighted average price
+of the HYMC Common Stock as reported during the ten trading day period ending on the trading day prior to the first date on which
+the HYMC Common Stock trade on the applicable exchange or in the applicable market, regular
+way, without the right to receive such rights.
+
+ 
+
+In addition, if the Company, at
+any time while the HYMC public warrants are outstanding and unexpired, pays a dividend or makes a distribution in cash, securities
+or other assets to the holders of shares of HYMC Common Stock on account of such HYMC
+Common Stock (or other shares of our share capital into which the warrants are convertible), other
+than (a) as described above, (b) certain ordinary cash dividends, (c) to satisfy the redemption rights of the holders of shares
+of HYMC Common Stock in connection with the business combination, (d) to satisfy the redemption
+rights of the holders of HYMC Common Stock in connection with a stockholder vote to amend the
+existing charter (i) to modify the substance or timing of our obligation to redeem 100% of HYMC Common Stock if
+we do not complete our initial business combination within 24 months from the closing of IPO or (ii) with respect to any other
+provision relating to stockholders’ rights or pre-initial business combination activity, or (e) in connection with the redemption
+of our public shares upon our failure to complete our initial business combination, then the warrant exercise price will be decreased,
+effective immediately after the effective date of such event, by the amount of cash and/or the fair market value of any securities
+or other assets paid on each share of HYMC Common Stock in respect of such event.
+
+  
+
+
+    29 
+     
+    
+
+
+
+ 
+
+If the number of outstanding shares
+of HYMC Common Stock is decreased by a consolidation, combination, reverse share split or reclassification
+of shares of HYMC Common Stock or other similar event, then, on the effective date of such
+consolidation, combination, reverse share split, reclassification or similar event, the number of HYMC Common Stock issuable
+on exercise of each HYMC public warrant will be decreased in proportion to such decrease in outstanding share of HYMC Common
+Stock.
+
+ 
+
+Whenever the number of shares of
+HYMC Common Stock purchasable upon the exercise of the HYMC public warrants is adjusted, as
+described above, the HYMC public warrant exercise price will be adjusted by multiplying the HYMC public warrant exercise price
+immediately prior to such adjustment by a fraction (x) the numerator of which will be the number of shares of HYMC Common
+Stock purchasable upon the exercise of the HYMC public warrants immediately prior to such adjustment
+and (y) the denominator of which will be the number of shares of HYMC Common Stock so purchasable
+immediately thereafter.
+
+ 
+
+In case of any reclassification
+or reorganization of the outstanding shares of HYMC Common Stock (other than those described
+above or that solely affects the par value of such HYMC Common Stock), or in the case of any
+merger or consolidation of the Company with or into another corporation (other than a consolidation or merger in which the Company
+is the continuing corporation and that does not result in any reclassification or reorganization of the outstanding shares of HYMC
+Common Stock), or in the case of any sale or conveyance to another corporation or entity of the Company’s assets or other
+property as an entirety or substantially as an entirety in connection with which the Company is dissolved, the holders of the public
+warrants will thereafter have the right to purchase and receive, upon the basis and upon the terms and conditions specified in
+the HYMC public warrants and in lieu of the shares of HYMC Common Stock immediately theretofore
+purchasable and receivable upon the exercise of the rights represented thereby, the kind and amount of shares or other securities
+or property (including cash) receivable upon such reclassification, reorganization, merger or consolidation, or upon a dissolution
+following any such sale or transfer, that the holder of the HYMC public warrants would have received if such holder had exercised
+his, her or its warrants immediately prior to such event. If less than 70% of the consideration receivable by the holders of shares
+of HYMC Common Stock in such transaction is payable in the form of shares of common
+stock in the successor entity that is listed for trading on a national securities exchange or is quoted
+in an established over-the-counter market, or is to be so listed for trading or quoted immediately following such event, and if
+the registered holder of the HYMC public warrant properly exercises the HYMC public warrant within 30 days following public disclosure
+of such transaction, the HYMC public warrant exercise price will be reduced as specified in the HYMC Warrant Agreement based on
+the Black-Scholes value (as defined in the HYMC Warrant Agreement) of the HYMC public warrant . The purpose of such exercise price
+reduction is to provide additional value to holders of the HYMC public warrants when an extraordinary transaction occurs during
+the exercise period of the HYMC public warrants pursuant to which the holders of the HYMC public warrants otherwise do not receive
+the full potential value of the HYMC public warrants.
+
+ 
+
+The HYMC public warrants have been issued in
+registered form under the HYMC Warrant Agreement between Continental Stock Transfer & Trust Company, as warrant agent, and
+HYMC. The HYMC Warrant Agreement provides that the terms of the HYMC public warrants may be amended without the consent of any
+holder to cure any ambiguity or correct any defective provision, but requires the approval by the holders of at least 65% of the
+then issued and outstanding HYMC public warrants to make any change that adversely affects the interests of the registered holders
+of HYMC public warrants, including any modification or amendment to increase the HYMC public warrant price or shorten the exercise
+period.
+
+ 
+
+The HYMC public warrants may be
+exercised upon surrender of the HYMC public warrant certificate on or prior to the expiration date at the offices of the HYMC warrant
+agent, with the exercise form on the reverse side of the HYMC public warrant certificate completed and executed as indicated, accompanied
+by full payment of the exercise price (or on a cashless basis, if applicable), by certified or official bank check payable to the
+Company, for the number of HYMC public warrants being exercised. The HYMC public warrant holders do not have the rights or privileges
+of holders of shares of HYMC Common Stock and any voting rights until they exercise their HYMC
+public warrants and receive shares of HYMC Common Stock. After the issuance of shares of HYMC
+Common Stock upon exercise of the HYMC public warrants, each holder will be entitled to one vote for
+each share held of record on all matters to be voted on by stockholders.
+
+ 
+
+
+
+
+    30 
+     
+    
+
+
+
+ 
+
+No fractional shares will be issued
+upon exercise of the HYMC public warrants. If, upon exercise of the HYMC public warrants, a holder would be entitled to receive
+a fractional interest in a share, the Company will, upon exercise, round down to the nearest whole number the number of shares
+of HYMC Common Stock to be issued to the HYMC public warrant holder.
+
+ 
+
+The foregoing description of the
+HYMC public warrants do not purport to be complete and are subject to and qualified in their entirety by reference to the HYMC
+Warrant Agreement, a copy of which is included as Exhibit 4.2 of this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+Private
+Placement Warrants
+
+ 
+
+The (a) 6,700,000 warrants to purchase
+one share of HYMC Common Stock issued to the sponsor pursuant to the Private Placement Warrant
+Purchase Agreement, dated as of January 15, 2018, by and between the Company and sponsor, (b) 1,040,000 warrants to purchase one
+share of HYMC Common Stock issued to Cantor pursuant to the Private Placement Warrant Purchase
+Agreement, dated as of January 15, 2018, by and between the Company and Cantor and the (c) 2,500,000 warrants to purchase one share
+of HYMC Common Stock issued to sponsor pursuant to the Forward Purchase Contract (all such
+warrants issued to the sponsor and Cantor, collectively, the “private placement warrants”), including the shares
+of HYMC Common Stock issuable upon exercise of the private placement warrants, are not transferable,
+assignable or salable until 30 days after the completion of the business combination (except, among other limited exceptions, to
+the Company’s officers and directors and other persons or entities affiliated with the sponsor or Cantor) and they will not
+be redeemable so long as they are held by the sponsor, Cantor or their permitted transferees. The sponsor, Cantor or their permitted
+transferees have the option to exercise the private placement warrants on a cashless basis. Except as described below, the private
+placement warrants have terms and provisions that are identical to those of the public warrants described above. If the private
+placement warrants are held by holders other than the sponsor, Cantor or their permitted transferees, the private placement warrants
+will be redeemable by the Company and exercisable by the holders on the same basis as the HYMC public warrants. For as long as
+the private placement warrants are held by Cantor or its designees or affiliates, they may not be exercised after February 7, 2023,
+which is five years from the effective date of the registration statement filed in connection with the IPO.
+
+ 
+
+If holders of the private placement
+warrants elect to exercise them on a cashless basis, they would pay the exercise price by surrendering their warrants for that
+number of shares of HYMC Common Stock equal to the quotient obtained by dividing (x) the product
+of the number of shares of HYMC Common Stock underlying the warrants, multiplied by the difference
+between the exercise price of the private placement warrants and the “fair market value” (defined below) by (y) the
+fair market value. The “fair market value” shall mean the average reported closing price of the HYMC Common
+Stock for the ten trading days ending on the third trading day prior to the date on which the notice
+of private placement warrant exercise is sent to the warrant agent.
+
+ 
+
+The foregoing description of the private placement warrants
+does not purport to be complete and are subject to and qualified in their entirety by reference to the HYMC Warrant Agreement,
+a copy of which is included as Exhibit 4.2 of this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+PIPE Warrants
+Issued in Private Investment
+
+ 
+
+On May 29, 2020, in connection with the closing
+of the business combination, the Company issued 7,596,309 shares of HYMC Common Stock pursuant to the Subscription Agreements and
+issued 3,249,999 PIPE warrants to the Initial Subscribers in the private investment. The PIPE warrants have substantially the same
+terms as the private placement warrants.
+
+ 
+
+The foregoing description of the PIPE warrants does not purport
+to be complete and are subject to and qualified in their entirety by reference to the Warrant Agreement included as Exhibit 4.3
+of this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+Assumed
+Hycroft Warrants
+
+ 
+
+Stockholders of Hycroft’s predecessor
+received warrants pursuant to the Hycroft Warrant Agreement with a 7-year term that represented 17.5% of the outstanding new Hycroft
+common stock (the “Hycroft warrants”). Pursuant to the Purchase Agreement, the liabilities and obligations under
+the Hycroft Warrant Agreement were assumed by the Company upon consummation of the transactions contemplated under the Purchase
+Agreement. Hycroft and the Company elected to treat the business combination as if it constituted a Fundamental Change under the
+Hycroft Warrant Agreement and each Hycroft warrant outstanding and unexercised immediately prior to the effective time is now exercisable
+to purchase shares of the HYMC Common Stock.
+
+
+
+ 
+
+
+    31 
+     
+    
+
+
+
+ 
+
+The initial number of shares of Hycroft common
+stock issuable upon exercise of the Hycroft warrants was determined by the Bankruptcy Court pursuant to Hycroft’s plan of
+reorganization. Pursuant to the Hycroft Warrant Agreement, the number of shares of Hycroft common stock for which a Hycroft warrant
+is exercisable, and the exercise price per share, are subject to adjustment from time to time upon the occurrence of certain events,
+including (i) any issuance of a dividend on Hycroft common stock, payable in cash or additional shares of Hycroft common stock,
+(ii) any subdivision, split, reclassification or recapitalization of outstanding Hycroft common stock into a greater number of
+shares, or (iii) any combination, reclassification or recapitalization of outstanding Hycroft common stock into a smaller number
+of shares. As set forth in the Hycroft Warrant Agreement, the exercise price of the Hycroft warrants on any exercise date will
+be equal to the product of (x) the amount obtained by dividing (A) Hycroft’s adjusted equity value, as defined in the Hycroft
+Warrant Agreement, as of such exercise date by (B) the total share number, as defined in the Hycroft Warrant Agreement, as of such
+date multiplied by (y) the cheap stock factor, as defined in the Hycroft Warrant Agreement, as of such date. Additionally, in the
+case of any reclassification or capital reorganization of Hycroft’s capital stock, the holder of each Hycroft warrant outstanding
+immediately prior to the occurrence of such reclassification or reorganization shall have the right to receive upon exercise of
+the applicable Hycroft warrant, the kind and amount of stock, other securities, cash or other property that such holder would have
+received if such Hycroft warrant had been exercised. As of June 1, 2020, there were 12,721,623 Hycroft warrants outstanding that
+were exercisable to purchase an aggregate of 3,210,213 shares of HYMC Common Stock. As of June 1, 2020, the exercise price of each
+Hycroft warrant is equal to $44.82 per share and each Hycroft warrant is exercisable into approximately 0.2523 shares of HYMC Common
+Stock.
+
+ 
+
+Under certain circumstances, such
+as a liquidity event, as defined in the Hycroft Warrant Agreement, the Hycroft warrants may be exercised on a cashless basis
+to the extent that, as of the exercise date, the fair market value, as defined in the Hycroft Warrant Agreement, of a share of
+HYMC Common Stock exceeds the exercise price, which cashless exercise would reduce the number of shares of HYMC Common Stock issuable.
+In the event of a liquidity event in which the fair market value, as defined in the Hycroft Warrant Agreement, of a share
+of HYMC Common Stock, as of the exercise date, exceeds the exercise price, no cashless exercise would be available. If any exercise
+of a Hycroft warrant would result in a fraction of a share of HYMC Common Stock, in lieu of
+issuing such fractional share, the Company may elect to make a cash payment in respect of such fractional share, in an amount equal
+to the product of such fraction multiplied by the fair market value, as defined in the Hycroft Warrant Agreement, of a share
+of HYMC Common Stock, as of the exercise date.
+
+ 
+
+In addition, if the Company issues (or, as provided in the Hycroft
+Warrant Agreement, is deemed to issue), after the effective date of the Hycroft warrants, any additional shares, as defined in
+the Hycroft Warrant Agreement, of HYMC Common Stock, without consideration or for consideration per share less than the fair market
+value of HYMC Common Stock immediately prior to such issuance or, if such additional shares are issued (or deemed to be issued)
+to any restricted person, as defined in the Hycroft Warrant Agreement, then the cheap stock factor, as defined in the Hycroft Warrant
+Agreement, shall be reduced, thereby increasing the number of shares of HYMC Common Stock for which a Hycroft warrant is exercisable
+and reducing the per share exercise price of the Hycroft warrants.
+
+ 
+
+Pursuant to the Hycroft Warrant Agreement, no Hycroft warrants
+may be transferred if such transfer would result in any violation of the Securities Act or any state securities laws or regulations,
+or any other applicable federal or state laws or order, unless the Company is then already subject to the reporting obligations
+under Sections 13 or 15(d) of the Exchange Act.
+
+ 
+
+Pursuant to the Hycroft Warrant Agreement, holders of Hycroft
+warrants are not entitled to any of the rights of a stockholder or a holder of any other securities of the Company. Holders of
+Hycroft warrants have no right to vote or to receive dividends or to consent or to receive notice as a stockholder in respect of
+any meeting of stockholders for the election of directors of the Company or of any other matter, or any rights whatsoever as stockholders
+of the Company (including appraisal rights, dissenters rights, subscription rights or otherwise), or be deemed the holder of capital
+stock of the Company.
+
+ 
+
+
+
+
+    32 
+     
+    
+
+ 
+
+Pursuant to the Hycroft Warrant Agreement, if the Company issues
+or sells equity securities to any person who was a stockholder of Hycroft’s predecessor on the effective date of the Hycroft
+warrants for consideration per share that is greater than the then exercise price of the Hycroft warrants, then each registered
+holder (or in the case of Hycroft warrants evidenced by global warrant certificates, each beneficial holder) that is an accredited
+investor would have the right for a period of 20 days after the Company delivers notice of such issuance or sale to such eligible
+holder, to participate in such issuance or sale on a pro rata basis (based on such eligible holder’s percentage ownership
+of shares of HYMC Common Stock) and all other outstanding options, warrants, or convertible securities that also have a pro rata
+right to participate in such issuance or sale.
+
+ 
+
+In addition, following the business combination, eligible holders
+are not entitled to participate in any of the following exempted issuances: (i) issuances of equity securities in connection with
+the refinancing or repayment of any indebtedness or debt securities of the Company or any of its subsidiaries, (ii) issuances of
+equity securities to employees, directors, consultants and other service providers pursuant to an equity compensation plan approved
+by the Company’s board of directors, (iii) issuances of equity securities by means of a pro rata distribution to all holders
+of HYMC Common Stock, (iv) issuances of equity securities in a public offering, and (v) issuances of equity securities upon exercise,
+conversion or exchange of any equity securities that were issued in any issuance described in any of the foregoing exempted issuances.
+Pursuant to the Hycroft Warrant Agreement, if the HYMC Common Stock is listed for trading on a national securities exchange, the
+Company must use commercially reasonable efforts to list the Hycroft warrants for trading on such national securities exchange
+(subject to applicable listing requirements). In addition, if any holder of shares of HYMC Common Stock is granted piggy-back registration
+rights, the holders of HYMC Common Stock issued upon exercise of the Hycroft warrants would also be granted piggyback registration
+rights on substantially the same terms as such other holder.
+
+ 
+
+Pursuant to the Hycroft Warrant Agreement, in the event of a
+merger of the Company into, or a consolidation of the Company with, or a sale of all or substantially all of the Company’s
+assets to, any other person, or any merger of another person into the Company, in each case, in which the previously outstanding
+shares of HYMC Common Stock are cancelled, reclassified or converted or changed into or exchanged for securities of the Company
+and/or other property (including cash), and such transaction is not a liquidity event, as defined in the Hycroft Warrant Agreement,
+the holder of each Hycroft warrant would have the right upon any subsequent exercise (and payment of the applicable exercise price)
+to receive (out of legally available funds) the kind and amount of stock, other securities, cash and assets that such holder would
+have received if such Hycroft warrant had been exercised immediately prior to such transaction.
+
+ 
+
+Pursuant to the Hycroft Warrant Agreement, if the Company shall
+be a party to or otherwise engage in any transaction or series of related transactions constituting (x) a merger of the Company
+into, a consolidation of the Company with, or a sale of all or substantially all of the Company’s assets to, any other person,
+or (y) any merger of another person into the Company in which, in the case of clause (x) or clause (y), the previously outstanding
+shares of HYMC Common Stock shall be cancelled, reclassified or converted or changed into or exchanged for securities of the Company
+or other property (including cash) or any combination of the foregoing; and (ii) such transaction or series of related transactions
+is not a liquidity event (as defined in the Hycroft Warrant Agreement) (any such transaction or series of related transactions,
+is referred to as a “Fundamental Change” under the Hycroft Warrant Agreement), the holder of each Hycroft warrant outstanding
+immediately prior to the occurrence of such Fundamental Change will have the right upon any subsequent exercise (and payment of
+the applicable exercise price) to receive the kind and amount of stock, other securities, cash and assets that such holder of a
+Hycroft warrant would have received if such Hycroft warrant had been exercised pursuant to the terms provided in the Hycroft Warrant
+Agreement immediately prior to such Fundamental Change (assuming such holder of a Hycroft warrant failed to exercise his, her or
+its rights of election, if any, as to the kind or amount of stock, securities, cash or other property receivable upon such Fundamental
+Change); provided, however, that the amount of such stock, other securities, cash and assets that would be received upon exercise
+of a Hycroft warrant following the consummation of such Fundamental Change shall be calculated on the applicable exercise date
+in a manner consistent with, and on terms as nearly as equivalent as practicable to, the provisions of the Hycroft Warrant Agreement
+regarding (i) the number of securities into which the Hycroft warrant shall be exercisable and (ii) the exercise price for the
+purchase of such securities under the Hycroft warrant, with respect to the aggregate consideration received by the Company stockholders
+in such Fundamental Change. The Hycroft Warrant Agreement further provides that upon each Fundamental Change, appropriate adjustment
+shall be deemed to be made, including, without limitation, with respect to the kind and amount of stock, securities, cash or assets
+thereafter acquirable upon exercise of each Hycroft warrant, such that the provisions of the Hycroft Warrant Agreement shall thereafter
+be applicable, as nearly as possible, to any shares of stock, securities, cash or assets thereafter acquirable upon exercise of
+each Hycroft warrant. If the Company is not the surviving or resulting person from such Fundamental Change, the Company may not
+consummate a Fundamental Change transaction unless the surviving or resulting person assumes, by written instrument substantially
+similar in form and substance to this Agreement, the obligation to deliver to the holders of Hycroft warrants such shares of stock,
+securities, cash or assets which such holder would be entitled to receive upon exercise of each Hycroft warrant.
+
+ 
+
+
+    33 
+     
+    
+
+
+
+ 
+
+The foregoing description of the Hycroft warrants does not purport
+to be complete and are subject to and qualified in their entirety by reference to the Hycroft Warrant Agreement, a copy of which
+is included as Exhibit 4.1 of this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+INDEMNIFICATION OF DIRECTORS AND OFFICERS
+
+ 
+
+The disclosure in Item 5.02(d) of this Current Report on Form
+8-K concerning indemnification agreements entered into by the Company’s directors and executive officers is incorporated
+herein by reference.
+
+ 
+
+The indemnification agreements, the Second Amended and Restated
+Charter and the Amended and Restated Bylaws require the Company to indemnify all directors and officers to the fullest extent permitted
+by Delaware law against any and all expenses, judgments, liabilities, fines, penalties, and amounts paid in settlement of any claims.
+The indemnification agreements, the Second Amended and Restated Charter and the Amended and Restated Bylaws require the Company
+also provide for the advancement or payment of all expenses to the indemnitee and for reimbursement to the Company, provided that
+the indemnified officer or director agree to repay all amounts so advanced if it is found that such indemnitee is not entitled
+to such indemnification under applicable law.
+
+ 
+
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ 
+
+Reference is made to the disclosure set forth in Item 9.01
+of this Current Report on Form 8-K concerning the Company’s and Hycroft’s financial statements, which are incorporated
+herein by reference.
+
+ 
+
+Further reference is made to the section entitled “Management’s
+Discussion and Analysis of Financial Condition and Results of Operations” as set forth above in Item 2.01, which is
+incorporated herein by reference.
+
+ 
+
+
+Item 2.03.Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. 
+
+ 
+
+The disclosure regarding the Sprott Agreements in Item 2.01
+of this Current Report on Form 8-K are incorporated herein by reference. The disclosure concerning assumption of debt by the Company
+contained in the Proxy Statement/Prospectus in the section entitled “Description of Certain Indebedness-New Subordinated
+Notes” beginning on page 292 is incorporated herein by reference.
+
+ 
+
+
+Item 3.02.Unregistered Sales of Equity Securities. 
+
+ 
+
+The disclosure concerning the Company’s issuance of the
+founder shares, the shares issued to Cantor, the private placement warrants, shares of HYMC Common Stock and the PIPE warrants
+pursuant to the Subscription Agreements in connection with the PIPE Financing, the shares issued to Sprott pursuant to the Sprott
+Credit Agreement, and the shares issued pursuant to the Forward Purchase Contract contained in Item 2.01 of this Current Report
+on Form 8-K in the section entitled “Recent Sales of Unregistered Securities” is incorporated herein by reference.
+
+ 
+
+
+Item 3.03.Material Modification to Rights of Security Holders. 
+
+ 
+
+The disclosures concerning material modifications to the Company’s
+organizational documents contained in the Proxy Statement/Prospectus in the sections entitled “Proposals No. 2 Through
+8 – The Charter Proposals” and “Proposal No. 9 – The Director Election Proposal” beginning on
+page 312 are incorporated herein by reference.
+
+ 
+
+
+
+
+    34 
+     
+    
+
+ 
+
+
+Item 5.01.Changes in Control of Registrant.
+
+ 
+
+The disclosures in Item 2.01 and Item 5.02 of this Current Report
+on Form 8-K are incorporated herein by reference. As a result of the completion of the business combination pursuant to the Purchase
+Agreement, a change of control of the Company has occurred.
+
+ 
+
+
+Item 5.02.Departure of Directors or Certain Officers; Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangement of Certain Officers.
+
+
+ 
+
+(c) Effective as of immediately following the business combination
+on May 29, 2020, Randy Buffington became the Company’s Chairman, President and Chief Executive Officer and Stephen M. Jones
+became Executive Vice President, Chief Financial Officer and Secretary. Biographical information for the newly appointed officers
+is included in the section entitled “Management After the Business Combination” beginning on page 270 of the
+Proxy Statement/Prospectus, which information is incorporated herein by reference. There are no family relationships among any
+of the Company’s directors and executive officers.
+
+ 
+
+Effective as of the closing of the business combination,
+2,508,002 shares of HYMC Common Stock, equal to 5% of the issued and outstanding shares of HYMC Common Stock immediately
+following the business combination have been reserved for issuance under the Incentive Plan, which Incentive Plan was
+approved by the Company’s stockholders in connection with the business combination. Messrs. Buffington and Jones will
+be entitled to participate in the Incentive Plan. Under the terms of employment agreements entered into by Hycroft with
+Messrs. Buffington and Jones, they were each entitled to an equity incentive award. In February 2019, the Company authorized
+time-based and performance-based equity incentive awards in the aggregate amount of $1,575,000 and $1,062,500 to Messrs.
+Buffington and Jones, respectively, in the form of restricted stock units convertible following vesting into shares of
+Hycroft common stock. Under the terms of those agreements and as provided in the Purchase Agreement, mirror replacement
+equity awards have been issued under the Incentive Plan to Messrs. Buffington and Jones in the amount of 80,072 shares and
+54,018 shares, respectively.
+
+ 
+
+(d) Effective as of immediately following the business combination,
+the size of the Company’s board of directors was increased from five to seven and the Company’s board was declassified
+so that each member of the Company’s board of directors is elected at each annual meeting of stockholders, as opposed to
+the Company having three classes of directors with only one class of directors being elected in each year and each class serving
+a three-year term. On May 29, 2020, the Company’s stockholders elected Randy Buffington, John Ellis, Michael Harrison, David
+Kirsch, Eugene Davis, Marni Wieshofer and Thomas Weng to serve as directors on the Company’s board of directors until the
+next annual meeting or when their successors are appointed.
+
+ 
+
+Eugene Davis, Thomas Weng and Marni Wieshofer were appointed
+as members of the Audit Committee after the business combination. Marni Wieshofer was appointed as chair of the Audit Committee.
+John Ellis, David Kirsch and Marni Wieshofer were appointed as members of the Compensation Committee after the business combination
+and Mr. Kirsch was appointed as chairman of the Compensation Committee. Eugene Davis, David Kirsch and Thomas Weng were appointed
+as members of the Nominating and Governance Committee after the business combination and Mr. Davis was appointed as chairman of
+the Nominating and Governance Committee. John Ellis, Michael Harrison and Randy Buffington were appointed as members of the Safety,
+Sustainability and Technical Committee after the business combination and Mr. Ellis was appointed as chairman of the Safety, Sustainability
+and Technical Committee.
+
+ 
+
+Biographical information for the newly appointed directors is
+included in the section entitled “Management After the Business Combination” beginning on page 270 of the Proxy
+Statement/Prospectus, which information is incorporated herein by reference. The Company expects to provide compensation to its
+non-employee directors for their services. This compensation will be reported in the Company’s reports pursuant to the Exchange
+Act as required by the Exchange Act and regulations promulgated thereunder. In connection with the business combination, the Company
+executed indemnification agreements with each of its directors and executive officers. The form of these indemnification agreements
+is attached as Exhibit 10.6 to this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+(e) To the extent required by Item 5.02(e) of Form 8-K, the
+disclosures in Item 2.01 of this Current Report on Form 8-K are incorporated by reference. For a discussion of the Incentive Plan
+assumed by the Company in connection with the business combination, please refer to the section entitled “Proposal No. 10
+ – The Incentive Plan Proposal” commencing on page 320 of the Proxy Statement/Prospectus, which information is incorporated
+herein by reference.
+
+ 
+
+
+
+
+    35 
+     
+    
+
+ 
+
+
+
+
+Item 5.06.Change in Shell Company Status. 
+
+ 
+
+As a result of the business combination,
+the Company ceased being a shell company. The disclosure contained in Item 2.01 of this Current Report on Form 8-K is incorporated
+herein by reference.
+
+
+
+ 
+
+
+Item 9.01.Financial Statements and Exhibits.
+
+ 
+
+
+(a)Financial statements of business acquired.
+
+
+ 
+
+Audited financial statements of Hycroft for the fiscal
+years ended December 31, 2019 and 2018 were previously filed as part of Amendment No. 2 to the registration statement
+filed with the SEC on April 24, 2020 (File No. 333-236460) (the “Amended Registration Statement”), beginning on
+page F-21, which information is incorporated herein by reference. Unaudited financial statements of Hycroft for the three
+months ended March 31, 2020 are included as Exhibit 99.2 to this Current Report on Form 8-K.
+
+ 
+
+Audited financial statements of the Company for the fiscal
+years ended December 31, 2019 and 2018 were previously filed as part of the Amended Registration Statement, beginning on
+page F-2, which information is incorporated herein. Unaudited financial statements of the Company for the three months ended
+March 31, 2020 were previously filed on the Company’s quarterly report on Form 10-Q for the quarter ended March 31,
+2020, filed on May 8, 2020.
+
+ 
+
+
+(b)Pro forma financial information.
+
+
+ 
+
+Unaudited pro forma condensed combined financial information
+for the year ended December 31, 2019 was previously filed as part of the Proxy Statement/Prospectus in the section entitled “Unaudited
+Pro Forma Condensed Combined Financial Information” beginning on page 172, which information is incorporated herein by
+reference. The updated unaudited pro forma condensed combined financial information as of March 31, 2020, is included as Exhibit
+99.5 to this Current Report on Form 8-K.
+
+ 
+
+
+(c)Shell company.
+
+
+ 
+
+See (a) and (b) of this Item 9.01.
+
+ 
+
+
+(d)Exhibits
+
+
+ 
+
+The list of exhibits
+is set forth on the Exhibit Index of this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+
+
+    36 
+     
+    
+
+ 
+
+EXHIBIT INDEX
+
+ 
+
+
+
+    Exhibit
+Number
+     
+    Description
+
+    2.1
+     
+    Purchase Agreement, dated as of January 13, 2020, by and among Mudrick Capital Acquisition Corporation, MUDS Acquisition Sub, Inc. and Hycroft Mining Corporation (Incorporated by reference to Exhibit 2.1. to the Registrant’s Form 8-K, filed with the SEC on January 14, 2020).
+
+    2.2
+     
+    Amendment to Purchase Agreement, dated as of February 26, 2020, by and among Mudrick Capital Acquisition Corporation, MUDS Acquisition Sub, Inc. and Hycroft Mining Corporation (incorporated by reference to Annex A-1 to the joint proxy statement/prospectus on Form S-4 of the Registrant filed with the SEC on April 7, 2020).
+
+    3.1
+     
+    Second Amended and Restated Certificate of Incorporation of Mudrick Capital Acquisition Corporation.*
+
+    3.2
+     
+    Amended and Restated Bylaws of Mudrick Capital Acquisition Corporation.*
+
+    4.1
+     
+    Warrant Agreement, dated as of October 22, 2015, by and between Hycroft Mining Corporation, Computershare Inc. and its wholly-owned subsidiary, Computershare Trust Company N.A., a federally chartered trust company, collectively as warrant agent (Incorporated by reference to Exhibit 10.11 to the joint proxy statement/prospectus on Form S-4/A of the Registrant filed with the SEC on April 7, 2020).
+
+    4.2
+     
+    Warrant Agreement, dated February 7, 2018, by and between and Mudrick Capital Acquisition Corporation and Continental Stock Transfer & Trust Company, LLC (Incorporated by reference to Exhibit 4.1 to the Registrant’s Form 8-K, filed with the SEC on February 13, 2018).
+
+    4.3
+     
+    Warrant Agreement, dated May 28, 2020, by and between Hycroft Mining Holding Corporation (f/k/a/ Mudrick Capital Acquisition Corporation) and Continental Stock Transfer & Trust Company, LLC.*
+
+    10.1
+     
+    Amended and Restated Credit Agreement, dated as of May 29, 2020, by and between Hycroft Mining Holding Corporation, as borrower, MUDS Acquisition Sub, Inc., MUDS Holdco, Inc., Hycroft Resources & Development, LLC and Allied VGH LLC, as guarantors, Sprott Private Resource Lending II (Collector), LP, as lender, and Sprott Resource Lending Corp., as arranger.*
+
+    10.2
+     
+    Sprott Royalty Agreement, dated May 29, 2020, by and between the Registrant, Hycroft Resources & Development, LLC and Sprott Private Resource Lending II (Co) Inc.*
+
+    10.3
+     
+    Form of Subscription/Backstop Agreement, dated January 13, 2020, entered into by Mudrick Capital Acquisition Corporation, and certain investment funds affiliated with or managed by Mudrick Capital Management, L.P., Whitebox Advisors LLC, Highbridge Capital Management, LLC, Aristeia Capital, LLC or Wolverine Asset Management, LLC (Incorporated by reference to Exhibit 10.1 to the joint proxy statement/prospectus on Form S-4 of the Registrant filed with the SEC on February 14, 2020).
+
+    10.4
+     
+    Form of Amendment to Subscription Agreement, dated May 28,2020 entered into by Mudrick Capital Acquisition Corporation, and certain investment funds affiliated with or managed by Mudrick Capital Management, L.P.,  Whitebox Advisors LLC, Highbridge Capital Management, LLC, Aristeia Capital, LLC or Wolverine Asset Management, LLC.*
+
+    10.5
+     
+    Amended and Restated Registration Rights Agreement, dated May 29, 2020, by and between Mudrick Capital Acquisition Corporation, Mudrick Capital Acquisition Holdings LLC, Cantor Fitzgerald & Co.  and the restricted stockholders.*
+
+    10.6
+     
+    Form of Indemnification Agreement of the Registrant entered May 29, 2020 by Randy Buffington, John Ellis, Michael Harrison, David Kirsch, Eugene Davis, Marni Wieshofer, Thomas Weng or Stephen M. Jones.* 
+
+
+ 
+
+
+
+
+    37 
+     
+    
+
+ 
+
+
+
+    10.7
+     
+    HYMC 2020 Performance and Incentive Pay Plan.*
+
+    10.8
+     
+    Employment Agreement, dated March 15, 2019, by and between Hycroft Mining Corporation and Randy Buffington.*
+
+    10.9
+     
+    Employment Agreement, dated March 15, 2019, by and between Hycroft Mining Corporation and Stephen M. Jones.*
+
+    10.10
+     
+    Seller Support Agreement, dated as of January 13, 2020, by and among Mudrick Capital Acquisition Corporation and certain investment funds affiliated with or managed by Mudrick Capital Management, L.P., Whitebox Advisors LLC, Highbridge Capital Management, LLC, Aristeia Capital, LLC and Wolverine Asset Management, LLC (Incorporated by reference to Exhibit 10.2 to the joint proxy statement/prospectus on Form S-4 of the Registrant filed with the SEC on February 14, 2020).
+
+    10.11
+     
+    Exchange Agreement, dated as of January 13, 2020, by and among MUDS Acquisition Sub, Inc., Hycroft Mining Corporation and certain investment funds affiliated with or managed by Mudrick Capital Management, L.P., Whitebox Advisors LLC, Highbridge Capital Management, LLC, Aristeia Capital, LLC and Wolverine Asset Management, LLC, in each case, signatory thereto (Incorporated by reference to Exhibit 10.3 to the joint proxy statement/prospectus on Form S-4 of the Registrant filed with the SEC on February 14, 2020).
+
+    10.12
+     
+    Omnibus Amendment to Note Purchase Agreements and Exchange Agreement, dated May 28, 2020 by and between MUDS Acquisition Sub, Inc., Hycroft Mining Corporation and certain of its direct and indirect subsidiaries and certain investment funds affiliated with or managed by Mudrick Capital Management, L.P., Whitebox Advisors LLC, Highbridge Capital Management, LLC, Aristeia Capital, LLC and Wolverine Asset Management, LLC, in each case, signatory thereto.*
+
+    10.13
+     
+    Note Exchange Agreement, dated as of January 13, 2020, by and among Hycroft Mining Corporation and certain investment funds affiliated with or managed by Mudrick Capital Management, L.P., Whitebox Advisors LLC, Highbridge Capital Management, LLC, Aristeia Capital, LLC or Wolverine Asset Management, LLC, in each case, signatory thereto (Incorporated by reference to Exhibit 10.7 to the joint proxy statement/prospectus on Form S-4 of the Registrant filed with the SEC on February 14, 2020).
+
+    10.14
+     
+    Omnibus Amendment to Note Purchase Agreements and Note Exchange Agreement, dated May 28, 2020 by and between MUDS Acquisition Sub, Inc., Hycroft Mining Corporation and certain of its direct and indirect subsidiaries and certain investment funds affiliated with or managed by Mudrick Capital Management, L.P., Whitebox Advisors LLC, Highbridge Capital Management, LLC, Aristeia Capital, LLC and Wolverine Asset Management, LLC, in each case, signatory thereto.*
+
+    10.15
+     
+    Parent Sponsor Letter Agreement, dated as of January 13, 2020, by and among Mudrick Capital Acquisition Holdings LLC and Mudrick Capital Acquisition Corporation (Incorporated by reference to Exhibit 10.4 to the joint proxy statement/prospectus on Form S-4 of the Registrant filed with the SEC on February 14, 2020).
+
+    10.16
+     
+    Forward Purchase Contract, dated January 24, 2018, between Mudrick Capital Acquisition Corporation and Mudrick Capital Acquisition Holdings LLC (Incorporated by reference to Exhibit 10.10 to the Registrant’s registration statement on Form S-1/A filed with the SEC on January 26, 2018).
+
+    10.17
+     
+    Underwriting Agreement, dated February 7, 2018, between the Registrant and Cantor Fitzgerald & Co. as representatives of the several underwriters (Incorporated by reference to Exhibit 1.1 to the Registrant’s Form 8-K filed with the SEC on February 13, 2018).
+
+    10.18
+     
+    Amendment to Underwriting Agreement, dated as of February 12, 2020, by and among the Registrant and Cantor Fitzgerald & Co., as representatives of the several underwriters (Incorporated by reference to Exhibit 10.1 to the Registrant’s Form 8-K, filed with the SEC on February 14, 2020).
+
+    10.19
+     
+    Restricted Stock Unit Agreement (Performance) dated as of February 20, 2019, by and between Hycroft Mining Corporation and Randy Buffington.*
+
+
+ 
+
+
+
+
+    38 
+     
+    
+
+ 
+
+
+
+    10.20
+     
+    Restricted Stock Unit Agreement (Time) dated as of February 20, 2019, by and between Hycroft Mining Corporation and Randy Buffington.*
+
+    10.21
+     
+    Restricted Stock Unit Agreement (Performance) dated as of February 20, 2019, by and between Hycroft Mining Corporation and Stephen Jones.*
+
+    10.22
+     
+    Restricted Stock Unit Agreement (Time) dated as of February 20, 2019, by and between Hycroft Mining Corporation and Stephen Jones.*
+
+    10.23
+     
+    Amendment to the Restricted Stock Unit Agreement (Performance) dated as of May 29, 2020, by and between Hycroft Mining Corporation and Randy Buffington.*
+
+    10.24
+     
+    Amendment to the Restricted Stock Unit Agreement (Time) dated as of May 29, 2020, by and between Hycroft Mining Corporation and Randy Buffington.*
+
+    10.25
+     
+    Amendment to the Restricted Stock Unit Agreement (Performance) dated as of May 29, 2020, by and between Hycroft Mining Corporation and Stephen Jones.*
+
+    10.26
+     
+    Amendment to the Restricted Stock Unit Agreement (Time) dated as of May 29, 2020, by and between Hycroft Mining Corporation and Stephen Jones.*
+
+    21.1
+     
+    Subsidiaries of the Registrant.*
+
+    99.1
+     
+    Audited
+    financial statements of Hycroft Mining Corporation for the fiscal years ended December 31, 2019 and 2018 (Incorporated
+    by reference to the financial statements beginning on Page F-21 included in the joint proxy statement/prospectus on Form
+    S-4/A of the Registrant filed with the SEC on April 24, 2020).
+
+    99.2
+     
+    Unaudited
+    financial statements of Hycroft Mining Corporation for the three months ended March 31, 2020 and 2019.*
+
+    99.3
+     
+    Audited
+    financial statements of Mudrick Capital Acquisition Corporation for the fiscal years ended December 31, 2019 and 2018
+    (Incorporated by reference to the financial statements beginning on Page F-2 included in the joint proxy statement/prospectus
+    on Form S-4/A of the Registrant filed with the SEC on April 24, 2020).
+
+    99.4
+     
+    Unaudited
+    financial statements of Mudrick Capital Acquisition Corporation for the three months ended March 31, 2020  and 2019
+    (Incorporated by reference to the Registrant’s quarterly report on Form 10-Q for the quarter ended March 31, 2020,
+    filed with the SEC on May 8, 2020).
+
+    99.5
+     
+    Unaudited pro forma condensed combined financial information for the year ended December 31, 2019 (Incorporated by reference to the section entitled “Unaudited Pro Forma Condensed Combined Financial Information” beginning on page 172 in the joint proxy statement/prospectus on Form S-4/A of the Registrant filed with the SEC on April 24, 2020).
+
+    99.6
+     
+    Updated unaudited pro forma condensed combined financial information as of March 31, 2020. *
+
+ 
+
+
+
+ 
+
+
+
+
+*Filed herewith
+
+
+
+
+ 
+
+
+
+    39 
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+    Dated: June 4, 2020
+    Hycroft Mining Holding Corporation
+
+     
+     
+     
+
+     
+    By:
+    /s/ Stephen M. Jones
+     
+
+     
+     
+    
+        Stephen M. Jones
+        Executive Vice President and
+        Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+     
+    
+
+ 
+
+
+
+

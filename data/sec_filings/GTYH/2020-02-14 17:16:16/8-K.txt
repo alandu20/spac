@@ -1,0 +1,342 @@
+
+8-K
+1
+tm208120d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+February 14, 2020
+
+ 
+
+GTY TECHNOLOGY HOLDINGS INC.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Massachusetts
+    001-37931
+    83-2860149
+
+    (State or other jurisdiction
+of incorporation)
+    (Commission
+File Number)
+    (IRS Employer
+Identification No.)
+
+ 
+
+1180 North Town Center Drive, Suite 100
+
+Las Vegas, Nevada 89144
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (702) 945-2898
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+ 
+
+
+
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Common Stock, par value $0.0001 per share
+     
+    GTYH
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company x
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+     
+     
+    
+
+ 
+
+
+
+    Item 1.01
+    Entry into a Material Definitive Agreement.
+
+ 
+
+On February 14,
+2020, GTY Technology Holdings Inc., a Massachusetts corporation (“GTY” or the “Company”) entered into
+a Credit Agreement by and among the Company, certain of its subsidiaries as guarantors, the lenders from time to time party
+thereto and Wilmington Trust, National Association, as Administrative Agent, with Nineteen77 Global Multi-Strategy Alpha
+Master Limited (“Nineteen77”), an affiliate of UBS O'Connor LLC, as Sole Lead Arranger and Sole Bookrunner (the
+ “Credit Agreement” and the facility thereunder, the “Credit Facility”).
+
+ 
+
+The Credit Facility
+is an unsecured term loan facility that provides for borrowing of term loans in an aggregate principal amount of $12,000,000. The
+Credit Facility has a maturity date of twelve (12) months from the borrowing of the term loans. On the closing date, the Company fully drew on the Credit Facility and the current outstanding balance is $12,000,000.
+
+ 
+
+Amounts outstanding,
+if any, under the Credit Facility bear interest from the date the term loans are first made until the last day of the fiscal month
+immediately following the six (6) month anniversary of such initial borrowing date (the “Initial Interest Period End Date”),
+at a rate per annum equal to twelve percent (12%).  Commencing on the first day of the fiscal month immediately following
+the Initial Interest Period End Date and on the first day of each fiscal month thereafter, the interest rate shall be increased
+by one percent (1%) per annum until the term loans have been paid in full in cash and all commitments under the Credit Agreement
+have terminated.
+
+ 
+
+The Credit Agreement
+does not contain any leverage or fixed charge coverage ratio financial covenants.
+
+ 
+
+The Credit Agreement
+contains various customary covenants that limit or prohibit the Company’s ability to, among other things: (i) incur or guarantee
+additional indebtedness; (ii) pay certain dividends on its capital stock or redeem, repurchase, retire or make distributions in
+respect of its capital stock or subordinated indebtedness or make certain other restricted payments; (iii) make certain loans,
+acquisitions, capital expenditures or investments; (iv) sell certain assets, including stock of its subsidiaries; (v) enter into
+certain sale and leaseback transactions; (vi) create or incur certain liens; (vii) consolidate, merge, sell, transfer or otherwise
+dispose of all or substantially all of its assets; (viii) enter into certain transactions with its affiliates; and (ix) engage
+in certain business activities.
+
+ 
+
+A violation of the
+covenants under the Credit Agreement may result in default or an event of default under the Credit Facility. Upon the occurrence
+of an event of default under the Credit Agreement, the requisite lenders could elect to declare all amounts of such indebtedness
+outstanding to be immediately due and payable and terminate any commitments to extend further credit.
+
+ 
+
+The Credit Agreement
+is not supported by a security interest in the assets of the Company, but is supported by the guarantors party to the Credit Agreement
+and to a related guaranty agreement.
+
+ 
+
+During the term of
+the Credit Agreement and subject to certain exceptions, the Company also granted Nineteen77 (or its affiliates) a right of first
+refusal if the Company elects to raise capital by way of an issuance of capital stock of the Company at a discount to the then
+current market trading price of Company’s common stock.
+
+ 
+
+The foregoing descriptions
+of the Credit Agreement do not purport to be complete and are qualified in their entireties by the terms of the Credit Agreement,
+a copy of which is attached hereto as Exhibit 10.1 and are incorporated herein by reference.
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+ 
+
+
+
+    (d)
+    Exhibits
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+    10.1
+     
+    Credit Agreement, dated as of February 14, 2020, by and among GTY Technology Holdings, Inc., its wholly-owned subsidiaries as guarantors, the lenders from time to time thereto and Wilmington Trust, National Association, as Administrative Agent, and Nineteen77 Global Multi-Strategy Alpha Master Limited, as sole lead arranger and sole bookrunner.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    GTY TECHNOLOGY HOLDINGS INC.
+
+     
+     
+     
+
+     
+    By: 
+    /s/ John Curran 
+    
+
+     
+     
+    Name: 
+    John Curran
+
+     
+     
+    Title:
+     Chief Financial Officer
+
+     
+     
+     
+
+    Dated: February 14, 2020
+     
+     
+
+ 
+
+
+     
+    
+
+
+
+
+
+

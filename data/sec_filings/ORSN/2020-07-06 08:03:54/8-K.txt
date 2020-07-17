@@ -1,0 +1,886 @@
+
+8-K
+1
+ea123686-8k_orisunacq.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+United
+States
+
+SECURITIES
+AND EXCHANGE COMMISSION 
+
+Washington,
+D.C. 20549 
+
+ 
+
+Form
+8-K 
+
+ 
+
+Current
+Report 
+
+Pursuant
+to Section 13 or 15(d) of the 
+
+Securities
+Exchange Act of 1934 
+
+ 
+
+June
+29, 2020
+
+Date
+of Report (Date of earliest event reported)
+
+ 
+
+Orisun
+Acquisition Corp.
+
+(Exact
+Name of Registrant as Specified in its Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39014
+     
+    83-2479505
+
+    (State or other jurisdiction
+                                                                                of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (I.R.S. Employer
+                                                                                Identification No.)
+
+ 
+
+
+
+    555
+    Madison Avenue, Room 543
+    New York, NY
+     
+    10022
+
+    (Address
+    of Principal Executive Offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (631) 220-3541
+
+ 
+
+N/A
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+
+    ☐
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+        of each exchange on
+        which
+        registered
+
+    Units,
+    each consisting of one share of Common Stock, $0.00001 par value, one Redeemable Warrant to acquire one-half of one share
+    of Common Stock, and one Right to acquire one-tenth (1/10) of a share of Common Stock
+     
+    ORSNU
+     
+    NASDAQ
+    Capital Market
+
+    Common
+    Stock
+     
+    ORSN
+     
+    NASDAQ
+    Capital Market
+
+    Warrants
+     
+    ORSNW
+     
+    NASDAQ
+    Capital Market
+
+    Rights
+     
+    ORSNR
+     
+    NASDAQ
+    Capital Market
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR
+§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+
+IMPORTANT
+NOTICES
+
+ 
+
+Important
+Notice Regarding Forward-Looking Statements
+
+ 
+
+This
+Current Report on Form 8-K contains certain “forward-looking statements” within the meaning of the Securities Act
+of 1933 and the Securities Exchange Act of 1934, both as amended. Statements that are not historical facts, including statements
+about the pending transactions among Orisun Acquisition Corp. (“Orisun”), Ucommune International Ltd (“Purchaser”),
+Everstone International Ltd (“Merger Sub”), and Ucommune Group Holdings Limited (“Ucommune”) and the transactions
+contemplated thereby, and the parties’ perspectives and expectations, are forward-looking statements. Such statements include,
+but are not limited to, statements regarding the proposed transaction, including the anticipated initial enterprise value and
+post-closing equity value, the benefits of the proposed transaction, integration plans, expected synergies and revenue opportunities,
+anticipated future financial and operating performance and results, including estimates for growth, the expected management and
+governance of the combined company, and the expected timing of the transactions. The words “expect,” “believe,”
+“estimate,” “intend,” “plan” and similar expressions indicate forward-looking statements.
+These forward-looking statements are not guarantees of future performance and are subject to various risks and uncertainties,
+assumptions (including assumptions about general economic, market, industry and operational factors), known or unknown, which
+could cause the actual results to vary materially from those indicated or anticipated.
+
+ 
+
+Such
+risks and uncertainties include, but are not limited to: (i) risks related to the expected timing and likelihood of completion
+of the pending transaction, including the risk that the transaction may not close due to one or more closing conditions to the
+transaction not being satisfied or waived, such as regulatory approvals not being obtained, on a timely basis or otherwise, or
+that a governmental entity prohibited, delayed or refused to grant approval for the consummation of the transaction or required
+certain conditions, limitations or restrictions in connection with such approvals; (ii) risks related to the ability of Orisun
+and Ucommune to successfully integrate the businesses; (iii) the occurrence of any event, change or other circumstances that could
+give rise to the termination of the applicable transaction agreements; (iv) the risk that there may be a material adverse change
+with respect to the financial position, performance, operations or prospects of Ucommune or Orisun; (v) risks related to disruption
+of management time from ongoing business operations due to the proposed transaction; (vi) the risk that any announcements relating
+to the proposed transaction could have adverse effects on the market price of Orisun’s securities; (vii) the risk that the
+proposed transaction and its announcement could have an adverse effect on the ability of Ucommune and Orisun to retain customers
+and retain and hire key personnel and maintain relationships with their suppliers and customers and on their operating results
+and businesses generally; (viii) the risk that the combined company may be unable to achieve cost-cutting synergies or it may
+take longer than expected to achieve those synergies; and (ix) risks associated with the financing of the proposed transaction.
+A further list and description of risks and uncertainties can be found in Orisun’s Annual Report on Form 10-K for the fiscal
+year ending December 31, 2019 filed with the SEC, in Orisun’s quarterly reports on Form 10-Q filed with the SEC subsequent
+thereto and in the Registration Statement on Form F-4 and proxy statement that will be filed with the SEC by the Purchaser in
+connection with the proposed transactions, and other documents that the parties may file or furnish with the SEC, which you are
+encouraged to read. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect,
+actual results may vary materially from those indicated or anticipated by such forward-looking statements. Accordingly, you are
+cautioned not to place undue reliance on these forward-looking statements. Forward-looking statements relate only to the date
+they were made, and Orisun, Purchaser, Merger Sub, Ucommune, and their subsidiaries undertake no obligation to update forward-looking
+statements to reflect events or circumstances after the date they were made except as required by law or applicable regulation.
+
+ 
+
+Additional
+Information and Where to Find It
+
+ 
+
+In
+connection with the transaction described herein, Orisun and Purchaser will file relevant materials with the Securities and Exchange
+Commission (the “SEC”), including the Registration Statement on Form F-4 and a proxy statement. The proxy statement
+and a proxy card will be mailed to stockholders as of a record date to be established for voting at the stockholders’ meeting
+relating to the proposed transactions. Stockholders will also be able to obtain a copy of the Registration Statement on Form F-4
+and proxy statement without charge from the Company. The Registration Statement on Form F-4 and proxy statement, once available,
+may also be obtained without charge at the SEC’s website at www.sec.gov or by writing to Orisun at 555 Madison Avenue, Room
+543 New York, NY. INVESTORS AND SECURITY HOLDERS OF ORISUN ARE URGED TO READ THESE MATERIALS (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS
+THERETO) AND ANY OTHER RELEVANT DOCUMENTS IN CONNECTION WITH THE TRANSACTIONS THAT ORISUN WILL FILE WITH THE SEC WHEN THEY BECOME
+AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT ORISUN, UCOMMUNE AND THE TRANSACTIONS.
+
+ 
+
+Participants
+in Solicitation
+
+ 
+
+Orisun,
+Purchaser, Merger Sub, Ucommune, certain shareholders of the Company, and their respective directors, executive officers and employees
+and other persons may be deemed to be participants in the solicitation of proxies from the holders of Orisun common stock in respect
+of the proposed transaction. Information about Orisun’s directors and executive officers and their ownership of Orisun’s
+common stock is set forth in Orisun’s Annual Report on Form 10-K for the year ended December 31, 2019 filed with the SEC.
+Other information regarding the interests of the participants in the proxy solicitation will be included in the proxy statement
+pertaining to the proposed transaction when it becomes available. These documents can be obtained free of charge from the sources
+indicated above.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+
+
+
+Item
+1.01 Entry into a Material definitive Agreement.
+
+ 
+
+On
+June 29, 2020, Orisun Acquisition Corp., a Delaware corporation (“Orisun”), Ucommune International Ltd, a Cayman
+Islands exempted company and a wholly-owned subsidiary of Orisun (“Purchaser”), Everstone International Ltd,
+a Cayman Islands exempted company and a wholly owned subsidiary of Purchaser (“Merger Sub,” together with Orisun,
+Purchaser, the “Purchaser Parties”), Ucommune Group Holdings Limited, a Cayman Islands exempted company (“Ucommune”),
+certain shareholders of Ucommune (“Ucommune Shareholders”), and Mr. Daqing Mao, as representative of shareholders
+of Ucommune, entered into a Merger Agreement (the “Agreement”).
+
+ 
+
+Acquisition
+Merger and Acquisition Consideration
+
+ 
+
+Upon
+the closing of the transactions contemplated in the Agreement, Orisun will merge with and into Purchaser, resulting in all Orisun
+stockholders becoming shareholders of the Purchaser as described under Reincorporation Merger (as defined below). Concurrently
+therewith, Merger Sub will merge with and into Ucommune, resulting in Purchaser acquiring 100% of the issued and outstanding equity
+securities of Ucommune (the “Acquisition Merger”). Upon the closing of the Acquisition Merger, ordinary shares
+of Purchaser shall be reclassified into class A (“Purchaser Class A Ordinary Shares”) and class B ordinary
+shares (“Purchaser Class B Ordinary Shares,” together with Purchaser Class A Ordinary Shares, collectively
+“Purchaser Ordinary Shares”) where each Purchaser Class A Ordinary Share shall be entitled to one (1) vote
+on all matters subject to vote at general and special meetings of the post-closing company and each Purchaser Class B Ordinary
+Share shall be entitled to fifteen (15) votes on all matters subject to vote at general and special meetings of the post-closing
+company. At the closing of the Acquisition Merger, the former Orisun security holders will receive the consideration specified
+below and the former Ucommune Shareholders will receive an aggregate of 53,358,932 Purchaser Class A Ordinary Shares and 9,452,407
+Class B Ordinary Shares, among which 3,140,567 Purchaser Ordinary Shares are to be issued and held in escrow to satisfy any indemnification
+obligations incurred under the Agreement. 7,188,661 Purchaser Class A Ordinary Shares will be reserved and authorized for issuance
+under the equity incentive plan upon closing.
+
+ 
+
+Additionally,
+certain Ucommune Shareholders may be entitled to receive earn-out shares as follows: (1) 2,000,000 Purchaser Class A Ordinary
+Shares if (x) the VWAP of the Purchaser Class A Ordinary Shares equals or exceeds $16.50 (or any foreign currency equivalent)
+in any twenty trading days within a thirty trading day period before December 31, 2022 on any securities exchange or securities
+market on which the Purchaser Ordinary Shares are then traded or (y) Ucommune’s revenue exceeds RMB850,000,000 in the fiscal
+year of 2020 pursuant to the audited consolidated financial statements of Ucommune as of and for the fiscal year ended December
+31, 2020; (2) 1,000,000 Purchaser Class A Ordinary Shares if (x) the VWAP of the Purchaser Class A Ordinary Shares equals or exceeds
+$22.75 (or any foreign currency equivalent) in any twenty trading days within a thirty trading day period before December 31,
+2023 on any securities exchange or securities market on which the Purchaser Ordinary Shares are then traded or (y) Ucommune’s
+revenue exceeds RMB1,275,000,000 in the fiscal year of 2021 pursuant to the audited consolidated financial statements of Ucommune
+as of and for the fiscal year ended December 31, 2021; and (3) 1,000,000 Purchaser Class A Ordinary Shares if (x) the VWAP of
+the Purchaser Class A Ordinary Shares equals or exceeds $30 (or any foreign currency equivalent) in any twenty trading days within
+a thirty trading day period before December 31, 2024 on any securities exchange or securities market on which the Purchaser Ordinary
+Shares are then traded or (y) Ucommune’s revenue exceeds RMB1,912,000,000 in the fiscal year of 2022 pursuant to the audited
+consolidated financial statements of Ucommune as of and for the fiscal year ended December 31, 2022.
+
+ 
+
+Furthermore,
+the parties agreed that immediately following the closing the Acquisition Merger, Purchaser’s board of directors will consist
+of seven directors, all of whom shall be designated by Ucommune and a majority of whom shall qualify as independent directors
+under Nasdaq rules.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Reincorporation
+Merger
+
+ 
+
+Concurrently with the Acquisition Merger, Orisun will be merged with and into Purchaser, the separate corporate existence of Orisun will
+cease and Purchaser will continue as the surviving corporation (the “Reincorporation Merger”). In connection
+with the Reincorporation Merger, each share of Orisun’s issued and outstanding capital stock will be converted into an equivalent
+amount of Purchaser’s capital stock: 
+
+ 
+
+
+●Each
+                                         share of Orisun’s common stock will be converted automatically into one Purchaser
+                                         Class A Ordinary Share;
+
+ 
+
+
+●Each
+                                         right to acquire one-tenth of one share of Orisun’s common stock will be converted
+                                         automatically into one right to acquire one-tenth of one Purchaser Class A Ordinary Share;
+                                         
+
+ 
+
+
+●Each
+                                         warrant entitled to purchase one half (1/2) of one share of Orisun’s common stock
+                                         at a price of $11.50 per whole share will be converted automatically into one warrant
+                                         to purchase one half (1/2) of one Purchaser Class A Ordinary Share at a price of $11.50
+                                         per whole share; 
+
+ 
+
+
+●Each
+                                         issued and outstanding unit of Orisun will be converted automatically into one unit of
+                                         Purchaser; and
+
+ 
+
+
+●Each
+                                         unit purchase option of Orisun will be converted automatically into one unit purchase
+                                         option of Purchaser. 
+
+ 
+
+Representations
+and Warranties
+
+ 
+
+In
+the Agreement, Ucommune and certain Ucommune Shareholders make certain representations and warranties (with certain exceptions
+set forth in the disclosure schedule to the Agreement) relating to, among other things: (a) proper corporate organization of Ucommune
+and its subsidiaries and similar corporate matters; (b) authorization, execution, delivery and enforceability of the Agreement
+and other transaction documents; (c) absence of conflicts; (d) capital structure; (e) accuracy of charter documents and corporate
+records; (f) required consents and approvals; (g) financial information; (h) absence of certain changes or events; (i) title to
+assets and properties; (j) material contracts; (k) ownership of real property; (l) licenses and permits; (m) compliance with laws,
+including those relating to foreign corrupt practices and money laundering; (n) ownership of intellectual property; (o) customers
+and suppliers; (p) employment and labor matters; (q) taxes matters; (r) environmental matters; (s) brokers and finders; (t) that
+Ucommune is not an investment company; and (u) other customary representations and warranties.
+
+ 
+
+In
+the Agreement, Orisun makes certain representations and warranties relating to, among other things: (a) proper corporate organization
+and similar corporate matters; (b) authorization, execution, delivery and enforceability of the Agreement and other transaction
+documents; (c) litigation; (d) brokers and finders; (e) capital structure; (f) validity of share issuance; (g) minimum trust fund
+amount; and (h) validity of Nasdaq Stock Market listing; (i) SEC filing requirements and financial statements; (j) material contracts;
+(k) compliance with laws, including those relating to foreign corrupt practices and money laundering.
+
+ 
+
+Conduct
+Prior to Closing; Covenants
+
+ 
+
+Each
+of Ucommune and Orisun has agreed to, and cause its subsidiaries to, operate the business in the ordinary course, consistent with
+past practices, prior to the closing of the transactions (with certain exceptions) and not to take certain specified actions without
+the prior written consent of the other party.
+
+ 
+
+The
+Agreement also contains covenants providing for:
+
+ 
+
+
+
+     
+    ●
+    Each
+    party providing access to their books and records and providing information relating to their respective business to the other
+    party, its legal counsel and other representatives;
+
+  
+
+
+
+     
+    ●
+    Ucommune
+    delivering the financial statements required by Orisun to make applicable filings with the SEC;
+
+  
+
+
+
+     
+    ●
+    Cooperation
+    in making certain filings with the SEC; and
+
+ 
+
+
+
+     
+    ●
+    Ucommune’s
+    agreement to pay certain amounts to extend the time Orisun has to complete a business combination under certain circumstances
+    and if necessary.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+Conditions
+to Closing
+
+ 
+
+General
+Conditions
+
+ 
+
+Consummation
+of the Agreement and the transactions herein is conditioned on, among other things, (i) the absence of any order or provisions
+of any applicable Law making the transactions illegal or otherwise preventing the transactions; (ii) Orisun and Ucommune receiving
+approval from their respective stockholders to the transactions, (iii) Orisun retaining its listing on Nasdaq and the additional
+listing application for the closing payment shares issued to shareholders of Ucommune being approved by Nasdaq; and (iv) each of
+the additional agreement as described in the Agreement being executed provided that the non-execution of the Lock-up Agreement
+(see below) by Ucommune Shareholders who are not the key personnel nor controlled by the key personnel as defined in the Merger
+Agreement and grantees of Ucommune’s options that are vested as of the closing, collectively holding no more than 5% of
+share capital in Ucommune immediately prior to the closing shall not affect the closing.
+
+ 
+
+Ucommune’s
+Conditions to Closing
+
+ 
+
+The
+obligations of Ucommune to consummate the transactions contemplated by the Agreement, in addition to the conditions described
+above, are conditioned upon each of the following, among other things:
+
+ 
+
+
+
+     
+    ●
+    Purchaser
+    Parties complying with all of their obligations under the Agreement in all material respects;
+
+ 
+
+
+
+     
+    ●
+    subject
+    to applicable materiality qualifiers, the representations and warranties of Purchaser Parties being true on and as of the
+    closing date of the transactions and Purchaser Parties complying with all required covenants in the Agreement;
+
+ 
+
+
+
+     
+    ●
+    Purchaser
+    Parties complying with the reporting requirements under the applicable Securities Act and Exchange Act; and
+
+ 
+
+
+
+     
+    ●
+    there
+    having been no material adverse effect to Purchaser Parties.
+
+ 
+
+Purchaser
+Parties’ Conditions to Closing
+
+ 
+
+The
+obligations of Purchaser Parties to consummate the transactions contemplated by the Agreement, in addition to the conditions described
+above in the first paragraph of this section, are conditioned upon each of the following, among other things:
+
+ 
+
+
+
+     
+    ●
+    Ucommune
+    and its subsidiaries complying with all of the obligations under the Agreement in all material respects;
+
+ 
+
+
+
+     
+    ●
+    subject
+    to applicable materiality qualifiers, the representations and warranties of Ucommune and its subsidiaries being true on and
+    as of the closing date of the transactions and Ucommune and its subsidiaries complying with all required covenants in the
+    Agreement;
+
+ 
+
+
+
+     
+    ●
+    there
+    having been no material adverse effect to Ucommune’s business; and
+
+ 
+
+
+
+     
+    ●
+    Orisun
+    receiving legal opinions from Ucommune’s counsels in the PRC and Cayman Islands.
+
+ 
+
+Termination
+
+ 
+
+The
+Agreement may be terminated and/or abandoned at any time prior to the closing, whether before or after approval of the proposals
+being presented to Orisun’s stockholders, by:
+
+ 
+
+
+
+     
+    ●
+    Orisun,
+    if the audited financial statements for the years ended December 31, 2019, 2018 and 2017 and the reviewed financial statements
+    of the Company as of and for the six (6) month period ended June 30, 2020  have not been delivered by August 21, 2020;
+
+  
+
+
+
+     
+    ●
+    either
+    Orisun or Ucommune, if the closing has not occurred by December 31, 2021, provided that no material breach of this Agreement
+    by the party seeking to terminate this Agreement shall have occurred or have been made;
+
+ 
+
+
+
+     
+    ●
+    Orisun,
+    if Ucommune has materially breached any representation, warranty, agreement or covenant contained in the Agreement or this
+    Agreement, the plan of merger or the transactions fail to be authorized or approved by the Ucommune Shareholders and such
+    breach has not been cured within fifteen (15) days following the receipt by Ucommune of a notice describing such breach, and
+    Orisun will be entitled to a break-up fee of $3,000,000 promptly after such termination; or
+
+ 
+
+
+
+     
+    ●
+    Ucommune,
+    if Orisun has materially breached any representation, warranty, agreement or covenant contained in the Agreement and such
+    breach has not been cured within fifteen (15) days following the receipt by Orisun a notice describing such breach, and Ucommune
+    will be entitled to a break-up fee of $3,000,000 promptly after such termination.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+Indemnification
+
+ 
+
+Until
+the six (6) months anniversary from and after the closing date, certain Ucommune Shareholders agreed to indemnify Purchaser from
+any losses incurred or sustained by the Purchaser arising from any breach, inaccuracy or nonfulfillment of any of the representations,
+warranties and covenants of Ucommune contained herein. The indemnification applies only to amounts (in aggregate) in excess of
+$1,000,000, and the indemnification obligations are capped at the value of the shares that are being held in escrow. Such indemnification
+can only be satisfied with the cancellation of Purchaser Ordinary Shares.
+
+ 
+
+The
+foregoing summary of the Agreement does not purport to be complete and is qualified in its entirety by reference to the actual
+agreement, which is filed as Exhibit 2.1 hereto.
+
+ 
+
+In
+addition to the Agreement, the following agreements will be entered into in connection with the closing of the business combination.
+
+ 
+
+Escrow
+Agreement
+
+ 
+
+In
+connection with the transactions, the Purchaser, Mr. Daqing Mao as the representative of Ucommune Shareholders and an escrow agent
+will enter into an Escrow Agreement pursuant to which Purchaser will deposit 3,140,567 of its Purchaser Ordinary Shares to secure
+the indemnification obligations as contemplated by the Agreement.
+
+ 
+
+Registration
+Rights Agreement 
+
+ 
+
+In
+connection with the transactions, Purchaser and certain Ucommune Shareholders may enter into a Registration Rights Agreement to
+provide for the registration of the Purchaser Ordinary Shares.
+
+ 
+
+Lock-Up
+Agreements
+
+ 
+
+In
+connection with the transactions, Purchaser will enter into a Lock-Up Agreement with each Ucommune Shareholder with respect to
+certain lock-up arrangements, which will provide that such Ucommune Shareholder will not, within certain period of time from the
+Closing of the transactions, offer, sell, contract to sell, pledge or otherwise dispose of, directly or indirectly, any of the
+shares issued in connection with the Acquisition, enter into a transaction that would have the same effect, or enter into any
+swap, hedge or other arrangement that transfers, in whole or in part, any of the economic consequences of ownership of such shares,
+whether any of these transactions are to be settled by delivery of any such shares, in cash, or otherwise.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+    2.1*
+     
+    Merger Agreement dated June 29, 2020
+
+    99.1
+     
+    Press Release dated July 6, 2020
+
+    99.2
+     
+    Form of Investor Presentation 
+
+
+ 
+
+
+
+    *
+    Schedules
+    and exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The registrant hereby undertakes to furnish copies
+    of any of the omitted schedules and exhibits upon request by the U.S. Securities and Exchange Commission.
+
+
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+Dated:
+July 6, 2020
+
+ 
+
+ORISUN
+ACQUISITION CORP.
+
+ 
+
+
+
+    By:
+    /s/
+    Wei Chen
+     
+
+    Name: 
+    Wei
+    Chen
+     
+
+    Title:
+    
+    Chief
+    Executive Officer
+     
+
+ 
+
+ 
+
+6
+
+
+
+ 
+
+ 
+
+
+
+

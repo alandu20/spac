@@ -1,0 +1,498 @@
+
+8-K
+1
+f8k111819_greenvision.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+   
+
+Form 8-K
+
+ 
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+November 18, 2019 
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+GREENVISION ACQUISITION CORPORATION
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39136
+     
+    84-3015108
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer
+Identification No.)
+
+ 
+
+
+
+    
+        One Penn Plaza
+        36th Floor
+        New York, New York 10019
+     
+    10019
+
+    (Address of principal executive offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: 212-786-7429
+
+ 
+
+N/A
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written communications pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act
+of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging growth ☒
+
+ 
+
+If an emerging growth Alberton, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ 
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of share of common stock,
+one redeemable warrant, and one right
+     
+    GRNVU
+     
+    The Nasdaq Stock Market LLC
+
+    common stock, $0.00001 par value
+     
+    GRNV
+     
+    The Nasdaq Stock Market LLC
+
+    Redeemable warrants, each warrant exercisable
+for one share of common stock
+     
+    GRNVW
+     
+    The Nasdaq Stock Market LLC
+
+    Rights, each to receive one-tenth (1/10) of one share of common stock
+     
+    GRNVR
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On November 18, 2019, the registration statement (File No.
+333-234282) (the “Registration Statement”) relating to the initial public offering (“IPO”) of GreenVision
+Acquisition Corporation (the “Company”) was declared effective by the Securities and Exchange Commission. In connection
+therewith, the Company entered into the following agreements, forms of which were previously filed as exhibits to the Registration
+Statement:
+
+
+
+     
+    •
+    An Underwriting Agreement, dated November 18, 2019, by and between the Company and I-Bankers Securities, Inc. (“IBankers”), as representative of the underwriters;
+
+     
+    •
+    A Warrant Agreement, dated November 18, 2019, by and between the Company and Continental Stock Transfer & Trust Company;
+
+     
+    •
+    A Rights Agreement, dated November 18, 2019, by and between the Company and Continental Stock Transfer & Trust Company;
+
+     
+    •
+    Letter Agreements, dated November 18, 2019, by and between the Company and each of the initial shareholders, officers and directors of the Company;
+
+     
+    •
+    An Investment Management Trust Agreement, November 18, 2019, by and between the Company and Continental Stock Transfer & Trust Company;
+
+     
+    •
+    A Stock Escrow Agreement, dated November 18, 2019, by and among the Company, Continental Stock Transfer & Trust Company and each of the initial shareholders of the Company; and
+
+     
+    •
+    A Registration Rights Agreement, dated November 18, 2019, by and between the Company and the initial shareholders of the Company.
+
+
+
+The material terms and conditions of the above agreements
+of the Company are fully described in the Company’s Registration Statement as filed with the Securities and Exchange Commission.
+
+On November 21, 2019, the Company consummated the IPO of 5,000,000
+units (the “Units”). In addition, the underwriters exercised in full the over-allotment option for an additional 750,000
+Units on such date, resulting in the issuance and sale of an aggregate of 5,750,000 Units.
+
+Each Unit consists of one share of common stock (“Share”),
+one warrant (“Warrant”) entitling its holder to purchase one Share at a price of $11.50 per Share, and one right to
+receive one-tenth (1/10) of one Share upon the consummation of the Company’s initial business combination.
+
+The Units were sold at an offering price of $10.00 per Unit,
+generating gross proceeds of $57,500,000.
+
+ 
+
+
+
+
+    1 
+     
+    
+
+
+
+In addition, the Company sold to
+I-Bankers, for $100, a share purchase warrant to purchase up to 287,500 shares exercisable at $12.50 per share, commencing on
+the later of the consummation of the Company’s initial business combination and   360 days from the effective date of
+the Registration Statement, pursuant to the  Share Purchase Warrant dated November 21, 2019, a copy of which is
+attached as Exhibit 4.3 to this Current Report on Form 8-K.
+
+ 
+
+As of November 21, 2019, a total of $57,500,000 of the net proceeds
+from the IPO and the Warrant Private Placement (as defined below in Item 3.02) were deposited in a trust account established for
+the benefit of the Company’s public shareholders, maintained by Continental Stock Transfer & Trust Company, acting
+as trustee, at an account at Morgan Stanley.
+
+ 
+
+An audited balance sheet as of November 21, 2019 reflecting receipt
+of the proceeds received by the Company in connection with the consummation of the IPO and the Warrant Private Placement (as defined
+below) will be included on a Current Report on Form 8-K to be filed by the Company within four business days of the consummation
+of the IPO.
+
+ 
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneously with the closing of the
+IPO, the Company consummated the private placement (“Private Placement”) with its sponsor, GreenVision Capital
+Holdings LLC. (“Sponsor”) for the purchase of 2,100,000 warrants (the “Private Warrants”) at a price of
+$1.00 per Private Warrant, generating total proceeds of $2,100,000, pursuant to the Sponsor Subscription Agreement dated
+September 19, 2019, a copy of which is attached as Exhibit 10.5 to the Registration Statement as filed with the
+Commission.
+
+ 
+
+The Sponsor has previously loaned the Company the sum of $411,000,
+evidence by a note (as previously filed as Exhibit 10.6 to the Registration Statement) which loan was payable upon the earlier
+of completion of the IPO or March 30, 2020. In connection with the completion of the IPO, the Sponsor instructed the Company to
+offset payment of the note with a corresponding portion of the subscription price for the Private Placement.
+
+ 
+
+The Private Warrants are identical to the Warrants sold in the IPO
+except that the Private Warrants are non-redeemable and may be exercised on a cashless basis, in each case so long as they continue
+to be held by the Sponsor or its permitted transferees. Additionally, because the Private Warrants were issued in a private transaction,
+the Sponsor and its permitted transferees will be allowed to exercise the Private Warrants for cash even if a registration statement
+covering the shares (2,100,000 shares) issuable upon exercise of such Private Warrants is not effective. The Sponsor has agreed
+not to transfer, assign or sell any of the Private Warrants (or underlying Shares) (except in limited circumstances, as described
+in the Registration Statement) until the completion of the Company’s initial business combination. The Sponsor was granted
+certain demand and piggyback registration rights in connection with the purchase of the Private Warrants and the original Shares
+(1,377,500 shares of Common Stock). Additionally, pursuant to the Registration Rights Agreement filed as Exhibit 10.4 to this Form
+8-K, two directors of the Company were also granted registration rights with respect to the shares (30,000 shares each) held by
+them.
+
+ 
+
+The Private Warrants were issued pursuant to Section 4(a)(2) of
+the Securities Act of 1933, as amended, as the transactions did not involve a public offering.
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+On November 18, 2019, the Company issued a press release, a copy
+of which is attached as Exhibit 99.1 to this Current Report on Form 8-K, announcing the effectiveness of the Registration
+Statement and the pricing of the IPO.
+
+ 
+
+
+
+
+    2 
+     
+    
+
+
+
+Item 9.01. Financial Statements and Exhibits.
+
+
+
+    (d)
+    Exhibits
+
+
+
+The following exhibits are being filed herewith:
+
+
+
+    Exhibit No.
+     
+    Description
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement, dated November 18, 2019, by and between the Registrant and I-Bankers Securities LLC;
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated November 18, 2019, by and between Continental Stock Transfer & Trust Company and the Registrant
+
+     
+     
+     
+
+    4.2
+     
+    Rights Agreement, dated November 18, 2019, by and between Continental Stock Transfer & Trust Company and the Registrant
+
+     
+     
+     
+
+    4.3
+     
+    Share Purchase Warrant between the Registrant and I-Bankers Securities Inc. dated November 21, 2019
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreements, dated November 18, 2019, by and between the Registrant and each of the initial stockholders, officers and directors of the Registrant
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated November 18, 2019, by and between Continental Stock Transfer & Trust Company and the Registrant
+
+     
+     
+     
+
+    10.3
+     
+    Stock Escrow Agreement, dated November 18, 2019, among the Registrant, Continental Stock Transfer & Trust Company and the initial shareholders
+
+     
+     
+     
+
+    10.4
+     
+    Registration Rights Agreement, dated November 18, 2019, by and between the Registrant and the initial shareholders
+
+     
+     
+     
+
+    99.1
+     
+    Press Release, dated November 18, 2019
+
+ 
+
+
+
+
+    3 
+     
+    
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of the
+Securities Exchange Act of 1934, the Registrant has duly caused this Report on Form 8-K to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+
+
+
+
+     
+    GREENVISION ACQUISTION CORP.
+
+     
+     
+
+     
+    By: 
+    /s/ Zhigeng (David)
+    Fu                  
+
+     
+    Zhigeng (David) Fu
+
+     
+    Chief Executive Officer	
+
+     
+    November 21, 2019
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+    4 
+    
+
+
+
+
+
+

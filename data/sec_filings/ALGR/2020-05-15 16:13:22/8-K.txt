@@ -1,0 +1,362 @@
+
+8-K
+1
+ea121961-8k_allegromerger.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): May
+14, 2020
+
+ 
+
+ALLEGRO MERGER CORP.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38581
+     
+    82-2425125
+
+    
+        (State or Other Jurisdiction
+        of Incorporation)
+     
+    
+        (Commission
+        File Number)
+     
+    
+        (IRS Employer
+        Identification No.)
+
+ 
+
+
+
+    
+        777 Third Avenue, 37th Floor
+        New York, NY
+     
+    
+         
+        10017
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (212) 319-7676
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since
+Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+ 
+
+
+
+     
+    ☐
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+     
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on
+which registered
+
+    Units, each consisting of one share of common stock, one right, and one redeemable warrant
+     
+    None.
+     
+    None.
+
+    Common stock, par value $0.0001 per share
+     
+    None.
+     
+    None.
+
+    Rights, each to receive one-tenth (1/10) of one share of common stock
+     
+    None.
+     
+    None.
+
+    Redeemable warrants, each exercisable for one share of common stock at an exercise price of $11.50 per share
+     
+    None.
+     
+    None.
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+
+Item 5.02.Departure of Directors or Certain Officers; Election of Directors; Appointment
+of Certain Directors; Compensatory Arrangements of Certain Officers.
+
+ 
+
+On May 14, 2020, Mr. Leonard Schlemm
+resigned from the board of directors of Allegro Merger Corp. (the “Company”) and from each committee on which
+he served. Mr. Schlemm’s resignation was not due to any disagreement with the Company on any matter relating to the Company’s
+operations, policies, or practices, financial or otherwise.
+
+ 
+
+
+Item 8.01.Other Events.
+
+ 
+
+Delay in filing of Quarterly
+Report on Form 10-Q for the quarter ended March 31, 2020 due to the ongoing COVID-19 Pandemic
+
+ 
+
+On March 25,
+2020, the Securities and Exchange Commission issued an order under Section 36 of the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”), Modifying Exemptions From the Reporting and Proxy Delivery Requirements for Public
+Companies (Release No. 34-88465) (the “Order”), which allows registrants to delay the filing of certain
+reports under Section 13(a) or 15(d) of the Exchange Act by up to 45 days after the original filing deadline if a registrant is unable
+to meet such original filing deadline due to circumstances related to 2019 novel coronavirus (“COVID-19”) pandemic.
+
+ 
+
+The Company is
+filing this Current Report on Form 8-K to report that it will be relying on the Order to delay the filing of its Quarterly Report
+on Form 10-Q for the three months ended March 31, 2020 (the “Form 10-Q”) due to circumstances
+related to COVID-19.   In particular, COVID-19 has caused disruptions to the Company's operations, including, among
+other things, the closing of the Company's offices and requiring all Company staff to work from home.  Consequently, the
+Company’s ability to complete its quarterly review and prepare its Form 10-Q has been delayed.   The Company expects
+to file the Form 10-Q within 45 days from the Form 10-Q’s original filing deadline of May 15, 2020.
+
+ 
+
+The Company is supplementing its risk factors described in Item
+1A of the 2019 Form 10-K as follows:
+
+ 
+
+We face various risks related to health epidemics, pandemics
+and similar outbreaks, which may have material adverse effects on our business.
+
+Our business could be adversely affected by health epidemics,
+pandemics and similar outbreaks of contagious disease, including the recent outbreak of respiratory illness caused by the novel
+coronavirus (“COVID-19”). The extent to which any epidemic, pandemic, or similar outbreak affects our operations will
+depend on future developments, which are highly uncertain, including the duration of the outbreak, new information which may emerge
+concerning the severity of the coronavirus and the actions to contain the coronavirus or address its impact, among others.
+
+For instance, because of the impact of and measures taken
+to limit the spread of COVID-19, the Company has experienced and may continue to experience disruptions in its operations. If our
+workforce is unable to work effectively, including because of illness, quarantines, government actions, facility closure or other
+restrictions in connection with the COVID-19 pandemic, we may have more limited access to our financial and other records
+and personnel, resulting in slower or more costly operations. We continue to monitor the situation, to assess further possible
+implications to our business and to take actions in an effort to mitigate adverse consequences. We cannot at this time predict
+the impact of the COVID-19 pandemic, but it could have a material adverse effect on our business, financial position,
+results of operations and/or cash flows.
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+Forward-looking Statements:
+
+ 
+
+This Current Report on Form 8-K includes “forward-looking
+statements” as such term is defined in the Private Securities Litigation Reform Act of 1995. When used in this Current Report
+on Form 8-K, words such as “anticipate,” “believe,” “expect,” “intend,” and similar
+expressions, as they relate to the Company, identify forward-looking statements. Such forward-looking statements are based on the
+beliefs of the Company’s management, as well as assumptions made by and information currently available to the Company’s
+management. Actual results could differ materially from those contemplated by the forward-looking statements as a result of certain
+factors which may not be in the control of the Company. Readers are cautioned not to place undue reliance on any such forward-looking
+statements, which speak only as of the date made. The Company has no obligation to update any forward-looking statement to reflect
+events or circumstances after the date hereof.
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+    Dated: May 15, 2020
+    ALLEGRO MERGER CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/ Eric S. Rosenfeld
+
+     
+     
+    Eric S. Rosenfeld
+
+     
+     
+    Chief Executive Officer
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+    
+
+
+
+
+
+

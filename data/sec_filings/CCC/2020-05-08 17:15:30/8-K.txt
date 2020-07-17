@@ -1,0 +1,611 @@
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    0001764046
+    false
+    00-0000000
+    
+  
+    
+    
+  
+    
+      
+        0001764046
+      
+      
+        2020-05-06
+        2020-05-07
+      
+    
+    
+      iso4217:USD
+    
+    
+      xbrli:shares
+    
+    
+      
+        
+          iso4217:USD
+        
+        
+          xbrli:shares
+        
+      
+    
+    
+  
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+
+
+WASHINGTON, DC 20549
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+FORM 8-K
+
+
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+ 
+
+Date of report (date of earliest event reported):
+May 8, 2020 (May 7, 2020)
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+CLARIVATE Plc 
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+    Jersey, Channel Islands
+    001-38911
+    N/A
+
+    (State or other jurisdiction of incorporation)
+    (Commission File Number)
+    (IRS Employer Identification No.)
+
+     
+     
+     
+
+    Friars House
+160 Blackfriars Road
+London SE1 8EZ
+United Kingdom
+
+    (Address of principal executive offices)
+
+     
+
+    Registrant’s telephone number, including area code: +44 207 433 4000
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+Clarivate
+Analytics PLC 
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under
+the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under
+the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Securities registered pursuant to Section
+12(b) of the Securities Exchange Act of 1934:
+
+ 
+
+
+
+    
+        Title
+        of Each Class
+     
+    
+        Trading
+        Symbol
+     
+    
+        Name
+        of Each Exchange on Which Registered
+
+    Ordinary shares
+     
+    CCC
+     
+    New York Stock Exchange
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth
+company	x
+
+ 
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.	x
+
+ 
+
+ 
+
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+
+
+Item 5.07.Submission of Matters to a Vote of Security Holders
+
+ 
+
+On May 7, 2020, Clarivate Plc held its
+2020 Annual General Meeting of Shareholders. All proposals on the agenda were approved by the shareholders. For more information
+on the proposals, see Clarivate’s proxy statement for the 2020 Annual General Meeting of Shareholders, filed as Exhibit 99.1
+to our Current Report on Form 8-K on April 10, 2020. Below are the final voting results.
+
+ 
+
+(1)           Shareholders
+elected the individuals named below to serve as Class I directors of Clarivate, with a term expiring at the 2023 Annual General
+Meeting. Election of each director required approval by a simple majority of the votes cast by, or on behalf of, the shareholders
+entitled to vote in person or represented by proxy.
+
+ 
+
+
+
+    Nominee 
+    For 
+    Against 
+    Abstain 
+    Broker Non-Votes
+
+    Sheryl von Blucher 
+    329,964,364 
+    4,128,295 
+    453,473 
+    5,724,333
+
+    Jane Okun Bomba 
+    334,118,808 
+    285,493 
+    141,831 
+    5,724,333
+
+    Balakrishnan S. Iyer 
+    334,073,532 
+    303,935 
+    168,665 
+    5,724,333
+
+    Richard W. Roedel 
+    328,021,795 
+    6,356,132 
+    168,205 
+    5,724,333
+
+
+ 
+
+Pursuant to the Amended and Restated Shareholders
+Agreement dated as of January 14, 2019, as amended as of April 10, 2020, Onex Partners Advisor LP and Baring Private Equity Asia
+Group Limited and their affiliates (“Onex” and “Baring,” respectively, and collectively, the “Private
+Equity Sponsors”) agreed to vote their ordinary shares in favor of the above nominees.
+
+ 
+
+(2)           Shareholders
+approved a change of the company’s name to “Clarivate Plc.” Approval required two-thirds of the votes cast by,
+or on behalf of, the shareholders entitled to vote in person or represented by proxy.
+
+ 
+
+
+
+    For 
+    340,035,344
+
+    Against 
+    23,820
+
+    Abstain 
+    211,301
+
+
+ 
+
+(3)           Shareholders
+approved the proposed amendments to Clarivate’s memorandum and articles of association. Approval required two-thirds of the
+votes cast by, or on behalf of, the shareholders entitled to vote in person or represented by proxy.
+
+ 
+
+
+
+    For 
+    271,097,022
+
+    Against 
+    63,298,629
+
+    Abstain 
+    150,481
+
+    Broker non-votes 
+    5,724,333
+
+
+ 
+
+A copy of Clarivate’s Amended and
+Restated Memorandum and Articles of Association is filed herewith as Exhibit 3.1.
+
+ 
+
+(4)           Shareholders
+approved Clarivate’s proposal to engage in open-market share repurchases. Approval required two-thirds of the votes cast
+by, or on behalf of, the shareholders entitled to vote in person or represented by proxy.
+
+ 
+
+
+
+    For 
+    308,047,996
+
+    Against 
+    25,356,437
+
+    Abstain 
+    1,141,699
+
+    Broker non-votes 
+    5,724,333
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+(5)           Shareholders
+approved Clarivate’s proposal to engage in share repurchases from the Private Equity Sponsors. Approval required both (i) two-thirds
+of the votes cast by, or on behalf of, the shareholders entitled to vote in person or represented by proxy and (ii) a simple
+majority of the votes cast by, or on behalf of, the shareholders entitled to vote in person or represented by proxy, excluding
+for purposes of this clause (ii) votes cast by the applicable Private Equity Sponsor.
+
+ 
+
+
+
+    Votes Cast by All Shareholders
+
+    For 
+    308,591,652
+
+    Against 
+    24,664,012
+
+    Abstain 
+    1,290,468
+
+    Broker non-votes 
+    5,724,333
+
+
+
+ 
+
+
+
+    Excluding Votes Cast by Onex
+
+    For 
+    216,351,621
+
+    Against 
+    24,664,012
+
+    Abstain 
+    1,290,468
+
+    Broker non-votes 
+    5,724,333
+
+
+
+ 
+
+
+
+    Excluding Votes Cast by Baring
+
+    For 
+    272,720,529
+
+    Against 
+    24,664,012
+
+    Abstain 
+    1,290,468
+
+    Broker non-votes 
+    5,724,333
+
+
+ 
+
+(6)           Shareholders
+ratified the appointment of PricewaterhouseCoopers LLP to serve as Clarivate’s independent registered public accounting firm
+for 2020. Ratification required a simple majority of the votes cast by, or on behalf of, the shareholders entitled to vote in person
+or represented by proxy.
+
+ 
+
+
+
+    For 
+    339,997,543
+
+    Against 
+    77,305
+
+    Abstain 
+    195,617
+
+
+ 
+
+
+Item 8.01.Other Events
+
+ 
+
+Date of 2021 Annual
+General Meeting of Shareholders
+
+ 
+
+Clarivate
+announced that its 2021 Annual General Meeting of Shareholders will be held on May 6, 2021. Further details will be provided
+in the proxy statement for the meeting.
+
+ 
+
+
+Item 9.01.Financial Statements and Exhibits
+
+ 
+
+
+(d)Exhibits.
+
+
+ 
+
+
+
+    
+        No.
+     
+    
+        Description
+     
+
+    3.1
+     
+    Amended and Restated Memorandum and Articles of Association
+
+     
+     
+     
+
+     104
+     
+    The cover page from this Current Report on Form 8-K formatted in Inline XBRL
+
+
+  
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+ 
+
+
+
+    Date:      May 8, 2020
+    CLARIVATE Plc
+
+     
+     
+
+     
+    By:
+    /s/ Richard Hanks
+
+     
+     
+    Richard Hanks
+
+     
+     
+    Chief Financial Officer
+
+
+ 
+
+ 
+
+
+
+
+     
+    
+
+
+
+

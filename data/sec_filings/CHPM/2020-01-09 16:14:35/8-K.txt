@@ -1,0 +1,373 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+    
+    UNITED STATES
+    
+      SECURITIES AND EXCHANGE COMMISSION
+      Washington, D.C. 20549
+      
+      
+      FORM 8-K
+      
+      
+      CURRENT REPORT
+      
+      
+      Pursuant to Section 13 or Section 15(d) of the Securities Exchange Act of 1934
+      
+      
+      Date of Report (Date of earliest event reported): January 9, 2020
+      
+      
+      CHP MERGER CORP.
+      (Exact name of registrant as specified in its charter)
+      
+      
+      
+
+          
+            
+              Delaware
+            
+             
+            
+              001-39140
+            
+             
+            
+              84-2590924
+            
+          
+          
+            
+              (State or other jurisdiction of incorporation or organization)
+            
+             
+            
+              (Commission File Number)
+            
+             
+            
+              (I.R.S. Employer Identification Number)
+            
+          
+
+      
+       
+      
+      
+        
+
+            
+              
+                25 Deforest Avenue, Suite 108 Summit, NJ
+              
+              
+                 
+              
+              07901
+            
+            
+              
+                (Address of principal executive offices)
+              
+              
+                 
+              
+              
+                (Zip Code)
+              
+            
+
+        
+      
+       
+      
+      Registrant’s telephone number, including area code: (212) 508-7090
+      
+      
+      Not Applicable
+      (Former name or former address, if changed since last report)
+      
+      
+      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation to the registrant under any of the following provisions:
+      
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+                
+              
+
+          
+        
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+                
+              
+
+          
+        
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+                
+              
+
+          
+        
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+                
+              
+
+          
+        
+      
+      
+      
+      Securities registered pursuant to Section 12(b) of the Act:
+       
+      
+      
+
+          
+            
+              Title of each class
+            
+             
+            
+              Trading
+              Symbol(s)
+            
+             
+            
+              Name of each exchange
+              on which registered
+            
+          
+          
+            
+              Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-half of one redeemable warrant
+            
+             
+            
+              CHPMU
+            
+             
+            
+              The Nasdaq Stock Market LLC
+            
+          
+          
+            
+              Redeemable common stock included as part of the units
+            
+             
+            
+              CHPM
+            
+             
+            
+              The Nasdaq Stock Market LLC
+            
+          
+          
+            
+              Warrants included as part of the units, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
+            
+             
+            
+              CHPMW
+            
+             
+            
+              The Nasdaq Stock Market LLC
+            
+          
+
+      
+       
+      
+      Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+      
+      
+      Emerging growth company ☒
+      
+      
+      If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+        Act. ☐
+       
+      
+         
+      
+        
+          
+      
+      
+      
+        
+          
+
+              
+                Item 8.01.
+                
+                  Other Events.
+                
+              
+
+          
+        
+      
+       
+      On January 9, 2020, CHP Merger Corp. (the “Company”) announced that the holders of the Company’s units (the “Units”) may elect to separately trade the shares of Class A common stock, par value $0.0001 per share (the
+        “Class A common stock”), and redeemable warrants included in the Units commencing on January 10, 2020. Each Unit consists of one share of Class A common stock and one-half of one redeemable warrant to purchase one share of Class A common stock. Any
+        Units not separated will continue to trade on the Nasdaq Capital Market (“Nasdaq”) under the symbol “CHPMU.” Any underlying shares of Class A common stock and warrants that are separated are expected to trade on Nasdaq under the symbols “CHPM” and
+        “CHPMW,” respectively. No fractional warrants will be issued upon separation of the Units and only whole warrants will trade. Holders of Units will need to have their brokers contact Continental Stock Transfer & Trust Company, the Company’s
+        transfer agent, in order to separate the holders’ Units into shares of Class A common stock and warrants.
+       
+      A copy of the press release issued by the Company announcing the separate trading of the securities underlying the Units is attached hereto as Exhibit 99.1.
+       
+      This report may include “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements
+        other than statements of historical fact included in this report are forward-looking statements. When used in this report, words such as “anticipate,” “believe,” “estimate,” “expect,” “intend” and similar expressions, as they relate to us or our
+        management team, identify forward-looking statements. Such forward-looking statements are based on the beliefs of management, as well as assumptions made by, and information currently available to, the Company’s management. Actual results could
+        differ materially from those contemplated by the forward-looking statements as a result of certain factors detailed in the Company’s filings with the Securities and Exchange Commission (“SEC”). All subsequent written or oral forward-looking
+        statements attributable to us or persons acting on our behalf are qualified in their entirety by this paragraph. Forward-looking statements are subject to numerous conditions, many of which are beyond the control of the Company, including those set
+        forth in the Risk Factors section of the Company’s registration statement and prospectus for the Company’s initial public offering filed with the SEC. Copies of such filings are available on the SEC’s website, www.sec.gov. The Company undertakes no
+        obligation to update these statements for revisions or changes after the date of this release, except as required by law.
+      
+      
+      
+        
+          
+
+              
+                Item 9.01.
+                
+                  Financial Statements and Exhibits.
+                
+              
+
+          
+        
+      
+       
+      (d) Exhibits.
+       
+      
+      
+
+          
+            
+              99.1
+            
+            
+              Press Release, dated January 9, 2020
+            
+          
+
+      
+      
+      
+      
+        1
+        
+          
+      
+      SIGNATURE
+       
+      
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+      
+      
+      Dated: January 9, 2020
+       
+      
+      
+
+          
+             
+            
+              CHP MERGER CORP.
+            
+          
+          
+             
+             
+          
+          
+             
+            
+              By:
+            
+            
+              /s/ James T. Olsen
+            
+          
+          
+             
+            
+              Name:
+            
+            
+              James T. Olsen
+            
+          
+          
+             
+            
+              Title:
+            
+            
+              Chief Executive Officer
+            
+          
+
+      
+      
+      
+    
+    
+    
+    
+      
+  
+
+
+

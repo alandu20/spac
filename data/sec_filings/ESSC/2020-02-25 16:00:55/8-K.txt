@@ -1,0 +1,621 @@
+
+8-K
+1
+f8k021920_eaststoneacq.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): February 19, 2020
+
+ 
+
+East
+Stone Acquisition Corporation 
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    British
+    Virgin Islands
+     
+    001-39233
+     
+    N/A
+
+    (State
+    or other jurisdiction
+    of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (IRS
+    Employer
+    Identification No.)
+
+ 
+
+25
+Mall Road, Suite 330
+
+Burlington,
+MA 01803
+
+(Address
+of principal executive offices, including zip code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (781) 202 9128
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ☐
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company  þ
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class 
+    Trading Symbol(s) 
+    Name of each exchange on which registered
+
+     Units, each consisting of one Ordinary Share, one Right and one Warrant 
+    ESSCU 
+     The Nasdaq Stock Market LLC
+
+    Ordinary Shares, no par value 
+    ESSC 
+    The Nasdaq Stock Market LLC
+
+    Rights, exchangeable into one-tenth of one Ordinary Share 
+    ESSCR 
+    The Nasdaq Stock Market LLC
+
+    Warrants, each exercisable for one-half of one Ordinary Share, each whole Ordinary Share exercisable for $11.50 per share 
+    ESSCW 
+    The Nasdaq Stock Market LLC
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01. Entry
+into a Material Definitive Agreement.
+
+ 
+
+On
+February 24, 2020, East Stone Acquisition Corporation (the “Company”) consummated its initial public offering (“IPO”)
+of 12,000,000 units (the “Units”). Each Unit consists of one ordinary share of the Company, no par value (the
+“Ordinary Shares”), one warrant of the Company (“Warrant”), with each Warrant entitling
+the holder thereof to purchase one-half of one Ordinary Share for $11.50 per whole share and one right to receive one-tenth (1/10)
+of one ordinary share upon consummation of the Company’s initial business combination. The Units were sold at a price of
+$10.00 per Unit, generating gross proceeds to the Company of $120,000,000. Pursuant to the underwriting agreement, dated February
+19, 2020, the Company granted the underwriters in the IPO (the “Underwriters”) a 30-day option to purchase
+up to 1,800,000 additional Units solely to cover over-allotments, if any (the “Over-Allotment Option”). Simultaneously
+with the consummation of the IPO, the Underwriters exercised the Over-Allotment Option in full.
+
+ 
+
+In
+connection with the IPO, the Company entered into the following agreements, some of which were forms previously filed as exhibits
+to the Company’s Registration Statement on Form S-1 (File Nos. 333-235949 and 333-236527) for the IPO, originally filed
+with the U.S. Securities and Exchange Commission (the “Commission”) on January 17, 2020 (as amended, the “Registration
+Statement”):
+
+ 
+
+
+●An
+                                         Underwriting Agreement, dated February 19, 2020, by and between the Company and I-Bankers
+                                         Securities, Inc. (“I-Bankers”), the representative of the several
+                                         underwriters, a copy of which is attached as Exhibit 1.1 hereto and incorporated herein
+                                         by reference.
+
+
+●A
+                                         Business Combination Marketing Agreement, dated February 19, 2020, by and between the
+                                         Company and I-Bankers, a copy of which is attached as Exhibit 1.2 hereto and incorporated
+                                         herein by reference. 
+
+
+●A
+                                         Warrant Agreement, dated as of February 19, 2020, by and between the Company and Continental
+                                         Stock Transfer & Trust Company (“CST”), as warrant agent, a copy
+                                         of which is attached as Exhibit 4.1 hereto and incorporated herein by reference.
+
+
+●A
+                                         Rights Agreement, dated as of February 19, 2020, by and between the Company and CST,
+                                         as rights agent, a copy of which is attached as Exhibit 4.2 hereto and incorporated herein
+                                         by reference.
+
+
+●A
+                                         Letter Agreement, dated February 19, 2020, by and among the Company, its initial shareholders,
+                                         anchor investors, directors and officer, a copy of which are attached as Exhibit 10.1
+                                         hereto and incorporated herein by reference.
+
+
+●An
+                                         Investment Management Trust Agreement, dated February 19, 2020, by and between the Company
+                                         and CST, as trustee, a copy of which is attached as Exhibit 10.2 hereto and incorporated
+                                         herein by reference.
+
+
+●An
+                                         Administrative Support Agreement, dated February 19, 2020, by and between the Company
+                                         and East Stone Capital Limited, a copy of which is attached as Exhibit 10.3 hereto and
+                                         incorporated herein by reference.
+
+
+●A
+                                         Registration Rights Agreement, dated as of February 19, 2020, by and between the Company
+                                         and certain securityholders, a copy of which is attached as Exhibit 10.8 hereto and incorporated
+                                         herein by reference.
+
+
+●An
+                                         Indemnity Agreement, dated as of February 19, 2020, by and between the Company and Xiaoma
+                                         (Sherman) Lu, a copy of which is attached as Exhibit 10.9 hereto and incorporated herein
+                                         by reference.
+
+
+●An
+                                         Indemnity Agreement, dated as of February 19, 2020, by and between the Company and Chunyi
+                                         (Charlie) Hao, a copy of which is attached as Exhibit 10.10 hereto and incorporated herein
+                                         by reference.
+
+
+●An
+                                         Indemnity Agreement, dated as of February 19, 2020, by and between the Company and Michael
+                                         S. Cashel, a copy of which is attached as Exhibit 10.11 hereto and incorporated herein
+                                         by reference.
+
+
+●An
+                                         Indemnity Agreement, dated as of February 19, 2020, by and between the Company and Sanjay
+                                         Prasad, a copy of which is attached as Exhibit 10.12 hereto and incorporated herein by
+                                         reference.
+
+
+●An
+                                         Indemnity Agreement, dated as of February 19, 2020, by and between the Company and William
+                                         Zielke, a copy of which is attached as Exhibit 10.13 hereto and incorporated herein by
+                                         reference.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+On
+February 19, 2020, the Company issued an aggregate of 103,500 Ordinary Shares (the “Representative’s Shares”)
+to I-Bankers and its designee, EarlyBirdCapital, Inc. (“EarlyBird”), in connection with their services as underwriters
+for the IPO and as a result of the full exercise of the Over-Allotment Option. I-Bankers and EarlyBird have agreed not to transfer,
+assign or sell any of Representative’s Shares until the completion of the Company’s initial business combination.
+In addition, I-Bankers and EarlyBird have agreed (i) to waive their redemption rights with respect to such shares in connection
+with the completion of the Company’s initial business combination and (ii) to waive their rights to liquidating distributions
+from the trust account with respect to such shares if the Company fails to complete its initial business combination within 15
+months from the closing of this offering (or up to 21 months from the closing of this offering if the Company extends the period
+of time to consummate a business combination, as described in more detail in the Registration Statement). Such Ordinary Shares
+were issued pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act. 
+
+ 
+
+On
+February 24, 2020, the Company issued an aggregate of 690,000 warrants, exercisable at $12.00 per full share (the “Representative’s
+Warrants”), to I-Bankers and its designee, EarlyBird, in connection with their services as underwriters for the IPO
+and as a result of the full exercise of the Over-Allotment Option. The Representative’s Warrants may be exercised for cash
+or on a cashless basis, at the holder’s option, at any time during the period commencing on the later of the first anniversary
+of the effective date of the Registration Statement and the closing of the Company’s initial business combination and terminating
+on the fifth anniversary of such effectiveness date. I-Bankers and EarlyBird have each agreed that neither it nor its designees
+will be permitted to exercise the warrants after the five year anniversary of the effective date of the Registration Statement.
+The Representative’s Warrants and such shares purchased pursuant to the Representative’s Warrants are subject to a
+lock-up for a period of 360 days immediately following the date of the effectiveness of the Registration Statement. The Representative’s
+Warrants grant to holders demand and “piggy back” rights for periods of five and seven years, respectively, from the
+effective date of the Registration Statement with respect to the registration under the Securities Act of the ordinary shares
+issuable upon exercise of the Representative’s Warrants.
+
+ 
+
+Item 3.02. Unregistered
+Sales of Equity Securities.
+
+ 
+
+Simultaneously
+with the closing of the IPO, pursuant to the Unit Subscription Agreements, dated as February 20, 2020 (the “Private Placement
+Agreements”), by and between each of Double Ventures Holdings Limited (the “Sponsor”), I-Bankers,
+Hua Mao and Cheng Zhao, on the one hand, and the Company, on the other hand, completed the private sale of an aggregate of 350,000
+units (the “Private Placement Units”), at a purchase price of $10.00 per Private Placement Unit, generating
+gross proceeds to the Company of $3,500,000. Pursuant to the Private Placement Agreement, 167,000 Private Placement Units were
+purchased by the Sponsor, an aggregate of 108,000 Private Placement Units were purchased by Hua Mao and Cheng Zhao separately
+and not together, and 75,000 Private Placement Units were purchased by I-Bankers.
+
+ 
+
+The
+Private Placement Units are identical to the Units sold in the IPO, except that warrants that are part of the Private Placement
+Units are not redeemable by the Company so long as they are held by the original holders or their permitted transferees. In addition,
+for as long as the warrants that are part of the Private Placement Units are held by I-Bankers or its designees or affiliates,
+they may not be exercised after five years from the effective date of the Registration Statement. No underwriting discounts or
+commissions were paid with respect to such sales. The issuance of the Private Placement Units was made pursuant to the exemption
+from registration contained in Section 4(a)(2), Regulation D and/or Regulation S of the Securities Act of 1933, as amended (the
+“Securities Act”).
+
+ 
+
+The
+foregoing description of the Private Placement Agreements are not complete and are qualified in their entirety by reference to
+the full text of such agreements, copies of which are filed herewith as Exhibits 10.4, 10.5, 10.6 and 10.7 to this Current Report
+on Form 8-K and are incorporated herein by reference.
+
+ 
+
+Item 5.03. Amendments
+to Certificate of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+On
+February 19, 2020, in connection with the IPO, the Company filed its Amended and Restated Memorandum and Articles of Association
+in the British Virgin Islands, effective the same day. The terms of the Amended and Restated Memorandum and Articles of Association
+are set forth in the Registration Statement and are incorporated herein by reference. A copy of the Amended and Restated Memorandum
+and Articles of Association is attached as Exhibit 3.1 hereto and incorporated herein by reference.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Item
+8.01. Other Events.
+
+ 
+
+A
+total of $138,000,000 of the net proceeds from the IPO and the Private Placement Units was placed in a U.S.-based trust account
+at J.P. Morgan Chase Bank, N.A., maintained by CST, acting as trustee. Except with respect to the interest earned on the funds
+in the trust account that may be released to the Company to pay its taxes, the funds held in the trust account will not be released
+from the trust account until the earliest of (i) the completion of the Company’s initial business combination, (ii) the
+redemption of any of the Company’s public shares properly submitted in connection with a shareholder vote to amend the Company’s
+amended and restated memorandum and articles of association to modify the substance or timing of its obligation to redeem 100%
+of the Company’s public shares if it does not complete its initial business combination within 15 months (or up to 21 months
+if the Company extends the period of time to consummate a business combination, as described in more detail in the Registration
+Statement) from the closing of the IPO or (iii) the redemption of the Company’s public shares if it is unable to complete
+its initial business combination within 15 months (or up to 21 months if the Company extends the period of time to consummate
+a business combination, as described in more detail in the Registration Statement) from the closing of the IPO, subject to applicable
+law.
+
+ 
+
+I-Bankers
+and EarlyBird agreed to defer $402,500 in underwriting commission (the “Deferred Commission”) until the completion
+of the Company’s initial business combination, if any, which Deferred Commission would be paid out of the trust account
+to I-Bankers and EarlyBird. Such funds will be released only upon consummation of an initial business combination, as described
+in the Registration Statement. If the business combination is not consummated, such Deferred Commission will be forfeited. None
+of the underwriters will be entitled to any interest accrued on the Deferred Commission.
+
+ 
+
+On February
+19, 2020, the Company issued a press release announcing the pricing of the IPO, a copy of which is attached as Exhibit 99.1
+to this Current Report on Form 8-K.
+
+ 
+
+Copies
+of the specimen unit, ordinary share, warrant and right certificates are attached as Exhibits 4.3, 4.4, 4.5 and 4.6, respectively,
+to this Current Report on Form 8-K, which supersede the specimen unit, ordinary share, warrant and right certificates, which were
+previously filed as the Exhibits 4.1, 4.2, 4.3 and 4.4, respectively, to the Registration Statement on Form S-1, as amended (File
+No. 333-235949), filed with the Commission on January 17 and February 6, 2020.
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits
+
+ 
+
+The
+following exhibits are being filed herewith:
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+    1.1
+     
+    Underwriting Agreement, dated February 19, 2020, by and between the Company and I-Bankers.
+
+    1.2
+     
+    Business Combination Marketing Agreement, dated February 19, 2020, by and between the Company and I-Bankers
+
+    3.1
+     
+    Amended and Restated Memorandum and Articles of Association.
+
+    4.1
+     
+    Warrant Agreement, dated as of February 19, 2020, by and between the Company and CST, as warrant agent.
+
+    4.2
+     
+    Rights Agreement, dated as of February 19, 2020, by and between the Company and CST, as rights agent.
+
+    4.3
+     
+    Specimen Unit Certificate.
+
+    4.4
+     
+    Specimen Ordinary Share Certificate.
+
+    4.5
+     
+    Specimen Warrant Certificate.
+
+    4.6
+     
+    Specimen Right Certificate.
+
+    10.1
+     
+    Letter Agreement, dated February 19, 2020, by and among the Company, its initial shareholders, anchor investors, directors and officer.
+
+    10.2
+     
+    Investment Management Trust Agreement, dated February 19, 2020, by and between the Company and CST, as trustee.
+
+    10.3
+     
+    Administrative Support Agreement, dated February 19, 2020, by and between the Company and East Stone Capital Limited.
+
+    10.4
+     
+    Unit Subscription Agreement, dated as of February 24, 2020, by and between the Company and the Sponsor
+
+    10.5
+     
+    Unit Subscription Agreement, dated as of February 24, 2020, by and between the Company and I-Bankers.
+
+    10.6
+     
+    Unit Subscription Agreement, dated as of February 24, 2020, by and between the Company and Hua Mao.
+
+    10.7
+     
+    Unit Subscription Agreement, dated as of February 24, 2020, by and between the Company and Cheng Zhao.
+
+    10.8
+     
+    Registration Rights Agreement, dated as of February 19, 2020, by and between the Company and certain securityholders.
+
+    10.9
+     
+    Indemnity Agreement, dated as of February 19, 2020, by and between the Company and Xiaoma (Sherman) Lu.
+
+    10.10
+     
+    Indemnity Agreement, dated as of February 19, 2020, by and between the Company and Chunyi (Charlie) Hao.
+
+    10.11
+     
+    Indemnity Agreement, dated as of February 19, 2020, by and between the Company and Michael S. Cashel.
+
+    10.12
+     
+    Indemnity Agreement, dated as of February 19, 2020, by and between the Company and Sanjay Prasad.
+
+    10.13
+     
+    Indemnity Agreement, dated as of February 19, 2020, by and between the Company and William Zielke.
+
+    99.1
+     
+    Press Release, dated February 19, 2020.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+  
+
+
+
+     
+    East
+    Stone Acquisition Corporation
+
+     
+     
+     
+
+    Date:
+    February 25, 2020
+    By:
+    /s/
+    Xiaoma (Sherman) Lu
+
+     
+     
+    Name:
+    Xiaoma (Sherman) Lu
+
+     
+     
+    Title:
+      Chief Executive Officer
+
+ 
+
+ 
+
+4
+
+
+
+ 
+
+ 
+
+
+
+

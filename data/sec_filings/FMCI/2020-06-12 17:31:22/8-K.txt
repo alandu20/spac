@@ -1,0 +1,636 @@
+
+8-K
+1
+ea122974-8k_forummerger2.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+June 11, 2020
+
+ 
+
+FORUM MERGER II CORPORATION
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38615
+     
+    82-5457906
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+1615 South Congress Avenue, Suite 103
+
+Delray Beach, FL 33445
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (212) 739-7860
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+ 
+
+
+
+    ☐
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ☒
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of Class A common stock and one redeemable warrant
+     
+    FMCIU
+     
+    The Nasdaq Stock Market LLC
+
+    Class A common stock, par value $0.0001 per share
+     
+    FMCI
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants, each exercisable for one share of Class A common stock
+     
+    FMCIW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+
+
+    Item 1.01
+    Entry into a Material Definitive Agreement.
+
+ 
+
+Merger Agreement
+
+ 
+
+On June 11, 2020, Forum
+Merger II Corporation, a Delaware corporation (“Forum”), entered into an Agreement and Plan of Merger (the “Merger
+Agreement”) with Sprout Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Forum (“Merger
+Sub”), Myjojo, Inc., a Delaware corporation (“Ittella Parent”) and Salvatore Galletti, in his capacity
+as the holder representative. Pursuant to the transactions contemplated by the terms of the Merger Agreement, and subject to the
+satisfaction or waiver of certain conditions set forth therein, Merger Sub will merge with and into Ittella Parent (the “Merger”),
+with Ittella Parent surviving the merger in accordance with the Delaware General Corporation Law as a wholly owned subsidiary of
+Forum (the transactions contemplated by the Merger Agreement and the related ancillary agreements, the “Business Combination”).
+
+ 
+
+Consideration and Sponsor Earnout Shares
+
+ 
+
+The aggregate consideration
+payable at the closing of the Business Combination (the “Closing”) to the stockholders of Ittella Parent is
+approximately $420 million, subject to the purchase price adjustments as set forth in the Merger Agreement (the “Closing
+Merger Consideration”). The Closing Merger Consideration is required to be comprised of between $50 million and $75 million
+in cash, with the remainder of the Closing Merger Consideration comprised of Forum’s common stock, valued at $10.00 per share.
+
+ 
+
+An additional 5,000,000
+shares of Forum’s common stock (the “Holdback Shares”) are payable after the Closing to the stockholders
+of Ittella Parent if, within the first three years after the Closing, the following conditions are satisfied: (i) if the trading
+price of Forum’s common stock equals or exceeds $12.00 on any 20 trading days in any 30-day trading period (the “$12.00
+Share Price Trigger”), then 2,500,000 Holdback Shares will be released to the stockholders of Ittella Parent, (ii) if
+the trading price of Forum’s common stock equals or exceeds $14.00 on any 20 trading days in any 30-day trading period (each
+of such $14.00 trigger and the $12.00 Share Price Trigger, a “Share Price Trigger”), then 2,500,000 Holdback
+Shares will be released to the stockholders of Ittella Parent, and (iii) if a change in control occurs, all Holdback Shares not
+previously released will be released to the stockholders of Ittella Parent. If the conditions to release of the Holdback Shares
+are not satisfied within the first three years of Closing, the Holdback Shares are forfeited.
+
+ 
+
+Forum Investors II
+LLC, a Delaware limited liability company and the sponsor of Forum (the “Sponsor”), has agreed that at the Closing,
+it will place 2,500,000 founder shares of Forum’s common stock held by it (the “Sponsor Earnout Shares”)
+into escrow. The vesting, release and forfeiture terms of the Sponsor Earnout Shares are the same as the vesting, release and forefeiture
+terms applicable to the Holdback Shares, with 50% of the Sponsor Earnout Shares vesting at each Share Price Trigger, and all Sponsor
+Earnout Shares released if a change of control occurs, within the first three years after the Closing.
+
+ 
+
+Representations, Warranties and Covenants
+
+ 
+
+The Merger Agreement
+contains customary representations, warranties and covenants by the parties thereto, including, among other things, covenants with
+respect to the conduct of Forum and Ittella Parent during the period between execution of the Merger Agreement and the closing
+of the Business Combination (the “Closing”).
+
+ 
+
+Conditions to Closing
+
+ 
+
+The Closing is subject
+to certain conditions, including, among other things, (i) approval by Ittella Parent’s stockholders and the stockholders
+of Forum of the Business Combination, (ii) approval of the listing of Forum’s common stock to be issued in connection with
+the Business Combination, (iii) that Forum shall have cash available to pay at least $50 million of the Merger Consideration in
+cash at the Closing, (iv) that Ittella Parent shall have delivered to Forum certain financial statements of Ittella Parent and
+its subsidiaries, together with all related notes and schedules thereto, accompanied by a signed report of Ittella Parent’s
+independent auditor with respect thereto, which report shall refer to the standards of the Public Company Accounting Oversight
+Board and (v) as of a moment in time prior to the Closing, Forum shall not have indebtedness for borrowed money that exceeds $5,000,000.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Termination
+
+ 
+
+The Merger Agreement
+may be terminated prior to the Closing under certain circumstances, including, among others, (i) by written consent of Ittella
+Parent and Forum, (ii) by written notice from either Forum or Ittella Parent, if the Closing has not occurred on or before September
+30, 2020 (the “Termination Date”), unless the terminating party’s failure to comply with its obligations
+under the Merger Agreement has resulted in the Closing not occurring on or before such date, (iii) by written notice from either
+Forum or Ittella Parent, in the event that the other party breaches any of its representations, warranties, covenants or other
+agreements under the Merger Agreement in a manner that would result in the failure of the conditions to Forum’s obligation
+to consummate the Business Combination as of the Termination Date and such breach has not been cured within 30 days after receiving
+notice, (iv) by written notice to Ittella Parent from Forum if at any time prior to the approval by Forum’s public stockholders,
+the board of directors of Forum shall have effected a change in recommendation and (v) by written notice to Forum from Ittella
+Parent if at any time prior to the approval by Forum’s public stockholders, if the board of directors of Forum shall have
+effected a change in recommendation.
+
+ 
+
+The foregoing description
+of the Merger Agreement and the Business Combination does not purport to be complete and is qualified in its entirety by the terms
+and conditions of the Merger Agreement, a copy of which is attached as Exhibit 2.1 hereto and is incorporated by reference herein.
+The Merger Agreement contains representations, warranties and covenants that the respective parties made to each other as of the
+date of such agreement or other specific dates. The assertions embodied in those representations, warranties and covenants were
+made for purposes of the contract among the respective parties and are subject to important qualifications and limitations agreed
+to by the parties in connection with negotiating such agreement. The Merger Agreement has been attached to provide investors with
+information regarding its terms and is not intended to provide any other factual information about Forum, Ittella Parent or any
+other party to the Merger Agreement. In particular, the representations, warranties, covenants and agreements contained in the
+Merger Agreement, which were made only for purposes of such agreement and as of specific dates, were solely for the benefit of
+the parties to the Merger Agreement, may be subject to limitations agreed upon by the contracting parties (including being qualified
+by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Merger Agreement instead
+of establishing these matters as facts) and may be subject to standards of materiality applicable to the contracting parties that
+differ from those applicable to investors and reports and documents filed with the U.S. Securities and Exchange Commission (the
+“SEC”). Investors should not rely on the representations, warranties, covenants and agreements, or any descriptions
+thereof, as characterizations of the actual state of facts or condition of any party to the Merger Agreement. In addition, the
+representations, warranties, covenants and agreements and other terms of the Merger Agreement may be subject to subsequent waiver
+or modification. The representations and warranties made by the parties in the Merger Agreement will not survive the Closing. Moreover,
+information concerning the subject matter of the representations and warranties and other terms may change after the date of the
+Merger Agreement, which subsequent information may or may not be fully reflected in Forum’s public disclosures.
+
+ 
+
+Restrictive Covenant Agreements
+
+ 
+
+In connection with
+the entry into the Merger Agreement, Forum entered into restrictive covenant agreements (collectively, the “Restrictive
+Covenant Agreements”) with Salvatore Galletti, Sarah Galletti and certain other individuals (the “Restricted
+Parties”). Pursuant to the terms of the Restrictive Covenant Agreements, the Restricted Parties have agreed to certain
+non-compete, non-solicit and non-disparagement provisions. The foregoing description of the Restrictive Covenant Agreements does
+not purport to be complete and is qualified in its entirety by the terms and conditions of the form of Restrictive Covenant Agreement,
+a copy of which is filed as Exhibit 10.1 hereto and is incorporated by reference herein.
+
+ 
+
+Employment Agreements
+
+ 
+
+In connection
+with the entry into the Merger Agreement, Forum entered into customary employment agreements or indicative terms of
+employment with Salvatore Galletti, Sarah Galletti and certain other individuals, effective as of the Closing (collectively,
+the “Employment Agreements”). Pursuant to the terms of the Employment Agreements, Salvatore Galletti,
+Sarah Galletti and certain other individuals accepted employment with Forum. The foregoing description of the Employment
+Agreements does not purport to be complete and is qualified in its entirety by the terms and conditions of the form of
+Employment Agreement, a copy of which is filed as Exhibit 10.2 hereto and is incorporated by reference herein.
+
+ 
+
+Sponsor Earnout Letter
+
+ 
+
+In connection with
+the entry into the Merger Agreement, Forum entered into the Sponsor Earnout Letter with the Sponsor and Ittella Parent (the “Sponsor
+Earnout Letter”), pursuant to which the Sponsor agreed that effective upon the Closing, the Sponsor will place the Sponsor
+Earnout Shares into escrow and subject such shares to the vesting conditions set forth in the Merger Agreement, as described above
+under “Consideration and Sponsor Earnout Shares.” If such vesting conditions are not satisfied, then the Sponsor Earnout
+Shares will be forfeited and cancelled. The foregoing description of the Sponsor Earnout Letter does not purport to be complete
+and is qualified in its entirety by the terms and conditions of the Sponsor Earnout Letter, a copy of which is filed as Exhibit
+10.3 hereto and is incorporated by reference herein.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Amended and Restated Registration
+Rights Agreement
+
+ 
+
+At the Closing,
+Forum will enter into an amended and restated registration rights agreement (the “A&R RRA”) with Forum
+Investors II LLC, Jefferies LLC, EarlyBirdCapital, Inc., UMB Capital Corporation, Salvatore Galletti, Pizzo Food, Srls and
+Stephanie Dieckmann (collectively, the “Investors”), which, among other things, amends and restates the
+registration rights agreement entered into by and among Forum, Forum’s initial directors and officers, the Sponsor,
+Jefferies LLC and EarlyBirdCapital, Inc. at the time of Forum’s initial public offering. Pursuant to the terms of the
+A&R RRA, among other things, Forum will be obligated to file, not later than 120 days after the Closing, a registration
+statement covering the shares of common stock issued or issuable to the Investors.
+
+ 
+
+In addition, Forum’s
+initial investors will agree that they will not transfer (i) 1,250,000 shares of Forum’s Class B common stock (or shares
+of common stock issuable in conversion thereof) (the “Founder Shares”) held by them prior to six months after
+the Closing and (ii) 1,250,000 Founder Shares held by them prior to the earlier of (x) twelve months after the Closing, (y) the
+date on which the last sales price of Forum’s common stock exceeds $12.00, subject to adjustment as provided therein and
+(z) the date on which Forum completes a transaction that results in all of Forum’s stockholders having the right to exchange
+their shares of common stock for cash, securities or other property. In addition, the holders of shares of Forum’s common
+stock received as consideration in the Business Combination will agree not to transfer any of such shares held by them prior to
+six months after the Closing.
+
+ 
+
+The foregoing description
+of the A&R RRA does not purport to be complete and is qualified in its entirety by the terms and conditions of the A&R
+RRA, a copy of which is filed as Exhibit 10.4 hereto and is incorporated by reference herein.
+
+ 
+
+
+
+    Item 7.01
+    Regulation FD Disclosure.
+
+ 
+
+On June 12, 2020, Forum
+and Ittella Parent held an investor call to discuss the Business Combination. A copy of the transcript for the call is furnished
+hereto as Exhibit 99.1.
+
+ 
+
+The information in
+this Item 7.01, including Exhibit 99.1, is furnished and shall not be deemed “filed” for purposes of Section 18 of
+the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to liabilities under
+that section, and shall not be deemed to be incorporated by reference into the filings of Forum under the Securities Act of 1933,
+as amended (the “Securities Act”) or the Exchange Act, regardless of any general incorporation language in such
+filings. This Current Report on Form 8-K will not be deemed an admission as to the materiality of any information of the information
+in this Item 7.01, including Exhibit 99.1.
+
+ 
+
+Important Information About the Business
+Combination and Where to Find It
+
+ 
+
+In connection with
+the Business Combination, Forum intends to file a preliminary proxy statement. Forum will mail a definitive proxy statement and
+other relevant documents to its stockholders. Forum’s stockholders and other interested persons are advised to read, when
+available, the preliminary proxy statement and the amendments thereto and the definitive proxy statement and documents incorporated
+by reference therein filed in connection with the Business Combination, as these materials will contain important information about
+Forum, Ittella Parent and the Business Combination. When available, the definitive proxy statement and other relevant materials
+for the Business Combination will be mailed to stockholders of Forum as of a record date to be established for voting on the Business
+Combination. Stockholders will also be able to obtain copies of the preliminary proxy statement, the definitive proxy statement
+and other documents filed with the SEC that will be incorporated by reference therein, without charge, once available, at the SEC’s
+web site at www.sec.gov, or by directing a request to: Forum Merger II Corporation, 1615 South Congress Avenue, Suite 103, Delray
+Beach, FL 33445, Attention: Secretary, telephone: (212) 739-7860.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+Forum and its directors
+and executive officers may be deemed participants in the solicitation of proxies from Forum’s stockholders with respect to
+the Business Combination. A list of the names of those directors and executive officers and a description of their interests in
+Forum is contained in Forum’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019, which was filed with
+the SEC and is available free of charge at the SEC’s web site at www.sec.gov, or by directing a request to Forum Merger II
+Corporation, 1615 South Congress Avenue, Suite 103, Delray Beach, FL 33445, Attention: Secretary, telephone: (212) 739-7860. Additional
+information regarding the interests of such participants will be contained in the proxy statement for the Business Combination
+when available.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+Ittella Parent and
+its directors and executive officers may also be deemed to be participants in the solicitation of proxies from the stockholders
+of Forum in connection with the Business Combination. A list of the names of such directors and executive officers and information
+regarding their interests in the Business Combination will be included in the proxy statement for the Business Combination when
+available.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report
+on Form 8-K includes “forward-looking statements” within the meaning of the “safe harbor” provisions of
+the Private Securities Litigation Reform Act of 1995. Forum and Ittella Parent’s actual results may differ from their expectations,
+estimates and projections and consequently, you should not rely on these forward looking statements as predictions of future events.
+Words such as “expect,” “estimate,” “project,” “budget,” “forecast,”
+“anticipate,” “intend,” “plan,” “may,” “will,” “could,”
+“should,” “believes,” “predicts,” “potential,” “continue,” and similar
+expressions are intended to identify such forward-looking statements. These forward-looking statements include, without limitation,
+Forum’s and Ittella Parent’s expectations with respect to future performance and anticipated financial impacts of the
+Business Combination, the satisfaction of the closing conditions to the Business Combination and the timing of the completion of
+the Business Combination. These forward-looking statements involve significant risks and uncertainties that could cause the actual
+results to differ materially from the expected results. Most of these factors are outside Forum’s and Ittella Parent’s
+control and are difficult to predict. Factors that may cause such differences include, but are not limited to: (1) the occurrence
+of any event, change or other circumstances that could give rise to the termination of the Merger Agreement or could otherwise
+cause the Business Combination to fail to close; (2) the outcome of any legal proceedings that may be instituted against Forum
+or Ittella Parent following the announcement of the Merger Agreement and the Business Combination; (3) the inability to complete
+the Business Combination, including due to failure to obtain approval of the stockholders of Forum or other conditions to closing
+in the Merger Agreement; (4) the receipt of an unsolicited offer from another party for an alternative business transaction that
+could interfere with the Business Combination; (5) the inability to obtain the listing of the ordinary shares of the post-acquisition
+company on the Nasdaq Stock Market or any alternative national securities exchange following the Business Combination; (6) the
+risk that the announcement and consummation of the Business Combination disrupts current plans and operations; (7) the ability
+to recognize the anticipated benefits of the Business Combination, which may be affected by, among other things, competition, the
+ability of the combined company to grow and manage growth profitably and retain its key employees; (8) costs related to the Business
+Combination; (9) changes in applicable laws or regulations; (10) the possibility that Ittella Parent may be adversely affected
+by other economic, business, and/or competitive factors; (11) the impact of COVID-19 on the combined company’s business;
+and (12) other risks and uncertainties indicated from time to time in the proxy statement to be filed relating to the Business
+Combination, including those under “Risk Factors” therein, and in Forum’s other filings with the SEC. Some of
+these risks and uncertainties may in the future be amplified by the COVID-19 outbreak and there may be additional risks that Forum
+considers immaterial or which are unknown. Forum cautions that the foregoing list of factors is not exclusive. Forum cautions readers
+not to place undue reliance upon any forward-looking statements, which speak only as of the date made. Forum does not undertake
+or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect
+any change in its expectations or any change in events, conditions or circumstances on which any such statement is based.
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report
+on Form 8-K shall not constitute a solicitation of a proxy, consent or authorization with respect to any securities or in respect
+of the Business Combination. This Current Report on Form 8-K shall also not constitute an offer to sell or the solicitation of
+an offer to buy any securities, nor shall there be any sale of securities in any states or jurisdictions in which such offer, solicitation
+or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering
+of securities shall be made except by means of a prospectus meeting the requirements of section 10 of the Securities Act, or an
+exemption therefrom.
+
+ 
+
+
+
+    Item 9.01
+    Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+    2.1†
+     
+    Agreement and Plan or Merger, dated as of June 11, 2020, by and among Forum Merger II Corporation, Sprout Merger Sub, Inc., Myjojo, Inc., and Salvatore Galletti.
+
+    10.1
+     
+    Form of Restrictive Covenant Agreement.
+
+    10.2
+     
+    Form of Employment Agreement.
+
+    10.3
+     
+    Sponsor Earnout Letter, dated as of June 11, 2020, by and among Forum Merger II Corporation, Forum Investors II LLC, Myjojo, Inc. and Salvatore Galletti, as the holder representative.
+
+    10.4
+     
+    Amended
+    and Restated Registration Rights Agreement, dated as of June 11, 2020, by and among Forum Merger II Corporation, Forum
+    Investors II LLC, Jefferies LLC, EarlyBirdCapital, Inc., UMB Capital Corporation, Salvatore Galletti, Pizzo Food, Srls and
+    Stephanie Dieckmann.
+
+    99.1
+     
+    Transcript of Investor Call held on June 12, 2020.
+
+ 
+
+† Certain of the exhibits and schedules
+to this Exhibit have been omitted in accordance with Regulation S-K Item 601(a)(5). The Registrant agrees to furnish a copy of
+all omitted exhibits and schedules to the SEC upon its request.
+
+ 
+
+
+
+    4
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    FORUM MERGER II CORPORATION
+
+     
+     
+     
+
+    Dated: June 12, 2020
+    By:
+    /s/ David Boris
+
+     
+     
+    Name: 
+    David Boris
+
+     
+     
+    Title:
+    
+        Co-Chief Executive Officer and
+        Chief Financial Officer
+
+ 
+
+ 
+
+5
+
+
+
+ 
+
+ 
+
+
+
+

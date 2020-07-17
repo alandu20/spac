@@ -1,0 +1,202 @@
+
+8-K
+1
+d751985d8k.htm
+FORM 8-K
+
+
+Form 8-K
+
+ 
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549  
+  FORM 8-K  
+  CURRENT
+REPORT  Pursuant to Section 13 or 15(d) 
+of the Securities Exchange Act of 1934 
+June 26, 2019  Date
+of Report (date of earliest event reported)  
+  GIGCAPITAL2,
+INC.  (Exact name of Registrant as specified in its charter)
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38924
+ 
+83-3838045
+
+ (State or other jurisdiction
+of incorporation or organization)
+ 
+ (Commission
+File Number)
+ 
+ (I.R.S. Employer
+Identification Number)
+ 2479 E. Bayshore Rd., Suite 200 
+Palo Alto, CA 94303 
+(Address of principal executive offices) 
+(650) 276-7040 
+(Registrants telephone number, including area code) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))  Securities registered pursuant to
+Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbols
+ 
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of Common Stock, one Right and one Warrant
+ 
+GIX.U
+ 
+New York Stock Exchange
+
+Common Stock, par value $0.0001 per share Rights to purchase one-twentieth of one share of Common Stock
+ 
+ GIX
+GIX.RT
+ 
+ New York Stock Exchange
+New York Stock Exchange
+
+Warrants to purchase one share of Common Stock
+ 
+GIX.WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+ Item 8.01. Other Events. 
+On June 26, 2019, GigCapital2, Inc., a Delaware corporation (the Company), announced that the holders of the Companys public
+units (the Public Units), which were issued pursuant to the initial registration statement on Form S-1, as amended
+(File No. 333-231337) and the subsequent registration statement on
+Form S-1 (File No. 333-231979) filed by the Company with the Securities and Exchange Commission in connection with its initial public offering
+(IPO) and declared effective on June 5, 2019, may elect to separately trade the shares of common stock, par value $0.0001 per share (Common Stock), rights and warrants included in such Public Units
+commencing on July 1, 2019.  Each Public Unit consists of one share of Common Stock, one warrant to purchase one share of Common Stock
+(Public Warrant), and one right to receive one-twentieth ( 1/20)
+of one share of Common Stock upon the Companys completion of an initial business combination. Each Public Warrant is exercisable for one share of Common Stock at a price of $11.50 per share. 
+Those Public Units not separated will continue to trade on the NYSE under the symbol GIX.U. The Common Stock, rights and warrants included in the
+Public Units are expected to trade under the symbols GIX and GIX RT and GIX WS, respectively. Holders of Public Units will need to have their brokers contact Continental Stock Transfer & Trust
+Company, the Companys transfer agent, in order to separate the Units into shares of Common Stock, rights and warrants.  A copy of the press release
+issued by the Company announcing the separate trading of the securities underlying the Public Units is attached hereto as Exhibit 99.1. 
+Item 9.01. Financial Statements and Exhibits. 
+(d) Exhibits   
+
+
+
+
+
+
+
+
+
+
+
+
+
+99.1
+  
+Press release dated June 26, 2019 
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.  Dated: June 26, 2019 
+ 
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/ Dr. Avi S. Katz
+
+Name:
+ 
+Dr. Avi S. Katz
+
+Title:
+ 
+ Chief Executive Officer, President and
+Executive Chairman of the GigCapital2, Inc. Board (Principal
+Executive Officer)
+
+
+
+
+

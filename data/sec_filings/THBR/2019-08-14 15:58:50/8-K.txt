@@ -1,0 +1,529 @@
+
+8-K
+1
+f8k080819_thunderbridge2.htm
+FORM 8K
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): August
+13, 2019 (August 8, 2019)
+
+ 
+
+ 
+
+THUNDER BRDIGE ACQUISITION II, LTD.
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+ 
+
+
+
+    Cayman Islands
+     
+    001-39022
+     
+    N/A
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+9912 Georgetown Pike
+
+Suite D203
+
+Great Falls, Virginia 22066
+
+(Address of principal executive offices, including
+zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (202) 431-0507
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    
+        Trading
+        Symbol(s)
+     
+    Name of each exchange on which registered
+
+     
+     
+     
+     
+     
+
+    Units, each consisting of one share of Class A Common Stock and one-half of one Redeemable Warrant
+     
+    THBRU
+     
+    The NASDAQ Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Class A Ordinary Shares, par value $0.0001 per share
+     
+    THBR
+     
+    The NASDAQ Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Warrants, each whole warrant exercisable for one Class A Ordinary Share for $11.50 per share
+     
+    THBRW
+     
+    The NASDAQ Stock Market LLC
+
+ 
+
+
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company þ
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+
+
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On August 13, 2019, Thunder
+Bridge Acquisition II, Ltd. (the “Company”) consummated its initial public offering (“IPO”)
+of 34,500,000 units (the “Units”), including 4,500,000 Units issued pursuant to the exercise in full of the
+underwriter’s over-allotment option. Each Unit consists of one Class A ordinary share of the Company, par value $0.0001
+per share (the “Class A Ordinary Shares”), and one-half of one warrant of the Company (“Warrant”),
+with each whole Warrant entitling the holder thereof to purchase one Class A Ordinary Share for $11.50 per share. The Units
+were sold at a price of $10.00 per Unit, generating gross proceeds to the Company of $345,000,000. 
+
+ 
+
+In connection with the
+IPO, the Company entered into the following agreements, forms of which were previously filed as exhibits to the Company’s
+Registration Statement on Form S-1 (File No. 333-232688) for the IPO, originally filed with the U.S. Securities and Exchange
+Commission (the “Commission”) on July 17, 2019 (as amended, the “Registration Statement”):
+
+ 
+
+
+
+     
+    ·
+    An Underwriting Agreement, dated August 8, 2019, by and among the Company, Morgan Stanley & Co. LLC and Cantor Fitzgerald & Co., as representatives of the several underwriters, a copy of which is attached as Exhibit 1.1 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ·
+    A Warrant Agreement, dated August 8, 2019, by and between the Company and Continental Stock Transfer & Trust Company, as warrant agent, a copy of which is attached as Exhibit 4.1 hereto and incorporated herein by reference. 
+
+ 
+
+
+
+     
+    ·
+    A Letter Agreement, dated August 8, 2019, by and among the Company, its officers, its directors and the Company’s sponsor, Thunder Bridge Acquisition II LLC (the “Sponsor”), a copy of which is attached as Exhibit 10.1 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ·
+    An Administrative Services Agreement, dated August 8, 2019, by and between the Company and Frist Capital Group, LLC, a copy of which is attached as Exhibit 10.2 hereto and incorporated herein by reference.
+                                                 
+
+     
+    ·
+    An Advisory Services Agreement, dated August 8, 2019, by and between the Company and Thunder Bridge Capital, LLC, a copy of which is attached as Exhibit 10.3 hereto and incorporated herein by reference. 
+
+ 
+
+
+
+     
+    ·
+    An Investment Management Trust Agreement, dated August 8, 2019, by and between the Company and Continental Stock Transfer & Trust Company, as trustee, a copy of which is attached as Exhibit 10.4 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ·
+    A Registration Rights Agreement, dated August 8, 2019, by and among the Company, the Sponsor and the holders party thereto, a copy of which is attached as Exhibit 10.5 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ·
+    A Private Placement Warrants Purchase Agreement, dated August 8, 2019 (the “Private Placement Warrants Purchase Agreement”), by and between the Company and the Sponsor, a copy of which is attached as Exhibit 10.6 hereto and incorporated herein by reference.
+                                                 
+
+     
+    ·
+    A Letter Agreement, dated August 8, 2019, by and between the Company and Monroe Capital LLC, a copy of which is attached as Exhibit 10.7 hereto and incorporated herein by reference.
+
+ 
+
+ 
+
+
+
+
+    1 
+     
+    
+
+
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneously with the
+closing of the IPO, pursuant to the Private Placement Warrants Purchase Agreement by and between the Company and the Sponsor, the
+Company completed the private sale of an aggregate of 8,650,000 warrants (the “Private Placement Warrants”)
+to the Sponsor at a purchase price of $1.00 per Private Placement Warrant, generating gross proceeds to the Company of $8,650,000.
+The Private Placement Warrants are identical to the Warrants sold as part of the Units in the IPO, except that the Sponsor has
+agreed not to transfer, assign or sell any of the Private Placement Warrants (except to certain permitted transferees) until 30
+days after the completion of the Company’s initial business combination. The Private Placement Warrants are also not redeemable
+by the Company so long as they are held by the Sponsor or its permitted transferees. No underwriting discounts or commissions were
+paid with respect to such sale. The issuance of the Private Placement Warrants was made pursuant to the exemption from registration
+contained in Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+  
+
+Item 5.03. Amendments to Certificate of Incorporation
+or Bylaws; Change in Fiscal Year.
+
+ 
+
+On August 8, 2019, in connection
+with the IPO, the Company filed its Amended and Restated Memorandum and Articles of Association with the Cayman Islands General
+Registry, effective the same day. The terms of the Amended and Restated Memorandum and Articles of Association are set forth
+in the Registration Statement and are incorporated herein by reference. A copy of the Amended and Restated Memorandum and Articles
+of Association is attached as Exhibit 3.1 hereto and incorporated herein by reference.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+A total of $345,000,000,
+comprised of $338,100,000 of the proceeds from the IPO (which amount includes $12,075,000 of the underwriter’s deferred discount)
+and $6,900,000 of the proceeds of the sale of the Private Placement Warrants, was placed in a U.S.-based trust account, maintained
+by Continental Stock Transfer & Trust Company, acting as trustee. Except with respect to interest earned on the funds in the
+trust account that may be released to the Company to pay its taxes, the funds held in the trust account will not be released from
+the trust account until the earliest of (i) the completion of the Company’s initial business combination, (ii) the redemption
+of any of the Company’s public shares properly submitted in connection with a shareholder vote to amend the Company’s
+amended and restated memorandum and articles of association to (A) modify the substance or timing of its obligation to redeem 100%
+of the Company’s public shares if it does not complete its initial business combination within 24 months from the closing
+of the IPO or (B) with respect to any other provision relating to shareholders’ rights or pre-business combination activity,
+and (iii) the redemption of the Company’s public shares if it is unable to complete its initial business combination within
+24 months from the closing of the IPO, subject to applicable law.
+
+ 
+
+On August 8, 2019,
+the Company issued a press release announcing the pricing of the IPO, a copy of which is attached as Exhibit 99.1 to this
+Current Report on Form 8-K.
+
+ 
+
+On August 13, 2019, the
+Company issued a press release announcing the closing of the IPO, a copy of which is attached as Exhibit 99.2 to this Current Report
+on Form 8-K.
+
+ 
+
+
+
+
+    2 
+     
+    
+
+
+
+
+
+
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+The following exhibits are being filed herewith: 
+
+
+
+    Exhibit No.
+     
+    Description
+
+    1.1
+     
+    Underwriting Agreement, dated August 8, 2019, by and among the Company, Morgan Stanley & Co. LLC and Cantor Fitzgerald & Co.
+
+    3.1
+     
+    Amended and Restated Memorandum and Articles of Association.
+
+    4.1
+     
+    Warrant Agreement, dated August 8, 2019, by and between the Company and Continental Stock Transfer & Trust Company, as warrant agent.
+
+    10.1
+     
+    Letter Agreement, dated August 8, 2019, by and among the Company, its officers, directors and Thunder Bridge Acquisition II LLC.
+
+    10.2
+     
+    Administrative Services Agreement, dated August 8, 2019, by and among the Company and First Capital Group, LLC.
+
+    10.3
+     
+    Advisory Services Agreement, dated August 8, 2019, by and among the Company and Thunder Bridge Capital, LLC.
+
+    10.4
+     
+    Investment Management Trust Agreement, August 8, 2019, by and between the Company and Continental Stock Transfer & Trust Company, as trustee.
+
+    10.5
+     
+    Registration Rights Agreement, dated August 8, 2019, by and among the Company, Thunder Bridge Acquisition II LLC and the holders party thereto.
+
+    10.6
+     
+    Private Placement Warrants Purchase Agreement, dated August 8, 2019, by and between the Company and Thunder Bridge Acquisition II LLC.
+
+    10.7
+     
+    Letter Agreement, dated August 8, 2019, by and between the Company and Monroe Capital LLC.
+
+    99.1
+     
+    Press Release, dated August 8, 2019.
+
+    99.2 
+     
+    Press Release, dated August 13, 2019.
+
+ 
+
+ 
+
+
+    3 
+     
+    
+
+
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    THUNDER BRIDGE ACQUISITION II, LTD.
+
+     
+     
+     
+
+     
+    By:
+    /s/ Gary A. Simanson
+
+     
+     
+    Name: Gary A. Simanson
+
+     
+     
+    Title: Chief Executive Officer
+
+     
+     
+     
+
+    Dated: August 14, 2019
+     
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+    4 
+    
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+

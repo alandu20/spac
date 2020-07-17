@@ -1,0 +1,1317 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+  
+    
+      
+      
+    
+    UNITED STATES
+      SECURITIES AND EXCHANGE COMMISSION
+      Washington, D.C. 20549
+     
+    FORM 8-K
+     
+    CURRENT REPORT
+     
+    PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+     
+    Date of Report (Date of earliest event reported): October 10, 2019
+     
+    TIBERIUS ACQUISITION CORPORATION
+    (Exact name of registrant as specified in its charter)
+     
+     
+    
+
+        
+          
+            Delaware
+          
+          
+            001-38422
+          
+          
+            81-0824240
+          
+        
+        
+          
+            (State or other jurisdiction
+              of incorporation)
+          
+          
+            (Commission
+              File Number)
+          
+          
+            (IRS Employer
+              Identification No.)
+          
+        
+
+    
+     
+     3601 N Interstate 10 Service Rd W
+    Metairie, LA 70002
+    (Address of principal executive offices, including zip code)
+     
+    Registrant’s telephone number, including area code: (504) 881-1060
+    
+    
+    Not Applicable
+      (Former name or former address, if changed since last report)
+    
+    
+     
+    Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+     
+    
+      
+        
+
+            
+              ☒
+              
+                Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+              
+            
+
+        
+      
+    
+     
+    
+      
+        
+
+            
+              ☐
+              
+                Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+              
+            
+
+        
+      
+    
+     
+    
+      
+        
+
+            
+              ☐
+              
+                Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+              
+            
+
+        
+      
+    
+     
+    
+      
+        
+
+            
+              ☐
+              
+                Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+              
+            
+
+        
+      
+    
+    
+    
+    
+      Securities registered pursuant to Section 12(b) of the Act:
+      
+      
+    
+    
+
+        
+          
+            Title of each class
+          
+          
+            Trading Symbol(s)
+          
+          
+            Name of each exchange on which registered
+          
+        
+        
+          
+            Common Stock, par value $0.0001 per share
+          
+          
+            TIBR
+          
+          
+            The NASDAQ Stock Market LLC
+          
+        
+        
+          
+            Warrants to purchase one share of Common Stock
+          
+          
+            TIBRW
+          
+          
+            The NASDAQ Stock Market LLC
+          
+        
+        
+          
+            Units, each consisting of one share of Common Stock and one Warrant
+          
+          
+            TIBRU
+          
+          
+            The NASDAQ Stock Market LLC
+          
+        
+
+    
+    
+    
+    Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+     
+    Emerging growth company ☒
+     
+    If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to
+        Section 13(a) of the Exchange Act. ☐
+     
+     
+    
+       
+    
+      
+        
+    
+    ADDITIONAL INFORMATION
+     
+    Each of Tiberius Acquisition Corporation, a Delaware corporation (“Tiberius”), and International General Insurance Holdings Ltd., a company organized under the laws of the Dubai International
+      Financial Centre (“IGI”), intend that the new Bermuda exempted company (“Pubco”) to be formed in connection with the proposed business combination transaction involving Tiberius and IGI (the “Business Combination”), after its
+      formation, will file with the Securities and Exchange Commission (the “SEC”) a registration statement on Form F-4 (as amended, the “Registration Statement”), which will include a preliminary proxy statement of Tiberius, and a prospectus
+      in connection with the Business Combination.
+    
+    
+    The definitive proxy statement and other relevant documents will be mailed to stockholders of Tiberius as of a record date to be established for voting on the Business Combination.  Stockholders of
+      Tiberius and other interested persons are advised to read, when available, the preliminary proxy statement, and amendments thereto, and the definitive proxy statement in connection with Tiberius’ solicitation of proxies for the special meeting to be
+      held to approve the Business Combination because these documents will contain important information about Tiberius, IGI, Pubco and the Business Combination, including the Merger (as defined below) which will result in the current security holders of
+      Tiberius becoming security holders of Pubco.  Stockholders will also be able to obtain copies of the Registration Statement and the proxy statement/prospectus, without charge, once available, on the SEC’s website at www.sec.gov or by directing a
+      request to Tiberius by contacting its Chief Investment Officer, Andrew J. Poole, c/o Tiberius Acquisition Corporation, 3601 N. Interstate 10 Service Rd. W., Metairie, LA 70002, U.S.A., at (504) 754-6671 or at Apoole@tiberiusco.com.
+     
+    DISCLAIMER
+     
+    This report and the exhibits hereto do not constitute an offer to sell or the solicitation of an offer to buy any securities, or a solicitation of any vote or approval, nor shall there be any sale
+      of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction.  No offering of securities shall be made except by means of a
+      prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended.
+     
+    PARTICIPANTS IN THE BUSINESS COMBINATION
+     
+    Tiberius, Pubco, IGI and their respective directors, executive officers, other members of management and employees, under SEC rules, may be deemed to be participants in the solicitation of proxies
+      from the stockholders of Tiberius in connection with the Business Combination. Stockholders of Tiberius and other interested persons may obtain more information regarding the names and interests in the proposed transaction of Tiberius’ directors and
+      officers in Tiberius’ filings with the SEC, including Tiberius’ annual report on form 10-K for the year-ended December 31, 2018, which was filed with the SEC on March 26, 2019. Additional information regarding the interests of such potential
+      participants will also be included in the Registration Statement of Pubco on Form F-4 (and will be included in the related definitive proxy statement/prospectus) and other relevant documents when they are filed with the SEC.
+     
+    CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+     
+    This report contains “forward-looking statements” within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties
+      concerning the Business Combination, Tiberius’, IGI’s and Pubco’s expected financial performance, as well as their strategic and operational plans.  The actual results may differ materially from its expectations, estimates and projections due to a
+      number of risks and uncertainties and, consequently, you should not rely on these forward looking statements as predictions of future events. Words such as “expect,” “estimate,” “project,” “budget,” “forecast,” “anticipate,” “intend,” “plan,” “may,”
+      “will,” “could,” “should,” “believes,” “predicts,” “potential,” “continue,” and similar expressions are intended to identify such forward-looking statements. These risks and uncertainties include, but are not limited to: (1) the occurrence of any
+      event, change or other circumstances that could give rise to the termination of the Business Combination Agreement (as defined below); (2) the outcome of any legal proceedings that may be instituted against Tiberius, IGI, Pubco or others following
+      announcement of the Business Combination Agreement and the transactions contemplated therein; (3) the inability to complete the transactions contemplated by the Business Combination Agreement due to the failure to obtain approval of the stockholders
+      of Tiberius; (4) delays in obtaining, adverse conditions contained in, or the inability to obtain necessary regulatory approvals or other third party consents required to complete the transactions contemplated by the Business Combination Agreement;
+      (5) the failure to close on any of the third party equity financing commitments that were obtained for equity financing for the Business Combination; (6) delays in satisfying in a timely manner the other conditions contained in the Business
+      Combination Agreement; (7) the risk that the Business Combination disrupts current plans and operations as a result of the announcement and consummation of the transactions described herein; (8) the inability to recognize the anticipated benefits of
+      the Business Combination; (9) the ability to obtain or maintain the listing of Pubco’s securities on NASDAQ following the Business Combination, including having the requisite number of shareholders; (10) costs related to the Business Combination;
+      (11) changes in applicable laws or regulations; (12) the possibility that Tiberius, IGI or Pubco may be adversely affected by other economic, business, and/or competitive factors; and (13) other risks and uncertainties indicated from time to time in
+      filings with the SEC by Tiberius or Pubco.  Readers are referred to the most recent reports filed with the SEC by Tiberius.  Readers are cautioned not to place undue reliance upon any forward-looking statements, which speak only as of the date made. 
+      Tiberius, IGI and Pubco undertake no obligation to update or revise the forward-looking statements, whether as a result of new information, future events or otherwise. 
+     
+    
+      
+        
+    
+    Item 1.01 Entry Into A Material Definitive Agreement.
+     
+    Business Combination Agreement
+     
+    This section describes the material provisions of the Business Combination Agreement but does not purport to describe all of the terms thereof.  The following summary is qualified in its entirety by
+      reference to the complete text of the Business Combination Agreement, a copy of which is attached hereto as Exhibit 2.1. Tiberius’ stockholders, warrant holders and other interested parties are urged to read such agreement in its entirety.  Unless
+      otherwise defined herein, the capitalized terms used below are defined in the Business Combination Agreement.
+     
+    General Terms, Effects and Consideration
+     
+    On October 10, 2019, Tiberius Acquisition Corporation, a Delaware corporation (“Tiberius”), entered into the Business Combination Agreement (the “Business Combination Agreement”) with
+      Lagniappe Ventures LLC, a Delaware limited liability company (the “Sponsor”), in the capacity as the representative from and after the closing of the Business Combination (as defined below) (the “Closing”) for the stockholders of
+      Tiberius (other than the Sellers (as defined below)) (the “Purchaser Representative”), International General Insurance Holdings Ltd., a company organized under the laws of the Dubai International Financial Centre (“IGI”), and Wasef
+      Jabsheh (“Jabsheh”), in the capacity as the representative (the “Seller Representative”) for the holders of IGI’s outstanding ordinary shares that execute and deliver Exchange Agreements (as defined below) in connection with the
+      Business Combination (the “Sellers”), to which a newly-formed Bermuda exempted company (“Pubco”) and its newly-formed wholly-owned subsidiary organized in Delaware (“Merger Sub”) are to become parties thereto pursuant to joinder
+      agreements entered into after the date thereof.
+    
+    
+    In connection with the Business Combination Agreement, on October 10, 2019, certain shareholders of IGI holding approximately 91.4% of the issued and outstanding capital shares of IGI entered into
+      Share Exchange Agreements with IGI, Tiberius and the Seller Representative, pursuant to which Pubco will become a party thereafter upon execution of a joinder thereto (each, an “Exchange Agreement”), and other shareholders of IGI may enter
+      into Exchange Agreements after the date of the Business Combination Agreement and prior to the Closing.
+     
+    Pursuant to the Business Combination Agreement and the Exchange Agreements, subject to the terms and conditions set forth therein, at the Closing (a) Tiberius will merge with and into Merger Sub,
+      with Tiberius continuing as the surviving entity (the “Merger”), and with all holders of Tiberius securities receiving substantially identical securities of Pubco, and (b) Pubco will acquire all or substantially all of the issued and
+      outstanding ordinary shares of IGI (the “Purchased Shares”) from the Sellers in exchange for a mix of cash and ordinary shares of Pubco, with IGI becoming a subsidiary of Pubco (the “Share Exchange”, and together with the Merger and the
+      other transactions contemplated by the Business Combination Agreement, the “Business Combination”).
+     
+    The total consideration to be paid by Pubco to the Sellers for the Purchased Shares (the “Transaction Consideration”) will be equal to (i) the sum of (the “Adjusted Book Value”) (A) the
+      total consolidated book equity value of IGI and its subsidiaries as of the most recent month end of IGI prior to the Closing (the “Book Value”), plus (B) the amount of IGI’s out-of-pocket transaction expenses which reduced the Book Value from
+      what it would have been if such expenses had not been incurred, multiplied by (ii) 1.22, and multiplied by (iii) a fraction equal to (A) the total number of Purchased Shares divided by (B) the total number of issued and outstanding IGI ordinary
+      shares as of the Closing.
+    
+    
+    
+      
+        
+    
+    $80,000,000 of the Transaction Consideration will be paid in cash (the “Cash Consideration”), with each Purchased Share acquired for cash paid based on a value equal to two times Adjusted Book
+      Value per share.  The Purchased Shares paid with the Cash Consideration will be allocated among the Sellers based on an agreed upon formula, with Jabsheh receiving $65,000,000 of the Cash Consideration, Jabsheh’s family members receiving no Cash
+      Consideration and the remaining Sellers receiving the remaining $15,000,000 pro rata based on the Purchased Shares owned by each such remaining Seller.
+    
+    
+    The remaining Transaction Consideration will be paid by Pubco to the Sellers by delivery of newly issued ordinary shares of Pubco (the “Exchange Shares”) equal in value to the Transaction
+      Consideration less the Cash Consideration (the “Equity Consideration”), with each Exchange Share valued at the price per share (the “Redemption Price”) at which each Tiberius share of common stock is redeemed or converted pursuant to
+      the redemption by Tiberius of its public stockholders in connection with Tiberius’ initial business combination, as required by its amended and restated certificate of incorporation and Tiberius’ initial public offering prospectus (the “Redemption”). 
+
+
+
+
+
+
+
+
+
+      The Exchange Shares will be allocated among the Sellers pro rata based on the total number of Purchased Shares held by them after deducting the number of Purchased Shares paid for with the Cash Consideration.
+    
+    
+    A number of Exchange Shares otherwise issuable to the Sellers at the Closing equal to 2.5% of the Transaction Consideration (the “Escrow Shares”) will be set aside in escrow and delivered to
+      Continental Stock Transfer & Trust Company (or such other escrow agent reasonably acceptable to Tiberius and IGI), as escrow agent (the “Escrow Agent”), at the Closing, with such Escrow Shares, and any dividends, distributions or other
+      earnings thereon, to be used as the sole source of remedy available to Pubco for any post-closing Transaction Consideration negative adjustments.  The Escrow Shares will be allocated among the Sellers pro rata based on the number of Exchange Shares
+      received by each Seller, and while held in escrow, each Seller will have voting rights on the Escrow Shares based on such allocation.  The Transaction Consideration to be paid by Pubco at the Closing will be based off of an estimate of the most
+      current month-end Adjusted Book Value at the Closing and subject to a post-Closing true-up.  If the true-up results in a decrease in the Transaction Consideration, such true-up will be paid to Pubco by delivery of the Escrow Shares (which will be
+      effectively cancelled by Pubco) and other escrow property based on a price per share equal to the Redemption Price.  If the true-up results in an increase in the Transaction Consideration, such true-up will be paid by Pubco by delivery of additional
+      Exchange Shares based on a price per share equal to the Redemption Price (and without a cap on the number of additional Exchange Shares to be issued).  Upon the final determination of the true-up, any remaining Escrow Shares or other escrow property
+      will be delivered to the Sellers.
+     
+    Representations and Warranties
+     
+    The Business Combination Agreement contains a number of representations and warranties made by Tiberius and IGI as of the date of such agreement (or other specific dates) and as of the Closing, and
+      by Pubco as of the date that it executes and delivers a joinder to become party thereto (or other specific dates) and as of the Closing.  Such representations and warrants are made solely for the benefit of certain of the parties to the Business
+      Combination Agreement, which in certain cases are subject to specified exceptions and materiality, Material Adverse Effect, knowledge and other qualifications contained in the Business Combination Agreement or in information provided pursuant to
+      certain disclosure schedules to the Business Combination Agreement.  “Material Adverse Effect” as used in the Business Combination Agreement means with respect to any specified person or entity, any fact, event, occurrence, change or effect
+      that has had or would reasonably be expected to have a material adverse effect on the business, assets, results of operations or financial condition of such person or entity and its subsidiaries, taken as a whole, or the ability of such person or
+      entity or any of its subsidiaries on a timely basis to consummate the transactions contemplated by the Business Combination Agreement or the ancillary documents to which it is a party or bound or to perform its obligations thereunder, in each case
+      subject to certain customary exceptions. The representations and warranties made by Tiberius, IGI and Pubco are customary for transactions similar to the Business Combination.
+    
+    
+    
+      
+        
+    
+    Covenants of the Parties
+     
+    Each party agreed in the Business Combination Agreement to use its commercially reasonable efforts to effect the Closing.  The Business Combination Agreement also contains certain customary covenants
+      by each of the parties during the period between the signing of the Business Combination Agreement and the earlier of the Closing or the termination of the Business Combination Agreement in accordance with its terms (the “Interim Period”),
+      including covenants regarding: (1) the provision of access to their properties, books and personnel; (2) the operation of their respective businesses in the ordinary course of business; (3) Tiberius’ public filings; (4) no solicitation of, or
+      entering into, any alternative competing transactions; (5) no insider trading; (6) notifications of certain breaches, consent requirements or other matters; (7) efforts to consummate the Closing and obtain third party and regulatory approvals; (8)
+      further assurances; (9) public announcements; (10) confidentiality; (11) indemnification of directors and officers; (12) use of trust proceeds after the Closing; (13) the equity financing commitments and warrant purchase agreement entered into by
+      Tiberius at or prior to the date of the Business Combination Agreement; (14) the delisting and registration of Tiberius securities from Nasdaq and the SEC after the Closing; (15) obtaining new employment agreements from specified senior management of
+      IGI and its subsidiaries; (16) the listing of the Pubco common shares on Nasdaq; and (17) the adoption of a new equity incentive plan for Pubco, with a number of awards thereunder equal to 10% of the number of issued and outstanding shares of Pubco
+      immediately after the Closing.
+     
+    The parties also agreed to take all necessary actions to cause Pubco’s board of directors immediately after the Closing to consist of 7 directors, 2 persons designated by Tiberius prior to the
+      Closing, at least one of whom qualifies as an independent director under Nasdaq rules, and 5 persons designated by IGI prior to the Closing, at least two of whom qualify as independent directors under Nasdaq rules, with such Pubco board to be
+      classified with each director serving three year terms (other than the initial term after the Closing).
+     
+    Tiberius and Pubco also agreed to prepare, with the assistance of IGI, and use their commercially reasonable efforts to file a registration statement on Form F-4 (as amended, the “Registration
+        Statement”) with the Securities and Exchange Commission (the “SEC”) in connection with the registration under the Securities Act of 1933, as amended (the “Securities Act”) of the issuance of securities of Pubco to the holders of
+      the Tiberius securities and containing a proxy statement/prospectus for the purpose of soliciting proxies from the shareholders of Tiberius for the matters relating to the Business Combination to be acted on at the special meeting of the shareholders
+      of Tiberius and providing such holders an opportunity to participate in the Redemption.  Tiberius agreed that it will include in the proxy statement the recommendation of its board of directors to approve the Business Combination Agreement and the
+      Business Combination, and to use its best efforts to obtain the approvals of its shareholders for the Business Combination and other required matters, and not change its recommendation.
+    
+    
+    IGI also agreed to use its commercially reasonable efforts during the Interim Period to deliver to Pubco and Tiberius additional Exchange Agreements from its shareholders who did not do so at the
+      time of the signing of the Business Combination Agreement, although the Closing is not conditioned upon receiving Exchange Agreements from 100% of IGI’s shareholders.
+    
+    
+    Survival
+     
+    The representations and warranties of the parties terminate as of and do not survive the Closing, and there are no indemnification rights for another party’s breach.  The covenants and agreements of
+      the parties shall not survive the Closing, except those covenants and agreements to be performed after the Closing which covenants and agreement shall survive until fully performed.
+     
+    Conditions to Closing
+     
+    The obligations of the parties to consummate the Business Combination are subject to various conditions, including the following mutual conditions of the parties unless waived: (i) the approval of
+      the Business Combination Agreement and the transactions contemplated thereby and related matters by the requisite vote of Tiberius’ shareholders; (ii) receipt of specified requisite consents from governmental authorities to consummate the Business
+      Combination; (iii) no law or order preventing or prohibiting the Business Combination; (iv) no pending litigation brought by a governmental authority to enjoin the consummation of the Closing; (v) Tiberius having at least $5,000,001 in net tangible
+      assets as of the Closing, after giving effect to the completion of the Redemption and any equity financing; (vi) the election or appointment of members to Pubco’s board of directors as described above; (vii) the shareholders of Pubco having adopted
+      an amended and restated bye-laws of Pubco in a form to be agreed upon prior to the Closing by Tiberius and IGI, based on a form attached as an exhibit to the Business Combination Agreement; (ix) receipt by IGI and Tiberius of reasonably satisfactory
+      evidence that Pubco qualifies as a foreign private issuer; (x) the effectiveness of the Registration Statement; and (xi) the Pubco common shares shall have been approved for listing on the Nasdaq, subject only to notice of issuance.
+     
+    
+      
+        
+    
+    
+      In addition, unless waived by IGI, the obligations of IGI, Pubco and Merger Sub to consummate the Business Combination are subject to the satisfaction of the following Closing conditions, in addition to customary
+        certificates and other closing deliveries: (i) the representations and warranties of Tiberius being true and correct as of the date of the Business Combination Agreement and as of the Closing (subject to Material Adverse Effect); (ii) Tiberius
+        having performed in all material respects its obligations and complied in all material respects with its covenants and agreements under the Business Combination Agreement required to be performed or complied with by it on or prior to the date of
+        the Closing; (iii) absence of any Material Adverse Effect with respect to Tiberius since the date of the Business Combination Agreement which is continuing and uncured; (iv) Tiberius having at least $100,000,000 in cash and cash equivalents,
+        including funds in the Trust Account and from any equity financing, at the Closing after giving effect to the Redemption, but prior to the payment of any expenses or other liabilities (the “Minimum Cash Condition”); (v) the Sponsor Share
+        Letter (as described below) being in full force and effect and the Sponsor will have made the transfers required thereunder; (vi) receipt by IGI and Pubco of (A) a Registration Rights Agreement in substantially the form attached as an exhibit to
+        the Business Combination Agreement (the “Registration Rights Agreement”), duly executed by the Purchaser Representative, (B) an amendment to Tiberius’ registration rights agreement that it entered into with the Sponsor and certain other
+        shareholders at the time of its initial public offering in substantially the form attached as an exhibit to the Business Combination (the “Founder Registration Rights Agreement Amendment”) , duly executed by Tiberius and the holders of a
+        majority of the “Registrable Securities thereunder, and (C) an Escrow Agreement for the Escrow Shares among Pubco, the Purchaser Representative, the Seller Representative and the Escrow Agent, in form and substance consistent with the Business
+        Combination Agreement and otherwise reasonably acceptable to the parties (the “Escrow Agreement”), duly executed by the Purchaser Representative and the Escrow Agent; (vii) receipt by IGI of written resignations from the directors and
+        officers of Tiberius; (viii) the funds in Tiberius’ trust account shall have been disbursed in accordance with the requirements of the Business Combination Agreement; and (ix) the Sellers shall have received reasonable evidence of the payment of
+        the Cash Consideration and a copy of irrevocable instructions of Pubco (or the Purchaser Representative on its behalf) to the transfer agent to issue the Exchange Shares (including the Escrow Shares) specified in the Business Combination Agreement.
+      
+      
+      The Subscription Agreements, Backstop Subscription Agreements, Waiver Agreement and Underwriting Agreement Amendment (as each is described below), together with the forward purchase contracts that Tiberius entered into
+        at the time of its initial public offering and redemption waiver arrangements that Tiberius previously entered into with Church Mutual Insurance Company and Allen Bradley, are sufficient commitments to meet the Minimum Cash Condition, even if all
+        other Tiberius public stockholders redeem their shares in the Redemption.
+    
+    
+    
+    Unless waived by Tiberius, the obligations of Tiberius to consummate the Business Combination are subject to the satisfaction of the following Closing conditions, in addition to customary
+      certificates and other closing deliveries: (i) the representations and warranties of IGI, Pubco and Merger Sub being true and correct as of the date of the Business Combination Agreement (or with respect to any Pubco and Merger Sub, the date of their
+      respective joinder agreements) and as of the Closing (subject to Material Adverse Effect); (ii) IGI, Pubco and Merger Sub having performed in all material respects the respective obligations and complied in all material respects with their respective
+      covenants and agreements under the Business Combination Agreement required to be performed or complied with on or prior to the date of the Closing; (iii) absence of any Material Adverse Effect with respect to Pubco, IGI and IGI’s subsidiaries, taken
+      as a whole, since the date of the Business Combination Agreement which is continuing and uncured; (iv) the Non-Competition Agreement (as described below) and each Lock-Up Agreement (as described below) being in full force and effect; (v) Tiberius
+      having received duly executed Exchange Agreements from IGI shareholders holding at least 90% of the issued and outstanding IGI ordinary shares, and the closings thereunder shall have been consummated simultaneously with the Closing; (vi)  receipt by
+      Tiberius of (A) the Registration Rights Agreement, duly executed by Pubco and the Sellers; (B) the Founders Registration Rights Agreement Amendment, duly executed by Pubco, and (C) the Escrow Agreement, duly executed by Pubco, the Seller
+      Representative and the Escrow Agent; (vii) receipt by Tiberius of the evidence of the termination and full satisfaction as of the Closing of any outstanding options, warrants or other convertible securities of IGI; and (viii) receipt by Tiberius of
+      share certificates and other documents evidencing the transfer of the Purchased Shares to Pubco.
+     
+    
+      
+        
+    
+    Termination
+     
+    The Business Combination Agreement may be terminated under certain customary and limited circumstances at any time prior the Closing, including, among other reasons: (i) by mutual written consent of
+      Tiberius and IGI; (ii) by either Tiberius or IGI if the Closing has not occurred on or prior to March 15, 2020 (the “Outside Date”) (provided, that if Tiberius seeks and obtains from its shareholders an extension of its deadline to consummate
+      its initial business combination, Tiberius will have the right to extend the Outside Date for a period equal to the shorter of 3 months and the time period until such extended deadline to consummate its initial business combination), and the failure
+      of the Closing to occur by such date was not caused by or the result of a breach of the Business Combination Agreement by such terminating party (or with respect to IGI, Pubco or Merger Sub), (iii) by either Tiberius or IGI if a governmental
+      authority of competent jurisdiction shall have issued an order or taken any other action permanently restraining, enjoining or otherwise prohibiting the Business Combination, and such order or other action has become final and non-appealable; (iv) by
+      IGI for Tiberius’ uncured breach of the Business Combination Agreement, such that the related Closing condition would not be met; (v) by Tiberius for the uncured breach of the Business Combination Agreement by IGI, Pubco or Merger Sub, such that the
+      related Closing condition would not be met; (vi) by Tiberius if there has been a Material Adverse Effect with respect to Pubco, IGI and IGI’s subsidiaries, taken as a whole, since the date of the Business Combination Agreement which is uncured and
+      continuing; (vii) by either Tiberius or IGI if Tiberius holds its shareholder meeting to approve the Business Combination Agreement and the Business Combination and such approval is not obtained; or (viii) by IGI if Tiberius’ board of directors
+      publicly changes its recommendation to Tiberius’ stockholders to vote in favor of the Business Combination Agreement and the Business Combination.
+    
+    
+    If the Business Combination Agreement is terminated, all further obligations of the parties under the Business Combination Agreement (except for certain obligations related to publicity,
+      confidentiality, fees and expenses, trust fund waiver, no recourse, termination and general provisions) will terminate, and no party to the Business Combination Agreement will have any further liability to any other party thereto except for liability
+      for fraud or for willful breach of the Business Combination Agreement prior to termination.
+    
+    
+    Trust Account Waiver and Non-Recourse
+     
+    
+      IGI, Pubco and Merger Sub agreed that they and their affiliates will not have any right, title, interest or claim of any kind in or to any monies in Tiberius’ trust account held for its public
+        shareholders, and agreed not to, and waived any right to, make any claim against the trust account (including any distributions therefrom).
+       
+      The parties agreed that all claims or actions that may be based upon, arise out of or relate to the Business Combination Agreement or any of the ancillary documents may only be made against the
+        parties to the Business Combination Agreement and not against any of their past, present or future directors, officers, employees, members, managers, partners, affiliates, agents, attorneys or representatives.
+    
+     
+    Purchaser Representative and Seller Representative
+     
+    The Sponsor is serving as the Purchaser Representative under the Business Combination Agreement, and in such capacity will represent the interests of Tiberius’ and Pubco’s stockholders after the
+      Closing (other than the Sellers) with respect to certain matters under the Business Combination Agreement, including the determination of any Transaction Consideration adjustments after the Closing.  Wasef Jabsheh is serving as the Seller
+      Representative under the Business Combination Agreement, and in such capacity will represent the interests of the Sellers with respect to certain matters under the Business Combination Agreement, including the determination of any Transaction
+      Consideration adjustments after the Closing.
+    
+    
+    Governing Law and Arbitration
+     
+    The Business Combination Agreement is governed by New York law and, subject to the required arbitration provisions, the parties are subject to exclusive jurisdiction of federal and state courts
+      located in New York County, State of New York (and any appellate courts thereof). Any disputes under the Business Combination Agreement, other than claims for injunctive or temporary equitable relief or enforcement of an arbitration award, will be
+      subject to arbitration by the International Chamber of Commerce, to be held in New York County, State of New York.
+     
+    
+      
+        
+    
+    A copy of the Business Combination Agreement is filed with this Current Report on Form 8-K as Exhibit 2.1 and is incorporated herein by reference, and the foregoing description of the
+        Business Combination Agreement is qualified in its entirety by reference thereto. 
+    
+     
+      
+    The Business Combination Agreement contains representations, warranties and covenants that the respective parties made to each other as of the date of such
+        agreement or other specific dates. The assertions embodied in those representations, warranties, covenants and agreements were made for purposes of the contract among the respective parties and are subject to important qualifications and
+        limitations agreed to by the parties in connection with negotiating such agreement. The Business Combination Agreement has been filed to provide investors with information regarding its terms, but it is not intended to provide any other factual
+        information about Tiberius, Pubco, IGI or any other party to the Business Combination Agreement. In particular, the representations and warranties, covenants and agreements contained in the Business Combination Agreement, which were made only for
+        purposes of such agreement and as of specific dates, were solely for the benefit of the parties to the Business Combination Agreement, may be subject to limitations agreed upon by the contracting parties (including being qualified by confidential
+        disclosures made for the purposes of allocating contractual risk between the parties to the Business Combination Agreement instead of establishing these matters as facts) and may be subject to standards of materiality applicable to the contracting
+        parties that differ from those applicable to investors and reports and documents filed with the SEC.  Investors should not rely on the representations, warranties, covenants and agreements, or any descriptions thereof, as characterizations of the
+        actual state of facts or condition of any party to the Business Combination Agreement.  In addition, the representations, warranties, covenants and agreements and other terms of the Business Combination Agreement may be subject to subsequent waiver
+        or modification.  Moreover, information concerning the subject matter of the representations and warranties and other terms may change after the date of the Business Combination Agreement, which subsequent information may or may not be fully
+        reflected in Tiberius’ or Pubco’s public disclosures. 
+     
+    Related Agreements
+    
+    
+    Exchange Agreements
+    
+    
+    In connection with the Business Combination Agreement, on October 10, 2019, certain shareholders of IGI holding approximately 91.4% of the issued and outstanding capital shares of IGI entered into
+      Exchange Agreements, and other shareholders of IGI may enter into Exchange Agreements after the date of the Business Combination Agreement and prior to the Closing.  Under the Exchange Agreements, each Seller thereto agreed to sell to Pubco its
+      Purchased Shares in exchange for its portion of the Transaction Consideration under the Business Combination Agreement (less such Seller’s portion of the Escrow Shares), the consummation of such purchase and sale of Purchased Shares to occur
+      simultaneously with the Closing.  There are no rights to terminate an Exchange Agreement, except that each Exchange Agreement will automatically terminate upon termination of the Business Combination Agreement.
+    
+    
+    
+      Each Seller made certain limited representations and warranties to IGI, Tiberius and Pubco in its Exchange Agreement, and acknowledged and consented to the terms of the Business Combination Agreement and approved IGI’s
+        execution, delivery and performance of the Business Combination Agreement and ancillary documents and the consummation of the transactions contemplated thereby.  Each Seller agreed that such Seller and its affiliates will not have any right, title,
+        interest or claim of any kind in or to any monies in Tiberius’ trust account held for its public shareholders, and agreed not to, and waived any right to, make any claim against the trust account (including any distributions therefrom).  Each
+        Seller, on behalf of itself and its affiliates, also provided a general release of IGI and its subsidiaries, effective as of the Closing, other than its rights under the Exchange Agreement and ancillary documents and certain claims related to
+        employment or service as a director or officer.  Each Seller agreed (1) to certain confidentiality obligations, (2) not to publicize the Exchange Agreement or ancillary documents, (3) to terminate any outstanding shareholders, voting or
+        registration rights agreements, (4) not to transfer any IGI ordinary shares unless the transferee executes and delivers an Exchange Agreement and any applicable ancillary documents, except that Jabsheh is only permitted to transfer to his family
+        members or affiliates, (5) to no solicitation of, or entering into, any alternative competing transactions, (6) to no insider trading and (7) to use its commercially reasonable efforts to consummate the closing under the Exchange Agreement and to
+        provide further assurances.  The representations, warranties and covenants of each Seller do not survive the closing of the Exchange Agreement, except for those covenants to be performed after such closing, which will survive until performed in
+        accordance with their terms.  Each Seller also appointed the Seller Representative to serve as its representative under the Business Combination Agreement, the Exchange Agreement and ancillary documents.
+    
+    
+    
+    
+      
+        
+    
+        The Exchange Agreement signed by Oman International Development & Investment
+      Company SAOG (“Omnivest”) also gave such Seller certain consent rights over amendments to the Business Combination Agreement.  The Exchange Agreement signed by Argo Re Limited (“Argo”) also (1) gave such Seller certain consent rights
+      over amendments or waivers to the Business Combination Agreement, the Sponsor Share Letter or the Registration Rights Agreement, (2) limited the Seller release to releasing matters that it solely has as an equity holder of IGI and carved out fraud
+      claims, and (3) included certain representations and warranties by Tiberius, IGI, Pubco and the Seller Representative. 
+    
+    
+    A copy of the form of Share Exchange Agreement is filed with this Current Report on Form 8-K as Exhibit 10.1, the specific Share Exchange Agreements signed by Jabsheh, Argo and Omnivest are filed
+      with this Current Report on Form 8-K as Exhibits 10.2, 10.3 and 10.4.  Each of the foregoing Exchange Agreements are incorporated herein by reference, and the foregoing description of the Exchange Agreements is qualified in its entirety by reference
+      thereto. 
+    
+    
+    Non-Competition Agreement
+    
+    
+    Simultaneously with the execution of the Business Combination Agreement on October 10, 2019, Jabsheh, Tiberius, IGI and the Purchaser Representative entered into a Non-Competition and
+      Non-Solicitation Agreement (the “Non-Competition Agreement”) to which Pubco will become a party after the date thereof by executing and delivering a joinder thereto, in favor of Tiberius, Pubco, IGI and their respective successors, affiliates
+      and subsidiaries (collectively, the “Covered Parties”) relating to the Covered Parties’ business after the Closing, such Non-Competition Agreement to become effective upon the Closing.  Under the Non-Competition Agreement, for a period of
+      three (3) years after the Closing (the “Restricted Period”), Jabsheh and his controlled affiliates will not, without Pubco’s prior written consent, anywhere in Asia, Africa, the Middle East, Central America, South America Continental Europe or
+      in any other markets in which the Covered Parties are engaged, or are actively contemplating to become engaged, in the Business, as of the date of the Closing or during the Restricted Period (or own, manage, finance or control, or become engaged or
+      serve as an officer, director, employee, member, partner, agent, consultant, advisor or representative of, an entity that engages in) of commercial property and casualty insurance and reinsurance (collectively, the “Business”).  However,
+      Jabsheh and his controlled affiliates may own passive investments of no more than 3% of the total outstanding equity interests of a competitor that is publicly traded, so long as Jabsheh and his controlled affiliates and their respective equity
+      holders, directors, officers, managers and employees who were involved with the business of any of the Covered Parties are not involved in the management or control of such competitor.  Under the Non-Competition Agreement, during the Restricted
+      Period, Jabsheh and his controlled affiliates also will not, without Pubco’s prior written consent, (i) solicit or hire the Covered Parties’ employees, consultants or independent contractors as of the Closing, during the Restricted Period or at any
+      time within the 6 month period prior to such solicitation, or (ii) solicit or induce the Covered Parties’ customers as of the Closing, during the Restricted Period or at any time within the 6 month period prior to such solicitation.  Jabsheh also
+      agreed to certain confidentiality obligations with respect to the information of the Covered Parties.
+    
+    
+    A copy of the Non-Competition Agreement is filed with this Current Report on Form 8-K as Exhibit 10.5 and is incorporated herein by reference, and the foregoing description of the Non-Competition
+      Agreement is qualified in its entirety by reference thereto.
+    
+    
+    Lock-Up Agreements
+    
+    
+    Simultaneously with the execution of the Business Combination Agreement on October 10, 2019, the Purchaser Representative and each of Jabsheh, Argo and Omnivest (each; a “Holder”) entered into
+      Lock-Up Agreements (each, a “Lock-Up Agreement”), to which Pubco will become a party after the date thereof by executing and delivering joinders thereto, with respect to their Exchange Shares (including Escrow Shares and any additional
+      Exchange Shares issued after the Closing for the Transaction Consideration adjustments) (collectively, the “Restricted Securities”), such Lock-Up Agreements to become effective upon the Closing.
+    
+    
+    In the Lock-Up Agreement signed by Jabsheh, Jabsheh agreed that he will not, during the period from the Closing and ending on the earlier of (x) one year after the date of the Closing, (y) the date
+      on which the closing sale price of Pubco common shares equals or exceeds $12.00 per share for any 20 trading days within any 30 trading day period commencing at least 150 days after the Closing, and (z) the date after the Closing on which Pubco
+      consummates a liquidation, merger, share exchange or other similar transaction with an unaffiliated third party (a “Subsequent Transaction”), sell, transfer, assign, pledge, hypothecate or otherwise dispose of, directly or indirectly, the
+      Restricted Securities, or publicly disclose the intention to do any of the foregoing.
+    
+    
+    
+      
+        
+    
+    In the Lock-Up Agreements signed by Argo and Omnivest, only two-thirds of their Exchange Shares (including Escrow Shares) will be Restricted Securities and one-third of their Exchange Shares will not
+      be subject to restrictions under the Lock-Up Agreement (which unrestricted shares will not include their Escrow Shares).  With respect to their Restricted Securities, they each agreed that they will not, during the period from the Closing and ending
+      (i) with respect to 50% of their Restricted Securities (excluding any Escrow Shares), on the earlier of (x) 6 months after the date of the Closing and (y) the date after the Closing on which Pubco consummates a Subsequent Transaction and (ii) with
+      respect to the remaining 50% of their Restricted Securities (including all Escrow Shares), the earliest of (x) one year after the date of the Closing, (y) the date on which the closing sale price of Pubco common shares equals or exceeds $12.00 per
+      share for any 20 trading days within any 30 trading day period commencing at least 150 days after the Closing, and (z) the date after the Closing on which Pubco consummates a Subsequent Transaction.
+    
+    
+    Each Holder agreed in its Lock-Up Agreement that the Escrow Shares will continue to be subject to such transfer restrictions until they are released from the escrow account.  However, each Holder
+      will be allowed to transfer any of its Restricted Securities (other than the Escrow Shares while they are held in the escrow account) (1) by gift, (2) by will or intestate succession, (3) to any immediate family member, any trust for immediate family
+      members, any entity or trust for bona fide estate or tax planning purposes, if Holder is a trust, to the trustor or beneficiary of such trust or the estate of a beneficiary of such trust, if Holder is an entity, as a distribution to limited partners,
+      shareholders, members of, or owners or of similar equity interests in Holder upon the liquidation and dissolution of Holder, or to any affiliate of Holder, (4) pursuant to a court order or settlement agreement relating to the dissolution of a
+      marriage or civil union, or (5) with respect to Argo and Omnivest only (but not with respect to Jabsheh) in a transfer of all of the Restricted Securities owned by such Holder (other than Escrow Shares) pursuant to private block transfers in one or a
+      series of related transactions, provided in each such case that the transferee thereof agrees to be bound by the restrictions set forth in the applicable Lock-Up Agreement.
+    
+    
+    Copies of the Lock-Up Agreements are filed with this Current Report on Form 8-K as Exhibits 10.6, 10.7 and 10.8 and are incorporated herein by reference, and the foregoing description of the Lock-Up
+      Agreements is qualified in its entirety by reference thereto.
+    
+    
+    Sponsor Share Letter
+    
+    
+    Simultaneously with the execution of the Business Combination Agreement on October 10, 2019, the Sponsor, Tiberius, IGI, Jabsheh and Argo entered into a letter agreement (the “Sponsor Share Letter”),
+
+
+
+
+
+
+
+
+
+      to which Pubco will become a party after the date thereof by executing and delivering a joinder thereto, pursuant to which the Sponsor agreed (a) to transfer to Jabsheh at the Closing (i) 4,000,000 of its Tiberius private warrants (which will become
+      Pubco private warrants at the Closing) and (ii) 1,000,000 of its Tiberius founder shares (represented by Pubco common shares issued in exchange therefor in the Merger) (the “Jabsheh Earnout Shares”), with such Jabsheh Earnout Shares being
+      subject to certain vesting and share acquisition provisions as set forth therein, (b) to transfer to Argo at the Closing (i) 500,000 of its Tiberius private warrants (which will become Pubco private warrants at the Closing) and (ii) 39,200 of its
+      Tiberius founder shares (represented by Pubco common shares issued in exchange therefor in the Merger) (the “Argo Earnout Shares”), with such Argo Earnout Shares being subject to certain vesting and share acquisition provisions as set forth
+      therein, (c) effective upon the Closing to subject 1,973,300 of its Tiberius founder shares (represented by Pubco common shares issued in exchange therefor in the Merger) (the “Sponsor Earnout Shares” and together with the Jabsheh Earnout
+      Shares and the Argo Earnout Shares, the “Earnout Shares”) to potential vesting and share acquisition obligations as set forth therein, (d) to waive its right to convert any loans outstanding to Tiberius into Tiberius warrants and/or Pubco
+      warrants so long as such loans are repaid at Closing, and (e) to not, without the prior written consent of IGI, seek or agree to a waiver or amendment of or terminate the provisions of the letter agreement, dated as of March 15, 2018 (the “Insider
+        Letter”), by and among Tiberius, Sponsor and certain other insiders named therein, regarding the Sponsor’s agreements therein not to redeem any of its Tiberius securities in connection with the Closing, not to transfer any of its Tiberius
+      securities prior to the Closing and to vote in favor of the Business Combination at the special meeting of Tiberius shareholders.
+    
+    
+    
+      
+        
+    
+     
+    
+     The Earnout Shares will not be permitted to be transferred by any of Jabsheh, Argo or the Sponsor unless and until they vest in accordance with the requirements of the Sponsor Share Letter.  Any
+      Earnout Shares that fail to vest on or prior to the eight year anniversary of the Closing (the period from the Closing until such date, the “Earnout Period”) will be transferred to Pubco for cancellation.  Unless and until any Earnout Shares
+      are transferred to Pubco for cancellation, each of Jabsheh, Argo and the Sponsor will own all rights to such Earnout Shares, subject to the transfer restrictions.  The Earnout Shares will vest and no longer be subject to acquisition by Pubco for
+      cancellation as follows:
+     
+    
+    
+
+        
+          
+            Holder
+          
+           
+          
+            Number of
+            Earnout Shares
+          
+           
+           
+          
+            Pubco Share Price
+            Threshold*
+          
+           
+        
+        
+          
+            Jabsheh
+          
+           
+           
+          
+            600,000
+          
+           
+           
+          
+            
+            
+          
+          
+            $11.50
+          
+           
+        
+        
+           
+           
+           
+          
+            400,000
+          
+           
+           
+          
+            
+            
+          
+          
+            $12.75
+          
+           
+        
+        
+          
+            Argo
+          
+           
+           
+          
+            39,200
+          
+           
+           
+          
+            
+            
+          
+          
+            $12.75
+          
+           
+        
+        
+          
+            Sponsor
+          
+           
+           
+          
+            800,000
+          
+           
+           
+          
+            
+            
+          
+          
+            $11.50
+          
+           
+        
+        
+           
+           
+           
+          
+            160,800
+          
+           
+           
+          
+            
+            
+          
+          
+            $12.75
+          
+           
+        
+        
+           
+           
+           
+          
+            550,000
+          
+           
+           
+          
+            
+            
+          
+          
+            $14.00
+          
+           
+        
+        
+           
+           
+           
+          
+            462,500
+          
+           
+           
+          
+            
+            
+          
+          
+            $15.25
+          
+           
+        
+
+    
+    
+    
+    * Based on the closing price of Pubco common shares on the principal exchange on which such securities are then listed or quoted for 20 trading days over a 30 trading day period at any time during
+      the Earnout Period (in each case subject to equitable adjustment for share splits, share dividends, reorganizations, combinations, recapitalizations and similar transactions)
+    
+    
+    Additionally, all Earnout Shares will automatically vest and no longer be subject to acquisition by Pubco for cancellation if after the Closing (1) Pubco engages in a “going private” transaction
+      pursuant to Rule 13e-3 of the Exchange Act of 1934, as amended (the “Exchange Act”) or otherwise ceases to be subject to reporting obligations under Sections 13 or 15(d) of the Exchange Act, (2) the Pubco common shares cease to be listed on a
+      national securities exchange or (3) Pubco is subject to a change of control.
+    
+    
+    In addition, the Earnout Shares transferred to Jabsheh and Argo under the Sponsor Share Letter will be transferred as “permitted transferees” of Sponsor under the Insider Letter and taken subject to
+      the transfer restrictions therein, and the warrants transferred to Jabsheh and Argo will be transferred as “permitted transferees” of Sponsor under the Warrant Agreement, dated as of March 15, 2018, by and between Tiberius and Continental Stock
+      Transfer & Trust Company, as warrant agent) and taken subject to the transfer restrictions therein.
+    
+    
+    A copy of the Sponsor Share Letter is filed with this Current Report on Form 8-K as Exhibit 10.9 and is incorporated herein by reference, and the foregoing description of the Sponsor Share Letter is
+      qualified in its entirety by reference thereto.
+    
+    
+    Registration Rights Agreement
+    
+    
+    
+      At or prior to the Closing, Pubco, the Purchaser Representative and the Sellers will enter into the Registration Rights Agreement, to become effective upon the Closing.  Under the Registration Rights Agreement, the
+        Sellers will hold registration rights that obligate Pubco to register for resale under the Securities Act all or any portion of the Exchange Shares (including Escrow Shares and any additional Exchange Shares issued after the Closing for the
+        Transaction Consideration adjustments) and any Tiberius securities transferred to such Seller under the Sponsor Share Letter (collectively, the “Registrable Securities”).  Sellers holding at least 25% of the Registrable Securities as of the
+        Closing (after giving effect thereto) will be entitled under the Registration Rights Agreement to make a written demand for registration under the Securities Act of all or part of their Registrable Securities.  Subject to certain exceptions, if any
+        time after the Closing, Pubco proposes to file a registration statement under the Securities Act with respect to its securities, under the Registration Rights Agreement, Pubco will be required to give notice to the Sellers as to the proposed filing
+        and offer the Sellers holding Registrable Securities an opportunity to register the sale of such number of Registrable Securities as requested by the Sellers in writing.  In addition, subject to certain exceptions, Sellers holding at least 25% of
+        the Registrable Securities as of the Closing (after giving effect thereto) will be entitled under the Registration Rights Agreement to request in writing that Pubco register the resale of any or all of such Registrable Securities on Form S-3 or F-3
+        and any similar short-form registration that may be available at such time.  Pubco will also agree to file within 30 days after the Closing a resale registration statement on Form F-1, F-3, S-1 or S-3 covering all Registrable Securities and to use
+        its commercially reasonable efforts to cause such registration statement to be declared effective as soon as possible thereafter.  If a registration statement includes any Registrable Securities that are subject to restriction under the Lock-Up
+        Agreements, the Escrow Agreement or the Sponsor Share Letter (including pursuant to the provisions of the Insider Letter incorporated therein), such Registrable Securities may be registered, but they may not be sold or transferred while subject to
+        such transfer restrictions.
+    
+    
+    
+    
+      
+        
+    
+    Under the Registration Rights Agreement, Pubco agreed to indemnify the Sellers and certain persons or entities related to the Sellers such as their officers, directors, employees, agents and
+      representatives against any losses or damages resulting from any untrue statement or omission of a material fact in any registration statement or prospectus pursuant to which they sell Registrable Securities, unless such liability arose from their
+      misstatement or omission, and the Sellers including Registrable Securities in any registration statement or prospectus agreed to indemnify Pubco and certain persons or entities related to Pubco such as its officers and directors and underwriters
+      against all losses caused by their misstatements or omissions in those documents.
+    
+    
+    A copy of the form of Registration Rights Agreement is filed with this Current Report on Form 8-K as Exhibit 10.10 and is incorporated herein by reference, and the foregoing description of the
+      Registration Rights Agreement is qualified in its entirety by reference thereto.
+    
+    
+    Founders Registration Rights Agreement Amendment
+    
+    
+    At or prior to the Closing, Tiberius, Pubco and the holders of a majority of the “Registrable Securities” thereunder, including the Sponsor, will enter into the Founders Registration Rights Agreement
+      Amendment, to become effective upon the Closing, pursuant to which they will amend the Registration Rights Agreement, dated as of March 15, 2018 (the “Founders Registration Rights Agreement”), by and among Tiberius, the Sponsor and the other
+      Holders named therein.  Pursuant to the Founders Registration Rights Agreement Amendment, the parties will amend the Founders Registration Rights Agreement to, among other matters, (i) add Pubco as a party thereto and the successor to Tiberius
+      thereunder, (ii) have the Pubco securities issued under the Business Combination Agreement to the holders of Tiberius securities party thereto be “Registrable Securities” thereunder, (iii) add a covenant by Pubco to file within 30 days after the
+      Closing a resale registration statement on Form F-1, F-3, S-1 or S-3 covering all “Registrable Securities” thereunder and to use its commercially reasonable efforts to cause such registration statement to be declared effective as soon as possible
+      thereafter, and (iv) otherwise make such amendments to accommodate the provisions of the Registration Rights Agreement.
+    
+    
+    A copy of the form of Founders Registration Rights Agreement Amendment is filed with this Current Report on Form 8-K as Exhibit 10.11 and is incorporated herein by reference, and the foregoing
+      description of the Founder Registration Rights Agreement Amendment is qualified in its entirety by reference thereto.
+     
+    
+      Equity Financing
+      
+      
+      Subscription Agreements
+      
+      
+      Simultaneously with the execution of the Business Combination Agreement on October 10, 2019, Tiberius entered into subscription agreements (each, a “Subscription Agreement”) with certain investors (the “PIPE
+          Investors”), pursuant to which Tiberius agreed to issue and sell to the PIPE Investors an aggregate of $23,611,809 of Tiberius common stock at $10.20 per share immediately prior to, and subject to, the Closing, which will become Pubco common
+        shares in the Merger.  The Subscription Agreement investment is conditioned on the concurrent Closing and other customary closing conditions.  The PIPE Investors were also given registration rights in the Subscription Agreements pursuant to which
+        Pubco, as the successor to Tiberius will be required to file a resale registration statement for the shares issued to the PIPE Investors within 30 days after the Closing and use its commercially reasonable efforts to have the registration statement
+        declared effective as soon as practicable after the filing thereof.  Each PIPE Investor agreed in the Subscription Agreement that it and its affiliates will not have any right, title, interest or claim of any kind in or to any monies in Tiberius’
+        trust account held for its public shareholders, and agreed not to, and waived any right to, make any claim against the trust account (including any distributions therefrom).  The proceeds from the Subscription Agreement investment will be used to
+        fund a portion of the cash consideration for the Business Combination, the transaction expenses and other liabilities of Tiberius and otherwise provide working capital and funds for corporate purposes to Pubco after the Closing.
+      
+      
+      
+        
+          
+      
+      
+      
+      A copy of the form of Subscription Agreement is filed with this Current Report on Form 8-K as Exhibit 10.12 and is incorporated herein by reference, and the foregoing description of the Subscription Agreement is
+        qualified in its entirety by reference thereto.
+       
+      Backstop Subscription Agreements
+      
+      
+      Simultaneously with the execution of the Business Combination Agreement on October 10, 2019, Tiberius entered into subscription agreements (each, a “Backstop Subscription Agreement”) with Tiberius’ directors and
+        officers Michael Gray and Andrew Poole and their related company the Gray Insurance Company (collectively, the “Backstop Investors”), pursuant to which Tiberius agreed to issue and sell to the PIPE Investors up to an aggregate of $20,000,000
+        of Tiberius common stock at $10.20 per share immediately prior to, and subject to, the Closing, which will become Pubco common shares in the Merger, if and solely to the extent that the Minimum Cash Condition would otherwise not be met without
+        their purchase (and prior to giving effect to any payment in Pubco common shares in lieu of cash under the Underwriting Agreement amendment as described below).  The Backstop Subscription Agreement investment is conditioned on the concurrent
+        Closing and other customary closing conditions.  The Backstop Investors were also given registration rights in the Backstop Subscription Agreements pursuant to which Pubco, as the successor to Tiberius will be required to file a resale registration
+        statement for the shares issued to the Backstop Investors within 30 days after the Closing and use its commercially reasonable efforts to have the registration statement declared effective as soon as practicable after the filing thereof.  Each
+        Backstop Investor agreed in the Backstop Subscription Agreement that it and its affiliates will not have any right, title, interest or claim of any kind in or to any monies in Tiberius’ trust account held for its public shareholders, and agreed not
+        to, and waived any right to, make any claim against the trust account (including any distributions therefrom).  The proceeds from the Backstop Subscription Agreement investment will be used to fund a portion of the cash consideration for the
+        Business Combination, the transaction expenses and other liabilities of Tiberius and otherwise provide working capital and funds for corporate purposes to Pubco after the Closing.
+      
+      
+      A copy of the form of Backstop Subscription Agreement is filed with this Current Report on Form 8-K as Exhibit 10.13 and is incorporated herein by reference, and the foregoing description of the Backstop Subscription
+        Agreement is qualified in its entirety by reference thereto.
+      
+      
+      Waiver Agreement
+      
+      
+      Simultaneously with the execution of the Business Combination Agreement on October 10, 2019, Tiberius entered into a Waiver Agreement (the “Waiver Agreement”) with its existing shareholder Weiss Multi-Strategy
+        Advisers LLC (“Weiss”), pursuant to which Weiss agreed to waive any redemption rights that it might have with respect to the 1,327,700 shares of Tiberius common stock that it owns with respect to the Business Combination, and not to
+        transfer, grant any proxies or powers of attorney or incur any liens with respect to, any such shares prior to the Closing.  The Waiver Agreement will automatically terminate pursuant to its terms upon a termination of the Business Combination
+        Agreement.  The Waiver Agreement will help to ensure that Tiberius retains sufficient funds in its trust account to meet the Minimum Cash Condition.
+      
+      
+      A copy of the Waiver Agreement is filed with this Current Report on Form 8-K as Exhibit 10.14 and is incorporated herein by reference, and the foregoing description of the Waiver Agreement is qualified in its entirety
+        by reference thereto.
+      
+      
+      Amendment to Underwriting Agreement
+      
+      
+      Simultaneously with the execution of the Business Combination Agreement on October 10, 2019, Tiberius and Cantor Fitzgerald & Co. (“Cantor”) entered into an amendment (the “Underwriting Agreement
+          Amendment”) to the Underwriting Agreement, dated as March 15, 2018 (the “Underwriting Agreement”), by and between Tiberius, Cantor and the other underwriters named therein.  Pursuant to the Underwriting Agreement Amendment, Cantor
+        agreed to accept payment of the deferred underwriting commission payable to Cantor under Section 1.3 of the Underwriting Agreement in Pubco common shares (the “Deferred Commission Shares”), valued at $10.20 per Pubco common share, if and
+        solely to the extent that Tiberius would otherwise not meet the Minimum Cash Condition (treating such issuance of Deferred Commission Shares to Cantor as an equity financing for purposes thereof) after giving effect to any Backstop Subscription
+        Agreements.  The payment in Deferred Commission Shares under the Underwriting Agreement Amendment is conditioned on the concurrent Closing and other customary closing conditions consistent with the conditions under the Subscription Agreements. 
+        Cantor was also given registration rights with respect to any Deferred Commission Shares pursuant to which Pubco, as the successor to Tiberius will be required to file a resale registration statement for the Deferred Commission Shares issued to
+        Cantor within 30 days after the Closing and use its commercially reasonable efforts to have the registration statement declared effective as soon as practicable after the filing thereof.  The proceeds from the issuance of the Deferred Commission
+        Shares instead of the cash payment required under the Underwriting Agreement will be used to fund a portion of the cash consideration for the Business Combination, the transaction expenses and other liabilities of Tiberius and otherwise provide
+        working capital and funds for corporate purposes to Pubco after the Closing.
+      
+      
+      
+        
+          
+      
+      
+      
+      A copy of the Underwriting Agreement Amendment is filed with this Current Report on Form 8-K as Exhibit 1.1 and is incorporated herein by reference, and the foregoing description of the Underwriting Agreement
+        Amendment is qualified in its entirety by reference thereto.
+      
+      
+      Warrant Purchase Agreement
+      
+      
+      Simultaneously with the execution of the Business Combination Agreement on October 10, 2019, Tiberius entered into a Warrant Purchase Agreement (the “Warrant Purchase Agreement”) with Church Mutual Insurance
+        Company (“Church”), pursuant to which Tiberius agreed to purchase from Church and Church agreed to sell to Tiberius, simultaneously with and subject to the Closing (but after giving effect to the Forward Purchase Contract that was entered
+        into between Tiberius and Church on November 9, 2017 (the “Church Forward Purchase Contract”)), 3,000,000 of the Tiberius warrants owned by Church, with 1,500,000 of such warrants currently owned by Church and 1,500,000 of such warrants to
+        be issued to Church at the Closing pursuant to the Church Forward Purchase Contract (and including in each case any successor Pubco warrants upon the Merger), at $0.75 per warrant, for an aggregate purchase price of $2,250,000.  Church agreed that
+        until the Closing or earlier termination of the Warrant Purchase Agreement, it will not transfer any of its Tiberius warrants.  Church also confirmed that IGI does not operate in an industry in which Church is prohibited from investing pursuant to
+        the Church’s internal written policies and waived the conditions of the Church Forward Purchase Contract with respect thereto.  The Warrant Purchase Agreement will automatically terminate pursuant to its terms upon a termination of the Business
+        Combination Agreement.  Church agreed in the Warrant Purchase Agreement that it and its affiliates will not have any right, title, interest or claim of any kind in or to any monies in Tiberius’ trust account held for its public shareholders, and
+        agreed not to, and waived any right to, make any claim against the trust account (including any distributions therefrom).
+      
+      
+      A copy of the Warrant Purchase Agreement is filed with this Current Report on Form 8-K as Exhibit 10.15 and is incorporated herein by reference, and the foregoing description of the Warrant Purchase Agreement is
+        qualified in its entirety by reference thereto.
+      
+      
+      Item 3.02  Unregistered Sales of Equity Securities.
+      
+      
+      The disclosure set forth above under the heading “Equity Financing” in Item 1.01 of this Current Report is incorporated by reference into this Item 3.02.  The Tiberius and/or Pubco common shares issued pursuant to the
+        Subscription Agreements, the Backstop Subscription Agreements and the Underwriting Agreement Amendment will not be registered under the Securities Act in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act
+        and/or Regulation D promulgated thereunder.
+    
+     
+    
+    
+      
+        
+    
+     
+    
+    
+      Item 9.01  Financial Statements and Exhibits.
+    
+    
+    (d) Exhibits
+     
+    
+
+        
+          
+            Exhibit
+            No.
+          
+          
+            Description
+          
+        
+        
+          
+            1.1
+          
+          
+            Amendment to Underwriting Agreement, dated as of October 10, 2019, between Tiberius Acquisition Corporation and Cantor Fitzgerald & Co.
+          
+        
+        
+          
+             
+          
+          
+             
+          
+        
+        
+          
+            2.1*
+          
+          
+            Business Combination Agreement, dated as of October 10, 2019, by and among Tiberius Acquisition Corporation, Lagniappe Ventures LLC in the capacity as the Purchaser Representative thereunder, International
+              General Insurance Holdings Ltd. and Wasef Jabsheh in the capacity as the Seller Representative thereunder, and Pubco and Merger Sub upon their formation and execution and delivery of a joinder thereto.
+          
+        
+        
+          
+             
+          
+          
+             
+          
+        
+        
+          
+            10.1
+          
+          
+            Form of Share Exchange Agreement by and among International General Insurance Holdings Ltd., Tiberius Acquisition Corporation, the shareholder of IGI party thereto as a Seller, Wasef Jabsheh in the capacity as
+              the Seller Representative thereunder, and Pubco upon its formation and execution and delivery of a joinder thereto.
+          
+        
+        
+          
+             
+          
+          
+             
+          
+        
+        
+          
+            10.2
+          
+          
+            Share Exchange Agreement, dated as of October 10, 2019, by and among International General Insurance Holdings Ltd., Tiberius Acquisition Corporation, Wasef Jabsheh as a Seller thereunder, Wasef Jabsheh in the
+              capacity as the Seller Representative thereunder, and Pubco upon its formation and execution and delivery of a joinder thereto.
+          
+        
+
+    
+       
+    
+    
+
+        
+          
+            10.3
+          
+          
+            Share Exchange Agreement, dated as of October 10, 2019, by and among International General Insurance Holdings Ltd., Tiberius Acquisition Corporation, Argo Re Limited as a Seller thereunder, Wasef Jabsheh in the
+              capacity as the Seller Representative thereunder, and Pubco upon its formation and execution and delivery of a joinder thereto.
+          
+        
+        
+          
+             
+          
+          
+             
+          
+        
+        
+          
+            10.4
+          
+          
+            Share Exchange Agreement, dated as of October 10, 2019, by and among International General Insurance Holdings Ltd., Tiberius Acquisition Corporation, Oman International Development & Investment Company SAOG
+              as a Seller thereunder, Wasef Jabsheh in the capacity as the Seller Representative thereunder, and Pubco upon its formation and execution and delivery of a joinder thereto.
+          
+        
+        
+          
+             
+          
+          
+             
+          
+        
+        
+          
+            10.5
+          
+          
+            Non-Competition Agreement, dated as of October 10, 2019, by Wasef Jabsheh in favor of and for the benefit of Tiberius Acquisition Corporation, International General Insurance Holdings Ltd., upon its formation
+              and execution and delivery of a joinder thereto, Pubco, and each of their respective present and future affiliates, successors and direct and indirect subsidiaries.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.6
+          
+          
+            Lock-Up Agreement, dated as of October 10, 2019, by and among Lagniappe Ventures LLC in the capacity as the Purchaser Representative, Wasef Jabsheh and, upon its formation and execution and delivery of a
+              joinder thereto, Pubco.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.7
+          
+          
+            Lock-Up Agreement, dated as of October 10, 2019, by and among Lagniappe Ventures LLC in the capacity as the Purchaser Representative, Argo Re Limited and, upon its formation and execution and delivery of a
+              joinder thereto, Pubco.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.8
+          
+          
+            Lock-Up Agreement, dated as of October 10, 2019, by and among Lagniappe Ventures LLC in the capacity as the Purchaser Representative, Oman International Development & Investment Company SAOG and, upon its
+              formation and execution and delivery of a joinder thereto, Pubco.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.9
+          
+          
+            Letter Agreement, dated as of October 10, 2019, by and among Lagniappe Ventures LLC, Tiberius Acquisition Corporation, International General Insurance Holdings Ltd., Wasef Jabsheh, Argo Re Limited and, upon its
+              formation and execution and delivery of a joinder thereto, Pubco,
+          
+        
+        
+           
+           
+        
+        
+          
+            10.10
+          
+          
+            Form of Registration Rights Agreement by and among Pubco, Lagniappe Ventures LLC in the capacity as the Purchaser Representative, and the Sellers party thereto as “Investors” thereunder.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.11
+          
+          
+            Form of Amendment to Registration Rights Agreement by and among Tiberius Acquisition Corporation, Pubco, Lagniappe Ventures LLC and the other “Holders” party thereto
+          
+        
+        
+           
+           
+        
+        
+          
+            10.12
+          
+          
+            Form of Subscription Agreement, dated as of October 10, 2019, between Tiberius Acquisition Corporation and the subscriber named therein.
+          
+        
+        
+           
+           
+        
+        
+          
+            10.13
+          
+          
+            Form of Subscription Agreements, dated as of October 10, 2019, between Tiberius Acquisition Corporation and each of Michael Gray, Andrew Poole and the Gray Insurance Company
+          
+        
+        
+           
+           
+        
+        
+          
+            10.14
+          
+          
+            Waiver Agreement, dated as of October 10, 2019, between Tiberius Acquisition Corporation and Weiss Multi-Strategy Advisers LLC
+          
+        
+        
+           
+           
+        
+        
+          
+            10.15
+          
+          
+            Warrant Repurchase Agreement, dated as of October 10, 2019, between Tiberius Acquisition Corporation and Church Mutual Insurance Company
+          
+        
+        
+          
+             
+          
+          
+             
+          
+        
+
+    
+    * The exhibits and schedules to this Exhibit have been omitted in accordance with Regulation S-K Item 601(b)(2). The Registrant agrees to furnish supplementally a copy of all omitted exhibits and schedules to the
+      Securities and Exchange Commission upon its request.
+    
+    
+    
+      
+        
+    
+    SIGNATURE
+     
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+     
+    
+
+        
+          
+             
+          
+          
+            TIBERIUS ACQUISITION CORPORATION
+          
+        
+        
+          
+             
+          
+          
+             
+          
+          
+             
+          
+          
+             
+          
+        
+        
+          
+             
+          
+          
+            By:
+          
+          
+            /s/ Michael T. Gray
+          
+          
+             
+          
+        
+        
+          
+             
+          
+          
+             
+          
+          
+            Name: Michael T. Gray
+          
+          
+             
+          
+        
+        
+          
+             
+          
+          
+             
+          
+          
+            Title: Chief Executive Officer
+          
+          
+             
+          
+        
+        
+          
+             
+          
+          
+             
+          
+          
+             
+          
+          
+             
+          
+        
+        
+          
+             Dated: October 17, 2019
+          
+          
+             
+          
+          
+             
+          
+          
+             
+          
+        
+
+    
+    
+    
+    
+       
+  
+
+
+

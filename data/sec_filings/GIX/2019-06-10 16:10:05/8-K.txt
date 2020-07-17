@@ -1,0 +1,506 @@
+
+8-K
+1
+d773677d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549  
+  FORM 8-K  
+  CURRENT REPORT
+ Pursuant to Section 13 or 15(d) 
+of the Securities Exchange Act of 1934 
+June 5, 2019  Date
+of Report (date of earliest event reported)  
+  GIGCAPITAL2,
+INC.  (Exact name of Registrant as specified in its charter)
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38924
+ 
+83-3838045
+
+ (State or other jurisdiction of
+incorporation or organization)
+ 
+ (Commission
+File Number)
+ 
+ (I.R.S. Employer
+Identification Number)
+ 2479 E. Bayshore Rd., Suite 200 
+Palo Alto, CA 94303 
+(Address of principal executive offices) 
+(650) 276-7040 
+(Registrants telephone number, including area code) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))  Securities registered pursuant to
+Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbols
+ 
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of Common Stock, one Right and one Warrant
+ 
+GIX.U
+ 
+New York Stock Exchange
+
+Common Stock, par value $0.0001 per share
+ 
+GIX
+ 
+New York Stock Exchange
+
+Rights to purchase one-twentieth of one share of Common Stock
+ 
+GIX.RT
+ 
+New York Stock Exchange
+
+Warrants to purchase one share of Common Stock
+ 
+GIX.WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.   ☐     
+ 
+
+
+
+
+
+
+
+ Item 1.01. Entry into a Material Definitive Agreement. 
+On June 5, 2019, the initial registration statement on Form S-1, as amended (File
+No. 333-231337) (the Initial Registration Statement) filed by GigCapital2, Inc., a Delaware corporation (the Company), in connection with its initial public offering
+(IPO), and a subsequent registration statement on Form S-1 (File No. 333-231979) filed by the Company pursuant to Section 462(b) of the
+Securities Act of 1933, as amended, to register additional securities for the IPO (together with the Initial Registration Statement, the Registration Statements) were declared effective by the Securities and Exchange Commission.
+On June 10, 2019, the Company consummated its IPO, resulting in the issuance of an aggregate of 15,000,000 units (the Public Units). Each Public Unit consists of one share of common stock, $0.0001 par value (Common
+Stock), one warrant to purchase one share of Common Stock (Public Warrant), and one right to receive one-twentieth (1/20) of one share of Common Stock upon the Companys
+completion of an initial business combination. Each Public Warrant is exercisable for one share of Common Stock at a price of $11.50 per full share. The Public Units were sold at an offering price of $10.00 per unit, and the IPO generated aggregate
+gross proceeds of $150,000,000. The Company has granted the underwriters a 45-day option to purchase up to 2,250,000 additional Public Units solely to cover over-allotments, if any. 
+In connection with the effectiveness of the Registration Statements and the closing of the IPO, the Company entered into the following agreements: 
+ 
+
+
+ 
+
+ 
+ an Underwriting Agreement, dated June 5, 2019, between the Company and EarlyBirdCapital, Inc., a Delaware
+corporation (EarlyBird) as representative of the several underwriters named therein;   
+
+
+ 
+
+ 
+ a Business Combination Marketing Agreement, dated June 5, 2019, between the Company and EarlyBird;
+  
+
+
+ 
+
+ 
+ a Letter Agreement, dated June 5, 2019, by and between the Company, GigAcquisitions2, LLC, a Delaware
+limited liability company (Sponsor), EarlyBird, Northland Gig 2 Investment LLC, a Delaware limited liability company (Northland Investment, and together with Sponsor and EarlyBird, the
+Founders), and Northland Securities, Inc., a Minnesota corporation (Northland);   
+
+
+ 
+
+ 
+ a Letter Agreement, dated June 5, 2019, by and between the Company and each of its executive officers and
+directors;   
+
+
+ 
+
+ 
+ a Unit Purchase Agreement, dated June 5, 2019, by and between the Company and Sponsor;
+  
+
+
+ 
+
+ 
+ a Unit Purchase Agreement, dated June 5, 2019, by and between the Company and EarlyBird;
+  
+
+
+ 
+
+ 
+ a Unit Purchase Agreement, dated June 5, 2019, by and between the Company and Northland Investment;
+  
+
+
+ 
+
+ 
+ a Share Purchase Agreement, dated June 5, 2019, by and between the Company and Northland;
+  
+
+
+ 
+
+ 
+ a Registration Rights Agreement, dated June 5, 2019, between the Company, each Founder, Northland, and each
+of the Companys executive officers and directors;   
+
+
+ 
+
+ 
+ an Insider Shares Grant Agreement, dated June 5, 2019, between the Company and Tara McDonough;
+  
+
+
+ 
+
+ 
+ an Investment Management Trust Agreement, dated June 10, 2019, between the Company and Continental Stock
+Transfer & Trust Company;   
+
+
+ 
+
+ 
+ a Warrant Agreement, dated June 10, 2019, between the Company and Continental Stock Transfer &
+Trust Company;   
+
+
+ 
+
+ 
+ a Right Agreement, dated June 10, 2019, between the Company and Continental Stock Transfer & Trust
+Company;   
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated June 5, 2019, between the Company and Avi S. Katz;
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated June 5, 2019, between the Company and Tara McDonough;
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated June 5, 2019, between the Company and Neil Miotto;
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated June 5, 2019, between the Company and John Mikulsky;
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated June 5, 2019, between the Company and Gil Frostig; and
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated June 5, 2019, between the Company and Raluca Dinu.
+
+
+
+
+
+
+
+
+ The material terms of each of the foregoing agreements are described in the prospectus that forms a part of
+the Registration Statements, and the descriptions of such terms are incorporated herein by reference. Each of the foregoing agreements, except for the Form of Indemnification Agreement as previously filed with the Initial Registration Statement, are
+attached hereto as exhibits to this Current Report on Form 8-K, as enumerated below in the table set forth in response to Item 9.01. The Form of Indemnification Agreement is incorporated herein by
+reference.  Item 3.02. Unregistered Sales of Equity Securities. 
+Upon the effectiveness of the Initial Registration Statement, the Company granted 5,000 shares of Common Stock to Tara McDonough, the Companys Vice
+President and Chief Financial Officer, pursuant to the Insider Shares Grant Agreement identified above (the Insider Shares Agreement). The material terms of the Insider Shares Grant Agreement are set forth in the Initial
+Registration Statement and incorporated by reference herein.  Simultaneously with the closing of the IPO and the sale of the Public Units, the Company
+consummated the private placement (Private Placement) of (i) 492,500 units (the Private Placement Units), at a price of $10.00 per Private Placement Unit, with each of the Founders, pursuant to the respective
+Unit Purchase Agreements identified above (the Unit Purchase Agreements), and (ii) 100,000 shares of Common Stock to Northland (the Private Underwriter Shares) pursuant to the Share Purchase Agreement identified
+above (the Share Purchase Agreement). Among the Founders, Sponsor purchased 417,500 Private Placement Units; EarlyBird purchased 26,000 Private Placement Units; and Northland Investment purchased 49,000 Private Placement Units.
+The Private Placement generated aggregate gross proceeds of $5,925,000, consisting of $4,925,000 from the sale of the Private Placement Units and $1,000,000 from the sale of the Private Underwriter Shares. The Private Placement Units are
+substantially similar to the Public Units, except for certain differences in the warrants included in the Private Placement Units (the Private Placement Warrants). Unlike the Public Warrants, if held by the original holder or its
+permitted transferees, the Private Placement Warrants (i) may be exercised for cash or on a cashless basis at such time as they become exercisable, (ii) are not redeemable by the Company, and (iii) subject to certain limited
+exceptions, will be subject to transfer restrictions until thirty (30) days following the consummation of the Companys initial business combination. If the Private Placement Warrants are held by holders other than its initial holders
+or their permitted transferees, the Private Placement Warrants will be redeemable by the Company and exercisable by holders on the same basis as the Public Warrants, except as set forth in the Initial Registration Statement. The Private Underwriter
+Shares are identical to the private shares underlying the Private Placement Units. The material terms of the Unit Purchase Agreements and the Share Purchase Agreement are set forth in the Initial Registration Statement and incorporated by reference
+herein.  Item 5.03. Amendments to Certificate of Incorporation or Bylaws; Change in Fiscal Year. 
+On June 5, 2019, the Company filed its Amended and Restated Certificate of Incorporation (the Amended and Restated Certificate of
+Incorporation) in the State of Delaware. The terms of the Amended and Restated Certificate of Incorporation are set forth in the prospectus that forms a part of the Registration Statements and are incorporated by reference
+herein. A copy of the Amended and Restated Certificate of Incorporation is attached as Exhibit 3.1 hereto and is incorporated by reference herein. 
+Item 8.01. Other Events.  A total of $150,000,000 of
+the net proceeds from the IPO and the Private Placement were placed in a trust account established for the benefit of the Companys public stockholders at JPMorgan Chase Bank, N.A., with Continental Stock Transfer & Trust Company
+acting as trustee. Except for the withdrawal of interest to pay taxes, none of the funds held in the trust account will be released until the earlier of: (i) the completion of the Companys initial business combination, (ii) the
+redemption of the Common Stock issued by the Company in the IPO in connection with a stockholder vote to amend any provisions of the Amended and Restated Certificate of Incorporation relating to Companys
+pre-initial business combination activity and associated stockholders rights, or (iii) the redemption of 100% of the Common Stock issued by the Company in the IPO if the Company is unable to
+consummate an initial business combination within 18 months from the closing of the IPO. 
+
+
+
+
+
+
+
+ On June 10, 2019, the Company issued a press release announcing the consummation of the IPO. A copy of
+such press release is included as Exhibit 99.1 to this Current Report on Form 8-K.  Item 9.01. Financial
+Statements and Exhibits.  (d) Exhibits   
+
+
+
+
+
+
+
+
+
+
+  1.1
+  
+Underwriting Agreement, dated June 5, 2019, between the Company and EarlyBirdCapital, Inc., as representative of the several underwriters named therein 
+
+
+
+
+  1.2
+  
+Business Combination Marketing Agreement, dated June 5, 2019 between the Company and EarlyBirdCapital, Inc. 
+
+
+
+
+  3.1
+  
+Amended and Restated Certificate of Incorporation 
+
+
+
+
+  4.1
+  
+Warrant Agreement, dated June 10, 2019, between the Company and Continental Stock Transfer & Trust Company 
+
+
+
+
+  4.2
+  
+Right Agreement, dated June 10, 2019, between the Company and Continental Stock Transfer & Trust Company 
+
+
+
+
+10.1
+  
+Insider Letter Agreement, dated June 5, 2019, by and between the Company, the Founders, and Northland Securities, Inc. 
+
+
+
+
+10.2
+  
+Letter Agreement, dated June 5, 2019, by and between the Company and each of its executive officers and directors 
+
+
+
+
+10.3
+  
+Unit Purchase Agreement, dated June 5, 2019, by and between the Company and Sponsor 
+
+
+
+
+10.4
+  
+Unit Purchase Agreement, dated June 5, 2019, by and between the Company and EarlyBirdCapital, Inc. 
+
+
+
+
+10.5
+  
+Unit Purchase Agreement, dated June 5, 2019, by and between the Company and Northland Gig 2 Investment LLC 
+
+
+
+
+10.6
+  
+Share Purchase Agreement, dated June 5, 2019, by and between the Company and Northland Securities, Inc. 
+
+
+
+
+10.7
+  
+Registration Rights Agreement, dated June 5, 2019, between the Company, the Founders, Northland Securities, Inc., and each of the Companys executive officers and directors 
+
+
+
+
+10.8
+  
+Investment Management Trust Agreement, dated June 10, 2019, between the Company and Continental Stock Transfer & Trust Company 
+
+
+
+
+10.9
+  
+Form of Indemnification Agreement (incorporated by reference to Exhibit 10.14 to the Companys Registration Statement on Form S-1 (File No. 333-231337) as filed with the SEC on May 9, 2019 
+
+
+
+
+99.1
+  
+Press Release, dated June 10, 2019 
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dated: June 10, 2019
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Dr. Avi S. Katz
+
+
+ 
+
+ 
+Name:
+ 
+Dr. Avi S. Katz
+
+
+ 
+
+ 
+ Title:
+ 
+Chief Executive Officer, President and Executive Chairman of the GigCapital2, Inc. Board
+
+
+ 
+
+ 
+
+ 
+(Principal Executive Officer)
+
+
+
+
+

@@ -1,0 +1,392 @@
+
+8-K
+1
+d867700d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT
+REPORT  PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (Date of earliest event reported): January 16, 2020 
+   
+FAR POINT ACQUISITION CORPORATION 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38521
+ 
+82-4710750
+
+(State or Other Jurisdictionof Incorporation)
+ 
+(CommissionFile Number)
+ 
+(IRS EmployerIdentification Number)
+ 18 West 18th Street 
+New York, NY 10011 
+(Address of principal executive offices)(Zip Code) 
+Registrants telephone number, including area code: (212) 715-3880 
+Not Applicable  (Former
+name or former address, if changed since last report)   
+  Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+ 
+
+
+☒
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+ 
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))  Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405
+of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒ 
+Securities registered or to be registered pursuant to Section 12(b) of the Act. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Ticker
+Symbol
+ 
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of Class A Common Stock and one-third or one Warrant to purchase one share of Class A Common Stock
+ 
+FPAC.UN
+ 
+The New York Stock Exchange
+
+Shares of Class A common stock, par value $0.0001 per share
+ 
+FPAC
+ 
+The New York Stock Exchange
+
+Warrants, exercisable for one share of Class A Common Stock for $11.50 per share
+ 
+FPAC.WS
+ 
+The New York Stock Exchange
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐   
+   
+
+
+
+
+
+
+
+
+ Item 1.01 Entry into a Material Definitive Agreement. 
+The Merger Agreement  On
+January 16, 2020, Far Point Acquisition Corporation, a Delaware corporation (the Company or Far Point), entered into an Agreement and Plan of Merger (the Merger Agreement), by and among the Company, SL
+Globetrotter, L.P., a Cayman Islands exempted limited partnership (Globetrotter and, in its capacity as a representative of Global Blue (as defined below) and its shareholders as of the date of the Merger Agreement and immediately prior
+to the closing, the GB Shareholders Representative), Global Blue Group Holding AG, a stock corporation (Aktiengesellschaft) incorporated under Swiss law, with its registered office in 38, Zürichstrasse, CH-8306 Brüttisellen, Switzerland (New Global Blue), Global Blue US Holdco LLC, a Delaware limited liability company (US Holdco), Global Blue US Merger Sub Inc., a Delaware corporation
+(US Merger Sub), Global Blue Holding L.P., a Cayman Islands exempted limited partnership (Cayman Holdings), the individuals whose names appear on the signature pages thereof under the heading Management Sellers
+(the Management Sellers and, together with Globetrotter and Cayman Holdings, the Seller Parties), Global Blue Group AG, a stock corporation (Aktiengesellschaft) incorporated under Swiss law, with its registered office
+in 38, Zürichstrasse, CH-8306 Brüttisellen, Switzerland (Global Blue), Thomas W. Farley, solely in his capacity as the FPAC Shareholders Representative (FPAC
+Shareholders Representative), solely for purposes of Sections 2.20 and 8.01 thereof, Far Point LLC, a Delaware limited liability company (Founder), and Jacques Stern, solely in his capacity as the Management Representative
+(Management Representative).  Pursuant to the Merger Agreement, the parties to the Merger Agreement have agreed that, in
+connection with the Closing (as defined in the Merger Agreement), (i) the Seller Parties will undertake a series of transactions pursuant to which they will sell, exchange and contribute the ordinary shares of Global Blue for a mix of cash
+(Cash Consideration) and shares of New Global Blue (Stock Consideration) and (ii) a wholly-owned indirect subsidiary of New Global Blue will merge with and into the Company, with the Company being the surviving
+corporation in the merger and a wholly-owned indirect subsidiary of New Global Blue (the merger described in clause (ii), the Merger, and together with the transactions described in clause (i), the Business Combination).
+Pursuant to the Merger each share of the Companys common stock issued and outstanding as of immediately prior to the Closing (other than Excluded Shares, as defined in the Merger Agreement) will be exchanged for one share of New Global
+Blues ordinary shares, and each Company warrant will convert to a warrant to acquire one New Global Blue ordinary share on the same terms. Upon consummation of the Business Combination, New Global Blue will be a publicly traded foreign private
+issuer. It intends to apply to list its shares and warrants on the New York Stock Exchange (the NYSE) under the trading symbol GB. New Global Blue will be the ultimate parent company of the business currently operated by
+Global Blue and its subsidiaries. Global Blue is a leading provider of tax free shopping and payment solutions.  The total consideration
+payable to the Seller Parties in connection with the Business Combination is based upon an enterprise value of Global Blue post-transaction of 2.3 billion (subject to adjustments based on indebtedness and other factors as more fully
+described in the Merger Agreement), a portion of which will be paid in Cash Consideration and the remainder of which will be paid in Stock Consideration. The Cash Consideration to be paid to the Seller Parties will be approximately $967MM, and will
+be funded by (i) the $646MM in Company cash held in trust, (ii) $100MM equity capital committed by certain affiliates of Third Point LLC, a Delaware limited liability company (Third Point) (the Third Point PIPE), (iii)
+$125MM equity capital committed by Antfin (Hong Kong) Ltd. (Ant Financial Services Group, a member of the Alibaba digital economy) (Ant Financial), and (iv) $125MM equity capital committed by several established strategic equity
+investors (the investors in (ii), (iii) and (iv) collectively the PIPE Investors). The Cash Consideration amount is subject to adjustments as more fully described in the Merger Agreement, including a reduction in the event that
+payments are required to be made by the Company in connection with the exercise by one or more of the Companys stockholders of their redemption rights with respect to the Companys shares of Class A common stock
+(Redemptions). The Stock Consideration to be issued to the Seller Parties will be in the form of common shares of New Global Blue; provided, that, in the event Redemptions exceed 5,000,000, a portion of the Stock Consideration will be in
+the form convertible preferred shares of New Global Blue. The Cash Consideration and Stock Consideration are subject to customary post-closing adjustments as more fully described in the Merger Agreement. 
+   1 
+
+
+
+
+
+
+
+
+
+ In addition to the agreement with respect to the Third Point PIPE, an affiliate of Third
+Point previously entered into an agreement at the time of the Companys initial public offering to purchase shares of the Companys common stock for $9.50 per share (the Forward Purchase Shares) to the extent Redemptions exceed
+20,000,000 shares. In the event such Third Point affiliate is obligated to purchase any Forward Purchase Shares as the result of such Redemptions, Third Points PIPE commitment will be reduced, as will the Cash Consideration (and there will be
+a corresponding increase in Stock Consideration).  In addition to the Founder Share Surrender Agreement (as described below), the Merger
+Agreement provides that in connection with the Business Combination, the Founder will contribute to New Global Blue 2,500,000 shares of Class B common stock of the Company (Class B Shares) held by the Founder as of immediately
+prior to the Closing, and that 2,500,000 shares of New Global Blue will be delivered to a nominee that will hold such shares for future delivery to the Founder upon the achievement of certain future New Global Blue share trading levels. 
+As a result of the Business Combination, assuming no Redemptions, the existing Company shareholders will hold approximately 39% of New Global
+Blue, the Seller Parties will hold approximately 42%, the PIPE Investors will hold approximately 19%.  In addition, in connection with the
+Business Combination, Global Blues existing bank debt will be refinanced pursuant to a new bank credit facility.  Representations and Warranties
+ The parties to the Merger Agreement have made representations and warranties that are customary for transactions of this nature,
+including with respect to, among other things: (i) capitalization; (ii) noncontravention; (iii) compliance with laws (including with respect to permits and filings); (iv) government contracts; (v) financial statements;
+(vi) absence of undisclosed liabilities; (vii) litigation; (viii) taxes; (ix) environmental matters; (x) privacy; (xi) material contracts; (xii) indebtedness; (xiii) anti-bribery and anti-corruption;
+(xiv) international trade and sanctions; and (xv) customers and suppliers. The representations and warranties of the respective parties to the Merger Agreement will not survive the closing of the transaction, except in the case of
+intentional fraud. The parties to the Merger Agreement have put in place a representations and warranty insurance policy with a $100MM coverage limit on customary terms. 
+Covenants  The Merger Agreement includes
+customary covenants of the parties with respect to operation of their respective businesses prior to consummation of the Business Combination and efforts to satisfy conditions to consummation of the Business Combination. The Merger Agreement
+contains additional covenants of the parties, including, among others: (i) covenants providing that the parties use reasonable best efforts to obtain all necessary regulatory approvals, (ii) covenants providing that the parties cooperate
+with respect to the proxy statement to be filed in connection with the Business Combination, (iii) covenants providing that the parties shall take further actions as may be necessary, proper or advisable to consummate and make effective the
+Business Combination, (iv) a covenant of the Company to convene a meeting of the Companys stockholders and to solicit proxies from its stockholders in favor of the approval of the Business Combination and other related stockholder
+proposals, and (v) covenants providing that the parties will not solicit, initiate, encourage or continue discussions with respect to any other Business Combination. 
+Conditions to the Consummation of the Transaction 
+Consummation of the transactions contemplated by the Merger Agreement is subject to customary closing conditions, including approval by the
+Companys stockholders. The Merger Agreement also contains other conditions, including, among others: (i) the consummation of the PIPE Investment (as defined below), (ii) the Company having received concurrently with the consummation of
+the Business Combination the proceeds of loans under the Financing Agreement (as defined in the Merger Agreement) in an amount which is sufficient to repay all amounts due under the 710,000,000 senior facilities agreement dated July, 26 2012
+(as amended and restated on 16 October 2017) between, inter alia, Global Blue Finance S.à r.l., as parent, Global Blue Acquisition B.V., as a borrower, and RBC Europe Limited, as agent and as security agent, (iii) New Global Blue
+and certain persons who will be shareholders of New Global Blue after closing having entered into a customary registration rights agreement and (iv) the New Global Blue common stock to be issued pursuant to the Merger Agreement having been
+approved for listing on the NYSE. 
+   2 
+
+
+
+
+
+
+
+
+
+ Termination 
+The Merger Agreement may be terminated at any time prior to the consummation of the Business Combination (whether before or after the required
+Company stockholder vote has been obtained) by written consent of the Company and GB Shareholders Representative and in certain other circumstances, including, but not limited to: (i) if the transactions have not been consummated by
+August 31, 2020 and the delay in closing beyond such date is not due to the breach of the Merger Agreement by the party seeking to terminate, (ii) a government entity of competent jurisdiction has issued an order or any other action which
+would prevent the consummation of the Merger, (iii) the Business Combination and other related proposals are not approved by the Companys stockholders at the duly convened meeting of the Companys stockholders and (iv) if the
+PCAOB Financial Statements (as defined in the Merger Agreement) have not been delivered to the Company on or prior to March 31, 2020. 
+A copy of the Merger Agreement will be filed by amendment on Form 8-K/A to this Current Report within
+four business days of the date hereof as Exhibit 2.1, and the foregoing description of the Merger Agreement is qualified in its entirety by reference thereto. The Merger Agreement contains representations, warranties and covenants that the
+respective parties made to each other as of the date of such agreement or other specific dates. The assertions embodied in those representations, warranties and covenants were made for purposes of the contract among the respective parties and are
+subject to important qualifications and limitations agreed to by the parties in connection with negotiating the Merger Agreement. The Merger Agreement will be filed to provide investors with information regarding its terms. It is not intended to
+provide any other factual information about the Company or any other party to the Merger Agreement. In particular, the representations, warranties, covenants and agreements contained in the Merger Agreement, which were made only for purposes of the
+Merger Agreement and as of specific dates, were solely for the benefit of the parties to the Merger Agreement, may be subject to limitations agreed upon by the contracting parties (including being qualified by confidential disclosures made for the
+purposes of allocating contractual risk between the parties to the Merger Agreement instead of establishing these matters as facts) and may be subject to standards of materiality applicable to the contracting parties that differ from those
+applicable to the Companys investors and security holders. Company investors and security holders are not third-party beneficiaries under the Merger Agreement and should not rely on the representations, warranties, covenants and agreements, or
+any descriptions thereof, as characterizations of the actual state of facts or condition of any party to the Merger Agreement. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the
+Merger Agreement, which subsequent information may or may not be fully reflected in the Companys public disclosures.  Related Agreements
+ PIPE Subscription Agreements 
+Concurrently with the execution and delivery of the Merger Agreement, certain PIPE Investors (the Primary PIPE Investors) have
+entered into share subscription agreements pursuant to which the Primary PIPE Investors have committed (the Primary PIPE Investment) to subscribe for and purchase for an aggregate purchase price of $125MM ordinary shares of New Global
+Blue (at $10 per share). Additionally, an affiliate of Third Point and Ant Financial (the Secondary PIPE Investors) have entered into certain share purchase and contribution agreements pursuant to which the Secondary PIPE Investors have
+committed to purchase for an aggregate purchase price of $100MM and $125MM, respectively, ordinary shares of Global Blue (for $10 per share) from Globetrotter (and Cayman Holdings) and immediately contribute such Global Blue shares to New Global
+Blue for the subsequent issue of New Global Blue ordinary shares (together (including such contribution), the Secondary PIPE Investment and, together with the Primary PIPE Investment, the PIPE Investment). The PIPE Investment
+will be consummated concurrently with the closing.  Voting and Support Agreement 
+Concurrently with the execution of the Merger Agreement, the Company has entered into a Voting and Support Agreement (the Voting and
+Support Agreement) with Global Blue, Globetrotter, New Global Blue, the Founder and Third Point Ventures LLC, a Delaware limited liability company (the TP Investor and together with the Founder, the FPAC Shareholders)
+pursuant to, and on the terms and subject to the conditions of which, each FPAC Shareholder has unconditionally and irrevocably agreed among other things to vote its shares of the Company, and take certain other actions, in support of the Business
+Combination. 
+   3 
+
+
+
+
+
+
+
+
+
+ The Voting and Support Agreement will terminate with no further force and effect upon the
+earliest to occur of: (a) as to each FPAC Shareholder, the mutual written consent of Globetrotter and the FPAC Shareholders, (b) the Closing Date (following the performance of the obligations of the parties required to be performed on the
+Closing Date without modification, waiver or amendment) and (c) the date of termination of the Merger Agreement in accordance with its terms. 
+Founder Shares Surrender Agreement  In
+connection with the transactions contemplated by the Merger Agreement, the Company and the Founder have entered into a letter agreement with Globetrotter and New Global Blue (the Founder Shares Surrender Agreement). The Founder Shares
+Surrender Agreement provides that: (a) the Founder shall automatically irrevocably surrender to New Global Blue, for no consideration and as a deemed contribution to the capital of New Global Blue, 2,500,000 Class B Shares (such
+Class B Shares, the Forfeited Securities); and (b) New Global Blue shall immediately cancel the Forfeited Securities. 
+Relationship Agreement  Concurrently with
+the execution of the Merger Agreement, New Global Blue and certain persons who will be shareholders of New Global Blue have entered into the Relationship Agreement in order to regulate the relationship among such parties. 
+Shareholders Agreement  Concurrently with
+the execution of the Merger Agreement, New Global Blue and certain persons who will be shareholders of New Global Blue have entered in the Shareholders Agreement to regulate the relationship among the shareholders with respect to each other, in
+connection with New Global Blue.  Copies of the PIPE Investment Subscription Agreements, the Voting and Support Agreement, the Founder
+Shares Surrender Agreement, the Relationship Agreement and the Shareholders Agreement will be filed as exhibits hereto by amendment on Form 8-K/A to this Current Report within four business days of the date
+hereof, and the foregoing description of each thereof is qualified in its entirety by reference thereto.  Item 7.01 Regulation FD Disclosure.
+ The information in this Item 7.01, including Exhibit 99.1, Exhibit 99.2 and Exhibit 99.3, is furnished and shall not be deemed
+filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to liabilities under that section, and shall not be deemed to be incorporated by reference into the
+filing of the Company under Securities Act or the Exchange Act, regardless of any general incorporation language in such filings.  One
+January 16, 2020, the Company and Global Blue issued a joint press release announcing the execution of the Merger Agreement and the transactions contemplated thereby. The press release is furnished as Exhibit 99.1 to this Current Report. 
+An Investor Presentation for use by the Company with certain of its stockholders and other persons with respect to the Business Combination is
+furnished as Exhibit 99.2 to this Current Report.  An Investor Presentation for use by the Company during a conference call for investors
+and analysts to be held on January 16, 2020 at 9:00 a.m. Eastern Time is furnished as Exhibit 99.3 to this Current Report. 
+   4 
+
+
+
+
+
+
+
+
+
+ No Offer or Solicitation 
+This communication is not intended to and does not constitute an offer to sell or the solicitation of an offer to buy any securities, or a
+solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such
+jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended, and applicable Swiss and other European regulations. This communication is not
+for release, publication or distribution, in whole or in part, in or into, directly or indirectly, any jurisdiction in which such release, publication or distribution would be unlawful. 
+Forward-Looking Statements  This
+communication includes forward looking statements within the meaning of the safe harbor provisions of the United States Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act and
+Section 21E of the Securities Exchange Act of 1934, as amended. When used herein, the words estimates, projected, expects, anticipates, forecasts, plans,
+intends, believes, seeks, may, will, should, future, propose and variations of these words or similar expressions (or the negative versions of such words
+or expressions) are intended to identify forward-looking statements. These forward-looking statements are not guarantees of future performance, conditions or results, and involve a number of known and unknown risks, uncertainties, assumptions and
+other important factors, many of which are outside Far Points or Global Blues managements control, that could cause actual results or outcomes to differ materially from those discussed in the forward-looking statements. Important
+factors, among others, that may affect actual results or outcomes include: the inability to complete the transactions contemplated by the proposed business combination; the inability to recognize the anticipated benefits of the proposed business
+combination; the ability to meet NYSEs listing standards following the consummation of the transactions contemplated by the proposed business combination; costs related to the proposed business combination; Global Blues ability to
+execute on its plans; Global Blues estimates of the size of the markets for its solutions; Global Blues ability to identify and integrate acquisitions; the performance and security of Global Blues services; potential litigation
+involving Far Point or Global Blue; and general economic and market conditions impacting demand for Global Blues services. Other factors include the possibility that the transactions contemplated by the proposed business combination do not
+close, including due to the failure to receive required security holder approvals, or the failure of other closing conditions. Neither Far Point nor Global Blue undertake any obligation to update or revise any forward-looking statements, whether as
+a result of new information, future events or otherwise, except as required by law. Additional risks and uncertainties are identified and discussed in Far Points reports filed with the SEC and available at the SECs website at
+http://www.sec.gov.  Additional Information and Disclaimer 
+In connection with the business combination, New Global Blue intends to file with the SEC a registration statement on Form F-4 (the Registration Statement), which will include a preliminary proxy statement of Far Point and a prospectus in connection with the business combination. The definitive proxy statement and other
+relevant documents will be mailed to stockholders of Far Point as of a record date to be established for voting on the business combination. Stockholders of Far Point and other interested persons are advised to read, when available, the preliminary
+proxy statement/prospectus, and amendments thereto, and the definitive proxy statement/prospectus in connection with Far Points solicitation of proxies for the special meeting to be held to approve the business combination because these
+documents will contain important information about Far Point, Global Blue, and the business combination. Stockholders will also be able to obtain copies of the Registration Statement and the proxy statement/prospectus, without charge, by directing a
+request to: Far Point Acquisition Corporation, 18 West 18th Street, New York, NY 10011. These documents, once available, and Far Points annual and other reports and proxy statements filed with the SEC can also be obtained, without charge, at
+the SECs internet site (http://www.sec.gov).  Far Point, Global Blue and their respective directors, executive officers,
+other members of management and employees, under SEC rules, may be deemed to be participants in the solicitation of proxies from the stockholders of Far Point in connection with the business combination. Stockholders of Far Point and other
+interested persons may obtain more information regarding the names and interests in the proposed business combination of Far Points directors and officers in Far Points filings with the SEC, including Far Points Annual Report on
+Form 10-K for the year-ended December 31, 2018, which was filed with the SEC on March 29, 2019. Additional information regarding the interests of such potential participants in the solicitation
+process will also be included in the Registration Statement (and will be included in the definitive proxy statement/prospectus) and other relevant documents when they are filed with the SEC. 
+   5 
+
+
+
+
+
+
+
+
+
+ Item 9.01 Financial Statements and Exhibits. 
+(d) Exhibits.   
+
+
+
+
+
+
+
+
+
+
+ Exhibit No.
+  
+ Description
+
+
+
+
+
+
+99.1
+  
+Joint Press Release, dated as of January 16, 2020. 
+
+
+
+
+99.2
+  
+Investor Presentation. 
+
+
+
+
+99.3
+  
+Investor Call Presentation. 
+
+   6 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.  Date: January 16, 2020 
+ 
+
+
+
+
+
+
+
+
+
+Far Point Acquisition Corporation
+
+
+
+ /s/ Thomas W. Farley
+
+Name: Thomas W. Farley
+
+Title:   Chief Executive Officer and President
+
+   7 
+
+
+
+
+

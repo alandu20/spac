@@ -1,0 +1,478 @@
+
+8-K
+1
+tm2018877d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+United States 
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549 
+
+ 
+
+Form 8-K 
+
+ 
+
+Current Report  
+
+Pursuant to Section 13 or 15(d) of the
+ 
+
+Securities Exchange Act of 1934 
+
+ 
+
+May 4, 2020 
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+Roth CH Acquisition I Co.
+
+(Exact Name of Registrant as Specified in
+its Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39282
+     
+    83-3584792
+
+    (State or other jurisdiction
+of incorporation) 
+     
+    (Commission File Number) 
+     
+    (I.R.S. Employer
+Identification No.) 
+
+ 
+
+
+
+    
+        888 San Clemente Drive, Suite 400
+        Newport Beach, CA 
+     
+    92660
+
+    (Address of Principal Executive Offices) 
+     
+    (Zip Code) 
+
+ 
+
+Registrant’s telephone number, including
+area code: (949) 720-5700
+
+ 
+
+N/A
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written communications pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which 
+registered
+
+    Common Stock
+     
+    ROCH
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants
+     
+    ROCHW
+     
+    The Nasdaq Stock Market LLC
+
+    Units
+     
+    ROCHU
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+  
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On May 4, 2020, the registration statement
+(File No. 333-236852) (the “Registration Statement”) relating to the initial public offering (“IPO”) of
+Roth CH Acquisition I Co. (the “Company”) was declared effective by the Securities and Exchange Commission. In connection
+therewith, the Company entered into the following agreements previously filed as exhibits to the Registration Statement:
+
+ 
+
+
+
+     
+    ●
+    An Underwriting Agreement, dated May 4, 2020, by and between the Company, Roth Capital Partners, LLC, Craig-Hallum Capital Group LLC and BTIG, LLC;
+
+
+
+
+
+     
+    ●
+    A Warrant Agreement, dated May 4, 2020, by and between the Company and Continental Stock Transfer & Trust Company;
+
+
+
+
+
+     
+    ●
+    Letter Agreements, dated May 4, 2020, by and between the Company’s officers, directors and shareholders;
+
+
+
+
+
+     
+    ●
+    An Investment Management Trust Agreement, dated May 4, 2020, by and between Continental Stock Transfer & Trust Company and the Company;
+
+
+
+
+
+     
+    ●
+    An Escrow Agreement, dated May 4, 2020, by and among the Company, Continental Stock Transfer & Trust Company and each of the initial shareholders of the Company; and
+
+     
+    ●
+    Indemnity Agreements, dated May 4, 2020, by and among the Company and the directors and officers of the Company;
+
+     
+    ●
+    A Subscription Agreement, dated May 4, 2020, by and between the Company and the initial shareholders of the Company; and
+
+
+
+
+
+     
+    ●
+    A Registration Rights Agreement, dated May 4, 2020, by and among the Company and the initial shareholders of the Company.
+
+     
+     
+     
+
+
+
+On May 7, 2020, the Company consummated
+the IPO of 7,500,000 units (the “Units”). Each Unit consists of one share of common stock, $0.0001 par value (“Common
+Stock”), and three-quarters of one warrant (“Warrant”) entitling the holder of each whole Warrant to purchase
+one share of Common Stock at a price of $11.50 per whole share. The Units were sold at an offering price of $10.00 per Unit, generating
+gross proceeds of $75,000,000. The Company granted the underwriters a 45-day option to purchase up to 1,125,000 additional Units
+to cover over-allotments, if any.
+
+ 
+
+As of May 7, 2020, a total of $75,000,000
+of the net proceeds from the IPO and the Private Placement (as defined below) were deposited in a trust account established for
+the benefit of the Company’s public shareholders. An audited balance sheet as of May 7, 2020 reflecting receipt of the proceeds
+upon consummation of the IPO and the Private Placement will be filed within 4 business days of the consummation of the IPO.
+
+ 
+
+Item 3.02. Unregistered Sales of Equity
+Securities.
+
+ 
+
+Simultaneously with the closing of the
+IPO, the Company consummated the private placement (“Private Placement”) with initial shareholders of the Company of
+262,500 units (the “Private Units”), generating total proceeds of $2,625,000.
+
+ 
+
+The Private Units are identical to the
+Units sold as part of the public Units in this offering except that the Warrants underlying the Private Units will be non-redeemable
+and may be exercised on a cashless basis, in each case so long as they continue to be held by the initial purchasers or their permitted
+transferees.. Additionally, such initial purchasers agreed not to transfer, assign or sell any of the Private Units or underlying
+securities (except in limited circumstances, as described in the Registration Statement) until the completion of the Company’s
+initial business combination. Such initial purchasers were granted certain demand and piggyback registration rights in connection
+with the purchase of the Private Units.
+
+ 
+
+The Private Units were issued pursuant
+to Section 4(a)(2) of the Securities Act of 1933, as amended, as the transactions did not involve a public offering.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 5.03. Amendments to Certificate
+of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+On May 4, 2020, in connection with the
+IPO, the Company filed its Amended and Restated Certificate of Incorporation with the Delaware Secretary of State. The terms of
+the Amended and Restated Certificate of Incorporation are set forth in the Registration Statement and are incorporated herein by
+reference.
+
+ 
+
+
+
+
+
+    1 
+     
+    
+
+ 
+
+
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement, dated April 23, 2020, by and between the Company, Roth Capital Partners, LLC, Craig-Hallum Capital Group LLC and BTIG, LLC.
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation.
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated April 23, 2020, by and between Continental Stock Transfer & Trust Company and the Company.
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreements, dated April 23, 2020, among the Company and the Company’s officers, directors and Initial Stockholders.
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated April 23, 2020, by and between Continental Stock Transfer & Trust Company and the Company.
+
+     
+     
+     
+
+    10.3
+     
+    Stock Escrow Agreement, dated April 23, 2020, among the Company, Continental Stock Transfer & Trust Company and the Initial Stockholders.
+
+     
+     
+     
+
+    10.4
+     
+    Registration Rights Agreement, dated April 23, 2020, by and between the Company and Initial Stockholders.
+
+     
+     
+     
+
+    10.5
+     
+    Indemnity Agreements, dated April 23, 2020, by and among the Company and the directors and officers of the Registrant
+
+     
+     
+     
+
+    10.6
+     
+    Subscription Agreement, dated April 23, 2020, by and between the Company and the Initial Stockholders
+
+  
+
+
+
+    2 
+     
+    
+
+ 
+
+
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+    Dated: May 7, 2020
+     
+
+     
+     
+
+    ROTH CH ACQUISITION I CO.
+     
+
+     
+     
+
+    By:
+    /s/ Byron Roth                                               
+     
+
+    Name:  
+    Byron Roth
+     
+
+    Title: 
+    Chief Executive Officer
+     
+
+ 
+
+
+
+
+    3 
+    
+
+ 
+
+
+
+

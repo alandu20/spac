@@ -1,0 +1,469 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+    
+  
+    
+      UNITED STATES
+      SECURITIES AND EXCHANGE COMMISSION
+      Washington, D.C. 20549
+      
+      
+      FORM 8-K
+      
+      
+      CURRENT REPORT
+      
+      
+      PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+      
+      
+      Date of Report (Date of earliest event reported): November 20, 2019
+      
+      
+      TIBERIUS ACQUISITION CORPORATION
+      (Exact name of registrant as specified in its charter)
+      
+      
+    
+    
+
+        
+          
+            Delaware
+          
+          
+            001-38422
+          
+          
+            81-0824240
+          
+        
+        
+          
+            (State or other jurisdiction of incorporation)
+          
+          
+            (Commission File Number)
+          
+          
+            (IRS Employer Identification No.)
+          
+        
+
+    
+    
+      
+      
+      3601 N Interstate 10 Service Rd W
+      Metairie, LA 70002
+      (Address of principal executive offices, including zip code)
+      
+      
+      Registrant’s telephone number, including area code: (504) 881-1060
+    
+    
+      
+      
+    
+    
+      Not Applicable
+      (Former name or former address, if changed since last report)
+    
+    
+      
+      
+    
+    
+      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+      
+      
+    
+    
+      
+        
+
+            
+              ☒
+              
+                Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+              
+            
+
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+
+            
+              ☐
+              
+                Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+              
+            
+
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+
+            
+              ☐
+              
+                Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+              
+            
+
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+
+            
+              ☐
+              
+                Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+              
+            
+
+        
+      
+    
+    
+      
+      
+      Securities registered pursuant to Section 12(b) of the Act:
+      
+      
+    
+    
+
+        
+          
+            Title of each class
+          
+          
+            Trading
+            Symbol(s)
+          
+          
+            Name of each exchange on which
+            registered
+          
+        
+        
+          
+            Common Stock, par value $0.0001 per share
+          
+          
+            TIBR
+          
+          
+            The NASDAQ Stock Market LLC
+          
+        
+        
+          
+            Warrants to purchase one share of Common Stock
+          
+          
+            TIBRW
+          
+          
+            The NASDAQ Stock Market LLC
+          
+        
+        
+          
+            Units, each consisting of one share of Common Stock and one Warrant
+          
+          
+            TIBRU
+          
+          
+            The NASDAQ Stock Market LLC
+          
+        
+
+    
+    
+      
+      
+      Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+        (§240.12b-2 of this chapter).
+      
+      
+      Emerging growth company ☒
+      
+      
+      If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+          pursuant to Section 13(a) of the Exchange Act. ☐
+       
+      
+    
+    
+      
+        
+    
+    
+      
+        
+    
+    
+      
+        
+
+            
+              Item 7.01
+              
+                Regulation FD Disclosure.
+              
+            
+
+        
+      
+    
+    
+      
+      
+    
+    
+      Attached as Exhibit 99.1 to this Current Report on Form 8-K and incorporated into this Item 7.01 by reference is the investor presentation (the “Investor
+          Presentation”) that will be used by Tiberius Acquisition Corporation, a Delaware corporation (the “Company”), in making presentations to certain of the Company’s stockholders and other persons with
+        respect to the transactions contemplated by the Business Combination Agreement described below.
+      
+        The Investor Presentation is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set
+          forth by specific reference in such filing.
+        
+      
+    
+    
+      
+        
+
+            
+              Item 8.01
+              
+                Other Events
+              
+            
+
+        
+      
+    
+    
+    
+      On November 20, 2019, in connection with the proposed business combination and other transactions contemplated by the Business Combination Agreement (the “Business Combination Agreement”), dated as of October 10, 2019, by and among, the Company, International General Insurance Holdings Ltd., a company organized under the laws of the Dubai International Financial Centre (“IGI”), International General Insurance Holdings Ltd., a Bermuda exempted company (“IGI Holdings”) (upon execution of a joinder thereto) and the other parties thereto, the
+        Company issued a press release announcing IGI’s trading statement for the three months ended September 30, 2019. A copy of the press release is attached hereto as Exhibit 99.2 and incorporated herein by reference.
+       
+        Forward-Looking Statements
+        
+        This report contains forward-looking statements that involve risks and uncertainties concerning the Company’s proposed business combination with IGI (the “Business Combination”), IGI’s expected financial performance, as well as its strategic and operational plans. Actual events or results may differ materially from those described in this report due to a number
+          of risks and uncertainties. These risks and uncertainties could cause actual results or outcomes to differ materially from those indicated by such forward looking-statements. These risks and uncertainties include, but are not limited to: (1) the
+          occurrence of any event, change or other circumstances that could give rise to the termination of the Business Combination Agreement; (2) the outcome of any legal proceedings that may be instituted against the Company, IGI or others following
+          announcement of the Business Combination Agreement and the transactions contemplated therein; (3) the inability to complete the transactions contemplated by the Business Combination Agreement due to the failure to obtain approval of the
+          stockholders of the Company; (4) the inability to complete the transactions contemplated by the Business Combination Agreement due to the failure to obtain consents and approvals of IGI’s shareholders and investors; (5) delays in obtaining,
+          adverse conditions contained in, or the inability to obtain necessary regulatory approvals required to complete the transactions contemplated by the Business Combination Agreement; (6) the risk that the Business Combination disrupts current plans
+          and operations as a result of the announcement and consummation of the transactions described herein; (7) the inability to recognize the anticipated benefits of the Business Combination; (8) the ability to obtain or maintain the listing of IGI
+          Holdings’ securities on NASDAQ following the Business Combination, including having the requisite number of shareholders; (9) costs related to the Business Combination; (10) changes in applicable laws or regulations; (11) the possibility that IGI
+          or IGI Holdings may be adversely affected by other economic, business, and/or competitive factors; and (12) other risks and uncertainties indicated from time to time in filings with the Securities and Exchange Commission (“SEC”) by the Company or IGI Holdings.
+        
+        Readers are referred to the most recent reports filed with the SEC by the Company. Readers are cautioned not to place undue reliance upon any forward-looking statements, which
+          speak only as of the date made, and we undertake no obligation to update or revise the forward-looking statements, whether as a result of new information, future events or otherwise.
+        
+      
+    
+    
+      
+        
+    
+    
+       Additional Information
+       
+      IGI Holdings intends to file with the SEC a Registration Statement on Form F-4 (the “Registration Statement”), which will include a preliminary proxy statement of the Company and a prospectus in connection with the Business Combination. The Company will mail a definitive proxy statement/prospectus and other relevant documents to its stockholders. Stockholders of the Company and other interested persons are advised to read, when available, the preliminary proxy statement/prospectus, and amendments thereto, and the definitive proxy statement/prospectus in connection with
+          the Company’s solicitation of proxies for the special meeting to be held to approve the Business Combination because these documents will contain important information about the Company, IGI, IGI Holdings and the Business Combination. The
+          definitive proxy statement/prospectus will be mailed to stockholders of the Company as of a record date to be established for voting on the Business Combination.
+          Stockholders will also be able to obtain copies of the Registration Statement and the proxy statement/prospectus, without charge, once available, on the SEC’s website at www.sec.gov or by directing a request to the Company by contacting its Chief
+          Investment Officer, Andrew Poole, c/o Tiberius Acquisition Corporation, 3601 N Interstate 10 Service Rd W, Metairie, LA 70002, at (504) 754-6671 or at APoole@tiberiusco.com.
+       
+      Participants in the Business Combination
+      
+      The Company, IGI, IGI Holdings, and their respective directors and executive officers may be deemed to be participants in the solicitation of proxies from the stockholders of the
+        Company in connection with the Business Combination. Information regarding the officers and directors of the Company is set forth in the Company’s annual report on Form 10-K, which was filed with the SEC on March 26, 2019. Additional information
+        regarding the interests of such potential participants will also be included in the Registration Statement (and will be included in the definitive proxy statement/prospectus for the Business Combination) and other relevant documents filed with the
+        SEC.
+      
+      Disclaimer
+      
+      This communication shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in
+        which the offer, solicitation or sale would be unlawful prior to the registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements
+        of Section 10 of the Securities Act of 1933, as amended.
+      
+    
+    
+      
+        
+
+            
+              Item 9.01
+              
+                Financial Statements and Exhibits.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (d)
+              
+                Exhibits
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              99.1
+              
+                Investor Presentation
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              99.2
+              
+                Press Release, dated November 20, 2019
+              
+            
+
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+    
+    
+      SIGNATURE
+       
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+          authorized.
+         
+      
+    
+    
+
+        
+           
+          
+            TIBERIUS ACQUISITION CORPORATION
+          
+        
+        
+           
+           
+           
+        
+        
+           
+          
+            By:
+          
+          
+            /s/ Michael T. Gray
+          
+           
+        
+        
+           
+           
+          
+            Name: Michael T. Gray
+          
+           
+        
+        
+           
+           
+          
+            Title: Chief Executive Officer
+          
+        
+        
+           
+           
+           
+        
+        
+          
+             Dated: November 20, 2019
+          
+           
+           
+        
+
+    
+    
+    
+    
+    
+  
+
+
+

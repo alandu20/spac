@@ -1,0 +1,377 @@
+
+8-K
+1
+a19-8007_18k.htm
+8-K
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+ 
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+FORM 8-K
+ 
+CURRENT REPORT
+ 
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+ 
+Date of Report (Date of earliest event reported):  April 3, 2019
+ 
+Replay Acquisition Corp.
+(Exact name of registrant as specified in its charter)
+ 
+
+
+
+
+Cayman   Islands    (State or other jurisdiction   of incorporation)    
+
+     
+
+001-38859    (Commission File Number)    
+
+     
+
+N/A    (I.R.S. Employer   Identification No.)         
+
+ 
+
+
+
+
+767   Fifth Avenue, 46th Floor    New York, New York   (Address of principal executive offices)    
+
+     
+
+10153   (Zip Code)         
+
+ 
+(212) 891-2700
+(Registrants telephone number, including area code)
+ 
+Not Applicable (Former name or former address, if changed since last report)
+ 
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o                                    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o                                    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o                                    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o                                    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+ 
+
+
+
+Emerging growth   company  x         
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  o
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+Item 3.02.  Unregistered Sales of Equity Securities.
+ 
+On April 8, 2019, simultaneously with the consummation of the initial public offering (the IPO) of units (Units) of Replay Acquisition Corp. (the Company), the Company consummated the private placement (the Private Placement) of an aggregate of 7,750,000 warrants (the Private Placement Warrants) at a price of $1.00 per Private Placement Warrant, generating total gross proceeds of $7,750,000. No underwriting discounts or commissions were paid with respect to the Private Placement. The Private Placement was conducted as a non-public transaction and, as a transaction by an issuer not involving a public offering, is exempt from registration under the Securities Act in reliance upon Section 4(a)(2) of the Securities Act of 1933 (as amended, the Securities Act). In the Private Placement, Replay Sponsor, LLC (the Sponsor) purchased 7,750,000 Private Placement Warrants. The Private Placement Warrants are identical to the warrants underlying the Units, except that if held by the original holder or their permitted assigns, they (i) may be exercised on a cashless basis and (ii) are not subject to redemption. If the Private Placement Warrants are held by holders other than the initial purchaser or its permitted transferees, then the Private Placement Warrants will be redeemable by the Company and exercisable by the holders on the same basis as the warrants included in the Units sold in the IPO. In addition, the Private Placement Warrants (and the securities underlying the Private Placement Warrants) will, subject to certain limited exceptions, be subject to transfer restrictions until 30 days after the completion of the Companys initial business combination.
+ 
+Item 5.02.  Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+ 
+Effective as of April 3, 2019, the following individuals were appointed to the board of directors of the Company: Daniel Marx, Mariano Bosch and Russell Colaco. Additional information regarding, among other things, each individuals background, board committee membership and compensatory arrangements is contained in the Registration Statement (as defined in Item 8.01 below) and is incorporated by reference herein.
+ 
+Item 5.03.  Amendments to Certificate of Incorporation or Bylaws; Change in Fiscal Year.
+ 
+In connection with the consummation of the IPO, the Company filed its amended and restated memorandum and articles of association (the M&A) with the Registrar of Companies in the Cayman Islands. Among other things, the M&A authorizes the issuance of up to 200,000,000 ordinary shares, par value $0.0001 per share (Ordinary Shares), and up to 2,000,000 preferred shares, par value $0.0001 per share. The terms of the M&A are set forth in the Registration Statement and are incorporated herein by reference. The foregoing description of the M&A is qualified in its entirety by reference to the full text of the M&A, which is attached as Exhibit 3.1 hereto and is incorporated by reference herein.
+ 
+Item 8.01.  Other Events.
+ 
+On April 8, 2019, the Company completed its IPO of 28,750,000 Units, including the issuance of 3,750,000 Units as a result of the underwriters full exercise of their over-allotment option. Each Unit consists of one Ordinary Share and one-half of one warrant (Warrant). Each whole Warrant entitles the holder thereof to purchase one Ordinary Share at an exercise price of $11.50 per share. The Company completed its IPO pursuant to the Companys registration statement on Form S-1 (File No. 333-230347) (the Registration Statement). The Registration Statement was declared effective by the U.S. Securities and Exchange Commission on April 3, 2019.
+ 
+In connection with the effectiveness of the Registration Statement and the closing of the IPO, the Company entered into the following agreements:
+ 
+·                  An Underwriting Agreement, dated April 3, 2019, among the Company and Credit Suisse Securities (USA) LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated, as representatives of the several underwriters;
+ 
+·                  A Warrant Agreement, dated April 3, 2019, between the Company and Continental Stock Transfer & Trust Company (Continental);
+ 
+·                  A Letter Agreement, dated April 3, 2019, among the Company, the Sponsor and the officers and directors of the Company;
+ 
+2
+
+
+
+
+
+
+ 
+·                  An Investment Management Trust Agreement, dated April 3, 2019, between the Company and Continental;
+ 
+·                  A Registration Rights Agreement, dated April 3, 2019, among the Company, the Sponsor and certain security holders; and
+ 
+·                  A Sponsor Warrants Purchase Agreement, dated April 3, 2019, between the Company and the Sponsor.
+ 
+A total of $287,500,000 of the net proceeds from the IPO and the Private Placement was placed in a trust account established for the benefit of the Companys public shareholders (the Trust Account), with Continental acting as trustee. Except for the withdrawal of interest to pay taxes, none of the funds held in the Trust Account will be released from the Trust Account until the earliest of (i) the completion of the Companys initial business combination, (ii) the redemption of the Companys public shares properly submitted in connection with a shareholder vote to amend any provisions of the M&A (A) to modify the substance or timing of the Companys obligation to redeem 100% of the Companys public shares if the Company is unable to complete an initial business combination within 24 months from the closing of its IPO or (B) with respect to any other provision relating to shareholders rights or pre-initial business combination activity and (iii) the redemption of 100% of the Companys public shares if the Company is unable to complete an initial business combination within 24 months from the closing of its IPO.
+ 
+In connection with the IPO, the Company issued press releases announcing the pricing and closing of the IPO, copies of which are attached hereto as Exhibits 99.1 and 99.2, respectively, and are incorporated by reference herein.
+ 
+Item 9.01.                    Financial Statements and Exhibits.
+ 
+(d)                                 Exhibits.
+ 
+
+
+
+Exhibit No.    
+
+     
+
+Description       
+
+
+1.1    
+
+     
+
+Underwriting Agreement, dated April 3, 2019,   among the Company, Credit Suisse Securities (USA) LLC and Merrill Lynch,   Pierce, Fenner & Smith Incorporated       
+
+
+     
+
+     
+
+        
+
+
+3.1    
+
+     
+
+Amended and Restated Memorandum and Articles of   Association of the Company       
+
+
+     
+
+     
+
+        
+
+
+4.1    
+
+     
+
+Warrant Agreement, dated April 3, 2019, between   the Company and Continental Stock Transfer & Trust Company       
+
+
+     
+
+     
+
+        
+
+
+10.1    
+
+     
+
+Letter Agreement, dated April 3, 2019, among the   Company, Replay Sponsor, LLC and the officers and directors of the Company       
+
+
+     
+
+     
+
+        
+
+
+10.2    
+
+     
+
+Investment Management Trust Agreement, dated   April 3, 2019, between the Company and Continental Stock   Transfer & Trust Company       
+
+
+     
+
+     
+
+        
+
+
+10.3    
+
+     
+
+Registration Rights Agreement, dated April 3,   2019, among the Company, Replay Sponsor, LLC and certain security holders       
+
+
+     
+
+     
+
+        
+
+
+10.4    
+
+     
+
+Sponsor Warrants Purchase Agreement, dated   April 3, 2019, between the Company and Replay Sponsor, LLC       
+
+
+     
+
+     
+
+        
+
+
+99.1    
+
+     
+
+Press release, dated April 3, 2019       
+
+
+     
+
+     
+
+        
+
+
+99.2    
+
+     
+
+Press release, dated April 8, 2019         
+ 
+3
+
+
+
+
+
+
+ 
+SIGNATURE
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+
+
+     
+
+REPLAY ACQUISITION CORP.       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Edmond Safra       
+
+
+     
+
+     
+
+Name:    
+
+Edmond Safra       
+
+
+     
+
+     
+
+Title:    
+
+Co-Chief Executive   Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Gregorio Werthein       
+
+
+     
+
+     
+
+Name:    
+
+Gregorio Werthein       
+
+
+     
+
+     
+
+Title:    
+
+Co-Chief Executive   Officer       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Date:                  April 9,   2019    
+
+     
+
+     
+
+          
+ 
+4
+
+
+
+
+
+
+

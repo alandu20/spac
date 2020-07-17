@@ -1,0 +1,481 @@
+
+8-K
+1
+mudsu20200701_8k.htm
+FORM 8-K
+
+
+	mudsu20200701_8k.htm
+	
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT Pursuant 
+
+to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported): July 1, 2020
+
+ 
+
+ 
+
+HYCROFT MINING HOLDING CORPORATION
+
+-------------------------------------------------------------------------------------------
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+
+
+		
+			
+			Delaware
+
+			--------------
+			
+			
+			001-38387
+
+			----------
+			
+			
+			82-2657796
+
+			------------------
+			
+		
+		
+			
+			(State or Other Jurisdiction of
+
+			Incorporation)
+			
+			
+			(Commission 
+
+			File Number)
+			
+			
+			(IRS Employer
+
+			Identification No.)
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			8181 E. Tufts Avenue, Suite 510
+
+			Denver, Colorado
+			
+			
+			80237
+			
+		
+		
+			
+			-----------------------------------------
+			
+			
+			----------
+			
+		
+		
+			
+			(Address of principal executive offices) 
+			
+			
+			(Zip Code)
+			
+		
+
+
+
+ 
+
+(303) 253-3267
+
+-------------------------
+
+(Registrant’s Telephone Number, Including Area Code)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+		
+			
+			Title of each class
+			
+			
+			 
+			
+			
+			Trading
+
+			Symbol(s)
+			
+			
+			 
+			
+			
+			Name of each exchange
+
+			on which registered
+			
+		
+		
+			
+			Class A common stock,
+
+			par value $0.0001 per share
+			
+			
+			 
+			
+			
+			HYMC
+			
+			
+			 
+			
+			
+			The Nasdaq Capital Market
+			
+		
+		
+			 
+			 
+			 
+			 
+			 
+		
+		
+			
+			Warrants to purchase
+			Common Stock
+			
+			 
+			
+			HYMCW
+			
+			 
+			
+			The Nasdaq Capital Market
+			
+		
+
+
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+
+
+ 
+
+
+
+
+1
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Item 5.02.          Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+Departure of Randy Buffington as Chairman of the Board, Chief Executive Officer and President
+
+ 
+
+On July 1, 2020, Hycroft Mining Corporation (the “Company”) announced that the Company’s Board of Directors (the “Board”) and Randy Buffington agreed that Mr. Buffington would depart from the Company and transition and resign from his roles of Chairman of the Board, President and Chief Executive Officer and any and all other positions held by him with any direct or indirect subsidiary of the Company, effective as of July 1, 2020.
+
+ 
+
+On the same date, the Company and Mr. Buffington entered into a Transition and Succession Agreement (the “Transition Agreement”) that provides, among other things, for Mr. Buffington to receive a continuation of his salary for a period of 24 months following his departure and the value of his insurance coverage for a period of 18 months following his departure, subject to the statutory revocation provisions set forth in the Transition Agreement. In recognition of Mr. Buffington’s successful efforts in developing a new process to economically and profitably recover gold from sulfide ores in a heap leach process and in restarting mining operations at the Hycroft Mine and to reward and compensate him for transition assistance, the Company and Mr. Buffington also entered into a Restricted Stock Unit Agreement (Time-Vesting) (the “RSU Agreement”) pursuant to which the Company will grant a special discretionary equity bonus in the form of $1,300,000 in restricted stock units convertible into shares of common stock, vesting pro rata over a period of two (2) years following expiration of the statutory revocation period set forth in the Transition Agreement. In addition and in order to facilitate the continued development and operation of the Hycroft Mine and the transition to his successor as President and Chief Executive Officer, the Company and Mr. Buffington have entered into a Consulting Agreement (the “Consulting Agreement”) pursuant to which the Company will pay Mr. Buffington $25,000 a month for 24 months for his performance of consulting services during that time.
+
+ 
+
+Mr. Buffington’s decision to transition and resign out of his positions with the Company did not involve any disagreement relating to the Company’s operations, policies or practices. The foregoing summary of the Transition Agreement, the RSU Agreement and the Consulting Agreement does not purport to be complete and is subject to, and qualified in its entirety by reference to, the full text of those agreements, copies of which are attached to this Current Report on Form 8-K as Exhibits 10.1, 10.2 and 10.3, respectively.
+
+ 
+
+Appointment of Chief Financial Officer Stephen Jones as Interim President and Chief Executive Officer
+
+ 
+
+Effective on July 1, 2020, the Board appointed Stephen M. Jones, the Company’s current Executive Vice President and Chief Financial Officer, who has served in that role since 2012, as President and Chief Executive Officer on an interim basis and effective upon Mr. Buffington’s departure. It is expected that Mr. Jones will serve in such roles until the appointment by the Board of a permanent president and chief executive officer. In connection with his appointment as interim President and Chief Executive Officer, Mr. Jones stepped down from his position as Executive Vice President, Chief Financial Officer and Secretary of the Company. The Company has no agreement or arrangement with Mr. Jones regarding any right to receive additional compensation from the Company for serving as the interim chief executive officer.
+
+ 
+
+Biographical and other information concerning Mr. Jones is included in the Company’s registration statement on Form S-4 filed with the Securities and Exchange Commission (File No. 333-236460) in the sections entitled “Seller Management – Directors and Executive Officers” and “Certain Relationships and Related Transactions – Seller Related Party Transactions” and is incorporated by reference herein.
+
+ 
+
+The Board of Directors has engaged Korn Ferry to conduct a comprehensive search for a successor president and chief executive officer, which search will include Mr. Jones as a possible candidate.
+
+ 
+
+Appointment of Vice President, Treasurer Jeffrey Stieber as Interim Chief Financial Officer 
+
+ 
+
+Effective on July 1, 2020, the Board appointed Jeffrey Stieber, the Company’s current Vice President, Treasurer, as Chief Financial Officer on an interim basis upon Mr. Buffington’s departure. The Company has no agreement or arrangement with Mr. Stieber regarding any right to receive additional compensation from the Company for serving as the interim chief financial officer.
+
+ 
+
+
+
+
+2
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Mr. Stieber, 36 years old, joined the Company as its Vice President, Treasurer on May 29, 2020, when the Company and its subsidiaries acquired all of the assets and employees of Hycroft Mining Corporation. Mr. Stieber had rejoined Hycroft Mining Corporation in August 2018 as its Vice President, Treasurer, having previously served in senior finance and accounting roles with that company from 2010 to 2015.  From 2015 to 2018 Mr. Stieber held senior and executive positions at Tahoe Resources and Klondex Mines, until its acquisition by Hecla.  Mr. Stieber has more than ten years of finance and accounting experience within the mining industry, is a CPA, and graduated from the University of Nevada.
+
+ 
+
+Appointment of New Chairman of the Board 
+
+ 
+
+Effective on July 1, 2020, the Board appointed David Kirsch to succeed Mr. Buffington as Chairman of the Board. Mr. Kirsch has served as a member of the Board since February 2018.
+
+ 
+
+Item 7.01.          Regulation FD Disclosure.
+
+ 
+
+The Company issued a press release announcing Mr. Buffington’s departure and transition described above. A copy of the press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated by reference herein.
+
+ 
+
+In accordance with General Instruction B.2 of Form 8-K, the information set forth pursuant to this Item 7.01 and in the press release is deemed to be “furnished” and shall not be deemed to be “filed” for purposes of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 9.01.          Financial Statements and Exhibits.
+
+ 
+
+(d)        Exhibits
+
+ 
+
+The list of exhibits is set forth on the Exhibit Index of this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+EXHIBIT INDEX
+
+ 
+
+
+
+		
+			Exhibit
+			Number
+			 
+			Description
+		
+		
+			
+			10.1
+			
+			 
+			
+			Transition and Succession Agreement, dated July 1, 2020, between Randy Buffington and Hycroft Mining Holding Corporation and Autar Gold Corporation
+			
+		
+		
+			
+			10.2
+			
+			 
+			
+			Restricted Stock Unit Agreement (Time-Vesting), dated July 1, 2020, between Randy Buffington and Hycroft Mining Holding Corporation
+			
+		
+		
+			
+			10.3
+			
+			 
+			
+			Consulting Agreement, dated July 1, 2020, between Randy Buffington and Hycroft Mining Holding Corporation
+			
+		
+		
+			
+			99.1
+			
+			 
+			
+			Press Release dated July 1, 2020.*
+			
+		
+
+
+
+
+*      Furnished pursuant to Regulation FD.     
+
+ 
+
+
+
+
+3
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+		
+			
+			Dated: July 1, 2020
+			
+			
+			Hycroft Mining Holding Corporation
+			
+		
+		
+			 
+			 
+			 
+		
+		
+			 
+			By:
+			 /s/ Stephen M. Jones
+		
+		
+			 
+			 
+			
+			Stephen M. Jones
+
+			Interim President and Chief
+
+			Executive Officer
+			
+		
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+

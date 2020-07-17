@@ -1,0 +1,411 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+    
+  
+    UNITED STATES
+    SECURITIES AND EXCHANGE COMMISSION
+    Washington, D.C. 20549
+    
+       
+        
+      
+      
+    
+    FORM 8-K
+    
+       
+      
+        
+    
+     
+    CURRENT REPORT
+    PURSUANT TO SECTION 13 OR 15(d)
+    OF THE SECURITIES EXCHANGE ACT OF 1934
+     
+    Date of Report (Date of earliest event reported): August 30, 2019
+    
+       
+      
+        
+    
+     
+    SC Health Corporation
+    (Exact name of registrant as specified in its charter)
+    
+       
+      
+        
+    
+     
+    
+    
+
+        
+          
+            Cayman Islands
+          
+          
+            001-38972
+          
+          
+            N/A
+          
+        
+        
+          
+            (State or other jurisdiction of incorporation)
+          
+          
+            (Commission File Number)
+          
+          
+            (IRS Employer Identification No.)
+          
+        
+
+    
+     
+    
+    
+
+        
+          
+            108 Robinson Road #10-00
+            Singapore
+          
+           
+          
+            068900
+          
+        
+        
+          
+            (Address of principal executive offices)
+          
+           
+          
+            (Zip Code)
+          
+        
+
+    
+     
+    +65 6438 1080
+    (Registrant’s telephone number, including area code)
+     
+    Not Applicable
+    (Former name or former address, if changed since last report)
+    
+       
+      
+        
+    
+     
+    Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+     
+    
+    
+      
+        
+
+            
+              
+              
+              ☐
+              
+                Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+              
+            
+
+        
+      
+    
+     
+    
+    
+      
+        
+
+            
+              
+              
+              ☐
+              
+                Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              ☐
+              
+                Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              ☐
+              
+                Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+              
+            
+
+        
+      
+    
+     
+    Securities registered pursuant to Section 12(b) of the Act:
+    
+
+        
+           
+          
+            Title of each class
+          
+           
+          
+            Trading Symbol(s)
+          
+           
+          
+            Name of each exchange on which registered
+          
+        
+        
+           
+          
+            Units, each consisting of one Class A ordinary share, $0.0001 par value, and one half of one warrant
+          
+           
+          
+            SCPE.U
+          
+           
+          
+            New York Stock Exchange LLC
+          
+        
+        
+           
+          
+            Class A ordinary shares, par value $0.0001 per share
+          
+           
+          
+            SCPE
+          
+           
+          
+            New York Stock Exchange LLC
+          
+        
+        
+           
+          
+            Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
+          
+           
+          
+            SCPE WS
+          
+           
+          
+            New York Stock Exchange LLC
+          
+        
+
+    
+     
+    Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of
+      1934 (§240.12b-2 of this chapter).
+     
+    Emerging growth company ☒
+     
+    If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+      Act. ☐
+    
+      
+      
+      
+        
+    
+    
+      
+        
+    
+    
+      
+        
+
+            
+              Item 8.01
+              
+                Other Events.
+              
+            
+
+        
+      
+    
+    
+    
+    As previously reported on Current Reports on Form 8-K, filed on July 22, 2019 and August 8, 2019, SC Health Corporation, a Cayman Islands exempted company (the “Company”), consummated
+      its initial public offering (“IPO”) of an aggregate of 17,250,000 units (the “Units”). Each Unit consists of one Class A ordinary share of the Company, par value $0.0001 per share (“Class A Ordinary Shares”), and one-half of one redeemable warrant of
+      the Company (“Warrant”), with each whole Warrant entitling the holder thereof to purchase one Class A Ordinary Share for $11.50 per share. The Units were sold at a price of $10.00 per Unit, generating gross proceeds to the Company of approximately
+      $172,500,000.
+     
+    On August 30, 2019, the Company issued a press release, a copy of which is attached as Exhibit 99.1 to this Current Report on Form 8-K, announcing that the holders of the Units may
+      elect to separately trade Class A Ordinary Shares and Warrants comprising the Units commencing on September 3, 2019. Those Units not separated will continue to trade on the New York Stock Exchange under the symbol “SCPE.U,” and the Class A Ordinary
+      Shares and Warrants that are separated will trade on the New York Stock Exchange under the symbols “SCPE” and “SCPE WS,” respectively. No fractional Warrants will be issued upon separation of the Units and only whole Warrants will trade. Holders of
+      the Units will need to have their brokers contact American Stock Transfer & Trust Company, the Company’s transfer agent, in order to separate the Units into Class A Ordinary Shares and Warrants.
+    
+    
+    
+      
+        
+
+            
+              Item 9.01
+              
+                Financial Statements and Exhibits.
+              
+            
+
+        
+      
+    
+     
+    (d) Exhibits.
+     
+    
+    
+
+        
+          
+            Exhibit
+            No.
+          
+           
+          
+            
+              Description
+            
+          
+        
+        
+           
+           
+           
+        
+        
+          
+            99.1
+          
+           
+          
+            Press Release dated August 30, 2019.
+          
+        
+
+    
+     
+    
+    
+      
+        
+    
+    SIGNATURE
+     
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+     
+    
+    
+
+        
+           
+          
+            SC Health Corporation
+          
+        
+        
+           
+           
+        
+        
+          
+            Date: August 30, 2019
+          
+          
+            By:
+          
+          
+            
+              /s/ Angelo John Coloma
+            
+          
+        
+        
+           
+          
+            Name:
+          
+          
+            Angelo John Coloma
+          
+        
+
+    
+    
+
+        
+           
+          
+            Title:
+          
+          
+            Chief Executive Officer
+          
+        
+
+    
+    
+    
+  
+  
+  
+  
+
+
+

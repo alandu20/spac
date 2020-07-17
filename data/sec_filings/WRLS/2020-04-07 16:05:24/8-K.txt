@@ -1,0 +1,448 @@
+
+8-K
+1
+tm2015208-1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the
+Securities Exchange Act of 1934
+
+ 
+
+Date of report (Date of earliest event
+reported): April 1, 2020
+
+ 
+
+American
+Virtual Cloud Technologies, Inc.
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+(State or other jurisdiction
+of incorporation)
+    001-38167
+(Commission File Number)
+    81-2402421
+(I.R.S. Employer
+Identification Number)
+
+    
+        1720 Peachtree Street, Suite 629
+        Atlanta, GA
+        (Address of principal executive offices)
+        
+    
+        30309
+        (Zip code)
+
+     
+    
+         
+        (404) 234-3098
+        (Registrant’s telephone number, including area code)
+         
+        Not Applicable
+        (Former name or former address, if changed since last report)
+     
+
+     
+     
+     
+     
+     
+     
+
+
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following
+provisions:
+
+ 
+
+¨        Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨        Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨        Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨        Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Common Stock, par value $0.0001 per share
+     
+    AVCT
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50
+     
+    AVCTW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+ 
+
+
+
+
+
+
+     
+     
+    
+
+ 
+
+Introductory Note
+
+ 
+
+On April 7, 2020, American Virtual Cloud
+Technologies, Inc. (f/k/a/ Pensare Acquisition Corp.), a Delaware corporation (“Pensare”), consummated the previously
+announced business combination (the “Business Combination”) pursuant to that certain Business Combination Agreement,
+dated July 24, 2019, as amended (the “Agreement”), by and among Pensare, Tango Merger Sub Corp., a Delaware corporation
+(“Merger Sub”), Stratos Management Systems Holdings, LLC, a Delaware limited liability company (“Holdings”),
+and Stratos Management Systems, Inc., a Delaware corporation (“Computex”), pursuant to which Computex merged with and
+into Merger Sub (the “Merger”), with Merger Sub surviving the Merger as a wholly owned subsidiary of Pensare (the “Surviving
+Corporation”). Capitalized terms used in this Current Report on Form 8-K but not otherwise defined herein have the meanings
+given to them in the Agreement.
+
+ 
+
+Following the completion of the Merger (the
+ “Closing”), substantially all of Pensare’s assets and operations are held and conducted by the Surviving Corporation
+and its subsidiaries, and Pensare’s only assets are all of the issued and outstanding equity interests in the Surviving Corporation.
+Unless the context otherwise requires, the “Company” refers to the combined company and its subsidiaries, including
+the Surviving Corporation and its subsidiaries. Capitalized terms used in this Current Report on Form 8-K but not otherwise defined
+herein have the meanings given to them in the Agreement. Prior to the Closing, but in contemplation thereof, the registrant changed
+its name from “Pensare Acquisition Corp.” to “American Virtual Cloud Technologies, Inc.”
+
+ 
+
+The foregoing description of the Agreement
+is a summary only and is qualified in its entirety by reference to the Agreement, Amendment No. 1 to the Agreement, dated as of
+December 20, 2019, by and among Pensare, Merger Sub, Holdings, and Computex, and Amendment No. 2 to the Agreement, dated as of
+April 3, 2020 (“Amendment No. 2”), by and among Pensare, Merger Sub, Holdings, and Computex, copies of which are filed
+as Exhibit 2.1, Exhibit 2.2, and Exhibit 2.3, respectively, to this Current Report on Form 8-K. A more detailed description of
+the Merger and related transactions can be found in Pensare’s definitive proxy statement in connection with the solicitation
+of proxies from Pensare’s stockholders to approve the Merger and related transactions filed with the Securities and Exchange
+Commission (the “SEC”) on February 13, 2020 (the “Proxy Statement”).
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement
+
+ 
+
+Amendment No. 2
+to the Business Combination Agreement
+
+ 
+
+On April 3, 2020, Pensare,
+Merger Sub, Holdings, and Computex entered into Amendment No. 2, which provided for, among other things: (i) changing the aggregate
+merger consideration payable to $65 million (subject to adjustment based on Computex’s working capital and net debt at closing),
+consisting of $20 million of Units (as defined below), shares of Pensare’s common stock, and the assumption of Computex’s
+indebtedness; (ii) extending the date by which the Company must file a resale registration statement from five days to fifteen
+business days following the Closing; (iii) the right of Holdings to nominate one, two or three members of the board of directors
+of the Company, provided that Holdings owns at least 10%, 30% or 50%, respectively, of the Stock Consideration and Converted Shares,
+collectively, issuable to Holdings in connection with the Closing; (iv) adjusting certain terms and definitions relating to the
+consideration issued in the Business Combination to, among other things, provide for the Units to be issued by Pensare in the Private
+Placement; (v) the removal of the previously contemplated Lock-Up Agreement by and among Pensare, Holdings and Navigation Capital
+Partners II, L.P.; and (vi) the acknowledgement by Pensare and Merger Sub that certain actions taken by Computex prior to the Effective
+Time related to the Coronavirus Disease 2019 shall not constitute a Company Material Adverse Effect.
+
+ 
+
+The foregoing description
+of Amendment No. 2 does not purport to be complete and is qualified in its entirety by the terms and conditions of Amendment No.
+2, which is filed as Exhibit 2.3 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+Securities Purchase
+Agreement
+
+ 
+
+Also on April 3,
+2020, Pensare entered into a Securities Purchase Agreement (the “Securities Purchase Agreement”) pursuant to
+which certain investors (each an “Investor”) agreed to purchase, and Pensare agreed to sell to the Investors, in
+a private placement (the “Private Placement”), units of securities of Pensare (“Units”), each Unit
+consisting of (i) $1,000 in principal amount of Pensare’s Series A convertible debentures (the
+ “Debentures”) and (ii) a warrant to purchase 100 shares of Pensare Common Stock at an exercise price of
+$0.01 per whole share. The initial closing of the sale of Units pursuant to the Securities Purchase Agreement was contingent
+upon, among other customary closing conditions, the substantially concurrent consummation of the Business Combination, and
+occurred on April 7, 2020.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+The foregoing description
+of the Securities Purchase Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions
+of the Securities Purchase Agreement, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein
+by reference.
+
+ 
+
+Item 4.01. Changes in Registrant’s Certifying Accountant
+
+ 
+
+On April 7, 2020, Marcum LLP (“Marcum”)
+was dismissed by vote of the board of directors as Pensare’s independent registered public accounting firm. On the same date,
+the board of directors engaged in discussions regarding and voted to retain UHY LLP (“UHY”) as Pensare’s independent
+registered public accounting firm subject to completion of UHY’s standard client acceptance procedures and execution of an
+engagement letter.
+
+ 
+
+Marcum’s reports on Pensare’s
+financial statements as of March 31, 2019 and 2018, and the related statements of operations, changes in stockholders’ equity
+and cash flows for each of the two years in the period ended March 31, 2019 did not contain any adverse opinion or a disclaimer
+of opinion. The report was not qualified or modified as to uncertainty, audit scope, or accounting principles.
+
+ 
+
+During the period from April 7, 2016 (inception)
+through March 31, 2019, and any subsequent interim period preceding such dismissal, there were no disagreements with Marcum on
+any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreement(s),
+if not resolved to the satisfaction of the former accountant, would have caused it to make reference to the subject matter of the
+disagreement(s) in connection with its report.
+
+ 
+
+Pensare provided Marcum with a copy of the
+disclosures it is making in this Item 4.01 of this Current Report on Form 8-K and requested that Marcum furnish a letter addressed
+to the SEC stating whether it agrees with the statements above, and, if not, stating the respects in which it does not agree. A
+copy of Marcum’s letter dated April 7, 2020 is filed as Exhibit 16.1 hereto.
+
+ 
+
+Item 5.03. Amendments to Articles of Incorporation or Bylaws;
+Change in Fiscal Year.
+
+ 
+
+On April 1, 2020, Pensare filed its amended
+and restated certificate of incorporation (the “Certificate of Incorporation”) with Secretary of State of the State
+of Delaware, which was effective the same day. Among other things, the Certificate of Incorporation: (i) changed Pensare’s
+name to American Virtual Cloud Technologies, Inc., (ii) removed certain provisions related to Pensare’s status as a blank
+check company, (iii) increased the number of shares that the Company may issue and (iv) made such other changes that Pensare’s
+board of directors deemed appropriate for a public operating company.
+
+ 
+
+The terms of the Certificate of Incorporation
+are set forth in the Proxy Statement and are incorporated herein by reference. A copy of the Certificate of Incorporation is filed
+with this Current Report on Form 8-K as Exhibit 3.1, and the foregoing description of the Certificate of Incorporation is qualified
+in its entirety by reference thereto.
+
+ 
+
+Item 7.01. Regulation FD Disclosure.
+
+ 
+
+On April 7, 2020, the
+Company issued a press release announcing the completion of the business combination, a copy of which is attached hereto as Exhibit
+99.1 and incorporated herein by reference.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)       Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Exhibit
+
+    2.1
+     
+    Business Combination Agreement, dated as of July 24, 2019, by and among Pensare, Merger Sub, Holdings, and Computex (incorporated by reference to Exhibit 2.1 to Pensare’s Current Report on Form 8-K filed July 30, 2019).
+
+    2.2
+     
+    Amendment No. 1 to the Business Combination Agreement, dated as of December 20, 2019, by and among Pensare, Merger Sub, Holdings, and Computex (incorporated by reference to Exhibit 2.2 to Pensare’s Current Report on Form 8-K filed December 30, 2019).
+
+    2.3
+     
+    Amendment No. 2 to the Business Combination Agreement, dated as of April 3, 2020, by and among Pensare, Merger Sub, Holdings, and Computex.
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation of the Company.
+
+    10.1
+     
+    Securities Purchase Agreement, dated as of April 3, 2020.
+
+    16.1
+     
+    Letter from Marcum.
+
+    99.1
+     
+    Press Release, dated April 7, 2020 announcing the closing of the business combination.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+hereunto duly authorized.
+
+ 
+
+
+
+     Dated: April 7, 2020
+     
+
+     
+     
+
+     
+    American Virtual Cloud Technologies, Inc.
+
+     
+     
+
+     
+    By: 
+    /s/ Darrell J. Mays
+
+     
+     
+    Name: Darrell J. Mays
+
+     
+     
+    Title: Chief Executive Officer
+
+
+
+ 
+
+
+
+
+
+
+    5
+    
+
+ 
+
+
+
+

@@ -1,0 +1,537 @@
+
+8-K
+1
+f8k111518_fintechacq3.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or Section 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): November 15, 2018
+
+ 
+
+
+
+ 
+
+ 
+
+FINTECH
+ACQUISITION CORP. III
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38744
+     
+    82-0895994
+
+    (State
+    or other jurisdiction of 
+incorporation or organization)
+     
+    (Commission
+    File Number)
+     
+    (I.R.S.
+    Employer 
+Identification Number)
+
+ 
+
+
+
+    2929
+        Arch Street, Suite 1703
+        Philadelphia,
+        PA
+     
+    19104
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code:  (215) 701-9555
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation to the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+    ☐
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company      ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On
+November 20, 2018, FinTech Acquisition Corp. III (the “Company”) consummated the sale of 34,500,000 units (the “Units”)
+in its initial public offering (the “IPO”). Each Unit consists of one share of the Company’s Class A common
+stock, par value $0.0001 per share (“Common Stock”), and one half of one warrant (each, a “Warrant”),
+where each whole Warrant entitles the holder to purchase one share of Common Stock for $11.50 per share. The Units were sold in
+the IPO at an offering price of $10.00 per Unit for gross proceeds of $345,000,000 (before underwriting discounts and commissions
+and offering expenses). Pursuant to the Underwriting Agreement (defined below), the Company granted the underwriters in the IPO
+(the “Underwriters”) a 45-day option to purchase up to 4,500,000 additional Units solely to cover over-allotments,
+if any (the “Over-Allotment Option”); and on November 19, 2018, the Underwriters notified the Company that they were
+exercising the Over-Allotment Option in full. Immediately following the consummation of the IPO, there were an aggregate of 44,287,500
+shares of the Company’s common stock issued and outstanding.
+
+ 
+
+In
+connection with the closing of the IPO, the Company entered into the following agreements, forms of which were previously filed
+as exhibits to the Company’s registration statement on Form S-1 (File No. 333-227951) for the IPO, originally filed with
+the Securities and Exchange Commission (the “Commission”) on October 23, 2018 (as amended, the “Registration
+Statement”):
+
+ 
+
+●       An
+Underwriting Agreement, dated November 15, 2018 (the “Underwriting Agreement”), between the Company and Cantor Fitzgerald
+& Co. (“Cantor”) as representative of the Underwriters;
+
+ 
+
+●       An
+Investment Management Trust Agreement, dated November 15, 2018, between the Company and Continental Stock Transfer & Trust
+Company;
+
+ 
+
+●       A
+Warrant Agreement, dated November 15, 2018, between the Company and Continental Stock Transfer & Trust Company;
+
+ 
+
+●       A
+Registration Rights Agreement, dated November 15, 2018, between the Company and certain security holders of the Company;
+
+ 
+
+●       A
+Letter Agreement, dated November 15, 2018, by and among the Company, its officers and directors and certain of the Company’s
+security holders;
+
+ 
+
+●       A
+Unit Subscription Agreement, dated November 9, 2018, between the Company and FinTech Investor Holdings III, LLC and 3FIII, LLC;
+
+ 
+
+●       A
+Unit Subscription Agreement, dated November 15, 2018, between the Company and Cantor; and
+
+ 
+
+●       An
+Administrative Services Agreement, dated November 15, 2018, between the Company and Cohen Sponsor Interests III, LLC.
+
+ 
+
+A
+description of the material terms of each of these agreements is included in the Registration Statement and incorporated herein
+by this reference.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Item
+3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneously
+with the consummation of the IPO, the Company consummated the issuance and sale (“Private Placement”) of 930,000 Units
+(the “Placement Units”) in a private placement transaction at a price of $10.00 per Placement Unit, generating gross
+proceeds of $9,300,000. The Placement Units were purchased by Cantor (100,000 Units) and the Company’s sponsors, FinTech
+Investor Holdings III, LLC (425,000 Units) and 3FIII, LLC (405,000 Units). The Warrants included in the Placement Units are identical
+to the Warrants included in the IPO Units except that, so long as they are held by Cantor, the Sponsor or their permitted transferees
+(a) they are not redeemable by the Company, (b) they (including the underlying Common Stock) may not be transferred, assigned
+or sold until 30 days after the consummation of the Company’s initial business combination, subject to certain limited exceptions,
+and (c) they may be exercised on a cashless basis. In addition, for as long as the Placement Warrants are held by Cantor or its
+designees, they may not be exercised after November 15, 2023. No underwriting discounts or commissions were paid with respect
+to such sale. The issuance of the Placement Units was made pursuant to the exemption from registration contained in Section 4(a)(2)
+of the Securities Act of 1933, as amended.
+
+ 
+
+Item
+3.03. Material Modification to Rights of Security Holders.
+
+ 
+
+The
+disclosure set forth under Item 5.03 is incorporated herein by this reference.
+
+ 
+
+Item
+5.03. Amendments to Certificate of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+On
+November 16, 2018, in connection with the IPO, the Company filed its amended and restated certificate of incorporation (the “Amended
+and Restated Certificate”) with the Secretary of State of the State of Delaware. A description of the material terms of
+the Amended and Restated Certificate is included in the Registration Statement and incorporated herein by this reference. In addition,
+a copy of the Amended and Restated Certificate is attached hereto as Exhibit 3.1 and is incorporated herein by this reference.
+
+ 
+
+Item
+8.01. Other Events.
+
+ 
+
+A
+total of $345,000,000 of the net proceeds from the IPO and the Private Placement (which includes $14.7 million of the Underwriters’
+deferred discount) were placed in a trust account established for the benefit of the Company’s public stockholders at JP
+Morgan Chase Bank, N.A., with Continental Stock Transfer & Trust Company acting as trustee. Except for the withdrawal of interest
+to pay taxes (or dissolution expenses if a business combination is not consummated), none of the funds held in the trust account
+will be released until the earlier of (i) the completion of the Company’s initial business combination, (ii) in connection
+with a stockholder vote to amend the Amended and Restated Certificate to modify the substance or timing of the Company’s
+obligation to redeem 100% of its Common Stock if it does not complete an initial business combination within 24 months from the
+completion of the IPO or (iii) the redemption of all shares of Common Stock issued in the IPO if the Company is unable to consummate
+an initial business combination within 24 months from the completion of the IPO.
+
+ 
+
+A
+copy of the press release issued by the Company on November 15, 2018 regarding the pricing of the IPO is included as Exhibit 99.1
+to this Current Report on Form 8-K.
+
+ 
+
+A
+copy of the press release issued by the Company on November 20, 2018 regarding the closing of the IPO is included as Exhibit 99.2
+to this Current Report on Form 8-K.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Item
+9.01.  Financial Statements and Exhibits.
+
+ 
+
+
+
+    (d)
+    Exhibits.
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement, dated November 15, 2018, between the Company and Cantor Fitzgerald & Co.
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation, filed with the Secretary of State of the State of Delaware on November 16, 2018.
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated November 15, 2018, between Continental Stock Transfer & Trust Company and the Company.
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreement, dated November 15, 2018, by and among the Company and certain security holders, officers and directors of the Company.
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Account Agreement, dated November 15, 2018, between Continental Stock Transfer & Trust Company and the Company.
+
+     
+     
+     
+
+    10.3
+     
+    Registration Rights Agreement, dated November 15, 2018, between the Company and certain security holders of the Company.
+
+     
+     
+     
+
+    10.4
+     
+    Placement Unit Subscription Agreement, dated November 9, 2018, between the Company and FinTech Investor Holdings III, LLC and 3FIII, LLC.
+
+     
+     
+     
+
+    10.5
+     
+    Placement Unit Subscription Agreement, dated November 15, 2018, between the Company and Cantor Fitzgerald & Co.
+
+     
+     
+     
+
+    10.6
+     
+    Administrative Services Agreement, dated November 15, 2018, between the Company and Cohen Sponsor Interests III, LLC.
+
+     
+     
+     
+
+    99.1
+     
+    Press Release dated November 15, 2018 (pricing of the IPO).
+
+     
+     
+     
+
+    99.2
+     
+    Press Release dated November 20, 2018 (closing of the IPO).
+
+
+
+
+
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+Dated:
+November 21, 2018
+
+ 
+
+
+
+     
+    FINTECH
+    ACQUISITION CORP. III
+
+     
+     
+     
+
+     
+    By:
+    /s/
+    James J. McEntee, III
+
+     
+    Name:  
+    James
+    J. McEntee, III
+
+     
+    Title:
+    President
+    and Chief Financial Officer
+
+ 
+
+ 
+
+4
+
+
+
+ 
+
+ 
+
+
+
+

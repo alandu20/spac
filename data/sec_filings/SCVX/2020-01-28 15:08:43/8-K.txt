@@ -1,0 +1,635 @@
+
+8-K
+1
+f8k012320_scvxcorp.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+
+ 
+
+ 
+
+CURRENT
+REPORT
+
+PURSUANT
+TO SECTION 13 OR 15(D)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): January 23, 2020
+
+ 
+
+
+
+ 
+
+ 
+
+SCVX
+Corp.
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+    Cayman
+    Islands
+     
+    001-39190
+     
+    98-1518469
+
+    (State or other
+    jurisdiction
+     
+    (Commission
+     
+    (I.R.S. Employer
+
+    of incorporation)
+     
+    File Number)
+     
+    Identification
+    No.)
+
+ 
+
+
+
+    1717
+    Pennsylvania Ave, NW #625 
+Washington, DC
+     
+    20006
+
+    (Address of principal
+    executive offices)
+     
+    (Zip Code)
+
+ 
+
+(202)
+733-4719
+
+(Registrant’s
+telephone number, including area code)
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+
+
+ 
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+☐Written communication pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+☐Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencements
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+
+    Symbol(s)
+     
+     
+    Name
+    of each exchange 
+on which registered
+
+    Units,
+    each consisting of one Class A ordinary share, $0.0001 par value per share, and one-half of one redeemable
+    warrant to purchase one Class A ordinary share
+     
+    SCVX.U
+     
+     
+    New
+    York Stock Exchange
+
+    Class A
+    ordinary shares, $0.0001 par value per share
+     
+    SCVX
+     
+     
+    New
+    York Stock Exchange
+
+    Redeemable
+    warrants to purchase Class A ordinary shares
+     
+    SCVX
+    WS
+     
+     
+    New
+    York Stock Exchange
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company  ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+
+Item
+                          8.01Other
+                                         Events.
+
+ 
+
+On
+January 28, 2020, SCVX Corp. (the “Company”) consummated its initial public offering (the “IPO”)
+of 23,000,000 units (the “Units”), including the issuance of 3,000,000 Units as a result of the underwriter’s
+exercise of their over-allotment option. Each Unit consists of one Class A ordinary share of the Company, par value $0.0001 per
+share (an “Ordinary Share”), and one-half of one redeemable warrant of the Company. Each whole warrant entitles
+the holder thereof to purchase one Ordinary Share for $11.50 per share, subject to adjustment. The Units were sold at a price
+of $10.00 per unit, generating gross proceeds to the Company of $230,000,000.
+
+ 
+
+Substantially
+concurrently with the closing of the IPO, the Company completed the private sale of 6,600,000 warrants (the “Private
+Placement Warrants”) at a purchase price of $1.00 per Private Placement Warrant, to the Company’s sponsor, SCVX
+USA LLC (the “Sponsor”), generating gross proceeds to the Company of $6,600,000. The Private Placement Warrants
+are identical to the warrants sold as part of the Units in the IPO except that, so long as they are held by the Sponsor or its
+permitted transferees: (1) they will not be redeemable by the Company; (2) they (including the Ordinary Shares issuable upon exercise
+of these warrants) may not, subject to certain limited exceptions, be transferred, assigned or sold by the Sponsor until 30 days
+after the completion of the Company’s initial business combination; (3) they may be exercised by the holders on a cashless
+basis; and (4) they (including the Ordinary Shares issuable upon exercise of these warrants) are entitled to registration rights.
+
+ 
+
+A
+total of $230,000,000, comprised of proceeds from the IPO and the sale of the Private Placement Warrants, were placed in a U.S.-based
+trust account at JP Morgan Chase Bank, N.A., maintained by Continental Stock Transfer & Trust Company, acting as trustee.
+Except with respect to interest earned on the funds held in the trust account that may be released to the Company to pay its taxes,
+if any, the funds held in the trust account will not be released from the trust account until the earliest to occur of: (1) the
+completion of the Company’s initial business combination; (2) the redemption of any public shares properly submitted in connection
+with a shareholder vote to amend the Company’s amended and restated memorandum and articles of association (A) to modify the substance
+or timing of the Company’s obligation to allow redemption in connection with its initial business combination or to redeem 100%
+of its public shares if the Company does not complete its initial business combination within 24 months from the closing of the
+IPO or (B) with respect to any other provision relating to shareholders’ rights or pre-initial business combination activity;
+and (3) the redemption of the Company’s public shares if the Company has not completed its initial business combination within
+24 months from the closing of the IPO, subject to applicable law.
+
+ 
+
+In
+connection with the IPO, the Company entered into the following agreements, the forms of which were previously filed as exhibits
+to the Company registration statement (File No. 333-235694):
+
+ 
+
+
+●Amended
+and Restated Memorandum and Articles of Association of the Company.
+
+
+ 
+
+
+●An
+Underwriting Agreement, dated January 23, 2020, between the Company and Credit Suisse Securities (USA) LLC.
+
+
+ 
+
+
+●A
+Warrant Agreement, dated January 23, 2020, between the Company and Continental Stock Transfer & Trust Company, as warrant
+agent.
+
+
+ 
+
+
+●A
+Letter Agreement, dated January 23, 2020, among the Company, the Sponsor and the Company’s officers and directors.
+
+
+ 
+
+
+●An
+Investment Management Trust Agreement, dated January 23, 2020, between the Company and Continental Stock Transfer & Trust
+Company, as trustee.
+
+
+ 
+
+
+●A
+Registration Rights Agreement, dated January 23, 2020, among the Company, the Sponsor and certain other security holders named
+therein.
+
+
+ 
+
+
+●An
+Administrative Services Agreement, dated January 23, 2020, between the Company and Strategic Cyber Ventures, LLC.
+
+
+ 
+
+
+●A
+Sponsor Warrants Purchase Agreement, dated January 23, 2020, between the Company and the Sponsor.
+
+
+ 
+
+
+●An
+Indemnity Agreement, dated January 23, 2020, between the Company and Michael Doniger.
+
+
+ 
+
+
+●An
+Indemnity Agreement, dated January 23, 2020, between the Company and Hank Thomas.
+
+
+ 
+
+
+●An
+Indemnity Agreement, dated January 23, 2020, between the Company and Chris Ahern.
+
+
+ 
+
+
+●An
+Indemnity Agreement, dated January 23, 2020, between the Company and Sounil Yu.
+
+
+ 
+
+
+●An
+Indemnity Agreement, dated January 23, 2020, between the Company and David J. Lunglhofer.
+
+
+ 
+
+
+●An
+Indemnity Agreement, dated January 23, 2020, between the Company and Daniel Coats.
+
+
+ 
+
+
+●An
+Indemnity Agreement, dated January 23, 2020, between the Company and Vivian C. Schneck-Last.
+
+
+ 
+
+
+    1
+     
+    
+
+ 
+
+On
+January 23, 2020, the Company issued a press release, a copy of which is attached as Exhibit 99.1 to this Current Report on Form
+8-K, announcing the pricing of the IPO.
+
+ 
+
+
+Item
+                          9.01Financial
+Statements and Exhibits.
+
+
+ 
+
+
+(d)Exhibits.
+The following exhibits are filed with this Form 8-K:
+
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description of Exhibits
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement, dated January 23, 2020, between the Company and Credit Suisse Securities (USA) LLC.
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Memorandum and Articles of Association of the Company.
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated January 23, 2020, between the Company and Continental Stock Transfer & Trust Company, as warrant agent.
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreement, dated January 23, 2020, among the Company, the Sponsor and the Company’s officers and directors.
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated January 23, 2020, between the Company and Continental Stock Transfer & Trust Company, as trustee.
+
+     
+     
+     
+
+    10.3
+     
+    Registration Rights Agreement, dated January 23, 2020, among the Company, the Sponsor and certain other security holders named therein.
+
+     
+     
+     
+
+    10.4
+     
+    Administrative Services Agreement, dated January 23, 2020, between the Company and Strategic Cyber Ventures, LLC.
+
+     
+     
+     
+
+    10.5
+     
+    Sponsor Warrants Purchase Agreement, dated January 23, 2020, between the Company and the Sponsor
+
+     
+     
+     
+
+    10.6
+     
+    Indemnity Agreement, dated January 23, 2020, between the Company and Michael Doniger.
+
+     
+     
+     
+
+    10.7
+     
+    Indemnity Agreement, dated January 23, 2020, between the Company and Hank Thomas.
+
+     
+     
+     
+
+    10.8
+     
+    Indemnity Agreement, dated January 23, 2020, between the Company and Chris Ahern.
+
+     
+     
+     
+
+    10.9
+     
+    Indemnity Agreement, dated January 23, 2020, between the Company and Sounil Yu.
+
+     
+     
+     
+
+    10.10
+     
+    Indemnity Agreement, dated January 23, 2020, between the Company and David J. Lunglhofer.
+
+     
+     
+     
+
+    10.11
+     
+    Indemnity Agreement, dated January 23, 2020, between the Company and Daniel Coats.
+
+     
+     
+     
+
+    10.12
+     
+    Indemnity Agreement, dated January 23, 2020, between the Company and Vivian C. Schneck-Last.
+
+     
+     
+     
+
+    99.1
+     
+    Press Release, dated January 23, 2020.
+
+ 
+
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    SCVX Corp.
+
+     
+     
+     
+
+    Date: January 28, 2020
+    By:
+    /s/ Michael Doniger
+
+     
+    Name: 
+    Michael Doniger
+
+     
+    Title:  
+    Chief Executive Officer and Chairman
+
+ 
+
+ 
+
+
+
+3
+
+ 
+
+
+
+
+
+

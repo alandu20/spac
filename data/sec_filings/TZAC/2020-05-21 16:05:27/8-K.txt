@@ -1,0 +1,406 @@
+
+8-K
+1
+tm2020397d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): May
+21, 2020
+
+ 
+
+TENZING ACQUISITION CORP.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    British Virgin Islands
+    001-38634
+    N/A
+
+    (State or other jurisdiction
+of incorporation)
+    (Commission
+File Number)
+    (IRS Employer
+Identification No.)
+
+ 
+
+250 West 55th Street
+
+New York, New York 10019
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: 212-710-5220
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the
+Act:
+
+ 
+
+
+
+    Title of Each Class:
+     
+    Trading Symbols
+     
+    Name of Each Exchange on Which Registered:
+
+    Ordinary Shares, no par value
+     
+    TZAC
+     
+    The NASDAQ Stock Market LLC
+
+    Warrants, each exercisable for one Ordinary Share, exercisable for $11.50
+     
+    TZACW
+     
+    The NASDAQ Stock Market LLC
+
+    Units, each consisting of one Ordinary Shares and one Warrant
+     
+    TZACU
+     
+    The NASDAQ Stock Market LLC
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+¨Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+¨Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+¨Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company  x
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item
+                            2.03Creation
+of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+ 
+
+On
+May 21, 2020, Tenzing Acquisition Corp. (the “Company”) issued an unsecured promissory note (the “Note”)
+in the amount of up to $375,000.00 to Tenzing LLC (the “Sponsor”). A portion of the proceeds of the Note, which
+may be drawn down from time to time until the Company consummates its initial business combination, will be used to fund a contribution
+in the amount of $0.066 per ordinary share held by public shareholders that is not redeemed in connection with the Extension Proposal
+(as defined below), which proposal was presented and approved at the completely virtual special meeting of shareholders (the “Special
+Meeting”) held on May 21, 2020. $210,836.34 of the proceeds of the Note will be deposited into the Company’s trust
+account. The remaining proceeds of the Note will be used as general working capital.
+
+ 
+
+The
+Note bears no interest and is payable in full upon the earlier to occur of (i) the consummation of the Company’s initial
+business combination and (ii) the date the winding up of the Company is effective (the “Maturity Date”).  A
+failure to pay the principal within five business days of the Maturity Date or the commencement of a voluntary or involuntary bankruptcy
+action shall be deemed an event of default, in which case the Note may be accelerated. The Sponsor has the option to convert any
+unpaid balance of the Note into units (the “Conversion Units”), each unit consisting of one ordinary share of
+the Company and one warrant exercisable for one ordinary share of the Company, based on a conversion price of $10.00 per unit,
+subject to adjustment. The terms of the Conversion Units would be identical to the units issued by the Company to the Sponsor in
+a private placement that was consummated in connection with the Company’s initial public offering. The Sponsor shall be entitled
+to certain registration rights relating to the Conversion Units.
+
+ 
+
+The issuance of the Note was
+made pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+A copy of the Note is attached
+as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference. The disclosures set forth in this Item
+2.03 are intended to be summaries only and are qualified in their entirety by reference to the Note.
+
+ 
+
+
+Item 5.07Submission of Matters to a Vote of Security Holders.
+
+
+ 
+
+At the Special Meeting, the Company’s
+shareholders were asked to vote on the following items: (i) an amendment to the Amended and Restated Memorandum and Articles of
+Association to extend the date by which the Company must consummate a business combination from May 26, 2020 to July 27, 2020 (or
+September 28, 2020 if the Company has executed a definitive agreement for a business combination by July 27, 2020) (the “Extension
+Proposal”) and (ii) a proposal to direct the chairman of the Special Meeting to adjourn the Special Meeting to a later
+date or dates, if necessary, to permit further solicitation and vote of proxies if, based upon the tabulated vote at the time of
+the special meeting, there are not sufficient votes to approve the Extension Proposal (the “Adjournment Proposal”).
+
+ 
+
+The affirmative vote of at least 65% of
+the ordinary shares of the Company, no par value (the “Ordinary Shares”) entitled to vote which were present,
+in person or by proxy, at the Special Meeting and which voted on the Extension Proposal was required to approve the Extension Proposal.
+The affirmative vote of a majority of the Ordinary Shares entitled to vote which were present, in person or by proxy, at the Special
+Meeting and which voted on the Adjournment Proposal was required to approve the Adjournment Proposal.
+
+ 
+
+Set forth below are the final voting results
+for the Extension Proposal. As there were sufficient votes to approve the Extension Proposal, the Adjournment Proposal was not
+presented to shareholders at the Special Meeting.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Extension Proposal
+
+ 
+
+The Extension Proposal was approved. The
+voting results of the Ordinary Shares were as follows:
+
+ 
+
+
+
+    For 
+    Against 
+    Abstentions 
+    Broker Non-Votes
+
+    5,958,084 
+    0 
+    0 
+    0
+
+
+    
+
+
+Item 7.01Regulation FD
+
+
+ 
+
+The information set forth below under this
+Item 7.01 is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section,
+nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except as expressly
+set forth by specific reference in such filing.
+
+ 
+
+In connection with the Extension Proposal,
+shareholders of the Ordinary Shares (“Public Shares”) sold in the Company’s initial public offering elected
+to redeem 2,534,624 Public Shares, which represents approximately 44% of the Public Shares that were outstanding as of April 24,
+2020, the record date of the Special Meeting. Following such redemptions, approximately $34,008,726.92 will remain in the
+trust account, without taking into account the additional $0.066 for each Public Share that is not redeemed to be deposited into
+the trust account, and 3,194,490 Ordinary Shares will remain issued and outstanding.
+
+ 
+
+A press release announcing the approval
+of the Extension Proposal is attached as Exhibit 99.1 hereto.
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+
+ 
+
+
+
+     
+    (d)
+    Exhibits
+
+ 
+
+
+
+    
+        Exhibit
+        Number
+     
+    Description
+
+     
+     
+     
+
+    10.1
+     
+    Promissory Note, dated May 21, 2020, issued by Tenzing Acquisition Corp. to Tenzing LLC
+
+    99.1
+     
+    Press Release, dated May 21, 2020
+
+ 
+
+
+
+     
+     
+    
+
+
+
+  
+
+SIGNATURE 
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: May 21, 2020
+
+ 
+
+
+
+     
+    TENZING ACQUISITION CORP.
+
+     
+     
+
+     
+     
+
+     
+    By: 
+    /s/ Rahul Nayar
+
+     
+     
+    Name: Rahul Nayar
+Title: Chief Executive Officer
+
+ 
+
+
+
+
+
+
+     
+    
+
+
+
+ 
+
+
+
+

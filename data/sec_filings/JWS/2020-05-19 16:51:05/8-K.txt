@@ -1,0 +1,371 @@
+
+8-K
+1
+d932846d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT
+REPORT  Pursuant to Section 13 or Section 15(d) 
+of the Securities Exchange Act of 1934 
+Date of Report (Date of earliest event reported): May 18, 2020 
+   
+JAWS ACQUISITION CORP. 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cayman Islands
+ 
+001-39289
+ 
+98-1524224
+
+(State or other jurisdiction ofincorporation or organization)
+ 
+(CommissionFile Number)
+ 
+(I.R.S. EmployerIdentification Number)
+
+
+
+
+1601 Washington Avenue, Suite 800Miami Beach, FL
+ 
+33139
+
+(Address of principal executive offices)
+ 
+(Zip Code) (203) 422-7718  Registrants telephone number, including area code 
+Not Applicable  (Former
+name or former address, if changed since last report)   
+  Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation to the registrant under any of the following provisions: 
+ 
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbol(s)
+ 
+ Name of each exchange onwhich
+registered
+
+
+
+ Units, each consisting of one Class A Ordinary Share, $0.0001 par value, and one-third of one redeemable warrant
+ 
+JWS.U
+ 
+New York Stock Exchange
+
+ Class A Ordinary Shares included as part of the units
+ 
+JWS
+ 
+New York Stock Exchange
+
+ Redeemable warrants included as part of the units, each whole warrant exercisable for one
+Class A Ordinary Share at an exercise price of $11.50
+ 
+JWS WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 or Rule 12b-2 of the Securities Exchange Act of 1934.  Emerging growth company ☒ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐   
+   
+
+
+
+
+
+
+
+
+
+
+
+Item 1.01.
+ Entry into a Material Definitive Agreement. 
+On May 13, 2020, the Registration Statement on Form S-1 (File
+No. 333-237874) (the Registration Statement) relating to the initial public offering (the IPO) of Jaws Acquisition Corp. (the Company) was declared effective by the
+U.S. Securities and Exchange Commission, and the Company subsequently filed, on May 13, 2020, a registration statement on Form S-1 (File No. 333-238241)
+pursuant to Rule 462(b) under the Securities Act of 1933, as amended, which was effective immediately upon filing. On May 18, 2020 the Company consummated the IPO of 69,000,000 units (the Units), which includes the exercise in
+full of the underwriters option to purchase an additional 9,000,000 Units at the initial public offering price to cover over-allotments. Each Unit consists of one Class A ordinary share, $0.0001 par value per share (the Class A
+Ordinary Shares), and one-third of one redeemable warrant (the Public Warrants), each whole Public Warrant entitling the holder thereof to purchase one Class A Ordinary Share at an
+exercise price of $11.50 per share, subject to adjustment. The Units were sold at an offering price of $10.00 per Unit, generating gross proceeds of 690,000,000. Further, in connection with the IPO, the Company entered into the following agreements,
+forms of which were previously filed as exhibits to the Registration Statement:   
+
+
+ 
+
+ 
+ an Underwriting Agreement, dated May 13, 2020, between the Company and Credit Suisse Securities (USA) LLC,
+as representative of the underwriters named in Schedule I therein, which contains customary representations and warranties and indemnification of the underwriter by the Company; 
+ 
+
+
+ 
+
+ 
+ a Private Placement Warrants Purchase Agreement, dated May 13, 2020, between the Company and Jaws Sponsor
+LLC (the Sponsor), pursuant to which the Sponsor purchased 10,533,333 private placement warrants, each exercisable to purchase one Class A Ordinary Share at $11.50 per share, subject to adjustment, at a price of $1.50 per warrant
+(the Private Placement Warrants and, together with the Public Warrants, the Warrants);   
+
+
+ 
+
+ 
+ a Warrant Agreement, dated May 18, 2020, between the Company and Continental Stock Transfer & Trust
+Company, as warrant agent (the Warrant Agreement), which sets forth the expiration and exercise price of and procedure for exercising the Warrants; certain adjustment features of the terms of exercise; provisions relating to redemption
+and cashless exercise of the Warrants; certain registration rights of the holders of Warrants; provision for amendments to the Warrant Agreement; and indemnification of the warrant agent by the Company under the agreement; 
+ 
+
+
+ 
+
+ 
+ an Investment Management Trust Agreement, dated May 18, 2020, between the Company and Continental Stock
+Transfer & Trust Company, as trustee, which establishes the trust account that will hold the net proceeds of the IPO and certain of the proceeds of the sale of the Private Placement Warrants, and sets forth the responsibilities of the
+trustee; the procedures for withdrawal and direction of funds from the trust account; and indemnification of the trustee by the Company under the agreement;   
+
+
+ 
+
+ 
+ a Registration and Shareholder Rights Agreement, dated May 18, 2020, among the Company, the Sponsor and
+certain equityholders of the Company, which provides for customary demand and piggy-back registration rights for the Sponsor, and customary piggy-back registration rights for such other equityholders, as well as certain transfer restrictions
+applicable to the Sponsor with respect to the Companys securities, and, upon and following consummation of our initial business combination, the right of the Sponsor to nominate three individuals for election to the Companys board of
+directors;   
+
+
+ 
+
+ 
+ Letter Agreement, dated May 18, 2020, among the Company, the Sponsor and each executive officer and director
+of the Company, pursuant to which the Sponsor and each executive officer and director of the Company has agreed to vote any Class A Ordinary Shares held by him, her or it in favor of the Companys initial business combination; to
+facilitate the liquidation and winding up of the Company if an initial business combination is not consummated within 24 months; to certain transfer restrictions with respect to the Companys securities; to certain indemnification obligations
+of the Sponsor; and the Company has agreed not to enter into a definitive agreement regarding an initial business combination without the prior consent of the Sponsor; and 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ an Administrative Services Agreement, dated May 18, 2020, between the Company and the Sponsor, pursuant to
+which the Sponsor has agreed to make available office space, secretarial and administrative services, as may be required by the Company from time to time, for $10,000 per month until the earlier of the Companys initial business combination or
+liquidation.  The above descriptions are qualified in their entirety by reference to the full text of the applicable
+agreement, each of which is incorporated by reference herein and filed herewith as Exhibits 1.1, 10.1, 4.1, 10.2, 10.3, 10.4 and 10.5, respectively.   
+
+
+Item 3.02.
+ Unregistered Sales of Equity Securities. 
+Simultaneous with the consummation of the IPO and the issuance and sale of the Units, the Company consummated the private placement of
+10,533,333 Private Placement Warrants at a price of $1.50 per Private Placement Warrant, generating total proceeds of $15,800,000 (the Private Placement). The Private Placement Warrants, which were purchased by the Sponsor, are
+substantially similar to the Public Warrants, except that if held by the Sponsor or its permitted transferees, they (i) may be exercised for cash or on a cashless basis, (ii) are not subject to being called for redemption (except in
+certain circumstances when the Public Warrants are called for redemption and a certain price per Class A Ordinary Share threshold is met) and (iii) subject to certain limited exceptions, will be subject to transfer restrictions until 30 days
+following the consummation of the Companys initial business combination. If the Private Placement Warrants are held by holders other than the Sponsor or its permitted transferees, the Private Placement Warrants will be redeemable by the
+Company in all redemption scenarios and exercisable by holders on the same basis as the Public Warrants. The Private Placement Warrants have been issued pursuant to, and are governed by the Warrant Agreement. 
+ 
+
+
+Item 5.03.
+ Amendments to Memorandum and Articles of Association. 
+On May 13, 2020 and in connection with the IPO, the Company adopted its Amended and Restated Memorandum and Articles of Association. The
+Amended and Restated Memorandum and Articles of Association is filed herewith as Exhibit 3.1 and is incorporated by reference herein. 
+
+
+
+
+
+
+
+
+
+
+
+Item 9.01.
+ Financial Statements and Exhibits. 
+ 
+
+
+
+
+
+
+
+
+
+
+(d)
+  
+Exhibits
+
+
+
+
+
+
+  1.1
+  
+Underwriting Agreement between the Company and Credit Suisse Securities (USA) LLC 
+
+
+
+
+  3.1
+  
+Amended and Restated Memorandum and Articles of Association 
+
+
+
+
+  4.1
+  
+Warrant Agreement between Continental Stock Transfer & Trust Company and the Company 
+
+
+
+
+10.1
+  
+Private Placement Warrants Purchase Agreement between the Company and the Sponsor 
+
+
+
+
+10.2
+  
+Investment Management Trust Account Agreement between Continental Stock Transfer & Trust Company and the Company 
+
+
+
+
+10.3
+  
+Registration and Shareholder Rights Agreement among the Company, the Sponsor and certain other equityholders named therein 
+
+
+
+
+10.4
+  
+Letter Agreement among the Company, the Sponsor and the Companys officers and directors 
+
+
+
+
+10.5
+  
+Administrative Services Agreement between the Company and the Sponsor 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.  Dated: May 19, 2020 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+JAWS ACQUISITION CORP.
+
+
+
+
+By:
+ 
+/s/ Joseph L. Dowling
+
+Name:
+ 
+Joseph L. Dowling
+
+Title:
+ 
+Chief Executive Officer
+
+
+
+
+

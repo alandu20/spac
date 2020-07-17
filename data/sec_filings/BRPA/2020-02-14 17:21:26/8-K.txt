@@ -1,0 +1,641 @@
+
+8-K
+1
+brpa_8k.htm
+CURRENT REPORT
+
+
+
+
+
+Blueprint
+
+
+
+
+
+ 
+
+
+
+
+
+
+UNITED STATES
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+
+
+ 
+
+
+FORM 8-K
+
+
+ 
+
+
+CURRENT REPORT
+
+
+ 
+
+
+Pursuant to Section 13 or Section 15(d) of the Securities Exchange
+Act of 1934
+
+
+ 
+
+
+Date of Report (Date of earliest event reported): February 11,
+2020
+
+ 
+
+
+ BIG ROCK PARTNERS ACQUISITION CORP.
+
+
+(Exact name of registrant as specified in its charter)
+
+
+ 
+
+
+
+
+
+
+Delaware
+
+
+ 
+
+
+
+001-38302
+
+
+ 
+
+
+
+
+82-2844431
+
+
+
+
+
+(State or other jurisdiction of incorporation or
+organization)
+
+
+ 
+
+
+
+
+(Commission File Number)
+
+
+ 
+
+
+
+
+(I.R.S. Employer Identification Number)
+
+
+
+
+
+ 
+
+
+
+
+
+2645 N. Federal
+Highway
+
+Suite
+230
+
+Delray Beach,
+Florida
+
+
+ 
+
+
+
+
+33483
+
+
+
+
+
+(Address of principal executive offices)
+
+
+ 
+
+
+
+
+(Zip Code)
+
+
+
+
+
+ 
+
+
+Registrant’s telephone number, including area
+code:   (310) 734-2300
+
+
+ 
+
+
+Not Applicable
+
+
+(Former name or former address, if changed since last
+report)
+
+
+ 
+
+
+Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation to the
+registrant under any of the following provisions:
+
+
+ 
+
+
+
+
+
+
+☐
+
+
+
+
+Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+
+
+
+ 
+
+
+
+
+
+
+☐
+
+
+
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)
+
+
+
+
+
+ 
+
+
+
+
+
+
+☐
+
+
+
+
+Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+
+
+ 
+
+
+
+
+
+
+☐
+
+
+
+
+Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+
+
+ 
+
+
+Securities registered pursuant to Section 12(b) of the
+Act:
+
+ 
+
+
+
+
+
+
+Title of each class
+
+
+ 
+
+
+
+
+Trading Symbol(s)
+
+
+ 
+
+
+
+
+Name of each exchange on which registered
+
+
+
+
+Units,
+each consisting of one share of Common Stock, one Right and
+one-half of one Warrant
+
+
+ 
+
+
+
+BRPAU
+
+
+ 
+
+
+
+The
+NASDAQ Stock Market LLC
+
+
+
+
+Common
+Stock, par value $0.001 per share
+
+
+ 
+
+
+
+BRPA
+
+
+ 
+
+
+
+The
+NASDAQ Stock Market LLC
+
+
+
+
+Rights,
+exchangeable into one-tenth of one share of Common
+Stock
+
+
+ 
+
+
+
+BRPAR
+
+
+ 
+
+
+
+The
+NASDAQ Stock Market LLC
+
+
+
+
+Warrants,
+each whole warrant exercisable for one share of Common Stock at an
+exercise price of $11.50
+
+
+ 
+
+
+
+BRPAW
+
+
+ 
+
+
+
+The
+NASDAQ Stock Market LLC
+
+
+
+   
+
+
+
+
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this
+chapter).
+ 
+
+
+Emerging growth company ☒
+ 
+
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐  
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Item
+3.01. 
+Notice
+of Delisting or Failure to Satisfy a Continued Listing Rule or
+Standard; Transfer of Listing.
+
+
+
+ 
+
+
+
+On
+February 11, 2020, Big Rock Partners Acquisition Corp. (the
+“Company”) received notice from the Listing
+Qualifications Staff (the “Staff”) of The Nasdaq Stock
+Market LLC (“Nasdaq”) indicating that, based upon the
+Company’s non-compliance with the minimum public shareholder
+requirement for continued listing on The Nasdaq Capital Market, as
+set forth in Nasdaq Listing Rule 5550(a)(3) (the
+“Rule”), the Staff had determined to delist the
+Company’s common stock from Nasdaq unless the Company timely
+requests a hearing before the Nasdaq Hearings Panel (the
+“Panel“). The Company was also notified that as a
+result of Nasdaq’s determination to delist the
+Company’s common stock, the Company’s warrants and
+rights no longer comply with Nasdaq Listing Rule 5560(a), which
+requires the underlying securities of such exercisable securities
+to remain listed on Nasdaq, and the Company’s units no longer
+comply with Nasdaq Listing Rule 5225(b)(1)(A), which requires all
+component parts of units to meet the requirements for initial and
+continued listing, and the Company’s units, warrants and
+rights are now subject to delisting. The Company plans to request a
+hearing, which request will automatically stay any further action
+by the Staff pending the ultimate conclusion of the hearing
+process.
+
+ 
+
+As
+previously disclosed, on August 9, 2019, the Company received
+notice from Nasdaq that it did not satisfy the Rule and was
+provided with the opportunity to submit a compliance plan for the
+Staff’s review. The Staff’s determination follows the
+Company’s subsequent submissions to the Staff.
+
+ 
+
+Although
+the Company is taking steps to evidence compliance with the Rule,
+there can be no assurance that the Panel will grant the
+Company’s request for continued listing, or that the Company
+will evidence compliance with the Rule within the period of time
+the Panel may grant the Company to do so.
+
+ 
+
+
+
+Forward-Looking Statements
+
+ 
+
+The
+Company makes forward-looking statements in this report within the
+meaning of the Private Securities Litigation Reform Act of 1995.
+These forward-looking statements relate to expectations or
+forecasts for future events. These forward-looking statements are
+based on information available to us as of the date of this report,
+and involve substantial risks and uncertainties. Actual results may
+vary materially from those expressed or implied by the
+forward-looking statements herein due to a variety of factors and
+other risks and uncertainties set forth in the Company’s
+reports filed with the Securities and Exchange Commission. The
+Company does not undertake any obligation to update forward-looking
+statements as a result of new information, future events, or
+developments or otherwise.
+
+ 
+
+
+
+ 
+2
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+SIGNATURE
+ 
+
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly
+authorized.
+ 
+
+Dated: February 14, 2020
+ 
+
+
+
+
+
+ 
+
+
+
+BIG ROCK PARTNERS ACQUISITION CORP.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+By:  
+
+
+
+/s/ Richard Ackerman
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+Name:
+
+Richard Ackerman
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Title:
+Chairman, President
+and 
+Chief Executive Officer
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+
+
+
+ 
+3
+
+
+
+
+
+
+

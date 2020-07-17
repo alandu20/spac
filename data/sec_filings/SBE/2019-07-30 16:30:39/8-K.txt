@@ -1,0 +1,483 @@
+
+8-K
+1
+f8k072519_switchbackenergy.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+ 
+
+
+
+ 
+
+ 
+
+PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): July 25, 2019
+
+ 
+
+Switchback
+Energy Acquisition Corporation
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39004
+     
+    84-1747686
+
+    (State
+or other jurisdiction 
+of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (I.R.S.
+    Employer 
+Identification No.)
+
+ 
+
+
+
+    5949
+    Sherry Lane, Suite 1010
+     
+     
+
+    Dallas,
+    TX
+     
+    75225
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    Code)
+
+ 
+
+(972)
+514-9535
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not
+Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written
+communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ☐
+    Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ☐
+    Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ☐
+    Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class 
+    Trading Symbol(s) 
+    Name of each exchange on  which registered
+
+    Units, each consisting of one share of Class A common stock and one-third of one warrant 
+    SBE.U 
+    The New York Stock Exchange
+
+    Class A common stock, par value $0.0001 per share 
+    SBE 
+    The New York Stock Exchange
+
+    Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share 
+    SBE WS 
+    The New York Stock Exchange
+
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item
+8.01 Other Events.
+
+ 
+
+On
+July 25, 2019, Switchback Energy Acquisition Corporation (the “Company”) entered into an underwriting
+agreement with Goldman Sachs & Co. LLC and Citigroup Global Markets Inc. in connection with its initial public offering (“IPO”)
+of up to 34,500,000 units (the “Units”), including up to 4,500,000 Units that may be issued if the underwriters’
+option to purchase additional Units is exercised in full. Each Unit has an offering price of $10.00 and consists of one share
+of Class A common stock of the Company, par value $0.0001 per share (the “Class A Common Stock”),
+and one-third of one redeemable warrant of the Company (each such whole warrant, a “Warrant”). Each Warrant
+entitles the holder thereof to purchase one share of Class A Common Stock at a price of $11.50 per share. The closing of
+the IPO occurred on July 30, 2019.
+
+ 
+
+
+
+On July 29, 2019, the Company completed the private sale of 5,333,333 warrants (the “Private Placement
+Warrants”) at a purchase price of $1.50 per Private Placement Warrant, to the Company’s sponsor, NGP
+Switchback, LLC (the “Sponsor”), generating gross proceeds to the Company of approximately $8,000,000. The
+Private Placement Warrants are identical to the warrants sold as part of the Units in the IPO, except that the Sponsor has
+agreed not to transfer, assign or sell any of the Private Placement Warrants (except to certain permitted transferees) until
+30 days after the completion of the Company’s initial business combination. The Private Placement Warrants will also
+not be redeemable by the Company for cash and will be exercisable on a cashless basis so long as they are held by the Sponsor
+or its permitted transferees.
+
+ 
+
+Of
+the net proceeds of the IPO and the sale of the Private Placement Warrants, $300,000,000, including $10,430,000 of deferred underwriting
+discounts and commissions, has been deposited into a U.S. based trust account at J.P. Morgan Chase Bank, N.A., with Continental
+Stock Transfer & Trust Company acting as trustee. Except with respect to interest earned on the funds held in the trust
+account that may be released to the Company to pay its franchise and income tax obligations, the proceeds from the IPO and the
+sale of the Private Placement Warrants will not be released from the trust account until the earliest to occur of (a) the completion
+of the Company’s initial business combination (including the release of funds to pay any amounts due to any public stockholders
+who properly exercise their redemption rights in connection therewith), (b) the redemption of any public shares properly submitted
+in connection with a stockholder vote to approve an amendment to the Company’s amended and restated certificate of incorporation
+that would affect the substance or timing of the Company’s obligation to redeem 100% of the Company’s public shares
+if the Company does not complete an initial business combination within 24 months from the closing of the IPO or (c) the redemption
+of the Company’s public shares if the Company is unable to complete its business combination within 24 months from the closing
+of the IPO, subject to applicable law.
+
+ 
+
+In
+connection with the IPO, the Company entered into the following agreements, forms of which were previously filed as exhibits to
+the Company’s registration statement on Form S-1 (File No. 333-232501):
+
+ 
+
+
+
+     
+    ●
+    A
+    Warrant Agreement, dated July 25, 2019, between the Company and Continental Stock Transfer & Trust Company,
+    as warrant agent.
+
+ 
+
+
+
+     
+    ●
+    A
+    Letter Agreement, dated July 25, 2019, among the Company, its officers and directors and the Sponsor.
+
+ 
+
+
+
+     
+    ●
+    An
+    Investment Management Trust Agreement, dated July 25, 2019, between the Company and Continental Stock Transfer &
+    Trust Company, as trustee.
+
+ 
+
+
+
+     
+    ●
+    A
+    Registration Rights Agreement, dated July 25, 2019, among the Company, the Sponsor and certain other security holders named
+    therein.
+
+ 
+
+
+
+     
+    ●
+    An
+    Administrative Services Agreement, dated July 25, 2019, between the Company and the Sponsor.
+
+ 
+
+
+
+     
+    ●
+    A
+    Private Placement Warrants Purchase Agreement, dated July 25, 2019, between the Company and the Sponsor.
+
+  
+
+An
+executed copy of the Company’s Amended and Restated Certificate of Incorporation is included as an exhibit to this Current
+Report on Form 8-K.
+
+ 
+
+On
+July 25, 2019, the Company issued a press release, a copy of which is attached as Exhibit 99.1 to this Current Report on
+Form 8-K, announcing the pricing of the IPO.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits. The following exhibits are filed with this Form 8-K:
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description of Exhibits
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation.
+
+     
+     
+     
+
+    4.4
+     
+    Warrant Agreement, dated July 25, 2019, between the Company and Continental Stock Transfer & Trust Company, as warrant agent.
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreement, dated July 25, 2019, among the Company, its officers and directors and the Sponsor.
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated July 25, 2019, between the Company and Continental Stock Transfer & Trust Company, as trustee.
+
+     
+     
+     
+
+    10.3
+     
+    Registration Rights Agreement, dated July 25, 2019, among the Company, the Sponsor and certain other security holders named therein.
+
+     
+     
+     
+
+    10.4
+     
+    Administrative Services Agreement, dated July 25, 2019, between the Company and the Sponsor.
+
+     
+     
+     
+
+    10.5
+     
+    Private Placement Warrants Purchase Agreement, dated July 25, 2019, between the Company and the Sponsor.
+
+     
+     
+     
+
+    99.1
+     
+    Press Release, dated July 25, 2019.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    Switchback
+    Energy Acquisition Corporation
+
+     
+     
+     
+
+    Date:
+    July 30, 2019
+    By:
+    /s/
+    Jim Mutrie
+
+     
+    Name:
+    Jim
+    Mutrie
+
+     
+    Title:
+    Chief
+    Commercial Officer, General Counsel
+and Secretary
+
+ 
+
+ 
+
+3
+
+
+
+ 
+
+ 
+
+
+
+

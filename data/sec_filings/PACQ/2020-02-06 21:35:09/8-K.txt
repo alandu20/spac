@@ -1,0 +1,597 @@
+
+8-K
+1
+pacq20200123_8k.htm
+FORM 8-K
+
+
+	pacq20200123_8k.htm
+
+	
+
+
+ 
+
+
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of report (Date of earliest event reported): February 6, 2020
+
+ 
+
+
+ 
+
+
+
+		
+			
+			Pure Acquisition Corp.
+			
+		
+		
+			
+			(Exact name of registrant as specified in its charter)
+			
+		
+
+
+
+ 
+
+
+ 
+
+
+
+		
+			
+			Delaware
+			
+			
+			001-38454
+			
+			
+			82-3424680
+			
+		
+		
+			
+			(State or other jurisdiction
+			of incorporation)
+			
+			
+			(Commission
+			File Number)
+			
+			
+			(I.R.S. Employer
+			Identification No.)
+			
+		
+		
+			 
+			 
+			 
+		
+		
+			
+			421 W. 3rd St., Suite 1000
+
+			Fort Worth, Texas 76102
+			
+		
+		
+			
+			(Address of principal executive offices)
+
+			(Zip code)
+			
+		
+		
+			 
+			 
+			 
+		
+		
+			
+			(817) 850-9200 
+			
+		
+		
+			
+			Registrant’s telephone number, including area code
+			
+		
+
+
+
+ 
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+		
+			
+			Title of each class
+			
+			 
+			
+			Trading Symbol(s)
+			
+			 
+			
+			Name of each exchange 
+
+			on which registered
+			
+		
+		
+			
+			Class A Common Stock, par value $0.0001 per share
+			
+			 
+			
+			PACQ
+			
+			 
+			
+			NASDAQ
+			
+		
+		
+			
+			Warrants, each Warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
+			
+			 
+			
+			PACQW
+			
+			 
+			
+			NASDAQ
+			
+		
+		
+			
+			Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
+			
+			 
+			
+			PACQU
+			
+			 
+			
+			NASDAQ
+			
+		
+
+
+
+ 
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+		
+			
+			☒
+			
+			
+			Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			☒
+			
+			
+			Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			☐
+			
+			
+			Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+			
+		
+
+
+
+ 
+
+
+
+		
+			
+			☐
+			
+			
+			Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+			
+		
+
+
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+		
+			
+			Item 1.01
+			
+			
+			Entry into a Material Definitive Agreement
+			
+		
+
+
+
+ 
+
+On February 6, 2020, Pure Acquisition Corp. (the “Company”) entered into amendments to the HPK Business Combination Agreement and the Grenadier Contribution Agreement, each as defined below, with the respective parties thereto.
+
+ 
+
+First Amendment to HPK Business Combination Agreement
+
+ 
+
+On February 6, 2020, the Company, HighPeak Energy, Inc. (“HighPeak Energy”), Pure Acquisition Merger Sub, Inc. (“MergerSub”), HighPeak Energy, LP (“HighPeak I”), HighPeak Energy II, LP (“HighPeak II”), HighPeak Energy III, LP (“HighPeak III”), HPK Energy, LLC (together with HighPeak I, HighPeak II and HighPeak III, the “HPK Contributors”) and HighPeak Energy Management, LLC (“HPK Representative”), entered into the First Amendment (the “BCA Amendment”) to the Business Combination Agreement, dated November 27, 2019, by and among the Company, HighPeak Energy, MergerSub, the HPK Contributors and, solely for limited purposes specified therein, HPK Representative (the “HPK Business Combination Agreement”). Pursuant to the BCA Amendment, the parties have extended the date by which the transactions contemplated by the HPK Business Combination Agreement must be consummated to May 21, 2020.
+
+ 
+
+In addition to certain updates to definitions, exhibits and schedules included in the BCA Amendment, the BCA Amendment also accounts for the Contingent Second Extension Loan (as defined below), which would be an extension of the loans made by HighPeak Pure Acquisition, LLC (“Sponsor”) to the Company in an amount equal to $0.033 for each share of the Company’s Class A Common Stock, par value $0.0001 per share (“Class A Common Stock”) that was not redeemed in connection with the stockholder vote to approve an amendment to the second amended and restated certificate of incorporation of the Company (the “Charter”) for each calendar month commencing on October 17, 2019 and on the 17th day of each subsequent calendar month that is needed for the Company to complete an initial business combination up until February 21, 2020 (the “First Extension Loan”), whereby the First Extension Loan would be extended contingent upon an affirmative second stockholder vote to amend the Charter to allow for the Company to complete an initial business combination by May 21, 2020 (the “Contingent Second Extension Loan”). Further, the BCA Amendment permits HighPeak Energy Partners I, LP, an affiliate of Sponsor (“HPEP I”), to assign its rights under the A&R Forward Purchase Agreement (as defined below) to third parties and provides for certain amendments to the form of A&R Forward Purchase Agreement allowing the same and making certain other changes as discussed further below. The BCA Amendment also provides consent to the Grenadier Amendment (as defined below).
+
+ 
+
+The foregoing description of the BCA Amendment does not purport to be complete and is qualified in its entirety by the terms and conditions of the BCA Amendment, a copy of which is filed as Exhibit 2.3 to this Current Report on Form 8-K (this “Current Report”) and is incorporated herein by reference.
+
+ 
+
+First Amendment to Grenadier Contribution Agreement
+
+ 
+
+On February 6, 2020, the Company, HighPeak Energy, HighPeak Energy Assets II, LLC (“HighPeak Assets II”), Grenadier Energy Partners II, LLC (“Grenadier”) and, solely for the purposes specified therein, the HPK Contributors and the HPK Representative entered into the First Amendment (the “Grenadier Amendment”) to the Contribution Agreement, dated November 27, 2019, by and among HighPeak Assets II, Grenadier, the Company and HighPeak Energy (the “Grenadier Contribution Agreement”). Pursuant to the Grenadier Amendment, the parties have extended the date by which the transactions contemplated by the Grenadier Contribution Agreement must be consummated to May 24, 2020, and extended the Target Closing Date (as defined in the Grenadier Amendment) to May 21, 2020 in order to coincide with the BCA Amendment.
+
+ 
+
+In addition to certain updates to definitions and representations included in the Grenadier Amendment, the Grenadier Amendment provides that HighPeak Assets II and each of the HPK Contributors shall jointly and severally pay to Grenadier an aggregate amount of $15 million (the “Second Extension Payment”) in four installments of varying amounts due by each of the date of execution of the Grenadier Amendment, February 21, 2020, March 20, 2020 and April 21, 2020. The Second Extension Payment will not be credited against the cash price to be paid to Grenadier upon the closing of the transactions contemplated by the Grenadier Contribution Agreement and the obligation to pay the Second Extension Payment will survive any termination of the Grenadier Contribution Agreement in advance of any such closing. In the event of a payment default in connection with the Second Extension Payment, the Grenadier Amendment permits Grenadier to terminate the Grenadier Contribution Agreement. Further, the Grenadier Amendment removes certain restrictions on the Company and HighPeak Energy in relation to the Original Forward Purchase Agreement (as defined below) and the A&R Forward Purchase Agreement. Additionally, the Grenadier Amendment (i) revises the definition of Available Liquidity (as defined therein) to conform to the method of calculation used in the HPK Business Combination Agreement, (ii) places a $400 million cap on each of (a) the amount of debt proceeds that may be used to fund the cash price to be paid to Grenadier at or in connection with the closing of the transactions contemplated therein as well as certain transaction expenses and (b) the amount of aggregate indebtedness of the Acquiring Parties (as defined in the Grenadier Contribution Agreement) immediately after such closing, (iii) requires more than $150 million of available proceeds to be obtained from the issuance of common stock of the Company or HighPeak Energy to unaffiliated third parties which proceeds may include, among other things, available funds in the Trust Account (not including interest accrued thereon), net of any redemptions and (iv) provides consent to the BCA Amendment.
+
+ 
+
+The foregoing description of the Grenadier Amendment does not purport to be complete and is qualified in its entirety by the terms and conditions of the Grenadier Amendment, a copy of which is filed as Exhibit 2.4 to this Current Report and is incorporated herein by reference.
+
+ 
+
+
+2
+
+
+ 
+
+
+ 
+
+Other Related Agreements
+
+ 
+
+Amended and Restated Forward Purchase Agreement
+
+ 
+
+On April 12, 2018, the Company entered into that certain Forward Purchase Agreement (the “Original Forward Purchase Agreement”) with HPEP I, an affiliate of Sponsor, pursuant to which HPEP I agreed to purchase up to 15,000,000 shares of Class A Common Stock of the Company and 7,500,000 warrants for $10.00 per unit, for an aggregate purchase price of $150,000,000 in a private placement that would close immediately prior to the closing of the Company’s initial business combination. In connection with its entry into the HPK Business Combination Agreement, the Company also agreed to a form of Amended and Restated Forward Purchase Agreement (the “A&R Forward Purchase Agreement”) to be entered into prior to or in connection with the closing of the transactions contemplated by the HPK Business Combination Agreement, pursuant to which, among other things, HPEP I would assign its rights and obligations under the Original Forward Purchase Agreement to HighPeak Energy Partners II, LP, an affiliate of Sponsor, and HighPeak Energy Partners III, LP, an affiliate of Sponsor, the Company would assign its rights and obligations under the Original Forward Purchase Agreement to HighPeak Energy and the maximum number of warrants to be purchased thereunder would be reduced to 5,000,000.
+
+ 
+
+On February 6, 2020, as part of the BCA Amendment, the parties to the BCA Amendment revised the form of A&R Forward Purchase Agreement to be entered into to, among other things, (i) extend the date by which the business combination must be completed from February 21, 2020 to May 21, 2020, (ii) reflect that the A&R Forward Purchase Agreement may be assigned by HPEP I to third parties, in addition to its affiliates, (iii) permit any affiliates of Sponsor who become purchasers under the A&R Forward Purchase Agreement to subsequently terminate the A&R Forward Purchase Agreement upon written notice to HighPeak Energy, (iv) provide for the purchasers under the A&R Forward Purchase Agreement to elect to purchase Forward Purchase Units (as defined in the form of A&R Forward Purchase Agreement) thereunder, provided that the number of Forward Purchase Units to be issued and sold thereunder does not exceed the maximum amounts specified therein, which such number of warrants to be issued and sold thereunder were reduced from up to 7,500,000 warrants to up to 5,000,000 warrants, (v) permit the purchasers thereunder that are affiliates of Sponsor to take certain actions without the consent of any unrelated third party purchasers and (vi) expressly state that the purchasers under the A&R Forward Purchase Agreement will have several and not joint liability.
+
+ 
+
+
+
+		
+			
+			Item 9.01
+			
+			
+			Financial Statements and Exhibits
+			
+		
+
+
+
+ 
+
+(d)     Exhibits. The following exhibits are filed with this Form 8-K:
+
+ 
+
+
+
+		
+			
+			Exhibit No.
+			
+			 
+			
+			Description of Exhibits
+			
+		
+		
+			
+			2.1*
+			
+			 
+			
+			Business Combination Agreement, dated November 27, 2019, by and among Pure Acquisition Corp., HighPeak Energy, Inc., Pure Acquisition Merger Sub, Inc., HighPeak Energy, LP, HighPeak Energy II, LP, HighPeak Energy III, LP, HPK Energy, LLC and, solely for limited purposes specified therein, HighPeak Energy Management, LLC (incorporated by reference to Exhibit 2.1 to Current Report on Form 8-K (Commission File No. 001-38454) filed on November 27, 2019).
+			
+		
+		
+			
+			2.2*
+			
+			 
+			
+			Contribution Agreement, dated November 27, 2019, by and among HighPeak Energy Assets II, LLC, Grenadier Energy Partners II, LLC, Pure Acquisition Corp. and HighPeak Energy, Inc. (incorporated by reference to Exhibit 2.2 to Current Report on Form 8-K (Commission File No. 001-38454) filed on November 27, 2019).
+			
+		
+		
+			
+			2.3*
+			
+			 
+			
+			First Amendment to Business Combination Agreement, dated February 6, 2020, by and among Pure Acquisition Corp., HighPeak Energy, Inc., Pure Acquisition Merger Sub, Inc., HighPeak Energy, LP, HighPeak Energy II, LP, HighPeak Energy III, LP, HPK Energy, LLC and HighPeak Energy Management, LLC.
+			
+		
+		
+			
+			2.4*
+			
+			 
+			
+			First Amendment to Contribution Agreement, dated February 6, 2020, by and among HighPeak Energy Assets II, LLC, Grenadier Energy Partners II, LLC, Pure Acquisition Corp., HighPeak Energy, Inc. and, solely for the purposes specified therein, HighPeak Energy, LP, HighPeak Energy II, LP, HighPeak Energy III, LP, HPK Energy, LLC and HighPeak Energy Management, LLC.
+			
+		
+
+
+
+
+
+		
+			
+			*
+			
+			
+			Certain schedules and exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule or exhibit will be furnished supplementally to the SEC upon request.
+			
+		
+
+
+
+ 
+
+
+3
+
+
+ 
+
+
+ 
+
+Legend Information
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+The information included herein and in any oral statements made in connection herewith include “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended. All statements, other than statements of present or historical fact included in this Current Report, regarding the Company’s proposed business combination pursuant to the HPK Business Combination Agreement and Grenadier Contribution Agreement (the “business combination”) are forward looking statements. When used in this Current Report herein, including any oral statements made in connection herewith, the words “could,” “should,” “will,” “may,” “believe,” “anticipate,” “intend,” “estimate,” “expect,” “project,” the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These forward-looking statements are based on management’s current expectations and assumptions about future events and are based on currently available information as to the outcome and timing of future events. Except as otherwise required by applicable law, the Company and HighPeak Energy disclaim any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this Current Report. The Company and HighPeak Energy caution you that these forward-looking statements are subject to all of the risks and uncertainties, most of which are difficult to predict and many of which are beyond the control of the Company and HighPeak Energy, incident to the development, production, gathering and sale of oil, natural gas and natural gas liquids. These risks include, but are not limited to, commodity price volatility, low prices for oil and/or natural gas, global economic conditions, inflation, increased operating costs, lack of availability of drilling and production equipment, supplies, services and qualified personnel, certificates related to new technologies, geographical concentration of operations, environmental risks, weather risks, security risks, drilling and other operating risks, regulatory changes, the uncertainty inherent in estimating oil and natural gas reserves and in projecting future rates of production, reductions in cash flow, lack of access to capital, HighPeak Energy’s ability to satisfy future cash obligations, restrictions in existing or future debt agreements, the timing of development expenditures, managing growth and integration of acquisitions, failure to realize expected value creation from property acquisitions, title defects and limited control over non-operated properties. Should one or more of the risks or uncertainties described in this Current Report and in any oral statements made in connection therewith occur, or should underlying assumptions prove incorrect, actual results and plans could differ materially from those expressed in any forward-looking statements. Additional information concerning these and other factors that may impact the Company’s and HighPeak Energy’s expectations and projections can be found in the Company’s periodic filings with the SEC, including the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018, as well as HighPeak Energy’s Registration Statement on Form S-4, filed with the SEC on December 2, 2019, as amended on January 10, 2020. HighPeak Energy’s and the Company’s SEC Filings are available publicly on the SEC’s website at www.sec.gov.
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report is for informational purposes only and shall not constitute an offer to sell or the solicitation of an offer to buy any securities pursuant to the proposed transaction or otherwise, nor shall there be any sale of securities in any jurisdiction in which the offer, solicitation or sale would be unlawful prior to the registration or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act.
+
+ 
+
+
+4
+
+
+ 
+
+
+ 
+
+Important Information For Investors and Stockholders
+
+ 
+
+In connection with the proposed business combination, HighPeak Energy has filed with the SEC a registration statement on Form S-4, which includes a prospectus of HighPeak Energy and a proxy statement of the Company. The Company and HighPeak Energy have also filed other documents with the SEC regarding the proposed transaction. After the registration statement has been declared effective by the SEC, a definitive proxy statement/prospectus will be mailed to the shareholders of the Company. INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ THE PROXY STATEMENT/PROSPECTUS (INCLUDING ALL AMENDMENTS AND SUPPLEMENTS THERETO) AND OTHER DOCUMENTS RELATING TO THE PROPOSED BUSINESS COMBINATION THAT WILL BE FILED WITH THE SEC CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED BUSINESS COMBINATION. Investors and shareholders will be able to obtain free copies of the proxy statement/prospectus and other documents containing important information about the Company and HighPeak Energy once such documents are filed with the SEC, through the website maintained by the SEC at www.sec.gov. In addition, stockholders will be able to obtain free copies of the proxy statement/prospectus by directing a request to: Pure Acquisition Corp., 421 W. 3rd St., Suite 1000, Fort Worth, Texas 76102, email: IR@highpeakenergy.com, Attn: Investor Relations.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+The Company, HighPeak Energy, Grenadier and their respective directors and executive officers may be deemed to be participants in the solicitation of proxies from the Company’s shareholders in connection with the proposed transactions. Information about the directors and executive officers of the Company is set forth in the Company’s Annual Report on Form 10-K which was filed with the SEC on February 8, 2019. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, is set forth in the proxy statement/prospectus relating to the business combination.
+
+ 
+
+Additional Information About the Business Combination and Where to Find It
+
+ 
+
+In connection with the proposed business combination, HighPeak Energy has filed a registration statement on Form S-4 and the related proxy statement/prospectus with the SEC. Additionally, the Company and HighPeak Energy have filed other relevant materials with the SEC in connection with the proposed business combination. The materials filed by the Company and HighPeak Energy with the SEC may be obtained free of charge at the SEC’s web site at www.sec.gov. Investors and security holders of the Company are urged to read the proxy statement/prospectus and the other relevant materials when they become available before making any voting or investment decision with respect to the proposed business combination because they will contain important information about the business combination and the parties to the business combination.
+
+ 
+
+The Company, HighPeak Energy, Grenadier and their respective directors and executive officers may be deemed to be participants in the solicitation of proxies of the Company’s shareholders in connection with the proposed business combination. Investors and security holders may obtain more detailed information regarding the names, affiliations and interests of certain of the Company’s executive officers and directors in the solicitation by reading the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018, and the proxy statement/prospectus and other relevant materials filed with the SEC in connection with the business combination when they become available. Information concerning the interests of the Company’s and HighPeak Energy’s participants in the solicitation, which may, in some cases, be different than those of their stockholders generally, is set forth in the proxy statement/prospectus relating to the business combination.
+
+ 
+
+
+5
+
+
+ 
+
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+		
+			
+			 
+			
+			
+			Pure Acquisition Corp.
+			
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+			
+			 
+			
+		
+		
+			
+			Date: February 6, 2020 
+			
+			
+			By:
+			
+			
+			/s/ Steven W. Tholen
+			
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			Name:
+			
+			
+			Steven W. Tholen
+			
+			
+			 
+			
+		
+		
+			
+			 
+			
+			
+			Title:  
+			
+			
+			Chief Financial Officer
+			
+			
+			 
+			
+		
+
+
+
+ 
+
+6
+
+
+
+

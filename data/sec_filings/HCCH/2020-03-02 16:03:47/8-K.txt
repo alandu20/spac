@@ -1,0 +1,356 @@
+
+8-K
+1
+ea119181-8k_hlacquisitions.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+______________
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): February
+27, 2020
+
+ 
+
+HL
+ACQUISITIONS CORP. 
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    British Virgin Islands
+     
+    001-38563
+     
+    N/A
+
+    
+        (State or Other Jurisdiction
+        of Incorporation)
+     
+    
+        (Commission
+        File Number)
+     
+    
+        (IRS Employer
+        Identification No.)
+
+ 
+
+
+
+    
+        499 Park Avenue, 12th Floor
+        New York, NY
+     
+    
+         
+        10022
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including area code:	(212)
+486-8100
+
+ 
+
+Not Applicable
+
+	(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the Securities Act
+(17 CFR 230.425)
+
+ 
+
+
+☒Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on
+which registered
+
+    Units, each consisting of one ordinary share, one right, and one redeemable warrant
+     
+    HCCHU
+     
+    The Nasdaq Stock Market LLC
+
+    Ordinary Shares, no par value
+     
+    HCCH
+     
+    The Nasdaq Stock Market LLC
+
+    Rights, each to receive one-tenth (1/10) of one ordinary share
+     
+    HCCHR
+     
+    The Nasdaq Stock Market LLC
+
+    Redeemable warrants, each exercisable for one ordinary share at an exercise price of $11.50 per share
+     
+    HCCHW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 2.03Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The information included in Item 3.02 is incorporated
+by reference in this item to the extent required herein.
+
+ 
+
+
+Item 3.02Unregistered Sales of Equity Securities.
+
+ 
+
+On February 27, 2020, Jeffrey Schwarz, the Chief
+Executive Officer of HL Acquisitions Corp. (the “Company”), loaned the Company an aggregate of $175,000 for working
+capital purposes. The loans were evidenced by promissory notes in an aggregate principal amount of $175,000 (the “Notes”).
+The Notes are non-interest bearing and payable upon the consummation by the Company of a merger, share exchange, asset acquisition,
+or other similar business combination, with one or more businesses or entities (a “Business Combination”). Upon consummation
+of a Business Combination, approximately $22,000 of the principal balance of the Notes may be converted, at the holder’s
+option, into warrants of the Company at a price of $1.00 per warrant, with the balance of the Notes being payable in cash. The
+terms of the warrants will be identical to the warrants issued by the Company in its initial public offering, except the warrants
+will be non-redeemable and may be exercised on a cashless basis, in each case so long as they continue to be held by the initial
+holder or its permitted transferees. If a Business Combination is not consummated, the Notes will not be repaid by the Company
+and all amounts owed thereunder by the Company will be forgiven except to the extent that the Company has funds available to it
+outside of its trust account established in connection with the initial public offering (the “Trust Account”). The
+issuance of the Notes was exempt pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+
+Item 5.03Amendments to Articles of Incorporation or Bylaws 
+
+ 
+
+The information included in Item 5.07 is incorporated
+by reference in this item to the extent required herein.
+
+ 
+
+
+Item 5.07.Submission of Matters to a Vote of Security Holders.
+
+On March 2, 2020, the Company
+held an extraordinary general meeting of its shareholders (the “Meeting”). At the Meeting, the Company’s shareholders
+considered the following proposals:
+
+1.               
+A proposal to approve an extension to the date by which the Company has to consummate a business combination from March
+2, 2020 to July 2, 2020. The following is a tabulation of the votes with respect to this proposal, which was approved by the Company’s
+shareholders:
+
+
+
+    For
+     
+    Against
+     
+    Abstain
+     
+    Broker Non-Votes
+
+    5,645,041
+     
+    16,300
+     
+    0
+     
+    0
+
+ 
+
+In connection with this vote, the holders of 126,000 ordinary shares
+of the Company exercised their right to convert their shares into cash at a conversion price of approximately $10.42 per share,
+for an aggregate conversion amount of approximately $1.3 million.
+
+ 
+
+Following the meeting, the Company deposited
+$0.03 for each public share that was not converted in connection with the Extension, or an aggregate of approximately $152,940,
+into the Trust Account for the first 30-day extension period. The Company now has until July 2, 2020 to consummate an initial business
+combination, or determine to deposit additional funds into the Trust Account for three additional 30-day extension periods.
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to
+the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+
+    Dated: March 2, 2020
+     
+    HL ACQUISITIONS CORP. 
+     
+
+     
+     
+     
+     
+
+     
+    By: 
+    /s/ Jeffrey E. Schwarz
+     
+
+     
+     
+    Jeffrey E. Schwarz
+     
+
+     
+     
+    Chief Executive Officer
+     
+
+ 
+
+ 
+
+
+
+
+     
+    
+
+
+
+
+
+

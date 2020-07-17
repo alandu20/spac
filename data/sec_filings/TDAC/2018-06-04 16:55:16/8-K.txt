@@ -1,0 +1,351 @@
+
+8-K
+1
+s110634_8k.htm
+8-K
+
+
+
+     
+
+
+
+ 
+
+United States
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+Form 8-K
+
+ 
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+May 29, 2018
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+Trident Acquisitions Corp.
+
+(Exact Name of Registrant as Specified in
+its Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38508
+     
+    81-1996183
+
+    (State or other jurisdiction of
+incorporation)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer Identification
+No.)
+
+ 
+
+
+
+    
+        77 Water St, Fl 8
+        New York, NY
+     
+    10005
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant's telephone number, including
+area code: 646-229-7549
+
+ 
+
+N/A
+
+
+
+     
+     
+     
+
+    
+        (Former name or former address,
+if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communications pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On May 29, 2018, the registration statement
+(File No. 333-223655) (the “Registration Statement”) relating to the initial public offering (“IPO”) of
+Trident Acquisitions Corp. (the “Company”) was declared effective by the Securities and Exchange Commission. In connection
+therewith, the Company entered into the following agreements previously filed as exhibits to the Registration Statement:
+
+ 
+
+
+·An Underwriting Agreement, dated May 29, 2018, by and between the Company and Chardan Capital
+Markets LLC (“Chardan”), as representative of the underwriters;
+
+
+·A Warrant Agreement, dated May 29, 2018, by and between the Company and Continental Stock Transfer & Trust Company;
+
+
+·Letter Agreements, dated May 29, 2018, by and between the Company and each of the initial
+shareholders, officers and directors of the Company;
+
+
+·An Investment Management Trust Agreement, May 29, 2018, by and between the Company and Continental
+Stock Transfer & Trust Company;
+
+
+·A Stock Escrow Agreement, dated as of May 29, 2018, by and among the Company, Continental Stock
+Transfer & Trust Company and each of the initial shareholders of the Company; and
+
+
+·A Registration Rights Agreement, dated May 29, 2018, by and among the Company and the initial
+shareholders of the Company.
+
+ 
+
+On June 1, 2018, the Company consummated the IPO of 17,500,000
+units (the “Units”). Each Unit consists of one share of common stock (“Common Stock”) and one warrant (“Warrant”)
+entitling its holder to purchase one share of common stock at a price of $11.50 per share. The Units were sold at an offering price
+of $10.00 per Unit, generating gross proceeds of $175,000,000. The Company granted the underwriters a 45-day option to purchase
+up to 2,625,000 additional Units to cover over-allotments, if any. On June 4, 2018, the underwriters exercised the option in full.
+The closing of the issuance and sale of the additional Units is expected to occur on June 5, 2018. In addition, the Company sold
+to Chardan, for $100, an option to purchase up to 1,750,000 units exercisable at $12.00 per unit, commencing on the later of the
+consummation of a business combination and six months from the effective date of the Registration Statement.
+
+ 
+
+As of June 1, 2018, a total of $178,500,000 of the net proceeds
+from the IPO and the Private Placement (as defined below) were deposited in a trust account established for the benefit of the
+Company’s public shareholders. An audited balance sheet as of June 1, 2018 reflecting receipt of the proceeds upon consummation
+of the IPO and the Private Placement will be filed within 4 days of the Closing.
+
+ 
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneously with the closing of the
+IPO, the Company consummated the private placement (“Private Placement”) with certain of its initial stockholders of
+1,150,000 units (the “Private Units”) at a price of $10.00 per Private Unit, generating total proceeds of $11,500,000.
+
+ 
+
+The Private Units are identical to the
+Units (as defined below) sold in the IPO except that the warrants included in the Price Units will be non-redeemable and may be
+exercised on a cashless basis, in each case so long as they continue to be held by the initial purchasers or their permitted transferees.
+Additionally, because the Private Units were issued in a private transaction, the initial purchasers and their permitted transferees
+will be allowed to exercise the warrants included in the Private Units for cash even if a registration statement covering the shares
+of common stock issuable upon exercise of such warrants is not effective and receive unregistered shares of common stock. Additionally,
+such initial purchasers agreed not to transfer, assign or sell any of the Private Units or underlying securities (except in limited
+circumstances, as described in the Registration Statement) until the completion of the Company’s initial business combination.
+Such Initial Purchasers were granted certain demand and piggyback registration rights in connection with the Private Units.
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+The Private Units were issued pursuant
+to Section 4(a)(2) of the Securities Act of 1933, as amended, as the transactions did not involve a public offering.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+    1.1
+     
+    Underwriting Agreement, dated May 29, 2018, by and between the Registrant and Chardan Capital Markets, LLC 
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated May 29, 2018, by and between Continental Stock Transfer & Trust Company and the Registrant
+
+     
+     
+     
+
+    4.2
+     
+    Unit Purchase Option between the Registrant and Chardan Capital Markets, LLC dated May 29, 2018
+
+     
+     
+     
+
+    10.1
+     
+    Form of Letter Agreements by and between the Registrant and each of the initial stockholders, officers and directors of the Registrant (incorporated by reference to Exhibit 10.2 to Amendment No. 2 to the Registration Statement on Form S-1/A filed with the SEC on May 21, 2018)
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated May 29, 2018, by and between Continental Stock Transfer & Trust Company and the Registrant
+
+     
+     
+     
+
+    10.3
+     
+    Stock Escrow Agreement, dated May 29, 2018, among the Registrant, Continental Stock Transfer & Trust Company and the initial stockholders
+
+     
+     
+     
+
+    10.4
+     
+    Registration Rights Agreement, dated May 29, 2018, among the Registrant, Continental Stock Transfer & Trust Company and the initial stockholders
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: June 4, 2018
+
+ 
+
+TRIDENT ACQUISITIONS CORP.
+
+ 
+
+
+
+    By:
+    /s/ Vadim Komissarov 
+     
+
+    Name:
+    Vadim Komissarov 
+     
+
+    Title:
+    President
+     
+
+ 
+
+
+
+     
+    
+
+
+
+
+
+

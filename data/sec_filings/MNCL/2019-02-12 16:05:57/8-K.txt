@@ -1,0 +1,489 @@
+
+8-K
+1
+tv513034_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): February 6, 2019
+
+ 
+
+Monocle
+Acquisition Corporation
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    Delaware
+(State or other jurisdiction
+of incorporation)
+    001-38801
+(Commission File Number)
+    83-1751907
+(I.R.S. Employer
+Identification No.)
+
+     
+     
+     
+
+    
+        750 Lexington Avenue, Suite 1501
+        New York, NY
+        (Address of principal executive
+offices)
+    
+        10022
+        (Zip Code)
+
+     
+     
+
+     
+    
+        (212) 446-6981
+        (Registrant’s telephone number, including area code)
+         
+        Not Applicable
+        (Former name or former address, if changed since last report)
+     
+
+     
+     
+     
+     
+     
+     
+
+ 
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+ 
+
+
+¨Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+       
+     
+    
+
+ 
+
+Item 3.02.  Unregistered Sales of Equity Securities.
+
+ 
+
+On February 11, 2019,
+simultaneously with the consummation of the initial public offering (the “IPO”) of units (“Units”) of Monocle
+Acquisition Corporation (the “Company”), the Company consummated the private placement (the “Private Placement”)
+of an aggregate of 717,500 units (the “Private Units”) at a price of $10.00 per Private Unit, generating total gross
+proceeds of $7,175,000, to Monocle Partners, LLC (the “Sponsor”) and Cowen Investments II LLC (“Cowen Investments”).
+No underwriting discounts or commissions were paid with respect to the Private Placement. The Private Placement was conducted as
+a non-public transaction and, as a transaction by an issuer not involving a public offering, is exempt from registration under
+the Securities Act in reliance upon Section 4(a)(2) of the Securities Act of 1933 (as amended, the “Securities Act”).
+In the Private Placement, the Sponsor purchased 591,334 Private Units and Cowen Investments purchased 126,166 Private Units. The
+Private Units are identical to the Units, except that if held by the original holder or their permitted assigns, the underlying
+warrants (i) may be exercised on a cashless basis, (ii) are not subject to redemption and (iii) with respect to private warrants
+held by Cowen Investments, will not be exercisable more than five years after the Effective Date of the Registration Statement
+(as such terms are defined in Item 8.01 below). If the Private Units are held by holders other than the initial purchasers or their
+permitted transferees, then the warrants included in the Private Units will be redeemable by the Company and exercisable by the
+holders on the same basis as the warrants included in the Units sold in the IPO. In addition, the Private Units (and the securities
+underlying the Private Units) will, subject to certain limited exceptions, be subject to transfer restrictions until after the
+completion of the Company’s initial business combination.
+
+ 
+
+Item 5.02. Departure of Directors or Certain Officers;
+Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+
+ 
+
+Effective as of February
+6, 2019, the following individuals were appointed to the board of directors of the Company: Sai S. Devabhaktuni, C. Robert Kehler,
+Donald W. Manvel and John C. Pescatore. Additional information regarding, among other things, each individual’s background,
+board committee membership and compensatory arrangements is contained in the Registration Statement and is incorporated by reference
+herein.
+
+ 
+
+Item 5.03. Amendments to Certificate of Incorporation or
+Bylaws; Change in Fiscal Year.
+
+ 
+
+On February 6, 2019,
+the Company filed its amended and restated certificate of incorporation (the “Certificate of Incorporation”) with the
+Secretary of State of the State of Delaware, which was effective the same day. Among other things, the Certificate of Incorporation
+authorizes the issuance of up to 200,000,000 shares of common stock, par value $0.0001 per share (“Common Stock”),
+and up to 5,000,000 shares of preferred stock, par value $0.0001 per share. The terms of the Certificate of Incorporation are set
+forth in the Registration Statement and are incorporated herein by reference. The foregoing description of the Certificate of Incorporation
+is qualified in its entirety by reference to the full text of the Certificate of Incorporation, which is attached as Exhibit 3.1
+hereto and is incorporated by reference herein.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+On February 11, 2019, the Company completed
+its IPO of 17,250,000 Units, including the issuance of 2,250,000 Units as a result of the underwriters’ full exercise of
+their over-allotment option. Each Unit consists of one share of Common Stock and one redeemable warrant (“Warrant”).
+Each Warrant entitles the holder thereof to purchase one share of Common Stock at an exercise price of $11.50 per share. The Company
+completed its IPO pursuant to the Company’s registration statement on Form S-1, as amended (File No. 333-228470) (the
+“Registration Statement”). The Registration Statement was declared effective by the U.S. Securities and Exchange Commission
+on February 6, 2019 (the “Effective Date”).	
+
+ 
+
+In connection with the effectiveness of
+the Registration Statement and the closing of the IPO, the Company entered into the following agreements:
+
+ 
+
+
+·An Underwriting Agreement, dated February 6, 2019, between the Company and Cowen and Company, LLC (“Cowen”), as
+representative of the several underwriters;
+
+ 
+
+
+
+
+     2 
+     
+    
+
+ 
+
+
+·A Business Combination Marketing Agreement, dated February 6, 2019, among the Company, Cowen and Chardan Capital Markets, LLC;
+
+ 
+
+
+·A Warrant Agreement, dated February 6, 2019, between the Company and Continental Stock Transfer & Trust Company (“Continental”);
+
+ 
+
+
+·A Letter Agreement, dated February 6, 2019, among the Company, the Sponsor, Cowen Investments and each of the officers and
+directors of the Company;
+
+ 
+
+
+·An Investment Management Trust Agreement, dated February 6, 2019, between the Company and Continental;
+
+ 
+
+
+·A Unit Purchase Agreement, dated February 6, 2019, between the Company and the Sponsor;
+
+ 
+
+
+·A Unit Purchase Agreement, dated February 6, 2019, between the Company and Cowen Investments;
+
+ 
+
+
+·A Registration Rights Agreement, dated February 6, 2019, among the Company, the Sponsor, Cowen Investments and the initial
+stockholders party thereto; and
+
+ 
+
+
+·An Administrative Services Agreement, dated February 6, 2019, between the Company and Monocle Management LLC.
+
+ 
+
+A total of $174,225,000
+of the net proceeds from the IPO and the Private Placement were placed in a trust account established for the benefit of the Company’s
+public stockholders (the “Trust Account”), with Continental acting as trustee. Except for the withdrawal of interest
+to pay taxes, none of the funds held in the Trust Account will be released from the Trust Account until the earlier of (i) the
+completion of the Company’s initial business combination, (ii) the redemption of the Company’s public shares in connection
+with a stockholder vote to amend any provisions of the Certificate of Incorporation (A) to modify the substance or timing of the
+Company’s obligation to redeem 100% of the Company’s public shares if the Company is unable to complete an initial
+business combination within the required time period or (B) with respect to any other provision relating to stockholders’
+rights or pre-initial business combination activity and (iii) the redemption of 100% of the Company’s public shares if the
+Company is unable to complete an initial business combination within the required time period.
+
+ 
+
+In connection with
+the IPO, the Company issued press releases announcing the pricing and closing of the IPO, copies of which are attached hereto as
+Exhibits 99.1 and 99.2, respectively, and are incorporated by reference herein.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)       Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement, dated February 6, 2019, between the Company and Cowen and Company, LLC
+
+     
+     
+     
+
+    1.2
+     
+    Business Combination Marketing Agreement, dated February 6, 2019, among the Company, Cowen and Company, LLC and Chardan Capital Markets, LLC
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation of the Company
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated February 6, 2019, between the Company and Continental Stock Transfer & Trust Company
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreement, dated February 6, 2019, among the Company, Monocle Partners, LLC, Cowen Investments II LLC and each of the officers and directors of the Company
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated February 6, 2019, between the Company and Continental Stock Transfer & Trust Company
+
+     
+     
+     
+
+    10.3
+     
+    Unit Purchase Agreement, dated February 6, 2019, between the Company and Monocle Partners, LLC
+
+     
+     
+     
+
+    10.4
+     
+    Unit Purchase Agreement, dated February 6, 2019, between the Company and Cowen Investments II LLC
+
+     
+     
+     
+
+    10.5
+     
+    Registration Rights Agreement, dated February 6, 2019, among the Company, Monocle Partners, LLC, Cowen Investments II LLC and the initial stockholders
+
+     
+     
+     
+
+    10.6
+     
+    Administrative Services Agreement, dated February 6, 2019, between the Company and Monocle Management LLC
+
+     
+     
+     
+
+    99.1
+     
+    Press release, dated February 6, 2019
+
+     
+     
+     
+
+    99.2
+     
+    Press release, dated February 11, 2019
+
+
+ 
+
+
+     3 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    MONOCLE
+        ACQUISITION CORPORATION
+
+     
+     
+
+     
+     
+
+     
+    By: 
+    /s/ Eric J. Zahler
+
+     
+    Name:  
+    Eric J. Zahler
+
+     
+    Title:
+    President and Chief Executive Officer
+
+     
+     
+
+     
+     
+
+ 
+
+Date:	February 12, 2019
+
+ 
+
+
+
+
+     4 
+    
+
+ 
+
+
+
+

@@ -1,0 +1,463 @@
+
+8-K
+1
+tm2012345-1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+ 
+
+United States
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+Form 8-K
+
+ 
+
+Current Report
+
+Pursuant to Section 13
+or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+March 5,
+2020
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+LifeSci
+Acquisition Corp.
+
+(Exact Name of Registrant as Specified in
+its Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39244
+     
+    83-3197402
+
+    (State or other jurisdiction of
+ incorporation) 
+     
+    (Commission File Number) 
+     
+    (I.R.S. Employer Identification No.) 
+
+ 
+
+
+
+    
+        250 W. 55th St., #3401
+        New York, NY
+     
+    10019
+
+    (Address of Principal Executive Offices) 
+     
+    (Zip Code) 
+
+ 
+
+Registrant’s telephone number, including
+area code: (646) 889-1200
+
+ 
+
+N/A
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On March 5, 2020, the registration
+statement (File Nos. 333-236466 and 333-236929) (the “Registration Statement”) relating to the initial public offering
+(“IPO”) of LifeSci Acquisition Corp.(the “Company”) was declared effective by the Securities and Exchange
+Commission. In connection therewith, the Company entered into the following agreements previously filed as exhibits to the Registration
+Statement:
+
+ 
+
+
+
+     
+    ●
+    An Underwriting Agreement, dated March 5, 2020, by and between the Company and Chardan Capital Markets, LLC (“Chardan”), as representative of the underwriters;
+
+ 
+
+
+
+     
+    ●
+    A Warrant Agreement, dated March 5, 2020, by and between the Company and Continental Stock Transfer & Trust Company;
+
+ 
+
+
+
+     
+    ●
+    Letter Agreements, dated March 5, 2020, by and between the Company’s officers, directors and shareholders;
+
+ 
+
+
+
+     
+    ●
+    An Investment Management Trust Agreement, dated March 5, 2020, by and between Continental Stock Transfer & Trust Company and the Company;
+
+     
+     
+     
+
+     
+    ●
+    
+        An Administrative Services Agreement, dated March 5,
+2020, by and between the Company and LifeSci Capital LLC;
+
+     
+     
+     
+
+     
+    ●
+    A Subscription Agreement, dated March 5, 2020, by and between the Company and LifeSci Holdings LLC;
+
+     
+     
+     
+
+     
+    ●
+    A Subscription Agreement, dated March 5, 2020, by and between the Company and Rosedale Park, LLC;
+
+ 
+
+
+
+     
+    ●
+    A Stock Escrow Agreement, dated March 5, 2020, by and among the Company, Continental Stock Transfer & Trust Company and each of the initial shareholders of the Company; and
+
+ 
+
+
+
+     
+    ●
+    A Registration and Stockholder Rights Agreement, dated March 5, 2020, by and among the Company, LifeSci Holdings LLC, Rosedale Park, LLC and the initial shareholders of the Company.
+
+ 
+
+On March 10, 2020, the Company consummated the IPO of 6,000,000
+units (the “Units”). Each Unit consists of one share of common stock, $0.0001 par value (“Common Stock”),
+and one warrant (“Warrant”) entitling its holder to purchase one-half of one share of Common Stock at a price of $11.50
+per whole share. The Units were sold at an offering price of $10.00 per Unit, generating gross proceeds of $60,000,000. The Company
+granted the underwriters a 45-day option to purchase up to 900,000 additional Units to cover over-allotments, if any.
+
+ 
+
+As of March 10, 2020, a total of $60,000,000
+of the net proceeds from the IPO and the Private Placement (as defined below) were deposited in a trust account established for
+the benefit of the Company’s public shareholders. An audited balance sheet as of March 10, 2020 reflecting receipt of
+the proceeds upon consummation of the IPO and the Private Placement will be filed within 4 business days of the consummation of
+the IPO.
+
+ 
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneously with the closing of the
+IPO, the Company consummated the private placement (“Private Placement”) with (i) LifeSci Holdings LLC of 1,570,000
+warrants (the “Private Warrants”) and (ii) Rosedale Park, LLC of 1,000,000 Private Warrants, each at a price of
+$0.50 per Private Warrant, generating total proceeds of $1,285,000.
+
+ 
+
+The Private Warrants are identical to the
+warrants sold in the IPO except that each Private Warrant is exercisable for one share of Common Stock at an exercise price of
+$11.50 per share, and the Private Warrants will be non-redeemable and may be exercised on a cashless basis, in each case so long
+as they continue to be held by the initial purchasers or their permitted transferees. Additionally, such initial purchasers agreed
+not to transfer, assign or sell any of the Private Warrants or underlying securities (except in limited circumstances, as described
+in the Registration Statement) until the completion of the Company’s initial business combination. Such initial purchasers
+were granted certain demand and piggyback registration rights in connection with the purchase of the Private Warrants.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+The Private Warrants were issued pursuant
+to Section 4(a)(2) of the Securities Act of 1933, as amended, as the transactions did not involve a public offering.
+
+ 
+
+Item 5.03. Amendments to Certificate
+of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+On March 5, 2020, in connection with
+the IPO, the Company filed its Amended and Restated Certificate of Incorporation with the Secretary of State of Delaware. The terms
+of the Amended and Restated Certificate of Incorporation are set forth in the Registration Statement and are incorporated herein
+by reference.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+
+
+    Exhibit
+No.
+     
+    Description
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement, dated March 5, 2020, by and between the Registrant and Chardan Capital Markets, LLC.
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated March 5, 2020, by and between Continental Stock Transfer & Trust Company and the Registrant.
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreements, dated March 5, 2020, among the Registrant and the Registrant’s officers, directors and Initial Stockholders.
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated March 5, 2020, by and between Continental Stock Transfer & Trust Company and the Registrant.
+
+     
+     
+     
+
+    10.3
+     
+    Stock Escrow Agreement, dated March 5, 2020, among the Registrant, Continental Stock Transfer & Trust Company and the Initial Stockholders.
+
+     
+     
+     
+
+    10.4
+     
+    Registration and Stockholder Rights Agreement, dated March 5, 2020, by and between the Registrant and Initial Stockholders.
+
+     
+     
+     
+
+    10.5
+     
+    Administrative Services Agreement, dated March 5, 2020, by and between the Registrant and LifeSci Capital LLC.
+
+     
+     
+     
+
+    10.6
+     
+    Subscription Agreement, dated March 5, 2020, by and between the Registrant and LifeSci Holdings LLC. 
+
+     
+     
+     
+
+    10.7
+     
+    Subscription Agreement, dated March 5, 2020, by and between the Registrant and Rosedale Park, LLC. 
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+    Dated: March 11, 2020
+     
+
+     
+     
+
+    LIFESCI ACQUISITION CORP.
+     
+
+     
+     
+
+    By:
+    /s/ Andrew McDonald 
+     
+
+    Name: Andrew McDonald
+     
+
+    Title: Chief Executive Officer
+     
+
+ 
+
+
+
+
+
+
+    4
+    
+
+ 
+
+
+
+

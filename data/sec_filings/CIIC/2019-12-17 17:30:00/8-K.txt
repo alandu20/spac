@@ -1,0 +1,552 @@
+
+8-K
+1
+f8k121219_ciigmergercorp.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): December
+17, 2019 (December 12, 2019)
+
+ 
+
+CIIG Merger Corp.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39159
+     
+    84- 3142564
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+40 West 57th Street
+
+29th Floor
+
+New York, New York 10019 
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (212) 796-4796
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    
+        Trading
+        Symbol(s)
+     
+    Name of each exchange on which registered
+
+     
+     
+     
+     
+     
+
+    Units, each consisting of one share of Class A Common Stock and one-half of one Redeemable Warrant
+     
+    CIICU
+     
+    The Nasdaq Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Class A Common Stock, par value $0.0001 per share
+     
+    CIIC
+     
+    The Nasdaq Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Warrants, each exercisable for one share Class A Common Stock for $11.50 per share
+     
+    CIICW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company þ
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+     
+     
+    
+
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+
+
+On December 17, 2019, CIIG Merger Corp. (the
+“Company”) consummated its initial public offering (the “IPO”) of 25,875,000 units (the “Units”).
+Each Unit consists of one share of Class A common stock of the Company, par value $0.0001 per share (“Class A Common Stock”),
+and one-half of one redeemable warrant of the Company (“Warrant”), with each whole Warrant entitling the holder
+thereof to purchase one share of Class A Common Stock for $11.50 per share. The Units were sold at a price of $10.00 per Unit,
+generating gross proceeds to the Company of $258,750,000.
+
+
+
+ 
+
+In connection with
+the IPO, the Company entered into the following agreements, forms of which were previously filed as exhibits to the Company’s
+Registration Statement on Form S-1 (File No. 333-235158) related to the IPO, originally filed with the U.S. Securities and Exchange
+Commission (the “Commission”) on November 22, 2019 (as amended, the “Registration Statement”):
+
+ 
+
+
+
+     
+    ●
+    An Underwriting Agreement, dated December 12, 2019, by and among the Company and UBS Securities LLC and Barclays Capital Inc., a copy of which is attached as Exhibit 1.1 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ●
+    A Warrant Agreement, dated December 12, 2019, by and between the Company and Continental Stock Transfer & Trust Company, as warrant agent, a copy of which is attached as Exhibit 4.1 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ●
+    A Letter Agreement, dated December 12, 2019, by and among the Company, its officers, its directors and the Company’s sponsor, CIIG Management LLC (the “Sponsor”), a copy of which is attached as Exhibit 10.1 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ●
+    An Investment Management Trust Agreement, dated December 12, 2019, by and between the Company and Continental Stock Transfer & Trust Company, as trustee, a copy of which is attached as Exhibit 10.2 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ●
+    A Registration Rights Agreement, dated December 12, 2019, by and between the Company, the Sponsor and certain other stockholders of the Company, a copy of which is attached as Exhibit 10.3 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ●
+    An Administrative Support Agreement, dated December 12, 2019, by and between the Company and the Sponsor, a copy of which is attached as Exhibit 10.4 hereto and incorporated herein by reference.
+
+ 
+
+
+
+     
+    ●
+    Private Placement Warrant Purchase Agreement, dated December 12, 2019 (the “Warrant Subscription Agreement”), by and between the Company and the Sponsor, a copy of which is attached as Exhibit 10.5 hereto and incorporated herein by reference.
+
+  
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+
+
+
+
+Simultaneously with the closing of the IPO,
+pursuant to the Warrant Subscription Agreement and the Subscription Agreements, dated November 22, 2019, by and between the Company
+and subsidiaries of BlackRock, Inc. (collectively, “BlackRock”), the Company completed the private sale of an
+aggregate of 7,175,000 Warrants (the “Private Placement Warrants”) to the Sponsor and Blackrock at a purchase
+price of $1.00 per Private Placement Warrant, generating gross proceeds to the Company of $7,175,000. The Private Placement Warrants
+are identical to the Warrants included in the Units sold as part of the Units in the IPO, except as otherwise disclosed in the
+Registration Statement. No underwriting discounts or commissions were paid with respect to such sale. The issuance of the Private
+Placement Warrants was made pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act of 1933,
+as amended.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+    1
+     
+    
+
+ 
+
+Item 5.03. Amendments to Certificate of Incorporation or
+Bylaws; Change in Fiscal Year.
+
+ 
+
+On December 12, 2019,
+in connection with the IPO, the Company filed its Amended and Restated Certificate of Incorporation with the Secretary of State
+of the State of Delaware, effective the same day. The terms of the Amended and Restated Certificate of Incorporation are set forth
+in the Registration Statement and are incorporated herein by reference. A copy of the Amended and Restated Certificate of Incorporation
+is attached as Exhibit 3.1 hereto and incorporated herein by reference.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+
+
+
+
+A total of $258,750,000, comprised of $253,575,000
+of the proceeds from the IPO (which amount includes $9,056,250 of the underwriter’s deferred discount) and $5,175,000 of
+the proceeds of the sale of the Private Placement Warrants, was placed in a U.S.-based trust account at J.P. Morgan Chase Bank,
+N.A., maintained by Continental Stock Transfer & Trust Company, acting as trustee. Except with respect to interest earned on
+the funds held in the trust account that may be released to the Company to pay its taxes (less up to $100,000 interest to pay dissolution
+expenses), the funds held in the trust account will not be released from the trust account until the earliest of (i) the completion
+of the Company’s initial business combination, (ii) the redemption of any of the Company’s public shares properly submitted
+in connection with a stockholder vote to amend the Company’s amended and restated certificate of incorporation (a) to modify
+the substance or timing of its obligation to offer redemption rights in connection with any proposed initial business combination
+or to redeem 100% of the Company’s public shares if it does not complete its initial business combination within 24 months
+from the closing of the IPO or (b) with respect to any other provision relating to stockholders’ rights or pre-initial business
+combination activity and (iii) the redemption of the Company’s public shares if it is unable to complete its initial business
+combination within 24 months from the closing of the IPO, subject to applicable law.
+
+
+
+
+
+
+
+
+
+ 
+
+On December 12, 2019,
+the Company issued a press release announcing the pricing of the IPO, a copy of which is attached as Exhibit 99.1 to this Current
+Report on Form 8-K.
+
+ 
+
+On December 17, 2019,
+the Company issued a press release announcing the closing of the IPO, a copy of which is attached as Exhibit 99.2 to this Current
+Report on Form 8-K.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+The following exhibits
+are being filed herewith:
+
+ 
+
+
+
+
+
+    Exhibit No.
+     
+     Description
+
+    1.1
+     
+    Underwriting Agreement, dated December 12, 2019, by and among the Company and UBS Securities LLC and Barclays Capital Inc.
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation.
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated December 12, 2019, by and between the Company and Continental Stock Transfer & Trust Company, as warrant agent.
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreement, dated December 12, 2019, by and among the Company, its officers, its directors and the Sponsor.
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated December 12, 2019, by and between the Company and Continental Stock Transfer & Trust Company, as trustee.
+
+     
+     
+     
+
+    10.3
+     
+    Registration Rights Agreement, dated December 12, 2019, by and between the Company, the Sponsor and certain other stockholders of the Company.
+
+     
+     
+     
+
+    10.4
+     
+    Administrative Support Agreement, dated December 12, 2019, by and between the Company and the Sponsor.
+
+     
+     
+     
+
+    10.5
+     
+    Private Placement Warrant Purchase Agreement, dated December 12, 2019, by and between the Company and the Sponsor.
+
+     
+     
+     
+
+    99.1
+     
+    Press Release, dated December 12, 2019.
+
+     
+     
+     
+
+    99.2
+     
+    Press Release, dated December 17, 2019.
+
+
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    CIIG Merger Corp.
+
+     
+     
+     
+
+     
+    By:
+    /s/ Gavin Cuneo
+
+     
+     
+    Name: 
+    Gavin Cuneo
+
+     
+     
+    Title:
+    Chief Operating Officer
+
+     
+     
+     
+
+    Dated: December 17, 2019
+     
+     
+
+ 
+
+
+
+ 
+
+3
+
+ 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,286 @@
+
+8-K
+1
+d782167d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549  
+  FORM 8-K  
+  CURRENT
+REPORT  Pursuant to Section 13 or 15(d) 
+of the Securities Exchange Act of 1934 
+August 6, 2019 
+Date of Report (date of earliest event reported)  
+  GIGCAPITAL2,
+INC.  (Exact name of Registrant as specified in its charter)
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38924
+ 
+83-3838045
+
+ (State or other jurisdiction of
+incorporation or organization)
+ 
+ (Commission
+File Number)
+ 
+ (I.R.S. Employer
+Identification Number)
+ 2479 E. Bayshore Rd., Suite 200 
+Palo Alto, CA 94303 
+(Address of principal executive offices) 
+(650) 276-7040 
+(Registrants telephone number, including area code) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))  Securities registered pursuant to
+Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbols
+ 
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of Common Stock, one Right and one Warrant
+ 
+GIX.U
+ 
+New York Stock Exchange
+
+Common Stock, par value $0.0001 per share
+ 
+GIX
+ 
+New York Stock Exchange
+
+Rights to purchase one-twentieth of one share of Common Stock
+ 
+GIX.RT
+ 
+New York Stock Exchange
+
+Warrants to purchase one share of Common Stock
+ 
+GIX.WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+ Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.  Appointment of New President and Chief Executive Officer 
+On August 6, 2019, the Board of Directors (the Board) of GigCapital2, Inc., a Delaware corporation (the
+Company), appointed Dr. Raluca Dinu, 45, as the President and Chief Executive Officer of the Company. Dr. Dinu will continue to serve on the Board, and Dr. Avi Katz will remain the Companys Executive Chairman
+and Secretary.  As previously disclosed by the Company, Drs. Katz and Dinu are married. Dr. Dinu has not engaged in any related party
+transactions with the Company.  Dr. Dinu is a global business executive with 20 years of achievements in the high-tech industry and
+an established track-record of driving increased revenue and profitability, building and leading cross-functional teams, and delivering results in corporate turnarounds. From April 2017 to May 2019, Dr. Dinu was the Vice President and General
+Manager of Integrated Device Technology, Inc. (IDT). Prior to joining IDT, Dr. Dinu held several executive positions at GigPeak, Inc. (formerly GigOptix) (GigPeak), including Executive Vice President and
+Chief Operation Officer, from 2008 to April 2017. Dr. Dinu led GigPeaks operations to record financial performance with significant increase in profitability and shareholder value. She was actively involved in the rollup of GigPeak
+through 10 mergers and acquisitions, and in closing the sale of GigPeak to IDT. Dr. Dinu was a member of Board of Directors of Brazil-Photonics, in Campinas Brazil, a Joint Venture that GigOptix
+established with the Centro de Pesquisa e Desenvolvimento em Telecomunicações (CPqD), from 2014 to 2017. Prior to GigOptix, Dr. Dinu was VP of Engineering at Lumera when it was acquired by GigPeak in 2008. She holds a Bachelor of
+Science in Physics, a Doctor of Philosophy in Solid State Condensed Matter, Physics from the University of Bucharest, and an Executive-MBA from Stanford University. 
+The Board has approved the payment by the Company of advisory fees to directors in connection with certain activities on our behalf, such as
+identifying and investigating possible business targets and business combinations as well as pertaining to board committee service and administrative and analytical services. These advisory fees will be paid quarterly, and include payments to both
+Drs. Katz and Dinu. The amounts approved are as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dr. Katz
+  
+$
+15,000
+ 
+
+ Dr. Dinu
+  
+$
+18,000
+ 
+
+ Neil Miotto
+  
+$
+15,000
+ 
+
+ John Mikulsky
+  
+$
+12,000
+ 
+
+ Gil Frostig
+  
+$
+12,000
+ 
+ Appointment of New Chief Financial Officer 
+On August 6, 2019, Tara McDonough submitted a letter of resignation from her position as the Vice President and Chief Financial Officer of
+the Company. The Company accepted Ms. McDonoughs resignation, which shall be effective as of August 12, 2019. Ms. McDonoughs resignation is not as a result of any disagreements with the Company. 
+On August 6, 2019, the Board appointed Walter Brad Weightman, 64, to serve as the Companys Vice President and Chief
+Financial Officer. The Company entered into a Strategic Services Agreement (the Strategic Services Agreement) with Mr. Weightman. Pursuant to the terms of the Strategic Services Agreement, Mr. Weightman has been engaged
+to serve as Vice President and Chief Financial officer of the Company for an initial term of one year commencing on August 12, 2019. Mr. Weightman will be compensated $10,000 per month. A copy of the Strategic Services Agreement is filed
+as Exhibit 10.1 hereto and incorporated herein by reference.  Mr. Weightman does not have any
+family relationships with the executive officers or directors of the Company and has not engaged in any related party transactions with the Company. Mr. Weightman has more than 25 years of global finance and accounting experience with public
+and private companies of various sizes in the Semiconductor, IoT, hardware, and software industries. From 2017 to 2019, Mr. Weightman served as the Senior Business Controller at IDT, where he provided strategic and financial support for the
+General Manager and the division. From 2015 to 2017, Mr. Weightman was the Corporate Controller at GigPeak Inc. (formerly GigOptix) and oversaw all accounting and finance functions. From 2014 to 2015, he was the Interim Vice President Finance,
+Controller of Extron Logistics LLC where he led all accounting and finance activities. Additionally, earlier in his career, Mr. Weightman held various finance and accounting positions at Echelon Corporation, an early developer of the IoT
+market, and at large corporations such as Advanced Micro Devices and Xerox Corporation. Mr. Weightman received a Bachelor of Science in Accounting from San Jose State University and is a Certified Public Accountant in California
+(inactive).  On August 8, 2019, the Company issued a press release announcing the expanded leadership team, which is attached hereto
+as Exhibit 99.1.  Item 9.01 Financial Statements and Exhibits. 
+(d) Exhibits:   
+
+
+
+
+
+
+
+
+
+
+Exhibit
+  
+ Description
+
+
+
+
+
+
+10.1
+  
+Strategic Services Agreement, dated August 6, 2019, by and between GigCapital2, Inc. and Walter Weightman 
+
+
+
+
+99.1
+  
+Press release dated August 8, 2019 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.  Dated: August 8, 2019 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Dr. Raluca Dinu
+
+Name:
+ 
+Dr. Raluca Dinu
+
+Title:
+ 
+Chief Executive Officer and President
+
+
+
+
+

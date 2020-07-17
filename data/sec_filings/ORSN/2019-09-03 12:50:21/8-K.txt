@@ -1,0 +1,346 @@
+
+8-K
+1
+f8k082819_orisunacquisition.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+
+
+United States
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+ 
+
+Form 8-K 
+
+ 
+
+Current Report 
+
+Pursuant to Section 13 or 15(d) of the 
+
+Securities Exchange Act of 1934 
+
+ 
+
+August 28, 2019
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+Orisun Acquisition Corp.
+
+(Exact Name of Registrant as Specified in its
+Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-39014
+     
+    83-2479505 
+
+    (State or other jurisdiction of incorporation) 
+     
+    (Commission File Number) 
+     
+    (I.R.S. Employer Identification No.) 
+
+ 
+
+
+
+    555 Madison Avenue, Room 543
+New York, NY
+     
+    10022
+
+    (Address of Principal Executive Offices) 
+     
+    (Zip Code) 
+
+ 
+
+Registrant’s telephone number, including
+area code: (631) 220-3541 
+
+ 
+
+N/A
+
+ 
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written communications pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    
+        Name of each exchange on
+        which registered
+
+    Units, each consisting of one share of Common Stock, $0.00001 par value, one Redeemable Warrant to acquire one-half of one share of Common Stock, and one Right to acquire one-tenth (1/10) of a share of Common Stock
+     
+    ORSNU
+     
+    NASDAQ Capital Market
+
+    Common Stock
+     
+    ORSN
+     
+    NASDAQ Capital Market
+
+    Warrants
+     
+    ORSNW
+     
+    NASDAQ Capital Market
+
+    Rights
+     
+    ORSNR
+     
+    NASDAQ Capital Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act
+of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+
+
+ 
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+The information included in Item 8.01 is incorporated
+into this Item by reference.
+
+ 
+
+Item 8.01. Other Events
+
+ 
+
+As previously disclosed on a Current Report
+on Form 8-K dated August 7, 2019, Orisun Acquisition Corp. (the “Company”) consummated its initial public offering
+(“IPO”) of 4,000,000 units (the “Units”). Each Unit consists of one share of common stock (“Common
+Stock”), one warrant (“Warrant”) entitling its holder to purchase one-half of one share of Common Stock at a
+price of $11.50 per whole share, and one right to receive one-tenth (1/10) of one share of Common Stock upon the consummation of
+an initial business combination. The Units were sold at an offering price of $10.00 per Unit, generating gross proceeds of $40,000,000.
+The Company granted the underwriters a 45-day option to purchase up to 600,000 additional Units to cover over-allotments, if any.
+
+ 
+
+As also previously disclosed in the Current
+Report, simultaneously with the closing of the IPO, the Company consummated the private placement (“Private Placement”)
+of 220,000 units (the “Private Units”) at a price of $10.00 per Private Unit, generating total proceeds of $2,200,000.
+
+ 
+
+Subsequently, on August 26, 2019,
+the underwriters exercised the over-allotment option in part, and the closing of the issuance and sale of the additional Units
+occurred on August 28, 2019. The total aggregate issuance by the Company of 440,024 units at a price of $10.00 per unit resulted
+in total gross proceeds of $4,400,240. On August 28, 2019, simultaneously with the sale of the over-allotment units, the Company
+consummated the private sale of an additional 13,201 Private Units, generating gross proceeds of $132,010. On August 29, 2019,
+the underwriters canceled the remainder of the over-allotment option. In connection with the cancellation of the remainder of
+the over-allotment option, the Company will cancel an aggregate of 39,990 shares of Common Stock issued to Everstone Investments
+LLC, the Company’s sponsor, prior to the IPO and Private Placement.
+
+ 
+
+A total of $44,400,240 of the net proceeds from the sale
+of Units in the initial public offering (including the over-allotment option units) and the private placements on August 6, 2019
+and August 28, 2019, were placed in a trust account established for the benefit of the Company’s public shareholders. Included
+with this report as Exhibit 99.1 is a pro-forma balance sheet reflecting the exercise of the over-allotment option.
+
+The Private Units are
+identical to the Units sold in the IPO. However, the holders have agreed to certain restrictions on the Private Units, as described
+in the Registration Statement. Additionally, the holders agreed not to transfer, assign or sell any of the Private Units or underlying
+securities (except in limited circumstances, as described in the Registration Statement) until the completion of the Company’s
+initial business combination. The holders were granted certain demand and piggyback registration rights in connection with the
+Private Units.
+
+The Private Units were
+issued pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended, as the transactions did not involve a public offering.
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+
+
+    
+        Exhibit No.
+     
+    
+        Description
+
+     
+     
+     
+
+    99.1
+     
+    Pro-Forma Balance Sheet dated August 6, 2019
+
+ 
+
+ 
+
+
+     
+     
+    
+
+
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: September 3, 2019
+
+ 
+
+ORISUN ACQUISITION CORP.
+
+ 
+
+
+
+    By:
+    /s/ Wei Chen
+     
+
+    Name: 
+    Wei Chen
+     
+
+    Title: 
+    Chief Executive Officer
+     
+
+ 
+
+
+
+
+
+ 
+
+
+     
+    
+
+
+
+
+
+
+
+
+
+

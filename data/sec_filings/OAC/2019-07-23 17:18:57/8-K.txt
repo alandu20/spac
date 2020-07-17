@@ -1,0 +1,359 @@
+
+8-K
+1
+d671484d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT REPORT
+ Pursuant to Section 13 or Section 15(d) 
+of the Securities Exchange Act of 1934 
+Date of Report (Date of earliest event reported): July 17, 2019 
+   
+OAKTREE ACQUISITION CORP. 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cayman Islands
+ 
+001-38986
+ 
+98-1482650
+
+ (State or other jurisdiction of
+incorporation or organization)
+ 
+ (Commission
+File Number)
+ 
+(I.R.S. EmployerIdentification Number)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 333 South Grand Avenue
+28th Floor Los Angeles,
+CA
+ 
+90071
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ Registrants telephone number, including area code: (213)
+830-6300  Not Applicable 
+(Former name or former address, if changed since last report) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation to the registrant under any of the following provisions:   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbol(s)
+ 
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant
+ 
+OAC.U
+  
+New York Stock Exchange
+
+Class A ordinary shares included as part of the units
+ 
+OAC
+  
+New York Stock Exchange
+
+Warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+ 
+OAC WS
+  
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.  Emerging growth
+company  ☒  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐   
+   
+
+
+
+
+
+
+
+
+ Item 1.01. Entry into a Material Definitive Agreement. 
+On July 17, 2019, the Registration Statement on
+Form S-1 (File No. 333-232444) (the Registration Statement) relating to the initial public offering (the IPO) of Oaktree
+Acquisition Corp. (the Company) was declared effective by the U.S. Securities and Exchange Commission. On July 22, 2019, the Company consummated the IPO of 20,125,000 units (the Units), which includes Units issued
+pursuant to the exercise in full of the underwriters option to purchase additional Units to cover overallotments. Each Unit consists of one Class A ordinary share, $0.0001 par value per share (the Class A Ordinary
+Shares), and one-third of one redeemable warrant (the Public Warrants), each whole Public Warrant entitling the holder thereof to purchase one Class A Ordinary Share at an
+exercise price of $11.50 per share. The Units were sold at an offering price of $10.00 per Unit, generating gross proceeds of $201,250,000. Further, in connection with the IPO, the Company entered into the following agreements previously filed as
+exhibits of the Registration Statement:   
+
+
+ 
+
+ an Underwriting Agreement, dated July 17, 2019, between the Company and Credit Suisse Securities (USA)
+LLC and Deutsche Bank Securities Inc., as representatives of the several underwriters, which contains customary representations and warranties and indemnification of the underwriters by the Company; 
+ 
+
+
+ 
+
+ a Private Placement Warrants Purchase Agreement, dated July 17, 2019, between the Company and Oaktree
+Acquisition Holdings, L.P. (the Sponsor), pursuant to which the Sponsor purchased 4,016,667 private placement warrants, each exercisable to purchase one Class A ordinary share at $11.50 per share, at a price of $1.50 per warrant
+(the Private Placement Warrants);   
+
+
+ 
+
+ a Warrant Agreement, dated July 22, 2019, between the Company and Continental Stock Transfer &
+Trust Company, as warrant agent (the Warrant Agreement), which sets forth the expiration and exercise price of and procedure for exercising the Warrants; certain adjustment features of the terms of exercise; provisions relating to
+redemption and cashless exercise of the Warrants; certain registration rights of the holders of Warrants; provision for amendments to the Warrant Agreement; and indemnification of the warrant agent by the Company under the agreement;
+  
+
+
+ 
+
+ an Investment Management Trust Agreement, dated July 22, 2019, between the Company and Continental
+Stock Transfer & Trust Company, as trustee, which establishes the trust account that will hold the net proceeds of the IPO proceeds and certain of the proceeds of the sale of the Private Placement Warrants, and sets forth the
+responsibilities of the trustee; the procedures for withdrawal and direction of funds from the trust account; and indemnification of the trustee by the Company under the agreement; 
+ 
+
+
+ 
+
+ a Registration and Shareholder Rights Agreement, dated July 22, 2019, between the Company and the
+Sponsor, which provides for customary demand and piggy-back registration rights for the Sponsor, as well as certain transfer restrictions applicable to the Sponsor with respect to the Companys securities, and, upon consummation of our initial
+business combination and the right of the Sponsor to nominate three individuals for election to the Companys board of directors;   
+
+
+ 
+
+ Letter Agreements, each dated July 22, 2019, by and between the Company and each of the officers and
+directors of the Company, pursuant to which each officer and director of the Company has agreed to vote any Class A Ordinary Shares held by him or her in favor of the Companys initial business combination; to facilitate the liquidation
+and winding up of the Company if an initial business combination is not consummated within 24 months; and to certain transfer restrictions with respect to the Companys securities; 
+ 
+
+
+ 
+
+ a Letter Agreement, dated July 22, 2019, by and between the Company and the Sponsor, pursuant to which
+the Sponsor has agreed to vote any Class A Ordinary Shares held by it in favor of the Companys initial business combination; to facilitate the liquidation and winding up of the Company if an initial business combination is not consummated
+within 24 months; to certain transfer restrictions with respect to the Companys securities; and to certain indemnification obligations of the Sponsor; and 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ an Administrative Services Agreement, dated July 22, 2019, by and between the Company and the Sponsor,
+pursuant to which the Sponsor has agreed to make available office space and certain administrative and support services, as may be required by the Company from time to time, for $10,000 per month until the Companys initial business combination
+or liquidation.  The above descriptions are qualified in their entirety by reference to the full text of the applicable
+agreement, each of which is incorporated by reference herein and attached hereto as Exhibits 1.1, 10.1, 4.1, 10.2, 10.3, 10.4, 10.5 and 10.6 respectively. 
+Item 3.02. Unregistered Sales of Equity Securities. 
+Simultaneous with the consummation of the IPO and the issuance and sale of the Units, the Company consummated the private
+placement of 4,016,667 Private Placement Warrants at a price of $1.50 per Private Placement Warrant, generating total proceeds of $6,025,000 (the Private Placement). The Private Placement Warrants, which were purchased by the Sponsor,
+are substantially similar to the Public Warrants, except that if held by the Sponsor or its permitted transferees, they (i) may be exercised for cash or on a cashless basis, (ii) are not subject to being called for redemption under certain
+redemption scenarios and (iii) subject to certain limited exceptions, will be subject to transfer restrictions until 30 days following the consummation of the Companys initial business combination. If the Private Placement Warrants are
+held by holders other than the Sponsor or its permitted transferees, the Private Placement Warrants will be redeemable by the Company under all redemption scenarios and exercisable by holders on the same basis as the Public Warrants. The Private
+Placement Warrants have been issued pursuant to, and are governed by the Warrant Agreement.  Item 9.01. Financial Statements and Exhibits.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+(d)
+ 
+ Exhibits.
+
+
+
+
+  1.1
+ 
+Underwriting Agreement between the Company and Credit Suisse Securities (USA) LLC and Deutsche Bank Securities Inc., as representatives of the several underwriters 
+
+
+
+
+  4.1
+ 
+Warrant Agreement between Continental Stock Transfer & Trust Company and the Company 
+
+
+
+
+10.1
+ 
+Private Placement Warrants Purchase Agreement between the Company and Oaktree Acquisition Holdings, L.P. 
+
+
+
+
+10.2
+ 
+Investment Management Trust Account Agreement between Continental Stock Transfer & Trust Company and the Company 
+
+
+
+
+10.3
+ 
+Registration and Shareholder Rights Agreement between the Company and the Sponsor 
+
+
+
+
+10.4
+ 
+Form of Letter Agreement between the Company and each of the officers and directors of the Company 
+
+
+
+
+10.5
+ 
+Letter Agreement between the Company and the Sponsor 
+
+
+
+
+10.6
+ 
+Administrative Services Agreement between the Company and the Sponsor 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly authorized.  Dated: July 23, 2019 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ OAKTREE ACQUISITION CORP.
+
+
+
+
+By:
+ 
+ /s/ Patrick McCaney
+
+ Name:
+ 
+ Patrick McCaney
+
+ Title:
+ 
+ Chief Executive Officer
+
+
+
+
+

@@ -1,0 +1,503 @@
+
+8-K
+1
+tm2016603d2_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): April 24, 2020
+
+ 
+
+
+
+ 
+
+ 
+
+Social Capital Hedosophia Holdings Corp.
+III
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+    Cayman Islands
+     
+    001-39252
+     
+    98-1515192
+
+    (State or other jurisdiction
+     
+    (Commission
+     
+    (I.R.S. Employer
+
+    of incorporation)
+     
+    File Number)
+     
+    Identification No.)
+
+
+ 
+
+
+
+    317 University Ave, Suite 200 
+     
+
+    Palo Alto, CA 
+    94301
+
+    (Address of principal executive offices) 
+    (Zip Code)
+
+
+
+ 
+
+(650) 521-9007
+
+(Registrant’s telephone number,
+including area code)
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communication pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+¨Pre-commencements communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Securities
+Exchange Act of 1934:
+
+ 
+
+
+
+Title of each class
+ 
+Trading Symbol(s) 
+ 
+ 
+Name of each exchange on which registered  
+
+Units, each consisting of one Class A ordinary share and one-
+third of one redeemable warrant
+ 
+IPOC.U
+ 
+ 
+New York Stock Exchange
+
+Class A ordinary shares, par value $0.0001 per share
+ 
+IPOC
+ 
+ 
+New York Stock Exchange
+
+Redeemable warrants, each whole warrant exercisable for one
+ Class A ordinary share at an exercise price of $11.50
+ 
+IPOC WS
+ 
+ 
+New York Stock Exchange
+
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of
+this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company   x
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected
+not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act.   ¨
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+      
+    
+    
+
+ 
+
+
+Item 8.01Other Events.
+
+ 
+
+On
+April 24, 2020, Social Capital Hedosophia Holdings Corp. III (the “Company”) consummated its initial public
+offering (the “IPO”) of 82,800,000 units (the “Units”), including the issuance of 10,800,000
+Units as a result of the underwriter’s exercise of their over-allotment option. Each Unit consists of one Class A ordinary
+share of the Company, par value $0.0001 per share (an “Ordinary Share”), and one-third of one redeemable warrant
+of the Company. Each whole warrant entitles the holder thereof to purchase one Ordinary Share for $11.50 per share, subject
+to adjustment. The Units were sold at a price of $10.00 per unit, generating gross proceeds to the Company of $828,000,000.
+
+ 
+
+Substantially
+concurrently with the closing of the IPO, the Company completed the private sale of 10,933,333 warrants (the “Private
+Placement Warrants”) at a purchase price of $1.50 per Private Placement Warrant, to the Company’s sponsor, SCH
+Sponsor III LLC (the “Sponsor”), generating gross proceeds to the Company of $16,400,000. The Private
+Placement Warrants are identical to the warrants sold as part of the Units in the IPO except that, so long as they are held by
+the Sponsor or its permitted transferees: (1) they will not be redeemable by the Company (except in certain redemption scenarios
+when the price per Ordinary Share equals or exceeds $10.00 (as adjusted)); (2) they (including the Ordinary Shares issuable upon
+exercise of these warrants) may not, subject to certain limited exceptions, be transferred, assigned or sold by the Sponsor until
+30 days after the completion of the Company’s initial business combination; (3) they may be exercised by the holders on a
+cashless basis; and (4) they (including the Ordinary Shares issuable upon exercise of these warrants) are entitled to registration
+rights.
+
+ 
+
+A total
+of $828,000,000, comprised of proceeds from the IPO and the sale of the Private Placement Warrants, were placed in a U.S.-based
+trust account at JP Morgan Chase Bank, N.A., maintained by Continental Stock Transfer & Trust Company, acting as trustee. Except
+with respect to interest earned on the funds held in the trust account that may be released to the Company to pay its taxes, if
+any, the funds held in the trust account will not be released from the trust account until the earliest to occur of: (1)
+the completion of the Company's initial business combination; (2) the redemption of any public shares properly submitted in connection
+with a shareholder vote to amend the Company's amended and restated memorandum and articles of association (A) to modify the substance
+or timing of the Company's obligation to allow redemption in connection with its initial business combination or to redeem 100%
+of its public shares if the Company does not complete its initial business combination within 24 months from the closing of the
+IPO or (B) with respect to any other provision relating to shareholders’ rights or pre-initial business combination activity;
+and (3) the redemption of the Company's public shares if the Company has not completed its initial business combination within
+24 months from the closing of the IPO, subject to applicable law.
+
+ 
+
+In connection with the IPO, the Company entered into
+the following agreements, the forms of which were previously filed as exhibits to the Company registration statement (File No.
+333-236776):
+
+ 
+
+
+·Amended and Restated Memorandum and Articles of Association of the Company.                                                                                                                                                                                                      
+   
+
+
+
+·An Underwriting Agreement, dated April 21, 2020, between the Company and
+Credit Suisse Securities (USA) LLC.                                             
+   
+
+
+
+·A Warrant Agreement, dated April 21, 2020, between the Company and Continental
+Stock Transfer & Trust Company, as warrant agent.                                                               
+   
+
+
+
+·A Letter Agreement, dated April 21, 2020, among the Company, the Sponsor and the Company’s officers and directors.                                                                                                                                                                                                                                                   
+   
+
+
+
+·An Investment Management Trust Agreement, dated April 21, 2020, between the Company and Continental
+Stock Transfer & Trust Company, as trustee.                                                         
+   
+
+
+
+·A Registration Rights Agreement, dated April 21, 2020, among the Company, the Sponsor and certain
+other security holders named therein.                                               
+   
+
+
+
+·An Administrative Services Agreement, dated April 21, 2020, between the Company and Social Capital Holdings, Inc.                                                                                                                                                                                                                                            
+   
+
+
+
+·A Sponsor Warrants Purchase Agreement, dated April 21, 2020, between the Company and the Sponsor.                                                                                                                                                                                                                            
+   
+
+
+
+·An Indemnity Agreement, dated April 21, 2020, between the Company and Chamath Palihapitiya.                                                                                                                                                                                                                      
+   
+
+
+
+·An Indemnity Agreement, dated April 21, 2020, between the Company and Ian Osborne.                                                                                                                                                                                                             
+   
+
+
+
+·An Indemnity Agreement, dated April 21, 2020, between the Company and Dr. James Ryans.                                                                                                                                                                                                                 
+   
+
+
+
+·An Indemnity Agreement, dated April 21, 2020, between the Company and Jacqueline D. Reses.                                                                                                                                                                                                                     
+   
+
+
+
+·An Indemnity Agreement, dated April 21, 2020, between the Company and Steven Trieu.                                                                                                                                                                                                              
+   
+
+
+
+·An Indemnity Agreement, dated April 21, 2020, between the Company and Simon Williams.
+
+
+ 
+
+
+
+
+      
+    
+    
+
+ 
+
+On April 21, 2020, the Company issued a press release,
+a copy of which is attached as Exhibit 99.1 to this Current Report on Form 8-K, announcing the pricing of the IPO.
+
+ 
+
+
+
+    Item 9.01
+    Financial Statements and Exhibits.
+
+
+
+ 
+
+
+(d)Exhibits. The following exhibits are filed with this
+Form 8-K:
+
+
+ 
+
+
+
+    Exhibit 
+     
+
+    No. 
+    Description of Exhibits
+
+
+
+
+1.1Underwriting Agreement, dated April 21, 2020, between the Company
+and Credit Suisse Securities (USA) LLC.
+
+3.1Amended and Restated Memorandum and Articles of Association of the Company.
+
+4.1Warrant Agreement, dated April 21, 2020, between the Company
+and Continental Stock Transfer & Trust Company, as warrant agent.
+
+10.1Letter Agreement, dated April 21, 2020, among the Company, the Sponsor and the Company’s officers and directors.
+
+10.2Investment Management Trust Agreement, dated April 21, 2020, between the Company and Continental Stock Transfer & Trust
+Company, as trustee.
+
+10.3Registration Rights Agreement, dated April 21, 2020, among
+the Company, the Sponsor and certain other security holders named therein.
+
+10.4Administrative Services Agreement, dated April 21, 2020, between
+the Company and Social Capital Holdings, Inc.
+
+10.5Sponsor Warrants Purchase Agreement, dated April 21, 2020, between the Company and the Sponsor.
+
+10.6Indemnity Agreement, dated April 21, 2020, between the Company
+and Chamath Palihapitiya.
+
+10.7Indemnity Agreement, dated April 21, 2020, between the Company and Ian Osborne.
+
+10.8Indemnity
+Agreement, dated April 21, 2020, between the Company and Dr. James Ryans.
+
+
+10.9Indemnity Agreement, dated April 21, 2020, between the Company
+and Jacqueline D. Reses.
+
+10.10Indemnity Agreement, dated April 21, 2020, between the Company and Steven Trieu.
+
+10.11Indemnity
+Agreement, dated April 21, 2020, between the Company and Simon Williams.
+
+
+99.1Press Release, dated April 21, 2020.
+
+
+ 
+
+
+
+
+      
+    
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+    
+    Social Capital Hedosophia Holdings Corp. III
+
+     
+     
+
+     
+     
+
+    Date:
+    April 24, 2020
+    By:
+    /s/ Chamath Palihapitiya
+
+    
+    Name:
+     Chamath Palihapitiya
+
+    
+    Title:
+     Chief Executive Officer
+
+ 
+
+
+
+
+      
+    
+
+ 
+
+
+
+

@@ -1,0 +1,519 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+    
+    
+      UNITED STATES
+      SECURITIES AND EXCHANGE COMMISSION
+      WASHINGTON, D.C. 20549
+      
+      
+      FORM 8-K
+       
+      
+      CURRENT REPORT
+      PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+       
+      
+      Date of Report (Date of earliest event reported): December 16, 2019 (December 16, 2019)
+       
+      
+      AMCI ACQUISITION CORP.
+      (Exact Name of Registrant as Specified in Charter)
+       
+      
+      
+
+          
+            
+              Delaware
+            
+            
+              001-38742
+            
+            
+              83-0982969
+            
+          
+          
+            
+              (State or Other Jurisdiction of Incorporation)
+            
+            
+              (Commission File Number)
+            
+            
+              (IRS Employer Identification No.)
+            
+          
+
+      
+       
+      
+      
+
+          
+            
+              975 Georges Station Road
+              Suite 900
+              Greensburg, Pennsylvania
+            
+            
+            
+            
+              15601
+            
+          
+          
+            
+              (Address of Principal Executive Offices)
+            
+            
+            
+            
+              (Zip Code)
+            
+          
+
+      
+       
+      
+      Registrant’s telephone number, including area code: (724) 672-4319
+       
+      
+      Not Applicable
+      (Former Name or Former Address, if Changed Since Last Report)
+       
+      
+      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+       
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+                
+              
+
+          
+        
+      
+       
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+                
+              
+
+          
+        
+      
+       
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+                
+              
+
+          
+        
+      
+       
+      
+      
+        
+          
+
+              
+                ☐
+                
+                  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+                
+              
+
+          
+           
+          
+        
+      
+      Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+       
+      
+      Emerging growth company  ☒
+       
+      
+      If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+        Act.  ☐
+       
+      
+      
+        Securities registered pursuant to Section 12(b) of the Act:
+        
+        
+        
+
+            
+              
+                Title of each class
+              
+              
+                 
+              
+              
+                Trading Symbol(s)
+              
+              
+                 
+              
+              
+                Name of each exchange on which
+                registered
+              
+            
+            
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+            
+            
+              
+                Units, each consisting of one share of Class A Common Stock and one Redeemable Warrant
+              
+              
+                 
+              
+              
+                AMCIU
+              
+              
+                 
+              
+              
+                The NASDAQ Stock Market LLC
+              
+            
+            
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+            
+            
+              
+                Common Stock, par value $0.0001 per share
+              
+              
+                 
+              
+              
+                AMCI
+              
+              
+                 
+              
+              
+                The NASDAQ Stock Market LLC
+              
+            
+            
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+              
+                 
+              
+            
+            
+              
+                Warrants, each exercisable for one share of Class A Common Stock at $11.50 per share
+              
+              
+                 
+              
+              
+                AMCIW
+              
+              
+                 
+              
+              
+                The NASDAQ Stock Market LLC
+              
+            
+
+        
+        
+        
+      
+      
+      
+         
+      
+        
+          
+      
+      
+        
+          
+
+              
+                Item 5.07.
+                
+                  Submission of Matters to a Vote of Security Holders.
+                
+              
+
+          
+        
+      
+      
+         
+        
+      
+      
+        On December 16, 2019, AMCI Acquisition Corp. (the “Company”) held its 2019 annual meeting of stockholders (the “Meeting”).
+
+          At the Meeting, stockholders (i) re-elected one director to serve as the Class I director on the Company’s board of directors (“Board”) until the 2022 annual meeting of stockholders or until his successor
+          is elected and qualified and (ii) ratified the selection by the audit committee of the Board of Marcum LLP (“Marcum”) to serve as the Company’s independent registered public accounting firm for the year
+          ending December 31, 2019.
+      
+      
+         
+        
+        Set forth below are the final voting results for each of the proposals:
+         
+        
+      
+      
+        Proposal No. 1 – Election of directors
+      
+      
+         
+        
+      
+      
+         Jason Grant was re-elected to serve as the Class I director. The voting results were as follows:
+      
+      
+         
+        
+      
+      
+
+          
+            
+              Name
+            
+            
+            
+            
+              For
+            
+            
+            
+            
+              Withheld
+            
+          
+          
+            
+              Jason Grant
+            
+            
+            
+            
+              15,749,390
+            
+            
+            
+            
+              4,046,030
+            
+          
+
+      
+      
+         
+        
+      
+      
+        Proposal No. 2 – Ratification of independent registered public accounting firm
+      
+      
+         
+        
+      
+      
+        The stockholders ratified the selection of Marcum to serve as the Company’s independent registered public accounting firm for the year ending December 31, 2019. The voting results were as
+          follows:
+      
+      
+         
+        
+      
+      
+
+          
+            
+              For
+            
+            
+            
+            
+              Against
+            
+            
+            
+            
+              Abstain
+            
+          
+          
+            
+              19,795,420
+            
+            
+            
+            
+              0
+            
+            
+            
+            
+              0
+            
+          
+
+      
+       
+      
+      
+        
+          
+      
+      SIGNATURE
+       
+      
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+       
+      
+      Dated: December 16, 2019
+       
+      
+      
+
+          
+            
+            
+            
+              AMCI ACQUISITION CORP.
+            
+          
+          
+            
+            
+            
+            
+          
+          
+            
+            
+            
+              By:
+            
+            
+              /s/ William Hunter
+            
+            
+            
+          
+          
+            
+            
+            
+              Name: William Hunter
+            
+            
+            
+          
+          
+            
+            
+            
+              Title: President, Chief Executive Officer, Chief Financial Officer and Director
+            
+            
+            
+          
+
+      
+       
+      
+       
+      
+      
+         
+    
+  
+
+
+

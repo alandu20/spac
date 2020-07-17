@@ -1,0 +1,338 @@
+
+8-K
+1
+nc10009374x2_8k.htm
+FORM 8-K
+
+
+  
+    
+    
+  
+
+  
+    
+      UNITED STATES
+    SECURITIES AND EXCHANGE COMMISSION
+    WASHINGTON, DC 20549
+    
+      
+        
+    
+    FORM 8-K
+    CURRENT REPORT
+    Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+    Date of report (date of earliest event reported): April 23, 2020
+    
+      
+        
+    
+    CLARIVATE ANALYTICS PLC
+    (Exact name of registrant as specified in its charter)
+    
+      
+    
+      
+      
+    
+    
+
+        
+          
+            Jersey, Channel Islands
+          
+          
+            001-38911
+          
+          
+            N/A
+          
+        
+        
+          
+            (State or other jurisdiction of incorporation)
+          
+          
+            (Commission File Number)
+          
+          
+            (IRS Employer Identification No.)
+          
+        
+
+    
+    
+    
+    Friars House
+    160 Blackfriars Road
+    London SE1 8EZ
+    United Kingdom
+    (Address of principal executive offices)
+    Registrant’s telephone number, including area code: +44 207 433 4000
+    
+      N/A
+    (Former name or former address, if changed since last report)
+    
+      
+        
+    
+    Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+    
+    
+    ☐          Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+    
+    
+    ☐          Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+    
+    
+    ☐          Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+    
+    
+    ☐          Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+    
+      
+        
+    
+    Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+     
+    
+    
+
+        
+          
+            
+              Title of Each Class
+            
+          
+          
+            
+              Trading Symbol
+            
+          
+          
+            
+              Name of Each Exchange on Which Registered
+            
+          
+        
+        
+          
+            Ordinary shares
+          
+          
+            CCC
+          
+          
+            New York Stock Exchange
+          
+        
+
+    
+    
+      
+        
+    
+    Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (Sec.230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+      (Sec.240.12b-2 of this chapter).
+    Emerging growth company          ☒
+    If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to
+      Section 13(a) of the Exchange Act.          ☒
+    
+       
+    
+      
+        
+    
+    
+
+        
+          Item 7.01.
+          
+            Regulation FD Disclosure
+          
+        
+
+    
+    
+    
+    On April 23, 2020, as a result of the ongoing COVID-19 coronavirus pandemic, Clarivate Analytics Plc (“Clarivate”) issued a press release announcing an update to the logistics of its 2020 Annual General Meeting of
+      Shareholders (“AGM”), scheduled to be held at 2:00 p.m. BST on Thursday, May 7, 2020. A copy of the press release is furnished herewith as Exhibit 99.1 to this Current Report and incorporated by reference herein.
+    
+    
+    Shareholders may listen to the AGM through our webcast or conference call beginning at 2:00 p.m. BST on Thursday, May 7, 2020 via:
+    
+    
+    
+
+        
+          
+            Event address for attendees:
+          
+          
+            https://clarivatewebinars.webex.com/clarivatewebinars/onstage/g.php?MTID=ed40088458d1750607651d643a993c8fa
+          
+        
+        
+          
+            Event number:
+          
+          
+            667 453 471
+          
+        
+        
+          
+            Event password:
+          
+          
+            clarivate2020
+          
+        
+        
+          
+            Audio conference:
+          
+          
+            To receive a call back, provide your phone number when you join the event, or call the number below and enter the access code.
+          
+        
+        
+           
+           
+          
+            US Toll
+          
+        
+        
+           
+           
+          
+            +1-415-655-0001
+          
+        
+        
+           
+           
+          
+            Show all global call-in numbers
+          
+        
+        
+           
+           
+          
+            Access code: 667 453 471
+          
+        
+
+    
+    
+    
+    Any shareholder wishing to submit a question in connection with the AGM may do so at any time by emailing AGM2020@clarivate.com.
+    
+    
+    The information in this Item 7.01, including Exhibit 99.1 furnished herewith, is being furnished and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the
+      “Exchange Act”), or otherwise subject to the liabilities of that Section and shall not be incorporated by reference into any registration statement or other document pursuant to the Securities Act of 1933, as amended, or the Exchange Act, except as
+      otherwise expressly stated in such filing.
+    
+    
+    
+
+        
+          Item 9.01.
+          
+            Financial Statements and Exhibits
+          
+        
+
+    
+    
+    
+    (d) Exhibits.
+    
+    
+    
+
+        
+          
+            
+              No.
+            
+          
+           
+          
+            
+              Description
+            
+          
+        
+        
+          
+            99.1
+          
+           
+          
+            Press release dated April 23, 2020
+          
+        
+
+    
+    
+    
+    
+      
+        
+    
+    SIGNATURE
+    
+    
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    
+    
+    
+
+        
+          
+            Date:          April 23, 2020
+          
+          
+            CLARIVATE ANALYTICS PLC
+          
+        
+        
+           
+           
+           
+        
+        
+           
+          
+            By:
+          
+          
+            /s/ Richard Hanks
+          
+        
+        
+           
+           
+          
+            Richard Hanks
+          
+        
+        
+           
+           
+          
+            Chief Financial Officer
+          
+        
+
+    
+    
+      
+    
+  
+
+
+

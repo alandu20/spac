@@ -1,0 +1,398 @@
+
+8-K
+1
+f8k1018_aryasciences.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+FORM 8-K
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or Section 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): October 11, 2018
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ARYA
+SCIENCES ACQUISITION CORP.
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+    Cayman
+    Islands
+     
+    001-746037
+     
+    98-1436307
+
+    (State
+        or other jurisdiction of
+        incorporation
+        or organization)
+        
+     
+    (Commission
+    File Number)
+     
+    (I.R.S.
+    Employer
+ Identification Number)
+
+
+
+
+ 
+
+
+
+    51
+        Astor Place, 10th Floor
+        
+        New
+York, NY 
+     
+    10003
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (212) 284-2300
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation to the
+registrant under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written communications
+    pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+    ☐
+    Soliciting material
+    pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications
+    pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+    ☐
+    Pre-commencement communications
+    pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of
+the Securities Exchange Act of 1934.
+
+ 
+
+Emerging
+growth company  ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01.
+Entry into a Material Definitive Agreement.
+
+ 
+
+On
+October 4, 2018, the Registration Statement on Form S-1 (File No. 333-227283) (the “Registration
+Statement”) relating to the initial public offering (the “IPO”) of ARYA Sciences Acquisition Corp. (the “Company”)
+was declared effective by the Securities and Exchange Commission. On October 10, 2018, the Company consummated the IPO of 14,375,000
+units (the “Units”), which includes Units issued pursuant to the exercise in full of the underwriters’ option
+to purchase additional Units to cover overallotments. Each Unit consists of one Class A ordinary share, $0.0001 par value
+per share (the “Class A Ordinary Shares”), and one-half of one redeemable warrant (the “Public
+Warrants”), each whole Public Warrant entitling the holder thereof to purchase one Class A Ordinary Share at an exercise
+price of $11.50 per share. The Units were sold at an offering price of $10.00 per Unit, generating gross proceeds of $143,750,000.
+Further, in connection with the IPO, the Company entered into the following agreements:
+
+ 
+
+
+
+     
+    ●
+    an
+    Underwriting Agreement, dated October 4, 2018, between the Company and Jefferies LLC, as representative of the several underwriters,
+    which contains customary representations and warranties and indemnification of the underwriters by the Company and is attached
+    as Exhibit 1.1 hereto; and
+
+ 
+
+
+
+     
+    ●
+    a
+    Private Placement Warrants Purchase Agreement, dated October 4, 2018, between the Company and ARYA Sciences Holdings, which
+    is attached as Exhibit 10.1 hereto.
+
+ 
+
+Item 3.02.
+Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneous
+with the consummation of the IPO and the issuance and sale of the Units, the Company consummated the private placement of 5,953,125
+warrants (the “Private Placement Warrants”) at a price of $1.00 per Private Placement Warrant, generating total proceeds
+of $5,953,125 (the “Private Placement”). The Private Placement Warrants, which were purchased by ARYA Sciences Holdings,
+are substantially similar to the Public Warrants, except that if held by the original holder or its permitted transferees, they
+(i) may be exercised for cash or on a cashless basis, (ii) are not subject to being called for redemption and (iii) subject
+to certain limited exceptions, will be subject to transfer restrictions until 30 days following the consummation of the Company’s
+initial business combination. If the Private Placement Warrants are held by holders other than its initial holder or its permitted
+transferees, the Private Placement Warrants will be redeemable by the Company and exercisable by holders on the same basis as
+the Public Warrants.
+
+ 
+
+Item 5.03.
+Amendments to Memorandum and Articles of Association.
+
+ 
+
+On
+October 4, 2018, the Company adopted its Amended and Restated Memorandum and Articles of Association. The Amended and Restated
+Memorandum and Articles of Association is attached as Exhibit 3.1 hereto and is incorporated by reference herein.
+
+ 
+
+Item 9.01.
+Financial Statements and Exhibits.
+
+ 
+
+
+
+    (d)
+    Exhibits.
+
+     
+     
+
+    1.1
+    Underwriting Agreement between the Company and Jefferies LLC, as representative of the several underwriters
+
+     
+     
+
+    3.1
+    Amended and Restated Memorandum and Articles of Association
+
+     
+     
+
+    10.1
+    Private Placement Warrants Purchase Agreement between the Company and ARYA Sciences Holdings
+
+ 
+
+
+
+     1 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+Dated:
+October 11, 2018
+
+ 
+
+
+
+     
+    ARYA SCIENCES
+    ACQUISITION CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/
+    Adam Stone
+
+     
+    Name:
+    Adam Stone
+
+     
+    Title:
+    Chief Executive Officer
+
+ 
+
+ 
+
+
+     2 
+    
+
+
+
+
+
+
+
+
+
+

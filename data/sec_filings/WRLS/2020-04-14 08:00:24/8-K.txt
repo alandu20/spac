@@ -1,0 +1,1529 @@
+
+8-K
+1
+ea120594-8k_americanvirtual.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): April 7, 2020
+
+ 
+
+American
+Virtual Cloud Technologies, Inc.
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38167
+     
+    81-2402421
+
+    (State
+    or other jurisdiction
+    of incorporation)
+     
+     (Commission
+    File Number)
+     
+     (I.R.S.
+    Employer
+    Identification Number)
+
+ 
+
+
+
+    1720
+    Peachtree Street, Suite 629
+    Atlanta, GA
+     
+    30309
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    code)
+
+ 
+
+(404)
+234-3098
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not
+Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under
+any of the following provisions:
+
+ 
+
+☐	Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐	Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐	Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐	Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§
+230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging
+growth company  ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Common
+    Stock, par value $0.0001 per share
+     
+    AVCT
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Warrants,
+    each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50
+     
+    AVCTW
+     
+    The
+    Nasdaq Stock Market LLC
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+
+
+
+ 
+
+Introductory
+Note
+
+ 
+
+On
+April 7, 2020 (the “Closing Date”), American Virtual Cloud Technologies, Inc. (f/k/a/ Pensare Acquisition Corp.),
+a Delaware corporation (“AVCT”), consummated the previously announced business combination pursuant to that certain
+Business Combination Agreement, dated July 24, 2019, as amended (the “Agreement”), by and among AVCT, Tango Merger
+Sub Corp., a Delaware corporation (“Merger Sub”), Stratos Management Systems Holdings, LLC, a Delaware limited liability
+company (“Holdings”), and Stratos Management Systems, Inc., a Delaware corporation (“Computex”), pursuant
+to which Computex merged with and into Merger Sub (the “Merger”), with Merger Sub surviving the Merger as a wholly
+owned subsidiary of AVCT (the “Surviving Corporation”). Capitalized terms used in this Current Report on Form 8-K
+but not otherwise defined herein have the meanings given to them in the Agreement.
+
+ 
+
+Following
+the completion of the Merger (the “Closing”), substantially all of AVCT’s assets and operations are held and
+conducted by the Surviving Corporation and its subsidiaries, and AVCT’s only assets are all of the issued and outstanding
+equity interests in the Surviving Corporation. Prior to the Closing, but in connection therewith, the registrant changed its name
+from “Pensare Acquisition Corp.” to “American Virtual Cloud Technologies, Inc.” Unless the context otherwise
+requires, “we,” “us,” “our,” and the “Company” refer to the combined company and
+its subsidiaries, including the Surviving Corporation and its subsidiaries.
+
+ 
+
+The
+foregoing description of the Agreement is a summary only and is qualified in its entirety by reference to the Agreement, Amendment
+No. 1 to the Agreement, dated as of December 20, 2019 (“Amendment No. 1”), by and among AVCT, Merger Sub, Holdings,
+and Computex, and Amendment No. 2 to the Agreement, dated as of April 3, 2020 (“Amendment No. 2”), by and among AVCT,
+Merger Sub, Holdings, and Computex, copies of which are filed as Exhibit 2.1, Exhibit 2.2 and Exhibit 2.3, respectively, to this
+Current Report on Form 8-K. A more detailed description of the Merger and related transactions can be found in AVCT’s definitive
+proxy statement (filed while AVCT was still called “Pensare Acquisition Corp.”) in connection with the solicitation
+of proxies from AVCT’s stockholders to approve the Merger and related transactions filed with the Securities and Exchange
+Commission (the “SEC”) on February 13, 2020 (the “Proxy Statement”).
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement
+
+ 
+
+Third
+Amendment to Loan Documents
+
+ 
+
+Concurrently
+with the Closing, the Company, the Surviving Corporation, the subsidiaries of the Surviving Corporation and Comerica Bank (“Comerica”)
+entered into a Third Amendment to Loan Documents (the “Third Amendment”). The Third Amendment added the Company and
+the Surviving Corporation as borrowers under the existing Credit Agreement, dated December 18, 2017 (as amended, the “Credit
+Agreement”), to which Computex and Comerica are parties, and amended certain provisions of the Credit Agreement, including
+changing the maturity date of the loans under the Credit Agreement to December 31, 2020, and removing certain financial covenants
+under the Credit Agreement.
+
+ 
+
+The
+foregoing description of the Third Amendment does not purport to be complete and is qualified in its entirety by the terms and
+conditions of the Third Amendment, which is filed as Exhibit 10.2 to this Current Report on Form 8-K and is incorporated herein
+by reference.
+
+ 
+
+Registration
+Rights Agreement
+
+ 
+
+Concurrently
+with the Closing, the Company, Pensare Sponsor Group, LLC (the “Sponsor”) and certain other initial stockholders of
+the Company, as well as Holdings and the other Investors (as defined below), entered into a Registration Rights Agreement (the
+“Registration Rights Agreement”). The Registration Rights Agreement amended, restated and replaced the registration
+rights agreement entered into among AVCT, the Sponsor and certain other initial stockholders of AVCT on July 27, 2017. Pursuant
+to the terms of the Registration Rights Agreement, the holders of certain of the Company’s securities, including the Company’s
+founder shares, the shares of the Company’s common stock (the “Common Stock”) underlying the Company’s
+private warrants, and the shares of Common Stock underlying the securities issued in the Private Placement (as defined below)
+are entitled to certain registration rights under the Securities Act and applicable state securities laws with respect to such
+shares of Common Stock, including up to eight demand registrations in the aggregate and customary “piggy-back” registration
+rights.
+
+ 
+
+The
+foregoing description of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by
+the terms and conditions of the Registration Rights Agreement, which is filed as Exhibit 10.3 to this Current Report on Form 8-K
+and is incorporated herein by reference.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Convertible
+Debentures, Warrants and Guaranty
+
+ 
+
+Concurrently
+with the Closing, the Company consummated the sale, in a private placement (the “Private Placement”), of units of
+securities of the Company (“Units”) to certain investors (each, an “Investor”), as contemplated by the
+terms of the previously disclosed Securities Purchase Agreement, dated as of April 3, 2020 (the “Securities Purchase Agreement”).
+Each Unit consists of (i) $1,000 in principal amount of the Company’s Series A convertible debentures (the “Debentures”)
+and (ii) a warrant to purchase 100 shares of Common Stock at an exercise price of $0.01 per whole share (the “Warrants”).
+The issuances of such securities were not registered under the Securities Act in reliance on the exemption from registration provided
+by Section 4(a)(2) of the Securities Act.
+
+ 
+
+Debentures
+
+ 
+
+
+
+At the Closing, the Company
+issued to Investors Debentures having an aggregate principal amount of approximately $43.4 million (including $3.0 million in aggregate
+principal amount issued as part of Units sold to MasTec, Inc., a greater than 5% stockholder of the Company (“MasTec”),
+of which $20.0 million in aggregate principal amount was part of Units issued to Holdings pursuant to the terms of the Agreement
+and approximately $8.8 million in aggregate principal amount was issued to the Sponsor as part of Units issued in exchange for
+the cancellation of indebtedness previously incurred by the Company to the Sponsor). The Debentures bear interest at a rate of
+10% per annum, payable quarterly on the last day of each calendar quarter in the form of additional Debentures, except upon maturity
+in which case accrued and unpaid interest is payable in cash. The entire principal amount of each Debenture, together with accrued
+and unpaid interest thereon, is due and payable on the earlier of (i) such date, commencing on or after October 7, 2022, as the
+holder thereof, at its sole option, upon not less than 30 days’ prior written notice to the Company, demands payment thereof
+and (ii) the occurrence of a Change in Control (as defined in the Debentures).
+
+
+
+
+
+ 
+
+Each
+Debenture is convertible, in whole or in part, at any time at the option of the holder thereof into that number of shares of Common
+Stock calculated by dividing the principal amount being converted, together with all accrued but unpaid interest thereon, by the
+applicable conversion price, initially $3.45. The conversion price is subject to customary adjustments for stock dividends, stock
+splits, reclassifications and the like, and is also subject to price-based adjustment, on a “full ratchet” basis,
+in the event of any issuances of Common Stock, or securities convertible, exercisable or exchangeable for, Common Stock at a price
+below the then-applicable conversion price (subject to certain exceptions). The Debentures are subject to mandatory conversion
+if the closing price of the Common Stock exceeds $6.00 for any 40 trading days within a consecutive 60 trading day-period, subject
+to the satisfaction of certain other conditions. The Debentures are subordinated to all Senior Indebtedness (as defined in the
+Debentures), including indebtedness under the Credit Agreement.
+
+ 
+
+Warrants
+
+ 
+
+At
+the Closing, the Company issued to Investors Warrants to purchase an aggregate of up to 4,343,432 shares of Common Stock (including
+Warrants to purchase up to 2,000,000 shares, 883,057 shares, and 300,000 shares issued to Holdings, the Sponsor and MasTec, respectively,
+as part of the Units issued to them), at an exercise price of $0.01 per share. The Warrants are exercisable at any time through
+the fifth anniversary of the date of issuance. The number of shares issuable upon exercise of each Warrant is subject to customary
+adjustments for stock dividends, stock splits, reclassifications and the like.
+
+ 
+
+Guaranty
+
+ 
+
+At
+the Closing, the Surviving Corporation and its subsidiaries issued to the Investors a Guaranty, pursuant to which such entities
+jointly and severally guaranteed the obligations of the Company under the Debentures.
+
+ 
+
+The
+foregoing descriptions of the Debentures, the Warrants and the Guaranty do not purport to be complete and are qualified in its
+entireties by the terms and conditions of the form of Debentures, form of Warrants and the Guaranty, which are filed as Exhibit
+10.4, Exhibit 10.5 and Exhibit 10.6, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Item
+2.01. Completion of Acquisition or Disposition of Assets
+
+ 
+
+The
+disclosure set forth under “Introductory Note” above is incorporated in this Item 2.01 by reference. The material
+provisions of the Agreement are described in the Proxy Statement, in the section entitled “The Business Combination Agreement”,
+beginning on page 104, which is incorporated herein by reference. On February 27, 2020, the Merger was approved by AVCT’s
+stockholders at the special meeting of AVCT’s stockholders. The Merger was completed on April 7, 2020.
+
+ 
+
+As
+of the date of the Closing:
+
+ 
+
+
+●Computex
+                                         merged with and into Merger Sub, with Merger Sub surviving the Merger as a wholly-owned
+                                         direct subsidiary of AVCT, on the terms and subject to the conditions set forth in the
+                                         Agreement;
+
+
+
+
+●all
+                                         shares of Computex common stock issued and outstanding immediately prior to the Effective
+                                         Time were canceled;
+
+
+
+
+●all
+                                         shares of Computex common stock held in the treasury of Computex were canceled without
+                                         any conversion thereof;
+
+
+
+
+●each
+                                         share of common stock of Merger Sub issued and outstanding immediately prior to the Effective
+                                         Time was converted into and exchanged for one validly issued, fully paid and nonassessable
+                                         share of Common Stock, par value $0.01 per share, of the Surviving Corporation; and
+
+
+
+
+●AVCT
+                                         delivered to Holdings (i) the Stock Consideration, consisting of 8,189,490 shares of
+                                         Common Stock of AVCT and (ii) the PIPE Consideration, consisting of 20,000 Units (as
+                                         defined below).
+
+ 
+
+Cautionary
+Note Regarding Forward-Looking Statements
+
+ 
+
+Certain
+statements in this Current Report on Form 8-K may constitute “forward-looking statements” for purposes of the federal
+securities laws. Our forward-looking statements include, but are not limited to, statements regarding our or our management team’s
+expectations, hopes, beliefs, intentions or strategies regarding the future. In addition, any statements that refer to projections,
+forecasts or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking
+statements. The words “anticipate,” “believe,” “continue,” “could,” “estimate,”
+“expect,” “intends,” “may,” “might,” “plan,” “possible,”
+“potential,” “predict,” “project,” “should,” “would” and similar expressions
+may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking.
+Forward-looking statements in this Current Report on Form 8-K may include, for example, statements about:
+
+ 
+
+
+●the
+                                         benefits of the Merger;
+
+
+
+
+●our
+                                         future financial performance following the Merger;
+
+
+
+
+●changes
+                                         in our strategy, future operations, financial position, estimated revenues and losses,
+                                         projected costs, prospects and plans;
+
+
+
+
+●our
+                                         ability to complete acquisitions of other businesses;
+
+
+
+
+●expansion
+                                         plans and opportunities; and
+
+
+
+
+●the
+                                         outcome of any known and unknown litigation and regulatory proceedings.
+
+ 
+
+These
+forward-looking statements are based on information available as of the date of this Current Report on Form 8-K, and current expectations,
+forecasts and assumptions, and involve a number of judgments, risks and uncertainties. Accordingly, forward-looking statements
+should not be relied upon as representing our views as of any subsequent date, and we do not undertake any obligation to update
+forward-looking statements to reflect events or circumstances after the date they were made, whether as a result of new information,
+future events or otherwise, except as may be required under applicable securities laws.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+As
+a result of a number of known and unknown risks and uncertainties, our actual results or performance may be materially different
+from those expressed or implied by these forward-looking statements. Some factors that could cause actual results to differ include:
+
+ 
+
+
+●the
+                                         ability to maintain the listing of Common Stock on the Nasdaq Stock Market (“Nasdaq”)
+                                         following the Merger;
+
+
+
+
+●the
+                                         risk that the Merger disrupts current plans and operations as a result of the consummation
+                                         of the transactions described herein;
+
+
+
+
+●our
+                                         ability to recognize the anticipated benefits of the Merger, which may be affected by,
+                                         among other things, competition and the ability of the Company to grow and manage growth
+                                         profitably following the Merger;
+
+
+
+
+●costs
+                                         related to the Merger;
+
+
+
+
+●adverse
+                                         effects that the novel coronavirus (COVID-19) may have on the Company and/or the economy
+                                         in general;
+
+
+
+
+●changes
+                                         in applicable laws or regulations;
+
+
+
+
+●the
+                                         possibility the Company may be adversely affected by other economic, business, and/or
+                                         competitive factors; and
+
+
+
+
+●other
+                                         risks and uncertainties including those set forth in the “Risk Factors” section
+                                         in the Proxy Statement beginning on page 29 of the Proxy Statement, which is incorporated
+                                         herein by reference.
+
+ 
+
+Business
+and Properties
+
+ 
+
+The
+business and properties of Computex prior to the Merger are described in the Proxy Statement in the section entitled “Information
+About Computex” beginning on page 133, which is incorporated herein by reference. The business of AVCT prior to the Merger
+is described in the Proxy Statement in the section entitled “Information About Pensare” beginning on page 163, which
+is incorporated herein by reference.
+
+ 
+
+Risk
+Factors
+
+ 
+
+The
+risk factors related to Computex’s business and operations are described in the Proxy Statement in the section entitled
+“Risk Factors” beginning on page 29, which is incorporated herein by reference.
+
+ 
+
+Unaudited
+Pro Forma Condensed Combined Financial Information
+
+ 
+
+The
+unaudited pro forma condensed combined financial information of the Company for the years ended December 31, 2019 and 2018 is
+set forth in Exhibit 99.1 hereto and is incorporated herein by reference.
+
+ 
+
+Management’s
+Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+Management’s
+discussion and analysis of financial condition and results of operations of Computex for the for the years ended December 31,
+2019, 2018 and 2017 is set forth in Exhibit 99.3 hereto and is incorporated herein by reference.
+
+ 
+
+Security
+Ownership of Certain Beneficial Owners and Management
+
+ 
+
+The
+following table sets forth information known to the Company regarding the beneficial ownership of Common Stock immediately following
+consummation of the Transactions by:
+
+ 
+
+
+●each
+                                         person who is the beneficial owner of more than 5% of the outstanding shares of Common
+                                         Stock;
+
+
+
+
+●each
+                                         of our officers and directors as of the Closing; and
+
+
+
+
+●all
+                                         current officers and directors of the Company, as a group.
+
+ 
+
+Beneficial
+ownership is determined according to the rules of the SEC, which generally provide that a person has beneficial ownership of a
+security if he, she or it possesses sole or shared voting or investment power over that security or has the right to acquire securities
+within 60 days, including options and warrants that are currently exercisable or exercisable within 60 days.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+Unless
+otherwise indicated, we believe that all persons named in the table have sole voting and investment power with respect to all
+shares beneficially owned by them. The calculation of percentage of beneficial ownership is based on 19,635,830 shares of Common
+Stock that were outstanding upon the Closing, including the 3,105,000 shares that were issued as a result of the conversion of
+the Company’s rights.
+
+ 
+
+
+
+
+
+     
+     
+    After the Transaction
+     
+
+    Name and Address of Beneficial Owner(1)
+     
+    Number of Shares of Common Stock Beneficially Owned
+     
+     
+    Percentage of Outstanding Shares of Common Stock
+     
+
+    Directors and Executive Officers of the Company:
+     
+     
+     
+     
+     
+     
+     
+     
+
+    Pensare Sponsor Group, LLC
+     
+     
+    16,278,433
+    (2)(3)
+     
+     
+    54.1
+    %
+
+    Darrell J. Mays
+     
+     
+    16,375,897
+    (2)(3)(4)
+     
+     
+    54.2
+    %
+
+    Lawrence E. Mock, Jr.(5)
+     
+     
+    194,928
+    (6)
+     
+     
+    *
+     
+
+    Dr. Robert Willis(5)
+     
+     
+    —
+     
+     
+     
+    —
+     
+
+    Tom King
+     
+     
+    —
+     
+     
+     
+    —
+     
+
+    Graham McGonigal
+     
+     
+    —
+     
+     
+     
+    —
+     
+
+    Sam Haffar
+     
+     
+    —
+     
+     
+     
+    —
+     
+
+    Mark Downs
+     
+     
+    —
+     
+     
+     
+    —
+     
+
+    U. Bertram Ellis, Jr.
+     
+     
+    124,464
+    (7)
+     
+     
+    *
+     
+
+    Suzanne Shank
+     
+     
+    27,000
+     
+     
+     
+    *
+     
+
+    Karl Krapek
+     
+     
+    27,000
+     
+     
+     
+    *
+     
+
+    Dennis Lockhart
+     
+     
+    27,000
+     
+     
+     
+    *
+     
+
+    Dr. Klaas Baks
+     
+     
+    27,000
+     
+     
+     
+    *
+     
+
+    All directors and executive officers as a group (ten individuals)
+     
+     
+    16,803,289
+     
+     
+     
+    55.1
+    %
+
+    Five Percent or More Holders and Certain Other Holders:
+     
+     
+     
+     
+     
+     
+     
+     
+
+    MasTec, Inc.(8)
+     
+     
+    4,870,565
+     
+     
+     
+    21.4
+    %
+
+    Navigation Capital Partners II, L.P.(9)
+     
+     
+    15,986,591
+     
+     
+     
+    58.3
+    %
+
+
+
+  
+
+
+
+ 
+
+
+
+*
+Less than 1%.
+
+ 
+
+
+
+    (1)
+    Unless otherwise indicated, the business address of
+each of the persons and entities is 1720 Peachtree Street, Suite 629, Atlanta, GA 30309.
+
+
+
+ 
+
+
+
+    (2)
+    Represents shares held by Pensare Sponsor Group, LLC,
+of which Mr. Mays is the managing member.
+
+
+
+ 
+
+
+
+    (3)
+    Includes 7,017,290 shares of Common Stock underlying
+the Private Placement Warrants which may be exercised commencing 30 days after the Closing, 883,057 shares of Common Stock underlying
+Warrants and 2,559,586 shares of Common Stock underlying Debentures in the principal amount of $8,830,570.
+
+
+
+  
+
+
+
+    (4)
+    Includes 25,000 shares of Common Stock underlying Warrants and 72,464 shares of Common Stock underlying Debentures in the principal amount of $250,000 held directly by Mr. Mays’ daughter.
+
+
+
+  
+
+
+
+    (5)
+    Mr. Mock, Dr. Willis and Mr. Foley hold economic interests
+in Pensare Sponsor Group, LLC and pecuniary interests in the securities held by Pensare Sponsor Group, LLC. Each of Mr. Mock,
+Dr. Willis and Mr. Foley disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein.
+
+
+
+ 
+
+
+
+    (6)
+    Includes 194,928 shares of Common Stock underlying Units
+consisting of warrants to purchase 50,000 shares of Common Stock and Series A convertible debentures in the principal amount of
+$500,000 held directly by Nobadeer LP and indirectly by Lawrence E. Mock, Jr. who is the general partner of Nobadeer LP. Mr. Mock
+disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein.
+
+
+
+ 
+
+
+
+    (7)
+    Includes 97,464 shares of Common Stock underlying Units
+consisting of warrants to purchase 25,000 shares of Common Stock and Series A convertible debentures in the principal amount of
+$250,000.
+
+
+
+ 
+
+
+
+    (8)
+    According to a Form 3 filed with the SEC on July 3,
+2019, as amended, and a Form 4 filed with the SEC on April 8, 2020. Includes 2,000,000 shares of Common Stock underlying the Private
+Placement Warrants which may be exercised commencing 30 days after the closing, 300,000 shares of Common Stock underlying Warrants
+and 869,565 shares of Common Stock underlying Debentures in the principal amount of $3,000,000. The business address of this stockholder
+is 800 S Douglas Road, 12th Floor Coral Gables, FL 33134.
+
+
+
+ 
+
+
+
+    (9)
+    Includes 8,189,490 shares of Common Stock delivered
+to Holdings as the Stock Consideration, 200,000 shares of Common Stock underlying Warrants and 5,797,101 shares of Common Stock
+underlying Debentures in the principal amount of $20,000,000. Holdings is controlled by Navigation Capital Partners II, L.P. The
+business address of this stockholder is 1175 Peachtree Street NE, 10th Floor, Atlanta, GA 30361.
+
+
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+Directors
+and Executive Officers
+
+ 
+
+Information
+with respect to the Company’s directors and executive officers immediately after the Closing is set forth in the Proxy Statement
+in the section entitled “Directors and Executive Officers” beginning on page 170 of the Proxy Statement, which is
+incorporated herein by reference. Each of AVCT’s prior directors and executive officers continued to serve in their prior
+positions following the Closing, with the exception of John Foley, who resigned from his position as the Chief Financial Officer
+of AVCT upon the Closing. In addition, the Company’s board of directors expanded the board of directors from seven members
+to eight members, appointed Sam Haffar and Mark Downs to serve on the board of directors of the Company upon the Closing, and
+appointed Tom King to replace John Foley as the Chief Financial Officer of the Company upon the Closing. The biographical information
+of Mr. Haffar, Mr. Downs and Mr. King is set forth below:
+
+ 
+
+Sam
+Haffar has served as Computex, Inc.’s Chief Executive Officer and President at different times over 30 years. Mr. Haffar,
+along with his brother founded, Computex, Inc. in 1987 and has helped grow Computex, Inc. to be an industry leading solution provider
+that has been recognized by industry publications such as CRN. Mr. Haffar also serves on the Cisco and Hewlett Packard Enterprise
+advisory boards and provides strategic direction and feedback to some of Computex’s OEM partners. Mr. Haffar is a graduate
+of the University of Houston and holds a Bachelor's degree in Computer Science.
+
+ 
+
+Mark
+Downs is the founder of Navigation Capital Partners, a private equity firm where he has served as a partner since January 2007.
+Mr. Downs has in excess of 20 years of experience serving on for profit boards of directors as a control investor. Mr. Downs has
+served as a director of Computex, Inc. from January 2017 to April 2020; a director of Stratos Management Systems, Inc. from January
+2017 to April 2020; a director of Stratos Management Systems Holdings, LLC January 2017 to April 2020; a director of Michon, Inc.
+(d/b/a Definition6) from July 2015 to the present; a director of Brown Integrated Logistics, Inc. from January 2017 to the present;
+a director of Brightwell Payments, Inc. from May 2015 to Present; and a director of Five Star Food Service, Inc. from October
+2016 to March 2019. Mr. Downs holds a Bachelor’s degree in Economics from the University of Pittsburgh and a Master’s
+of Management degree from Northwestern University.
+
+ 
+
+Thomas H. King was the
+Chief Financial Officer of Tier One Holding Corp. and its subsidiaries from January 2017 to June 2019, after serving as its interim
+Chief Financial Officer from January 2016 to December 2017. Prior to January 2016, Mr. King served as Chief Financial Officer
+to numerous private equity sponsored companies primarily as an engagement partner with Tatum, a Randstad Company. Also while at Tatum,
+he was Chief Financial Officer at Allied Systems Holdings, Inc. from August 2004 until September 2008 and served as Vice President-Finance
+at Rock-Tenn Company (currently known as WestRock Company) from November 2000 to July 2004. Mr. King was also an Assurance Manager
+at PricewaterhouseCoopers. Mr. King received a MS Industrial Administration from Carnegie-Mellon University and a BS in Business
+Administration from Pennsylvania State University.
+
+ 
+
+Committees
+of the Board of Directors
+
+ 
+
+The
+committees of AVCT’s board of directors remained unchanged following the Closing. Information with respect to the Company’s
+directors and executive officers immediately after the Closing is set forth in the Proxy Statement in the section entitled “Committees
+of the Board of Directors” beginning on page 173 of the Proxy Statement, which is incorporated herein by reference.
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+Independence
+of Directors
+
+ 
+
+Nasdaq
+listing standards require that a majority of our board of directors be independent. An “independent director” is defined
+generally as a person other than an officer or employee of the company or its subsidiaries or any other individual having a relationship
+which, in the opinion of the Company’s board of directors, would interfere with the director’s exercise of independent
+judgment in carrying out the responsibilities of a director. AVCT’s board of directors has determined that Messrs. U. Bertram
+Ellis, Jr., Karl Krapek, Dennis Lockhart, Dr. Klaas Baks and Ms. Suzanne Shank are “independent directors” as defined
+in the Nasdaq listing.
+
+ 
+
+Director
+and Executive Officer Compensation
+
+ 
+
+Pre-Closing
+Compensation of Executive Officers and Directors
+
+ 
+
+The
+compensation of Computex’s named executive officers and directors before the consummation of the Merger is set forth in
+the Proxy Statement in the section titled “Executive Compensation of Computex” beginning on page 142, which is incorporated
+herein by reference.
+
+ 
+
+Post-Closing
+Compensation of Executive Officers and Directors
+
+ 
+
+The
+compensation of the Company’s named executive officers and directors after the consummation of the Merger is set forth in
+the Proxy Statement in the section titled “Information About Pensare—Executive Compensation” beginning on page
+175, which is incorporated herein by reference.
+
+ 
+
+Mr.
+Haffar, in addition to being a director of the AVCT, will continue to serve as the Chief Executive Officer of Computex, whereby
+he will receive a base salary and discretionary annual cash bonus as compensation for his services.
+
+ 
+
+American
+Virtual Cloud Technologies, Inc. 2020 Equity Incentive Plan
+
+ 
+
+On
+February 27, 2020, the stockholders of AVCT approved the American Virtual Cloud Technologies, Inc. 2020 Equity Incentive Plan
+(the “2020 Plan”), effective upon Closing. The description of the 2020 Plan is set forth in the Proxy Statement section
+titled “Proposal No. 3—Incentive Plan Proposal” beginning on page 122 of the Proxy Statement, which is incorporated
+herein by reference. A copy of the full text of the 2020 Plan is filed as Exhibit 10.3 to this Current Report on Form 8-K.
+
+ 
+
+Director
+Compensation
+
+ 
+
+The
+compensation committee will determine the annual compensation to be paid to the members of the board of directors of the Company.
+
+ 
+
+Certain
+Relationships and Related Party Transactions
+
+ 
+
+Information
+about related party transactions of AVCT is set forth in the Proxy Statement in the section entitled “Certain Pensare Relationships
+and Related Person Transactions” beginning on page 186 of the Proxy Statement.
+
+ 
+
+Information
+about related party transactions of Computex is set forth in the Proxy Statement in the section entitled “Certain Computex
+Relationships and Related Person Transactions” beginning on page 162 of the Proxy Statement.
+
+ 
+
+
+
+
+
+    7
+     
+    
+
+ 
+
+Legal
+Proceedings
+
+ 
+
+Information
+about legal proceedings of Computex is set forth in the Proxy Statement in the section entitled “Information About Computex—Litigation”
+beginning on page 140, which is incorporated herein by reference.
+
+ 
+
+Market
+Price and Dividends
+
+ 
+
+AVCT’s
+units, shares of Common Stock, warrants and rights were historically quoted on Nasdaq under the symbols “WRLSU” “WRLS”,
+“WRLSW”, and “WRLSR” respectively. AVCT units commenced public trading on July 27, 2017, and the holders
+of AVCT’s units could elect to separately trade the Common Stock, warrants and rights underlying the units commencing on
+August 8, 2017. On July 23, 2019, the trading date before the public announcement of the Agreement, the Common Stock traded at
+$10.70.
+
+ 
+
+On
+April 8, 2020, in connection with the Closing, all of the units of AVCT separated into their component parts of one-half of one
+warrant (each whole warrant entitling the holder thereof to purchase one share of Common Stock) and one right to receive one-tenth
+of one share of Common Stock. The rights were converted into an aggregate of 3,105,000 shares of Common Stock, and the rights
+and units ceased trading on Nasdaq. As of the Closing Date, there were eleven holders of record of Common Stock.
+
+ 
+
+Shares
+of Common Stock and warrants of the Company are listed on the Nasdaq under the new trading symbols of “AVCT” and “AVCTW,”
+respectively.
+
+ 
+
+Historical
+market information regarding the Company is not provided because there has been no public market for Computex’s equity securities.
+
+ 
+
+AVCT
+has not paid any cash dividends on any shares of Common Stock to date. The board of directors is not currently contemplating,
+and does not anticipate declaring, any stock dividends in the foreseeable future. Further, our ability to declare dividends may
+be limited by restrictive covenants contained in any existing or future indebtedness of the Company.
+
+ 
+
+Recent
+Sales of Unregistered Securities
+
+ 
+
+In
+addition to the below, information about unregistered sales of AVCT’s equity securities is set forth in “Item 15.
+Recent Sales of Unregistered Securities” of AVCT’s Registration Statement on Form S-1 (File No. 333-219162) filed
+with the SEC on July 6, 2017 as amended on July 21, 2017, as amended as amended on July 24, 2017, as amended on July 26, 2017.
+
+ 
+
+The
+information set forth under the heading “Debentures, Warrants and Guaranty” in Item 1.01 of this Current Report on
+Form 8-K is incorporated in this Item 2.01 by reference.
+
+ 
+
+Description
+of the Company’s Securities
+
+ 
+
+A
+description of the shares of Common Stock and the Company’s warrants is included in the Proxy Statement in the section entitled
+“Description of Pensare Securities” beginning on page 190 of the Proxy Statement, which is incorporated by reference
+herein.
+
+ 
+
+As
+of the Closing, the Company has authorized 505,000,000 shares of capital stock, consisting of (a) 500,000,000 shares of Common
+Stock, par value $0.0001 per share and (b) 5,000,000 shares of preferred stock, par value $0.0001 per share.
+
+ 
+
+As
+of the Closing Date, there were: (a) eleven holders of record of Common Stock and 19,635,830 shares of Common Stock outstanding;
+and (b) four holders of record of warrants and 26,037,500 warrants outstanding.
+
+ 
+
+Financial
+Statements and Supplementary Data
+
+ 
+
+The
+information set forth under Item 9.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+ 
+
+
+
+
+    8
+     
+    
+
+ 
+
+Item
+2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of the Registrant.
+
+ 
+
+The
+information set forth under the headings “Third Amendment to Loan Documents” and “Debentures, Warrants and Guaranty”
+in Item 1.01 of this Current Report on Form 8-K is incorporated in this Item 2.03 by reference.
+
+
+
+ 
+
+Item
+3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+The
+information set forth under Item 2.01 of this Current Report on Form 8-K is incorporated in this Item 3.02 by reference.
+
+ 
+
+Item
+3.03. Material Modification to Rights of Security Holders.
+
+ 
+
+The
+information set forth under Item 5.03 of this Current Report on Form 8-K is incorporated in this Item 3.03 by reference.
+
+ 
+
+Item
+5.01. Changes in Control of Registrant.
+
+ 
+
+The
+information set forth under the “Introductory Note” and in Item 2.01 of this Current Report on Form 8-K is incorporated
+herein by reference.
+
+ 
+
+Item
+5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements
+of Certain Officers.
+
+ 
+
+The
+information set forth under Item 2.01 of this Current Report on Form 8-K is incorporated herein by reference. In addition, Jose
+Mas resigned as a director of the Company effective as of April 1, 2020.
+
+ 
+
+Item
+5.06. Change in Shell Company Status.
+
+ 
+
+As
+a result of the consummation of the Merger, which fulfilled the definition of an initial business combination as required by the
+Charter, AVCT ceased to be a shell company, as defined in Rule 12b-2 of the Exchange Act, as of the Closing Date. The material
+terms of the Merger are described in the Proxy Statement in the section entitled “The Business Combination” beginning
+on page 65, which is incorporated herein by reference.
+
+ 
+
+
+
+
+    9
+     
+    
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+ 
+
+(a)       Financial
+Statements of Businesses Acquired
+
+ 
+
+Management’s
+Discussion and Analysis of Financial Condition and Results of Operations of Computex for the years ended December 31, 2019, 2018
+and 2017 is set forth in Exhibit 99.3 hereto and is incorporated herein by reference.
+
+ 
+
+The
+audited financial statements of Computex for the year ended December 31, 2019 are set forth in Exhibit 99.2 hereto and are incorporated
+herein by reference. The audited financial statements of Computex for the years ended December 31, 2018, 2017 and 2016 are set
+forth in the Proxy Statement beginning on page F-51 and are incorporated herein by reference.
+
+ 
+
+(b)       Pro
+Forma Financial Information
+
+ 
+
+The
+unaudited pro forma condensed combined financial information of the Company for the years ended December 31, 2019 and 2018 are
+set forth in Exhibit 99.1 hereto and is incorporated herein by reference.
+
+ 
+
+(d)       Exhibits.
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Exhibit
+
+    2.1
+     
+    Business Combination Agreement, dated as of July 24, 2019, by and among AVCT, Merger Sub, Holdings, and Computex (incorporated by reference to Exhibit 2.1 to AVCT’s Current Report on Form 8-K filed July 30, 2019).
+
+    2.2
+     
+    Amendment No. 1 to the Business Combination Agreement, dated as of December 20, 2019, by and among AVCT, Merger Sub, Holdings, and Computex (incorporated by reference to Exhibit 2.2 to AVCT’s Current Report on Form 8-K filed December 30, 2019).
+
+    2.3
+     
+    Amendment No. 2 to the Business Combination Agreement, dated as of April 3, 2020, by and among AVCT, Merger Sub, Holdings, and Computex (incorporated by reference to Exhibit 2.3 to AVCT’s Current Report on Form 8-K filed April 7, 2020).
+
+    10.1
+     
+    Securities Purchase Agreement, dated as of April 3, 2020, by and among AVCT and certain Investors (incorporated by reference to Exhibit 10.1 to AVCT’s Current Report on Form 8-K filed April 7, 2020). 
+
+    10.2
+     
+    Third Amendment to Loan Documents, dated as of April 7, 2020, by and among Computex, AVCT, Computex, Inc., First Byte Computers, Inc., eNETSolutions, LLC and Comerica Bank.
+
+    10.3
+     
+    Registration Rights Agreement, dated as of April 7, 2020, by and among AVCT and certain stockholders and Investors.
+
+    10.4
+     
+    American Virtual Cloud Technologies, Inc. 2020 Equity Incentive Plan.
+
+    10.5
+     
+    Form of Convertible Debenture.
+
+    10.6
+     
+    Form of Warrant.
+
+    10.7
+     
+    Guaranty, dated as of April 7, 2020, issued by Computex, AVCT, Computex, Inc., First Byte Computers, Inc. and eNETSolutions, LLC.
+
+    99.1
+     
+    Unaudited pro forma condensed combined financial information of the Company for the years ended December 31, 2019 and 2018.
+
+    99.2
+     
+    Audited Consolidated Financial Statements of Computex as of December 31, 2019 and 2018 and for the years ended December 31, 2019, 2018 and 2017.
+
+    99.3
+     
+    Management’s Discussion and Analysis of Financial Condition and Results of Operations of Computex for the for the years ended December 31, 2019, 2018 and 2017.
+
+
+
+
+
+
+ 
+
+
+
+
+    10
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, hereunto duly authorized.
+
+ 
+
+Dated:
+April 14, 2020
+
+ 
+
+
+
+     
+    American
+    Virtual Cloud Technologies, Inc. 
+
+     
+     
+     
+
+     
+    By:
+    /s/ Darrell
+    J. Mays
+
+     
+    Name:
+    Darrell J.
+    Mays
+
+     
+    Title:
+    Chief Executive
+    Officer
+
+ 
+
+ 
+
+11 
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+

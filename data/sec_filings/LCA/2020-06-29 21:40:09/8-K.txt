@@ -1,0 +1,731 @@
+
+8-K
+1
+tm2023623d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+June 28, 2020
+
+
+
+LANDCADIA HOLDINGS II, INC.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware
+    001-38893
+    83-3593048
+
+    (State or other jurisdiction
+of incorporation)
+    (Commission
+File Number)
+    (IRS Employer
+Identification No.)
+
+ 
+
+1510 West Loop South, Houston, Texas
+77027
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: 713-850-1010
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    x
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
+     
+    LCAHU
+     
+    The Nasdaq Capital Market LLC
+
+    Class A common stock, par value $0.0001 per share
+     
+    LCA
+     
+    The Nasdaq Capital Market LLC
+
+    Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share
+     
+    LCAHW
+     
+    The Nasdaq Capital Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth
+company x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+ 
+
+
+
+
+
+     
+     
+    
+ 
+
+
+    
+    Item 1.01
+    Entry into a Material Definitive Agreement.
+
+ 
+
+On June 29, 2020,
+Landcadia Holdings II, Inc. (the “Company”) and Tilman Fertitta announced that on June 28, 2020,
+the Company entered into a Purchase Agreement (the “Purchase Agreement”) with LHGN HoldCo, LLC, a
+Delaware limited liability company (“Landcadia HoldCo”), Golden Nugget Online Gaming, Inc. (f/k/a
+Landry’s Finance Acquisition Co.), a New Jersey corporation (“GNOG Inc.”), GNOG Holdings,
+LLC, a Delaware limited liability company (“GNOG HoldCo”), and Landry’s Fertitta, LLC, a
+Texas limited liability company (“LF LLC”). The transactions contemplated by the Purchase Agreement
+are referred to herein as the “Transactions”.
+
+ 
+
+This Current Report on Form 8-K is being filed to describe the
+material terms of the Purchase Agreement which is filed as Exhibit 2.1.
+
+ 
+
+Purchase Agreement
+
+ 
+
+Consideration and
+Structure 
+
+ 
+
+Pursuant to the Purchase
+Agreement, subject to the satisfaction or waiver of certain conditions set forth therein, at the time of the closing of the Transactions
+(the “Closing”), LF LLC will contribute all of the membership interests in GNOG HoldCo to Landcadia HoldCo,
+a newly created, wholly-owned subsidiary of the Company (the “GNOG Contribution”), in exchange for (i)
+31,350,625 Class B membership interests in Landcadia HoldCo (the “HoldCo Class B Units”) and (ii) 31,350,625
+shares of a new non-economic Class B common stock of the Company (the “New Class B Common Stock”), which
+will be created as of the Closing (subject to Stockholder Approval (as defined below)) and will entitle the holder to ten votes
+per share subject to the limitations described below (the “High Voting Rights”), and which will replace
+the Company’s existing Class B common stock (the “Existing Class B Common Stock”) at the Closing.
+Prior to the Closing, GNOG Inc. will merge with and into Golden Nugget Online Gaming, LLC, a New Jersey limited liability company
+(“GNOG LLC”) with GNOG LLC surviving as a direct, wholly owned subsidiary of GNOG HoldCo.
+
+ 
+
+Following the Closing,
+the combined Company will be organized in an “Up-C” structure in which substantially all the assets and the business
+of the combined Company will be held indirectly by Landcadia HoldCo, and the Company’s only direct assets will consist of
+Class A membership interests of Landcadia HoldCo. The combined Company’s business will continue to operate through GNOG LLC.
+The Company is expected to own approximately 48% of the combined membership interests in Landcadia HoldCo and will control Landcadia
+HoldCo as the sole manager of Landcadia HoldCo in accordance with the terms of the amended and restated limited liability agreement
+of Landcadia HoldCo to be entered into in connection with the Closing (the “HoldCo LLC Agreement”). Beginning
+six months after the Closing, each HoldCo Class B Unit to be held by LF LLC may be exchanged for one share of the Company’s
+Class A common stock (“Class A Common Stock”). One share of the New Class B Common Stock held by LF LLC
+will be canceled for each HoldCo Class B Unit exchanged.
+
+ 
+
+Pursuant to the Purchase
+Agreement, in further consideration of the GNOG Contribution, the Company will pay to LF LLC cash consideration in an amount of
+$30 million and will repay one-half of the existing debt of GNOG Inc. under an existing credit agreement (the “Credit
+Agreement”) in an amount of $150 million, together with related prepayment fees and expenses in an amount of approximately
+$24 million. Following the Closing, GNOG will remain liable for the remaining principal balance of $150 million under the Credit
+Agreement. In addition, GNOG LLC will pay certain expenses incurred in connection with the Transaction and the Credit Agreement.
+
+ 
+
+Upon consummation of
+the Transactions contemplated by the Purchase Agreement, the Company will change its name to Golden Nugget Online Gaming, Inc.
+
+ 
+
+Representations, Warranties and Covenants
+
+ 
+
+The parties to the
+Purchase Agreement have agreed to customary representations, warranties and covenants in the Purchase Agreement, including, among
+others, covenants with respect to the conduct of GNOG HoldCo, GNOG Inc., GNOG LLC and their respective subsidiaries during the
+period between execution of the Purchase Agreement and the Closing. Each of the Company, Landcadia HoldCo, GNOG Inc., GNOG HoldCo
+and LF LLC has agreed to use its commercially reasonable efforts to cause the Transactions to be consummated reasonably promptly
+after the date of the execution of the Purchase Agreement. The representations and warranties of the parties to the Purchase Agreement
+will not survive the Closing.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Conditions to Closing
+
+ 
+
+Under the Purchase
+Agreement, the obligations of the parties to consummate the Transactions are subject to the approval at a special meeting of the
+stockholders of the Company by (A)(i) a majority of the shares of the Company’s common stock voted at the meeting and (ii)
+a majority of the shares of Class A Common Stock outstanding and held by the stockholders of the Company other than those shares
+beneficially owned by Tilman J. Fertitta and Jefferies Financial Group, Inc. (“Jefferies”) (the “Disinterested
+Stockholders”) and (B) with respect to the amendments to the Company’s Certificate of Incorporation necessary
+to effect the Transactions, (i) a majority of the shares of the Company’s common stock outstanding and (ii) a majority of
+the shares of Class A Common Stock outstanding and held by the Disinterested Stockholders (collectively, the “Stockholder
+Approval”). In addition, the Closing is subject to, among other conditions, (i) the expiration or termination of
+any applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, (ii) the receipt of all
+necessary permits, approvals, clearances, licenses, and consents of, or filings with, any governmental or regulatory authorities
+(including all relevant approvals and licenses required under applicable gaming law to operate in the ordinary course the business
+of GNOG Inc., or GNOG LLC as its successor), and (iii) material compliance by the parties with their respective pre-Closing and
+Closing obligations and the accuracy of each party’s representations and warranties in the Purchase Agreement, in each case
+subject to the materiality standards contained in the Purchase Agreement.
+
+ 
+
+Termination
+
+ 
+
+The Purchase Agreement
+may be terminated at any time prior to the Closing upon the parties’ mutual written consent and in certain other circumstances,
+including, (i) by LF LLC or the Company if the Stockholder Approval is not obtained, (ii) by LF LLC if the board of directors of
+the Company (the “Board”) has withdrawn, amended, qualified or modified its recommendation to the Company’s
+stockholders, (iii) by LF LLC if the cash balance at GNOG LLC immediately following the Closing would be less than of $80 million,
+(iv) by LF LLC if there exists a deficiency under Nasdaq Listing Rule 5620(a) after December 31, 2020, or any other deficiency
+which causes a de-listing from Nasdaq to the Company prior to Closing (a “Listing Deficiency”), or (v)
+by LF LLC or the Company if the Closing has not occurred by January 30, 2021 and the delay is not due to the material breach of
+the Purchase Agreement by the party seeking termination.
+
+ 
+
+None of the parties
+to the Purchase Agreement is required to pay a termination fee; provided, however, that the Company may be required to reimburse
+GNOG Inc. for any and all expenses, including reasonable attorney’s fees, in the event that the Company (i) fails to obtain
+the Stockholder Approval or (ii) fails to cure any Listing Deficiency.
+
+ 
+
+Other Agreements
+
+ 
+
+The Purchase Agreement
+contemplates the execution of various additional agreements and instruments, on or before the Closing, including, among others,
+the following:
+
+ 
+
+Tax Receivable Agreement
+
+ 
+
+Prior to the Closing,
+the Company and LF LLC will negotiate a tax receivable agreement to be entered into at the Closing which will provide for payment
+by the Company to LF LLC in respect of 85% of the U.S. federal income tax savings (by way of increased depreciation and amortization
+deductions) allocable to the Company from Landcadia HoldCo subject to certain terms and conditions, to the extent arising from
+both (a) certain transactions contemplated under the Purchase Agreement and (b) the exchange of LF LLC’s HoldCo Class B Units
+for Class B Common Stock, as determined on a “with and without” basis, and for an early termination payment by the
+Company to LF LLC in the event of a change of control calculated using a mutually agreeable discount rate, subject to appropriate
+and customary limitations, including in connection with available cash flow and financing facilities.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Fourth Amended and
+Restated Certificate of Incorporation of the Company 
+
+ 
+
+The Company’s
+Fourth Amended and Restated Certificate of Incorporation, to be adopted by the Company at Closing will, among other things, authorize
+the issuance of the New Class B Common Stock, and will provide  that LF LLC will be able to exercise the High Voting Rights of
+the New Class B Common Stock only to the extent that the voting power held by Mr. Fertitta and certain of his affiliates does not
+exceed 79.9%. Any excess voting power will be automatically adjusted downward to 79.9%. The High Voting Rights will expire if and
+when the aggregate of (i) the number of shares of Class A Common Stock beneficially owned by Mr. Fertitta and certain of his affiliates,
+and (ii) the number of shares of Class A Common Stock into which the HoldCo Class B Units held by Mr. Fertitta and certain of his
+affiliates may be exchanged falls below 30% of the total number of Class A Common Stock issued and outstanding.
+
+ 
+
+Amended and Restated
+HoldCo LLC Agreement
+
+ 
+
+At the Closing, the
+Company, Landcadia HoldCo and LF LLC will enter into the Amended and Restated HoldCo LLC Agreement, which will provide, among other
+things, that after six months from the Closing, the HoldCo Class B Units held by LF LLC may be exchanged for shares of Class A
+Common Stock. One share of the New Class B Common Stock held by LF LLC will be canceled for each HoldCo Class B Unit exchanged.
+The Amended and Restated Holdco LLC Agreement provides for additional issuances of HoldCo Class B Units to LF LLC in consideration
+of payments to be made following Closing by LF LLC in connection with an existing intercompany agreement for the purpose of payment
+of interest under the Credit Agreement. The additional HoldCo LLC Class B Units will be issued at the then-current market price
+of the Class A Common Stock calculated as set forth in the Amended and Restated LLC Agreement.
+
+ 
+
+Amendment to Insider
+Letter
+
+ 
+
+At the Closing, certain
+insiders of the Company, including Jefferies and Fertitta Entertainment Inc., the co-sponsors of the Company, and certain of the
+Company’s directors, will enter into an amendment (the “Lock-Up Amendment”) to a letter agreement
+entered into on May 6, 2019 in connection with the Company’s initial public offering (the “Letter Agreement”),
+which adds an additional acceleration event as an exception to the lock-up period contemplated under the Letter Agreement based
+on a certain price target of the Company’s common stock following a period of 60 days after the Closing. The exceptions under
+the Letter Agreement and the Lock-Up Amendment do not apply to the HoldCo Class B Units or shares of New Class B Common Stock to
+be received by LF LLC pursuant to the Purchase Agreement.
+
+ 
+
+Amended and Restated
+Registration Rights Agreement 
+
+ 
+
+At the Closing, the
+Company and certain of its investors will amend and restate the existing registration rights agreement in a form mutually agreed
+by the Company and LF LLC.
+
+ 
+
+Approval by Independent Directors
+
+ 
+
+At a meeting held on
+May 29, 2020, the Board authorized the formation of a transaction review committee consisting solely of all the independent directors
+of the Company (the “Committee”) and authorized the Committee to engage independent financial advisors
+(the “Financial Advisor”). At a meeting held on June 28, 2020, following deliberations and receipt of
+a fairness opinion by the Financial Advisor, the Committee unanimously approved the Transactions and recommended their approval
+to the board of directors of the Company. At a subsequent meeting on the same day, the Board unanimously approved the Transactions
+and recommended their approval to the holders of the Company’s common stock.
+
+ 
+
+The Purchase Agreement
+is filed as Exhibit 2.1 to this Current Report on Form 8-K (this “Current Report”), and the foregoing
+description is qualified in its entirety by reference to the full text of the Purchase Agreement. The Purchase Agreement contains
+representations, warranties and covenants that the respective parties made to each other as of the date of such agreement or other
+specific dates. The assertions embodied in those representations, warranties and covenants were made for purposes of the contract
+among the respective parties and are subject to important qualifications and limitations agreed to by the parties in connection
+with negotiating the Purchase Agreement. The Purchase Agreement has been attached to provide investors with information regarding
+its terms. It is not intended to provide any other factual information about the parties to the Purchase Agreement. In particular,
+the representations, warranties, covenants and agreements contained in the Purchase Agreement, which were made only for purposes
+of the Purchase Agreement and as of specific dates, were solely for the benefit of the parties to the Purchase Agreement, may be
+subject to limitations agreed upon by the contracting parties (including being qualified by confidential disclosures made for the
+purposes of allocating contractual risk between the parties to the Purchase Agreement instead of establishing these matters as
+facts) and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to
+investors and reports and documents filed with the U.S. Securities and Exchange Commission (the “SEC”).
+Investors should not rely on the representations, warranties, covenants and agreements, or any descriptions thereof, as characterizations
+of the actual state of facts or condition of any party to the Purchase Agreement. In addition, the representations, warranties,
+covenants and agreements and other terms of the Purchase Agreement may be subject to subsequent waiver or modification. Moreover,
+information concerning the subject matter of the representations and warranties and other terms may change after the date of the
+Purchase Agreement, which subsequent information may or may not be fully reflected in the Company’s public disclosures.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+
+
+Forfeiture and Call-Option Agreement 
+
+In connection with
+the execution of the Purchase Agreement, Jefferies and the Company have entered into an agreement (the “Forfeiture
+and Call-Option Agreement”), pursuant to which, as of and contingent upon the Closing, Jefferies will forfeit two
+thirds (or 2,543,750) of its shares of the Existing Class B Common Stock. In addition, following and contingent upon the Closing,
+Jefferies has granted to the Company an option to repurchase any of Jefferies’ previously-issued private placement warrants
+exercisable to purchase shares of the Class A Common Stock, to the extent that Jefferies wishes to exercise or sell warrants, subject
+to certain terms and conditions set forth in the Forfeiture and Call-Option Agreement.
+
+ 
+
+The foregoing description of the Forfeiture
+and Call-Option Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the
+Forfeiture and Call-Option Agreement, a copy of which is filed as Exhibit 10.1 hereto and is incorporated by reference herein.
+
+ 
+
+
+
+    
+    Item 3.02
+    Unregistered Sales of Equity Securities.
+
+ 
+
+The disclosure set
+forth above in Item 1.01 of this Current Report on Form 8-K with respect to the issuance of the Company’s common
+stock pursuant to the Purchase Agreement is incorporated by reference herein. The
+common stock issuable in connection with the transactions contemplated by the Transactions
+will not be registered under the Securities Act of 1933, as amended (the “Securities Act”), in reliance
+on the exemption from registration provided by Section 4(a)(2) of the Securities Act and/or Regulation D promulgated thereunder.
+
+
+ 
+
+Important Information About the Transactions and Where
+to Find It
+
+ 
+
+In connection with
+the proposed Transactions, the Company intends to file a preliminary proxy statement and a definitive proxy statement with the
+SEC. The Company’s stockholders and other interested persons are advised to read, when available, the preliminary proxy
+statement and the amendments thereto and the definitive proxy statement and documents incorporated by reference therein filed in
+connection the Transactions, as these materials will contain important information about GNOG Inc., the Company and the Transactions.
+When available, the definitive proxy statement and other relevant materials for the Transactions will be mailed to stockholders
+of the Company as of a record date to be established for voting on the Transactions. Stockholders of the Company will also be able
+to obtain copies of the preliminary proxy statement, the definitive proxy statement and other documents filed with the SEC that
+will be incorporated by reference therein, without charge, once available, at the SEC’s web site at www.sec.gov, or by directing
+a request to: Landcadia Holdings II, Inc., 1510 West Loop South, Houston, Texas 77027, Attention: General Counsel, (713) 850-1010.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+The Company and its
+directors and executive officers may be deemed participants in the solicitation of proxies from the Company’s stockholders
+with respect to the Transactions. A list of the names of those directors and executive officers and a description of their interests
+in the Company is contained in the Company’s annual report on Form 10-K for the fiscal year ended December 31, 2019, which
+was filed with the SEC and is available free of charge at the SEC’s web site at www.sec.gov, or by directing a request to
+Landcadia Holdings II, Inc., 1510 West Loop South, Houston, Texas 77027, Attention: General Counsel, (713) 850-1010. Additional
+information regarding the interests of such participants will be contained in the proxy statement for the Transactions when available.
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+
+
+Forward-Looking Statements
+
+ 
+
+This Current Report
+on Form 8-K includes “forward-looking statements” within the meaning of the “safe harbor” provisions of
+the Private Securities Litigation Reform Act of 1995. The Company’s and GNOG Inc.’s actual results may differ from
+their expectations, estimates and projections and consequently, you should not rely on these forward looking statements as predictions
+of future events. Words such as “expect,” “estimate,” “project,” “budget,” “forecast,”
+ “anticipate,” “intend,” “plan,” “may,” “will,” “could,”
+ “should,” “believes,” “predicts,” “potential,” “continue,” and similar
+expressions are intended to identify such forward-looking statements. These forward-looking statements include, without limitation,
+the Company’s and GNOG Inc.’s expectations with respect to future performance and anticipated financial impacts of
+the Transactions, the satisfaction of the closing conditions to the Transactions and the timing of the completion of the Transactions.
+These forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially
+from the expected results. Most of these factors are outside the Company’s and GNOG Inc.’s control and are difficult
+to predict. Factors that may cause such differences include, but are not limited to: (1) the occurrence of any event, change or
+other circumstances that could give rise to the termination of the Purchase Agreement, (2) the outcome of any legal proceedings
+that may be instituted against the Company and GNOG Inc. following the announcement of the Purchase Agreement and the transactions
+contemplated therein; (3) the inability to complete the proposed transaction, including due to failure to obtain approval of the
+stockholders of the Company, certain regulatory approvals or satisfy other conditions to closing in the Purchase Agreement;(4)
+the occurrence of any event, change or other circumstance that could give rise to the termination of the Purchase Agreement or
+could otherwise cause the transaction to fail to close; (5) the impact of COVID-19 on GNOG Inc.’s business and/or the ability
+of the parties to complete the Transactions; (6) the inability to obtain or maintain the listing of the shares of common stock
+of the post-acquisition company on Nasdaq following the Transactions; (7) the risk that the Transactions disrupts current plans
+and operations as a result of the announcement and consummation of the Transactions; (8) the ability to recognize the anticipated
+benefits of the Transactions, which may be affected by, among other things, competition, the ability of the combined company to
+grow and manage growth profitably and retain its key employees; (9) costs related to the Transactions; (10) changes in applicable
+laws or regulations; (11) the possibility that GNOG Inc. or the combined company may be adversely affected by other economic, business,
+and/or competitive factors; and (12) other risks and uncertainties indicated from time to time in the proxy statement relating
+to the Transactions, including those under “Risk Factors” therein, and in the Company’s other filings with the
+SEC. The Company cautions that the foregoing list of factors is not exclusive. The Company cautions readers not to place undue
+reliance upon any forward-looking statements, which speak only as of the date made. The Company does not undertake or accept any
+obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change
+in its expectations or any change in events, conditions or circumstances on which any such statement is based.
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This Current Report
+on Form 8-K shall not constitute a solicitation of a proxy, consent or authorization with respect to any securities or in respect
+of the Transactions. This Current Report on Form 8-K shall also not constitute an offer to sell or the solicitation of an offer
+to buy any securities, nor shall there be any sale of securities in any states or jurisdictions in which such offer, solicitation
+or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering
+of securities shall be made except by means of a prospectus meeting the requirements of section 10 of the Securities Act, or an
+exemption therefrom.
+
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+    
+    Item 9.01
+    Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+    2.1*
+     
+    Purchase Agreement, dated as of June 28, 2020, by and among the
+    Company, LHGN Holdco, LLC, Golden Nugget Online Gaming, Inc., GNOG Holdings, LLC and Landry’s Fertitta, LLC.
+
+    10.1
+     
+    Sponsor Forfeiture and Call-Option Agreement, dated as of June 28,
+    2020, by and between the Company and Jefferies Financial Group, Inc.
+
+ 
+
+
+*Certain exhibits and schedules to this Exhibit have been omitted
+in accordance with Item 601(a)(5) of Regulation S-K. The Company agrees to furnish supplementally a copy of any omitted exhibit
+or schedule to the SEC upon its request.
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+
+
+     
+    
+        LANDCADIA HOLDINGS II, INC. 
+         
+     
+
+     
+     
+     
+     
+
+     
+    By:
+    /s/ Richard H. Liem
+     
+
+     
+     
+    Name: Richard H. Liem
+     
+
+     
+     
+    Title: Vice President and Chief Financial Officer
+     
+
+     
+     
+     
+     
+
+    
+         
+        Dated: June 29, 2020
+     
+     
+     
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+     
+    
+
+ 
+
+
+
+

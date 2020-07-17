@@ -1,0 +1,441 @@
+
+8-K
+1
+ea121635-8k_legacyacq.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT
+REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): May 11, 2020
+
+ 
+
+LEGACY
+ACQUISITION, CORP.
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    DELAWARE
+     
+    001-38296
+     
+    81-3674868
+
+    (State
+    or other jurisdiction
+     
+    (Commission
+    File Number)
+     
+    (IRS
+    Employer
+
+    of
+    incorporation)
+     
+     
+     
+    Identification
+    No.)
+
+ 
+
+1308
+Race Street Suite 200
+Cincinnati, Ohio 45202
+(Address of principal executive offices, including zip code)
+
+ 
+
+(505) 820-0412
+(Registrant’s telephone number, including area code)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+☐Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+     
+        Title
+        of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Units, each consisting of one share of Class
+    A common stock and one Warrant to purchase one-half of one share of Class A common stock
+     
+    LGC.U
+     
+    New
+    York Stock Exchange
+
+    Class A common stock, par value $0.0001 per
+    share
+     
+    LGC
+     
+    New
+    York Stock Exchange
+
+    Warrants, exercisable for one-half of one share
+    of Class A common stock for $5.75 per half share, or $11.50 per whole share
+     
+    LGC.WS
+     
+    New
+    York Stock Exchange
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company  ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+
+
+    
+    Item 7.01
+    Regulation FD
+    Disclosure
+
+ 
+
+Furnished
+as Exhibit 99.1 hereto is a copy of an investor presentation, dated May 11, 2020, used by Legacy Acquisition Corp., a Delaware
+corporation (“Legacy”) in connection with its previously announced business combination (the “Business Combination”)
+with Blue Valor Limited, a company incorporated in Hong Kong (the “Seller”) and an indirect, wholly owned subsidiary
+of BlueFocus Intelligent Communications Group Co. Ltd. pursuant to the Amended and Restated Share Exchange Agreement, dated December
+2, 2019, as amended by that First Amendment to Amended and Restated Share Exchange Agreement, dated March 13, 2020, that amends
+and restates the Share Exchange Agreement dated as of August 23, 2019, as amended by that First Amendment to Share Exchange Agreement
+dated as of September 27, 2019, by and between Legacy and the Seller.
+
+ 
+
+The
+information in this item 7.01, including Exhibit 99.1, is being furnished and shall not be deemed “filed” for purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise be subject to
+liabilities under that section, and shall not be deemed to be incorporated by reference into any filings of the Company under
+the Securities of 1933, as amended (the “Securities Act”), or the Exchange Act, regardless of any general incorporation
+language in such filings. This Current Report on Form 8-K (the “Current Report”) shall not be deemed an admission
+as to the materiality of any information in this Item 7.01, including Exhibit 99.1.
+
+ 
+
+Important
+Information About the Business Combination and Extension Amendment and Where to Find It
+
+ 
+
+In
+connection with the business combination contemplated by the Amended and Restated Share Exchange Agreement (the “Business
+Combination”), Legacy filed a definitive proxy statement on Schedule 14A (the “Business Combination Proxy”)
+with the U.S. Securities and Exchange Commission (the “SEC”) on March 31, 2020. In connection with the solicitation
+of the registered holders of Legacy’s public warrants to consent to proposed amendments to Legacy’s Warrant Agreement
+(the “Warrant Amendments”), Legacy filed a preliminary consent solicitation statement (the “Warrant Consent
+Solicitation”) with the SEC on March 31, 2020 and intends to file other relevant materials with the SEC in connection therewith,
+including a definitive consent solicitation statement on Schedule 14A. Additionally, in connection with the Extension Amendment
+and the Extension, Legacy filed a definitive proxy statement on Schedule 14A (the “Extension Proxy”) with the SEC
+on April 21, 2020. Legacy’s stockholders and other interested persons are advised to read the Business Combination Proxy,
+as well as the preliminary Warrant Consent Solicitation and the Extension Proxy and the amendments thereto and other relevant
+materials to be filed, respectively, in connection with the Business Combination, the Warrant Amendments and the Extension Amendment
+and Extension with the SEC, including, when available, a definitive warrant consent solicitation on Schedule 14A in connection
+with the Warrant Amendments and documents incorporated by reference therein, as these materials contain, with respect to the Business
+Combination and the Extension Amendment and Extension, and will contain with respect to the Warrant Amendments, important information. The
+definitive proxy statement and other relevant materials for the Business Combination and the Extension Amendment and Extension
+were mailed to stockholders of Legacy as of March 20, 2020 and April 6, 2020, respectively. When available, the definitive proxy
+statements and other relevant materials for the Warrant Amendments will be mailed to warrant holders of Legacy as of March 20,
+2020. Warrant holders and stockholders are also able to obtain copies of the Business Combination Proxy and Extension Proxy, as
+well as the preliminary proxy statement and other documents filed with the SEC incorporated by reference therein, and will also
+be able to obtain, once available, the definitive proxy statements and other documents filed with the SEC that will be incorporated
+by reference therein, without charge, at the SEC’s web site at www.sec.gov, or by directing a request to: Legacy Acquisition
+Corp., 1308 Race Street, Suite 200, Cincinnati, Ohio 45202, Attention: Secretary, (513) 618-7161.
+
+ 
+
+Participants
+in the Solicitation
+
+ 
+
+Legacy
+and its directors and executive officers may be deemed participants in the solicitation of proxies from Legacy’s stockholders
+with respect to the Business Combination and Deadline Extensions and consents from Legacy’s warrant holders with respect
+to the Warrant Amendments. A list of the names of those directors and executive officers and a description of their interests
+in Legacy is contained in the Definitive Business Combination Proxy filed with the SEC, the Warrant Consent Solicitation and the
+Extension Proxy and in Legacy’s proxy statement for its 2019 Annual Meeting that was filed with the SEC on November 22,
+2019 and are available free of charge at the SEC’s web site at www.sec.gov, or by directing a request to: Legacy Acquisition
+Corp., 1308 Race Street, Suite 200, Cincinnati, Ohio 45202, Attention: Secretary, (513) 618-7161. Additional information regarding
+the interests of such participants will be contained in the definitive proxy statement that Legacy intends to file with the SEC
+in connection with the Business Combination when available.
+
+ 
+
+
+
+    1
+     
+    
+
+ 
+
+The
+Seller, Blue Focus Intelligent Communications Group, and their respective directors and executive officers may also be deemed
+to be participants in the solicitation of proxies from the stockholders of Legacy in connection with the Business Combination.
+A list of the names of such directors and executive officers and information regarding their interests in the Business Combination
+will be included in Legacy’s definitive proxy statement that will be filed with respect to the Business Combination.
+
+ 
+
+Forward-Looking
+Statements:
+
+ 
+
+This
+Current Report on Form 8-K includes “forward-looking statements” within the meaning of the “safe harbor”
+provisions of the Private Securities Litigation Reform Act of 1995. Legacy’s and the Blue Impact business’ actual
+results may differ from their expectations, estimates and projections and consequently, you should not rely on these forward-looking
+statements as predictions of future events. Words such as “expect,” “estimate,” “project,”
+“budget,” “forecast,” “anticipate,” “intend,” “propose,” “plan,”
+“contemplate,” “may,” “will,” “shall,” “would,” “could,”
+“should,” “believes,” “predicts,” “potential,” “continue,” “positioned,”
+“goal,” “conditional” and similar expressions are intended to identify such forward-looking statements.
+These forward-looking statements include, without limitation, the expected Contribution to the trust account if the Extension
+Amendment is approved and the Extension is implemented, the timing of payment of any such Contribution, the intention to pursue
+the Business Combination and to announce information regarding the Blue Impact business and the Business Combination during the
+week of May 11, 2020.
+
+ 
+
+These
+forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially
+from the expected results. Most of these factors are outside Legacy’s and the Blue Impact business’ control and are
+difficult to predict. Factors that may cause such differences include, but are not limited to: (1) the occurrence of any event,
+change or other circumstances that could give rise to the termination of the Share Exchange Agreement, (2) the outcome of any
+legal proceedings that may be instituted against Legacy and other transaction parties following the announcement of the Share
+Exchange Agreement and the transactions contemplated therein; (3) the inability to complete the proposed Business Combination,
+including due to failure to obtain approval of the stockholders of Legacy or other conditions to closing in the Share Exchange
+Agreement; (4) the occurrence of any event, change or other circumstance that could otherwise cause the Business Combination to
+fail to close; (5) the receipt of an unsolicited offer from another party for an alternative business transaction that could interfere
+with the proposed Business Combination; (6) the risk that the proposed Business Combination disrupts current plans and operations
+as a result of the announcement and consummation of the proposed Business Combination; (7) costs related to the proposed Business
+Combination; (8) changes in applicable laws or regulations; (9) the aggregate number of Legacy shares requested to be redeemed
+by Legacy’s stockholders in connection with the proposed Business Combination; (10) the ability of the Blue Impact business
+to ameliorate or otherwise mitigate its existing material weaknesses and any material weaknesses in internal control over financial
+reporting or significant deficiencies that may be identified in the future; (11) the inability to obtain stockholder approval
+of the Extension Amendment and to implement the Extension; (12) the uncertainties regarding the impact of COVID-19 on the Blue
+Impact business and the completion of the Business Combination; and (13) other risks and uncertainties indicated from time to
+time in the proxy statement relating to the proposed Business Combination, including those under “Risk Factors” therein,
+the Extension Amendment and the Extension and in Legacy’s other filings with the SEC. Legacy cautions that the foregoing
+list of factors is not exhaustive. Legacy cautions readers not to place undue reliance upon any forward-looking statements, which
+speak only as of the date made. Legacy does not undertake or accept any obligation or undertaking to release publicly any updates
+or revisions to any forward-looking statements to reflect any change in its expectations or any change in events, conditions or
+circumstances on which any such statement is based.
+
+ 
+
+No
+Offer or Solicitation
+
+ 
+
+This
+Current Report on Form 8-K shall not constitute a solicitation of a proxy, consent or authorization with respect to any securities
+or in respect of the Business Combination. This Current Report on Form 8-K shall also not constitute an offer to sell or the solicitation
+of an offer to buy any securities, nor shall there be any sale of securities in any states or jurisdictions in which such offer,
+solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction.
+No offering of securities shall be made except by means of a prospectus meeting the requirements of section 10 of the Securities
+Act, or an exemption therefrom.
+
+ 
+
+
+
+    2
+     
+    
+
+ 
+
+
+
+    
+    Item 9.01
+    Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits
+
+ 
+
+
+
+    Exhibit 
+    Number
+     
+    Description
+
+    99.1
+     
+    Investor
+    Presentation dated May 11, 2020
+
+ 
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    LEGACY ACQUISITION CORP.
+
+     
+     
+     
+
+    Dated:
+May 11, 2020
+    By:
+    /s/ William
+    C. Finn
+
+     
+    Name: 
+    William C. Finn
+
+     
+    Title:
+    Chief Financial Officer 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+
+
+

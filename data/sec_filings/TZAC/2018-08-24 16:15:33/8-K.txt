@@ -1,0 +1,401 @@
+
+8-K
+1
+tv501602_8k.htm
+8-K
+
+
+
+     
+
+
+
+ 
+
+ 
+
+  
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): August
+24, 2018 (August 20, 2018)
+
+ 
+
+TENZING
+ACQUISITION CORPORATION
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    British Virgin Islands
+    001-38634
+    N/A
+
+    (State or other jurisdiction
+of incorporation)
+    (Commission
+File Number)
+    (IRS Employer
+Identification No.)
+
+ 
+
+250 West 55th Street
+
+New York, New York 10019
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (212) 710-5220
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+     
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+     
+
+     
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+     
+
+     
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+     
+
+     
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company  x
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+ Item 1.01. Entry into a Material Definitive
+Agreement.
+
+  
+
+On August 23, 2018,
+Tenzing Acquisition Corporation (the “Company”) consummated its initial public offering (“IPO”)
+of 5,500,000 units (the “Units”). Each Unit consists of one ordinary share of the Company, no par value per
+share (the “Ordinary Shares”) and one warrant of the Company (“Warrant”), with each Warrant
+entitling the holder thereof to purchase one Ordinary Share for $11.50 per share. The Units were sold at a price of $10.00 per
+Unit, generating gross proceeds to the Company of $55,000,000. The Company has granted Maxim Group LLC (“Maxim”), the
+underwriter of the IPO, a 45 day option to purchase up to 825,000 additional Units to cover over-allotments, if any.
+
+ 
+
+In connection with
+the IPO, the Company entered into the following agreements, some of which were forms previously filed as exhibits to the Company’s
+Registration Statements on Form S-1 (File Nos. 333-226263 and 333-226952) for the IPO, originally filed with the U.S. Securities
+and Exchange Commission (the “Commission”) on July 20, 2018 (as amended, the “Registration Statement”):
+
+ 
+
+
+●An
+Underwriting Agreement, dated August 20, 2018, by and between the Company and Maxim, a copy of which is attached as Exhibit 1.1
+hereto and incorporated herein by reference.
+
+ 
+
+
+●A
+Warrant Agreement, dated August 20, 2018, by and between the Company and Continental Stock Transfer & Trust Company, as warrant
+agent, a copy of which is attached as Exhibit 4.1 hereto and incorporated herein by reference.
+
+ 
+
+
+●An
+Investment Management Trust Agreement, dated August 20, 2018, by and between the Company and Continental Stock Transfer &
+Trust Company, as trustee, a copy of which is attached as Exhibit 10.1 hereto and incorporated herein by reference.
+
+ 
+
+
+●A
+Registration Rights Agreement, dated August 20, 2018, by and among the Company, Tenzing LLC (the “Sponsor”),
+Maxim and the holders party thereto, a copy of which is attached as Exhibit 10.2 hereto and incorporated herein by reference.
+
+ 
+
+
+●Letter
+Agreement, dated August 20, 2018, by and among the Company, its officers, its directors and the Sponsor, a copy of which is attached
+as Exhibit 10.3 hereto and incorporated herein by reference.
+
+  
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneously with
+the closing of the IPO, pursuant to the Amended and Restated Unit Subscription Agreement, dated August 20, 2018, by and between
+the Company and the Sponsor and the Unit Subscription Agreement, dated August 20, 2018, by and between the Company and Maxim,
+the Company completed the private sale of an aggregate of 323,750 units (the “Private Placement Units”), 310,000
+of which were sold to the Sponsor and 13,750 to Maxim, at a purchase price of $10.00 per Private Placement Unit, generating gross
+proceeds to the Company of $3,237,500. The Private Placement Units are identical to the Units sold in the IPO, except that warrants
+that are part of the Private Placement Units are not redeemable by the Company so long as they are held by the original holders
+or their permitted transferees. In addition, for as long as the warrants that are part of the Private Placement Units are held
+by Maxim or its designees or affiliates, they may not be exercised after five years from the effective date of the Registration
+Statement. No underwriting discounts or commissions were paid with respect to such sales. The issuance of the Private Placement
+Units was made pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+Item 5.03. Amendments to Certificate of Incorporation
+or Bylaws; Change in Fiscal Year.
+
+ 
+
+On August 20, 2018,
+in connection with the IPO, the Company filed its Amended and Restated Memorandum and Articles of Association in the British Virgin
+Islands, effective the same day. The terms of the Amended and Restated Memorandum and Articles of Association are set forth
+in the Registration Statement and are incorporated herein by reference. A copy of the Amended and Restated Memorandum and Articles
+of Association is attached as Exhibit 3.1 hereto and incorporated herein by reference.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+A total of $56,100,000,
+comprised of $52,862,500 of the proceeds from the IPO and $3,237,500 of the proceeds of the sale of the Private Placement Units,
+was placed in a U.S.-based trust account at J.P. Morgan Chase Bank, N.A., maintained by Continental Stock Transfer & Trust
+Company, acting as trustee. Except with respect to interest earned on the funds in the trust account that may be released to the
+Company to pay its taxes, the funds held in the trust account will not be released from the trust account until the earliest of
+(i) the completion of the Company’s initial business combination, (ii) the redemption of any of the Company’s public
+shares properly submitted in connection with a shareholder vote to amend the Company’s amended and restated memorandum and
+articles of association to modify the substance or timing of its obligation to redeem 100% of the Company’s public shares
+if it does not complete its initial business combination within 18 months from the closing of the IPO or (iii) the redemption of
+the Company’s public shares if it is unable to complete its initial business combination within 18 months from the closing
+of the IPO, subject to applicable law.
+
+ 
+
+On August 20,
+2018, the Company issued a press release announcing the pricing of the IPO, a copy of which is attached as Exhibit 99.1 to
+this Current Report on Form 8-K.
+
+ 
+
+On August 23, 2018,
+the Company issued a press release announcing the closing of the IPO, a copy of which is attached as Exhibit 99.2 to this Current
+Report on Form 8-K.
+
+  
+
+Item 9.01 Financial Statements and
+Exhibits.
+
+ 
+
+
+(d)Exhibits
+
+
+ 
+
+The following exhibits
+are being filed herewith:
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+    1.1
+     
+    Underwriting
+    Agreement, dated August 20, 2018, by and between the Company and Maxim.
+
+    3.1
+     
+    Amended
+    and Restated Memorandum and Articles of Association.
+
+    4.1
+     
+    Warrant
+    Agreement, dated August 20, 2018, by and between the Company and Continental Stock Transfer & Trust Company, as warrant
+    agent.
+
+    10.1
+     
+    Investment
+    Management Trust Agreement, dated August 20, 2018, by and between the Company and Continental Stock Transfer & Trust Company,
+    as trustee
+
+    10.2
+     
+    Registration
+    Rights Agreement, dated August 20, 2018, by and among the Company, the Sponsor, Maxim and the holders party thereto.
+
+    10.3
+     
+    Letter
+    Agreement, dated August 20, 2018, by and among the Company, its officers, its directors and the Sponsor.
+
+    99.1
+     
+    Press
+    Release, dated August 20, 2018.
+
+    99.2 
+     
+    Press
+    Release, dated August 23, 2018.
+
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+  
+
+
+
+    Dated: August 24, 2018
+    TENZING ACQUISITION CORPORATION
+
+     
+     
+     
+
+     
+    By:  
+    /s/ Rahul Nayar
+
+     
+     
+    Name: Rahul Nayar
+
+     
+     
+    Title: Chief Executive Officer
+
+ 
+
+
+     
+    
+
+
+
+
+
+
+
+

@@ -1,0 +1,504 @@
+
+8-K
+1
+tv513054_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+  
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+
+ 
+
+  
+
+
+
+FORM 8-K
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D) OF
+THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+February 7, 2019 
+
+ 
+
+RMG Acquisition Corp.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38795
+     
+    83-2289787
+
+    (State or other jurisdiction of
+incorporation)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer Identification No.)
+
+ 
+
+
+
+    
+        340 Madison Avenue, 19th Floor
+        New York, New York
+     
+     
+     
+    10173
+
+    (address of principal executive offices)
+     
+     
+     
+    (zip code)
+
+ 
+
+(212) 220-9503
+(Registrant’s telephone number, including area code)
+
+ 
+
+Check the appropriate box below if the Form 8-K is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communication pursuant to Rule 425 under
+the Securities Act (17 CFR 230.425)
+
+
+
+  
+
+
+
+¨Soliciting material pursuant to Rule 14a-12 under
+the Exchange Act (17 CFR 240.14a-12)
+
+
+
+  
+
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+  
+
+
+
+¨Pre-commencements communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. x
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 1.01.Entry into a Material Definitive Agreement.
+
+ 
+
+On February 12, 2019, RMG Acquisition Corp.
+(the “Company”) consummated its initial public offering (the “IPO”) of 20,000,000 units (the “Units”).
+Each Unit consists of one share of Class A common stock, par value $0.0001 per share (the “Class A Common Stock”),
+of the Company and one-third of one warrant of the Company (“Warrant”), with each whole Warrant entitling the holder
+thereof to purchase one whole share of Class A Common Stock for $11.50 per share. The Units were sold at a price of $10.00
+per unit, generating gross proceeds to the Company of $200,000,000.
+
+ 
+
+In connection with the IPO, the Company
+entered into the following agreements previously filed as exhibits to the Company’s registration statement on Form S-1 (File
+No. 333-228849) (the “Registration Statement”):
+
+ 
+
+
+·An Underwriting Agreement, dated February 7, 2019, between the Company and Deutsche Bank Securities Inc., as representative
+of the several underwriters.
+
+
+·An Investment Management Trust Agreement, dated February 7, 2019, between the Company and American Stock Transfer & Trust
+Company, as trustee.
+
+
+·A Warrant Agreement, dated February 7, 2019, between the Company and American Stock Transfer & Trust Company, as warrant
+agent.
+
+
+·A Registration Rights Agreement, dated February 7, 2019, among the Company and certain security holders named therein.
+
+
+·A Letter Agreement, dated February 7, 2019, among the Company, its officers and directors and RMG Sponsor, LLC (the “Sponsor”).
+
+
+·Indemnity Agreements, each dated February 7, 2019, between the Company and each of its officers, directors and advisory board
+members.
+
+ 
+
+
+Item 3.02.Unregistered Sales of Equity Securities.
+
+ 
+
+Simultaneously with the closing of the IPO,
+the Company completed the private sale of 4,000,000 warrants (the “Private Placement Warrants”) at a purchase price
+of $1.50 per Private Placement Warrant (the “Private Placement”), to the Sponsor and certain institutional investors
+(the “Institutional Investors” and, together with the Sponsor, the “Private Placement Investors”), generating
+gross proceeds to the Company of $6,000,000. The Private Placement Warrants are identical to the warrants sold as part of the Units
+in the IPO, except that the Private Placement Investors have agreed not to transfer, assign or sell any of the Private Placement
+Warrants (except to certain permitted transferees) until 30 days after the completion of the Company’s initial business combination.
+So long as the Private Placement Warrants are held by the Private Placement Investors or their permitted transferees, the Private
+Placement Warrants will not be redeemable for cash by the Company and will be exercisable on a cashless basis .
+
+ 
+
+
+Item 5.03.Amendments to Certificate of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+On February 7, 2019, the Company filed its
+Amended and Restated Certificate of Incorporation in the State of Delaware. The terms of the Amended and Restated Certificate of
+Incorporation are set forth in the Registration Statement and are incorporated herein by reference. A copy of the Amended and Restated
+Certificate of Incorporation is attached as Exhibit 3.1 hereto and is incorporated by reference herein.
+
+ 
+
+
+Item 8.01.Other Events.
+
+ 
+
+A total of $200,000,000, comprised of $196,000,000
+of the proceeds from the IPO, including $7,000,000 of the underwriters’ deferred discount, and $4,000,000 of the proceeds
+from the Private Placement, were placed in a U.S.-based trust account at Deutsche Bank Trust Company Americas, maintained by American
+Stock Transfer & Trust Company, acting as trustee. Except with respect to interest earned on the funds in the trust account
+that may be released to the Company to pay its franchise and income taxes and expenses relating to the administration of the trust
+account, the proceeds from the IPO and the Private Placement held in the trust account will not be released until the earliest
+of (i) the completion of the Company’s initial business combination, (ii) the redemption of any public shares properly
+tendered in connection with a shareholder vote to amend the Company’s Amended and Restated Certificate of Incorporation to
+modify the substance or timing of its obligation to redeem 100% of its public shares if the Company does not complete its initial
+business combination within 24 months from the closing of the IPO and (iii) the redemption of all of the Company’s public
+shares if it is unable to complete its business combination within 24 months from the closing of the IPO, subject to applicable
+law.
+
+ 
+
+On February 7, 2019, the Company issued
+a press release, a copy of which is attached as Exhibit 99.1 to this Current Report on Form 8-K, announcing the pricing
+of the IPO. On February 12, 2019, the Company issued a press release, a copy of which is attached as Exhibit 99.2 to this
+Current Report on Form 8-K, announcing the closing of the IPO.
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+Item 9.01.Financial Statements and Exhibits.
+
+ 
+
+
+(d)Exhibits. The following exhibits are filed with this
+Form 8-K:
+
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description of Exhibits
+
+     
+     
+     
+
+    1.1
+     
+    Underwriting Agreement, dated February 7, 2019, between the Company and Deutsche Bank Securities Inc., as representative of the several underwriters.
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Certificate of Incorporation, dated February 7, 2019.
+
+     
+     
+     
+
+    4.1
+     
+    Warrant Agreement, dated February 7, 2019, between the Company and American Stock Transfer & Trust Company, as warrant agent.
+
+     
+     
+     
+
+    10.1
+     
+    Letter Agreement, dated February 7, 2019, among the Company, its officers and directors and the Sponsor.
+
+     
+     
+     
+
+    10.2
+     
+    Investment Management Trust Agreement, dated February 7, 2019, between the Company and American Stock Transfer & Trust Company, as trustee.
+
+     
+     
+     
+
+    10.3
+     
+    Registration Rights Agreement, dated February 7, 2019, among the Company and certain security holders named therein.
+
+     
+     
+     
+
+    10.4
+     
+    Indemnity Agreement, dated February 7, 2019, between the Company and Robert S. Mancini.
+
+     
+     
+     
+
+    10.5
+     
+    Indemnity Agreement, dated February 7, 2019, between the Company and Philip Kassin.
+
+     
+     
+     
+
+    10.6
+     
+    Indemnity Agreement, dated February 7, 2019, between the Company and D. James Carpenter.
+
+     
+     
+     
+
+    10.7
+     
+    Indemnity Agreement, dated February 7, 2019, between the Company and W. Grant Gregory.
+
+     
+     
+     
+
+    10.8
+     
+    Indemnity Agreement, dated February 7, 2019, between the Company and Dr. Heinz C. Schimmelbusch.
+
+     
+     
+     
+
+    10.9
+     
+    Indemnity Agreement, dated February 7, 2019, between the Company and Steven J. Gilbert.
+
+     
+     
+     
+
+    10.10
+     
+    Indemnity Agreement, dated February 7, 2019, between the Company and Edward Forst.
+
+     
+     
+     
+
+    10.11
+     
+    Indemnity Agreement, dated February 7, 2019, between the Company and W. Thaddeus Miller.
+
+     
+     
+     
+
+    99.1
+     
+    Press Release, dated February 7, 2019.
+
+     
+     
+     
+
+    99.2
+     
+    Press Release, dated February 12, 2019.
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    RMG Acquisition Corp.
+     
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+    Date: February 12, 2019
+    By:
+    /s/ Philip
+    Kassin
+     
+
+     
+    Name:
+    Philip Kassin
+     
+
+     
+    Title:
+    President, Chief
+    Operating Officer and Secretary
+     
+
+ 
+
+
+
+
+
+
+     
+    
+
+
+
+
+
+

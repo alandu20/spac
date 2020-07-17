@@ -1,0 +1,526 @@
+
+8-K
+1
+f8k121019_livcapital.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington,
+DC 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT
+REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported):
+
+December
+13, 2019 (December 10, 2019)
+
+ 
+
+LIV
+CAPITAL ACQUISITION CORP.
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+
+
+    Cayman
+    Islands
+     
+    001-39157
+     
+    N/A
+
+    (State
+    or other jurisdiction
+    of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (I.R.S.
+    Employer
+    Identification No.)
+
+ 
+
+
+
+    Torre
+    Virreyes
+    Pedregal No. 24, Piso 6-601
+    Col. Molino del Rey
+    México, CDMX
+     
+    11040
+
+    (Address
+    of Principal Executive Offices)
+     
+    (Zip
+    Code)
+
+ 
+
+
+
+    Registrant’s
+    telephone number, including area code: +52 55 1100 2470
+
+ 
+
+
+
+    Not
+    Applicable
+
+    (Former
+    name or former address, if changed since last report)
+
+     
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+
+
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+     
+     
+
+    ☐
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+     
+     
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+     
+     
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Class
+    A ordinary shares, par value $0.0001 per share
+     
+    LIVK
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Redeemable
+    warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+     
+    LIVKW
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Units,
+    each consisting of one Class A ordinary share and one redeemable warrant
+     
+    LIVKU
+     
+    The
+    Nasdaq Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item 8.01.
+Other Events.
+
+ 
+
+On
+December 13, 2019, LIV Capital Acquisition Corp. (the “Company”) consummated its initial public offering (“IPO”)
+of 7,000,000 units (the “Units”). Each Unit consists of one Class A ordinary share of the Company, par
+value $0.0001 per share (the “Class A Ordinary Shares”), and one redeemable warrant of the Company (“Warrant”),
+each Warrant entitling the holder thereof to purchase one Class A Ordinary Share for $11.50 per share. The Units were sold
+at a price of $10.00 per unit, generating gross proceeds to the Company of $70,000,000.
+
+ 
+
+Substantially
+concurrently with the closing of the IPO, the Company completed the private sale of 2,575,000 warrants (the “Private
+Placement Warrants”) to LIV Capital Acquisition Sponsor, L.P. (the “Sponsor”) at a purchase price
+of $1.00 per Private Placement Warrant, generating gross proceeds to the Company of $2,575,000. The Private Placement Warrants
+are identical to the warrants sold as part of the Units in the IPO except that, so long as they are held by the Sponsor or its
+permitted transferees: (1) they will not be redeemable by the Company; (2) they (including the Class A Ordinary Shares issuable
+upon exercise of these warrants) may not, subject to certain limited exceptions, be transferred, assigned or sold by the Sponsor
+until 30 days after the completion of the initial business combination; (3) they may be exercised by the holders on a cashless
+basis; and (4) they (including the Class A Ordinary Shares issuable upon exercise of these warrants) are entitled to registration
+rights.
+
+ 
+
+A
+total of $70,000,000, comprised of $68,425,000 of the proceeds from the IPO, including $2,450,000 of the underwriters’ advisory
+fee in connection with the initial business combination, and $1,575,000 of the proceeds of the sale of the Private Placement Warrants,
+was placed in a U.S.-based trust account at J.P. Morgan Chase Bank, N.A., maintained by Continental Stock Transfer &
+Trust Company, acting as trustee. Except with respect to interest earned on the funds in the trust account that may be released
+to the Company to pay its taxes (and up to $100,000 of interest to pay dissolution expenses), the funds held in the trust account
+will not be released from the trust account until the earliest of (i) the completion of the Company’s initial business
+combination, (ii) the redemption of all of the Company’s public shares if it is unable to complete its business combination
+within 21 months from the closing of the IPO, subject to applicable law, or (iii) the redemption of the Company’s public
+shares properly submitted in connection with a shareholder vote to approve an amendment to the Company’s amended and restated
+memorandum and articles of association (A) to modify the substance or timing of the Company's obligation to redeem 100% of its
+public shares if it does not complete an initial business combination within 21 months from the closing of the IPO or (B) with
+respect to any other provision relating to shareholders' rights or pre-initial business combination activity.
+
+ 
+
+In
+connection with the IPO, the Company entered into the following agreements, forms of which were previously filed as exhibits to
+the Company registration statement (File No. 333-234799):
+
+ 
+
+
+
+     
+    ●
+    An
+    Underwriting Agreement, dated December 10, 2019, between the Company and EarlyBirdCapital, Inc., as underwriter.
+
+     
+     
+     
+
+     
+    ●
+    A
+        Business Combination Marketing Agreement, dated December 10, 2019, between the Company and EarlyBirdCapital,
+        Inc., as advisor.
+         
+
+     
+    ●
+    A
+    Warrant Agreement, dated December 10, 2019, between the Company and Continental Stock Transfer & Trust Company,
+    as warrant agent.
+
+ 
+
+
+
+     
+    ●
+    A
+    Letter Agreement, dated December 10, 2019, among the Company and its officers, directors and the Sponsor.
+
+ 
+
+
+
+     
+    ●
+    An
+    Investment Management Trust Agreement, dated December 10, 2019, between the Company and Continental Stock Transfer &
+    Trust Company, as trustee.
+
+ 
+
+
+
+     
+    ●
+    A
+    Registration Rights Agreement, dated December 10, 2019, between the Company and certain security holders.
+
+ 
+
+
+
+     
+    ●
+    An
+    Administrative Services Agreement, dated December 10, 2019, between the Company and the Sponsor.
+
+ 
+
+
+
+     
+    ●
+    Sponsor
+    Warrants Purchase Agreement, dated December 10, 2019, between the Company and the Sponsor.
+
+ 
+
+
+
+     
+    ●
+    Indemnity
+    Agreements, each dated December 10, 2019, between the Company and each of its executive officers and directors.
+
+  
+
+
+
+    2 
+     
+    
+
+ 
+
+On
+December 10, 2019, the Company issued a press release, a copy of which is attached as Exhibit 99.1 to this Current Report
+on Form 8-K, announcing the pricing of the IPO.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits.
+
+ 
+
+
+
+     
+    (d)
+    Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+    1.1
+     
+    Underwriting
+    Agreement, dated December 10, 2019, between the Company and EarlyBirdCapital, Inc., as underwriter
+
+    1.2
+     
+    Business
+    Combination Marketing Agreement, dated December 10, 2019, between the Company and EarlyBirdCapital, Inc., as advisor
+
+    4.1
+     
+    Warrant
+    Agreement, dated December 10, 2019, between the Company and Continental Stock Transfer & Trust Company, as warrant
+    agent
+
+    10.1
+     
+    Letter
+    Agreement, dated December 10, 2019, among the Company and its officers and directors and LIV Capital Acquisition Sponsor,
+    L.P.
+
+    10.2
+     
+    Investment
+    Management Trust Agreement, dated December 10, 2019, between the Company and Continental Stock Transfer & Trust
+    Company, as trustee
+
+    10.3
+     
+    Registration
+    Rights Agreement, dated December 10, 2019, between the Company and certain security holders
+
+    10.4
+     
+    Administrative
+    Services Agreement, dated December 10, 2019, between the Company and LIV Capital Acquisition Sponsor, L.P.
+
+    10.5
+     
+    Sponsor
+    Warrants Purchase Agreement, dated December 10, 2019, between the Company and LIV Capital Acquisition Sponsor, L.P.
+
+    10.6
+     
+    Indemnity
+    Agreement, dated December 10, 2019, between the Company and Alexander R. Rossi 
+
+    10.7
+     
+    Indemnity
+    Agreement, dated December 10, 2019, between the Company and Humberto Zesati 
+
+    10.8
+     
+    Indemnity
+    Agreement, dated December 10, 2019, between the Company and  Miguel
+    Ángel Dávila
+
+    10.9
+     
+    Indemnity
+    Agreement, dated December 10, 2019, between the Company and  José
+    Antonio Solano Arroyo
+
+    10.10
+     
+    Indemnity
+    Agreement, dated December 10, 2019, between the Company and  Luis
+    Rodrigo Clemente Gamero
+
+    99.1
+     
+    Press
+    Release, dated December 10, 2019
+
+ 
+
+
+
+    3 
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Date:
+December 13, 2019
+
+ 
+
+
+
+     
+    LIV
+    CAPITAL ACQUISITION CORP. 
+
+     
+     
+
+     
+    By:
+    /s/
+    Alexander R. Rossi
+
+     
+     
+    Alexander
+    R. Rossi
+
+     
+     
+    Chief
+    Executive Officer and Chairman
+
+ 
+
+ 
+
+ 4
+
+ 
+
+
+
+
+
+
+
+

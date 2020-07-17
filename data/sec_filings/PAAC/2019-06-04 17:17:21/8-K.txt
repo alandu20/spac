@@ -1,0 +1,439 @@
+
+8-K
+1
+paac8k060419.htm
+
+
+
+     
+
+
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or Section
+15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): June 4, 2019 (May 29, 2019)
+
+ 
+
+PROFICIENT ALPHA ACQUISITION CORP.
+
+(Exact name of registrant as specified
+in its charter)
+
+ 
+
+
+
+    Nevada
+     
+    001-38925
+     
+    83-1505892
+
+    (State or other jurisdiction of
+incorporation or organization)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer
+Identification Number)
+
+ 
+
+
+
+    
+        40 Wall St., 29th floor
+        New York, New York
+     
+    10005
+
+    (Address of principal executive offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number,
+including area code:  (407) 345-8332
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation to the registrant under any of the following provisions:
+
+ 
+
+
+
+    o
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+    o
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+    o
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+    o
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company ☒
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+ 
+
+
+
+ 
+
+ 
+
+Item 3.02.  Unregistered Sales
+of Equity Securities.
+
+ 
+
+Simultaneously with
+the consummation of the initial public offering (“IPO”) and the sale of the Units (defined below), Proficient Alpha
+Acquisition Corp., a Nevada corporation (the “Company”), consummated the private placement (“Private Placement”)
+of 5,375,000 warrants (“Placement Warrants”) at a price of $1.00 per Placement Warrant, generating total proceeds of
+$5,375,000. The Placement Warrants, which were purchased by Mr. Shih-Chung Chou (the “Sponsor”), are substantially
+similar to the Public Warrants, except that if held by the Sponsor or his permitted transferees, the Placement Warrants (i) may
+be exercised for cash or on a cashless basis, (ii) are not subject to being called for redemption and (iii) are, subject to
+certain limited exceptions, subject to transfer restrictions until 30 days following the consummation of the Company’s initial
+business combination.  If the Placement Warrants are held by holders other than Sponsor or his permitted transferees,
+the Placement Warrants will be redeemable by the Company and exercisable by holders on the same basis as the Public Warrants (defined
+below).
+
+ 
+
+Item 5.03. Amendments to Certificate
+of Incorporation or Bylaws; Change in Fiscal Year.
+
+ 
+
+On
+May 29, 2019, in connection with its IPO, the Company filed its Amended and Restated Articles of Incorporation with Secretary of
+State of the State of Nevada, effective the same day. The terms of the Amended and Restated Articles of Incorporation are
+set forth in the Company’s registration statement on Form S-1 (File No. 333- 231084) (the “Registration Statement”)
+for its IPO and are incorporated herein by reference. A copy of the Amended and Restated Articles of Incorporation is attached
+as Exhibit 3.1 hereto and is incorporated by reference herein.
+
+ 
+
+Item 8.01.  Other Events.
+
+ 
+
+On May
+29, 2019, the Registration Statement was declared effective by the Securities and Exchange Commission. In connection
+therewith and the closing of the IPO, the Company entered into the following agreements previously filed as exhibits to the Registration
+Statement:
+
+ 
+
+
+
+    ●
+    An Underwriting Agreement, dated May 29, 2019, between the Company and I-Bankers Securities, Inc. as representative of the several underwriters;
+
+     
+     
+
+    ●
+    A Business Combination Marketing Agreement, dated May 29, 2019, between the Company and I-Bankers Securities, Inc.
+
+     
+     
+
+    ●
+    An Investment Management Trust Agreement, dated May 29, 2019, between the Company and American Stock Transfer & Trust Company LLC;
+
+ 
+
+
+
+    ●
+    A Warrant Agreement, dated May 29, 2019, between the Company and American Stock Transfer & Trust Company LLC;
+
+     
+     
+
+    ●
+    A Rights Agreement, dated May 29, 2019, between the Company and American Stock Transfer & Trust Company LLC;
+
+ 
+
+
+
+    ●
+    A Share Escrow Agreement, dated May 29, 2019, between the Company, its initial stockholders and American Stock Transfer & Trust Company LLC;
+
+     
+     
+
+    ●
+    A Registration Rights Agreement, dated May 29, 2019, between the Company and the initial stockholders;
+
+ 
+
+
+
+    ●
+    Letter Agreement by and between the Company and the Sponsor;
+
+     
+     
+
+    ●
+    Letter Agreement by and between the Company and its officers and directors; and
+
+     
+     
+
+    ●
+    Letter Agreement by and between the Company and the initial stockholders.
+
+ 
+
+On June
+3, 2019, the Company consummated its IPO of 10,000,000 units (“Units”). Each Unit consists of one share of
+common stock, $0.001 par value per share (“Common Stock”), one warrant (“Public Warrant”) to purchase
+one share of Common Stock at an exercise price of $11.50 per share, and one right (“Right”) to receive one-tenth of
+one share of Common Stock upon consummation of the Company’s initial business combination.  The Units were sold at
+an offering price of $10.00 per Unit, generating gross proceeds of $100,000,000. Pursuant to the Underwriting Agreement, the Company
+granted the underwriters in the IPO (the “Underwriters”) a 30-day option to purchase up to 1,500,000 additional Units
+solely to cover over-allotments, if any (the “Over-Allotment Option”); and simultaneously with the consummation of
+the IPO, the Underwriters exercised the Over-Allotment Option in full.
+
+
+
+
+
+ 
+
+A total of $115,000,000
+of the net proceeds from the IPO and the Private Placement were placed in a trust account established for the benefit of the Company’s
+public stockholders at Morgan Stanley, N.A., with American Stock Transfer & Trust Company LLC acting as trustee. Except for
+the withdrawal of interest to pay taxes and interest to pay any dissolution expenses, none of the funds held in the trust account
+will be released until the earlier of the completion of the Company’s initial business combination or the redemption of 100%
+of the Common Stock issued by the Company in the IPO if the Company is unable to consummate an initial business combination within
+18 months from the closing of the IPO.  
+
+ 
+
+Copies of the press
+releases issued by the Company announcing the pricing of the IPO and the consummation of the IPO are included as Exhibits 99.1
+and 99.2, respectively, to this Current Report on Form 8-K.
+
+ 
+
+Item 9.01.  Financial Statements and Exhibits.
+
+ 
+
+
+
+    (d)
+    Exhibits.
+
+ 
+
+
+
+    1.1
+    Underwriting Agreement between the Company and I-Bankers Securities, Inc.
+
+     
+     
+
+    1.2
+    Business Combination Marketing Agreement, dated May 29, 2019, between the Company and I-Bankers Securities, Inc.
+
+     
+     
+
+    3.1
+    Amended and Restated Certificate of Incorporation as filed with the Secretary of State of the State of Nevada on May 29, 2019
+
+     
+     
+
+    4.1
+    Warrant Agreement, dated May 29, 2019, between American Stock Transfer & Trust Company and the Company LLC
+
+     
+     
+
+    4.2
+    Rights Agreement, dated May 29, 2019, between American Stock Transfer & Trust Company and the Company LLC
+
+     
+     
+
+    10.1
+    Investment Management Trust Account Agreement, dated May 29, 2019, between American Stock Transfer & Trust Company and the Company LLC
+
+     
+     
+
+    10.3
+    Share Escrow Agreement, dated May 29, 2019, 2018, between the Company, initial stockholders and American Stock Transfer & Trust Company LLC
+
+     
+     
+
+    10.4
+    Registration Rights Agreement among the Company and the initial stockholders
+
+     
+     
+
+    10.5
+    Letter Agreement by and between the Company and the Sponsor
+
+     
+     
+
+    10.6
+    Letter Agreement by and between the Company and its officers and directors
+
+     
+     
+
+    10.7
+    Letter Agreement by and between the Company and its initial stockholders
+
+     
+     
+
+    99.1
+    Press Release Announcing Pricing of IPO
+
+     
+     
+
+    99.2
+    Press Release Announcing Closing of IPO
+
+ 
+
+
+
+
+     (1) 
+       
+    
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: June 4, 2019
+
+ 
+
+
+
+     
+    PROFICIENT ALPHA ACQUISITION CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/ Kin Sze
+
+     
+     
+    Name: Kin Sze
+
+     
+     
+    Title:   Co-Chief Executive Officer
+
+ 
+
+ 
+
+
+     (2) 
+       
+    
+
+
+
+ 
+
+
+
+
+
+
+
+

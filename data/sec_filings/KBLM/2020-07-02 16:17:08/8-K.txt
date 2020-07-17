@@ -1,0 +1,412 @@
+
+8-K
+1
+ea123756-8k_kblmerger4.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or Section 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of Earliest Event Reported): June 26, 2020
+
+ 
+
+KBL
+Merger Corp. IV
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38105
+     
+    81-3832378
+
+    (State
+        or other jurisdiction
+        of
+        incorporation)
+     
+    (Commission
+        File
+        Number)
+     
+    (IRS
+        Employer
+        Identification
+        No.)
+
+ 
+
+30
+Park Place, Suite 45E
+
+New
+York, NY 10007
+
+(Address
+of Principal Executive Offices)
+
+ 
+
+(302)
+502-2727
+
+(Registrant’s
+telephone number)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation to the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+    ☐
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which 
+    registered
+
+    Common
+    Stock, par value $0.0001 per share
+     
+    KBLM
+     
+    The
+    NASDAQ Stock Market LLC
+
+    Warrants,
+    each warrant exercisable for one-half of one share of Common Stock at an exercise price of $5.75 per half share
+     
+    KBLMW
+     
+    The
+    NASDAQ Stock Market LLC
+
+    Rights,
+    exchangeable into one-tenth of one share of Common Stock
+     
+    KBLMR
+     
+    The
+    NASDAQ Stock Market LLC
+
+    Units,
+    each consisting of one share of Common Stock, one Warrant and one Right
+     
+    KBLMU
+     
+    The
+    NASDAQ Stock Market LLC
+
+  
+
+ 
+
+ 
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On
+June 26, 2020, KBL Merger Corp. IV (“KBL” or the “Company”) entered into a Securities Purchase Agreement
+(the “SPA”) whereby it issued to two institutional investors secured convertible promissory notes in the aggregate
+principal amount of $3,601,966.28 (collectively, the “Notes”) for an aggregate purchase price of $3,407,521.97. A
+portion of the purchase price paid by one of the investors was satisfied by surrendering a note held by such investor that was
+issued by an entity that is party to the Business Combination referenced below. The Notes are subject to 10% original issue discount,
+have a term of eight months, and accrue interest at the rate of 10% per annum, with interest being guaranteed to the maturity
+of the Notes, regardless of when any Note is converted. The Notes are all initially convertible into the Company’s common
+stock, par value $0.0001 per share (the “Common Stock”), at a per share conversion price equal to $5.28. Beginning
+ninety (90) days following the Company’s completion of its contemplated business combination, as initially reported in the
+Company’s Current Report on Form 8-K filed with the Commission on July 23, 2019 (the “Business Combination”),
+the conversion price will equal the lowest VWAP of the Company’s Common Stock during the five (5) trading day period ending
+on the trading day immediately prior to the conversion date, but in no event will the conversion price be lower than $2.00. In
+connection with the closing of the transactions contemplated by the SPA, the Company issued restricted shares of Common Stock
+to the two institutional investors in the aggregate amount of 650,000 shares (the “Commitment Shares”). The Company
+has agreed to register with the Securities and Exchange Commission the resale of the shares of common stock issuable upon conversion
+of the Notes and Preferred Stock, as well as the Commitment Shares.
+
+ 
+
+Upon
+the second closing pursuant to the SPA, upon certain conditions being satisfied, the Company will issue one of the institutional
+investors referenced above Series A Preferred Stock of the Company (“Preferred Stock”) for an aggregate purchase price
+of $3,000,000. Dividends shall be payable on the Preferred Stock at a rate of 10% per annum. The Preferred Stock shall be convertible
+into Common Stock at a conversion price of $5.28 per share. Upon any conversion, a Make-Whole Amount (as defined in the Certificate
+of Designation of the Preferred Stock) shall be due with respect to each share of Preferred Stock converted. At any time following
+the three (3) month anniversary of the Business Combination, the holder of the Preferred Stock has the right to force the Company
+to redeem all or any portion of the Preferred Stock then owned by the holder in cash.
+
+ 
+
+Beginning
+on the eleventh (11) trading day following the Business Combination, if certain conditions are met, including, but not limited
+to, the closing sale price of the Common Stock exceeds $6.00 throughout a certain measuring period, certain equity conditions
+are satisfied, the daily average trading volume for the prior five (5) consecutive trading days exceeds of $80,000 per trading
+day, and the shares of Common Stock subject to the Company’s conversion right are the subject of a then effective registration
+statement, the Company shall have the right to require the holder to convert an amount of the purchase price of the Preferred
+Stock not to exceed $1,000,000 in the aggregate and not to exceed $100,000 during any five (5) consecutive trading days (the “Mandatory
+Conversion Amount”) (but in no event more than the lesser of (I) two (2) times the daily average trading volume for the
+prior ten (10) consecutive trading days, and (II) all of the Conversion Amount then remaining hereunder), into freely tradeable
+shares of Common Stock at the conversion price then in effect.
+
+ 
+
+The
+Notes and Preferred Stock each contain certain covenants, and events of default and triggering events, respectively, which would
+require repayment of the obligations outstanding pursuant to such instruments. The obligations of the Company pursuant to the
+Notes and Preferred Stock are secured by all assets of the Company, and are guaranteed by all other entities party to the Business
+Combination Agreement.
+
+ 
+
+Item
+2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+ 
+
+The
+information provided under Item 1.01 in this Current Report on Form 8-K is incorporated by reference into this Item 2.03.
+
+ 
+
+Item
+3.02. Unregistered Sales of Equity Securities
+
+ 
+
+The
+information set forth in Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference. The Note, the Shares,
+the Notes and the Warrants were issued without registration under the Securities Act of 1933, as amended (the “Securities
+Act”), based on the exemption from registration afforded by Section 4(a)(2) of the Securities Act.
+
+ 
+
+Item 5.03. Amendments to Articles of
+Incorporation or Bylaws; Change in Fiscal Year
+
+ 
+
+On July 2, 2020, the
+Company filed the Certificate of Designation of the Series A Convertible Preferred Stock of the Company with the Secretary of State
+of the State of Delaware. The Certificate of Designation is attached hereto as Exhibit 4.7 and incorporated herein by reference.
+The Certificate of Designation became effective upon filing with the Secretary of State of the State of Delaware.
+ 
+
+Item
+9.01. Financial Statements and Exhibits
+
+ 
+
+(d)
+Exhibits
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+     
+     
+     
+
+    4.7
+     
+    Certificate of Designations, Preferences and Rights of the Series A Convertible Preferred Stock of the Company
+
+    4.8
+     
+    Form of 10% Senior Secured Convertible Promissory Note.
+
+    10.1
+     
+    Securities Purchase Agreement, dated June 12, 2020, by and among the Company and the purchasers signatory thereto.
+
+    10.2
+     
+    Registration Rights Agreement, dated June 12, 2020, by and among the Company and the parties signatory thereto. 
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+Dated:
+July 2, 2020
+
+ 
+
+
+
+     
+    KBL
+    Merger Corp. IV
+
+     
+     
+     
+
+     
+    By:
+    /s/
+    Marlene Krauss, M.D.
+
+     
+    Name: 
+    Marlene
+    Krauss, M.D.
+
+     
+    Title:
+    Chief
+    Executive Officer
+
+ 
+
+ 
+
+
+
+2
+
+
+
+ 
+
+
+
+
+
+

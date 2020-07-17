@@ -1,0 +1,1268 @@
+
+8-K
+1
+ea124083-8k_spartanenergy.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): July 10, 2020
+
+ 
+
+SPARTAN ENERGY ACQUISITION CORP.
+
+(Exact
+Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38625
+     
+    82-3100340
+
+    (State of incorporation
+ or organization)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer 
+Identification Number)
+
+ 
+
+
+
+    
+        9 West 57th Street, 43rd Floor
+        New York, NY
+     
+    10019
+
+    (Address of principal executive offices)
+     
+    (Zip Code)
+
+  
+
+(212) 258-0947 
+
+(Registrant’s telephone number, including area code)
+
+     
+
+Not
+Applicable  
+
+(Former name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant
+under any of the following provisions:
+
+ 
+
+
+☐Written
+                                         communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☒Soliciting
+                                         material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+☐Pre-commencement
+                                         communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+☐Pre-commencement
+                                         communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+
+    
+        Title
+of each class
+     
+    Trading symbol(s)
+     
+    Name of each exchange on which registered
+
+    Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
+     
+    SPAQ.U
+     
+    The New York Stock Exchange
+
+    Class A common stock, par value $0.0001 per share
+     
+    SPAQ
+     
+    The New York Stock Exchange
+
+    Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
+     
+    SPAQ WS
+     
+    The New York Stock Exchange
+
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+  
+
+Item
+1.01. Entry into a Material Definitive Agreement
+
+
+
+ 
+
+Business
+Combination Agreement and Plan of Reorganization
+
+ 
+
+On
+July 10, 2020, Spartan Energy Acquisition Corp., a Delaware corporation (“Spartan”), Spartan Merger Sub Inc.,
+a Delaware corporation and wholly owned subsidiary of Spartan (“Merger Sub”), and Fisker Inc., a Delaware corporation
+(the “Company”), entered into a business combination agreement and plan of reorganization (the “Business
+Combination Agreement”), pursuant to which Merger Sub will be merged with and into the Company (the “Merger,”
+together with the other transactions related thereto, the “Proposed Transactions”), with the Company surviving
+the Merger as a wholly owned subsidiary of Spartan (the “Surviving Corporation”).
+
+ 
+
+Conversion
+of Securities
+
+ 
+
+Immediately
+prior to the effective time of the Merger (the “Effective Time”), the Company will cause each share of the
+Company’s preferred stock (“Company Preferred Stock”) that is issued and outstanding immediately prior
+to the Effective Time to be automatically converted into a number of shares of the Company’s Class A common stock (“Company
+Class A Common Stock”) in accordance with the Company’s amended and restated certificate of incorporation dated
+December 10, 2018 (the “Company Charter”), and each converted share of Company Preferred Stock will no longer
+be outstanding and will cease to exist, such that each holder of Company Preferred Stock will thereafter cease to have any rights
+with respect to such securities.
+
+ 
+
+Also
+immediately prior to the Effective Time, the Company will cause the outstanding principal and accrued but unpaid interest due
+on the Company’s outstanding convertible notes (“Company Convertible Notes”) immediately prior to the
+Effective Time to be automatically converted into a number of shares of Company Class A Common Stock in accordance with the terms
+of such Company Convertible Notes, and such converted Company Convertible Notes will no longer be outstanding and will cease to
+exist.
+
+ 
+
+Also
+immediately prior to the Effective Time, the Company will cause the convertible equity security of the Company (the “Company
+Convertible Equity Security”) that is issued and outstanding immediately prior to the Effective Time to be automatically
+converted into 5,882,352 shares of Company Class A Common Stock. The Company Convertible Equity Security that is converted into
+shares of Company Class A Common Stock will no longer be outstanding and will cease to exist, and each holder of the Company Convertible
+Equity Security will thereafter cease to have any rights with respect to such security.
+
+ 
+
+At
+the Effective Time, by virtue of the Merger and without any action on the part of Spartan, Merger Sub, the Company or the holders
+of any of the Company’s securities:
+
+ 
+
+
+(a)Each
+share of Company Class A Common Stock issued and outstanding immediately prior to the Effective Time (excluding any shares of
+Company Class A Common Stock resulting from the conversion of the Company Convertible Equity Security) will be canceled and converted
+into the right to receive the number of shares of Class A Common Stock, par value $0.0001 per share, of Spartan (“Spartan
+Class A Common Stock”) equal to the Exchange Ratio. The “Exchange Ratio” means the following ratio (rounded
+to four decimal places): the quotient obtained by dividing the Company Merger Shares by the Company Outstanding Shares. The “Company
+Merger Shares” means a number of shares equal to (i) the quotient obtained by dividing (A) $1,750,000,000, as adjusted pursuant
+to the Business Combination Agreement, by (B) $10.00, minus (ii) the number of shares of Spartan Class A Common Stock ultimately
+issuable to the holder of the Company Convertible Equity Security, plus (iii) the number of Sponsor Shares (as defined
+below). The “Company Outstanding Shares” means the total number of shares of Company Common Stock (as defined below)
+outstanding immediately prior to the Effective Time, expressed on a fully-diluted and as-converted to Company Common Stock basis,
+and including, without limitation or duplication, the number of shares of Company Class A Common Stock (x) issuable upon conversion
+of the Company Preferred Stock and Company Convertible Notes, (y) that would be issuable upon conversion of the shares of Company
+Founders Stock issued and outstanding immediately prior to the Effective Time at the then-effective conversion rate as calculated
+pursuant to the Company Charter, and (z) subject to unexpired, issued and outstanding the Company Options (as defined below),
+and excluding the number of shares of Company Class A Common Stock issuable upon conversion of the Company Equity Security;
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+
+(b)Each
+                                         share of Company Class A Common Stock issued and outstanding
+immediately prior to the Effective Time resulting from the conversion of the Company Convertible Equity Security will be canceled
+and converted into the right to receive one share of Spartan Class A Common Stock;
+
+ 
+
+
+(c)Each
+share of the Company’s Class B common stock (together with the Company Class A Common Stock, the “Company Common
+Stock”) issued and outstanding immediately prior to the Effective Time will be canceled and converted into the right
+to receive the number of shares of newly authorized Class B Common Stock, par value $0.0001 per share, of Spartan, carrying voting
+rights in the form of 10 votes per such share (“Spartan Class B Common Stock”) equal to the Exchange Ratio;
+
+ 
+
+
+(d)Each
+                                         share of the Company Founders Stock issued and outstanding immediately prior to the Effective
+                                         Time will be canceled and converted into the right to receive the number of shares of
+                                         Spartan Class B Common Stock equal to the product of (rounded up or down to the nearest
+                                         whole number, with a fraction of 0.5 rounded up) (i) the number of shares of Company
+                                         Class A Common Stock that would have been issuable upon the conversion of such share
+                                         of Company Founders Stock at the then-effective conversion rate as calculated pursuant
+                                         to the Company Charter and (ii) the Exchange Ratio;
+
+ 
+
+
+(e)All
+                                         shares of Company Common Stock, Company Preferred Stock, Company Founders Stock and the
+                                         Company Convertible Equity Security held in the treasury of the Company will be canceled
+                                         without any conversion thereof and no payment or distribution will be made with respect
+                                         thereto;
+
+ 
+
+
+(f)Each
+                                         share of common stock, par value $0.0001 per share, of Merger Sub issued and outstanding
+                                         immediately prior to the Effective Time will be converted into and exchanged for one
+                                         validly issued, fully paid and nonassessable share of common stock, par value $0.00001
+                                         per share, of the Surviving Corporation;
+
+ 
+
+
+(g)Each
+                                         unexpired, issued and outstanding option to purchase shares of Company Class A Common
+                                         Stock, whether or not exercisable and whether or not vested (“Company Option”)
+                                         that is outstanding immediately prior to the Effective Time, whether vested or unvested,
+                                         will be converted into an option to purchase a number of shares of Spartan Class A Common
+                                         Stock (such option, an “Exchanged Option”) equal to the product (rounded
+                                         up or down to the nearest whole number, with a fraction of 0.5 rounded up) of (i) the
+                                         number of shares of Company Class A Common Stock subject to such Company Option immediately
+                                         prior to the Effective Time and (ii) the Exchange Ratio, at an exercise price per share
+                                         (rounded up or down to the nearest whole cent, with a fraction of $0.005 rounded up)
+                                         equal to (A) the exercise price per share of such Company Option immediately prior
+                                         to the Effective Time divided by (B) the Exchange Ratio. Except as specifically
+                                         provided in the Business Combination Agreement, following the Effective Time, each Exchanged
+                                         Option will continue to be governed by the same terms and conditions (including vesting
+                                         and exercisability terms) as were applicable to the corresponding former Company Option
+                                         immediately prior to the Effective Time; and
+
+ 
+
+
+(h)No
+                                         certificates or scrip or shares representing fractional shares of Spartan Class A Common
+                                         Stock or Spartan Class B Common Stock will be issued upon the exchange of Company Common
+                                         Stock or Company Founders Stock. Any fractional shares will be rounded up or down to
+                                         the nearest whole share of Spartan Class A Common Stock or Spartan Class B Common Stock,
+                                         as applicable, with a fraction of 0.5 rounded up. No cash settlements will be made with
+                                         respect to fractional shares.
+
+ 
+
+Proxy
+Statement
+
+ 
+
+As promptly as practicable
+after the date of the Business Combination Agreement, Spartan will prepare and file with the Securities and Exchange Commission
+(the “SEC”) a proxy statement (as amended or supplemented from time to time, the “Proxy Statement”)
+to be sent to the stockholders of Spartan (the “Spartan Stockholders”) relating to the meeting of the Spartan
+Stockholders (the “Spartan Stockholders’ Meeting”) to be held to consider (a) approval and adoption of
+the Business Combination Agreement and the Merger, (b) approval of the issuance of Spartan Class A Common Stock and Spartan Class
+B Common Stock as contemplated by the Business Combination Agreement and the Subscription Agreements (as defined below), (c) adoption
+of the second amended and restated certificate of incorporation of Spartan and (d) any other proposals the parties deem necessary
+to effectuate the Merger (collectively, the “Spartan Proposals”).
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Stock
+Exchange Listing
+
+ 
+
+Spartan
+will use its reasonable best efforts to cause the shares of Spartan Class A Common Stock to be issued in connection with the Proposed
+Transactions to be approved for listing on the New York Stock Exchange at the closing of the Merger (the “Closing”).
+Until the Closing, Spartan will use its reasonable best efforts to keep the Spartan Class A Common Stock and warrants listed for
+trading on the New York Stock Exchange.
+
+ 
+
+Registration
+Rights Agreement
+
+ 
+
+In
+connection with the Closing, that certain Registration Rights Agreement dated August 9, 2018 (the “IPO Registration Rights
+Agreement”) will be amended and restated and Spartan, certain persons and entities holding securities of Spartan prior
+to the Closing (the “Initial Holders”) and certain persons and entities receiving Spartan Class A Common Stock
+or Spartan Class B Common Stock pursuant to the Merger (the “New Holders” and together with the Initial Holders,
+the “Reg Rights Holders”) will enter into that amended and restated IPO Registration Rights Agreement attached
+as an exhibit to the Business Combination Agreement (the “Registration Rights Agreement”). Pursuant to the
+Registration Rights Agreement, Spartan will agree that, within 30 calendar days after the Closing, Spartan will file with the
+SEC (at Spartan’s sole cost and expense) a registration statement registering the resale of certain securities held by or
+issuable to the Initial Holders and certain of the New Holders (the “Founders Registration Statement”), and
+Spartan will use its reasonable best efforts to have the Founders Registration Statement declared effective as soon as reasonably
+practicable after the filing thereof. Additionally, Spartan will agree that, as soon as reasonably practicable after Spartan is
+eligible to register the Reg Rights Holders’ securities on a registration statement on Form S-3, Spartan will file with
+the SEC (at Spartan’s sole cost and expense) a registration statement registering the resale of certain securities held
+by or issuable to the New Holders that were not included on the Founders Registration Statement (the “New Holders Registration
+Statement”) and Spartan will use its reasonable best efforts to have the New Holders Registration Statement declared
+effective as soon as reasonably practicable after the filing thereof. In certain circumstances, the Reg Rights Holders can demand
+up to three underwritten offerings and will be entitled to customary piggyback registration rights.
+
+ 
+
+The
+foregoing description of the Registration Rights Agreement is qualified in its entirety by reference to the full text of the form
+of Registration Rights Agreement, a copy of which is included as Exhibit A to the Business Combination Agreement, filed as Exhibit
+2.1 to this Current Report on Form 8-K, and incorporated herein by reference.
+
+ 
+
+Lock-Up
+Agreements
+
+ 
+
+In connection with
+the Closing, certain investors in the Company will agree, subject to certain customary exceptions, not to (a) sell, offer to sell,
+contract or agree to sell, hypothecate, pledge, grant any option to purchase or otherwise dispose of or agree to dispose of, directly
+or indirectly, or establish or increase a put equivalent position or liquidate or decrease a call equivalent position within the
+meaning of Section 16 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and the rules
+and regulations of the SEC promulgated thereunder, any shares of Spartan Class A Common Stock or any shares of Spartan Class B
+Common Stock held by them immediately after the Effective Time, including any shares of Spartan Class A Common Stock issuable
+upon conversion of such shares of Spartan Class B Common Stock, or any shares of Spartan Class A Common Stock issuable upon the
+exercise of options to purchase shares of Spartan Class A Common stock held by them immediately after the effective time of the
+Merger (“Lock-Up Shares”), (b) enter into any swap or other arrangement that transfers to another, in whole
+or in part, any of the economic consequences of ownership of any of such Lock-Up Shares, whether any such transaction is to be
+settled by delivery of such securities, in cash or otherwise or (c) publicly announce any intention to effect any transaction
+specified in clause (a) or (b) (the actions specified in clauses (a)-(c), collectively, “Transfer”) for 180
+days after the date of Closing (the “Closing Date”). Thereafter, until the 18 month anniversary of the Closing
+Date, each of Henrik Fisker and Dr. Geeta Gupta will also agree not to Transfer more than the lesser of (a) such number of Lock-Up
+Shares resulting in gross proceeds to him or her of $25,000,000 and (b) 10% of the Lock-Up Shares. Thereafter, until the two year
+anniversary of the Closing Date each of Henrik Fisker and Dr. Geeta Gupta will also agree not to Transfer more than the number
+of Lock-Up Shares that, together with any amounts Transferred pursuant to the immediately preceding sentence, would constitute
+80% of the Lock-Up Shares.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+The
+foregoing description of the Lock-Up Agreements is qualified in its entirety by reference to the full text of the form of Lock-Up
+Agreement, a copy of which is included as Exhibit B to the Business Combination Agreement, filed as Exhibit 2.1 to this Current
+Report on Form 8-K, and incorporated herein by reference.
+
+ 
+
+Closing
+
+ 
+
+The Closing will
+occur as promptly as practicable, but in no event later than three business days following the satisfaction or waiver of all of
+the closing conditions.
+
+ 
+
+Exclusivity
+
+ 
+
+From the date of
+the Business Combination Agreement and ending on the earlier of (a) the Closing and (b) the termination of the Business Combination
+Agreement, but only, in the case of Spartan, to the extent not inconsistent with the fiduciary duties of the board of directors
+of Spartan, the parties will not, and will cause their respective subsidiaries and its and their respective representatives not
+to, directly or indirectly, (i) enter into, knowingly solicit, initiate or continue any discussions or negotiations with, or knowingly
+encourage or respond to any inquiries or proposals by, or participate in any negotiations with, or provide any information to,
+or otherwise cooperate in any way with, any person or other entity or “group” within the meaning of Section 13(d)
+of the Exchange Act, concerning any sale of any material assets of such party or any of the outstanding capital stock or any conversion,
+consolidation, liquidation, dissolution or similar transaction involving such party or any of such party’s subsidiaries
+other than with the other parties to the Business Combination Agreement and their respective representatives (an “Alternative
+Transaction”), (ii) enter into any agreement regarding, continue or otherwise knowingly participate in any discussions
+regarding, or furnish to any person any information with respect to, or cooperate in any way that would otherwise reasonably be
+expected to lead to, any Alternative Transaction or (iii) commence, continue or renew any due diligence investigation regarding
+any Alternative Transaction; provided that the execution, delivery and performance of the Business Combination Agreement and related
+documents and the consummation of the transactions contemplated thereby will not be deemed a violation of this provision. Each
+party will, and will cause its subsidiaries and its and their respective affiliates and representatives to, immediately cease
+any and all existing discussions or negotiations with any person conducted heretofore with respect to any Alternative Transaction.
+Each party also agrees that it will promptly request each person (other than the parties hereto and their respective representatives)
+that has prior to the date thereof executed a confidentiality agreement in connection with its consideration of an Alternative
+Transaction to return or destroy all confidential information furnished to such person by or on behalf of it prior to the date
+thereof (to the extent so permitted under, and in accordance with the terms of such confidentiality agreement). If a party or
+any of its subsidiaries or any of its or their respective representatives receives any inquiry or proposal with respect to an
+Alternative Transaction at any time prior to the Closing, then such party will promptly (and in no event later than 24 hours after
+such party becomes aware of such inquiry or proposal) notify such person in writing that such party is subject to an exclusivity
+agreement with respect to the Proposed Transactions that prohibits such party from considering such inquiry or proposal, but only,
+in the case of Spartan, to the extent not inconsistent with the fiduciary duties of the board of directors of Spartan.
+
+ 
+
+Representations,
+Warranties and Covenants
+
+ 
+
+The
+Business Combination Agreement contains customary representations, warranties and covenants of (a) the Company and (b) Spartan
+and Merger Sub relating to, among other things, their ability to enter into the Business Combination Agreement and their outstanding
+capitalization.
+
+ 
+
+Conditions
+to Closing
+
+ 
+
+Mutual
+
+ 
+
+The
+obligations of the Company, Spartan and Merger Sub to consummate the Proposed Transactions, including the Merger, are subject
+to the satisfaction or waiver (where permissible) at or prior to the Effective Time of the following conditions:
+
+ 
+
+
+(a)The
+                                         written consent of the requisite stockholders of the Company in favor of the approval
+                                         and adoption of the Business Combination Agreement and the Merger and all other transactions
+                                         contemplated by the Business Combination Agreement (the “Written Consent”)
+                                         has been delivered to Spartan;
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+
+(b)The
+                                         Spartan Proposals have been approved and adopted by the requisite affirmative vote of
+                                         the Spartan Stockholders in accordance with the Proxy Statement, the Delaware General
+                                         Corporation Law, Spartan’s organizational documents and the rules and regulations
+                                         of the New York Stock Exchange;
+
+ 
+
+
+(c)No
+                                         governmental authority has enacted, issued, promulgated, enforced or entered any law,
+                                         rule, regulation, judgment, decree, executive order or award which is then in effect
+                                         and has the effect of making the Proposed Transactions illegal or otherwise prohibiting
+                                         consummation of the Proposed Transactions;
+
+ 
+
+
+(d)All
+                                         required filings under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended
+                                         (the “HSR Act”), have been completed and any applicable waiting period
+                                         (and any extension thereof) applicable to the consummation of the Proposed Transactions
+                                         under the HSR Act has expired or been terminated; and
+
+ 
+
+
+(e)The
+                                         shares of Spartan Class A Common Stock are listed on the New York Stock Exchange, or
+                                         another national securities exchange mutually agreed to by the parties, as of the Closing
+                                         Date.
+
+ 
+
+Spartan
+and Merger Sub
+
+ 
+
+The
+obligations of Spartan and Merger Sub to consummate the Proposed Transactions are subject to the satisfaction or waiver (where
+permissible) at or prior to the Effective Time of the following additional conditions:
+
+ 
+
+
+(a)The
+                                         representations and warranties of the Company contained in the sections titled (a) “Organization
+                                         and Qualification; Subsidiaries,” (b) “Capitalization,” (c) “Authority
+                                         Relative to the Business Combination Agreement” and (d) “Brokers” in
+                                         the Business Combination Agreement will each be true and correct in all material respects
+                                         as of the date of the Business Combination Agreement and the Effective Time, except to
+                                         the extent that any such representation or warranty expressly is made as of an earlier
+                                         date, in which case such representation and warranty will be true and correct as of such
+                                         earlier specified date. Certain of the representations and warranties of the Company
+                                         contained in the section titled “Absence of Certain Changes or Events” in
+                                         the Business Combination Agreement will be true and correct in all respects as of the
+                                         date of the Business Combination Agreement and the Effective Time. Certain of the representations
+                                         and warranties in the section titled “Capitalization” in the Business Combination
+                                         Agreement will be true and correct in all respects except for de minimis inaccuracies
+                                         as of the date of the Business Combination Agreement and as of the Effective Time as
+                                         though made on and as of such date (except to the extent that any such representation
+                                         or warranty expressly is made as of an earlier date, in which case such representation
+                                         and warranty will be true and correct as of such specified date), except where the failure
+                                         of such representations and warranties to be so true and correct would not, individually
+                                         or in the aggregate, be reasonably expected to result in more than de minimis additional
+                                         cost, expense or liability to the Company, Spartan, Merger Sub or any of their respective
+                                         affiliates. The other representations and warranties of the Company contained in the
+                                         Business Combination Agreement will be true and correct in all respects (without giving
+                                         effect to any “materiality,” “Company Material Adverse Effect”
+                                         or similar qualifiers contained in any such representations and warranties) as of the
+                                         date of the Business Combination Agreement and as of the Effective Time as though made
+                                         on and as of such date (except to the extent that any such representation or warranty
+                                         expressly is made as of an earlier date, in which case such representation and warranty
+                                         will be true and correct as of such earlier date), except where the failures of any such
+                                         representations and warranties to be so true and correct, individually or in the aggregate,
+                                         would not reasonably be expected to have a Company material adverse effect;
+
+ 
+
+
+(b)The
+                                         Company has performed or complied in all material respects with all agreements and covenants
+                                         required by the Business Combination Agreement to be performed or complied with by it
+                                         on or prior to the Effective Time;
+
+ 
+
+
+(c)The
+                                         Company has delivered to Spartan a customary officer’s certificate, dated the date
+                                         of the Closing, certifying as to the satisfaction of certain conditions;
+
+ 
+
+
+(d)No
+                                         Company material adverse effect has occurred between the date of the Business Combination
+                                         Agreement and the Effective Time;
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+
+(e)Other
+                                         than those persons identified as continuing directors in the Business Combination Agreement,
+                                         all members of the board of directors of the Company and the board of directors of the
+                                         Company’s subsidiaries have executed written resignations effective as of the Effective
+                                         Time;
+
+ 
+
+
+(f)All
+                                         parties to the Registration Rights Agreement (other than Spartan and the Spartan Stockholders
+                                         party thereto) have delivered, or cause to be delivered, to Spartan copies of the Registration
+                                         Rights Agreement duly executed by all such parties;
+
+ 
+
+
+(g)All
+                                         parties to the Lock-Up Agreements proposed to be entered into in connection with Closing
+                                         have delivered, or caused to be delivered, to Spartan copies of the Lock-Up Agreements
+                                         duly executed by all such parties;
+
+ 
+
+
+(h)At
+                                         least two  days prior to the Closing, the Company delivered to Spartan in a form reasonably
+                                         acceptance to Spartan, a properly executed certification that shares of Company Common
+                                         Stock are not “U.S. real property interests” in accordance with Treasury
+                                         Regulation Section 1.1445-2(c)(3), together with a notice to the IRS (which will be filed
+                                         by Spartan with the IRS at or following the Closing) in accordance with the provisions
+                                         of Section 1.897-2(h)(2) of the Treasury Regulations;
+
+ 
+
+
+(i)Spartan
+                                         will have at least $5,000,001 of net tangible assets following the exercise of redemption
+                                         rights by the holders of Spartan Class A Common Stock in accordance with Spartan’s
+                                         organizational documents;
+
+ 
+
+
+(j)The
+                                         sale and issuance by Spartan of Spartan Class A Common Stock pursuant to the Subscription
+                                         Agreements will have been consummated prior to or in connection with the Effective Time;
+                                         and
+
+ 
+
+
+(k)The
+                                         Company will have delivered to Spartan its audited financial statements.
+
+ 
+
+The
+Company
+
+ 
+
+The
+obligations of the Company to consummate the Proposed Transactions are subject to the satisfaction or waiver (where permissible)
+at or prior to Effective Time of the following additional conditions:
+
+ 
+
+
+(a)The
+                                         representations and warranties of Spartan and Merger Sub contained
+in the sections titled (i) “Corporate Organization,” (ii) “Capitalization,” (iii) “Authority Relative
+to the Business Combination Agreement” and (iv) “Brokers” in the Business Combination Agreement will each be
+true and correct in all material respects as of the date of the Business Combination Agreement and the Effective Time, except to
+the extent that any such representation or warranty expressly is made as of an earlier date, in which case such representation
+and warranty will be true and correct as of such earlier specified date. Certain of the representations and warranties of Spartan
+and Merger Sub contained in the section titled “Absence of Certain Changes or Events” in the Business Combination Agreement
+will be true and correct in all respects as of the date of the Business Combination Agreement and the Effective Time. Certain of
+the representations and warranties in the section titled “Capitalization” in the Business Combination Agreement will
+be true and correct in all respects except for de minimis inaccuracies as of the date of the Business Combination Agreement and
+as of the Effective Time as though made on and as of such date (except to the extent that any such representation or warranty expressly
+is made as of an earlier date, in which case such representation and warranty will be true and correct as of such specified date),
+except where the failure of such representations and warranties to be so true and correct would not, individually or in the aggregate,
+be reasonably expected to result in more than de minimis additional cost, expense or liability to the Company, Spartan, Merger
+Sub or any of their respective affiliates. The other representations and warranties of Spartan and Merger Sub contained in the
+Business Combination Agreement will be true and correct in all respects (without giving effect to any “materiality,”
+“Spartan Material Adverse Effect” or similar qualifiers contained in any such representations and warranties) as of
+the date of the Business Combination Agreement and as of the Effective Time as though made on and as of such date (except to the
+extent that any such representation or warranty expressly is made as of an earlier date, in which case such representation and
+warranty will be true and correct as of such earlier date), except where the failures of any such representations and warranties
+to be so true and correct, individually or in the aggregate, would not reasonably be expected to have a Spartan material adverse
+effect;
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+
+(b)Spartan
+                                         and Merger Sub have performed or complied (i) in all respects with the covenant to take
+                                         all actions necessary to seek the approval of the Spartan Stockholders to extend the
+                                         deadline for Spartan to consummate its initial business combination, and (ii) in all
+                                         material respects with all other agreements and covenants required by the Business Combination
+                                         Agreement to be performed or complied with by it on or prior to the Effective Time;
+
+ 
+
+
+(c)Spartan
+                                         has delivered to the Company a customary officer’s certificate (signed by the Chief
+                                         Executive Officer of Spartan), dated the date of the Closing, certifying as to the satisfaction
+                                         of certain conditions;
+
+ 
+
+
+(d)No
+                                         Spartan material adverse effect has occurred between the date of the Business Combination
+                                         Agreement and the Effective Time;
+
+ 
+
+
+(f)Spartan
+                                         has delivered a copy of the Registration Rights Agreement duly executed by Spartan and
+                                         the Spartan Stockholders party thereto; and
+
+ 
+
+
+(g)Spartan
+                                         has made all necessary and appropriate arrangements with the trustee of its trust account
+                                         to have all of the funds in the trust account disbursed to Spartan immediately prior
+                                         to the Effective Time, and all such funds released from the trust account are available
+                                         for immediate use to Spartan in respect of all or a portion of the payment obligations
+                                         set forth in the Business Combination Agreement and the payment of Spartan’s fees
+                                         and expenses incurred in connection with the Business Combination Agreement and the Proposed
+                                         Transactions.
+
+ 
+
+Termination
+
+ 
+
+The
+Business Combination Agreement may be terminated and the Proposed Transactions may be abandoned at any time prior to the Effective
+Time, notwithstanding any requisite approval and adoption of the Business Combination Agreement and the Proposed Transactions
+by the stockholders of the Company or the Spartan Stockholders, as follows:
+
+ 
+
+
+(a)By
+                                         mutual written consent of Spartan and the Company;
+
+ 
+
+
+(b)By
+                                         Spartan or the Company, if (i) the Effective Time will not have occurred prior to the
+                                         date that is 180 days after the date of the Business Combination Agreement (the “Outside
+                                         Date”); provided, however, that the Business Combination Agreement may not
+                                         be terminated by or on behalf of any party that either directly or indirectly through
+                                         its affiliates is in breach or violation of any representation, warranty, covenant, agreement
+                                         or obligation contained therein and such breach or violation is the principal cause of
+                                         the failure of a condition to the Merger on or prior to the Outside Date, and, in the
+                                         event that any law is enacted after the execution of the Business Combination Agreement
+                                         extending the applicable waiting period under the HSR Act, the Outside Date will be automatically
+                                         extended by the length of any such extension; (ii) any governmental authority in the
+                                         United States has enacted, issued, promulgated, enforced or entered any injunction, order,
+                                         decree or ruling (whether temporary, preliminary or permanent) which has become final
+                                         and nonappealable and has the effect of making consummation of the Proposed Transactions
+                                         illegal or otherwise preventing or prohibiting consummation of the Proposed Transactions,
+                                         including the Merger; or (iii) any of the Spartan Proposals fail to receive the requisite
+                                         vote for approval at the Spartan Stockholders’ Meeting;
+
+ 
+
+
+(c)By
+                                         the Company if there is an occurrence of a breach of any representation, warranty, covenant
+                                         or agreement on the part of Spartan and Merger Sub set forth in the Business Combination
+                                         Agreement, or if any representation or warranty of Spartan and Merger Sub will have become
+                                         untrue, in either case such that the conditions set forth in representations and warranties
+                                         and the agreements and covenants of Merger Sub and Spartan specified in the conditions
+                                         to the Merger section of the Business Combination Agreement would not be satisfied (“Terminating
+                                         Spartan Breach”); provided that the Company has not waived such Terminating
+                                         Spartan Breach and the Company is not then in material breach of their representations,
+                                         warranties, covenants or agreements in the Business Combination Agreement; provided,
+                                         however, that, if such Terminating Spartan Breach is curable by Spartan and Merger Sub,
+                                         the Company may not terminate the Business Combination Agreement under this section for
+                                         so long as Spartan and Merger Sub continue to exercise their reasonable efforts to cure
+                                         such breach, unless such breach is not cured within thirty days after notice of such
+                                         breach is provided by the Company to Spartan; or
+
+ 
+
+
+
+
+    7
+     
+    
+
+ 
+
+
+(d)By
+                                         Spartan if (i) the Company has failed to deliver the Written Consent to Spartan one business day of execution of the Business Combination Agreement; or (ii) there is an
+                                         occurrence of a breach of any representation, warranty, covenant or agreement on the
+                                         part of the Company set forth in the Business Combination Agreement, or if any representation
+                                         or warranty of the Company has become untrue, in either case such that the conditions
+                                         set forth in representations and warranties and the agreements and covenants of the Company
+                                         specified in the conditions to the Merger section of the Business Combination Agreement
+                                         would not be satisfied (“Terminating Company Breach”); provided that
+                                         Spartan has not waived such Terminating Company Breach and Spartan and Merger Sub are
+                                         not then in material breach of their representations, warranties, covenants or agreements
+                                         in the Business Combination Agreement; provided further that, if such Terminating Company
+                                         Breach is curable by the Company, Spartan may not terminate the Business Combination
+                                         Agreement under this provision for so long as the Company continues to exercise its reasonable
+                                         efforts to cure such breach, unless such breach is not cured within thirty (30) days
+                                         after notice of such breach is provided by Spartan to the Company.
+
+ 
+
+Effect
+of Termination
+
+ 
+
+If
+the Business Combination Agreement is terminated, the agreement will forthwith become void, and there will be no liability under
+the Business Combination Agreement on the part of any party hereto, except as set forth in the Business Combination Agreement
+or in the case of termination subsequent to a willful material breach of the Business Combination Agreement by a party thereto.
+
+ 
+
+A
+copy of the Business Combination Agreement is filed with this Current Report on Form 8-K as Exhibit 2.1 and is incorporated herein
+by reference. The foregoing description of the Business Combination Agreement is qualified in its entirety by reference to the
+full text of the Business Combination Agreement filed with this Current Report on Form 8-K. The Business Combination Agreement
+is included to provide security holders with information regarding its terms. It is not intended to provide any other factual
+information about Spartan, the Company or the other parties thereto. In particular, the assertions embodied in representations
+and warranties by Spartan, the Company and Merger Sub contained in the Business Combination Agreement are qualified by information
+in the disclosure schedules provided by the parties in connection with the signing of the Business Combination Agreement. These
+disclosure schedules contain information that modifies, qualifies and creates exceptions to the representations and warranties
+set forth in the Business Combination Agreement. Moreover, certain representations and warranties in the Business Combination
+Agreement were used for the purpose of allocating risk between the parties, rather than establishing matters as facts. Accordingly,
+security holders should not rely on the representations and warranties in the Business Combination Agreement as characterizations
+of the actual state of facts about Spartan, the Company or Merger Sub.
+
+ 
+
+Sponsor
+Agreement
+
+ 
+
+In connection with
+the execution of the Business Combination Agreement, on July 10, 2020, Spartan Energy Acquisition Sponsor LLC (“Sponsor”)
+entered into a Sponsor Agreement with Spartan pursuant to which Sponsor will, immediately prior to, and conditioned upon, the
+Effective Time, automatically and irrevocably surrender and forfeit to Spartan, for no consideration and as a contribution to
+the capital of Spartan, 441,176 shares of Class B Common Stock, par value of $0.0001 per share, of Spartan (the “Sponsor
+Shares”), whereupon the Sponsor Shares will be canceled.
+
+ 
+
+The
+foregoing description of the Sponsor Agreement is qualified in its entirety by reference to the full text of the form of the Sponsor
+Agreement, a copy of which is included as Exhibit 10.1 to this Current Report on Form 8-K, and incorporated herein by reference.
+
+ 
+
+Subscription
+Agreements
+
+ 
+
+In
+connection with the execution of the Business Combination Agreement, on July 10, 2020, Spartan entered into separate subscription
+agreements (collectively, the “Subscription Agreements”) with a number of investors (collectively, the “Subscribers”),
+pursuant to which the Subscribers agreed to purchase, and Spartan agreed to sell to the Subscribers, an aggregate of 50,000,000
+shares of Spartan Class A Common Stock (the “PIPE Shares”), for a purchase price of $10.00 per share and an
+aggregate purchase price of $500,000,000, in a private placement (the “PIPE”).
+
+ 
+
+
+    8
+     
+    
+
+ 
+
+
+
+The closing of the sale of the PIPE Shares
+pursuant to the Subscription Agreements is contingent upon, among other customary closing conditions, the concurrent consummation
+of the Proposed Transactions. The purpose of the PIPE is to raise additional capital for use by the combined company following
+the Closing.
+
+ 
+
+Pursuant to the Subscription Agreements,
+Spartan agreed that, within 30 calendar days after the consummation of the Proposed Transactions, Spartan will file with the SEC
+(at Spartan’s sole cost and expense) a registration statement registering the resale of the PIPE Shares (the “PIPE
+Resale Registration Statement”), and Spartan will use its commercially reasonable efforts to have the PIPE Resale Registration
+Statement declared effective as soon as practicable after the filing thereof.
+
+ 
+
+The foregoing description of the Subscription
+Agreements is qualified in its entirety by reference to the full text of the form of the Subscription Agreement, a copy of which
+is included as Exhibit 10.2 to this Current Report on Form 8-K, and incorporated herein by reference.
+
+ 
+
+ Item 3.02. Unregistered Sales of Equity Securities.
+
+
+
+ 
+
+The disclosure set forth above in Item
+1.01 of this Current Report on Form 8-K is incorporated by reference herein. The securities of Spartan that may be issued in connection
+with the Merger and the Subscription Agreements will not be registered under the Securities Act of 1933, as amended (the “Securities
+Act”) in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act and/or Regulation
+D promulgated thereunder.
+
+ 
+
+ Item 7.01. Regulation FD Disclosure.
+
+
+
+ 
+
+On July 13, 2020,
+Spartan and the Company issued a joint press release announcing the execution of the Business Combination Agreement. A copy of
+the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. A conference call by management of Spartan
+and the Company (the “Conference Call”) can be accessed via the following link: http://public.viavid.com/index.php?id=140790.
+A copy of the script for the Conference Call is attached hereto as Exhibit 99.2 and incorporated herein by reference. Such exhibits
+and the information set forth therein will not be deemed to be filed for purposes of Section 18 of the Exchange Act, or otherwise
+be subject to the liabilities of that section, nor will it be deemed to be incorporated by reference in any filing under the Securities
+Act or the Exchange Act.
+
+ 
+
+Attached as Exhibit
+99.3 to this Current Report on Form 8-K and incorporated herein by reference is an investor presentation relating to the Proposed
+Transactions. Such exhibit and the information set forth therein will not be deemed to be filed for purposes of Section 18 of the
+Exchange Act, or otherwise be subject to the liabilities of that section, nor will it be deemed to be incorporated by reference
+in any filing under the Securities Act or the Exchange Act.
+
+ 
+
+In addition to the risks set forth under “Forward-Looking
+Statements” below, the Company and Spartan caution you that the Company’s business is subject to numerous risks and
+uncertainties, most of which are difficult to predict and many of which are beyond the control of the Company, including the following:
+the Company has a limited operating history under its current business model and has not yet sold any production vehicles to customers;
+the Company’s electronic mobility as a service business model is unproven; the Company has incurred losses in the operation
+of its business and anticipates that it will continue to incur losses in the future; the Company may never achieve or sustain profitability;
+the Company’s vehicles are in development and it does not expect its first vehicle to be produced until the fourth quarter
+of 2022, if at all; if Volkswagen Aktiengesellschaft and its subsidiaries choose to not do business with the Company, then it would
+have significant difficulty in procuring and producing its vehicles and its business prospects would be significantly hindered;
+while the Company has memorandums of understanding in place with certain third parties relating to aspects of its business, it
+does not currently have arrangements in place that will allow it to fully execute its business plan, including, without limitation,
+final supply and manufacturing agreements and fleet service and management agreements; the market for the Company’s vehicles
+is nascent and not established; the dual class structure of the Company’s common stock following the Closing will have the
+effect of concentrating voting control with the Company’s co-founders and following the Proposed Transactions, the combined
+company’s Class B common stock will have 10 votes per share, and the combined company’s Class A common stock will have
+one vote per share, resulting in the holders of the combined company’s outstanding Class B common stock will hold a majority
+of the voting power of the combined company’s outstanding capital stock following the Closing; following the Closing, the
+combined company’s Class B common stock will be beneficially owned by Henrik Fisker and Dr. Geeta Gupta, who are the Company’s
+CEO and CFO, respectively and this will give the combined company’s CEO and CFO, who are husband and wife, the ability to
+control the election of directors and limit or preclude your ability to influence corporate matters.
+
+
+
+ 
+
+
+
+
+    9
+     
+    
+
+ 
+
+Important Information and Where to Find
+It
+
+ 
+
+In connection with the Proposed Transaction,
+Spartan will file a proxy statement with the SEC. Additionally, Spartan will file other relevant materials with the SEC in connection
+with the Proposed Transactions. Copies may be obtained free of charge at the SEC’s web site at www.sec.gov. Security holders
+of Spartan are urged to read the proxy statement and the other relevant materials when they become available before making any
+voting decision with respect to the Proposed Transactions because they will contain important information about the Proposed Transactions
+and the parties thereto. The information contained on, or that may be accessed through, the websites referenced in this Current
+Report on Form 8-K is not incorporated by reference into, and is not a part of, this Current Report Form 8-K.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+Spartan and its directors and officers
+may be deemed participants in the solicitation of proxies of Spartan’s shareholders in connection with the Proposed Transactions.
+Security holders may obtain more detailed information regarding the names, affiliations and interests of certain of Spartan’s
+executive officers and directors in the solicitation by reading Spartan’s Annual Report on Form 10-K for the fiscal year
+ended December 31, 2019, and the proxy statement and other relevant materials filed with the SEC in connection with the Proposed
+Transactions when they become available. Information concerning the interests of Spartan’s participants in the solicitation,
+which may, in some cases, be different than those of their stockholders generally, will be set forth in the proxy statement relating
+to the Proposed Transactions when it becomes available.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K includes
+“forward-looking statements” within the meaning of Section 27A of the Securities Act, and Section 21E of the Securities
+Exchange Act. All statements, other than statements of present or historical fact included in this Current Report on Form 8-K,
+regarding Spartan’s proposed acquisition of the Company and Spartan’s ability to consummate the transaction, are forward-looking
+statements. When used in this Form 8-K, the words “could,” “should,” “will,” “may,”
+“believe,” “anticipate,” “intend,” “estimate,” “expect,” “project,”
+the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all
+forward-looking statements contain such identifying words. These forward-looking statements are based on management’s current
+expectations and assumptions about future events and are based on currently available information as to the outcome and timing
+of future events. Except as otherwise required by applicable law, Spartan and the Company disclaim any duty to update any forward
+looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances
+after the date of this Current Report on Form 8-K. Spartan and the Company caution you that these forward-looking statements are
+subject to numerous risks and uncertainties, most of which are difficult to predict and many of which are beyond the control of
+either Spartan or the Company. In addition, Spartan cautions you that the forward-looking statements contained in this Current
+Report on Form 8-K are subject to the following factors: (i) the occurrence of any event, change or other circumstances that could
+delay the Proposed Transactions or give rise to the termination of the agreements related thereto; (ii) the outcome of any legal
+proceedings that may be instituted against Spartan or the Company following announcement of the Proposed Transactions; (iii) the
+inability to complete the Proposed Transactions due to the failure to obtain approval of the shareholders of Spartan, or other
+conditions to closing in the agreements related to the Proposed Transactions; (iv) the risk that the Proposed Transactions disrupt
+Spartan’s or the Company’s current plans and operations as a result of the announcement of the Proposed Transactions;
+(v) the Company’s ability to realize the anticipated benefits of the Proposed Transactions, which may be affected by, among
+other things, competition and the ability of the Company to grow and manage growth profitably following the Proposed Transactions;
+(vi) costs related to the Proposed Transactions; (vii) changes in applicable laws or regulations; and (viii) the possibility that
+the Company may be adversely affected by other economic, business, and/or competitive factors. Should one or more of the risks
+or uncertainties described in this Current Report on Form 8-K, or should underlying assumptions prove incorrect, actual results
+and plans could different materially from those expressed in any forward-looking statements. Additional information concerning
+these and other factors that may impact the operations and projections discussed herein can be found in Spartan’s periodic
+filings with the SEC, including its Annual Report on Form 10-K for the fiscal year ended December 31, 2019. Spartan’s SEC
+filings are available publicly on the SEC’s website at www.sec.gov.
+
+ 
+
+
+
+
+    10
+     
+    
+
+ 
+
+ Item 9.01. Financial Statements and Exhibits.
+
+
+
+ 
+
+(d) Exhibits.
+
+ 
+
+
+
+    Exhibit No. 
+    Exhibit
+
+    2.1* 
+    Business Combination Agreement and Plan of Reorganization, dated as of July 10, 2020, by and among Spartan, Merger Sub and the Company.
+
+    10.1 
+    Sponsor Agreement, dated July 10, 2020 by and between Spartan and Sponsor.
+
+    10.2 
+    Form of Subscription Agreement.
+
+    99.1 
+    Press Release, dated July 13, 2020.
+
+    99.2 
+    Conference Call Script.
+
+    99.3 
+    Investor Presentation.
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+*All schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule and/or exhibit
+will be furnished to the SEC upon request.
+
+ 
+
+
+
+
+    11
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+Dated: July 13, 2020
+
+ 
+
+
+
+
+
+     
+    SPARTAN ENERGY ACQUISITION CORP.
+
+     
+     
+
+     
+    By:
+    /s/ Geoffrey Strong
+
+     
+     
+    Name: Geoffrey Strong
+
+     
+     
+    Title: Chief Executive Officer
+
+
+
+ 
+
+ 
+
+ 
+
+12
+
+
+
+ 
+
+ 
+
+
+
+

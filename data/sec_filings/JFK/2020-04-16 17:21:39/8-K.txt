@@ -1,0 +1,426 @@
+
+8-K
+1
+form8-k.htm
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+Form
+8-K
+
+ 
+
+Current
+Report
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities
+Exchange Act of 1934
+
+ 
+
+April
+16, 2020
+
+Date
+of Report (Date of earliest event reported)
+
+ 
+
+8i
+ENTERPRISES ACQUISITION CORP.
+
+(Exact
+Name of Registrant as Specified in its Charter)
+
+ 
+
+
+
+    British
+    Virgin Islands
+     
+    001-38849
+     
+    N/A
+
+    (State
+        or other jurisdiction
+        of
+        incorporation)
+     
+    (Commission
+        File
+        Number)
+     
+    (I.R.S.
+        Employer
+        Identification
+        No.)
+
+ 
+
+
+
+    6
+        Eu Tong Sen Street
+        #08-13 The Central
+        Singapore
+        
+     
+    059817
+
+    (Address
+        of Principal Executive Offices)
+     
+    (Zip
+        Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: +65 67880388
+
+ 
+
+N/A
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    [X]
+    
+    Written
+    communications pursuant to Rule 425 under the Securities Act
+
+     
+     
+
+    [  ]
+    
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act
+
+     
+     
+
+    [  ]
+    
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+     
+     
+
+    [  ]
+    
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Ordinary
+    Shares
+     
+    JFK
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Warrants
+     
+    JFKKW
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Units
+     
+    JFKKU
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Rights
+     
+    JFKKR
+     
+    The
+    Nasdaq Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR
+§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging
+growth company [X]
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+
+ 
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+IMPORTANT
+NOTICES
+
+ 
+
+8i
+Enterprises Acquisition Corp, a British Virgin Islands business company (“JFK”), Diginex Limited, a Singapore public
+company limited by shares (“Singapore NewCo”), DIGITAL INNOVATIVE LIMITED, a British Virgin Islands business company
+(“BVI NewCo”), and Diginex Limited, a Hong Kong company (“Diginex”), and their respective directors, executive
+officers and employees and other persons may be deemed to be participants in the solicitation of proxies from the holders of JFK
+ordinary shares in respect of the proposed transactions described herein (the “Business Combination”). Information
+about JFK’s directors and executive officers and their ownership of JFK’s ordinary shares is set forth in JFK’s
+Prospectus, dated March 27, 2019, and Quarterly Report on Form 10-K, dated December 10, 2019, filed with the Securities and Exchange
+Commission (the “SEC”), as modified or supplemented by any Form 4 filed with the SEC since the date of such filing.
+Other information regarding the interests of the participants in the proxy solicitation will be included in the proxy statement/prospectus
+included in the Registration Statement on Form F-4/A jointly filed by Singapore NewCo and JFK pertaining to the Business Combination
+(the “Form F-4”). These documents can be obtained free of charge from the sources indicated above.
+
+ 
+
+In
+connection with the Business Combination described herein, Singapore NewCo has filed the Form F-4, which includes and serves as
+a proxy statement/prospectus for JFK’s shareholders. JFK has mailed the definitive proxy statement/prospectus and a proxy
+card to each shareholder entitled to vote at the meeting relating to the approval of the Business Combination and other proposals
+set forth in the proxy statement. INVESTORS AND SECURITY HOLDERS OF JFK ARE URGED TO READ THESE MATERIALS (INCLUDING ANY AMENDMENTS
+OR SUPPLEMENTS THERETO) AND ANY OTHER RELEVANT DOCUMENTS IN CONNECTION WITH THE BUSINESS COMBINATION THAT JFK WILL FILE WITH THE
+SEC WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT JFK, SINGAPORE NEWCO, BVI NEWCO, DIGINEX
+AND THE BUSINESS COMBINATION. The definitive proxy statement/prospectus and other relevant materials in connection with the Business
+Combination (when they become available), and any other documents filed by JFK with the SEC, may be obtained free of charge at
+the SEC’s website (www.sec.gov) or by writing to 8i Enterprises Acquisition Corp, 6 Eu Tong Sen Street, #08-13 The Central,
+Singapore.
+
+ 
+
+This
+Current Report on Form 8-K contains certain “forward-looking statements” within the meaning of the Securities Act
+of 1933 and the Securities Exchange Act of 1934, both as amended by the Private Securities Litigation Reform Act of 1995. Statements
+that are not historical facts, including statements about the pending Business Combination by and among JFK, Singapore NewCo,
+BVI NewCo and Diginex and the transactions contemplated thereby, and the parties’ perspectives and expectations, are forward-looking
+statements. Such statements include, but are not limited to, statements regarding the proposed transaction, including the anticipated
+initial enterprise value and post-closing equity value, the benefits of the proposed transaction, expected revenue opportunities,
+anticipated future financial and operating performance and results, including estimates for growth, expected management and governance,
+the ability to close the Business Combination, and the expected timing of the transactions contemplated by the (i) merger agreement
+by and among Singapore NewCo, BVI NewCo and JFK, dated October 8, 2019, and (ii) share exchange agreement by and among JFK, Diginex,
+the stockholders of Diginex set forth therein (the “Sellers”), and Pelham Limited, as the representative of the Sellers
+(the “Representative”), dated July 9, 2019 (the “Share Exchange Agreement”), as amended by the amendment
+and joinder to the Share Exchange Agreement, dated October 8, 2019, by and among JFK, Singapore NewCo, BVI NewCo, the Sellers,
+Diginex and the Representative (the “Amendment,” and together with the Share Exchange Agreement, the “Amended
+Share Exchange Agreement”), and as further amended by the second amendment to the Share Exchange Agreement, dated January
+28, 2020 by and among JFK, Singapore NewCo, BVI NewCo, the Sellers, Diginex and the Representative (the “Second Amendment,”
+and together with the Amended Share Exchange Agreement, the “Second Amended Share Exchange Agreement”). The words
+“expect,” “believe,” “estimate,” “intend,” “plan,” and similar expressions
+indicate forward-looking statements. These forward-looking statements are not guarantees of future performance and are subject
+to various risks and uncertainties, assumptions (including assumptions about general economic, market, industry and operational
+factors), known or unknown, which could cause the actual results to vary materially from those indicated or anticipated.
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Such
+risks and uncertainties include, but are not limited to: (i) risks related to the expected timing and likelihood of completion
+of the Business Combination, including the risk that the Business Combination may not close due to one or more closing conditions
+to the Business Combination not being satisfied or waived on a timely basis or otherwise; (ii) the occurrence of any event, change
+or other circumstances that could give rise to the termination of the Second Amended Share Exchange Agreement; (iii) the risk
+that there may be a material adverse effect on the business, properties, assets, liabilities, results of operations or condition
+(financial or otherwise), of Diginex or its subsidiaries, taken as a whole; (iv) risks related to disruption of management time
+from ongoing business operations due to the proposed Business Combination; (v) the risk that any announcements relating to the
+proposed Business Combination could have adverse effects on the market price of JFK’s ordinary shares; and (vi) other risks
+and uncertainties indicated from time to time in the Form F-4, including “Risk Factors” therein, and other factors
+identified in JFK’s and Singapore NewCo’s prior and future filings with the SEC, available at www.sec.gov.
+
+ 
+
+Should
+one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may
+vary materially from those indicated or anticipated by such forward-looking statements. Accordingly, you are cautioned not to
+place undue reliance on these forward-looking statements. Forward-looking statements relate only to the date they were made, and
+JFK, Singapore NewCo, Diginex, and their respective subsidiaries undertake no obligation to update forward-looking statements
+to reflect events or circumstances after the date they were made except as required by law or applicable regulation.
+
+ 
+
+Item
+7.01. Regulation FD Disclosure
+
+ 
+
+On
+April 16, 2020, JFK and Diginex issued press releases announcing the release of Diginex’s Helios platform. Copies of the
+press releases are attached hereto as Exhibits 99.1 and 99.2, respectively.
+
+ 
+
+The
+foregoing information, including the press releases attached hereto as Exhibit 99.1 and Exhibit 99.2, respectively,
+are being furnished pursuant to Item 7.01 of this Current Report and shall not be deemed “filed” for the purposes
+of Section 18 of the Securities and Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that Section.
+
+ 
+
+Item
+9.01. Financial Statements and Exhibits
+
+ 
+
+(d)
+Exhibits:
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+    99.1
+     
+    JFK Press Release, dated as of April 16, 2020
+
+    99.2
+     
+    Diginex Press Release, dated as of April 16, 2020
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+Dated:
+April 16, 2020
+
+ 
+
+8i
+ENTERPRISES ACQUISITION CORP.
+
+ 
+
+
+
+    By:
+    
+    /s/
+    James Tan
+     
+
+    Name:
+    
+    James
+    Tan
+     
+
+    Title:
+    Chief
+    Executive Officer
+     
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+
+
+

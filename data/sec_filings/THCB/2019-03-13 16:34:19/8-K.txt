@@ -1,0 +1,324 @@
+
+8-K
+1
+f8k030719_tuscanholding.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+______________
+
+ 
+
+FORM 8-K
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+Date of Report (Date of earliest event reported):
+March 7, 2019
+
+ 
+
+ 
+
+TUSCAN HOLDINGS CORP.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38826
+     
+    83-2530757
+
+    (State or Other Jurisdiction 
+     
+    (Commission 
+     
+    (IRS Employer
+
+    of Incorporation)
+     
+    File Number)
+     
+    Identification No.)
+
+ 
+
+ 
+
+135 E. 57th Street, 18th
+Floor
+
+New York, NY 10022
+
+(Address of Principal Executive Offices) (Zip
+Code)
+
+ 
+
+(646) 948-7100
+
+(Registrant’s Telephone Number, Including
+Area Code)
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since
+Last Report)
+
+ 
+
+Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+
+☐Written communications pursuant to Rule 425
+under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐Soliciting material pursuant to Rule 14a-12
+under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+☐Pre-commencement communications pursuant to
+Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+☐Pre-commencement communications pursuant to
+Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by
+check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+
+
+ 
+
+ 
+
+
+     
+     
+    
+
+ 
+
+
+
+    Item 3.02.  
+    Unregistered Sales of Equity Securities.
+
+ 
+
+	The
+information provided in Item 8.01 of this Form 8-K is incorporated by reference into this Item 3.02.
+
+ 
+
+
+
+    Item 8.01.
+    Other Events.
+
+ 
+
+On March 7, 2019,
+the Company consummated the initial public offering (“IPO”) of 24,000,000 of its units (“Units”).
+Each Unit consists of one share of common stock, $0.0001 par value per share (“Common Stock”), and one redeemable
+warrant (“Warrant”), with each Warrant entitling the holder to purchase one share of Common Stock at a price
+of $11.50 per share. The Units were sold at an offering price of $10.00 per Unit, generating gross proceeds of $240,000,000.
+
+	Simultaneously
+with the consummation of the IPO, the Company consummated the private placement (“Private Placement”) of 615,000
+Units (“Private Units”) at a price of $10.00 per Private Unit, generating total proceeds of $6,150,000, to the
+Company’s sponsor, Tuscan Holdings Acqusition LLC, and EarlyBirdCapital, Inc., the representative of the underwriters in
+the IPO, and its designees. The Private Units are identical to the Units sold in the IPO, except that the Warrants underlying the
+Private Units are non-redeemable and may be exercised on a cashless basis, in each case so long as they continue to be held by
+the initial purchasers or their permitted transferees. The purchasers of the Private Units have agreed (A) to vote the Common Stock
+underlying the Private Units (“Private Shares”) in favor of any proposed business combination, (B) not to convert
+any Private Shares into the right to receive cash from the trust account in connection with a shareholder vote to approve the Company’s
+proposed initial business combination or sell any Private Shares to the Company in a tender offer in connection with a proposed
+initial business combination and (C) that such Private Shares shall not participate in any liquidating distribution upon winding
+up if a business combination is not consummated within the required time period. Additionally, the purchasers of Private Units
+have agreed not to transfer, assign or sell any of the Private Units, including the underlying Common Stock and Warrants (except
+to certain permitted transferees), until the completion of the Company’s initial business combination.
+
+	An audited balance
+sheet as of March 7, 2019 reflecting receipt of the proceeds received by the Company in connection with the consummation of the
+IPO and the Private Placement has been issued by the Company and is included as Exhibit 99.1 to this Current Report on Form 8-K.
+A copy of the press release issued by the Company announcing the consummation of the IPO and Private Placement is included as Exhibit
+99.2 to this Current Report on Form 8-K.
+
+ 
+
+
+
+On March
+12, 2019, the Company consummated the sale of an additional 3,600,000 Units that were subject to the underwriters’ over-allotment
+option at $10.00 per Unit, generating gross proceeds of $36,000,000. Simultaneously with the closing of the sale of additional
+units, the Company consummated the sale of an additional 72,000 Private Units at $10.00 per Private Unit, generating total proceeds
+of $720,000. Following the closing of the over-allotment option and sale of additional Private Units, an aggregate amount of $276,000,000
+has been placed in the Company’s trust account established in connection with the IPO.
+
+ 
+
+
+
+    Item 9.01.
+    Financial Statement and Exhibits.
+
+
+ 
+
+
+
+     
+    (d)
+    Exhibits:
+
+     
+     
+     
+
+     
+    Exhibit
+    Description
+
+     
+     
+     
+
+     
+    99.1
+    Audited Balance Sheet.
+
+     
+     
+     
+
+     
+    99.2
+    Press Release Announcing Consummation of IPO.
+
+     
+     
+     
+
+     
+    99.3
+    Press Release Announcing Consummation of Over-Allotment Option.
+
+  
+
+
+    1 
+     
+    
+
+
+
+SIGNATURE
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Dated: March 13, 2019
+
+
+
+     
+    TUSCAN HOLDINGS CORP.
+
+     
+     
+     
+
+     
+    By: 
+    /s/ Stephen A. Vogel
+
+     
+     
+    Name: Stephen A. Vogel
+
+     
+     
+    Title: Chief Executive Officer
+
+ 
+
+
+
+ 
+
+
+
+
+    2 
+    
+
+
+
+
+
+

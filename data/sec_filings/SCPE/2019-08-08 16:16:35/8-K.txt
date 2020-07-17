@@ -1,0 +1,432 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+    
+    
+      UNITED STATES
+      SECURITIES AND EXCHANGE COMMISSION
+      Washington, D.C. 20549
+       
+      
+       
+        
+       
+      
+      FORM 8-K
+       
+      
+      
+       
+      
+      CURRENT REPORT
+      PURSUANT TO SECTION 13 OR 15(d)
+      OF THE SECURITIES EXCHANGE ACT OF 1934
+       
+      Date of Report (Date of earliest event reported): August 2, 2019
+       
+      
+      
+       
+      
+      SC Health Corporation
+      (Exact name of registrant as specified in its charter)
+       
+      
+      
+       
+      
+      
+
+          
+            
+              Cayman Islands
+            
+            
+              001-38972
+            
+            
+              N/A
+            
+          
+          
+            
+              (State or other jurisdiction of incorporation)
+            
+            
+              (Commission File Number)
+            
+            
+              (IRS Employer Identification No.)
+            
+          
+
+      
+       
+      
+      
+
+          
+            
+              108 Robinson Road #10-00
+              Singapore
+            
+             
+            
+              068900
+            
+          
+          
+            
+              (Address of principal executive offices)
+            
+             
+            
+              (Zip Code)
+            
+          
+
+      
+       
+      +65 6438 1080
+      (Registrant’s telephone number, including area code)
+       
+      Not Applicable
+      (Former name or former address, if changed since last report)
+       
+      
+       
+        
+       
+      
+      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions
+        (see General Instruction A.2. below):
+       
+      
+      
+        
+          
+
+              
+                 
+                ☐
+                
+                  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+                
+              
+
+          
+        
+      
+       
+      
+      
+        
+          
+
+              
+                 
+                ☐
+                
+                  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+                
+              
+
+          
+        
+      
+       
+      
+      
+        
+          
+
+              
+                 
+                ☐
+                
+                  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+                
+              
+
+          
+        
+      
+       
+      
+      
+        
+          
+
+              
+                 
+                ☐
+                
+                  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+                
+              
+
+          
+        
+      
+       
+      Securities registered pursuant to Section 12(b) of the Act:
+      
+
+          
+             
+            
+               
+              
+              Title of each class
+            
+             
+            
+               
+              
+              Trading Symbol(s)
+            
+             
+            
+               
+              
+              Name of each exchange on which registered
+            
+          
+          
+             
+            
+               
+              
+              Units, each consisting of one Class A ordinary share, $0.0001 par value, and one half of one warrant
+            
+             
+            
+               
+              
+              SCPE.U
+            
+             
+            
+               
+              
+              New York Stock Exchange LLC
+            
+          
+          
+             
+            
+               
+              
+              Class A ordinary shares, par value $0.0001 per share
+            
+             
+            
+               
+              
+              SCPE
+            
+             
+            
+               
+              
+              New York Stock Exchange LLC
+            
+          
+          
+             
+            
+               
+              
+              Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
+            
+             
+            
+               
+              
+              SCPE WS
+            
+             
+            
+               
+              
+              New York Stock Exchange LLC
+            
+          
+
+      
+       
+      Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this
+        chapter).
+       
+      Emerging growth company ☒ 
+      
+       
+      
+      If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+        revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+       
+      
+      
+        
+        
+          
+            
+              
+                
+            
+            
+
+                
+                  Item 8.01
+                  
+                    Other Events.
+                  
+                
+
+            
+          
+        
+        
+        
+        As previously reported on a Current Report on Form 8-K of SC Health Corporation, a Cayman Islands exempted company (the
+          “Company”), on July 22, 2019, the Company consummated its initial public offering (the “IPO”) of 15,000,000 units (the “Units”). Each Unit consists of one Class A ordinary share of the Company, par value $0.0001 per share ( “Class A Ordinary Shares”), and
+          one-half of one redeemable warrant of the Company (“Warrant”), with each whole Warrant entitling the holder thereof to purchase one Class A Ordinary Share for $11.50 per
+          share. The Units were sold at a price of $10.00 per Unit, generating gross proceeds to the Company of $150,000,000. The Company granted the underwriters in the IPO (the “Underwriters”)
+          a 45-day option to purchase up to 2,250,000 additional Units to cover over-allotments, if any. On August 2, 2019, the Underwriters exercised the over-allotment option in full and purchased an additional 2,250,000 Units (the “Over-Allotment Units”), generating gross proceeds of $22,500,000.
+        
+        
+        As previously reported on a Current Report on Form 8-K of the Company, simultaneously with the closing of the IPO, the Company
+          completed the private sale (the “Private Placement”) of an aggregate of 5,000,000 warrants (the “Private
+              Placement Warrants”) to SC Health Holdings Limited, a Cayman Islands exempted company (the “Sponsor”), at a purchase price of $1.00 per Private Placement
+          Warrant, generating gross proceeds to the Company of $5,000,000. In connection with the Underwriters’ full exercise of their over-allotment option, the Sponsor purchased an additional 450,000 Private Placement Warrants, generating gross proceeds
+          to the Company of $450,000.
+        
+        
+        A total of $22,837,500, comprised of $22,050,000 of the proceeds from the IPO (which amount includes $787,500 of the Underwriters’
+          deferred discount) and $450,000 of the proceeds of the sale of the Private Placement Warrants, was placed in a U.S.-based trust account at Deutsche Bank Trust Company Americas, maintained by American Stock Transfer & Trust Company, LLC,
+          acting as trustee.
+        
+        
+        An audited balance sheet as of July 16, 2019 reflecting receipt of the proceeds upon consummation of the IPO and the Private
+          Placement has been issued by the Company and previously filed as Exhibit 99.1 to a Current Report on Form 8-K on July 22, 2019. The Company’s unaudited pro forma balance sheet as of July 16, 2019, adjusted for the closing of the sale of the
+          Over-Allotment Units and the Private Placement on August 2, 2019 is attached as Exhibit 99.1 to this Current Report on Form 8-K.
+        
+        
+        
+          
+            
+
+                
+                  Item 9.01
+                  
+                    Financial Statements and Exhibits.
+                  
+                
+
+            
+          
+        
+         
+        (d) Exhibits.
+         
+        
+        
+
+            
+              
+                Exhibit
+                No.
+              
+               
+              
+                
+                  Description
+                
+              
+            
+            
+               
+               
+               
+            
+            
+              
+                99.1
+              
+               
+              
+                Unaudited Pro Forma Balance Sheet as of July 16, 2019.
+              
+            
+
+        
+         
+        
+        
+          
+            
+        
+        SIGNATURE
+         
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+          duly authorized.
+         
+        
+        
+
+            
+               
+              
+                SC Health Corporation
+              
+            
+            
+               
+               
+            
+            
+              
+                Date: August 8, 2019
+              
+              
+                By:
+              
+              
+                
+                  /s/ Angelo John Coloma
+                
+              
+            
+            
+               
+              
+                Name: Angelo John Coloma
+              
+            
+            
+               
+              
+                Title: Chief Executive Officer
+              
+            
+
+        
+        
+        
+      
+    
+    
+    
+
+
+

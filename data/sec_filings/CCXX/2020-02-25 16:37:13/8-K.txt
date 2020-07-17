@@ -1,0 +1,350 @@
+
+8-K
+1
+tm209526d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(D) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date
+of earliest event reported): February 19, 2020
+
+ 
+
+ 
+
+ 
+
+CHURCHILL
+CAPITAL CORP III
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+
+
+    Delaware
+    001-39228
+    83-3536151
+
+    (State or other jurisdiction 
+of incorporation)
+    (Commission 
+File Number)
+    (I.R.S. Employer 
+Identification No.)
+
+ 
+
+
+
+    
+        640 Fifth Avenue, 12th Floor
+        New York, NY
+    10019
+
+    (Address of principal executive offices)
+    (Zip Code)
+
+ 
+
+(212)
+380-7500
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not
+Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+¨Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to
+Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Units,
+        each consisting of one share of  
+        Class A common stock,
+        $0.0001 par value, and one-fourth of one
+        warrant
+     
+    CCXX.U
+     
+    New York Stock Exchange
+
+     
+     
+     
+     
+     
+
+    Shares of Class A common stock
+     
+    CCXX
+     
+    New York Stock Exchange
+
+     
+     
+     
+     
+     
+
+    Warrants included as part of the units
+     
+    CCXX WS
+     
+    New York Stock Exchange
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company   x
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+     
+     
+    
+
+  
+
+
+Item 8.01Other Events.
+
+ 
+
+On February 19, 2020, Churchill Capital
+Corp III (the “Company”) consummated its initial public offering (the “IPO”) of 110,000,000
+units (the “Units”), including the issuance of 10,000,000 Units as a result of the underwriters’ exercise
+of their over-allotment option. Each Unit consists of one share of the Company’s Class A common stock, par value $0.0001
+per share (the “Class A Common Stock”), and one-fourth of one warrant of the Company (the “Warrants”),
+each whole warrant entitling the holder thereof to purchase one whole share of Class A Common Stock at a price of $11.50 per share,
+subject to adjustment as provided in the Company’s registration statement on Form S-1, initially filed with the Securities
+and Exchange Commission on January 29, 2020 (File No. 333-236153). The Units were sold at a price of $10.00 per unit, generating
+gross proceeds to the Company of $1,100,000,000.
+
+ 
+
+Simultaneously with the closing of the IPO,
+the Company completed the private sale (the “Private Placement”) of an aggregate of 23,000,000 warrants (the
+ “Private Placement Warrants”) at a purchase price of $1.00 per Private Placement Warrant, to the Company’s
+sponsor, Churchill Sponsor III LLC (the “Sponsor”), generating gross proceeds to the Company of $23,000,000.
+The Private Placement Warrants are identical to the warrants sold as part of the Units in the IPO, except that the Sponsor has
+agreed not to transfer, assign or sell any of the Private Placement Warrants (except to certain permitted transferees) until 30
+days after the completion of the Company’s initial business combination. The Private Placement Warrants are also not redeemable
+by the Company so long as they are held by the Sponsor or its permitted transferees.
+
+ 
+
+A total of $1,100,000,000 was placed in
+a U.S.-based trust account with Continental Stock Transfer & Trust Company, acting as trustee. An audited balance sheet
+as of February 19, 2020 reflecting receipt of the proceeds upon consummation of the IPO and the Private Placement has been issued
+by the Company and is included as Exhibit 99.1 to this Current Report on Form 8-K.
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+ 
+
+(d)       Exhibits.
+The following exhibits are filed with this Form 8-K:
+
+ 
+
+
+
+    Exhibit
+                           
+No.
+     
+    
+        Description
+of Exhibits
+
+     
+     
+     
+
+    99.1
+     
+    Audited Balanced Sheet as of February 19, 2020
+
+
+ 
+
+ 
+
+
+
+
+     2 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+
+
+     
+    
+        Churchill Capital Corp III
+
+     
+     
+
+    Date: February 25,
+    2020
+    By:
+    /s/ Jay Taragin
+
+     
+     
+    Name:
+    Jay Taragin
+
+     
+     
+    Title:
+    Chief Financial Officer
+
+ 
+
+
+
+ 
+
+
+
+
+     3 
+    
+
+
+
+
+
+

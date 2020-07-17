@@ -1,0 +1,265 @@
+
+8-K12B
+1
+d10548d8k12b.htm
+FORM 8-K12B
+
+
+Form 8-K12B
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT REPORT
+ PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (date of earliest event reported): July 15, 2020 
+   
+Digital Media Solutions, Inc. 
+(Exact name of Registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38393
+ 
+98-1399727
+
+ (State of
+incorporation)
+ 
+ (Commission
+File Number)
+ 
+ (IRS Employer
+Identification No.)
+
+
+
+
+ 4800 140th Avenue N., Suite 101
+Clearwater, Florida
+ 
+33762
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ (877) 236-8632 
+(Registrants telephone number, including area code) 
+Leo Holdings Corp.  21
+Grosvenor Place  London, SW1X 7HF, United Kingdom 
+(Former name or former address, if changed since last report) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+  
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbol(s)
+ 
+ Name of each exchange
+on which registered
+
+
+
+Class A common stock, $0.0001 par value per share
+ 
+DMS
+ 
+New York Stock Exchange
+
+Redeemable warrants to acquire Class A common stock
+ 
+DMS WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+ Item 3.03 Material Modification to Rights of Security Holders. 
+Effective July 15, 2020, Leo Holdings Corp. changed its jurisdiction of incorporation from the Cayman Islands (Leo Cayman) to
+the State of Delaware (the Domestication). In connection with the Domestication, Leo changed its name to Digital Media Solutions, Inc., which we refer to herein as New DMS. Leo discontinued its existence as a
+Cayman Islands exempted company as provided under the Cayman Islands Companies Law (2020 Revision) and, pursuant to Section 388 of the General Corporation Law of the State of Delaware (the DGCL), continued its existence under the
+DGCL as a corporation incorporated in the State of Delaware.  In connection with the Domestication, each issued and outstanding
+Class A ordinary shares, par value $0.0001 per share, of Leo (the Class A ordinary shares) and each issued and outstanding Class B ordinary share, par value $0.0001 per share, of Leo (the Class B ordinary
+shares) has become, by operation of law, one share of Class A common stock, par value $0.0001 per share, of New DMS (the New DMS Class A Common Stock), as described in Item 8.01 below. 
+Upon effectiveness of the Domestication, New DMSs CUSIP numbers relating to its Class A common stock and warrants changed to 25401G
+106 and 25401G 114, respectively. The New DMS Class A Common Stock and New DMSs warrants will be listed on the NYSE under the symbols DMS and DMS WS, respectively. 
+The rights of holders of New DMSs common stock are now governed by its Delaware certificate of incorporation (the Charter),
+its Delaware bylaws (the Bylaws) and the DGCL, which contain provisions that differ in certain respects from shareholders rights under the laws of the Cayman Islands and Leos Memorandum and Articles of Association, which were
+in effect prior to the Domestication. The general effect of the changes to the rights of New DMSs stockholders are described under the sections entitled Description of New DMS Securities, U.S. Federal Income Tax
+Considerations and Comparison of Corporate Governance and Shareholder Rights in Leos definitive proxy statement/prospectus, which was filed with the Securities and Exchange Commission pursuant to Rule 424(b)(3) on
+June 24, 2020 (the Final Proxy Statement/Prospectus) and formed part of Leos registration statement on Form S-4, which was originally filed with the Securities and Exchange Commission on
+May 11, 202020 (Registration No. 333-238180).  The sections of the Final Proxy
+Statement/Prospectus listed above are hereby incorporated by reference into this Current Report on Form 8-K. Furthermore, copies of the Charter and Bylaws are included as Exhibits 3.1 and 3.2, respectively, to
+this Current Report on Form 8-K and are hereby incorporated herein by reference.  Item 5.03 Amendments to
+Articles of Incorporation or Bylaws; Change in Fiscal Year.  The disclosure set forth in Item 3.03 above is hereby incorporated into
+this Item 5.03 by reference.  Item 8.01 Other Events. 
+In accordance with Rule 12g-3(a) under the Securities Exchange Act of 1934 (the Exchange
+Act), the shares of common stock and warrants of New DMS, as the successor to Leo, are deemed to be registered under Section 12(b) of the Exchange Act. 
+In connection with the Domestication, (1) the issued and outstanding Class A ordinary shares converted automatically by operation of
+law, on a one-for-one basis, into shares of New DMS Class A Common Stock; (2) the issued and outstanding redeemable warrants that were registered pursuant to
+the Registration Statement on Form S-1 (333-222599) of Leo became automatically redeemable warrants to acquire shares of New DMS Class A Common Stock (no other
+changes were made to the terms of any issued and outstanding public warrants of Leo as a result of the Domestication); (3) each issued and outstanding unit of Leo that has not been previously separated into the underlying Class A ordinary share
+and underlying warrant upon the request of the holder thereof, was cancelled and entitled the holder thereof to one share of New DMS Class A Common Stock and one-half of one redeemable warrant to acquire
+one share of New DMS Class A Common Stock; (4) each issued and outstanding Class B ordinary share converted automatically by operation of law, on a
+one-for-one basis without giving effect to any rights of adjustment or other anti-dilution protections, into shares of New DMS Class A Common Stock; and
+(5) the issued and outstanding warrants of Leo issued in a private placement automatically became warrants to acquire shares of New DMS Class A Common Stock (no other changes were made to the terms of any issued and outstanding private
+placement warrants of Leo as a result of the Domestication). 
+
+
+
+
+
+
+
+
+ Consequently, each holder of a Class A ordinary share, Class B ordinary share or
+warrant immediately prior to the Domestication now holds a share of Class A common stock or warrant representing the same proportional equity interest in New DMS as that shareholder held in Leo and representing the same class of security. 
+It is not necessary for stockholders to exchange their existing Leo share certificates for new stock certificates of New DMS. Holders of
+uncertificated shares of Leo immediately prior to the Domestication continued as holders of uncertificated common stock of New DMS upon effectiveness of the Domestication. 
+Item 9.01 Financial Statements and Exhibits.  (d)
+Exhibits.   
+
+
+
+
+
+
+
+
+
+
+ No.
+  
+ Description
+
+
+
+
+
+
+3.1
+  
+Certificate of Incorporation of Digital Media Solutions, Inc.
+
+
+
+
+3.2
+  
+Bylaws of Digital Media Solutions, Inc.
+
+
+
+
+4.1
+  
+Form of Specimen Class A Common Stock Certificate of Digital Media Solutions, Inc. 
+
+
+
+
+4.2
+  
+Form of Specimen Warrant Certificate of Digital Media Solutions, Inc.
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.  Date: July 16, 2020 
+ 
+
+
+
+
+
+
+
+
+
+ Digital Media Solutions, Inc.
+
+
+
+/s/ Joseph Marinucci
+
+Name: Joseph Marinucci
+
+Title:   Chief Executive Officer
+
+
+
+
+

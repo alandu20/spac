@@ -1,0 +1,689 @@
+
+8-K
+1
+ea122874-8k_nebula.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d)
+of the
+Securities Exchange Act of 1934
+
+Date
+of report (Date of earliest event reported): June 9, 2020
+
+Nebula
+Acquisition Corporation
+(Exact name of registrant as specified in its charter)
+
+
+
+    Delaware
+(State or other jurisdiction
+of incorporation)
+    001-38339
+(Commission File Number)
+    82-3008583
+(I.R.S. Employer
+Identification No.)
+
+    
+        Four Embarcadero Center, Suite 2100
+        San Francisco, CA
+        (Address of principal executive offices)
+    
+        94111
+        (Zip Code)
+
+     
+    
+        (513) 618-7161
+        (Registrant’s telephone number, including area code)
+        Not Applicable
+        (Former name or former address, if changed since last report)
+     
+
+     
+     
+     
+     
+     
+     
+
+ 
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following
+provisions:
+
+ 
+
+
+
+
+☐Written
+                                         communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+☐Soliciting
+                                         material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement
+                                         communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencement
+                                         communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+     Title
+    of each class 
+    Trading
+    Symbol(s) 
+    Name
+    of each exchange on which registered
+
+    Common Stock, par
+    value $0.0001 per share 
+    NEBU 
+    The Nasdaq Stock
+    Market LLC
+
+    Warrants to purchase
+    one share of Common Stock 
+    NEBU.W 
+    The Nasdaq Stock
+    Market LLC
+
+    Units, each consisting
+    of one share of Common Stock and one third of one Warrant 
+    NEBU.U 
+    The Nasdaq Stock Market LLC
+
+
+ 
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging
+growth company  ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+    
+     
+    
+
+ 
+
+Item 5.07.	Submission of Matters to a Vote of Security
+Holders.
+
+Special Meeting of Stockholders to Approve Business Combination
+
+On June 9, 2020
+(the “Meeting Date”), Nebula Acquisition Corporation, a Delaware corporation (“Nebula”), held a special
+meeting of its stockholders (the “Stockholder Meeting”) in connection with the proposed business combination (the “Business
+Combination”) contemplated by the Business Combination Agreement, dated as of January 5, 2020, as amended (the “Business
+Combination Agreement”), by and among Nebula, Open Lending, LLC, a Texas limited liability company (“Open Lending”),
+BRP Hold 11, Inc., a Delaware corporation (“Blocker”), the Blocker’s sole stockholder (the “Blocker Holder”),
+Nebula Parent Corp., a Delaware corporation (“ParentCo”) (whose name is expected to change to Open Lending Corporation
+upon the closing of the Business Combination), NBLA Merger Sub LLC, a Texas limited liability company, NBLA Merger Sub Corp., a
+Delaware corporation, and Shareholder Representative Services LLC, a Colorado limited liability company, as the Securityholder
+Representative. The Business Combination is described in the proxy statement/prospectus filed by Nebula with the Securities and
+Exchange Commission (“SEC”) on May 22, 2020 and incorporated herein by reference (the “Proxy Statement”).
+At the Stockholder Meeting Nebula’s stockholders voted on the proposals set forth below.
+
+Present at the
+Stockholder Meeting were holders of 29,086,234 shares of Nebula’s common stock (the “Common Stock”) in person
+or by proxy, representing 84.61% of the voting power of the Common Stock as of May 13, 2020, the record date for the Stockholder
+Meeting (the “Stockholder Meeting Record Date”), and constituting a quorum for the transaction of business. As of the
+Stockholder Meeting Record Date, there were 34,375,000 shares of Common Stock issued and outstanding.
+
+At the Stockholder
+Meeting, Nebula’s stockholders approved the Business Combination Proposal, the Charter Amendment Proposals, the Nasdaq Proposal,
+and the 2020 Plan Proposal, in each case as defined and described in greater detail in the Proxy Statement.
+
+The approval of
+the Business Combination Proposal and the Charter Amendment Proposals required the affirmative vote of the holders of at least
+a majority of all then outstanding shares of the Common Stock represented in person or by proxy and entitled to vote thereon at
+the Stockholder Meeting. The approval of the Nasdaq Proposal and the 2020 Plan Proposal required the affirmative vote of the holders
+of a majority of the shares of the Common Stock represented in person or by proxy and voted thereon at the Stockholder Meeting.
+The Stockholder Adjournment Proposal, as defined and described in greater detail in the Proxy Statement, was not presented to Nebula’s
+stockholders as the Business Combination Proposal, the Charter Amendment Proposals, the Nasdaq Proposal, and the 2020 Plan Proposal
+each received a sufficient number of votes for approval.
+
+Set forth below
+are the final voting results for the Business Combination Proposal, the Charter Amendment Proposals, the Nasdaq Proposal, and the
+2020 Plan Proposal;
+
+Business Combination Proposal
+
+The Business Combination
+Proposal was approved. The voting results of the shares of the Common Stock were as follows:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstentions
+    
+
+     
+    26,637,670
+     
+     
+     
+    2,080,547
+     
+     
+     
+    368,017
+    
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Charter Amendment Proposals
+
+The Charter Amendment
+Proposals were approved. The voting results of the shares of the Common Stock for each of the sub-proposals were as follows:
+
+
+(a)To increase the number of authorized shares of common stock of ParentCo, par value $0.0001 per share, from 111,000,000 to 550,000,000
+and the number of authorized shares of ParentCo’s preferred stock, par value $0.0001 per share, from 1,000,000 to 10,000,000:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstentions
+    
+
+     
+    26,637,663
+     
+     
+     
+    2,080,554
+     
+     
+     
+    368,017
+    
+
+ 
+
+
+(b)To change the vote required to remove a director of ParentCo from a majority of the voting power
+of all then outstanding shares of capital stock entitled to vote generally in the election of directors, voting together as a single
+class to not less than two-thirds (2/3) of the outstanding shares of capital stock then entitled to vote at an election of directors,
+voting together as a single class:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstentions
+    
+
+     
+    24,637,529
+     
+     
+     
+    4,080,688
+     
+     
+     
+    368,017
+    
+
+ 
+
+
+(c)To change the vote required to amend ParentCo’s bylaws from a majority of the members of the Nebula board or by the stockholders,
+or by the affirmative vote of at least a majority of the voting power of all then outstanding shares of capital stock of Nebula
+entitled to vote generally in the election of directors, to not less than two-thirds (2/3) of the outstanding shares of capital
+stock generally entitled to vote, voting together as a single class:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstentions
+    
+
+     
+    24,637,529
+     
+     
+     
+    4,080,688
+     
+     
+     
+    368,017
+    
+
+ 
+
+Nasdaq Proposal
+
+The Nasdaq Proposal was approved. The
+voting results of the shares of the Common Stock were as follows:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstentions
+    
+
+     
+    26,637,763
+     
+     
+     
+    2,080,454
+     
+     
+     
+    368,017
+    
+
+ 
+
+2020 Plan Proposal
+
+The 2020 Plan
+Proposal was approved. The voting results of the shares of the Common Stock were as follows:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstentions
+    
+
+     
+    25,501,727
+     
+     
+     
+    3,216,490
+     
+     
+     
+    368,017
+    
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+Special Meeting of Warrantholders
+
+On the Meeting Date, Nebula held a
+special meeting of its warrantholders (the “Warrantholder Meeting”), in connection with the Business Combination and
+as described in the Proxy Statement.
+
+Present at the Warrantholder Meeting
+were holders of 7,905,837 warrants issued in Nebula’s initial public offering (the “Public Warrants”) in person
+or by proxy, representing 86.25% of the voting power of the Public Warrants as of May 13, 2020 (the “Warrantholder Meeting
+Record Date”), and constituting a quorum for the transaction of business. As of the Warrantholder Meeting Record Date, there
+were 9,166,659 Public Warrants outstanding.
+
+At the Warrantholder Meeting, Nebula’s
+warrantholders failed to approve the Warrant Amendment Proposal to approve and adopt an amendment to the terms of the warrant agreement
+governing Nebula’s outstanding warrants (as specified in the Proxy Statement).
+
+The Warrantholder Adjournment Proposal,
+as defined and described in greater detail in the Proxy Statement, was not presented to Nebula’s warrantholders.
+
+Set forth below are the final voting
+results for the Warrant Amendment Proposal;
+
+Warrant Amendment Proposal
+
+The Warrant Amendment Proposal was
+not approved. The voting results of the Public Warrants were as follows:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstentions
+    
+
+     
+    2,296,694
+     
+     
+     
+    5,609,143
+     
+     
+     
+    0
+    
+
+ 
+
+As a result of the failure of the Warrant
+Amendment Proposal to achieve approval: (i) upon the closing of the Business Combination, the Warrant Agreement, dated as of January
+9, 2018, between American Stock Transfer & Trust Company, LLC and Nebula (the “Warrant Agreement”) will be assigned
+to, and assumed by, ParentCo; (ii) pursuant to the terms of the Warrant Agreement, following the closing the warrants will become
+exercisable for shares of ParentCo common stock, par value $0.01 per share, on the same terms and conditions as specified in the
+Warrant Agreement; and (iii) the warrants will not trade on either the Nasdaq Capital Market or the Nasdaq Global Market following
+the consummation of the Business Combination. On June 8, 2020, as previously disclosed, Nebula and Open Lending issued a press
+release announcing that Nebula and Open Lending have waived the condition to closing the Business Combination that required the
+holders of at least a majority of Nebula’s public warrants to approve an amendment to Nebula’s warrants such that all
+of Nebula’s warrants would be redeemed upon the closing of the Business Combination.
+
+Special Meeting of Stockholders to Approve Extension
+
+On the Meeting Date, Nebula held a
+special meeting of stockholders (the “Extension Meeting”). At the Extension Meeting, the stockholders approved an amendment
+(the “Charter Amendment”) to Nebula’s amended and restated certificate of incorporation to extend the date by
+which Nebula has to extend a business combination from June 12, 2020 to June 30, 2020 (the “Extension”). The affirmative
+vote of holders of at least sixty-five (65%) of the outstanding shares of Common Stock as of May 8, 2020, the record date for the
+Extension Meeting, was required to approve the Charter Amendment. The purpose of the Charter Amendment is to allow Nebula more
+time to complete the Business Combination.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+Set forth below are the final voting
+results for the Charter Amendment;
+
+Charter Amendment
+
+The Charter Amendment was approved.
+The voting results of the shares of the Common Stock were as follows:
+
+
+
+    For
+     
+     
+    Against
+     
+     
+    Abstentions
+    
+
+     
+    28,893,082
+     
+     
+     
+    14,200
+     
+     
+     
+    368,597
+    
+
+ 
+
+10,997,246 shares of Common Stock were
+redeemed in connection with the Stockholder Meeting and the Extension Meeting.
+
+Item 7.01.	Regulation FD Disclosure.
+
+ 
+
+Nebula expects the Business Combination
+and related transactions (the “Proposed Transactions”) to close on or about June 10, 2020.
+ParentCo’s common stock is expected to commence trading on the Nasdaq Global Market under the new ticker symbol
+“LPRO” on the day following the closing of the Business Combination.
+
+ 
+
+Important Information and Where to Find It
+
+ 
+
+In connection with the Proposed Transactions,
+Nebula filed the Proxy Statement with the SEC on May 22, 2020. A full description of the terms of the Proposed Transactions are
+provided in the Proxy Statement, which also constitutes a prospectus of ParentCo. Investors and security holders and other interested
+parties are urged to read the Proxy Statement and any other documents filed with the SEC, carefully and in their entirety because
+they contain important information about Nebula, Open Lending and the Proposed Transactions. Investors and security holders may
+obtain free copies of the Proxy Statement and other documents filed with the SEC by Nebula through the website maintained by the
+SEC at http://www.sec.gov, or by directing a request to: Nebula Acquisition Corporation, Four Embarcadero Center, Suite 2100, San
+Francisco, CA 94111.
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K includes certain statements that
+are not historical facts but are forward-looking statements for purposes of the safe harbor provisions under the United States
+Private Securities Litigation Reform Act of 1995. Forward-looking statements generally are accompanied by words such as “believe,”
+“may,” “will,” “estimate,” “continue,” “anticipate,” “intend,”
+“expect,” “should,” “would,” “plan,” “predict,” “potential,”
+“seem,” “seek,” “future,” “outlook,” and similar expressions that predict or indicate
+future events or trends or that are not statements of historical matters. These forward-looking statements include, but are not
+limited to, statements regarding Nebula and Open Lending’s ability to consummate the Proposed Transactions; the expected
+timing of completion of the Proposed Transactions and the timing of the expected commencement of the trading of the combined company’s
+common stock on the Nasdaq Global Market. These statements are based on various assumptions and on the current expectations of
+Open Lending and Nebula’s management and are not predictions of actual performance. These forward-looking statements are
+provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee,
+an assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible
+to predict and will differ from assumptions. Many actual events and circumstances are beyond the control of Open Lending and Nebula.
+These forward looking statements are subject to a number of risks and uncertainties, including general economic, financial, legal,
+political and business conditions and changes in domestic and foreign markets; the potential effects of COVID-19; the potential
+effects of domestic civil unrest and the potential closure of government offices, the inability of the parties to successfully
+or timely consummate the Proposed Transactions or to satisfy the other conditions to the closing of the Proposed Transactions,
+and those factors discussed in the Proxy Statement under the heading “Risk Factors,” and other documents of Nebula
+filed, or to be filed, with the SEC. If the risks materialize or assumptions prove incorrect, actual results could differ materially
+from the results implied by these forward-looking statements. There may be additional risks that Nebula or Open Lending presently
+do not know or that Open Lending and Nebula currently believe are immaterial that could also cause actual results to differ from
+those contained in the forward-looking statements. In addition, forward-looking statements reflect Open Lending’s and Nebula’s
+expectations, plans or forecasts of future events and views as of the date of this Current Report on Form 8-K. Open Lending and
+Nebula anticipate that subsequent events and developments will cause their assessments to change. However, while Open Lending and
+Nebula may elect to update these forward-looking statements at some point in the future, Open Lending and Nebula specifically disclaim
+any obligation to do so. These forward-looking statements should not be relied upon as representing Open Lending or Nebula’s
+assessments as of any date subsequent to the date of this Current Report on Form 8-K. Accordingly, undue reliance should not be
+placed upon the forward-looking statements.
+
+ 
+
+Item 8.01.	Other Events.
+
+ 
+
+See Item 7.01.
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+SIGNATURE
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+
+     
+    
+        NEBULA ACQUISITION CORPORATION
+         
+
+     
+    By:     /s/ Adam H. Clammer	
+
+     
+    	Name:	Adam H. Clammer
+	Title:	Co-Chief Executive Officer
+
+ 
+
+Date:	June 9, 2020
+
+ 
+
+
+    7
+    
+
+ 
+
+
+
+
+
+
+
+
+
+

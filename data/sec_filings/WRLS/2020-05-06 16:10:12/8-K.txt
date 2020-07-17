@@ -1,0 +1,323 @@
+
+8-K
+1
+ea121469-8k_americanvirtual.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): May 4, 2020
+
+ 
+
+American
+Virtual Cloud Technologies, Inc.
+(Exact Name of registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38167
+     
+    81-2402421
+
+    (State
+    or other jurisdiction 
+of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (IRS
+    Employer 
+Identification No.)
+
+ 
+
+
+
+    1720
+    Peachtree Street, Suite 629
+ Atlanta, GA
+     
+    30309
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    code)
+
+ 
+
+(404)
+234-3098
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not
+Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+ 
+
+
+☐Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+☐Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§
+230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Common
+    Stock, par value $0.0001 per share
+     
+    AVCT
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Warrants,
+    each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50
+     
+    AVCTW
+     
+    The
+    Nasdaq Stock Market LLC
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On
+May 4, 2020, American Virtual Cloud Technologies, Inc. (“AVCT”), AVCT’s subsidiaries Stratos Management Systems,
+Inc., Computex, Inc., First Byte Computers, Inc., and eNETsolutions, L.L.C., and Comerica Bank (“Comerica”) entered
+into a Fourth Amendment to Loan Documents (the “Fourth Amendment”).
+
+ 
+
+The
+Fourth Amendment amended certain provisions of the existing Credit Agreement, dated December 18, 2017, as amended, including a
+modification to the covenant in the Credit Agreement that prohibits the incurrence by the borrowers of additional indebtedness
+to exclude (i) indebtedness incurred by the borrowers under the U.S. Small Business Association’s Paycheck Protection Program
+established under the Coronavirus Aid, Relief and Economic Security Act and the related rules and regulations and (ii) up to $1.5
+million in indebtedness incurred for the sole purpose of financing insurance premiums.
+
+ 
+
+The
+foregoing description of the Fourth Amendment does not purport to be complete and is qualified in its entirety by the terms and
+conditions of the Fourth Amendment, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein
+by reference.
+
+ 
+
+Item
+2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of the
+Registrant.
+
+ 
+
+The
+information set forth in Item 1.01 of this Current Report on Form 8-K is incorporated in this Item 2.03 by reference.
+
+ 
+
+ Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+
+
+
+(d)Exhibits.
+
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+    10.1
+     
+    Fourth
+    Amendment to Loan Documents, dated as of May 4, 2020.
+
+ 
+
+
+
+    1
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Current Report on Form 8-K to
+be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    AMERICAN
+VIRTUAL CLOUD TECHNOLOGIES
+
+     
+     
+
+     
+    By: 
+    /s/ Thomas
+H. King
+
+     
+     
+    Name: Thomas H. King
+
+     
+     
+    Title:   Chief Financial Officer
+
+ 
+
+Date:
+May 6, 2020
+
+
+
+ 
+
+ 
+
+2
+
+
+
+ 
+
+ 
+
+
+
+

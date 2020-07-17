@@ -1,0 +1,393 @@
+
+8-K
+1
+d948881d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT REPORT
+ PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (date of earliest event reported): June 24, 2020 
+   
+Crescent Acquisition Corp 
+(Exact name of Registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38825
+ 
+82-3447941
+
+(State of incorporation)
+ 
+ (Commission
+File Number)
+ 
+ (IRS Employer
+Identification No.)
+
+
+
+
+ 11100 Santa Monica Blvd., Suite 2000
+Los Angeles, CA
+ 
+90025
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ (310) 235-5900 
+(Registrants telephone number, including area code) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☒
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+ 
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+  
+ Trading
+Symbol(s)
+  
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of Class A common stock and one-half of one redeemable Warrant
+  
+CRSAU
+  
+The NASDAQ Stock Market LLC
+
+Class A common stock, $0.0001 par value per share
+  
+CRSA
+  
+The NASDAQ Stock Market LLC
+
+Redeemable Warrants, each whole Warrant exercisable for one share of Class A common stock at an exercise price of $11.50
+  
+CRSAW
+  
+The NASDAQ Stock Market LLC
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).  Emerging growth
+company  ☒  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐   
+   
+
+
+
+
+
+
+
+
+
+
+
+Item 1.01
+ Entry into a Material Definitive Agreement. 
+On June 24, 2020, Crescent Acquisition Corp, a Delaware corporation (the Company), entered into an Agreement and Plan of Merger (the
+Merger Agreement), by and among the Company, Function Acquisition I Corp, a Delaware corporation and a direct, wholly owned subsidiary of the Company (First Merger Sub), Function Acquisition II LLC, a Delaware limited
+liability company and a direct, wholly owned subsidiary of the Company (Second Merger Sub), F45 Training Holdings Inc., a Delaware corporation (F45), and Shareholder Representative Services LLC, a Colorado limited liability
+company, which provides for, among other things: (a) the merger of First Merger Sub with and into F45, with F45 being the surviving corporation of the merger and a direct, wholly owned subsidiary of the Company as a consequence of the merger
+(the First Merger); and (b) immediately following the First Merger and as part of the same overall transaction as the First Merger, the merger of F45 with and into Second Merger Sub, with Second Merger Sub being the surviving
+corporation of the merger (together with the First Merger, the Mergers and, collectively with the other transactions contemplated by the Merger Agreement, the Business Combination). 
+The Merger Agreement  Merger Consideration
+ Pursuant to the Merger Agreement, the aggregate merger consideration payable to the stockholders of F45 will consist of (assuming no redemptions):
+(a) an amount in cash equal to the Closing Cash Payment Amount (as defined in the Merger Agreement), which is expected to be approximately $202 million; and (b) shares of newly-issued Class A common stock of the Company, par
+value $0.0001 per share (Class A Stock), equal to the Closing Number of Securities (as defined in the Merger Agreement), which are expected to have a value of approximately $526 million based on a price of $10 per share. The
+merger consideration payable to the stockholders of F45 is also subject to adjustment based on F45s cash and indebtedness as of the closing date, among other adjustments contemplated by the Merger Agreement. 
+In addition to the consideration to be paid at the closing of the Business Combination, the stockholders of F45 will be entitled to receive additional earn-out payments from the Company of up to an aggregate of 5 million shares of Class B common stock of the Company (Class B Stock), consisting of shares of Class B-1 common stock of the
+Company, par value $0.0001 per share, and shares of Class B-2 common stock of the Company, par value $0.0001 per share, plus 5 million shares of Class C common stock of the Company (Class C Stock), consisting of shares of Class
+C-1 common stock of the Company, par value $0.0001 per share, and shares of Class C-2 common stock of the Company, par value $0.0001 per share, such Class B Stock and Class C Stock to become convertible into Class A Stock if the price
+of Class A common stock trading on the Nasdaq Capital Market exceeds certain thresholds during the five-year period following the closing of the Business Combination. As an incentive for F45 to enter into the Merger Agreement, the
+Companys sponsor, CFI Sponsor LLC, a Delaware limited liability company (the Sponsor), has agreed that 1,250,000 shares of Class A Stock held by it immediately following the closing of the Business Combination (following the
+automatic conversion of such shares upon the closing of the Business Combination from shares of Class F common stock of the Company, par value $0.0001 per share, into shares of Class A Stock) will be subject to the release of restrictions
+on transfer only if the price of Class A Stock trading on the Nasdaq Capital Market exceeds the same thresholds during the five-year period following the closing of the Business Combination. 
+
+
+
+
+
+
+
+
+ Representations, Warranties and Covenants 
+The parties to the Merger Agreement have made representations, warranties and covenants that are customary for transactions of this nature. The representations
+and warranties of the respective parties to the Merger Agreement will not survive the closing of the transaction.  Conditions to Consummation of the
+Transaction  Consummation of the Business Combination is subject to customary closing conditions, including approval by the Companys stockholders
+and the Australian Foreign Investment Review Board as well as expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act. In addition, each of the Companys and F45s obligation to consummate the
+Business Combination is subject to the Companys total cash proceeds, which includes, among other things, the cash available to the Company from its trust account and the proceeds from the Forward Purchase Agreement (as defined below), equaling
+or exceeding $225 million.  Termination  The Merger
+Agreement may be terminated at any time prior to the consummation of the Business Combination (whether before or after the required Company stockholder vote has been obtained) by mutual written agreement of the Company and F45 and in certain other
+circumstances, including if the Business Combination has not been consummated by December 24, 2020 and the delay in closing beyond such date is not due to the breach of the Merger Agreement by the party seeking to terminate, which date may be
+extended to February 24, 2021 in case all conditions to consummate the Business Combination have been satisfied other than regulatory conditions or extended to a limited extent in case of government shutdowns. 
+The foregoing description of the Merger Agreement and the transactions contemplated thereby, including the Mergers, does not purport to be complete and is
+qualified in its entirety by the terms and conditions of the Merger Agreement, a copy of which is attached hereto as Exhibit 2.1 and is incorporated herein by reference. The Merger Agreement contains representations, warranties and covenants that
+the respective parties made to each other as of the date of such agreement or other specific dates. The assertions embodied in those representations, warranties and covenants were made for purposes of the contract among the respective parties and
+are subject to important qualifications and limitations agreed to by the parties in connection with negotiating the Merger Agreement. The Merger Agreement has been attached to provide investors with information regarding its terms. It is not
+intended to provide any other factual information about the Company or any other party to the Merger Agreement. In particular, the representations, warranties, covenants and agreements contained in the Merger Agreement, which were made only for
+purposes of the Merger Agreement and as of specific dates, were solely for the benefit of the parties to the Merger Agreement, may be subject to limitations agreed upon by the contracting parties (including being qualified by confidential
+disclosures made for the purposes of allocating contractual risk between the parties to the Merger Agreement instead of establishing these matters as facts) and may be subject to standards of materiality applicable to the contracting parties that
+differ from those applicable to the Companys investors and security holders. Company investors and security holders are not third-party beneficiaries under the Merger Agreement and should not rely on the representations, warranties, covenants
+and agreements, or any descriptions thereof, as characterizations of the actual state of facts or condition of any party to the Merger Agreement. Moreover, information concerning the subject matter of the representations and warranties may change
+after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in the Companys public disclosures. 
+
+
+
+
+
+
+
+
+ Forward Purchase Agreement 
+As previously disclosed by the Company, on February 26, 2019, the Company entered into that certain Forward Purchase Agreement with Crescent
+Capital Group LP (Crescent), an affiliate of the Sponsor, in Crescents capacity as investment advisor to one or more investment funds or accounts managed by Crescent and its affiliates. 
+On June 24, 2020, Crescent and the Company entered into the Amended and Restated Forward Purchase Agreement (the Forward Purchase Agreement),
+pursuant to which Crescent has committed to purchase from the Company, subject to the terms and conditions set forth therein, 5,000,000 shares of Class A Stock plus 1,666,6662⁄3 redeemable warrants of the Company (the Warrants), each whole Warrant entitling the holder thereof to purchase one share of Class A Stock at a price of $11.50 per share, for an aggregate
+purchase price of $50 million in a private placement that will close immediately prior to the closing of the Business Combination. The securities issued pursuant to the Forward Purchase Agreement will be subject to a lock-up period during which
+the transfer of such securities will be restricted.  The foregoing description of the Forward Purchase Agreement does not purport to be complete and is
+qualified in its entirety by the terms and conditions of the Forward Purchase Agreement, a copy of which is attached hereto as Exhibit 10.1 and is incorporated herein by reference. 
+ 
+
+
+Item 3.02
+ Unregistered Sales of Equity Securities. 
+The disclosure set forth above in Item 1.01 of this Current Report on Form 8-K (this Current Report) is
+incorporated by reference herein. The shares of Class A Stock to be issued in connection with the Merger Agreement and the transactions contemplated thereby, including the First Merger, and the units to be issued in connection with the Forward
+Purchase Agreement, will not be registered under the Securities Act of 1933, as amended (the Securities Act), and will be issued in reliance on the exemption from registration requirements thereof provided by Section 4(a)(2) of the
+Securities Act and/or Regulation D promulgated thereunder as a transaction by an issuer not involving a public offering.   
+
+
+Item 7.01
+ Regulation FD Disclosure. 
+The information in this Item 7.01, including Exhibit 99.1, Exhibit 99.2, Exhibit 99.3 and Exhibit 99.4, is furnished and shall not be deemed filed
+for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to liabilities under that section, and shall not be deemed to be incorporated by reference into the filings of
+the Company under the Securities Act or the Exchange Act, regardless of any general incorporation language in such filings.  On June 24, 2020, the
+Company and F45 issued a joint press release announcing the execution of the Merger Agreement and the transactions contemplated thereby. The press release is furnished as Exhibit 99.1 to this Current Report. 
+An investor presentation for use by the Company with certain of its shareholders and other persons with respect to the Business Combination is furnished as
+Exhibit 99.2 to this Current Report.  An investor presentation for use by the Company and F45 during a joint investor conference call to discuss the
+Business Combination to be held on June 24, 2020 at 7:00 a.m. Pacific Time is furnished as Exhibit 99.3 to this Current Report. A transcript of the conference call is furnished as Exhibit 99.4 to this Current Report. 
+
+
+
+
+
+
+
+
+ Forward-Looking Statements 
+This Current Report contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended,
+and the Private Securities Litigation Reform Act of 1995. Forward-looking statements may relate to the Business Combination and any other statements relating to future results, strategy and plans of the Company and F45 (including certain projections
+and business trends, and statements which may be identified by the use of the words plans, expects or does not expect, estimated, is expected, budget, scheduled,
+estimates, forecasts, intends, anticipates or does not anticipate, or believes, or variations of such words and phrases or state that certain actions, events or results
+may, could, would, might, projects, will or will be taken, occur or be achieved). Forward-looking statements are based on the opinions and
+estimates of management of the Company or F45, as the case may be, as of the date such statements are made, and they are subject to known and unknown risks, uncertainties, assumptions and other factors that may cause the actual results, level of
+activity, performance or achievements to be materially different from those expressed or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to, the occurrence of any event, change or other
+circumstances that could give rise to a delay in or the failure to close the business combination, the amount of redemptions, the ability to retain key personnel and the ability to achieve stockholder and regulatory approvals, industry trends,
+legislation or regulatory requirements and developments in the global economy as well as the public health crisis related to the coronavirus (COVID-19) pandemic and resulting significant negative effects to the global economy, disrupted global
+supply chains and significant volatility and disruption of financial markets, increased operating costs, decreased ability to operate gyms and the impact of government shutdowns. Additional information on these and other factors that may cause
+actual results and the Companys performance to differ materially is included in the Companys periodic reports filed with the Securities and Exchange Commission (the SEC), including but not limited to the Companys annual
+report on Form 10-K for the year ended December 31, 2019 and subsequent quarterly reports on Form 10-Q. Copies of the Companys filings with the SEC are
+available publicly on the SECs website at www.sec.gov or may be obtained by contacting the Company. Readers are cautioned not to place undue reliance upon any forward-looking statements, which speak only as of the date made. These
+forward-looking statements are made only as of the date hereof, and the Company undertakes no obligations to update or revise the forward-looking statements, whether as a result of new information, future events or otherwise, except as required by
+law.  Additional Information about the Transaction and Where to Find It 
+This Current Report relates to the Business Combination between F45 and the Company and may be deemed to be solicitation material in respect of the Business
+Combination. The Business Combination will be submitted to the stockholders of the Company and F45 for their approval. In connection with the Companys stockholder vote on the Business Combination, the Company will file a proxy statement on
+Schedule 14A with the SEC. This Current Report is not a substitute for the proxy statement that the Company will file with the SEC or any other documents that the Company may file with the SEC or send to its stockholders in connection with the
+Business Combination. When completed, the Company will mail a definitive proxy statement to its stockholders in connection with the Companys solicitation of proxies for the special meeting of the Companys stockholders to be held to
+approve the Business Combination. This presentation does not contain all the information that should be considered concerning the Business Combination, including relevant risk factors that may be included in the proxy statement. It is not intended
+to provide the basis for any investment decision or any other decision in respect to the Business Combination. The Companys stockholders and other interested persons are urged to read, when available, the Companys preliminary proxy
+statement, the definitive proxy statement and any other relevant documents that are filed or furnished or will be filed or will be furnished with the SEC, as well as any amendments or supplements to these documents, carefully and in their entirety
+before making any voting or investment decision with respect to the Business Combination, as these materials will contain important information about the Company, related matters and the parties to the Company. A copy of the definitive proxy
+statement will be sent when available to all stockholders of record of the Company seeking the required stockholder approvals. Investors and stockholders can obtain free copies of the preliminary proxy statement once it is available and other
+documents filed with the SEC by the Company through the web site maintained by the SEC at www.sec.gov. In addition, investors and stockholders can obtain free copies of the preliminary proxy statement once it is available from the Company by
+accessing the Companys website at https://www.crescentspac.com.  No Offer or Solicitation 
+This Current Report is for informational purposes only and is neither an offer to sell or purchase, nor the solicitation of an offer to buy or sell any
+securities, nor is it a solicitation of any vote, consent, or approval in any jurisdiction pursuant to or in connection with the Business Combination or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction
+in contravention of applicable law. 
+
+
+
+
+
+
+
+
+ Participants in the Solicitation 
+The Company and F45, and their respective directors and executive officers, may be deemed participants in the solicitation of proxies of the Companys
+stockholders in respect of the Business Combination. Information about the directors and executive officers of the Company is set forth in the Companys Form 10-K for the year ended December 31,
+2019. Information about the directors and executive officers of F45 and more detailed information regarding the identity of all potential participants, and their direct and indirect interests, by security holdings or otherwise, will be set forth in
+the Companys proxy statement, when available. Investors may obtain additional information about the interests of such participants by reading such proxy statement when it becomes available. 
+ 
+
+
+Item 9.01
+ Financial Statements and Exhibits. 
+(d) Exhibits.   
+
+
+
+
+
+
+
+
+
+
+ Exhibit
+No.
+  
+ Description
+
+
+
+
+
+
+  2.1*
+  
+Agreement and Plan of Merger, dated as of June 24, 2020, by and among Crescent Acquisition Corp, Function Acquisition I Corp, Function Acquisition II LLC, F45 Training Holdings, Inc. and Shareholder Representative
+ Services LLC. 
+
+
+
+
+10.1
+  
+Amended and Restated Forward Purchase Agreement, dated as of June 24, 2020, by and between Crescent Acquisition Corp and Crescent Capital Group LP. 
+
+
+
+
+99.1
+  
+Joint Press Release, dated as of June 24, 2020. 
+
+
+
+
+99.2
+  
+Investor Presentation of Crescent Acquisition Corp, dated as of June 24, 2020. 
+
+
+
+
+99.3
+  
+Investor Call Presentation of Crescent Acquisition Corp, dated as of June 24, 2020. 
+
+
+
+
+99.4
+  
+Transcript of Investor Call of Crescent Acquisition Corp, dated as of June 24, 2020. 
+  
+
+
+*
+ Certain schedules to this Exhibit have been omitted in accordance with Item 601(b)(2) of Regulation S-K of the Securities Act. The Company hereby agrees to furnish supplementally a copy of all omitted schedules to the SEC upon request. 
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.  Date: June 24, 2020   
+
+
+
+
+
+
+
+
+
+
+
+
+Crescent Acquisition Corp
+
+
+
+ /s/ George Hawley
+
+Name:
+ 
+George Hawley
+
+Title:
+ 
+General Counsel and Secretary
+
+
+
+
+

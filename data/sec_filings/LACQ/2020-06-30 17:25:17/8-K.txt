@@ -1,0 +1,431 @@
+
+8-K
+1
+ea123684-8k_leisureacqu.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549 
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant To Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): June 26, 2020
+
+ 
+
+LEISURE ACQUISITION CORP.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38306
+     
+    82-2755287
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer 
+Identification No.)
+
+ 
+
+250 West 57th Street, Suite
+2223
+
+New York, New York 10107
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+(646) 565-6940
+
+(Registrant’s telephone number, including
+area code)
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+☐Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+☐Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant
+to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+
+    Common Stock, par value $0.0001 per share
+     
+    LACQ
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants to purchase one share of Common Stock
+     
+    LACQW
+     
+    The Nasdaq Stock Market LLC
+
+    Units, each consisting of one share of Common Stock and one-half of one Warrant
+     
+    LACQU
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+    
+     
+    
+
+ 
+
+
+Item 1.01Entry into a Material Definitive Agreement.
+
+ 
+
+Amendment to Investment Management Trust
+Agreement
+
+ 
+
+On June 26, 2020, the stockholders of Leisure
+Acquisition Corp. (the “Company”) approved an amendment (the “IMTA Amendment”) to the Company’s
+investment management trust agreement, dated December 1, 2017 and as amended on December 5, 2019 and March 26, 2020, by and between
+the Company and the Continental Stock Transfer & Trust Company, to extend the date on which to commence liquidating the trust
+account (“Trust Account”) established in connection with the Company’s initial public offering in the
+event the Company has not consummated a business combination from June 30, 2020 to December 1, 2020 (the “Extended Date”).
+On June 29, 2020, the Company entered into the IMTA Amendment.
+
+ 
+
+The foregoing is only a summary of the
+IMTA Amendment and does not purport to be complete and is qualified in its entirety by reference to the full text of the respective
+underlying agreement. A copy of the IMTA Amendment is attached to this Current Report on Form 8-K as Exhibit 10.1 and incorporated
+herein by reference.
+
+ 
+
+Amendment to Expense Advancement Agreement
+
+ 
+
+On June 29, 2020, the Company
+entered into an amendment (the “Expense Advancement Amendment”) to its expense advancement agreement, dated
+December 1, 2017 (the “Expense Advancement Agreement”), by and between the Company and Hydra Management, LLC
+(“Hydra”), MLCP GLL Funding LLC (“MLCP”) and HG Vora Special Opportunities Master Fund, Ltd.
+(“HG Vora” and together with Hydra and MLCP, the “Funding Parties”) to increase the total
+amount of advances available to the Company under the agreement to $1,125,000 from $1,000,000. As previously disclosed, the Company
+issued promissory notes in an aggregate amount of $1,000,000 to the Funding Parties on January 15, 2020 pursuant to the Expense
+Advancement Agreement which were subsequently converted in accordance with the terms thereunder into warrants to purchase shares
+of the Company’s common stock.
+
+ 
+
+The foregoing is only a summary of the
+Expense Advancement Amendment and does not purport to be complete and is qualified in its entirety by reference to the full text
+of the respective underlying agreement. A copy of the Expense Advancement Amendment is attached to this Current Report on Form
+8-K as Exhibit 10.2 and incorporated herein by reference.
+
+ 
+
+
+Item 5.01Changes in Control of Registrant.
+
+ 
+
+As a result of the redemptions described
+below in Item 5.07 of this Current Report on Form 8-K, the Company had 6,262,283 shares outstanding as of June 29, 2020. Due to
+the decrease in the number of shares outstanding, the beneficial ownership percentage of HG Vora Capital Management, LLC, increased
+to approximately 55% from approximately 49%.
+
+ 
+
+
+Item 5.03Amendments to Articles of Incorporation or Bylaws.
+
+ 
+
+On June 26, 2020, the stockholders of the
+Company approved an amendment (the “Charter Amendment”) to the Company’s Second Amended and Restated Certificate
+of Incorporation, as amended on December 5, 2019 and March 26, 2020, to extend the date by which the Company must consummate a
+business combination from June 30, 2020 to the Extended Date. On June 29, 2020, the Company filed the Charter Amendment with the
+Secretary of State of the State of Delaware.
+
+ 
+
+A copy of the Charter Amendment is attached
+to this Current Report on Form 8-K as Exhibit 3.1 and incorporated herein by reference.
+
+ 
+
+
+Item 5.07Submission of Matters to a Vote of Security Holders.
+
+ 
+
+On June 26, 2020, the Company held a special
+meeting of stockholders (the “Special Meeting”). Set forth below are the final voting results for each of the
+proposals.
+
+ 
+
+Proposal No. 1 – Extension
+Amendment
+
+ 
+
+A proposal to amend the Company’s
+Second Amended and Restated Certificate of Incorporation, as amended on December 5, 2019 and March 26, 2020, to extend the date
+by which the Company must consummate a business combination from June 30, 2020 to the Extended Date:
+
+ 
+
+
+
+    FOR
+     
+    AGAINST
+     
+    ABSTAIN
+     
+    BROKER NON-VOTE
+
+    5,851,324
+     
+    562
+     
+    0
+     
+    0
+
+ 
+
+
+
+    1
+     
+    
+
+ 
+
+Proposal No. 2 – Trust Amendment
+
+ 
+
+A proposal to amend
+the Company’s investment management trust agreement, dated December 1, 2017 and as amended on December 5, 2019 and March
+26, 2020, by and between the Company and the Continental Stock Transfer & Trust Company, to extend the date on which to commence
+liquidating the Trust Account established in connection with the Company’s initial public offering in the event the Company
+has not consummated a business combination from June 30, 2020 to the Extended Date:
+
+ 
+
+
+
+    FOR
+     
+    AGAINST
+     
+    ABSTAIN
+     
+    BROKER NON-VOTE
+
+    5,851,324
+     
+    562
+     
+    0
+     
+    0
+
+ 
+
+In
+connection with the Extension Amendment, holders of 776,290 shares of the Company’s common stock redeemed their shares for
+cash, for an aggregate redemption amount of approximately $8.1 million. As a result, approximately $13.2 million will
+remain in the Trust Account after payment of redemptions.
+
+ 
+
+
+Item 9.01Financial Statements and Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description
+
+    3.1
+     
+    Amendment dated June 29, 2020 to the Second Amended and Restated Certificate of Incorporation, as amended on December 5, 2019 and March 26, 2020
+
+    10.1
+     
+    Amendment dated June 29, 2020 to the Investment Management Trust Agreement, dated December 1, 2017 and as amended on December 5, 2019 and March 26, 2020, by and between the Company and the Continental Stock Transfer & Trust Company
+
+    10.2
+     
+    Amendment dated June 29, 2020 to the Expense Advancement Agreement, dated December 1, 2017, by and between the Company and Hydra Management, LLC, MLCP GLL Funding LLC and HG Vora Special Opportunities Master Fund, Ltd.
+
+ 
+
+
+
+    2
+     
+    
+
+  
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    LEISURE ACQUISITION CORP.
+
+ 
+
+
+
+    Date: June 30, 2020
+    By:
+    /s/ Daniel B. Silvers
+
+     
+    Name:
+    Daniel B. Silvers
+
+     
+    Title:
+    Chief Executive Officer and Director
+
+ 
+
+ 
+
+3
+
+
+
+ 
+
+ 
+
+
+
+

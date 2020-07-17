@@ -1,0 +1,491 @@
+
+8-K
+1
+f8k051419_kblmerger.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+  
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): May
+14, 2019
+
+ 
+
+KBL MERGER CORP. IV
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38105
+     
+    81-3832378
+
+    (State or Other Jurisdiction
+of Incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+
+
+    
+        527 Stanton Christian Road
+        Newark, DE 19713
+     
+    19713
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (302) 502-2727
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since
+Last Report)
+
+ 
+
+Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions (see General Instruction A.2. below):
+
+ 
+
+☐    Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☒    Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐    Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐    Pre-commencement communications pursuant
+to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+
+
+     Title of each class
+     
+    Trading Symbol(s)
+     
+    
+        Name of each exchange on
+        which registered
+
+    Common Stock, par value $0.0001 per share
+     
+    KBLM
+     
+    The NASDAQ Stock Market LLC
+
+    Warrants, each warrant exercisable for one-half of one share of Common Stock at an exercise price of $5.75 per half share
+     
+    KBLMW
+     
+    The NASDAQ Stock Market LLC
+
+    Rights, exchangeable into one-tenth of one share of Common Stock
+     
+    KBLMR
+     
+    The NASDAQ Stock Market LLC
+
+    Units, each consisting of one share of Common Stock, one Warrant and one Right
+     
+    KBLMU
+     
+    The NASDAQ Stock Market LLC
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 7.01. Regulation FD Disclosure.
+
+ 
+
+Attached as Exhibit 99.1 to this Current Report
+on Form 8-K and incorporated into this Item 7.01 by reference is the investor presentation that will be used by KBL Merger Corp.
+IV, a Delaware corporation (“KBL”), in making presentations to certain persons with respect to the transactions contemplated
+by the non-binding term sheet described below.
+
+ 
+
+The investor presentation attached as Exhibit
+99.1 is being furnished and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended (the “Exchange Act”), or otherwise be subject to the liabilities of that section, nor shall it be deemed
+to be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+On May 14, 2019, KBL issued a
+press release announcing the execution of a non-binding term sheet relating to a business combination (the
+“Term Sheet”). The execution of the Term Sheet was previously disclosed in a Current Report on Form 8-K filed
+with the SEC on April 16, 2019. KBL and KBL IV Sponsor, LLC, a Delaware limited liability company (“Sponsor”),
+entered into the Term Sheet for KBL’s initial business combination transaction (the “Transaction”) with
+CannBioRx Life Sciences Corp., a Delaware corporation (the “CannBioRx”), Katexco Pharmaceuticals Corp., a
+Canadian corporation (“Katexco”), CannBioRx Pharmaceuticals Corp., a Canadian corporation (“CBR
+Pharma”), 180 Therapeutics, LP, a Delaware limited partnership (“180” and, together with Katexco and CBR
+Pharma, the “Subsidiaries” and, together with CannBioRx , the “CannBioRx Parties”), and Tyche Capital LLC, a Delaware limited liability company, solely with respect to
+the sections of the Term Sheet in which it is referred (“Tyche”), pursuant to which KBL will acquire 100% of the
+outstanding equity and equity equivalents of CannBioRx (including options, warrants or other securities that have the right
+to acquire or convert into equity securities of CannBioRx) (collectively, the “CannBioRx Securities”) in exchange
+for shares of common stock of KBL (the “Transaction Shares”) valued at $175 million (the
+“Valuation”), subject to adjustment as described below. Each Transaction Share will have a value equal to the
+redemption amount payable to KBL’s public stockholders (the “Redemption Price”) that redeem their shares of
+KBL common stock in connection with the closing of the Transaction (the “Closing”). The $175 million of
+consideration will be (i) reduced by the amount of any indebtedness of CannBioRx Parties and (ii) increased by the amount of
+any cash of the CannBioRx Parties, in either case, as of the Closing. In addition, the Valuation will be verified prior to
+the signing of a definitive agreement governing the Transaction (a “Definitive Agreement”) by an investment bank
+reasonably acceptable to KBL, CannBioRx and Tyche. It is contemplated that CannBioRx will not be acquiring the shares of the
+Canadian shareholders in Katexco and CannBio Pharma. Those shareholders will continue to hold exchangeable shares in a
+Canadian holdco of CannBioRx that are exchangeable for common stock of CannBioRx and ultimately, upon closing of the business
+combination, exchangeable for shares of common stock of KBL.
+
+ 
+
+The Term Sheet is intended to express only a
+mutual indication of interest in the Transaction and does not represent a legally binding commitment or obligation on the part
+of the parties, and there can be no assurances that the Transaction will be consummated. The obligation of the parties will be
+subject to execution of a Definitive Agreement containing terms and conditions satisfactory to KBL and CannBioRx.
+
+ 
+
+Prior to, or simultaneously with the Closing,
+CannBioRx and the Subsidiaries will engage in a corporate restructuring pursuant to which each of the Subsidiaries, along with
+a new Canadian corporation and a Cayman Island company will become wholly-owned subsidiaries of CannBioRx.
+
+ 
+
+Prior to signing a Definitive Agreement, the
+parties have agreed to ensure that KBL will have at least $40 million in cash available at the Closing either through backstop
+commitment or financing arrangements.
+
+ 
+
+In connection with the entry into the Term Sheet,
+the CannBioRx Parties deposited in escrow as a loan, $400,000 to be used by KBL to fund its operating expenses, deal transaction
+expenses and any financing expenses for the Transaction (the “Operating Expenses”). In addition, the CannBioRx Parties
+agreed to deposit in escrow as a loan up to an additional $300,000 to be used by KBL in connection with any future extensions of
+the deadline for KBL to consummate its initial business combination (the “Extension Expenses”). The loans are interest-free
+unsecured loans and can be pre-paid at any time without penalty, but are required to be repaid (subject to a customary waiver against
+KBL’s trust account) upon the earlier of (i) the closing of the Transaction, (ii) the consummation by KBL of a transaction
+with a third party constituting KBL’s initial business combination (an “Alternative Business Combination”), or
+(iii) the liquidation of KBL if it does not consummate an initial business combination prior to its deadline to do so (a “Liquidation”).
+
+ 
+
+
+
+
+    1 
+     
+    
+
+ 
+
+Each of KBL and the CannBioRx Parties also agreed
+that until June 10, 2019 (subject to earlier termination as described below, the “Exclusivity Period”), such party
+will not, and will cause its representatives not to, directly or indirectly, solicit or initiate or enter into discussions, negotiations,
+letters of intent, agreements or transactions with, or encourage, or provide any information to, any person or entity (other than
+the other party) concerning any Alternative Transaction (as defined below), or make any filing with any governmental authority
+with respect thereto. For purposes of the Term Sheet, an “Alternative Transaction” means (i) with respect to the CannBioRx
+Parties, any transaction with respect to the direct or indirect sale, transfer, license or other disposition of any Company Party
+or its subsidiaries, or their respective equity interests, business or material assets (outside of the ordinary course of business),
+whether by purchase, merger, consolidation, recapitalization, exclusive license or otherwise, or any similar transaction that would
+reasonably be expected to prohibit, impair or materially delay the proposed Transaction and (ii) with respect to KBL, a business
+combination. Each of KBL and the CannBioRx Parties also agreed to immediately suspend any pre-existing discussion with all parties
+other than the other party and its affiliates regarding any solicitation or offer for an Alternative Transaction. Notwithstanding
+the foregoing, either KBL or CannBioRx may terminate the Exclusivity Period immediately in the event that the other party (i) abandons
+discussions regarding the proposed Transaction or otherwise fails to continue to negotiate the proposed Transaction with such terminating
+party in good faith, or (ii) notifies such terminating party that it no longer desires or intends to pursue or consummate the proposed
+Transaction; provided that if CannBioRx terminates the Exclusivity Period early pursuant to the foregoing clauses (i) or (ii),
+(A) any remaining funds deposited by the CannBioRx Parties into escrow shall be immediately released back to the CannBioRx Parties
+as a prepayment of the aforementioned loans and (B) any obligations of the CannBioRx Parties to fund additional amounts pursuant
+to the Term Sheet and of Tyche to participate in a financing shall terminate and be of no further force and effect.
+
+ 
+
+The press release of KBL is attached as Exhibit 99.2 hereto and is incorporated into this Item 8.01 by reference.
+
+ 
+
+
+
+
+    2 
+     
+    
+
+  
+
+Forward-Looking Statements
+
+ 
+
+Certain statements made herein are “forward-looking
+statements” within the meaning of U.S. federal securities laws. Words such as “expect,” “estimate,”
+“project,” “budget,” “forecast,” “anticipate,” “intend,” “plan,”
+“may,” “will,” “could,” “should,” “believes,” “predicts,”
+“potential,” “continue” and similar expressions are intended to identify such forward-looking statements.
+These forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially
+from the expected results and, consequently, you should not rely on these forward-looking statements as predictions of future events.
+These forward-looking statements and factors that may cause such differences include, without limitation, KBL’s and CannBioRx
+Life Sciences Corp.’s inability to enter into a definitive agreement with respect to the proposed business combination transaction
+or to complete the transactions contemplated by the non-binding term sheet, matters discovered by the parties as they complete
+their respective due diligence investigation of the other; the inability to recognize the anticipated benefits of the proposed
+business combination, which may be affected by, among other things, the amount of cash available following any redemptions by KBL
+stockholders; the ability to meet NASDAQ's listing standards following the consummation of the transactions contemplated by the
+proposed business combination; costs related to the proposed business combination; expectations with respect to future performance,
+growth and anticipated acquisitions; ability to recognize the anticipated benefits of the proposed business combination; the timing
+of the completion of the proposed business combination; CannBioRx's ability to execute its plans to develop and market new drug
+products and the timing and costs of these development programs; CannBioRx's estimates of the size of the markets for its potential
+drug products; potential litigation involving KBL or CannBioRx or the validity or enforceability of CannBioRx's intellectual property;
+global economic conditions; geopolitical events and regulatory changes; access to additional financing; and other risks and uncertainties
+indicated from time to time in filings with the SEC. Other factors include the possibility that the proposed transaction does not
+close, including due to the failure to receive required security holder approvals, or the failure of other closing conditions.
+The foregoing list of factors is not exclusive. Additional information concerning these and other risk factors is contained in
+KBL’s most recent filings with the SEC and will be contained in the proxy statement/prospectus to be filed as result of the
+transactions described above. All subsequent written and oral forward-looking statements concerning KBL or CannBioRx Life Sciences
+Corp., the transactions described herein or other matters and attributable to KBL or CannBioRx Life Sciences Corp. or any person
+acting on their behalf are expressly qualified in their entirety by the cautionary statements above. Readers are cautioned not
+to place undue reliance upon any forward-looking statements, which speak only as of the date made. None of KBL or CannBioRx Life
+Sciences Corp. undertake or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking
+statement to reflect any change in their expectations or any change in events, conditions or circumstances on which any such statement
+is based.
+
+Additional Information and Where
+to Find It
+
+If a definitive agreement is entered
+into and in connection with the proposed transactions described herein, KBL and CannBioRx Life Sciences Corp. will prepare a proxy
+statement/prospectus for KBL’s stockholders and a registration statement on Form S-4 to be filed with the Securities and
+Exchange Commission.  KBL’s proxy statement/prospectus will be mailed to KBL’s stockholders that do not opt to
+receive the document electronically. KBL and CannBioRx Life Sciences Corp. urge investors, stockholders and other interested
+persons to read, when available, the proxy statement/prospectus, as well as other documents filed with the SEC, because these documents
+will contain important information about the proposed business combination transaction.  Such persons can also read KBL’s
+Annual Report on Form 10-K for the fiscal year ended December 31, 2018, for a description of the security holdings of its
+officers and directors and their respective interests as security holders in the consummation of the transactions described herein.
+KBL’s definitive proxy statement/prospectus, which will also be included in the registration statement, will be mailed to
+stockholders of KBL as of a record date to be established for voting on the transactions described in this report. KBL’s
+stockholders will also be able to obtain a copy of such documents, without charge, by directing a request to: KBL Merger Corp.
+IV, 150 West 56th Street, Suite 5901, New York, NY 10019; e-mail: admin@kblvc.com.  These documents, once available,
+can also be obtained, without charge, at the Securities and Exchange Commission’s web site (http://www.sec.gov).
+
+Participants in Solicitation
+
+ KBL and its directors and
+executive officers, may be deemed to be participants in the solicitation of proxies for the special meeting of KBL’s stockholders
+to be held to approve the transactions described in this press release. Information regarding the persons who may, under the rules
+of the SEC, be deemed participants in the solicitation of KBL’s stockholders in connection with the proposed transactions
+will be set forth in the proxy statement/prospectus when it is filed with the SEC. You can find information about KBL’s executive
+officers and directors in its Annual Report on Form 10-K, which was filed with the SEC on April 1, 2019. You can obtain free copies
+of these documents from KBL using the contact information above.
+
+Disclaimer
+
+ This communication is not
+a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities or in respect of the proposed
+transaction and shall not constitute an offer to sell or a solicitation of an offer to buy the securities of KBL and CannBioRx
+Life Sciences Corp., nor shall there be any sale of any such securities in any state or jurisdiction in which such offer, solicitation,
+or sale would be unlawful prior to registration or qualification under the securities laws of such state or jurisdiction. No offer
+of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933,
+as amended.
+
+ 
+
+
+    3 
+     
+    
+
+
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)       Exhibits
+
+ 
+
+
+
+    Exhibit No.
+     
+    Description of Exhibits
+
+    99.1
+     
+    Investor Presentation dated May 16, 2019
+
+     
+     
+     
+
+    99.2
+     
+    
+        Press Release of KBL, dated May 14, 2019
+
+ 
+
+ 
+
+
+
+    4 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+  
+
+Dated: May 16, 2019
+
+ 
+
+
+
+    KBL MERGER CORP. IV
+     
+
+     
+     
+     
+
+    By:
+    /s/ Marlene Krauss, M.D.
+     
+
+     
+    Name: Marlene Krauss, M.D.
+     
+
+     
+    Title: Chief Executive Officer
+     
+
+ 
+
+
+
+
+    5 
+    
+
+ 
+
+
+
+

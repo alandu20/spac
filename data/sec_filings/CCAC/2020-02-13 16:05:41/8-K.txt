@@ -1,0 +1,382 @@
+
+8-K
+1
+d886016d8k.htm
+FORM 8-K
+
+
+Form 8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT
+REPORT  PURSUANT TO SECTION 13 OR 15(d) OF THE 
+SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (Date of earliest event reported): February 13, 2020 (February 10, 2020) 
+   
+CITIC CAPITAL ACQUISITION CORP. 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cayman Islands
+ 
+001-39222
+ 
+N/A
+
+(State or other jurisdictionof incorporation)
+ 
+(CommissionFile Number)
+ 
+(IRS EmployerIdentification No.)
+ 9/F, East Tower, Genesis Beijing 
+No. 8 Xinyuan South Road 
+Chaoyang District, Beijing 100027 
+Peoples Republic of China 
+(Address of principal executive offices, including zip code) 
+Registrants telephone number, including area code: +86 10 5802 3889 
+Not Applicable  (Former
+name or former address, if changed since last report)  Securities registered pursuant to Section 12(b) of the Act: 
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title of each class
+ 
+Trading Symbol(s)
+ 
+Name of each exchange on which registered
+
+
+
+ Units, each consisting of one Class A ordinary share,
+$0.0001 par value, and one-half of one redeemable warrant
+ 
+CCAC.U
+ 
+The New York Stock Exchange
+
+ Class A ordinary shares, par value $0.0001 par
+value
+ 
+CCAC
+ 
+The New York Stock Exchange
+
+ Redeemable warrants, each
+warrant exercisable for one Class A ordinary share, each at an exercise price of $11.50 per share
+ 
+CCAC WS
+ 
+The New York Stock Exchange
+    
+  Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+ 
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☑  If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+ Item 1.01. Entry into a Material Definitive Agreement. 
+On February 13, 2020, CITIC Capital Acquisition Corp. (the Company) consummated its initial public offering (IPO)
+of 27,600,000 units (the Units), including the issuance of 3,600,000 Units as a result of the underwriters exercise of their over-allotment option in full. Each Unit consists of one Class A ordinary share of the Company, par
+value $0.0001 per share (the Class A Ordinary Shares), and one-half of one redeemable warrant of the Company (each whole warrant, a Warrant), with each Warrant entitling the holder
+thereof to purchase one Class A Ordinary Share for $11.50 per share, subject to adjustment. The Units were sold at a price of $10.00 per Unit, generating gross proceeds to the Company of $276,000,000. 
+In connection with the IPO, the Company entered into the following agreements, forms of which were previously filed as exhibits to the
+Companys Registration Statement on Form S-1 (File No. 333-236006) for the IPO, initially filed with the U.S. Securities and Exchange Commission (the
+Commission) on January 22, 2020, as amended (the Registration Statement):   
+
+
+ 
+
+ 
+ An Underwriting Agreement, dated February 10, 2020, by and between the Company and Credit Suisse Securities
+(USA) LLC, as representative of the underwriters, a copy of which is attached as Exhibit 1.1 hereto and incorporated herein by reference.   
+
+
+ 
+
+ 
+ A Warrant Agreement, dated February 10, 2020, by and between the Company and Continental Stock
+Transfer & Trust Company, as warrant agent, a copy of which is attached as Exhibit 4.1 hereto and incorporated herein by reference.   
+
+
+ 
+
+ 
+ A Letter Agreement, dated February 10, 2020 (the Letter Agreement), by and among the Company,
+its executive officers, its directors and the Companys sponsor, CITIC Capital Acquisition LLC (the Sponsor), a copy of which is attached as Exhibit 10.1 hereto and incorporated herein by reference. 
+ 
+
+
+ 
+
+ 
+ An Investment Management Trust Agreement, dated February 10, 2020, by and between the Company and
+Continental Stock Transfer & Trust Company, as trustee, a copy of which is attached as Exhibit 10.2 hereto and incorporated herein by reference.   
+
+
+ 
+
+ 
+ A Registration Rights Agreement, dated February 10, 2020, by and among the Company, the Sponsor and the
+Companys independent directors, a copy of which is attached as Exhibit 10.3 hereto and incorporated herein by reference.   
+
+
+ 
+
+ 
+ A Private Placement Warrants Purchase Agreement, dated February 10, 2020, by and between the Company and the
+Sponsor (the Private Placement Warrants Purchase Agreement), a copy of which is attached as Exhibit 10.4 hereto and incorporated herein by reference. 
+ 
+
+
+ 
+
+ 
+ An Administrative Services Agreement, dated February 10, 2020, by and among the Company and the Sponsor, a
+copy of which is attached as Exhibit 10.5 hereto and incorporated herein by reference.  Item 3.02. Unregistered Sales of Equity
+Securities.  Simultaneously with the closing of the IPO, pursuant to the Private Placement Warrants Purchase Agreement, the Company
+completed the private sale of 7,520,000 warrants (the Private Placement Warrants) to the Sponsor at a purchase price of $1.00 per Private Placement Warrant, generating gross proceeds to the Company of $7,520,000. The Private Placement
+Warrants are identical to the Warrants included as part of the Units sold in the IPO, except that the Private Placement Warrants, so long as they are held by the Sponsor or its permitted transferees, (i) are not redeemable by the Company,
+(ii) may not (including the Class A Ordinary Shares issuable upon exercise of the warrants), subject to certain limited exceptions, be transferred, assigned or sold until 30 days after the completion of the Companys initial business
+combination, (iii) may be exercised on a cashless basis and (iv) are entitled to registration rights. No underwriting discounts or commissions were paid with respect to such sale. The issuance of the Private Placement Warrants was made
+pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended. 
+
+
+
+
+
+
+
+
+ Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.  On February 10, 2020, in connection with the IPO, Henri Arif was
+appointed to the board of directors of the Company (the Board). Effective February 10, 2020, Mr. Arif was appointed to the Boards Compensation Committee, Audit Committee and Nominating and Corporate Governance Committee
+with Mr. Arif serving as chair of all three Committees.  Following the appointment of Mr. Arif, the Board is comprised of the
+following three classes: the term of office of the first class of directors, Class I, consists of Fanglu Wang and will expire at the Companys first annual meeting of shareholders; the term of office of the second class of directors,
+Class II, consists of Eric Chan and will expire at the Companys second annual meeting of shareholders; and the term of office of the third class of directors, Class III, consists of Mr. Arif and will expire at the Companys
+third annual meeting of shareholders.  On February 10, 2020, in connection with his appointment to the Board, Mr. Arif entered
+into the Letter Agreement as well as an indemnity agreement with the Company in the form previously filed as Exhibit 10.5 to the Registration Statement. 
+Prior to the IPO, on December 10, 2019, the Sponsor transferred 718,750 Class B ordinary shares of the Company to Mr. Arif,
+each at a par value of $0.004 per share (founder shares). On February 10, 2020, the Company effected a share capitalization of 1,150,000 shares, resulting in the Sponsor holding 6,037,500 founder shares and Mr. Arif holding
+862,500 founder shares.  Other than the foregoing, Mr. Arif is not party to any arrangement or understanding with any person pursuant
+to which he was appointed as director, nor is he party to any transactions required to be disclosed under Item 404(a) of Regulation S-K involving the Company. 
+The foregoing descriptions of the Letter Agreement and the form of indemnity agreement do not purport to be complete and are qualified in
+their entireties by reference to the Letter Agreement and form of indemnity agreement, copies of which are attached as Exhibit 10.1 hereto and Exhibit 10.5 to the Registration Statement, respectively, and are incorporated herein by reference. 
+Item 5.03. Amendments to Certificate of Incorporation or Bylaws; Change in Fiscal Year. 
+On February 10, 2020, in connection with the IPO, the Company adopted its Amended and Restated Memorandum and Articles of Association (the
+Amended Charter), effective the same day. The terms of the Amended Charter are set forth in the Registration Statement and are incorporated herein by reference. A copy of the Amended Charter is attached as Exhibit 3.1 hereto and
+incorporated herein by reference.  Item 8.01. Other Events. 
+A total of $276,000,000, comprised of $270,480,000 of the proceeds from the IPO (which amount includes $9,660,000 of the underwriters
+deferred discount) and $5,520,000 of the proceeds of the sale of the Private Placement Warrants, was placed in a U.S.-based trust account at J.P. Morgan Chase Bank, N.A. maintained by Continental Stock Transfer & Trust Company, acting as
+trustee. Except with respect to interest earned on the funds held in the trust account that may be released to the Company to pay its taxes and up to $100,000 of interest to pay dissolution expenses, the funds held in the trust account will not be
+released from the trust account until the earliest of (i) the completion of the Companys initial business combination, (ii) the redemption of any of the Class A Ordinary Shares included in the Units sold in the IPO (the
+public shares) properly submitted in connection with a shareholder vote to amend the Companys Amended Charter (A) to modify the substance or timing of the Companys obligation to redeem 100% of the public shares if it
+does not complete its initial business combination within 24 months from the closing of the IPO or (B) with respect to any other material provisions relating to shareholders rights or pre-initial
+business combination activity or (iii) the redemption of the Companys public shares if it is unable to complete its initial business combination within 24 months from the closing of the IPO, subject to applicable law. 
+On February 10, 2020, the Company issued a press release announcing the pricing of the IPO, a copy of which is attached as Exhibit 99.1
+to this Current Report on Form 8-K.  On February 13, 2020, the Company issued a press release
+announcing the closing of the IPO, a copy of which is attached as Exhibit 99.2 to this Current Report on Form 8-K. 
+Item 9.01 Financial Statements and Exhibits. 
+(d)    Exhibits 
+
+
+
+
+
+
+
+
+ EXHIBIT INDEX 
+ 
+
+
+
+
+
+
+
+
+
+
+ Exhibit No.
+  
+ Description
+
+
+
+
+
+
+  1.1
+  
+Underwriting Agreement, dated February 10, 2020, by and between the Company and Credit Suisse Securities (USA) LLC, as representative of the underwriters. 
+
+
+
+
+  3.1
+  
+Amended and Restated Memorandum and Articles of Association. 
+
+
+
+
+  4.1
+  
+Warrant Agreement, dated February 10, 2020, by and between the Company and Continental Stock Transfer & Trust Company, as warrant agent. 
+
+
+
+
+10.1
+  
+Letter Agreement, dated February 10, 2020, by and among the Company, its executive officers, its directors and CITIC Capital Acquisition LLC. 
+
+
+
+
+10.2
+  
+Investment Management Trust Agreement, dated February 10, 2020, by and between the Company and Continental Stock Transfer & Trust Company, as trustee. 
+
+
+
+
+10.3
+  
+Registration Rights Agreement, dated February 10, 2020, by and among the Company, CITIC Capital Acquisition LLC and the Companys independent directors. 
+
+
+
+
+10.4
+  
+Private Placement Warrants Purchase Agreement, dated February 10, 2020, by and between the Company and CITIC Capital Acquisition LLC. 
+
+
+
+
+10.5
+  
+Administrative Services Agreement, dated February 10, 2020, by and between the Company and CITIC Capital Acquisition LLC. 
+
+
+
+
+99.1
+  
+Press Release, dated February 10, 2020. 
+
+
+
+
+99.2
+  
+Press Release, dated February 13, 2020. 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+
+CITIC CAPITAL ACQUISITION CORP.
+
+
+
+
+By:
+ 
+/s/ Fanglu Wang
+
+
+ 
+Name: Fanglu Wang
+
+
+ 
+Title: Chief Executive Officer Dated:
+February 13, 2020 
+
+
+
+

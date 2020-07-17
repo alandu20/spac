@@ -1,0 +1,415 @@
+
+8-K
+1
+ea124072-8k_opesacq.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+
+Form
+8-K
+
+ 
+
+
+Current
+Report
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities
+Exchange Act of 1934
+
+ 
+
+July
+6, 2020
+
+Date
+of Report (Date of earliest event reported)
+
+ 
+
+Opes
+Acquisition Corporation
+
+(Exact
+Name of Registrant as Specified in its Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38417
+     
+    82-2418815
+
+    (State
+    or other jurisdiction 
+    of incorporation)
+     
+    (Commission
+                                         File Number)
+         
+     
+    (I.R.S.
+    Employer 
+    Identification No.) 
+
+ 
+
+
+
+    4218 NE 2nd Avenue, 2nd Floor
+Miami, FL
+     
+    33137
+
+    (Address
+    of Principal Executive Offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (305) 573-3900
+
+ 
+
+
+
+    N/A
+
+    (Former
+    name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+
+    ☒
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+                                         of each exchange on
+        which
+        registered
+
+    Units,
+    each consisting of one share of common stock and one redeemable warrant
+     
+    OPESU
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Common
+    stock, par value $0.0001 per share
+     
+    OPES
+     
+    The
+    Nasdaq Stock Market LLC
+
+    Redeemable
+    warrants, each exercisable for one share of common stock at an exercise price of $11.50 per share
+     
+    OPESW
+     
+    The
+    Nasdaq Stock Market LLC
+
+  
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR
+§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+    
+     
+    
+
+ 
+
+IMPORTANT NOTICES
+
+ 
+
+Opes Acquisition Corp., a Delaware corporation
+(“OPES” or “Purchaser”), and BurgerFi International LLC, a Delaware limited liability company (“BurgerFi”)
+and their respective directors, executive officers, members, managers, employees and other persons may be deemed to be participants
+in the solicitation of proxies from the holders of Purchaser’s common stock in respect of the proposed transaction described
+herein. Information about OPES’s directors and executive officers and their ownership of OPES’s common stock is set
+forth in OPES’s Prospectus, dated March 13, 2018, Annual Report on Form 10-K, dated March 30, 2020 and the proxy statement
+on Definitive Schedule 14A dated July 2, 2020, filed with the Securities and Exchange Commission (the “SEC”), as modified
+or supplemented by any Form 4 filed with the SEC since the date of such filings as modified or supplemented by any Form 3 or Form
+4 filed with the SEC since the date of such filing. Other information regarding the interests of the participants in the proxy
+solicitation will be included in the proxy statement pertaining to the proposed transaction when it becomes available. These documents
+can be obtained free of charge from the sources indicated above.
+
+ 
+
+In connection with the transaction described
+herein, Purchaser will file relevant materials with the SEC, including a proxy statement on Schedule 14A. Promptly after filing
+its definitive proxy statement with the SEC, Purchaser will mail the definitive proxy statement and a proxy card to each stockholder
+entitled to vote at the special meeting relating to the transaction, and other proposals. INVESTORS AND SECURITY HOLDERS OF PURCHASER
+ARE URGED TO READ THESE MATERIALS (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO) AND ANY OTHER RELEVANT DOCUMENTS IN CONNECTION
+WITH THE TRANSACTION THAT PURCHASER WILL FILE WITH THE SEC WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION
+ABOUT OPES, BURGERFI AND THE TRANSACTION. The definitive proxy statement, the preliminary proxy statement and other relevant materials
+in connection with the transaction (when they become available), and any other documents filed by Purchaser with the SEC, may be
+obtained free of charge at the SEC’s website (www.sec.gov) or by writing to OPES at: 4218 NE 2nd Avenue, Miami, FL 33137
+
+ 
+
+This Current Report on Form 8-K contains
+certain “forward-looking statements” within the meaning of the Securities Act of 1933 and the Securities Exchange Act
+of 1934, both as amended by the Private Securities Litigation Reform Act of 1995. Statements that are not historical facts, including
+statements about the execution of definitive agreements relating to the Business Combination by and among OPES and BurgerFi and
+the transactions contemplated thereby, and the parties’ perspectives and expectations, are forward-looking statements. Such
+statements include, but are not limited to, statements regarding the proposed transaction. The words “expect,” “believe,”
+“estimate,” “intend,” “plan,” and similar expressions indicate forward-looking statements.
+These forward-looking statements are not guarantees of future performance and are subject to various risks and uncertainties, assumptions
+(including assumptions about general economic, market, industry and operational factors), known or unknown, which could cause the
+actual results to vary materially from those indicated or anticipated.
+
+ 
+
+Such risks and uncertainties include, but
+are not limited to: (i) risks related to the timing of the completion of the Business Combination, (ii) the ability to satisfy
+the various conditions to the closing of the Business Combination set forth in the Membership Interest Purchase Agreement, (iii)
+the occurrence of any event, change or other circumstances that could give rise to the termination of the Membership Interest Purchase
+Agreement, (iv) the risk that there may be a material adverse effect on the business, properties, assets, liabilities, results
+of operations or condition (financial or otherwise), of BurgerFi or its subsidiaries or franchisees, taken as a whole; (v) risks
+related to disruption of management time from ongoing business operations due to the proposed Business Combination; (vi) the risk
+that any announcements relating to the proposed Business Combination could have adverse effects on the market price of OPES’s
+common stock; and (vii) other risks and uncertainties and other factors identified in OPES’s prior and future filings with
+the SEC, available at www.sec.gov.
+
+ 
+
+A further list and description of risks
+and uncertainties can be found in the proxy statement on Schedule 14A that will be filed with the SEC by Purchaser in connection
+with the proposed transaction, and other documents that the parties may file or furnish with the SEC, which you are encouraged
+to read.
+
+ 
+
+Should one or more of these risks or uncertainties
+materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated
+by such forward-looking statements. Accordingly, you are cautioned not to place undue reliance on these forward-looking statements.
+Forward-looking statements relate only to the date they were made, and OPES and BurgerFi, and their respective subsidiaries, if
+any, undertake no obligation to update forward-looking statements to reflect events or circumstances after the date they were made
+except as required by law or applicable regulation.
+
+ 
+
+
+
+
+    
+     
+    
+
+ 
+
+Item 8.01 Other Information
+
+ 
+
+As Opes Acquisition Corp. (the “Company”),
+has previously reported, during the second quarter of 2020, management of the Company changed to a new team led by Ophir Sternberg,
+the new Chairman and CEO. The Company moved its headquarters to the Miami Design District, at the offices of Mr. Sternberg’s
+real estate investment and holding company, Lionheart Capital, LLC, 4218 NE 2nd Avenue, Miami, Florida 33137.
+
+ 
+
+The new management team focused on identifying
+a high-growth US company that could take advantage of the new team’s extensive experience in real estate development, design
+and build, acquisitions, leasing and rapid growth strategies. As previously announced, the Company strongly believes that the acquisition
+of BurgerFi International, LLC (“BurgerFi”) fits their new target strategy as BurgerFi has an aggressive growth strategy
+through expansion of corporate-owned restaurants within its current market, a more focused development plan in and around successful
+growth areas, and a special focus on growth of same store sales, as well as opportunistic acquisitions of multi-store chains for
+rebranding into BurgerFi.
+
+Item 3.01 Notice of Delisting or Failure to Satisfy
+a Continued Listing Rule or Standard; Transfer of Listing.
+
+ 
+
+Prior to the new management team taking a leadership
+role with the Company, on January 3, 2020, the Company filed a Current Report on Form 8-K under Item 3.01 disclosing that the Company
+received a notice from the Listing Qualifications Department of The Nasdaq Stock Market (“Nasdaq”), that the Company
+did not hold an annual meeting of stockholders (the “Annual Meeting”) within 12 months after its fiscal year ended
+December 31, 2018, as required by Nasdaq Listing Rule 5620(a). The prior management of the Company was notified of an additional
+180 calendar days from its December 31, 2019 fiscal year end to regain compliance (the “Extension Period”). On July
+6, 2020, the new management of the Company received a notice from Nasdaq that it did not hold the Annual Meeting within the Extension
+Period and, therefore, did not satisfy the requirements to regain compliance with Nasdaq Listing Rule 5620(a).
+
+ 
+
+The new management of the Company, upon discovery,
+immediately took measures to schedule its Annual Meeting by filing a definitive proxy statement on Schedule 14A on July 2, 2020.
+The record date for the Annual Meeting is set for July 15, 2020, and the Annual Meeting will be held on August 4, 2020. As set
+forth in the notice, Nasdaq has determined that it will initiate procedures to delist the Company’s securities, unless the
+Company timely requests a hearing to appeal the decision to delist, which the Company has done. While the appeals process is pending,
+the Company’s securities will continue to trade on Nasdaq. The Company expects that following the Annual Meeting it will
+have regained full compliance with the listing rules.
+
+ 
+
+
+
+
+    
+     
+    
+
+ 
+
+
+
+
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: July 10, 2020
+
+ 
+
+
+
+    OPES ACQUISITION CORP.
+     
+
+     
+     
+     
+
+    By:
+    /s/
+    Ophir Sternberg
+     
+
+    Name:
+    Ophir Sternberg
+     
+
+    Title:
+    Chief Executive Officer
+     
+
+ 
+
+
+
+
+    
+    
+
+ 
+
+
+
+

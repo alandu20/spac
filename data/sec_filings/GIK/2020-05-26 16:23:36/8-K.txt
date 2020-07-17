@@ -1,0 +1,372 @@
+
+8-K
+1
+tm2020946d1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to
+Section 13 or 15(d)
+
+of the Securities
+Exchange Act of 1934
+
+ 
+
+May 18, 2020
+
+Date of Report
+(date of earliest event reported)
+
+ 
+
+ 
+
+ 
+
+ 
+
+GIGCAPITAL3,
+INC.
+
+(Exact name
+of Registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+
+
+     
+     
+     
+     
+     
+
+    Delaware
+     
+    001-39283
+     
+    84-4605714
+
+    
+        (State or other jurisdiction of
+        incorporation or organization)
+     
+    
+        (Commission
+        File Number)
+     
+    
+        (I.R.S. Employer
+        Identification Number)
+
+ 
+
+1731 Embarcadero
+Rd., Suite 200
+
+Palo Alto, CA
+94303
+
+(Address of
+principal executive offices)
+
+ 
+
+(650) 276-7040
+
+(Registrant’s
+telephone number, including area code)
+
+ 
+
+ 
+
+ 
+
+Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions (see General Instruction A.2. below):
+
+ 
+
+
+
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+
+ 
+
+Securities registered pursuant to
+Section 12(b) of the Act:
+
+
+
+     
+     
+     
+     
+     
+
+    
+        Title
+        of each class
+     
+    
+        Trading
+        Symbols
+     
+    
+        Name of each exchange
+        on
+which registered
+
+    Units, each consisting of one share of Common Stock and three-fourths of one Redeemable Warrant
+     
+    GIK.U
+     
+    New York Stock Exchange
+
+    Common Stock, par value $0.0001 per share
+     
+    GIK
+     
+    New York Stock Exchange
+
+    Redeemable Warrants, each full warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share
+     
+    GIK.WS
+     
+    New York Stock Exchange
+
+ 
+
+ 
+
+Indicate by check mark whether the
+registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+    Item 8.01
+    Other Events.
+
+ 
+
+As previously
+disclosed by GigCapital3, Inc. (the “Company”) in its Current Report on Form 8-K, as filed with the Securities
+and Exchange Commission (the “SEC”) on May 18, 2020 (the “IPO Closing 8-K”), the Company
+consummated its initial public offering (the “IPO”) on that date, resulting in the issuance of an aggregate of 20,000,000
+units (the “Public Units”). Each Public Unit consists of one share of the Company’s common stock (a “Public
+Share”), $0.0001 par value (“Common Stock”), and three-fourths (3/4) of one redeemable warrant (a
+ “Public Warrant”). Each whole Public Warrant is exercisable for one share of Common Stock at a price of $11.50
+per full share. The Public Units were sold at an offering price of $10.00 per unit, and the IPO generated aggregate gross proceeds
+of $200,000,000. Simultaneously with the closing of the IPO and the sale of the Public Units,
+the Company consummated the private placement (“Private Placement”) of (i) 893,479 units (the “Private
+Placement Units”), at a price of $10.00 per Private Placement Unit, with each of GigAcquisitions3, LLC, a Delaware limited
+liability company (the “Sponsor”) and the underwriters, pursuant to the respective Unit Purchase Agreements identified
+above (collectively, the “Unit Purchase Agreements”). The Sponsor purchased 650,000 Private Placement Units;
+and the Underwriters purchased 243,479 Private Placement Units in the aggregate. The Private Placement generated aggregate gross
+proceeds of $8,934,790 consisting of $6,500,000 from the sale of the Private Placement Units to the Sponsor and $2,434,790 from
+the sale of the Private Placement Units to the Underwriters. The Private Placement Units are substantially similar to the Public
+Units, except for certain differences in the warrants included in the Private Placement Units (the “Private Warrants”)
+as disclosed in the IPO Closing 8-K and in the Company’s registration statement on Form S-1, as amended (File No. 333-236626)
+(the “Registration Statement”) as declared effective by the SEC on May 5, 2020, as amended by Post-Effective
+Amendment No. 1 to the Registration Statement, as declared effective by the SEC on May 13, 2020.
+
+ 
+
+A
+total of $202,000,000 of the net proceeds from the IPO and the Private Placement were placed in a trust account established for
+the benefit of the Company’s public stockholders at JPMorgan Chase Bank, N.A., with Continental Stock Transfer &
+Trust Company, acting as trustee. Except for the withdrawal of interest to pay taxes, none of the funds held in the trust account
+will be released until the earlier of: (i) the completion of the Company’s initial business combination within eighteen
+(18) months from the closing of the IPO; (ii) the Company’s redemption of 100% of the outstanding Public Shares
+if the Company has not completed an initial business combination within eighteen (18) months from the closing of the IPO;
+or (iii) the Company’s redemption of the Public Shares in connection with the stockholder approval of any amendment
+to the provisions of the Amended and Restated Certificate of Incorporation governing the Company’s pre-initial business
+combination activity and related stockholders’ rights.
+
+ 
+
+An audited balance
+sheet as of May 18, 2020 reflecting receipt of the proceeds upon consummation of the IPO and the Private Placement has been issued
+by the Company and is included as Exhibit 99.1 to this Current Report on Form 8-K.
+
+ 
+
+
+
+    Item 9.01.
+    Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+    Exhibit 99.1
+     
+    Audited Balance Sheet of GigCapital3, Inc. as of May 18, 2020
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the
+Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    GIGCAPITAL3, INC.
+
+     
+     
+     
+     
+
+     
+    By:
+     
+    /s/ Dr. Avi S. Katz
+
+     
+    Name:
+     
+    Dr. Avi S. Katz
+
+     
+    Title:
+     
+    
+        Chief Executive Officer, President and Executive Chairman of
+        the GigCapital3, Inc. Board
+        (Principal Executive Officer)
+
+
+
+ 
+
+Date: May 26, 2020
+
+ 
+
+ 
+
+
+
+
+     
+    
+
+ 
+
+
+
+

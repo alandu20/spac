@@ -1,0 +1,489 @@
+
+8-K
+1
+d918309d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT
+REPORT  Pursuant to Section 13 or 15(d) 
+of the Securities Exchange Act of 1934 
+May 13, 2020  Date
+of Report (date of earliest event reported)   
+  GIGCAPITAL3,
+INC.  (Exact name of Registrant as specified in its charter) 
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-39283
+ 
+84-4605714
+
+ (State or other jurisdiction of
+incorporation or organization)
+ 
+ (Commission
+File Number)
+ 
+ (I.R.S. Employer
+Identification Number)
+ 1731 Embarcadero Rd., Suite 200 
+Palo Alto, CA 94303 
+(Address of principal executive offices) 
+(650) 276-7040 
+(Registrants telephone number, including area code) 
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing
+obligation of the registrant under any of the following provisions (see General Instruction A.2. below):   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))  Securities registered pursuant to
+Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+  
+ Trading
+Symbols
+  
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of Common Stock and three-fourths of one Redeemable Warrant
+  
+GIK.U
+  
+New York Stock Exchange
+
+Common Stock, par value $0.0001 per share
+  
+GIK
+  
+New York Stock Exchange
+
+Redeemable Warrants, each full warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share
+  
+GIK.WS
+  
+New York Stock Exchange
+    
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+
+
+
+Item 1.01
+ Entry into a Material Definitive Agreement. 
+On May 13, 2020, the registration statement on Form S-1 (File No.
+333-236626), as amended by and including the Post-Effective Amendment No. 1 thereto filed on May 13, 2020 (collectively, the Registration Statement), filed by GigCapital3,
+Inc., a Delaware corporation (the Company), in connection with its initial public offering (IPO) was declared effective by the U.S. Securities and Exchange Commission (the SEC). On
+May 18, 2020, the Company consummated its IPO, resulting in the issuance of an aggregate of 20,000,000 units (the Public Units). Each Public Unit consists of one share of the Companys common stock (a Public
+Share), $0.0001 par value (Common Stock), and three-fourths (3/4) of one redeemable warrant (a Public Warrant). Each whole Public Warrant is exercisable for one share of Common Stock at a price of
+$11.50 per full share. The Public Units were sold at an offering price of $10.00 per unit, and the IPO generated aggregate gross proceeds of $200,000,000. The Company, pursuant to an Underwriting Agreement, dated May 13, 2020, granted Nomura
+Securities International, Inc. (Nomura), Oppenheimer & Co. Inc. (Oppenheimer), and Odeon Capital Group LLC (together with Nomura and Oppenheimer, the Underwriters) a 45-day option to purchase up to 3,000,000 additional Public Units solely to cover over-allotments, if any. 
+In connection with the effectiveness of the Registration Statement and the closing of the IPO, the Company entered into the following agreements: 
+ 
+
+
+ 
+
+ 
+ an Underwriting Agreement, dated May 13, 2020, by and among the Company and Nomura and Oppenheimer, as
+representatives of the Underwriters;   
+
+
+ 
+
+ 
+ an Insider Letter Agreement, dated May 13, 2020, by and among the Company, GigAcquisitions3, LLC, a Delaware
+limited liability company (Sponsor), and the Underwriters;   
+
+
+ 
+
+ 
+ an Insider Letter Agreement, dated May 13, 2020, by and among the Company and each of its executive officers
+and directors;   
+
+
+ 
+
+ 
+ a Unit Purchase Agreement, dated May 13, 2020, by and between the Company and Sponsor;
+  
+
+
+ 
+
+ 
+ a Unit Purchase Agreement, dated May 13, 2020, by and among the Company and the Underwriters;
+  
+
+
+ 
+
+ 
+ a Registration Rights Agreement, dated May 13, 2020, by and among the Company and certain security holders;
+  
+
+
+ 
+
+ 
+ an Insider Shares Grant Agreement, dated May 13, 2020, by and between the Company and Brad Weightman;
+  
+
+
+ 
+
+ 
+ an Insider Shares Grant Agreement, dated May 13, 2020, by and between the Company and Peter Wang;
+  
+
+
+ 
+
+ 
+ an Insider Shares Grant Agreement, dated May 13, 2020, by and between the Company and Andrea Betti-Berutto;
+  
+
+
+ 
+
+ 
+ an Investment Management Trust Agreement, dated May 18, 2020, by and between the Company and Continental
+Stock Transfer & Trust Company;   
+
+
+ 
+
+ 
+ a Warrant Agreement, dated May 18, 2020, by and between the Company and Continental Stock
+Transfer & Trust Company;   
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated May 13, 2020, between the Company and Avi S. Katz;
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated May 13, 2020, between the Company and Brad Weightman;
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated May 13, 2020, between the Company and Andrea Betti-Berutto;
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated May 13, 2020, between the Company and Raluca Dinu;
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated May 13, 2020, between the Company and Neil Miotto;
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated May 13, 2020, between the Company and John Mikulsky; and
+  
+
+
+ 
+
+ 
+ an Indemnification Agreement, dated May 13, 2020, between the Company and Peter Wang. 
+The material terms of each of the foregoing agreements are described in the prospectus that forms a part of the Registration Statement, and the descriptions
+of such terms are incorporated herein by reference. Each of the foregoing agreements, except for the Indemnification Agreements, are attached hereto as exhibits to this Current Report on Form 8-K, as
+enumerated below in the table set forth in response to Item 9.01. Each Indemnification Agreement is consistent with the Form of Indemnification Agreement, which was previously filed with the Registration Statement and is incorporated herein by
+reference as Exhibit 10.10 hereto.   
+
+
+Item 3.02
+ Unregistered Sales of Equity Securities. 
+Upon the effectiveness of the Registration Statement on May 13, 2020, and as described in the prospectus that forms a part of the Registration Statement,
+the Company issued 5,000 shares of Common Stock, solely in consideration of future services, to each of Brad Weightman, the Companys Vice President and Chief Financial Officer, Peter Wang, the Companys Software Chief Technical Officer,
+and Andrea Betti-Berutto the Companys Hardware Chief Technical Officer, pursuant to each of the Insider Shares Grant Agreements identified above (collectively, the Insider Shares Grants Agreements). Messrs. Wang and
+Betti-Berutto are not officers or employees of the Company; their respective titles of Software Chief Technical Officer and Hardware Chief Technical Officer reflect their core competencies and expertise and are primarily for marketing purposes as
+they assist the Company to identify suitable business combination candidates. The material terms of the Insider Shares Grant Agreements are set forth in the Registration Statement and incorporated by reference herein. 
+Simultaneously with the closing of the IPO and the sale of the Public Units, the Company consummated the private placement (Private
+Placement) of (i) 893,479 units (the Private Placement Units), at a price of $10.00 per Private Placement Unit, with each of the Sponsor and Underwriters, pursuant to the respective Unit Purchase Agreements identified
+above (collectively, the Unit Purchase Agreements). Sponsor purchased 650,000 Private Placement Units; and the Underwriters purchased 243,479 Private Placement Units in the aggregate. The Private Placement generated aggregate
+gross proceeds of $8,934,790 consisting of $6,500,000 from the sale of the Private Placement Units to the Sponsor and $2,434,790 from the sale of the Private Placement Units to the Underwriters. The Private Placement Units are substantially similar
+to the Public Units, except for certain differences in the warrants included in the Private Placement Units (the Private Warrants). Unlike the Public Warrants, the Private Warrants (i) are not redeemable by the Company and
+(ii) may be exercised for cash or on a cashless basis so long as they are held by the Sponsor, the Underwriters or any of their respective permitted transferees. In addition, for as long as the Private Warrants are held by the Underwriters or
+their respective designees or affiliates, they may not be exercised after five years from the effective date of the Registration Statement. The material terms of the Unit Purchase Agreements are set forth in the Registration Statement and
+incorporated by reference herein.   
+
+
+Item 5.03
+ Amendments to Certificate of Incorporation or Bylaws; Change in Fiscal Year. 
+On May 13, 2020, the Company filed its Amended and Restated Certificate of Incorporation (the Amended and Restated Certificate of
+Incorporation) in the State of Delaware. The terms of the Amended and Restated Certificate of Incorporation are set forth in the prospectus that forms a part of the Registration Statements and are incorporated by reference herein. A copy
+of the Amended and Restated Certificate of Incorporation is attached as Exhibit 3.1 hereto and is incorporated by reference herein. 
+
+
+
+
+
+
+
+
+
+
+
+Item 8.01
+ Other Events. 
+A total of $202,000,000 of the net proceeds from the IPO and the Private Placement were placed in a trust account established for the benefit of the
+Companys public stockholders at JPMorgan Chase Bank, N.A., with Continental Stock Transfer & Trust Company, acting as trustee. Except for the withdrawal of interest to pay taxes, none of the funds held in the trust account will be
+released until the earlier of: (i) the completion of the Companys initial business combination within eighteen (18) months from the closing of the IPO; (ii) the Companys redemption of 100% of the outstanding Public Shares
+if the Company has not completed an initial business combination within eighteen (18) months from the closing of the IPO; or (iii) the Companys redemption of the Public Shares in connection with the stockholder approval of any
+amendment to the provisions of the Amended and Restated Certificate of Incorporation governing the Companys pre-initial business combination activity and related stockholders rights. 
+On May 18, 2020, the Company issued a press release announcing the closing of the IPO. A copy of the press release is attached as Exhibit 99.1 to
+this Current Report on Form 8-K and is incorporated herein by reference.   
+
+
+Item 9.01.
+ Financial Statements and Exhibits. 
+(d) Exhibits   
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 1.1
+  
+Underwriting Agreement, dated May 13, 2020, by and among the Company and Nomura Securities International, Inc. and Oppenheimer & Co. Inc., as representatives of the Underwriters
+
+
+
+
+
+Exhibit 3.1
+  
+Amended and Restated Certificate of Incorporation of the Company 
+
+
+
+
+Exhibit 4.1
+  
+Warrant Agreement, dated May 18, 2020, by and between the Company and Continental Stock Transfer & Trust Company 
+
+
+
+
+Exhibit 10.1
+  
+Insider Letter Agreement, dated May 13, 2020, by and among the Company, Sponsor and the Underwriters 
+
+
+
+
+Exhibit 10.2
+  
+Insider Letter Agreement, dated May 13, 2020, by and among the Company and each of its executive officers and directors 
+
+
+
+
+Exhibit 10.3
+  
+Unit Purchase Agreement, dated May 13, 2020, by and between the Company and Sponsor 
+
+
+
+
+Exhibit 10.4
+  
+Unit Purchase Agreement, dated May 13, 2020, by and among the Company and the Underwriters 
+
+
+
+
+Exhibit 10.5
+  
+Registration Rights Agreement, dated May 13, 2020, by and among the Company and certain security holders 
+
+
+
+
+Exhibit 10.6
+  
+Investment Management Trust Agreement, dated May 18, 2020, by and between the Company and Continental Stock Transfer & Trust Company 
+
+
+
+
+Exhibit 10.7
+  
+Insider Shares Grant Agreement, dated May 13, 2020, by and between the Company and Brad Weightman 
+
+
+
+
+Exhibit 10.8
+  
+Insider Shares Grant Agreement, dated May 13, 2020, by and between the Company and Peter Wang 
+
+
+
+
+Exhibit 10.9
+  
+Insider Shares Grant Agreement, dated May 13, 2020, by and between the Company and Andrea Betti-Berutto 
+
+
+
+
+Exhibit 10.10
+  
+Form of Indemnification Agreement (incorporated by reference to Exhibit 10.7 to the Companys Registration Statement on Form S-1 (File No. 333-236626) as filed with the SEC on February 25, 2020) 
+
+
+
+
+Exhibit 99.1
+  
+Press Release of the Company, dated May 18, 2020 
+
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.  Dated: May 18, 2020 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Dr. Avi S. Katz
+
+Name:
+ 
+Dr. Avi S. Katz
+
+Title:
+ 
+ Chief Executive Officer, President and
+Executive Chairman of theGigCapital3, Inc. Board (Principal
+Executive Officer)
+
+
+
+
+

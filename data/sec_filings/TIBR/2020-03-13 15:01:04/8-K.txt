@@ -1,0 +1,518 @@
+
+8-K
+1
+ea119620-8k_tiberius.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): March
+13, 2020
+
+ 
+
+TIBERIUS ACQUISITION CORPORATION
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38422
+     
+    81-0824240
+
+    (State or Other Jurisdiction
+of Incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+
+
+    
+        3601 N Interstate 10 Service Rd W
+        Metairie, LA
+     
+    70002
+
+    (Address of Principal Executive Offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (504) 881-1060
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since
+Last Report)
+
+ 
+
+Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+
+
+     
+    ☒
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+     
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e 4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on
+which registered
+
+    Common Stock, par value $0.0001 per share
+     
+    TIBR
+     
+    The NASDAQ Stock Market LLC
+
+    Warrants to purchase one share of Common Stock
+     
+    TIBRW
+     
+    The NASDAQ Stock Market LLC
+
+    Units, each consisting of one share of Common Stock and one Warrant
+     
+    TIBRU
+     
+    The NASDAQ Stock Market LLC
+
+
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  ☒
+
+ 
+
+If an emerging growth company, indicate by
+check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+
+
+
+
+    Item 5.07
+    Submission of Matters to a Vote of Security Holders.
+
+ 
+
+As previously reported
+on a Current Report on Form 8-K filed by Tiberius Acquisition Corporation (“Tiberius”) with the U.S. Securities
+and Exchange Commission (“SEC”) on October 17, 2019, on October 10, 2019, Tiberius entered into the Business
+Combination Agreement (as amended, the “Business Combination Agreement”) with Lagniappe Ventures LLC, a Delaware
+limited liability company, International General Insurance Holdings Ltd., a company organized under the laws of the Dubai International
+Financial Centre (“IGI”), and Wasef Jabsheh, and pursuant to a joinder thereto, International General Insurance
+Holdings Ltd., a Bermuda exempted company (“Pubco” or “IGI Holdings”) and Tiberius Merger Sub, Inc.,
+a wholly-owned subsidiary of Pubco (“Merger Sub”). Among other things, the Business Combination Agreement provides
+for (i) the merger of Tiberius with and into Merger Sub, with Tiberius surviving the merger and the security holders of Tiberius
+becoming security holders of Pubco, (ii) the exchange of all or substantially all of the outstanding share capital of IGI by the
+shareholders of IGI for a combination of common shares of Pubco and aggregate cash consideration of $80.0 million (the “Business
+Combination”) and (iii) the adoption of Pubco’s amended and restated bye-laws.
+
+ 
+
+On March 13, 2020, Tiberius
+held a special meeting of its stockholders (the “Meeting”) at which the stockholders voted on the proposals
+set forth below, each of which is described in greater detail in the proxy statement filed by Tiberius with the SEC on February
+20, 2020.
+
+        
+
+As of February 14, 2020,
+the record date for the Meeting, there were 21,562,500 shares of common stock issued and outstanding. At the Meeting, there were
+15,961,107 shares voted by proxy or in person, and each of the proposals was approved by the stockholders. A
+total of 7,910,076 shares of common stock were presented for redemption in connection with the Meeting at a redemption price
+of approximately $10.43 per share. There will be approximately $97 million remaining in the trust account following redemptions.
+
+ 
+
+The final voting results
+for each matter submitted to a vote of the stockholders at the Meeting are as follows:
+
+ 
+
+The Business Combination
+Proposal — To consider and vote upon a proposal to approve and adopt the Business Combination Agreement and to approve
+the transactions contemplated thereby and the performance by Tiberius of its obligations thereunder.
+
+ 
+
+
+
+    FOR
+     
+    AGAINST
+     
+    ABSTENTIONS
+
+    15,657,512
+     
+    103,595
+     
+    200,000
+
+ 
+
+The Incentive Compensation
+Plan Proposal — To consider and vote upon a proposal to approve the adoption of the 2020 Omnibus Incentive Plan
+of Pubco.
+
+ 
+
+
+
+    FOR
+     
+    AGAINST
+     
+    ABSTENTIONS
+
+    15,660,029
+     
+    101,078
+     
+    200,000
+
+ 
+
+The Share Issuance Proposal —
+To consider and vote upon a proposal to approve, for purposes of complying with applicable NASDAQ Stock Market LLC listing rules,
+the issuance of 20% or more of the issued and outstanding shares of common stock of Tiberius in financing transactions in connection
+with the Business Combination.
+
+ 
+
+
+
+    FOR
+     
+    AGAINST
+     
+    ABSTENTIONS
+
+    15,515,253
+     
+    245,854
+     
+    200,000
+
+
+
+ 
+
+The Adjournment Proposal —
+To consider and vote upon a proposal to adjourn the Meeting to a later date or dates, if necessary, to permit further solicitation
+and vote of proxies if, based upon the tabulated vote at the time of the Meeting, there are not sufficient votes to approve the
+Business Combination. 
+
+ 
+
+
+
+    FOR
+     
+    AGAINST
+     
+    ABSTENTIONS
+
+    15,658,453
+     
+    102,654
+     
+    200,000
+
+ 
+
+
+
+
+    1 
+     
+    
+
+ 
+
+In light of receipt of
+the requisite approvals by Tiberius’s stockholders described above, the parties are proceeding to complete the Business Combination,
+which Tiberius expects to be completed on or about March 17, 2020.
+
+ 
+
+ADDITIONAL INFORMATION
+
+In connection with
+the proposed transaction, IGI Holdings has filed a registration statement on Form F-4 (the “Form F-4”) with
+the SEC which has been declared effective. The Form F-4 includes a prospectus with respect to IGI Holdings’ securities to
+be issued in connection with the proposed transaction and a proxy statement with respect to Tiberius’s stockholders meeting
+at which Tiberius’s stockholders will be asked to vote on the proposed transaction. Tiberius’s stockholders and other
+interested persons are advised to read the Form F-4 and the amendments and supplements thereto and other information filed with
+the SEC in connection with the proposed transaction, as these materials contain important information about IGI, Tiberius and the
+proposed transaction. The proxy statement contained in the Form F-4 and other relevant materials for the proposed transaction have
+been mailed to the stockholders of Tiberius as of the record date for voting on the proposed transaction. Stockholders are also
+able to obtain copies of the Form F-4 and other documents filed with the SEC, without charge, at the SEC’s website at www.sec.gov,
+or by directing a request to: Tiberius Acquisition Corp., 3601 N Interstate 10 Service Rd W, Metairie, LA 70002.
+
+ 
+
+ DISCLAIMER
+
+This report and
+the exhibits hereto do not constitute an offer to sell or the solicitation of an offer to buy any securities, or a solicitation
+of any vote or approval, nor shall there be any sale of securities in any states or jurisdictions in which such offer, solicitation
+or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction.  No offering
+of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933,
+as amended.
+
+ 
+
+PARTICIPANTS
+IN THE BUSINESS COMBINATION
+
+ 
+
+Tiberius, IGI,
+IGI Holdings, and certain of their respective directors and executive officers may be deemed participants in the solicitation of
+proxies from Tiberius’s stockholders with respect to the proposed transaction. A list of the names of Tiberius’s directors
+and executive officers and a description of their interests in Tiberius is contained in Tiberius’s annual report on Form
+10-K for the fiscal year ended December 31, 2019, which was filed with the SEC and is available free of charge at the SEC’s
+web site at www.sec.gov, or by directing a request to Tiberius Acquisition Corp., 3601 N Interstate 10 Service Rd W, Metairie,
+LA 70002, Attention: Bryce Quin. Additional information regarding the interests of such participants is contained in the Form F-4.
+
+ 
+
+IGI and certain
+of its directors and executive officers may also be deemed to be participants in the solicitation of proxies from the stockholders
+of Tiberius in connection with the proposed transaction. A list of the names of such directors and executive officers is included
+in the Form F-4.
+
+ 
+
+
+
+
+    2 
+     
+    
+
+ 
+
+CAUTIONARY NOTE
+REGARDING FORWARD-LOOKING STATEMENTS
+
+ 
+
+This report
+includes “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private
+Securities Litigation Reform Act of 1995. The expectations, estimates, and projections of the businesses of Tiberius, IGI and IGI
+Holdings may differ from their actual results and consequently, you should not rely on these forward looking statements as predictions
+of future events. Words such as “expect,” “estimate,” “project,” “budget,” “forecast,”
+“anticipate,” “intend,” “plan,” “may,” “will,” “could,”
+“should,” “believes,” “predicts,” “potential,” “continue,” and similar
+expressions are intended to identify such forward-looking statements. These forward-looking statements include, without limitation,
+expectations with respect to future performance, projected financial information, statements regarding the anticipated financial
+impact of the proposed transaction, the satisfaction of the closing conditions to the proposed transaction, including without limitation
+receipt of all required regulatory approvals, and the timing of the completion of the proposed transaction. These forward-looking
+statements involve significant risks and uncertainties that could cause the actual results to differ materially from the expected
+results. Most of these factors are outside of the control of Tiberius, IGI, and IGI Holdings and are difficult to predict. Factors
+that may cause such differences include, but are not limited to: (1) the occurrence of any event, change or other circumstances
+that could give rise to the termination of the Business Combination Agreement, (2) the outcome of any legal proceedings that may
+be instituted against the parties in connection with or related to the Business Combination Agreement and the transactions contemplated
+therein; (3) the inability to complete the proposed transaction, including the conditions to closing in the Business Combination
+Agreement; (4) the occurrence of any event, change, or other circumstance that could give rise to the termination of the Business
+Combination Agreement or could otherwise cause the transaction to fail to close; (5) the receipt of an unsolicited offer from another
+party for an alternative business transaction that could interfere with the proposed transaction; (6) the inability to obtain or
+maintain the listing of the post-acquisition company’s common shares or warrants on Nasdaq in connection with or following
+the closing of the proposed transaction; (7) the risk that the proposed transaction disrupts current plans and operations; (8)
+the potential inability to recognize the anticipated benefits of the proposed transaction, which may be affected by, among other
+things, competition, the ability of the combined company to grow and manage growth profitably and the combined company’s
+ability to retain its key employees; (9) costs related to the proposed transaction; (10) changes in applicable laws or regulations;
+(11) the demand for IGI’s and the combined company’s services together with the possibility that IGI or the combined
+company may be adversely affected by other economic, business, and/or competitive factors; and (12) other risks and uncertainties
+indicated from time to time in the Form F-4 and the proxy statement relating to the proposed transaction, including those under
+“Risk Factors” therein, and in Tiberius’s and IGI Holdings’ other filings with the SEC. The foregoing list
+of factors is not exclusive. In addition, any financial projections issued by the parties are inherently based on various estimates
+and assumptions that are subject to the judgment of those preparing them and are also subject to significant economic, competitive,
+industry and other uncertainties and contingencies, all of which are difficult or impossible to predict and many of which are beyond
+the control of Tiberius and IGI. There can be no assurance that IGI’s financial condition or results of operations will be
+consistent with those set forth in such financial projections and forward-looking statements. You should not place undue reliance
+upon any forward-looking statements, which speak only as of the date made. Tiberius, IGI, and IGI Holdings do not undertake or
+accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect
+any change in their expectations or any change in events, conditions, or circumstances on which any such statement is based.
+
+
+
+
+    3 
+     
+    
+
+ 
+
+
+
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+Dated: March 13, 2020
+
+ 
+
+
+
+     
+      TIBERIUS ACQUISITION CORPORATION
+
+     
+     
+     
+
+     
+       By:
+       /s/ Michael T. Gray
+
+     
+       Name:
+      Michael T. Gray
+
+     
+       Title:
+      Chief Executive Officer
+
+ 
+
+
+
+ 
+
+
+    4 
+    
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
