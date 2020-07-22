@@ -1,3 +1,4 @@
+from datetime import datetime
 from lxml import html
 from typing import List
 from sec_scraper.filing import Filing
@@ -126,9 +127,15 @@ class Company(object):
             filing_date = extract_date(
                 re.search("Filing Date\n(.*)\n",
                           filing_page_content).group(1))
+            filing_date = datetime.strptime(
+                filing_date, '%Y-%m-%d')
+
             accepted_date = extract_date_time(
                 re.search("Accepted\n(.*)\n",
                           filing_page_content).group(1))
+            accepted_date = datetime.strptime(
+                accepted_date, '%Y-%m-%d %H:%M:%S')
+
             period_of_report = extract_date(
                 re.search("Period of Report\n(.*)\n",
                           filing_page_content).group(1))

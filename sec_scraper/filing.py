@@ -1,10 +1,11 @@
+from datetime import datetime
 from typing import List
 
 
 class Filing(object):
 
     def __init__(self, filing_type: str, url: str,
-                 filing_date: str, accepted_date: str,
+                 filing_date: datetime.date, accepted_date: datetime.date,
                  period_of_report: str, documents: List[str]):
         """Initialize filing."""
         self.filing_type = filing_type
