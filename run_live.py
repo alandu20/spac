@@ -8,6 +8,7 @@ import sec_scraper
 import time
 
 def get_ticker_to_cik(write=False):
+	"""Get cik from ticker."""
     ticker_to_cik = pd.read_csv('https://www.sec.gov/include/ticker.txt',
                                 sep='\t', header=None, names=['ticker','cik'])
     if write:
@@ -17,6 +18,7 @@ def get_ticker_to_cik(write=False):
     return ticker_to_cik
 
 def get_cik_to_name(write=False):
+	"""Get company name from cik."""
     cik_to_name = pd.read_json('https://www.sec.gov/files/company_tickers.json').transpose()
     if write:
         cik_to_name.to_csv('data/cik_to_name.csv', index=False)
@@ -25,7 +27,8 @@ def get_cik_to_name(write=False):
     return cik_to_name
 
 def process_current_spacs(file_path_current, write=False):
-    # current spac list
+	"""Process list of new spac tickers."""
+    # read current spacs from file
     spac_list_current = pd.read_csv(file_path_current)
     spac_list_current = spac_list_current.Ticker.unique()
     spac_list_current = pd.DataFrame(spac_list_current, columns=['Ticker'])
@@ -62,12 +65,14 @@ def process_current_spacs(file_path_current, write=False):
     return spac_list_current
 
 def basic_text_cleaning(text):
+	"""Basic text cleaning."""
     text = text.replace('\n',' ').replace('\xa0',' ') # replace some unicode characters
     text = re.sub(' +', ' ', text) # remove extra spaces
     text = text.lower()
     return text
 
 def get_forms_text(company_name, cik_id, form_type):
+	"""Returns dataframe of all 8-Ks for a given symbol. Columns: date, accepted_time, form, text."""
     c = sec_scraper.Company(company_name, cik_id)
     filings = c.get_all_filings(filing_type=form_type, no_of_documents=100)
     dates = [f.accepted_date for f in filings]
@@ -80,10 +85,13 @@ def get_forms_text(company_name, cik_id, form_type):
     return df
 
 def basic_text_match(df_form, substring):
+	"""Basic text match."""
     df_form[substring.replace(' ','_')+'_found'] = df_form.text.apply(lambda x: 1 if substring in x else 0)
     return df_form
 
 def agg_form_8K(spac_list, write=False):
+	"""Returns dataframe of 8-Ks for all symbols. Columns: date, accepted_time, symbol, 
+	form, text, letter_of_intent_found, business_combination_agreement_found."""
     df_form_8K_agg = pd.DataFrame()
     count_missing_8K = 0
     for ind in range(0, len(spac_list)):
@@ -109,7 +117,7 @@ def agg_form_8K(spac_list, write=False):
             if write:
                 df_form_8K.to_csv('data/sec_filings_df/'+row.ticker+'_sec_forms.csv', index=False)
 
-        # append
+        # append to aggregate dataframe
         if len(df_form_8K)!=0:
             df_form_8K['symbol'] = row.ticker
         df_form_8K_agg = df_form_8K_agg.append(df_form_8K)
@@ -121,7 +129,7 @@ def agg_form_8K(spac_list, write=False):
     print('\ncount symbols missing 8-Ks:', count_missing_8K)
         
     # drop duplicates on date + symbol
-    # todo: if date has multipled 8-Ks, concatenate instead of dropping
+    # todo: if date has multipled 8-Ks, concatenate text instead of dropping
     print('count 8-Ks before dropping duplicates:', len(df_form_8K_agg))
     df_form_8K_agg = df_form_8K_agg.drop_duplicates(subset=['date','symbol'])
     print('count 8-Ks after dropping duplicates:', len(df_form_8K_agg))
@@ -138,6 +146,7 @@ def agg_form_8K(spac_list, write=False):
     return df_form_8K_agg
 
 def remove_header_footer(text):
+	"""Remove standard header and footer from 8-K."""
     # remove/replace some unicode characters
     text = text.replace('\t','')
     text = text.replace('\x93','"')
@@ -160,6 +169,7 @@ def remove_header_footer(text):
     return text
 
 def get_item_subheaders(text, subheaders_only):
+	"""Returns either list of subheaders in 8-K or list of subheaders content."""
     subheaders = re.findall('item [0-9]+\.[0-9]+', text)
     subheaders = list(collections.OrderedDict.fromkeys(subheaders)) # handle cases where subheader mentioned in content
     subtexts = []
@@ -173,7 +183,7 @@ def get_item_subheaders(text, subheaders_only):
         else:
             subtexts.append(subtext)
     
-    # drop these items
+    # drop these items (useless text)
     drop_item_list = ['item 9.01']
     
     if subheaders_only:
@@ -181,12 +191,14 @@ def get_item_subheaders(text, subheaders_only):
     return subtexts
 
 def count_keywords(x, keywords):
+	"""Count number of occurences of keywords in keyword list."""
     count = 0
     for keyword in keywords:
         count = count + x.count(keyword)
     return count
 
 def text_processing(text, item_features, stemming=True):
+	"""Remove subheaders, stop words, non-english characters. Apply NLTK Porter Stemmer."""
     subtexts = get_item_subheaders(text, subheaders_only=False)
     tokens = []
     for subtext in subtexts:
@@ -215,6 +227,7 @@ def text_processing(text, item_features, stemming=True):
     return processed_text
 
 def add_subheader_item_features(df_ret, item_features):
+	"""Add binary subheader features, 1 if subheader in text and 0 otherwise."""
     for col in item_features:
         df_ret[col] = 0
     for i in range(0, len(df_ret)):
@@ -225,12 +238,15 @@ def add_subheader_item_features(df_ret, item_features):
     return df_ret
 
 def convert_vote_count_to_int(x):
+	"""Convert vote string to int."""
+	# to indicate 0 votes, sometimes 8-K has dash (two types) instead of 0
     if '—' in x or '-' in x:
         return 0
     x = int(x.replace(',',''))
     return x
 
 def parse_vote_results(x):
+	"""Return votes for, votes against, abstain and broker non-votes."""
     vote_string = 'for against abstain broker non-votes'
     ind_vote = x['text'].find(vote_string)
     if ind_vote != -1:
@@ -243,6 +259,7 @@ def parse_vote_results(x):
     return pd.Series([np.nan, np.nan, np.nan, np.nan])
 
 def parse_redemptions(x):
+	"""Return number of redeemed shares."""
     string_redemption_1 = 'in connection with the extension'
     string_redemption_2 = 'in connection with the closing'
     string_redemption_3 = 'in advance of the special meeting'
@@ -283,6 +300,7 @@ def parse_redemptions(x):
     return shares
 
 def add_self_engineered_features(df_ret):    
+	"""Add self engineered features from keyword lists."""
     # define key word lists
     keywords_list_loi = ['letter intent','enter definit agreement']
     keywords_list_business_combination_agreement = ['(the "business combination agreement")', '("business combination")']
@@ -317,6 +335,7 @@ def add_self_engineered_features(df_ret):
     return df_ret
 
 def naive_rule(x):
+	"""Rule based model to classify 8-K as 1 (buy warrant) or 0 (do nothing)."""
     if ~np.isnan(x['%vote_against']) & (x['%vote_against'] > .10):
         return 0
     else:
