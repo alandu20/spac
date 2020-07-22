@@ -2,27 +2,30 @@ from datetime import datetime
 from backtest import strategy, data
 import backtrader as bt
 import pandas as pd
+import sec_scraper
 
 
-def convert_datetime(timestamp):
-    """Convert string datetime to date time object."""
-    date_time_obj = datetime.strptime(
-        timestamp, '%Y-%m-%d %H:%M:%S.%f')
+def main():
+    sec_map = sec_scraper.SEC()
+    company_name = sec_map.get_name_by_ticker("FMCI")
+    cik = sec_map.get_cik_by_ticker("FMCI")
+    co = sec_scraper.Company(company_name, cik)
+    filings = co.get_all_filings("8-K")
 
 
-cerebro = bt.Cerebro()
-data_feed = data.create_data_feed("data/prices_td/FMCIW_prices.csv")
-cerebro.adddata(data_feed)
-cerebro.addstrategy(strategy.NaiveStrategy)
+    cerebro = bt.Cerebro()
+    data_feed = data.create_data_feed("data/prices_td/FMCIW_prices.csv")
+    cerebro.adddata(data_feed)
+    cerebro.addstrategy(strategy.NaiveStrategy, filings=filings)
 
-# Set our desired cash start
-cerebro.broker.setcash(100000.0)
+    # Set our desired cash start
+    cerebro.broker.setcash(100000.0)
 
-cerebro.run()
-portvalue = cerebro.broker.getvalue()
-print("DONE")
-print(portvalue)
+    cerebro.run()
+    cerebro.plot()
 
+if __name__ == "__main__":
+    main()
 
 
 # startcash = 10000

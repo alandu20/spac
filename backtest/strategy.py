@@ -4,6 +4,10 @@ import backtrader as bt
 class NaiveStrategy(bt.Strategy):
     """Naive rules based trading strategy."""
 
+    params = (
+        ("filings", None),
+    )
+
     def __init__(self):
         """Construct new strategy.
 
@@ -15,7 +19,14 @@ class NaiveStrategy(bt.Strategy):
         Parameters for the strategy are passed in as arguments in the
         addstrategy method of a cerebro object.
         """
-        self.step = 0
+        self.close = self.data.close
+        self.filings = self.params.filings
+        self.filings.sort(key=lambda file: file.accepted_date,
+                          reverse=False)
+        self.filing_index = 0
+        for f in self.filings:
+            print(f.accepted_date)
+
         print(self.datas[0].datetime.datetime)
 
     def log(self, txt: str, datetime=None):
@@ -79,6 +90,13 @@ class NaiveStrategy(bt.Strategy):
     def next(self):
         """Called on all data points to simulate strategy behavior."""
         # Get the current time stamp.
+        while (self.data.datetime.datetime(0) >
+               self.filings[self.filing_index].accepted_date):
+            self.buy()
+            self.filing_index += 1
+            if self.filing_index >= len(self.filings):
+                break
+
         self.log("PRICE: %s" % str(self.data.close[0]))
         print(self.datas[0].datetime.datetime(0))
 
