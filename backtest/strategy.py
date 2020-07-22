@@ -1,11 +1,16 @@
 import backtrader as bt
 
 
+def classify(filing_text: str) -> bool:
+    """Given filings text, decide whether to buy."""
+
+
 class NaiveStrategy(bt.Strategy):
     """Naive rules based trading strategy."""
 
     params = (
         ("filings", None),
+        ("holding_period", 5),
     )
 
     def __init__(self):
@@ -24,10 +29,14 @@ class NaiveStrategy(bt.Strategy):
         self.filings.sort(key=lambda file: file.accepted_date,
                           reverse=False)
         self.filing_index = 0
-        for f in self.filings:
-            print(f.accepted_date)
 
-        print(self.datas[0].datetime.datetime)
+        # To keep track of pending orders.
+        self.orders = []
+
+        # for f in self.filings:
+        #     print(f.accepted_date)
+        #
+        # print(self.datas[0].datetime.datetime)
 
     def log(self, txt: str, datetime=None):
         """Logging function for this strategy.
@@ -90,13 +99,24 @@ class NaiveStrategy(bt.Strategy):
     def next(self):
         """Called on all data points to simulate strategy behavior."""
         # Get the current time stamp.
-        while (self.data.datetime.datetime(0) >
+        while (self.filing_index < len(self.filings) and
+               self.data.datetime.datetime(0) >
                self.filings[self.filing_index].accepted_date):
-            self.buy()
+            self.orders.append(self.buy())
+            self.log(
+                "SEC DOC ACCEPTED DATE: %s"
+                % self.filings[self.filing_index].accepted_date.isoformat()
+            )
             self.filing_index += 1
-            if self.filing_index >= len(self.filings):
-                break
 
-        self.log("PRICE: %s" % str(self.data.close[0]))
-        print(self.datas[0].datetime.datetime(0))
+        # Update pending orders and handle sell offs.
+        existing_orders = []
+        for order in self.orders:
+            if order[0].isbuy() and (
+                    order[0].status not in
+                    [order[0].Canceled, order[0].Margin, order[0].Rejected]):
+                if self.order.dt 
+
+        self.log("OPEN: %s, CLOSE: %s"
+                 % (str(self.data.open[0]), str(self.data.close[0])))
 
