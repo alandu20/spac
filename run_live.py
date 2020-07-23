@@ -80,7 +80,7 @@ def basic_text_cleaning(text):
 def get_forms_text(company_name, cik_id, form_type):
     """Returns dataframe of all 8-Ks for a given symbol. Columns: date, accepted_time, form, text."""
     try:
-        c = sec_scraper.Company(company_name, cik_id, timeout=60)
+        c = sec_scraper.Company(company_name, cik_id, timeout=20)
         filings = c.get_all_filings(filing_type=form_type, no_of_documents=100)
     except:
         print('timed out')
@@ -366,34 +366,34 @@ def classifier(x):
 
 def send_email(df=None):
     """Send email with list of warrants to buy."""
-	sender_email = 'wordquakeme2@gmail.com'
-	receiver_email = 'wordquakeme2@gmail.com'
-	password = 'princeton17'
-	context = ssl.create_default_context()
-	message = MIMEMultipart()
-	message['Subject'] = 'BUY ALERT'
-	html = """\
-	<html>
-	  <head></head>
-	  <body>
-	    Buy warrants for these symbols:<br><br>
-	    {0}
-	  </body>
-	</html>
-	""".format(df.to_html())
-	body = MIMEText(html, 'html')
-	message.attach(body)
-	try:
-	    server = smtplib.SMTP('smtp.gmail.com', 587)
-	    server.ehlo()
-	    server.starttls(context=context) # secure connection
-	    server.ehlo()
-	    server.login(sender_email, password)
-	    server.sendmail(sender_email, receiver_email, message.as_string())
-	except:
-	    print('\ncould not send email')
-	finally:
-	    server.quit()
+    sender_email = 'wordquakeme2@gmail.com'
+    receiver_email = 'wordquakeme2@gmail.com'
+    password = 'princeton17'
+    context = ssl.create_default_context()
+    message = MIMEMultipart()
+    message['Subject'] = 'BUY ALERT'
+    html = """\
+    <html>
+      <head></head>
+      <body>
+        Buy warrants for these symbols:<br><br>
+        {0}
+      </body>
+    </html>
+    """.format(df.to_html())
+    body = MIMEText(html, 'html')
+    message.attach(body)
+    try:
+        server = smtplib.SMTP('smtp.gmail.com', 587)
+        server.ehlo()
+        server.starttls(context=context) # secure connection
+        server.ehlo()
+        server.login(sender_email, password)
+        server.sendmail(sender_email, receiver_email, message.as_string())
+    except:
+        print('\ncould not send email')
+    finally:
+        server.quit()
 
 def main():
     # load current and past spac lists
@@ -403,6 +403,16 @@ def main():
     start_time = time.time()
     df_form_8K_agg = agg_form_8K(spac_list_current, write=False)
     print('\nfinished scraping 8-Ks, time elapsed:', np.round(time.time() - start_time, 0), 'seconds')
+
+    # get 8-Ks added yesterday or today
+    min_date = (dt.today()-timedelta(days=1)).strftime('%Y-%m-%d')
+    print('\noutput min date:', min_date)
+    print('\n8-Ks since min date:')
+    df_new_8Ks = df_form_8K_agg[df_form_8K_agg.date>=min_date][['symbol','accepted_time']]
+    if len(df_new_8Ks)==0:
+        print('none\n')
+    else:
+        print(df_new_8Ks)
 
     # features dataframe
     df_features = df_form_8K_agg.copy()
@@ -438,15 +448,13 @@ def main():
     df_pred_pos = df_form_8K_agg.loc[np.where(y_pred==1)[0],]
 
     # print positive label predictions where date >= min_date
-    min_date = (dt.today()-timedelta(days=1)).strftime('%Y-%m-%d')
-    print('\noutput min date:', min_date)
     df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][['symbol','accepted_time']]
     df_pred_pos.reset_index(drop=True, inplace=True)
     print('\nbuy warrants for these symbols:')
     if len(df_pred_pos)==0:
-        print('none')
+        print('none\n')
     else:
-    	# output dataframe of warrants to buy
+        # output dataframe of warrants to buy
         print(df_pred_pos)
 
         # send email
