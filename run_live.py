@@ -365,6 +365,7 @@ def classifier(x):
             return 0
 
 def send_email(df=None):
+    """Send email with list of warrants to buy."""
 	sender_email = 'wordquakeme2@gmail.com'
 	receiver_email = 'wordquakeme2@gmail.com'
 	password = 'princeton17'
