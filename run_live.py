@@ -1,10 +1,15 @@
 import collections
 from datetime import datetime as dt
+from datetime import timedelta
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 import nltk
 import numpy as np
 import pandas as pd
 import re
 import sec_scraper
+import smtplib
+import ssl
 import time
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
@@ -122,9 +127,9 @@ def agg_form_8K(spac_list, write=False):
             df_form_8K['symbol'] = row.ticker
         df_form_8K_agg = df_form_8K_agg.append(df_form_8K)
         
-        # sec site sometimes will timeout
+        # may help with frequent sec site request timeout
         # if ind%40==0 and ind!=0:
-        #     time.sleep(60) # oftentimes need to pause ~1-2 min every ~30 symbols
+        #     time.sleep(60)
 
     print('\ncount symbols missing 8-Ks:', count_missing_8K)
         
@@ -359,6 +364,36 @@ def classifier(x):
         else:
             return 0
 
+def send_email(df=None):
+	sender_email = 'wordquakeme2@gmail.com'
+	receiver_email = 'wordquakeme2@gmail.com'
+	password = 'princeton17'
+	context = ssl.create_default_context()
+	message = MIMEMultipart()
+	message['Subject'] = 'BUY ALERT'
+	html = """\
+	<html>
+	  <head></head>
+	  <body>
+	    Buy warrants for these symbols:<br><br>
+	    {0}
+	  </body>
+	</html>
+	""".format(df.to_html())
+	body = MIMEText(html, 'html')
+	message.attach(body)
+	try:
+	    server = smtplib.SMTP('smtp.gmail.com', 587)
+	    server.ehlo()
+	    server.starttls(context=context) # secure connection
+	    server.ehlo()
+	    server.login(sender_email, password)
+	    server.sendmail(sender_email, receiver_email, message.as_string())
+	except:
+	    print('\ncould not send email')
+	finally:
+	    server.quit()
+
 def main():
     # load current and past spac lists
     spac_list_current = process_current_spacs(file_path_current='data/spac_list_current.csv', write=False)
@@ -402,14 +437,19 @@ def main():
     df_pred_pos = df_form_8K_agg.loc[np.where(y_pred==1)[0],]
 
     # print positive label predictions where date >= min_date
-    min_date = '2018-01-01' # dt.today().strftime('%Y-%m-%d')
+    min_date = (dt.today()-timedelta(days=1)).strftime('%Y-%m-%d')
+    print('\noutput min date:', min_date)
     df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][['symbol','accepted_time']]
     df_pred_pos.reset_index(drop=True, inplace=True)
     print('\nbuy warrants for these symbols:')
     if len(df_pred_pos)==0:
         print('none')
     else:
+    	# output dataframe of warrants to buy
         print(df_pred_pos)
+
+        # send email
+        send_email(df=df_pred_pos)
 
 if __name__ == "__main__":
     main()
