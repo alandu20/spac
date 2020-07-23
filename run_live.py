@@ -367,7 +367,6 @@ def main():
     start_time = time.time()
     df_form_8K_agg = agg_form_8K(spac_list_current, write=False)
     print('\nfinished scraping 8-Ks, time elapsed:', np.round(time.time() - start_time, 0), 'seconds')
-    print(df_form_8K_agg)
 
     # features dataframe
     df_features = df_form_8K_agg.copy()
