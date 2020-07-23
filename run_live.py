@@ -11,7 +11,7 @@ pd.set_option("display.max_rows", None, "display.max_columns", None)
 def get_ticker_to_cik(write=False):
     """Get cik from ticker."""
     ticker_to_cik = pd.read_csv('https://www.sec.gov/include/ticker.txt', sep='\t',
-    	header=None, names=['ticker','cik'])
+        header=None, names=['ticker','cik'])
     if write:
         ticker_to_cik.to_csv('data/ticker_to_cik.csv', index=False)
     ticker_to_cik['ticker'] = ticker_to_cik.ticker.str.upper()
@@ -78,8 +78,8 @@ def get_forms_text(company_name, cik_id, form_type):
         c = sec_scraper.Company(company_name, cik_id, timeout=60)
         filings = c.get_all_filings(filing_type=form_type, no_of_documents=100)
     except:
-    	print('timed out')
-    	return None
+        print('timed out')
+        return None
     dates = [f.accepted_date.strftime('%Y-%m-%d %H:%M:%S') for f in filings]
     documents = [basic_text_cleaning(f.documents[0]) for f in filings]
     print(company_name, cik_id)
@@ -99,7 +99,7 @@ def agg_form_8K(spac_list, write=False):
     form, text, letter_of_intent_found, business_combination_agreement_found."""
     df_form_8K_agg = pd.DataFrame()
     count_missing_8K = 0
-    for ind in range(0, len(spac_list)):
+    for ind in range(36, 37):
         row = spac_list.iloc[ind]
         print('\nindex:', ind)
         print(row.ticker)
@@ -367,6 +367,7 @@ def main():
     start_time = time.time()
     df_form_8K_agg = agg_form_8K(spac_list_current, write=False)
     print('\nfinished scraping 8-Ks, time elapsed:', np.round(time.time() - start_time, 0), 'seconds')
+    print(df_form_8K_agg)
 
     # features dataframe
     df_features = df_form_8K_agg.copy()
@@ -406,7 +407,10 @@ def main():
     df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][['symbol','accepted_time']]
     df_pred_pos.reset_index(drop=True, inplace=True)
     print('\nbuy warrants for these symbols:')
-    print(df_pred_pos)
+    if len(df_pred_pos)==0:
+        print('none')
+    else:
+        print(df_pred_pos)
 
 if __name__ == "__main__":
     main()
