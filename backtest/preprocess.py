@@ -1,6 +1,6 @@
 from typing import Dict
 import re
-import collections
+import numpy as np
 
 
 HEADER = (
@@ -11,6 +11,7 @@ FOOTER = (
     'signature pursuant to the requirements of '
     'the securities exchange act of 1934'
 )
+VOTE_HEADER = 'for against abstain broker non-votes'
 
 
 def _search_text(txt: str, prefix: str, suffix: str) -> str:
@@ -61,14 +62,14 @@ def preprocess_document(text: str) -> str:
     return text
 
 
-def get_items_mapping(text: str) -> Dict[str, str]:
+def parse_items_mapping(text: str) -> Dict[str, str]:
     """Get subheaders and associated subtext.
 
     Parse out all subheaders and create a mapping from subheader to its
     corresponding subtext. A subheader is of the form "item 7.01" and the
     associated subtext follows said subheader until the next item.
     Args:
-        String SEC filing document.
+        text: String SEC filing document, post preprocessing.
     Returns:
         Dictionary mapping subheader to subtext.
     """
@@ -88,3 +89,37 @@ def get_items_mapping(text: str) -> Dict[str, str]:
     return item_mapping
 
 
+def parse_vote_results(text) -> (float, float, float, float):
+    """Parse voting results.
+
+    Given SEC document, parse out relevant voting results if they exist.
+    Votes should be categorized into: votes for, votes against, votes abstain,
+    and votes broker non-votes.
+    Args:
+        text: String SEC document, post preprocessing.
+    Returns:
+        Tuple of floats for (votes for, votes against, votes abstain,
+        votes broker non-votes).
+    """
+    def convert_vote_count_to_int(vote_string) -> float:
+        """Convert vote string to int."""
+        # To indicate 0 votes, sometimes 8-K has dash (two types) instead of 0.
+        if '—' in vote_string or '-' in vote_string:
+            return 0.0
+        try:
+            votes = float(vote_string.replace(',', ''))
+        except ValueError:
+            return np.nan
+        return votes
+
+    vote_index = text.find(VOTE_HEADER)
+    if vote_index == -1:
+        return np.nan, np.nan, np.nan, np.nan
+    else:
+        vote_data = text[(vote_index + len(VOTE_HEADER)):].lstrip().split(' ')
+        votes_for = convert_vote_count_to_int(vote_data[0])
+        votes_against = convert_vote_count_to_int(vote_data[1])
+        votes_abstain = convert_vote_count_to_int(vote_data[2])
+        votes_broker_non_votes = convert_vote_count_to_int(vote_data[3])
+        return (votes_for, votes_against,
+                votes_abstain, votes_broker_non_votes)
