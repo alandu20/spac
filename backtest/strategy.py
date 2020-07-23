@@ -1,8 +1,20 @@
 import backtrader as bt
+import datetime
 
 
 def classify(filing_text: str) -> bool:
     """Given filings text, decide whether to buy."""
+    # loi_keywords = ['letter of intent', 'enter definit agreement']
+    # for word in loi_keywords:
+    #     if word in filing_text.lower():
+    #         return True
+    # bca_keywords = ['(the "business combination agreement")',
+    #                 '("business combination")']
+    # for word in bca_keywords:
+    #     if word in filing_text.lower():
+    #         return True
+    # return False
+    return True
 
 
 class NaiveStrategy(bt.Strategy):
@@ -26,6 +38,7 @@ class NaiveStrategy(bt.Strategy):
         """
         self.close = self.data.close
         self.filings = self.params.filings
+        self.holding_period = self.params.holding_period
         self.filings.sort(key=lambda file: file.accepted_date,
                           reverse=False)
         self.filing_index = 0
@@ -102,7 +115,11 @@ class NaiveStrategy(bt.Strategy):
         while (self.filing_index < len(self.filings) and
                self.data.datetime.datetime(0) >
                self.filings[self.filing_index].accepted_date):
-            self.orders.append(self.buy())
+            print(self.filings[self.filing_index].documents[0])
+            if classify(self.filings[self.filing_index].documents[0]):
+                self.orders.append(
+                    (self.buy(), self.data.datetime.datetime(0))
+                )
             self.log(
                 "SEC DOC ACCEPTED DATE: %s"
                 % self.filings[self.filing_index].accepted_date.isoformat()
@@ -111,11 +128,17 @@ class NaiveStrategy(bt.Strategy):
 
         # Update pending orders and handle sell offs.
         existing_orders = []
-        for order in self.orders:
-            if order[0].isbuy() and (
-                    order[0].status not in
-                    [order[0].Canceled, order[0].Margin, order[0].Rejected]):
-                if self.order.dt 
+        for order, date in self.orders:
+            if order.isbuy() and (
+                    order.status not in
+                    [order.Canceled, order.Margin, order.Rejected]):
+                # if self.order.created.dt
+                if (self.data.datetime.datetime(0) - date >=
+                        datetime.timedelta(hours=self.holding_period * 24)):
+                    self.sell()
+                else:
+                    existing_orders.append((order, date))
+        self.orders = existing_orders
 
         self.log("OPEN: %s, CLOSE: %s"
                  % (str(self.data.open[0]), str(self.data.close[0])))

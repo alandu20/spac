@@ -7,14 +7,14 @@ import sec_scraper
 
 def main():
     sec_map = sec_scraper.SEC()
-    company_name = sec_map.get_name_by_ticker("FMCI")
-    cik = sec_map.get_cik_by_ticker("FMCI")
+    company_name = sec_map.get_name_by_ticker("ALGR")
+    cik = sec_map.get_cik_by_ticker("ALGR")
     co = sec_scraper.Company(company_name, cik)
     filings = co.get_all_filings("8-K")
 
 
     cerebro = bt.Cerebro()
-    data_feed = data.create_data_feed("data/prices_td/FMCIW_prices.csv")
+    data_feed = data.create_data_feed("data/prices_td/ALGRW_prices.csv")
     cerebro.adddata(data_feed)
     cerebro.addstrategy(strategy.NaiveStrategy, filings=filings)
 
