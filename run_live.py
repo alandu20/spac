@@ -99,7 +99,7 @@ def agg_form_8K(spac_list, write=False):
     form, text, letter_of_intent_found, business_combination_agreement_found."""
     df_form_8K_agg = pd.DataFrame()
     count_missing_8K = 0
-    for ind in range(36, 37):
+    for ind in range(0, len(spac_list)):
         row = spac_list.iloc[ind]
         print('\nindex:', ind)
         print(row.ticker)
