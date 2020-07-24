@@ -1,4 +1,4 @@
-from backtest import preprocess
+from classification import preprocess
 
 
 def naive_rule(text: str) -> bool:
