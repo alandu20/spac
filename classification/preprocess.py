@@ -33,8 +33,8 @@ def preprocess_document(text: str) -> str:
     """Initial pre-processing for SEC text document.
 
     Given a string document, remove all new line characters, unicode characters
-    and repeated spaces. Then lower case the text. Finally remove the header
-    and footer of the doc.
+    and repeated spaces. Then lower case the text. Then remove the forward-looking
+    statement section. Finally remove the header and footer of the doc.
     Args:
         text: String of document text.
     Returns:
@@ -52,6 +52,14 @@ def preprocess_document(text: str) -> str:
     # Remove extra spaces.
     text = re.sub(' +', ' ', text)
     text = text.lower()
+    
+    # Remove forward looking statement section.
+    foward_start = 'forward-looking statements this current report on form 8-k'
+    foward_end = 'undue reliance should not be placed upon the forward-looking statements'
+    ind_start = text.find(foward_start)
+    ind_end = text.find(foward_end)
+    if ind_start!=-1 and ind_end!=-1:
+        text = text[0:ind_start] + text[ind_end+len(foward_end):]
 
     # Remove everything in header and footer.
     text = _search_text(text, HEADER, FOOTER)
