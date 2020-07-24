@@ -54,12 +54,21 @@ def preprocess_document(text: str) -> str:
     text = text.lower()
     
     # Remove forward looking statement section.
-    foward_start = 'forward-looking statements this current report on form 8-k'
-    foward_end = 'undue reliance should not be placed upon the forward-looking statements'
-    ind_start = text.find(foward_start)
-    ind_end = text.find(foward_end)
-    if ind_start!=-1 and ind_end!=-1:
-        text = text[0:ind_start] + text[ind_end+len(foward_end):]
+    forward_looking_statement_start = ['forward-looking statements this current report',
+                                       'forward looking statements certain statements',
+                                       'forward-looking statements this report',
+                                       'forward-looking statements the company makes',
+                                       'forward-looking statements certain of the matters',
+                                       'forward-looking statements this communication']
+    forward_looking_statement_end = ['undue reliance should not be placed upon the forward-looking statements',
+                                     'whether as a result of new information, future events or otherwise, except as required by law',
+                                     'conditions or circumstances on which any such statement is based, except as required by applicable law']
+    for forward_start in forward_looking_statement_start:
+        for forward_end in forward_looking_statement_end:
+            ind_start = text.find(forward_start)
+            ind_end = text.find(forward_end)
+            if ind_start!=-1 and ind_end!=-1:
+                text = text[0:ind_start] + text[ind_end+len(forward_end):]
 
     # Remove everything in header and footer.
     text = _search_text(text, HEADER, FOOTER)
