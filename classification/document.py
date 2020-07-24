@@ -13,7 +13,7 @@ class Document(object):
 
     def is_letter_of_intent(self) -> bool:
         """"""
-        return False
+        return True
 
     def is_business_combination_agreement(self) -> bool:
         """"""

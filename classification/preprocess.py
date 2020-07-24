@@ -74,7 +74,7 @@ def parse_items_mapping(text: str) -> Dict[str, str]:
         Dictionary mapping subheader to subtext.
     """
     # Extract subheaders and get rid of duplicates
-    subheaders = re.findall('item [0-9]+\.[0-9]+', text)
+    subheaders = re.findall(r'item [0-9]+\.[0-9]+', text)
     subheaders = list(set(subheaders))
     subheaders.sort()
 
