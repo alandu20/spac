@@ -3,7 +3,9 @@ from datetime import datetime as dt
 from datetime import timedelta
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+import json
 import nltk
+nltk.data.path.append('nltk/nltk_data')
 import numpy as np
 import pandas as pd
 import re
@@ -158,6 +160,14 @@ def remove_header_footer(text):
     text = text.replace('\x94','"') # 2nd quotation mark type
     text = text.replace('”', '"') # weird unicode/ascii conversion issue (1st quotation mark type)
     text = text.replace('“', '"') # weird unicode/ascii conversion issue (2nd quotation mark type)
+    
+    # remove forward looking statement section
+    foward_start = 'forward-looking statements this current report on form 8-k'
+    foward_end = 'undue reliance should not be placed upon the forward-looking statements'
+    ind_start = text.find(foward_start)
+    ind_end = text.find(foward_end)
+    if ind_start!=-1 and ind_end!=-1:
+        text = text[0:ind_start] + text[ind_end+len(foward_end):]
     
     # remove everything in header and footer
     ind_start = text.find('financial accounting standards provided pursuant to section 13(a) of the exchange act')
@@ -319,7 +329,7 @@ def add_self_engineered_features(df_ret):
     keywords_list_loi = ['letter intent','enter definit agreement']
     keywords_list_business_combination_agreement = ['(the "business combination agreement")', '("business combination")']
     keywords_list_extension = ['(the "extension")']
-    keywords_list_consummation = ['announcing the consummation']
+    keywords_list_consummation = ['announcing the consummation'] # todo: make sure not referring to IPO
     
     # compute counts
     df_ret['keywords_loi'] = df_ret.processed_text.apply(lambda x: count_keywords(x, keywords_list_loi))
@@ -364,7 +374,7 @@ def classifier(x):
         else:
             return 0
 
-def send_email(df=None):
+def send_email(df_new_8Ks, df_pred_pos):
     """Send email with list of warrants to buy."""
     sender_email = 'wordquakeme2@gmail.com'
     receiver_email = 'wordquakeme2@gmail.com'
@@ -376,11 +386,14 @@ def send_email(df=None):
     <html>
       <head></head>
       <body>
-        Buy warrants for these symbols:<br><br>
+        8-Ks since yesterday:<br><br>
         {0}
+        <br><br>
+        Buy warrants for these symbols:<br><br>
+        {1}
       </body>
     </html>
-    """.format(df.to_html())
+    """.format(df_new_8Ks.to_html(), df_pred_pos.to_html())
     body = MIMEText(html, 'html')
     message.attach(body)
     try:
@@ -458,7 +471,16 @@ def main():
         print(df_pred_pos)
 
         # send email
-        send_email(df=df_pred_pos)
+        send_email(df_new_8Ks, df_pred_pos)
+
+def lambda_handler(event, context):
+    """AWS Lambda requires a lambda_handler function."""
+    main()
+    message = 'Finished running. Now go make some $$$'
+    return {
+        'statusCode': 200,
+        'body': json.dumps(message)
+    }
 
 if __name__ == "__main__":
     main()
