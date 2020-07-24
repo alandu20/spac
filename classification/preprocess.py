@@ -8,7 +8,7 @@ HEADER = (
     'to section 13(a) of the exchange act'
 )
 FOOTER = (
-    'signature pursuant to the requirements of '
+    'pursuant to the requirements of '
     'the securities exchange act of 1934'
 )
 VOTE_HEADER = 'for against abstain broker non-votes'
@@ -24,12 +24,9 @@ def _search_text(txt: str, prefix: str, suffix: str) -> str:
     Return:
         String text in between suffix and prefix.
     """
-    try:
-        start = txt.index(prefix) + len(prefix)
-        end = txt.index(suffix) if suffix is not "" else len(txt)
-        return txt[start:end]
-    except ValueError:
-        return ""
+    start = txt.index(prefix) + len(prefix)
+    end = txt.index(suffix) if suffix is not "" else len(txt)
+    return txt[start:end]
 
 
 def preprocess_document(text: str) -> str:
@@ -45,7 +42,6 @@ def preprocess_document(text: str) -> str:
     """
     # Replace new line and tabs.
     text = text.replace('\n', ' ').replace('\t', ' ')
-
     # Replace unicode characters.
     unicode_replacements = {
         '\xa0': ' ', '\x93': '"', '”': '"', '“': '"'
