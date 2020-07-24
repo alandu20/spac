@@ -128,10 +128,6 @@ def agg_form_8K(spac_list, write=False):
         if len(df_form_8K)!=0:
             df_form_8K['symbol'] = row.ticker
         df_form_8K_agg = df_form_8K_agg.append(df_form_8K)
-        
-        # may help with frequent sec site request timeout
-        # if ind%40==0 and ind!=0:
-        #     time.sleep(60)
 
     print('\ncount symbols missing 8-Ks:', count_missing_8K)
         
@@ -221,35 +217,6 @@ def count_keywords(x, keywords):
         count = count + x.count(keyword)
     return count
 
-def text_processing(text, item_features, stemming=True):
-    """Remove subheaders, stop words, non-english characters and apply NLTK Porter Stemmer."""
-    subtexts = get_item_subheaders(text, subheaders_only=False)
-    tokens = []
-    for subtext in subtexts:
-        # remove item subheaders. todo: probably should remove text of subheader too
-        for item in item_features:
-            subtext = subtext.replace(item,'')
-
-        # tokenize, only keeping alphanumeric
-        subtokens = nltk.tokenize.RegexpTokenizer(r'\w+').tokenize(subtext)
-
-        # remove stop words
-        stop_words = set(nltk.corpus.stopwords.words('english'))
-        subtokens = [w for w in subtokens if not w in stop_words]
-
-        # remove numbers and chinese/other non-english characters for now
-        subtokens = [w for w in subtokens if w.encode('utf-8').isalpha()]
-
-        # stemming
-        if stemming:
-            stems = [nltk.stem.porter.PorterStemmer().stem(w) for w in subtokens]
-            tokens.extend(stems)
-        else:
-            tokens.extend(subtokens)
-
-    processed_text = ' '.join(tokens)
-    return processed_text
-
 def add_subheader_item_features(df_ret, item_features):
     """Add binary subheader features, 1 if subheader in text and 0 otherwise."""
     for col in item_features:
@@ -335,13 +302,14 @@ def parse_redemptions(x):
 def add_self_engineered_features(df_ret):    
     """Add self engineered features from keyword lists."""
     # define key word lists
-    keywords_list_loi = ['letter intent','enter definit agreement']
+    keywords_list_loi = ['letter of intent','entry into a definitive agreement','enter into a definitive agreement',
+    'entering into a definitive agreement','entered into a definitive agreement']
     keywords_list_business_combination_agreement = ['(the "business combination agreement")', '("business combination")']
     keywords_list_extension = ['(the "extension")']
     keywords_list_consummation = ['announcing the consummation'] # todo: make sure not referring to IPO
     
     # compute counts
-    df_ret['keywords_loi'] = df_ret.processed_text.apply(lambda x: count_keywords(x, keywords_list_loi))
+    df_ret['keywords_loi'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_loi))
     df_ret['keywords_business_combination_agreement'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_business_combination_agreement))
     df_ret['keywords_extension'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_extension))
     df_ret['keywords_consummation'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_consummation))
@@ -361,9 +329,6 @@ def add_self_engineered_features(df_ret):
     # add shares redeemed (d.n.e for most 8-Ks, fill with nan)
     df_ret['redeemed_shares'] = df_ret.apply(lambda x: parse_redemptions(x), axis=1)
     df_ret['%redeemed'] = df_ret['redeemed_shares'] / df_ret['vote_total']
-    
-    # drop processed_text column
-    df_ret.drop(columns=['processed_text'], inplace=True)
     
     return df_ret
 
@@ -450,9 +415,6 @@ def main():
                      'item 4.02','item 5.01','item 5.02','item 5.03','item 5.04','item 5.05','item 5.06',
                      'item 5.07','item 5.08','item 6.01','item 6.02','item 6.03','item 6.04','item 6.05',
                      'item 7.01','item 8.01']
-
-    # add processed text
-    df_features['processed_text'] = df_features.text.apply(lambda x: text_processing(x, item_features=item_features))
 
     # add subheader item binary features
     df_features = add_subheader_item_features(df_ret=df_features, item_features=item_features)
