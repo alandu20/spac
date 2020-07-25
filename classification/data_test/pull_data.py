@@ -24,7 +24,8 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1741231/000121390020013975/ea122609-8k_forummerger2.htm',
         'https://www.sec.gov/Archives/edgar/data/1725872/000121390020013032/ea122160-8k_megalithfin.htm',
         'https://www.sec.gov/Archives/edgar/data/1754824/000121390020013781/ea122529-8k_schultzespecial.htm',
-        'https://www.sec.gov/Archives/edgar/data/1776903/000121390020016050/ea123558-8k_netfinacq.htm'
+        'https://www.sec.gov/Archives/edgar/data/1776903/000121390020016050/ea123558-8k_netfinacq.htm',
+        'https://www.sec.gov/Archives/edgar/data/1745317/000110465920044768/tm2015448d1_8k.htm'
     ]
     loi_path = os.path.join(os.path.dirname(__file__), "loi")
     for i, url in enumerate(loi_urls):
@@ -36,6 +37,8 @@ def main():
             doc.write(txt)
 
     bca_urls = [
+        'https://www.sec.gov/Archives/edgar/data/1731289/000110465920028233/tm2011332d1_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1764711/000126493120000025/paac8k031020.htm',
         'https://www.sec.gov/Archives/edgar/data/1759631/000121390020015311/ea123187-8k_tortoiseacq.htm'
     ]
     bca_path = os.path.join(os.path.dirname(__file__), "bca")
