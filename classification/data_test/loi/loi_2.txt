@@ -1,0 +1,454 @@
+
+8-K
+1
+f8k121619_nebulaacquisition.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the
+Securities Exchange Act of 1934
+
+ 
+
+Date of report (Date of earliest event
+reported): December 16, 2019
+
+ 
+
+Nebula Acquisition Corporation
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38339
+     
+    82-3008583
+
+    (State or other jurisdiction
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer
+
+    of incorporation)
+     
+     
+     
+    Identification Number)
+
+ 
+
+
+
+    Four
+    Embarcadero Center, Suite 2350 
+    San Francisco, CA
+     
+    94111
+
+    (Address of principal
+    executive offices)
+     
+    (Zip code)
+
+
+
+
+
+
+ 
+
+(513) 618-7161
+
+(Registrant’s telephone number, including
+area code)
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following
+provisions:
+
+ 
+
+
+☐Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)
+
+
+ 
+
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging growth company  ☒
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Common Stock, par value $0.0001 per share
+     
+    NEBU
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants to purchase one share of Common Stock
+     
+    NEBU.W
+     
+    The Nasdaq Stock Market LLC
+
+    Units, each consisting of one share of Common Stock and one third of one Warrant
+     
+    NEBU.U
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+Nebula Acquisition
+Corporation, a Delaware corporation (“Nebula”), is in advanced discussions with a potential target company and expects
+to announce a deal shortly to acquire a high-growth, profitable financial technology business in the lending enablement and risk
+analytics space. The target company provides advanced analytics and risk-based pricing solutions to lenders through its technology
+platform; the platform leverages extensive proprietary data to help lenders better predict loan performance. The company is currently
+owned by the founders, management, and a number of other minority investors, including a prominent US-based growth equity firm.
+Nebula believes that the company’s financial profile is compelling: consistent EBITDA margins exceeding 50% and revenue growth
+above 30% for fiscal year 2018 and 2017.
+
+ 
+
+The total enterprise
+value of the proposed transaction is anticipated to be approximately $1.3 billion, representing a multiple of 2020 expected EBITDA
+that is less than 13.0x. Nebula believes the anticipated valuation at consummation of the transaction will represent a meaningful
+discount to relevant public comparable multiples in the financial technology and data analytics sectors.
+
+ 
+
+The seller and Nebula
+are working toward entering into a definitive agreement for the transaction. Nebula also has commitments for a significant amount of the
+financing necessary to effectuate the transaction. Notably, True Wind Capital has committed meaningful equity from its private
+equity fund in support of the deal and management is expected to roll approximately 70% of their current ownership.
+
+ 
+
+Completion of the transaction
+is subject to, among other things, the negotiation and execution of a definitive agreement providing for the transaction, satisfaction
+of the closing conditions included therein and approval of the transaction by Nebula’s stockholders. Accordingly, there can
+be no assurance that a definitive agreement will be entered into or that the proposed transaction will be consummated.
+
+ 
+
+Nebula has mailed to
+its stockholders of record as of December 3, 2019, a definitive proxy statement for a special meeting of stockholders to approve
+an extension of time for Nebula to complete an initial business combination through June 12, 2020. Currently, Nebula anticipates
+publicly-announcing the deal before the extension vote on January 9, 2020. If Nebula does not enter into a definitive agreement
+for an initial business combination by February 12, 2020 or if such agreement is subsequently terminated, Nebula will promptly
+redeem all of the public shares for their pro rata portion of the funds available in the trust account established in connection
+with Nebula’s initial public offering.
+
+ 
+
+Advisors
+
+ 
+
+Deutsche Bank Securities,
+Inc. AG and Goldman Sachs & Co. LLC are acting as capital markets advisors, financial advisors, and private placement agents,
+and Greenberg Traurig, LLP is acting as legal counsel to Nebula as part of the transaction.
+
+ 
+
+About Nebula Acquisition Corporation
+
+ 
+
+Nebula Acquisition
+Corporation, sponsored by True Wind Capital and led by Adam H. Clammer and James H. Greene, Jr., is a blank check company formed
+for the purpose of entering into a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or similar
+business combination with one or more businesses in the technology industry.
+
+ 
+
+About True Wind Capital
+
+ 
+
+True Wind Capital is
+a San Francisco-based private equity firm focused on investing in leading technology companies in the lower middle-market and middle-market
+with a broad mandate including software, IT services, internet, semiconductors, industrial technology, and hardware. True Wind
+Capital is a value-added partner, providing support and expertise that is rooted in its teams’ 75+ years of collective investing
+experience. Mr. Adam H. Clammer and Mr. James H. Greene, Jr., are also the founding partners of True Wind Capital.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Important Information and Where to Find
+It
+
+ 
+
+If a legally binding
+definitive agreement is entered into, a full description of the terms of the transaction will be provided in a proxy statement
+for the stockholders of Nebula (the “Proxy Statement”), to be filed with the SEC. Nebula urges investors, stockholders
+and other interested persons to read, when available, the preliminary Proxy Statement as well as other documents filed with the
+SEC because these documents will contain important information about Nebula, the potential target company and the transaction.
+The definitive Proxy Statement will be mailed to shareholders of Nebula as of a record date to be established for voting on the
+proposed transaction. Stockholders will also be able to obtain a copy of the Proxy Statement, without charge, by directing a request
+to: Nebula Acquisition Corporation, Four Embarcadero Center, Suite 2350, San Francisco, CA 94111. The preliminary and definitive
+Proxy Statement, once available, can also be obtained, without charge, at the SEC’s website (www.sec.gov).
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+Nebula and its directors
+and executive officers may be considered participants in the solicitation of proxies with respect to the potential transaction
+described in this Current Report on Form 8-K under the rules of the SEC. Information about the directors and executive officers
+of Nebula is set forth in Nebula’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018, which was filed
+with the SEC on February 15, 2019. Information regarding the persons who may, under the rules of the SEC, be deemed participants
+in the solicitation of the stockholders in connection with the potential transaction will be set forth in the Proxy Statement when
+it is filed with the SEC. These documents can be obtained free of charge from the sources indicated above.
+
+ 
+
+Non-Solicitation
+
+ 
+
+This Current Report
+on Form 8-K is not a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities or in
+respect of the potential transaction and shall not constitute an offer to sell or a solicitation of an offer to buy the securities
+of Nebula, nor shall there be any sale of any such securities in any state or jurisdiction in which such offer, solicitation, or
+sale would be unlawful prior to registration or qualification under the securities laws of such state or jurisdiction. No offer
+of securities shall be made except by means of a definitive document.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report
+on Form 8-K includes certain statements that are not historical facts but are forward-looking statements for purposes of the safe
+harbor provisions under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements generally
+are accompanied by words such as “believe,” “may,” “will,” “estimate,” “continue,”
+“anticipate,” “intend,” “expect,” “should,” “would,” “plan,”
+“predict,” “potential,” “seem,” “seek,” “future,” “outlook,”
+and similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These
+forward-looking statements include, but are not limited to, statements regarding projections, estimates and forecasts of revenue
+and other financial and performance metrics and projections of market opportunity and expectations, Nebula’s ability to enter
+into definitive agreements or consummate a transaction with the potential target company and Nebula’s ability to obtain the
+financing necessary to consummate the potential transaction. These statements are based on various assumptions and on the current
+expectations of Nebula’s management and are not predictions of actual performance. These forward-looking statements are provided
+for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an
+assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible
+to predict and will differ from assumptions. Many actual events and circumstances are beyond the control of Nebula and the potential
+target company. These forward looking statements are subject to a number of risks and uncertainties, including Nebula’s ability
+to enter into definitive agreements or consummate a transaction with the potential target company; the risk that the approval of
+the stockholders of Nebula for the potential transaction is not obtained; failure to realize the anticipated benefits of the potential
+transaction, including as a result of a delay in consummating the potential transaction or difficulty in integrating the businesses
+of Nebula and the potential target company; the amount of redemption requests made by Nebula’s stockholders; those factors
+discussed in Nebula’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018 under the heading “Risk
+Factors,” and other documents of Nebula filed, or to be filed, with the SEC. If the risks materialize or assumptions prove
+incorrect, actual results could differ materially from the results implied by these forward-looking statements. There may be additional
+risks that Nebula presently does not know or that Nebula currently believes are immaterial that could also cause actual results
+to differ from those contained in the forward-looking statements. In addition, forward-looking statements reflect Nebula’s
+expectations, plans or forecasts of future events and views as of the date of this Current Report on Form 8-K. Nebula anticipates
+that subsequent events and developments will cause Nebula’s assessments to change. However, while Nebula may elect to update
+these forward-looking statements at some point in the future, Nebula specifically disclaim any obligation to do so. These forward-looking
+statements should not be relied upon as representing Nebula’s assessments as of any date subsequent to the date of this Current
+Report on Form 8-K. Accordingly, undue reliance should not be placed upon the forward-looking statements.
+
+ 
+
+Non-GAAP Financial Measure and Related
+Information
+
+ 
+
+This Current Report
+on Form 8-K references EBITDA and EBITDA margin, which are financial measures that are not prepared in accordance with U.S. generally
+accepted accounting principles (“GAAP”). These non-GAAP financial measures do not have a standardized meaning, and
+the definition of EBITDA used by the Company may be different from other, similarly named non-GAAP measures used by others operating
+in the Company’s industry. In addition, such financial information is unaudited and/or does not conform to SEC Regulation
+S-X and as a result such information may be presented differently in future filings by the Company with the SEC.
+
+ 
+
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+hereunto duly authorized.
+
+ 
+
+
+
+    Dated: December 16, 2019
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+    Nebula Acquisition Corporation
+
+     
+     
+     
+     
+
+     
+    By:
+    /s/ Adam H. Clammer
+
+     
+     
+    Name:
+    Adam H. Clammer
+
+     
+     
+    Title:
+    Co-Chief Executive Officer
+
+ 
+
+ 
+
+3
+
+
+
+
+
+ 
+
+
+
+
+
+

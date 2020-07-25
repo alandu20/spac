@@ -1,0 +1,449 @@
+
+8-K
+1
+f8k072419_pensareacquisition.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the
+Securities Exchange Act of 1934
+
+ 
+
+Date of report (Date of earliest event
+reported): July 25, 2019 (July 24, 2019)
+
+ 
+
+Pensare Acquisition Corp.
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+
+    Delaware
+     
+    001-38167
+     
+    81-2402421
+
+    (State or other jurisdiction
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer
+
+    of incorporation)
+     
+     
+     
+    Identification Number)
+
+ 
+
+
+
+    1720 Peachtree Street, Suite 629
+     
+     
+
+    Atlanta, GA
+     
+    30309
+
+    (Address of principal executive offices)
+     
+    (Zip code)
+
+ 
+
+(404) 234-3098
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following
+provisions:
+
+ 
+
+
+☐Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)
+
+
+ 
+
+
+☒Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging growth company  ☒
+
+ 
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Units, each consisting of one share of Common Stock, one Right and one Warrant
+     
+    WRLSU
+     
+    The Nasdaq Stock Market LLC
+
+    Common Stock, par value $0.001 per share
+     
+    WRLS
+     
+    The Nasdaq Stock Market LLC
+
+    Rights, exchangeable into one-tenth of one share of Common Stock
+     
+    WRLSR
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50
+     
+    WRLSW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Item 5.02. Departure of Directors or Certain Officers; Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+Effective July 24, 2019, Graham McGonigal
+was appointed as Chief Operating Officer of Pensare Acquisition Corp. “Pensare”).
+
+ 
+
+Mr. McGonigal has served as a technology
+consultant since March 2018. Prior to that, Mr. McGonigal served as Chief Network Officer at Vonage Holdings (NYSE: VG) from December
+2015 to February 2018, and as Senior Vice President of Network Operations at Vonage from February 2012 to December 2015. Mr. McGonigal
+has more than 30 years of technical experience and has held senior leadership roles within AT&T (NYSE: T), Cingular Wireless
+and Bellsouth. From September 2007 to January 2012, Mr. McGonigal was the Chief Operating Officer at MasTec Network Solutions,
+a division of MasTec Inc. (NYSE: MTZ). At AT&T Mobility, Mr. McGonigal led the national data and service delivery networks
+and created highly competitive wireless data networks.
+
+ 
+
+Item 7.01. Regulation FD Disclosure
+
+ 
+
+On July 25, 2019, Pensare
+issued a press release announcing the execution of a Business Combination Agreement (the “Agreement”) among Pensare,
+Stratos Management Systems, Inc., a Delaware corporation (“Computex”), Tango Merger
+Sub Corp., a Delaware corporation (“Merger Sub”) and Stratos Management Systems Holdings, LLC, a Delaware limited liability
+company (“Holdings”), pursuant to which Pensare agreed to acquire Computex in a transaction (the “Business Combination”)
+that will result in Computex becoming a wholly owned subsidiary of Pensare. A copy of the press release is attached hereto as Exhibit
+99.1 and incorporated herein by reference. Pensare also announced that it has entered into a non-binding letter of intent to acquire
+a second company, a leading developer of Unified Communications technology. Such exhibit and the information set forth therein
+shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), or otherwise be subject to the liabilities of that section, nor shall it be deemed to be incorporated by reference
+in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act.
+
+ 
+
+Also on July 25, 2019,
+Pensare issued a press release announcing that it had joined AT&T Partner Exchange®, a platform pursuant to
+which Pensare will be able to bundle and resell certain AT&T branded products and solutions with its own services following
+Pensare’s consummation of its initial business combination. A copy of the press release is attached hereto as Exhibit 99.2
+and incorporated herein by reference.  Such exhibit and the information set forth therein shall not be deemed to be filed
+for purposes of Section 18 of the Exchange Act, or otherwise be subject to the liabilities of that section, nor shall it be
+deemed to be incorporated by reference in any filing under the Securities Act or the Exchange Act.
+
+ 
+
+Additional Information
+
+ 
+
+In connection with
+the proposed Business Combination, Pensare intends to file with the U.S. Securities and Exchange Commission (the “SEC”)
+a preliminary proxy statement relating to the Business Combination. Pensare will mail a definitive proxy statement and other relevant
+documents to the stockholders of Pensare. Stockholders of Pensare and other interested persons are advised to read, when available,
+the preliminary proxy statement, and amendments thereto, and definitive proxy statement in connection with Pensare’s solicitation
+of proxies for the special meeting to be held to approve the Business Combination because these proxy statements will contain important
+information about Pensare, Computex, and the Business Combination. The definitive proxy statement will be mailed to stockholders
+of Pensare as of a record date to be established for voting on the Business Combination. Stockholders will also be able to obtain
+copies of the proxy statement, without charge, once available, at the SEC’s Internet site at http://www.sec.gov or by directing
+a request to: Pensare Acquisition Corp., 1720 Peachtree Street, Suite 629, Atlanta, GA 30309, or by calling (404) 234-3098.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+Pensare, Computex and
+their respective directors and executive officers may be considered participants in the solicitation of proxies with respect to
+the proposed Business Combination under the rules of the SEC. Information about the directors and executive officers of Pensare
+is set forth in Pensare’s Annual Report on Form 10-K for the fiscal year ended March 31, 2019, which was filed with the SEC
+on June 14, 2019.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+Information regarding
+the persons who may, under the rules of the SEC, be deemed participants in the solicitation of the stockholders in connection with
+the proposed Business Combination will be set forth in the proxy statement when it is filed with the SEC. These documents can be
+obtained free of charge from the sources indicated above.
+
+ 
+
+Non-Solicitation
+
+ 
+
+This communication
+is not a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities or in respect of the
+proposed Business Combination and shall not constitute an offer to sell or a solicitation of an offer to buy the securities of
+Pensare, nor shall there be any sale of any such securities in any state or jurisdiction in which such offer, solicitation, or
+sale would be unlawful prior to registration or qualification under the securities laws of such state or jurisdiction. No offer
+of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act.
+
+ 
+
+Forward-looking Statements
+
+ 
+
+This communication
+includes certain statements that are not historical facts but are forward-looking statements for purposes of the safe harbor provisions
+under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements generally are accompanied
+by words such as “believe,” “may,” “will,” “estimate,” “continue,”
+“anticipate,” “intend,” “expect,” “should,” “would,” “plan,”
+“predict,” “potential,” “seem,” “seek,” “future,” “outlook,”
+and similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These
+forward-looking statements include, but are not limited to, statements regarding projections, estimates and forecasts of revenue
+and other financial and performance metrics and projections of market opportunity and expectations, the closing of the proposed
+Business Combination, any private placement and Pensare’s ability to enter into definitive agreements or consummate a transaction
+with the second potential target company as contemplated under the letter of intent described in the press release included as
+Exhibit No. 99.1 to this Current Report on Form 8-K. These statements are based on various assumptions and on the current expectations
+of Pensare and Computex management and are not predictions of actual performance. These forward-looking statements are provided
+for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an
+assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible
+to predict and will differ from assumptions. Many actual events and circumstances are beyond the control of Pensare and Computex.
+These forward-looking statements are subject to a number of risks and uncertainties, including changes in Computex’s clients’
+preferences, prospects and the competitive conditions prevailing in the industries in which Computex operates; the inability
+of the parties to successfully or timely consummate the proposed Business Combination, including the risk that the approval of
+the stockholders of Pensare for the proposed transaction is not obtained; failure to realize the anticipated benefits of the
+proposed Business Combination, including as a result of a delay in consummating the proposed Business Combination or a delay or
+difficulty in integrating the businesses of Pensare and Computex; the amount of redemption requests made by Pensare’s
+stockholders; Pensare’s ability to enter into definitive agreements or consummate a transaction with the second potential
+target company as contemplated under the letter of intent described in the press release included as Exhibit No. 99.1 to this Current
+Report on Form 8-K; those factors discussed in Pensare’s Annual Report on Form 10-K for the fiscal year ended March 31, 2019
+under the heading “Risk Factors,” and other documents of Pensare filed, or to be filed, with the SEC. If the risks
+materialize or assumptions prove incorrect, actual results could differ materially from the results implied by these forward-looking
+statements. There may be additional risks that neither Pensare nor Computex presently know or that Pensare and Computex currently
+believe are immaterial that could also cause actual results to differ from those contained in the forward-looking statements. In
+addition, forward-looking statements reflect Pensare’s and Computex’s expectations, plans or forecasts of future events
+and views as of the date of this Current Report on Form 8-K. Pensare and Computex anticipate that subsequent events and developments
+will cause Pensare’s and Computex’s assessments to change. However, while Pensare and Computex may elect to update
+these forward-looking statements at some point in the future, Pensare and Computex specifically disclaim any obligation to do so.
+These forward-looking statements should not be relied upon as representing Pensare’s and Computex’s assessments as
+of any date subsequent to the date of this Current Report on Form 8-K. Accordingly, undue reliance should not be placed upon the
+forward-looking statements.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+Item 8.01. Other events.
+
+ 
+
+See Item 7.01.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+
+(d)Exhibits.
+
+
+ 
+
+
+
+    Exhibit No.
+     
+    Exhibit
+
+    99.1
+     
+    Press Release, dated July 24, 2019, regarding the execution of the Agreement between Pensare, Computex, Merger Sub and Holdings and certain corporate officer and advisor appointments.
+
+    99.2
+     
+    Press Release, dated July 24, 2019, regarding Pensare’s agreement to join AT&T Partner Exchange®.
+
+ 
+
+
+
+    3
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    Pensare Acquisition Corp.
+
+     
+     
+
+    Dated: July 25, 2019
+    By:
+    /s/ Darrell J. Mays
+
+     
+    Name: 
+    Darrell J. Mays
+
+     
+    Title:
+    Chief Executive Officer
+
+ 
+
+
+
+ 
+
+
+
+4
+
+ 
+
+
+
+
+
+
+
+
+
+

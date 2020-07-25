@@ -1,0 +1,358 @@
+
+8-K
+1
+form8k.htm
+8-K
+
+
+  
+    
+    
+  
+
+  
+    
+    
+      UNITED STATES
+      SECURITIES AND EXCHANGE COMMISSION
+      WASHINGTON, D.C. 20549
+      
+      
+      FORM 8-K
+      
+      
+      CURRENT REPORT
+      PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+      
+      
+      Date of Report (Date of earliest event reported): May 7, 2020
+      
+      
+      AMCI ACQUISITION CORP.
+      (Exact Name of Registrant as Specified in Charter)
+      
+      
+      
+
+          
+            
+              Delaware
+            
+            
+              001-38742
+            
+            
+              83-0982969
+            
+          
+          
+            
+              (State or Other Jurisdiction of Incorporation)
+            
+            
+              (Commission File Number)
+            
+            
+              (IRS Employer Identification No.)
+            
+          
+
+      
+      
+      
+      
+
+          
+            
+              
+                1501 Ligonier Street, Suite 370
+                Latrobe, PA
+              
+            
+             
+            
+              15650
+            
+          
+          
+            
+              (Address of Principal Executive Offices)
+            
+             
+            
+              (Zip Code)
+            
+          
+
+      
+      
+      
+      Registrant’s telephone number, including area code: (724) 672-4319
+      
+      
+      Not Applicable
+      (Former Name or Former Address, if Changed Since Last Report)
+      
+      
+      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+      
+      
+      
+
+          
+            ☐
+            
+              Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+            
+          
+
+      
+      
+      
+      
+
+          
+            ☐
+            
+              Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+            
+          
+
+      
+      
+      
+      
+
+          
+            ☐
+            
+              Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+            
+          
+
+      
+      
+      
+      
+
+          
+            ☐
+            
+              Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13a-4(c))
+            
+          
+
+      
+      
+      
+      Securities registered pursuant to Section 12(b) of the Act:
+      
+      
+      
+
+          
+            
+              Title of Each Class
+            
+             
+            
+              Trading Symbol(s)
+            
+             
+            
+              Name of Each Exchange on Which Registered
+            
+          
+          
+            
+              Common Stock, par value $0.0001 per share
+            
+             
+            
+              AMCI
+            
+             
+            
+              The NASDAQ Stock Market LLC
+            
+          
+          
+            
+              Warrants to purchase one share of Common Stock
+            
+             
+            
+              AMCIW
+            
+             
+            
+              The NASDAQ Stock Market LLC
+            
+          
+          
+            
+              Units, each consisting of one share of Common Stock
+              and one Warrant
+            
+             
+            
+              AMCIU
+            
+             
+            
+              The NASDAQ Stock Market LLC
+            
+          
+
+      
+      
+      Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+        (§240.12b-2 of this chapter).
+      
+      
+      Emerging growth company ☒
+      
+      
+      If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to
+        Section 13(a) of the Exchange Act. ☐
+       
+      
+      
+         
+      
+        
+          
+      
+      
+
+          
+            Item 8.01.
+            
+              Other Events.
+            
+          
+
+      
+      
+        
+        
+      
+      On May 7, 2020, AMCI Acquisition Corp. (the “Company”) entered into a non-binding letter of intent (the “Letter of Intent”) with an established mining company (the “Third Party”) for an initial business combination. Under the terms of the Letter of Intent, the Company would
+        acquire an attractive portfolio of copper production interests (the “Portfolio”). The Portfolio is underpinned by a long-standing, producing operation located in one of the world’s most productive copper
+        belts, which is forecasted to produce in excess of 50,000 metric tons of copper in 2021. The new copper production focused business will be led by an experienced management team with a world-class development and operating track record. The Company
+        will seek to utilize its initial asset base and financial and technical capability to pursue an aggressive growth strategy in the copper industry, including further asset development, acquisitions and industry consolidation. The Company’s
+        management believes copper presents an attractive investment opportunity given the commodity’s significant demand growth potential, driven by copper’s use in electric vehicles, renewable energy and antimicrobial applications, and believes that
+        copper has upside pricing potential relative to current market levels.
+       
+      Completion of the transaction is subject to, among other matters, the completion of due diligence, the negotiation of a definitive agreement providing for the transaction, satisfaction of the
+        conditions negotiated therein and approval of the transaction by the Company's stockholders. Accordingly, there can be no assurance that a definitive agreement will be entered into or that the proposed transaction will be consummated.
+       
+      In connection with the execution of the Letter of Intent, an affiliate of the Third Party agreed to, among other things, loan the Company the necessary funds to deposit in the Company’s trust
+        account for each share of the Company’s Class A common stock that is not redeemed in connection with the proposed extension of the Company’s termination date from May 20, 2020 until October 20, 2020, subject to certain conditions. In exchange, such
+        affiliate will receive a portion of the founder shares and private placement warrants of the Company owned by the Company’s sponsor.
+       
+      Forward-Looking Statements
+      
+      
+      Certain statements made herein are “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995.
+        Forward-looking statements may be identified by the use of words such as “anticipate”, “believe”, “expect”, “estimate”, “plan”, “outlook”, and “project” and other similar expressions that predict or indicate future events or trends or that are not
+        statements of historical matters. These forward-looking statements reflect the current analysis of existing information and are subject to various risks and uncertainties. As a result, caution must be exercised in relying on forward-looking
+        statements. Due to known and unknown risks, our actual results may differ materially from our expectations or projections. The following factors, among others, could cause actual results to differ materially from those described in these
+        forward-looking statements: the occurrence of any event, change or other circumstances that could give rise to the terms of the Letter of Intent not hereafter being memorialized in a definitive agreement; the ability of the Company to meet Nasdaq
+        listing standards following the transaction and in connection with the consummation thereof; the inability to complete the transactions contemplated by the Letter of Intent and any definitive agreement entered into by the parties due to the failure
+        to obtain approval of the stockholders of the Company; the failure to obtain the necessary financing for the transaction; the failure to meet projected production targets; costs related to the proposed transaction; changes in applicable laws or
+        regulations; the ability of the combined company to meet its financial and strategic goals, due to, among other things, competition, the ability of the combined company to pursue a growth strategy and manage growth profitability; the possibility
+        that the combined company may be adversely affected by other economic, business, and/or competitive factors; the effect of the COVID-19 pandemic on the Company and the target and their ability to enter into a definitive agreement for the
+        transaction or to consummate the transaction; and other risks and uncertainties described herein, as well as those risks and uncertainties discussed from time to time in other reports and other public filings with the Securities and Exchange
+        Commission (the “SEC”) by the Company.
+      
+      
+      Additional information concerning these and other factors that may impact our expectations and projections can be found in our periodic filings with the SEC,
+          including our Annual Report on Form 10-K for the fiscal year ended December 31, 2019, the definitive proxy statement filed by the Company with the SEC on April 28, 2020 wherein the Company is seeking stockholder approval to extend the date by
+          which the Company has to consummate a business combination from May 20, 2020 until October 20, 2020 (the “Extension Proxy”), and in the preliminary and definitive proxy statements to be filed by the Company with the SEC regarding the transaction when available. The Company's SEC filings are available publicly on the SEC's website at
+          www.sec.gov. The Company disclaims any obligation to update the forward-looking statements, whether as a result of new information, future events or otherwise.
+      
+      
+      Additional Information about the Transaction and Where to Find It
+      
+      
+      In connection with the proposed transaction, the Company intends to file a preliminary proxy statement with the SEC and will mail a definitive proxy statement and other
+        relevant documents to its stockholders. Investors and security holders of the Company are advised to read, when available, the preliminary proxy statement, and amendments thereto, and the definitive proxy statement in connection with the Company's
+        solicitation of proxies for its stockholders' meeting to be held to approve the transaction because the proxy statement will contain important information about the transaction and the parties to the transaction. The definitive proxy statement will
+        be mailed to stockholders of the Company as of a record date to be established for voting on the transaction. Stockholders will also be able to obtain copies of the proxy statement, without charge, once available, at the SEC's website at
+        www.sec.gov or by directing a request to: AMCI Acquisition Corp., 1501 Ligonier Street, Suite 370, Latrobe, PA.
+      
+      
+      Participants in Solicitation
+      
+      
+      The Company and the target company and their respective directors, executive officers and other members of their management and employees, under SEC rules, may be deemed to be
+        participants in the solicitation of proxies of the Company’s stockholders in connection with the proposed transaction. Investors and security holders may obtain more detailed information regarding the names, affiliations and interests in the
+        Company of directors and officers of the Company in the Company's Extension Proxy, which was filed with the SEC on April 28, 2020. Information regarding the persons who may, under SEC rules, be deemed participants in the solicitation of proxies to
+        the Company's stockholders in connection with the proposed transaction will be set forth in the proxy statement for the proposed transaction when available. Information concerning the interests of the Company's and the target companies'
+        participants in the solicitation, which may, in some cases, be different than those of the Company's and the target companies' stockholders generally, will be set forth in the proxy statement relating to the transaction when it becomes available.
+      
+      
+      
+        
+          
+      
+      SIGNATURE
+      
+      
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+      
+      
+      Dated: May 8, 2020
+      
+      
+      
+
+          
+             
+            
+              AMCI ACQUISITION CORP.
+            
+          
+          
+             
+             
+             
+          
+          
+             
+            
+              By:
+            
+            
+              /s/ William Hunter
+            
+          
+          
+             
+             
+            
+              Name: William Hunter
+            
+          
+          
+             
+             
+            
+              Title: Chief Executive Officer
+            
+          
+
+      
+      
+      
+      
+      
+      
+        
+    
+  
+
+
+

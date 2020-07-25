@@ -35,7 +35,8 @@ class Document(object):
 
     def is_letter_of_intent(self) -> bool:
         """Check if document is a letter of intent."""
-        loi_phrases = ['letter intent', 'entri definit agreement']
+        loi_phrases = ['letter intent', 'entri definit agreement',
+                       'enter definit agreement']
         return any(phrase in self.normalized_text for phrase in loi_phrases)
 
     def is_business_combination_agreement(self) -> bool:
