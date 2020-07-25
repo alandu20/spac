@@ -52,7 +52,6 @@ def test_loi_classification(document_data):
         assert doc.is_letter_of_intent(), failure_message
         assert not doc.is_business_combination_agreement(), failure_message
         assert not doc.is_consummation(), failure_message
-        assert not doc.is_extension(), failure_message
 
 
 def test_bca_classification():
@@ -63,7 +62,6 @@ def test_bca_classification():
         assert not doc.is_letter_of_intent(), failure_message
         assert doc.is_business_combination_agreement(), failure_message
         assert not doc.is_consummation(), failure_message
-        assert not doc.is_extension(), failure_message
 
 
 def test_consummation_classification():
@@ -75,7 +73,6 @@ def test_consummation_classification():
         assert not doc.is_letter_of_intent(), failure_message
         assert not doc.is_business_combination_agreement(), failure_message
         assert doc.is_consummation(), failure_message
-        assert not doc.is_extension(), failure_message
 
 
 def test_extension_classification():

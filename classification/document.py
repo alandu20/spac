@@ -54,4 +54,5 @@ class Document(object):
 
     def is_extension(self) -> bool:
         """Check if document is a extension."""
-        return False
+        extension_phrases = ['(the "extension")']
+        return any(phrase in self.text for phrase in extension_phrases)
