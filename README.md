@@ -14,6 +14,7 @@ AWS Lambda:
 8. Add aws_lambda/data/spac_list_current.csv (create if d.n.e.) to archive: zip -r function.zip data
 8. Upload package to lambda function “my-function”: aws lambda update-function-code --function-name my-function --zip-file fileb://function.zip
 9. View updated lambda function: https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions
+10. To cron, add new trigger -> EventBridge (CloudWatch Events) -> schedule expression. CloudWatch cron rules here: https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/ScheduledEvents.html
 
 AWS SES:
 1. Obtain SES SMTP credentials: https://docs.aws.amazon.com/ses/latest/DeveloperGuide/smtp-credentials.html
