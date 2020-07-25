@@ -15,6 +15,11 @@ AWS Lambda:
 8. Upload package to lambda function “my-function”: aws lambda update-function-code --function-name my-function --zip-file fileb://function.zip
 9. View updated lambda function: https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions
 
+AWS SES:
+1. Obtain SES SMTP credentials: https://docs.aws.amazon.com/ses/latest/DeveloperGuide/smtp-credentials.html
+2. Verify email address: https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-email-addresses-procedure.html
+3. Send email using SES interface: https://docs.aws.amazon.com/ses/latest/DeveloperGuide/examples-send-using-smtp.html
+
 TD API (used to download historical daily and minute prices):
 1. Create app here: https://developer.tdameritrade.com/user/me/apps. CONSUMER_KEY found here
 2. Authentication (need to do this every 90 days):
