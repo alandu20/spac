@@ -33,8 +33,9 @@ def preprocess_document(text: str) -> str:
     """Initial pre-processing for SEC text document.
 
     Given a string document, remove all new line characters, unicode characters
-    and repeated spaces. Then lower case the text. Then remove the forward-looking
-    statement section. Finally remove the header and footer of the doc.
+    and repeated spaces. Then lower case the text. Then remove the
+    forward-looking statement section. Finally remove the header and footer
+    of the doc.
     Args:
         text: String of document text.
     Returns:
