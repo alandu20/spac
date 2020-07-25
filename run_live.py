@@ -352,7 +352,10 @@ def send_email(df_new_8Ks, df_pred_pos):
     """Send email with list of warrants to buy."""
     sender_email = 'wordquakeme2@gmail.com'
     receiver_email = 'wordquakeme2@gmail.com'
-    password = 'princeton17'
+    host = 'email-smtp.us-east-1.amazonaws.com'
+    port = 587
+    smtp_username = 'AKIA3DFLMOEPQVDHFWFD'
+    smtp_password = 'BKhl0+QS8NQujcuXpx3Bl7JyYbXm6wR/VxkqljR6EeCc'
     context = ssl.create_default_context()
     message = MIMEMultipart()
     message['Subject'] = 'BUY ALERT'
@@ -371,16 +374,17 @@ def send_email(df_new_8Ks, df_pred_pos):
     body = MIMEText(html, 'html')
     message.attach(body)
     try:
-        server = smtplib.SMTP('smtp.gmail.com', 587)
+        server = smtplib.SMTP(host, port)
         server.ehlo()
         server.starttls(context=context) # secure connection
         server.ehlo()
-        server.login(sender_email, password)
+        server.login(smtp_username, smtp_password)
         server.sendmail(sender_email, receiver_email, message.as_string())
-    except:
-        print('\ncould not send email')
-    finally:
-        server.quit()
+        server.close()
+    except Exception as e:
+        print('\nerror sending email:', e)
+    else:
+        print('\nemail sent')
 
 def main():
     # load current and past spac lists
@@ -430,9 +434,12 @@ def main():
 
     # positive label predictions
     df_pred_pos = df_form_8K_agg.loc[np.where(y_pred==1)[0],]
+    df_pred_pos = pd.concat([df_pred_pos, df_features.loc[np.where(y_pred==1)[0],]], axis=1)
 
     # print positive label predictions where date >= min_date
-    df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][['symbol','accepted_time']]
+    output_columns = ['symbol','accepted_time','keywords_loi','keywords_business_combination_agreement',
+    'keywords_consummation','keywords_extension','item 2.03','%vote_against']
+    df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][output_columns]
     df_pred_pos.reset_index(drop=True, inplace=True)
     print('\nbuy warrants for these symbols:')
     if len(df_pred_pos)==0:
