@@ -39,6 +39,8 @@ def main():
     bca_urls = [
         'https://www.sec.gov/Archives/edgar/data/1731289/000110465920028233/tm2011332d1_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1764711/000126493120000025/paac8k031020.htm',
+        'https://www.sec.gov/Archives/edgar/data/1764711/000126493120000033/paac8k031620.htm',
+        'https://www.sec.gov/Archives/edgar/data/1725134/000119312520115911/d880378d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1759631/000121390020015311/ea123187-8k_tortoiseacq.htm'
     ]
     bca_path = os.path.join(os.path.dirname(__file__), "bca")
