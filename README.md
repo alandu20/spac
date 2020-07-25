@@ -10,7 +10,7 @@ AWS Lambda:
 - Weird nltk issue (related to installing on Mac while AWS is linux), need to replace the regex package with regex-2020.7.14-cp36-cp36m-manylinux1_x86_64.whl found here: https://pypi.org/project/regex/#files. Otherwise will get error No module named 'regex._regex'
 - To use stopwords corpus, download here: http://www.nltk.org/nltk_data/. Copy into aws_lambda/nltk/nltk_data/corpora (create nltk_data/corpora if d.n.e.). Then add path to python script: nltk.data.path.append('nltk/nltk_data')
 6. Create zip archive of aws_lambda/package: zip -r9 ${OLDPWD}/function.zip .
-7. Add lambda_function.py to archive: zip -g function.zip lambda_function.py
+7. Add lambda_function.py (this is the script that's run) to archive: zip -g function.zip lambda_function.py
 8. Add aws_lambda/data/spac_list_current.csv (create if d.n.e.) to archive: zip -r function.zip data
 8. Upload package to lambda function “my-function”: aws lambda update-function-code --function-name my-function --zip-file fileb://function.zip
 9. View updated lambda function: https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions
@@ -26,3 +26,8 @@ TD API (used to download historical daily and minute prices):
 2. Authentication (need to do this every 90 days):
 - Start localhost server: sudo apachectl start
 - Follow https://developer.tdameritrade.com/content/simple-auth-local-apps. Step 4 client_id should be CONSUMER_KEY@AMER.OAUTHAP and redirect_uri should be http://localhost/. Refresh token can be used to use API without server
+
+Current SPAC data sources:
+1. https://docs.google.com/spreadsheets/d/1LQLUy21Y14CcYyuYgKJcf9OQ4QWCs_w6PX-jDqhcejQ/htmlview?usp=sharing&pru=AAABcyawCSs*AAVDsvLuGQvXsh_gOgbIqg#
+2. https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/edit#gid=0
+3. https://spactrack.net/ (https://sheet2site.com/api/v3/index.php?key=1F7gLiGZP_F4tZgQXgEhsHMqlgqdSds3vO0-4hoL6ROQ&g=1&e=1&g=1)
