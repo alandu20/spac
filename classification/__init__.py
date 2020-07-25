@@ -8,12 +8,12 @@ FOOTER = (
 )
 VOTE_HEADER = 'for against abstain broker non-votes'
 FLS_START = [
-        'forward-looking statements this current report',
-        'forward looking statements certain statements',
-        'forward-looking statements this report',
-        'forward-looking statements the company makes',
-        'forward-looking statements certain of the matters',
-        'forward-looking statements this communication'
+    'forward-looking statements this current report',
+    'forward looking statements certain statements',
+    'forward-looking statements this report',
+    'forward-looking statements the company makes',
+    'forward-looking statements certain of the matters',
+    'forward-looking statements this communication'
 ]
 FLS_END = [
     'undue reliance should not be placed upon the'
