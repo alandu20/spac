@@ -1,17 +1,7 @@
+from classification import HEADER, FOOTER, VOTE_HEADER, FLS_START, FLS_END
 from typing import Dict
 import re
 import numpy as np
-
-
-HEADER = (
-    'financial accounting standards provided pursuant '
-    'to section 13(a) of the exchange act'
-)
-FOOTER = (
-    'pursuant to the requirements of '
-    'the securities exchange act of 1934'
-)
-VOTE_HEADER = 'for against abstain broker non-votes'
 
 
 def _search_text(txt: str, prefix: str, suffix: str) -> str:
@@ -55,24 +45,8 @@ def preprocess_document(text: str) -> str:
     text = text.lower()
     
     # Remove forward looking statement section.
-    forward_looking_statement_start = [
-        'forward-looking statements this current report',
-        'forward looking statements certain statements',
-        'forward-looking statements this report',
-        'forward-looking statements the company makes',
-        'forward-looking statements certain of the matters',
-        'forward-looking statements this communication'
-    ]
-    forward_looking_statement_end = [
-        'undue reliance should not be placed upon the '
-        'forward-looking statements',
-        'whether as a result of new information, future events '
-        'or otherwise, except as required by law',
-        'conditions or circumstances on which any such statement '
-        'is based, except as required by applicable law'
-    ]
-    for forward_start in forward_looking_statement_start:
-        for forward_end in forward_looking_statement_end:
+    for forward_start in FLS_START:
+        for forward_end in FLS_END:
             ind_start = text.find(forward_start)
             ind_end = text.find(forward_end)
             if ind_start != -1 and ind_end != -1:
