@@ -12,9 +12,6 @@ class Document(object):
         # Parse out items in document.
         self.item_mapping = preprocess.parse_items_mapping(self.text)
 
-        # Normalize text.
-        self.normalized_text = self._normalize_text()
-
     def _normalize_text(self):
         """Normalize text, get rid of stop words and stem words."""
         # Tokenize text.
@@ -35,9 +32,13 @@ class Document(object):
 
     def is_letter_of_intent(self) -> bool:
         """Check if document is a letter of intent."""
-        loi_phrases = ['letter intent', 'entri definit agreement',
-                       'enter definit agreement']
-        return any(phrase in self.normalized_text for phrase in loi_phrases)
+        loi_phrases = [
+            'letter of intent', 'entry into a definitive agreement',
+            'enter into a definitive agreement',
+            'entering into a definitive agreement',
+            'entered into a definitive agreement'
+        ]
+        return any(phrase in self.text for phrase in loi_phrases)
 
     def is_business_combination_agreement(self) -> bool:
         """Check if document is a business combination agreement."""
