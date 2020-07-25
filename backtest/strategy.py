@@ -32,11 +32,6 @@ class NaiveStrategy(bt.Strategy):
         # To keep track of pending orders.
         self.orders = []
 
-        # for f in self.filings:
-        #     print(f.accepted_date)
-        #
-        # print(self.datas[0].datetime.datetime)
-
     def log(self, txt: str, datetime=None):
         """Logging function for this strategy.
 
@@ -101,7 +96,6 @@ class NaiveStrategy(bt.Strategy):
         while (self.filing_index < len(self.filings) and
                self.data.datetime.datetime(0) >
                self.filings[self.filing_index].accepted_date):
-            print(self.filings[self.filing_index].documents[0])
             trade = rules.naive_rule(
                 self.filings[self.filing_index].documents[0]
             )

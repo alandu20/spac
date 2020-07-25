@@ -3,7 +3,7 @@ import backtrader as bt
 import pandas as pd
 
 
-def convert_datetime(timestamp: str) -> datetime.date:
+def _convert_datetime(timestamp: str) -> datetime.date:
     """Convert string datetime to date time object.
 
     Given timestamp convert to datetime w/ expected pattern
@@ -29,6 +29,6 @@ def create_data_feed(pathway: str) -> bt.DataBase:
         Backtrader database.
     """
     price_data = pd.read_csv(pathway)
-    price_data.datetime = price_data.datetime.apply(convert_datetime)
+    price_data.datetime = price_data.datetime.apply(_convert_datetime)
     data_feed = bt.feeds.PandasData(dataname=price_data, datetime=-1)
     return data_feed
