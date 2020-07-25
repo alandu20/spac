@@ -76,7 +76,7 @@ def preprocess_document(text: str) -> str:
             ind_start = text.find(forward_start)
             ind_end = text.find(forward_end)
             if ind_start != -1 and ind_end != -1:
-                text = text[0:ind_start] + text[ind_end+len(forward_end):]
+                text = text[0:ind_start] + text[ind_end + len(forward_end):]
 
     # Remove everything in header and footer.
     text = _search_text(text, HEADER, FOOTER)
