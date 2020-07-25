@@ -1,4 +1,5 @@
 from classification import preprocess
+from classification import document
 
 
 def naive_rule(text: str) -> bool:
@@ -11,8 +12,9 @@ def naive_rule(text: str) -> bool:
     Returns:
         Boolean of whether we should trade or not.
     """
-    text = preprocess.preprocess_document(text)
-    item_mapping = preprocess.parse_items_mapping(text)
+
+    # Initialize document object.
+    doc = document.Document(text)
 
     # Reject if too many votes against.
     votes = preprocess.parse_vote_results(text)
@@ -22,13 +24,10 @@ def naive_rule(text: str) -> bool:
     if votes_against / votes_total > 0.1:
         return False
 
-    keywords = [
-        'letter intent', 'enter definit agreement',
-        '(the "business combination agreement")', '("business combination")',
-        '(the "extension")', 'announcing the consummation'
+    boolean_conditios = [
+        doc.is_letter_of_intent(),
+        doc.is_business_combination_agreement(),
+        doc.is_consummation(),
+        doc.is_extension(),
     ]
-    if (any(word in text for word in keywords)
-            and "item 2.03" in item_mapping.keys()):
-        return True
-
-    return False
+    return any(boolean_conditios)

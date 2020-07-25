@@ -1,20 +1,6 @@
+from backtest import rules
 import backtrader as bt
 import datetime
-
-
-def classify(filing_text: str) -> bool:
-    """Given filings text, decide whether to buy."""
-    # loi_keywords = ['letter of intent', 'enter definit agreement']
-    # for word in loi_keywords:
-    #     if word in filing_text.lower():
-    #         return True
-    # bca_keywords = ['(the "business combination agreement")',
-    #                 '("business combination")']
-    # for word in bca_keywords:
-    #     if word in filing_text.lower():
-    #         return True
-    # return False
-    return True
 
 
 class NaiveStrategy(bt.Strategy):
@@ -116,7 +102,10 @@ class NaiveStrategy(bt.Strategy):
                self.data.datetime.datetime(0) >
                self.filings[self.filing_index].accepted_date):
             print(self.filings[self.filing_index].documents[0])
-            if classify(self.filings[self.filing_index].documents[0]):
+            trade = rules.naive_rule(
+                self.filings[self.filing_index].documents[0]
+            )
+            if trade:
                 self.orders.append(
                     (self.buy(), self.data.datetime.datetime(0))
                 )
