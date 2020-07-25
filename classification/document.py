@@ -42,11 +42,15 @@ class Document(object):
 
     def is_business_combination_agreement(self) -> bool:
         """Check if document is a business combination agreement."""
-        return False
+        bca_phrases = [
+            '(the "business combination agreement")', '("business combination")'
+        ]
+        return any(phrase in self.text for phrase in bca_phrases)
 
     def is_consummation(self) -> bool:
         """"Check if document is a consummation."""
-        return False
+        consummation_phrases = ['announcing the consummation']
+        return any(phrase in self.text for phrase in consummation_phrases)
 
     def is_extension(self) -> bool:
         """Check if document is a extension."""
