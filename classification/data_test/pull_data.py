@@ -42,7 +42,17 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1764711/000126493120000033/paac8k031620.htm',
         'https://www.sec.gov/Archives/edgar/data/1725134/000119312520115911/d880378d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1759631/000121390020015311/ea123187-8k_tortoiseacq.htm',
-        'https://www.sec.gov/Archives/edgar/data/1718405/000110465920067418/tm2021334d1_8k.htm'
+        'https://www.sec.gov/Archives/edgar/data/1720353/000119312520077317/d901525d8k.htm', # bca amendment
+        'https://www.sec.gov/Archives/edgar/data/1720353/000156459020013631/nebu-8k_20200326.htm', # bca amendment
+        'https://www.sec.gov/Archives/edgar/data/1720353/000121390020011900/ea121740-8k_nebulaacq.htm', # bca amendment
+        'https://www.sec.gov/Archives/edgar/data/1725134/000119312520118283/d920540d8ka.htm', # bca amendment
+        'https://www.sec.gov/Archives/edgar/data/1682325/000114420419000645/tv510381-8k.htm', # bca amendment
+        'https://www.sec.gov/Archives/edgar/data/1709682/000121390019015150/f8k072919a1_nescoholdings.htm' # bca amendment
+        'https://www.sec.gov/Archives/edgar/data/1702744/000110465919046862/a19-17478_18k.htm', # purchase agreement
+        'https://www.sec.gov/Archives/edgar/data/1735041/000121390019020579/f8k101419_greenlandacqu.htm', # share exchange agreement; vote result
+        'https://www.sec.gov/Archives/edgar/data/1718405/000110465920067418/tm2021334d1_8k.htm', # bca vote result
+        'https://www.sec.gov/Archives/edgar/data/1704760/000110465920026534/tm2011241-1_8k.htm', # bca vote result
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465919053734/a19-19922_18k.htm', # bca vote date
     ]
     bca_path = os.path.join(os.path.dirname(__file__), "bca")
     for i, url in enumerate(bca_urls):
@@ -66,7 +76,8 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1708176/000121390020007706/ea120114-8k_gordonpointe.htm',
         'https://www.sec.gov/Archives/edgar/data/1708176/000121390020011681/ea121637-8k_gordonpointe.htm',
         'https://www.sec.gov/Archives/edgar/data/1708176/000121390020012870/ea122063-8k_gordonpointe.htm',
-        'https://www.sec.gov/Archives/edgar/data/1726293/000143774920011336/pacq20200519_8k.htm'
+        'https://www.sec.gov/Archives/edgar/data/1726293/000143774920011336/pacq20200519_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1653247/000114420418031792/tv495432_8k.htm'
     ]
     extension_path = os.path.join(os.path.dirname(__file__), "extension")
     for i, url in enumerate(extension_urls):
@@ -84,7 +95,10 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1712189/000110465919016584/a19-6812_18k.htm',
         'https://www.sec.gov/Archives/edgar/data/1709682/000121390019014258/f8k073019_nescoholdings.htm',
         'https://www.sec.gov/Archives/edgar/data/1784797/000114036119020993/nc10006147x2_8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1725255/000110465920002029/tm201313-1_8k.htm'
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465920002029/tm201313-1_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1735041/000121390019021522/f8k102419_greenlandtech.htm',
+        'https://www.sec.gov/Archives/edgar/data/1753706/000110465920079050/tm2023499d1_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1706946/000119312519276659/d809452d8k.htm'
     ]
     consummation_path = os.path.join(os.path.dirname(__file__), "consummation")
     for i, url in enumerate(consummation_urls):
@@ -96,13 +110,53 @@ def main():
             doc.write(txt)
 
     other_urls = [
-        'https://www.sec.gov/Archives/edgar/data/1725255/000110465919063421/a19-22526_18k.htm', # financial results
-        'https://www.sec.gov/Archives/edgar/data/96223/000119312519036140/d673385d8k.htm', # compensation
-        'https://www.sec.gov/Archives/edgar/data/1768012/000114420419029853/tv523109_8k.htm', # units split to stock + warrants
-        'https://www.sec.gov/Archives/edgar/data/1721386/000173112219000514/e1477_8k.htm', # 2.03 convertible note
+        'https://www.sec.gov/Archives/edgar/data/1708341/000168316819001386/brac_8k.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465919050327/a19-17038_38k.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1704760/000161577419003365/s116469_8k.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1731289/000110465920042727/tm2014949-1_8k.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1731289/000110465920033164/tm2012695-1_8k.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1716947/000119312520031371/d850379d8k.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1751143/000121390019018009/f8k091319_boxwoodmerger.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1697805/000121390018012723/f8k091918_bisoncapitalacq.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1712189/000114420418062119/tv508120_8k.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1804176/000114036120012833/nc10012442x1_8k.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1753706/000121390019008433/f8k051319_act2global.htm' # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1800682/000119312520150173/d933468d8k.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1772757/000114420419027336/tv521878_8k.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1721386/000114420418035644/tv497120_8k.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1779474/000095010319010937/dp111340_8k.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1673481/000161577418004954/s110685_8k.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1780312/000121390019018459/f8k091319_newprovidenceacqu.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1768012/000114420419029853/tv523109_8k.htm', # units split to stock + warrants
+        'https://www.sec.gov/Archives/edgar/data/1759008/000114420419019546/tv518793_8k.htm', # units split to stock + warrants
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465919063421/a19-22526_18k.htm', # financial results
+        'https://www.sec.gov/Archives/edgar/data/1744894/000110465918068931/a18-40185_18k.htm', # financial results
+        'https://www.sec.gov/Archives/edgar/data/1647088/000164708818000032/ngform8-k93018.htm', # financial results
+        'https://www.sec.gov/Archives/edgar/data/1653558/000162828018014392/a8k-earningsreleasex093020.htm', # financial results
+        'https://www.sec.gov/Archives/edgar/data/1713952/000119312520022132/d880962d8k.htm', # financial results
+        'https://www.sec.gov/Archives/edgar/data/1721386/000173112219000514/e1477_8k.htm', # 2.03 convertible note
         'https://www.sec.gov/Archives/edgar/data/1698990/000119312518254084/d609686d8k.htm', # acquisition
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465920065608/tm2020890d1_8k.htm', # acquisition
         'https://www.sec.gov/ix?doc=/Archives/edgar/data/1713952/000171395220000016/ck0001713952-20200609.htm' # other vote
+        'https://www.sec.gov/Archives/edgar/data/1682325/000110465920022978/tm209316-1_8k.htm', # law suit
+        'https://www.sec.gov/Archives/edgar/data/96223/000119312519036140/d673385d8k.htm', # compensation
+        'https://www.sec.gov/Archives/edgar/data/96223/000119312517383636/d488920d8k.htm', # compensation
+        'https://www.sec.gov/Archives/edgar/data/96223/000119312518023812/d474723d8k.htm', # compensation
+        'https://www.sec.gov/ix?doc=/Archives/edgar/data/1712189/000110465920030223/tm2011830d1_8k.htm', # compensation
+        'https://www.sec.gov/Archives/edgar/data/1787791/000119312520082621/d862918d8k.htm', # director
+        'https://www.sec.gov/Archives/edgar/data/1790625/000095010320005029/dp123677_8k.htm', # director
+        'https://www.sec.gov/Archives/edgar/data/1702744/000170274419000006/smpl_8kx2019xannualxmeeting.htm', # director
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465920064941/tm2020402-1_8k.htm', # director
+        'https://www.sec.gov/Archives/edgar/data/1794621/000119312520136322/d925681d8k.htm', # director
+        'https://www.sec.gov/Archives/edgar/data/1653247/000156459019039788/wtrh-8k_20191104.htm', # director
+        'https://www.sec.gov/Archives/edgar/data/1770251/000121390019022065/f8k110419_orisunacquisition.htm', # exchange listing
+        'https://www.sec.gov/Archives/edgar/data/1668428/000114420417060024/tv479911_8k.htm', # exchange listing (bca false positive)
+        'https://www.sec.gov/Archives/edgar/data/1725134/000119312518296430/d615432d8k.htm', # exchange listing
+        'https://www.sec.gov/Archives/edgar/data/1723580/000121390020000122/f8k010220_opesacquisition.htm', # exchange listing
+        'https://www.sec.gov/Archives/edgar/data/1650575/000121390018009604/f8k072518_borqstechnologies.htm', # other press release
+        'https://www.sec.gov/Archives/edgar/data/1772757/000110465920026239/tm2011171d1_8k.htm', # other press release
+        'https://www.sec.gov/Archives/edgar/data/96223/000009622315000010/lnc1stqtr2015form8k.htm', # other press release
+        'https://www.sec.gov/Archives/edgar/data/96223/000119312515072738/d883733d8k.htm', # other press release
     ]
 
 
