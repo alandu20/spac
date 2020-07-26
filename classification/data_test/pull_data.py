@@ -41,7 +41,8 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1764711/000126493120000025/paac8k031020.htm',
         'https://www.sec.gov/Archives/edgar/data/1764711/000126493120000033/paac8k031620.htm',
         'https://www.sec.gov/Archives/edgar/data/1725134/000119312520115911/d880378d8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1759631/000121390020015311/ea123187-8k_tortoiseacq.htm'
+        'https://www.sec.gov/Archives/edgar/data/1759631/000121390020015311/ea123187-8k_tortoiseacq.htm',
+        'https://www.sec.gov/Archives/edgar/data/1718405/000110465920067418/tm2021334d1_8k.htm'
     ]
     bca_path = os.path.join(os.path.dirname(__file__), "bca")
     for i, url in enumerate(bca_urls):
@@ -64,7 +65,8 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1708176/000121390020001787/f8k012420_gordonpointe.htm',
         'https://www.sec.gov/Archives/edgar/data/1708176/000121390020007706/ea120114-8k_gordonpointe.htm',
         'https://www.sec.gov/Archives/edgar/data/1708176/000121390020011681/ea121637-8k_gordonpointe.htm',
-        'https://www.sec.gov/Archives/edgar/data/1708176/000121390020012870/ea122063-8k_gordonpointe.htm'
+        'https://www.sec.gov/Archives/edgar/data/1708176/000121390020012870/ea122063-8k_gordonpointe.htm',
+        'https://www.sec.gov/Archives/edgar/data/1726293/000143774920011336/pacq20200519_8k.htm'
     ]
     extension_path = os.path.join(os.path.dirname(__file__), "extension")
     for i, url in enumerate(extension_urls):
@@ -92,6 +94,16 @@ def main():
         file_path_document = consummation_path + "/consummation_%s.txt" % str(i)
         with open(file_path_document, "w") as doc:
             doc.write(txt)
+
+    other_urls = [
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465919063421/a19-22526_18k.htm', # financial results
+        'https://www.sec.gov/Archives/edgar/data/96223/000119312519036140/d673385d8k.htm', # compensation
+        'https://www.sec.gov/Archives/edgar/data/1768012/000114420419029853/tv523109_8k.htm', # units split to stock + warrants
+        'https://www.sec.gov/Archives/edgar/data/1721386/000173112219000514/e1477_8k.htm', # 2.03 convertible note
+        'https://www.sec.gov/Archives/edgar/data/1804176/000114036120012833/nc10012442x1_8k.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1698990/000119312518254084/d609686d8k.htm', # acquisition
+        'https://www.sec.gov/ix?doc=/Archives/edgar/data/1713952/000171395220000016/ck0001713952-20200609.htm' # other vote
+    ]
 
 
 if __name__ == "__main__":
