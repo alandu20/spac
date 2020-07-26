@@ -59,7 +59,12 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1704760/000121390019014728/f8k080219_pensareacqui.htm',
         'https://www.sec.gov/Archives/edgar/data/1682325/000114420418057157/tv505881_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1708341/000168316819002144/brac_8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1706946/000114420419034352/tv525003_8ka.htm'
+        'https://www.sec.gov/Archives/edgar/data/1706946/000114420419034352/tv525003_8ka.htm',
+        'https://www.sec.gov/Archives/edgar/data/1708176/000121390019013680/f8k072519_gordonpointe.htm',
+        'https://www.sec.gov/Archives/edgar/data/1708176/000121390020001787/f8k012420_gordonpointe.htm',
+        'https://www.sec.gov/Archives/edgar/data/1708176/000121390020007706/ea120114-8k_gordonpointe.htm',
+        'https://www.sec.gov/Archives/edgar/data/1708176/000121390020011681/ea121637-8k_gordonpointe.htm',
+        'https://www.sec.gov/Archives/edgar/data/1708176/000121390020012870/ea122063-8k_gordonpointe.htm'
     ]
     extension_path = os.path.join(os.path.dirname(__file__), "extension")
     for i, url in enumerate(extension_urls):
