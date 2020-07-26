@@ -1,0 +1,2188 @@
+
+8-K
+1
+nc10006147x2_8k.htm
+FORM 8-K
+
+
+  
+    
+    
+  
+
+  
+    
+      
+        
+      UNITED STATES
+    
+    SECURITIES AND EXCHANGE COMMISSION
+    Washington, D.C. 20549
+     
+    
+    
+      
+    FORM 8-K
+    
+      
+     
+    
+    CURRENT REPORT
+    Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+    
+    
+    Date of Report (Date of earliest event reported):  November 14, 2019
+    
+      
+    
+      BROADMARK REALTY CAPITAL INC.
+    
+    (Exact name of registrant as specified in its charter)
+     
+    
+    
+
+        
+          
+             
+            
+            Maryland
+          
+          
+             
+            
+            333-233214
+          
+          
+             
+            
+            82-2620891
+          
+        
+        
+          
+            (State or other jurisdiction of incorporation)
+          
+          
+            (Commission File Number)
+          
+          
+            (IRS Employer Identification No.)
+          
+        
+
+    
+    
+    
+    1420 Fifth Avenue, Suite 2000
+    Seattle, WA 98101
+    (Address of principal executive offices, including zip code)
+    Registrant’s telephone number, including area code: (206) 971-0800
+    
+    
+    Not Applicable
+    (Former name or former address, if changed since last report.)
+    
+      
+    
+      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+      
+      
+    
+    ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+    
+    
+    ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+    
+    
+    ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+    
+    
+    ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+    
+    
+    Securities registered pursuant to Section 12(b) of the Securities Act of 1933, as amended:
+     
+    
+    
+
+        
+          
+            
+               
+              Title of each class
+            
+          
+           
+           
+          
+            
+               
+              Trading Symbols
+            
+          
+           
+           
+          
+            
+               
+              Name of each exchange on which registered
+            
+          
+        
+        
+          
+             
+            
+            Common stock, par value $0.001 per share
+          
+           
+           
+          
+            BRMK
+          
+           
+           
+          
+            New York Stock Exchange
+          
+        
+        
+          
+             
+            
+            Warrants, each exercisable for one fourth (1/4th) share of Common Stock at an exercise price of $2.875 per one fourth (1/4th) share
+          
+           
+           
+          
+            BRMK WS
+          
+           
+           
+          
+            NYSE American LLC
+          
+        
+
+    
+    
+    
+    Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933, as amended, or Rule 12b-2 of the Securities Exchange Act of 1934, as amended.
+    
+    
+    Emerging growth company          [X]
+    
+    
+    
+      If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to
+        Section 13(a) of the Exchange Act of 1934, as amended. ☐
+      
+         
+      
+    
+    
+      
+        
+    
+    
+    INTRODUCTORY NOTE
+    
+    
+    On November 14, 2019 (the “Closing Date”), Broadmark Realty Capital Inc., a Maryland corporation (formerly named Trinity Sub Inc.) (the “Company”), consummated the previously announced business combination (the “Business
+      Combination”), following a special meeting of stockholders (the “Special Meeting”), where the stockholders of Trinity Merger Corp., a Delaware corporation (“Trinity”), considered and approved, among other matters, a proposal to adopt the Agreement
+      and Plan of Merger, dated August 9, 2019 (the “Merger Agreement”), by and among the Company, Trinity, Trinity Merger Sub I, Inc. (“Merger Sub I”), Trinity Merger Sub II, LLC (“Merger Sub II” and together with Trinity, the Company and Merger Sub I,
+      the “Trinity Parties”), PBRELF I, LLC (“PBRELF”), BRELF II, LLC (“BRELF II”), BRELF III, LLC (“BRELF III”), BRELF IV, LLC (“BRELF IV” and, together with PBRELF, BRELF II and BRELF III, the “Broadmark Companies” and each a “Broadmark Company”), Pyatt
+      Broadmark Management, LLC (“MgCo I”), Broadmark Real Estate Management II, LLC (“MgCo II”), Broadmark Real Estate Management III, LLC (“MgCo III”), and Broadmark Real Estate Management IV, LLC (“MgCo IV” and, together with MgCo I, MgCo II and MgCo
+      III, the “Management Companies” and each a “Management Company,” and the Management Companies, together with the Broadmark Companies and their subsidiaries, the “Company Group”), and approve the transactions contemplated by the Merger Agreement.
+    
+    
+    Pursuant the terms and subject to the conditions set forth in the Merger Agreement, (i) Merger Sub I merged with and into Trinity, with Trinity being the surviving entity of such merger (the “Trinity Merger”), (ii)
+      immediately following the Trinity Merger, each of the Broadmark Companies merged with and into Merger Sub II, with Merger Sub II being the surviving entity of such merger (the “Company Merger”), and (iii) immediately following the Company Merger,
+      each of the Management Companies merged with and into Trinity, with Trinity being the surviving entity of such merger (the “Management Company Merger” and, together with the Trinity Merger and the Company Merger, the “Mergers”), and, as a result,
+      Merger Sub II and Trinity became wholly owned subsidiaries of the Company.  In connection with the consummation of the business combination, the Company was renamed Broadmark Realty Capital Inc.  For a description of the Business Combination and the
+      Merger Agreement, see the sections entitled “Summary of the Joint Proxy Statement/Prospectus—Parties to the Business Combination” beginning on page 1 of the Company’s joint proxy statement/prospectus dated October 18, 2019 (the “Prospectus”), filed
+      with the U.S. Securities and Exchange Commission (the “Commission”) on October 18, 2019, “Summary of the Joint Proxy Statement/Prospectus—The Business Combination” beginning on page 2 of the Prospectus, “The Business Combination” beginning on page
+      62, and “The Merger Agreement” beginning on page 87 of the Prospectus.
+    
+    
+    Unless otherwise indicated or the context otherwise requires, references in this Current Report on Form 8-K (the “Report”) to the “Company,” “we,” “us” and “our,” refer to the combined company following consummation of
+      the Business Combination.
+    
+      
+      
+      
+        
+          
+
+              
+                Item 1.01.
+                
+                  Entry into a Material Definitive Agreement
+                
+              
+
+          
+        
+      
+    
+    
+      
+    
+    
+    
+    Executive Employment Agreements
+    
+    
+    The Company has entered into employment agreements with each of its executive officers (the “Employment Agreements”).  The Employment Agreements became effective on the Closing Date.  Under the terms of the Employment
+      Agreements, each of our executive officers are employed at will, and either such officer or the Company can terminate his or her employment at any time and for any reason.  The Employment Agreements also provide for the payment of an annual base
+      salary and a target bonus equivalent to a specified percentage of each executive officer’s salary.  For 2019, the target bonus will be pro-rated to cover the period between the Closing Date and the end of the year.
+    
+    
+    On August 9, 2019, the Company entered into an Employment Agreement with Jeffrey Pyatt, effective as of the Closing Date, to serve as its Chief Executive Officer.  Pursuant to the terms of Mr. Pyatt’s Employment
+      Agreement, Mr. Pyatt will receive annual base salary of $400,000, and will be eligible to receive an annual bonus based on the achievement of certain annual operating profit targets and other objectives established by the board of directors of the
+      Company (the “Board”), with a target bonus equivalent to $250,000 if all performance goals are satisfied at the target level of performance.
+    
+    
+    On the Closing Date, the Company entered into an Employment Agreement with David Schneider to serve as its Chief Financial Officer.  Pursuant to the terms of Mr. Schneider’s Employment Agreement, Mr. Schneider will
+      receive annual base salary of $350,000, and will be eligible to receive an annual bonus based on the achievement of certain annual operating profit targets and other objectives established by the Board, with a target bonus equivalent to $250,000 if
+      all performance goals are satisfied at the target level of performance.  Mr. Schneider also received a signing bonus of $150,000 and is expected to be granted restricted stock units (“RSUs”) in the Company with a value of $600,000 as of the grant
+      date.  The RSUs will be subject to the Company’s Incentive Plan (as defined below) and vest in one-third installments on each of the first three anniversaries of the date that Mr. Schneider commences his
+      employment with the Company, subject to Mr. Schneider’s continuing employment through the applicable vesting date.  Mr. Schneider’s employment with the Company will become effective on December 9, 2019.
+    
+    
+    On August 9, 2019, the Company entered into an Employment Agreement with Joanne Van Sickle, effective as of the Closing Date, to serve as its Controller.  Pursuant to the terms of Ms. Van Sickle’s Employment Agreement,
+      Ms. Van Sickle will receive an annual base salary of $150,000, and will be eligible to receive an annual bonus based on the achievement of certain annual operating profit targets and other objectives established by the Board, with a target bonus
+      equivalent to $250,000 if all performance goals are satisfied at the target level of performance.
+    
+    
+    On August 9, 2019, the Company entered into an Employment Agreement with Adam Fountain, effective as of the Closing Date, to serve as Executive Vice President of the Company.  Pursuant to the terms of Mr. Fountain’s
+      Employment Agreement, Mr. Fountain will receive an annual base salary of $400,000, and will be eligible to receive an annual bonus based on the achievement of certain annual operating profit targets and other objectives established by the Board, with
+      a target bonus equivalent to $250,000 if all performance goals are satisfied at the target level of performance.
+    
+    
+    The table below sets forth the annual salary and target percentage of salary for bonus as set forth in each executive officer’s Employment Agreement and the expected initial equity award, subject to approval by our
+      Compensation Committee:
+     
+    
+    
+
+        
+           
+           
+          
+            
+              Name
+            
+          
+           
+           
+          
+            
+              Position
+            
+          
+           
+           
+          
+            
+              Annual Base
+               Salary
+            
+          
+           
+           
+          
+            
+              Target Percentage
+               of Annual Salary for
+               Bonus
+            
+          
+           
+           
+          
+            
+              Shares of
+               Broadmark
+               Realty Common
+               Stock subject to
+               expected RSU
+               Award
+            
+          
+           
+        
+        
+           
+           
+          
+            Jeffrey Pyatt
+          
+           
+           
+          
+            Chief Executive Officer
+          
+           
+           
+          
+            $
+          
+          
+            400,000
+          
+           
+           
+           
+          
+            62.5
+          
+          
+            %
+          
+           
+           
+          
+            95,694
+          
+           
+        
+        
+           
+           
+          
+            David Schneider
+          
+           
+           
+          
+            Chief Financial Officer
+          
+           
+           
+          
+            $
+          
+          
+            350,000
+          
+           
+           
+           
+          
+            71.4
+          
+          
+            %
+          
+           
+           
+          
+            57,416
+          
+           
+        
+        
+           
+           
+          
+            Joanne Van Sickle
+          
+           
+           
+          
+            Controller
+          
+           
+           
+          
+            $
+          
+          
+            150,000
+          
+           
+           
+           
+          
+            166.7
+          
+          
+            %
+          
+           
+           
+          
+            —
+          
+           
+        
+        
+           
+           
+          
+            Adam Fountain
+          
+           
+           
+          
+            Executive Vice President
+          
+           
+           
+          
+            $
+          
+          
+            400,000
+          
+           
+           
+           
+          
+            62.5
+          
+          
+            %
+          
+           
+           
+          
+            71,770
+          
+           
+        
+
+    
+    
+    
+    In the event that the Company terminates the employment of any of its executive officers without “Cause” (as defined in the Employment Agreements), subject to the applicable executive officer entering into a release of
+      claims provided by the Company, such executive officer is entitled to receive severance benefits of 24 months of continued base salary (or 12 months of continued base salary, in the case of David Schneider).
+    
+    
+    The foregoing description of the Employment Agreements is not a complete description thereof and is qualified in its entirety by reference to the full text of the fully-executed the Employment Agreements, which are
+      attached hereto as Exhibits 10.1 through 10.4 and are incorporated herein by reference.
+    
+    
+    Warrant Agreement Amendments
+    
+    
+    In connection with the Business Combination, warrant holders who held public warrants (the “Trinity Public Warrants”) and private warrants (the “Trinity Private Placement Warrants” and, together with the Trinity Public
+      Warrants, the “Trinity Warrants”) of Trinity approved an amendment (the “Initial Warrant Amendment”) to the terms of Trinity’s Warrant Agreement.  Upon the completion of the Business Combination, (i) the anti-dilution provisions contained in Section
+      4.1.2 of the Warrant Agreement relating to the payment of cash dividends and applicable to both the Trinity Public Warrants and the Trinity Private Placement Warrants were amended; (ii) each of the outstanding Trinity Public Warrants, which entitled
+      the holder thereof to purchase one share of Trinity’s Class A common stock, par value $0.0001 per share (the “Trinity Class A Common Stock”), at an exercise price of $11.50 per share, became exercisable for one-quarter of one share at an exercise
+      price of $2.875 per one-quarter share ($11.50 per whole share), and (iii) each holder of a Trinity Public Warrant received, for each such Trinity Public Warrant (in exchange for the reduction in the number of shares for which such Trinity Public
+      Warrants are exercisable), a cash payment of $1.60.
+    
+      1
+      
+        
+    
+    Upon consummation of the Business Combination, each outstanding Trinity Public Warrant automatically converted into an equal number of warrants issued by the Company and publicly traded (the “Company Public Warrants”)
+      and each of Trinity Private Placement Warrants automatically converted into an equal number of warrants issued by the Company and privately held (the “Company Private Placement Warrants”) and, together with the Company Public Warrants, the “Company
+      Warrants”), and became exercisable on the same terms as were in effect with respect to such Trinity Public Warrants or Trinity Private Placement Warrants, respectively, immediately prior to the Business Combination, as amended by the Initial Warrant
+      Amendment.  Pursuant to the Initial Warrant Amendment, a holder of Trinity Public Warrants may not exercise its Trinity Public Warrants for fractional shares of Broadmark Realty Common Stock and therefore only four Trinity Public Warrants (or a
+      number of Trinity Public Warrants evenly divisible by four) may be exercised at any given time by the holder of Trinity Public Warrants.  In addition, on the Closing Date, the Company entered into a subsequent amendment to the terms of Trinity’s
+      Warrant Agreement (the “Second Warrant Amendment” and, together with the Initial Warrant Amendment, the “Warrant Amendments”), pursuant to which Continental Stock Transfer & Trust Co. resigned as agent under the Warrant Agreement and American
+      Stock Transfer & Trust Company, LLC, the Company’s transfer agent, was appointed as agent under the Warrant Agreement.
+    
+    
+    The summary of the Warrant Amendments is qualified in its entirety by reference to the text of the Warrant Amendments, which are included as Exhibits 4.4 and 4.5 to this Report and are incorporated herein by reference.
+    
+    
+    
+      
+        
+
+            
+              Item 2.01.
+              
+                Completion of Acquisition or Disposition of Assets
+              
+            
+
+        
+      
+    
+    
+    
+    The information set forth in the “Introductory Note” above is incorporated by reference into this Item 2.01.  On November 12, 2019, the Business Combination was approved by the stockholders of Trinity at the Special
+      Meeting.  In connection with the closing of the Business Combination (the “Closing”), 7,899,028 shares of Trinity Class A Common Stock were redeemed at a per share price of approximately $10.45352229.  Upon the Closing on November 14, 2019, the
+      Company consummated the transactions contemplated by the Merger Agreement.
+    
+    
+    Pursuant to the Merger Agreement, each share of Trinity Class A Common Stock and Class B common stock, par value $0.0001 per share, (the “Trinity Class B Common Stock” and together with the Trinity Class A Common Stock,
+      the “Trinity Common Stock”), issued and outstanding immediately prior to the effective time of the Trinity Merger (excluding the Trinity Common Stock redeemed in the Offer (as defined in the Merger Agreement) and surrendered by HN Investors LLC (the
+      “ Trinity Sponsor”)) was cancelled and retired and automatically converted into the right to receive one share of common stock, par value $0.001 per share, of the Company (“Broadmark Realty Common Stock”), subject to adjustment under certain limited
+      circumstances.  The Trinity Sponsor surrendered and transferred to the Company, for no consideration and as a contribution to the capital of Trinity, (a) 3,801,360 shares of Trinity Class B Common Stock and (b) 7,163,324 outstanding Trinity Private
+      Placement Warrants, in each case pursuant to and in accordance with the terms of the Sponsor Agreement (as defined in the Merger Agreement).
+    
+    
+    For each Broadmark Company, each preferred unit (“Company Preferred Unit”) issued and outstanding immediately prior to the effective time of the Company Merger was be cancelled and retired and automatically converted
+      into the right to receive a number of shares of Broadmark Realty Common Stock equal to (A) the Company Preferred AUM (as defined in the Merger Agreement) applicable to the Broadmark Company in which the Company Preferred Unit was held, (B) divided by
+      the number of Company Preferred Units of such Broadmark Company outstanding as of immediately prior to the effective time of the Company Merger, and (C) divided by $10.45352229, subject to adjustment under certain limited circumstances.  The
+      “Reference Price,” determined to be $10.45352229, is the value of the funds held by Trinity in the account established for the benefit of its stockholders, net of certain taxes and determined as of the close of business on the business day
+      immediately preceding the date of Closing, divided by the outstanding number of shares of Trinity Class A Common Stock.
+    
+      2
+      
+        
+    
+    For each Broadmark Company, each common unit (“Company Common Unit”) issued and outstanding immediately prior to the effective time of the Company Merger was cancelled and retired and automatically converted into the
+      right to receive a number of shares of Broadmark Realty Common Stock equal to (A) the Company Common Consideration (as defined in the Merger Agreement), (B) divided by the Reference Price, and (C) after payment of certain fees and expenses related to
+      the termination of certain referral agreements, allocated among the Companies and the Company Common Units, subject to adjustment under certain limited circumstances.  The Company Common Consideration was approximately $64.34 million in shares of
+      Broadmark Realty Common Stock at a price per share equal to $10.45352229.
+    
+    
+    For each Management Company, each unit (“Management Company Unit”) issued and outstanding immediately prior to the effective time of the Management Company Merger was cancelled and retired and automatically converted
+      into the right to receive, after payment of certain fees and expenses related to the termination of certain referral agreements, the Management Company Consideration (as defined in the Merger Agreement) allocated among the Management Companies and
+      the Management Company Units.  The Management Company Consideration was an amount equal to approximately $98.16 million in cash, subject to adjustment for certain transaction expenses and indebtedness.
+    
+    
+    Pursuant to the Merger Agreement, each Trinity Warrant that was issued and outstanding immediately prior to the effective time of the Trinity Merger was automatically and irrevocably modified to provide that such Trinity
+      Warrant will entitle the holder thereof to acquire such equal number of shares of Broadmark Realty Common Stock per Trinity Warrant.  Upon the completion of the Business Combination, the Company entered into the Warrant Amendments.  A description of
+      each Warrant Amendment is contained under “Entry into a Material Definitive Agreement” above and is incorporated herein by reference.
+    
+    
+    In connection with the Business Combination and concurrently with the execution of the Merger Agreement, the Company entered into certain subscription agreements (the “PIPE Subscription Agreements”) with Farallon Capital
+      Partners, L.P., Farallon Capital Institutional Partners, L.P., Farallon Capital Institutional Partners II, L.P., Farallon Capital Institutional Partners III, L.P., Four Crossings Institutional Partners V, L.P., and Farallon Capital (AM) Investors,
+      L.P., each an entity affiliated with Farallon Capital Management, L.L.C. (collectively, the “Farallon Entities”), for a private placement of Broadmark Realty Common Stock, pursuant to which the Company issued and sold to the Farallon Entities
+      approximately $75.0 million of shares of Broadmark Realty Common Stock in the aggregate immediately prior to the consummation of the Business Combination at a price per share equal to the Reference Price (the “PIPE Investment”).  The PIPE Investment
+      was conditioned on the substantially concurrent closing of the Mergers and other customary closing conditions.  The proceeds from the PIPE Investment will be used, among other things, to help to fund the ongoing business operations of the Company. 
+      The summary of the PIPE Investment is qualified in its entirety by reference to the text of the PIPE Subscription Agreements, which are included as Exhibit 10.5 to this Report and are incorporated herein by reference.
+    
+    
+    Immediately after the Closing, the Company had 132,014,635 shares of Broadmark Realty Common Stock outstanding, 41,674,613 Company Public Warrants outstanding and 5,186,676 Company Private Placement Warrants
+      outstanding.  The Broadmark Realty Common Stock is listed on The New York Stock Exchange (“NYSE”) under the ticker symbol “BRMK” and the Company Public Warrants are listed on the NYSE American LLC (“NYSE Amex”) under the ticker symbol “BRMK WS.”
+    
+    
+    FORM 10 INFORMATION
+    
+    
+    Item 2.01(f) of the Current Report on Form 8-K states that, if the registrant was a shell company, other than a business combination related shell company, as those terms are defined in Rule 12b-2 under the Securities
+      Exchange Act of 1934, as amended (the “Exchange Act”), immediately before a transaction involving the acquisition or disposition of a significant amount of assets, otherwise than in the ordinary course of business, the registrant must include herein
+      the information that would be required if the registrant were filing a general form for registration of securities on Form 10 under the Exchange Act reflecting all classes of the registrant’s securities subject to the reporting requirements of
+      Section 13 or Section 15(d) of the Exchange Act upon consummation of the transaction.
+    
+    
+    Item 2.01(f) of the Current Report on Form 8-K further states that, if any disclosure required by such Item 2.01(f) is previously reported, as such term is defined in Rule 12b-2 under the Exchange Act, the registrant may
+      identify the filing in which such disclosure is included instead of including such disclosure in the Current Report on Form 8-K.
+    
+      3
+      
+        
+    
+    Cautionary Note Regarding Forward-Looking Statements
+    
+    
+    This Report and the exhibits attached hereto contain “forward-looking statements” within the meaning of the federal securities laws.  Forward-looking statements relate to expectations, beliefs, projections, future plans
+      and strategies, anticipated events or trends and similar expressions concerning matters that are not historical facts.  Forward-looking statements reflect the Company’s current views with respect to, among other things, capital resources, portfolio
+      performance and results of operations.  Likewise, the Company’s consolidated financial statements and statements regarding anticipated growth in its operations, anticipated market conditions, demographics and results of operations are forward-looking
+      statements.  In some cases, you can identify these forward-looking statements by the use of terminology such as “outlook,” “believes,” “expects,” “potential,” “continues,” “may,” “will,” “should,” “could,” “seeks,” “approximately,” “predicts,”
+      “intends,” “plans,” “estimates,” “anticipates” or the negative version of these words or other comparable words or phrases.
+    
+    
+    The forward-looking statements contained in this Report and the exhibits attached hereto are based on the Company’s current expectations and beliefs concerning future developments and their potential effects on the
+      Company.  There can be no assurance that future developments affecting the Company will be those that it has anticipated.  Actual results may differ materially from those in the forward-looking statements.  Some factors that could cause the Company’s
+      actual results to differ include:
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                general economic uncertainty and the effect of general economic conditions on the real estate and real estate capital markets in particular;
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                financing risks;
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                changes in laws or regulations or interpretations of current laws and regulations that impact the Company’s business, assets or classification as a REIT;
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                the Company’s ability to manage future growth;
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                changes in personnel and availability of qualified personnel; and
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                other risks and uncertainties indicated in this Report and from time to time in filings made with the Commission.
+              
+            
+
+        
+      
+    
+    
+    
+    These forward-looking statements involve a number of risks, uncertainties (some of which are beyond the Company’s control) or other assumptions that may cause actual results or performance to be materially different from
+      those expressed or implied by these forward-looking statements.  These risks and uncertainties include, but are not limited to, those factors described under the section of this Report entitled “Risk Factors.”
+      Should one or more of these risks or uncertainties materialize, or should any of the assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements.  The Company undertakes no
+      obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+    
+    
+    Business
+    
+    
+    The information required by this item is contained in the Prospectus, in the sections entitled “Summary of the Joint Proxy Statement/Prospectus—Parties to the Business Combination” beginning on page 1 of the Prospectus,
+      “Summary of the Joint Proxy Statement/Prospectus—The Business Combination” beginning on page 2 of the Prospectus, “Risk Factors—Risks Related to the Company Group” beginning on page 26 of the Prospectus, “Risk Factors—Risks Related to the Company
+      Group’s Business” beginning on page 26 of the Prospectus, “Risk Factors—Market Risks Related to Real Estate Loans,” beginning on page 29 of the Prospectus, “Risk Factors—Risks Related to the Company Group’s Loan Portfolio” beginning on page 31 of the
+      Prospectus, “Risk Factors—Risks Related to Broadmark Realty’s REIT Qualification and Investment Company Exemption Following the Business Combination” beginning on page 36 of the Prospectus, “Risk Factors—Risks Related to Ownership of Broadmark Realty
+      Common Stock” beginning on page 49 of the Prospectus, “Business of the Company Group and Certain Information About the Company Group” beginning on page 188 of the Prospectus, and “Company Group Management’s Discussion and Analysis of Financial
+      Condition and Results of Operations” beginning on page 205 of the Prospectus, which is incorporated herein by reference.
+    
+      4
+      
+        
+    
+    Risk Factors
+    
+    
+    The information required by this item is contained in the Prospectus, in the section entitled “Risk Factors” beginning on page 24 of the Prospectus, which is incorporated herein by reference – specifically, subsections
+      “Risk Factors—Risks Related to the Company Group” beginning on page 26 of the Prospectus, “Risk Factors—Risks Related to the Company Group’s Business” beginning on page 26 of the Prospectus, “Risk Factors—Market Risks Related to Real Estate Loans,”
+      beginning on page 29 of the Prospectus, “Risk Factors—Risks Related to the Company Group’s Loan Portfolio” beginning on page 31 of the Prospectus, “Risk Factors—Risks Related to Broadmark Realty’s REIT Qualification and Investment Company Exemption
+      Following the Business Combination” beginning on page 36 of the Prospectus, and “Risk Factors—Risks Related to Ownership of Broadmark Realty Common Stock” beginning on page 49 of the Prospectus, which is incorporated herein by reference.
+    
+    
+    Financial Information.
+    
+    
+    The information required by this item is contained in the Prospectus, in the sections entitled “Summary of the Joint Proxy Statement/Prospectus—Summary Historical Financial Data of the Company Group” beginning on page 11
+      of the Prospectus, “Summary of the Joint Proxy Statement/Prospectus—Summary Pro Forma Financial Information” beginning on page 22 of the Prospectus, “Selected Historical Financial Data of the Company Group” beginning on page 133 of the Prospectus,
+      “Unaudited Pro Forma Condensed Combined Financial Information” beginning on page 145 of the Prospectus, “Company Group Management’s Discussion and Analysis of Financial Condition and Results of Operations” beginning on page 205 of the Prospectus, and
+      “Quantitative and Qualitative Disclosures about Market Risk” beginning on page 240 of the Prospectus, which is incorporated herein by reference.  Reference is also made to the disclosure set forth under Item 9.01 of this Report concerning the
+      financial information of the Company and Exhibits 99.2, 99.3 and 99.4 hereto.
+    
+    
+    Properties
+    
+    
+    The Company’s principal executive offices are located at 1420 Fifth Avenue, Suite 2000, Seattle, Washington 98101.
+    
+    
+    Security Ownership of Certain Beneficial Owners and Management.
+    
+    
+    The following information table sets forth information known to the Company regarding the beneficial ownership of Broadmark Realty Common Stock as of November 14, 2019 by:
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                each person known to the Company to be the beneficial owner of more than 5% of outstanding shares of Broadmark Realty Common Stock;
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                each of the Company’s executive officer or director; and
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              
+              
+              •
+              
+                all executive officers and directors of the Company as a group.
+              
+            
+
+        
+      
+    
+    
+    
+    Beneficial ownership is determined according to the rules of the Commission, which generally provide that a person has beneficial ownership of a security if such person possesses sole or shared
+      voting or investment power over that security, including options and warrants that are currently exercisable or exercisable within 60 days.  Shares of Broadmark Realty Common Stock issuable upon exercise of options and Company Warrants currently
+      exercisable within 60 days are deemed outstanding solely for purposes of calculating the percentage of total voting power of the beneficial owner thereof.
+    
+    
+    The beneficial ownership of Broadmark Realty Common Stock is based on 132,014,635 shares of Broadmark Realty Common Stock issued and outstanding as of November 14, 2019.
+    
+      5
+      
+        
+    
+    
+
+        
+          
+            
+              Name and Address of Beneficial Owner(1)
+            
+          
+           
+          
+            
+              Shares Beneficially Owned(2)
+            
+          
+           
+           
+          
+            
+              Percentage of Outstanding
+              Broadmark Realty Common Stock
+            
+          
+           
+        
+        
+          
+            Joseph L. Schocken(3)
+          
+           
+           
+          
+            1,987,963
+          
+           
+           
+           
+          
+            1.51
+          
+          
+            %
+          
+        
+        
+          
+            Jeffrey B. Pyatt(4)
+          
+           
+           
+          
+            2,500,960
+          
+           
+           
+           
+          
+            1.89
+          
+          
+            %
+          
+        
+        
+          
+            Stephen G. Haggerty(5)
+          
+           
+           
+          
+            —
+          
+           
+           
+           
+          
+            *
+          
+           
+        
+        
+          
+            Daniel J. Hirsch(6)
+          
+           
+           
+          
+            —
+          
+           
+           
+           
+          
+            *
+          
+           
+        
+        
+          
+            Kevin Luebbers(7)
+          
+           
+           
+          
+            —
+          
+           
+           
+           
+          
+            *
+          
+           
+        
+        
+          
+            Norma Lawrence
+          
+           
+           
+          
+            —
+          
+           
+           
+           
+          
+            *
+          
+           
+        
+        
+          
+            David Karp
+          
+           
+           
+          
+            —
+          
+           
+           
+           
+          
+            *
+          
+           
+        
+        
+          
+            David Schneider
+          
+           
+           
+          
+            —
+          
+           
+           
+           
+          
+            *
+          
+           
+        
+        
+          
+            Joanne Van Sickle
+          
+           
+           
+          
+            413,288
+          
+           
+           
+           
+          
+            *
+          
+           
+        
+        
+          
+            Adam J. Fountain(8)
+          
+           
+           
+          
+            607,773
+          
+           
+           
+           
+          
+            *
+          
+           
+        
+        
+          
+            Farallon Capital Management LLC(9)
+          
+           
+           
+          
+            11,359,802
+          
+           
+           
+           
+          
+            8.34
+          
+          
+            %
+          
+        
+        
+          
+            HN Investors LLC(10)
+          
+           
+           
+          
+            10,010,136
+          
+           
+           
+           
+          
+            7.30
+          
+          
+            %
+          
+        
+        
+          
+            All expected directors and officers as a group
+            (post-Business Combination) (10 individuals)(11)
+          
+           
+           
+          
+            5,509,984
+          
+           
+           
+           
+          
+            4.17
+          
+          
+            %
+          
+        
+
+    
+    __________
+    
+    
+    
+      
+        
+
+            
+              *
+              
+                Less than 1%
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (1)
+              
+                Unless otherwise noted, the business address of each of the following entities or individuals is 1420 Fifth Avenue, Suite 2000, Seattle, WA 98101.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (2)
+              
+                The numbers in this column include Company Warrants, each of which is convertible into one share of Broadmark Realty Common Stock.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (3)
+              
+                Includes 44,664 shares held directly by Mr. Schocken, 189,039 shares held by Tranceka, LLC, 229,588 shares held by Broadmark Capital LLC, and 1,524,672 shares held by Tranceka Holdings, LLC.  Mr. Schocken is the beneficial owner of the
+                  shares held by Tranceka, LLC, Broadmark Capital LLC and Tranceka Holdings, LLC as he holds voting and dispositive power over such shares.  Interest shown does not include the 95,694 RSUs anticipated to be awarded to Mr. Schocken following
+                  the closing of the Business Combination.  One third of the RSUs will vest into an equal number of shares of Broadmark Realty Common Stock on the first anniversary of the issuance of the RSUs, with the remaining two-thirds vesting equally
+                  every month for two years after the first anniversary of the issuance.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (4)
+              
+                Includes 13,337 shares held by Mr. Pyatt and his wife, and 2,487,623 shares held by Pyatt Lending Company, LLC.  Mr. Pyatt and his spouse are the beneficial owners of the shares held by Pyatt Lending Company, LLC, as they share voting
+                  and dispositive power over such shares.  Interest shown does not include the 95,694 RSUs anticipated to be awarded to Mr. Pyatt following the closing of the Business Combination.  One third of the RSUs will vest into an equal number of
+                  shares of Broadmark Realty Common Stock on the first anniversary of the issuance of the RSUs, with the remaining two-thirds vesting equally every month for two years after the first anniversary of the issuance.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (5)
+              
+                Mr. Haggerty does not beneficially own any shares of Broadmark Realty Common Stock or Company Warrants.  However, Mr. Haggerty has a pecuniary interest in the Company’s shares of Broadmark Realty Common Stock and Company Private
+                  Placement Warrants owned by Trinity Sponsor, including through Mr. Haggerty’s ownership of an interest in Trinity Sponsor and in Trinity Real Estate Investments LLC, a Delaware limited liability company and an entity with which Trinity
+                  Sponsor is affiliated (“Trinity Investments”).  In the aggregate, taking into account his ownership interests in both Trinity Sponsor and Trinity Investments, Mr. Haggerty is expected to have a direct or indirect ownership interest in
+                  597,105 shares of Broadmark Realty Common Stock and 210,558 Company Private Placement Warrants to acquire additional 210,558 shares of Broadmark Realty Common Stock, representing, in the aggregate, less than 1% beneficial ownership
+                  interest by Mr. Haggerty in the Company to the extent these securities are deemed to be beneficially owned by him.
+              
+            
+
+        
+      
+    
+    
+      6
+      
+        
+    
+    
+      
+        
+
+            
+              (6)
+              
+                Mr. Hirsch does not beneficially own any shares of Broadmark Realty Common Stock or Company Warrants.  However, since January 2019, Mr. Hirsch has served as a consultant to Trinity Investments pursuant to a consulting agreement, as
+                  discussed under “Certain Relationships and Related Person Transactions” beginning on page 300 of the Prospectus.  Mr. Hirsch’s consulting agreement provides for a success fee payable by Trinity Investments to Mr. Hirsch in connection with
+                  the completion of the Business Combination, pursuant to which Mr. Hirsch will receive 137,305 shares of Broadmark Realty Common Stock and 259 of the Company Private Placement Warrants held by Trinity Sponsor and expected to be transferred
+                  to Trinity Investments following the expiration of the lock-up agreement to which Trinity Sponsor is a party.  These shares of Broadmark Realty Common Stock and these Company Warrants are expected to represent, in the aggregate, a less
+                  than 1% beneficial ownership interest by Mr. Hirsch in the Company.  Instead of transferring these securities to Mr. Hirsch, Trinity Investments may, at its election, pay the success fee in cash in an amount equal to the value of these
+                  securities.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (7)
+              
+                Mr. Luebbers does not beneficially own any shares of Broadmark Realty Common Stock or Company Warrants.  However, Mr. Luebbers has served as a consultant to Trinity Investments since October 2019 pursuant to a consulting agreement. 
+                  Mr. Luebbers’s consulting agreement provides for a success fee payable by Trinity Investments to Mr. Luebbers in connection with the completion of the Business Combination, pursuant to which Mr. Luebbers will receive 137,305 shares of
+                  Broadmark Realty Common Stock and 259 of the Company Private Placement Warrants held by Trinity Sponsor and expected to be transferred to Trinity Investments following the expiration of the lock-up agreement to which Trinity Sponsor is a
+                  party.  These shares of Broadmark Realty Common Stock and these Company Warrants are expected to represent, in the aggregate, a less than 1% beneficial ownership interest by Mr. Luebbers in the Company.  Instead of transferring these
+                  securities to Mr. Luebbers, Trinity Investments may, at its election, pay the success fee in cash in an amount equal to the value of these securities.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (8)
+              
+                Interest shown does not include the 71,770 RSUs anticipated to be awarded to Mr. Fountain following the closing of the Business Combination.  One third of the RSUs will vest into an equal number of shares of Broadmark Realty Common
+                  Stock on the first anniversary of the issuance of the RSUs, with the remaining two-thirds vesting equally every month for two years after the first anniversary of the issuance.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (9)
+              
+                
+                  
+                    Includes (i) 7,174,613 shares of Broadmark Realty Common Stock, received as part of the PIPE Investment (including 2,385,559 shares of Broadmark Realty Common Stock directly held by Farallon Capital Partners, L.P. (“FCP”),
+                      3,103,021 shares of Broadmark Realty Common Stock directly held by Farallon Capital Institutional Partners, L.P. (“FCIP”), 573,969 shares of Broadmark Realty Common Stock directly held by Farallon Capital Institutional Partners II,
+                      L.P. (“FCIP II”), 376,667 shares of Broadmark Realty Common Stock directly held by Farallon Capital Institutional Partners III, L.P. (“FCIP III”), 538,096 shares of Broadmark Realty Common Stock directly held by Four Crossings
+                      Institutional Partners V, L.P. (“FCIP V”), and 197,301 shares of Broadmark Realty Common Stock directly held by Farallon Capital (AM) Investors, L.P. (“FCAMI”)), (ii) 2,391,536 shares of Broadmark Realty Common Stock, that may be
+                      issued pursuant to the option under the PIPE Investment (including 795,186 shares of Broadmark Realty Common Stock that may be issued directly to Farallon Capital Partners, L.P., 1,034,340 shares of Broadmark Realty Common Stock that
+                      may be issued directly to Farallon Capital Institutional Partners, L.P., 191,323 shares of Broadmark Realty Common Stock that may be issued directly to Farallon Capital Institutional Partners II, L.P., 125,555 shares of Broadmark
+                      Realty Common Stock that may be issued directly to Farallon Capital Institutional Partners III, L.P., 179,365 shares of Broadmark Realty Common Stock that may be issued directly to Four Crossings Institutional Partners V, L.P., and
+                      65,767 shares of Broadmark Realty Common Stock that may be issued directly to Farallon Capital (AM) Investors, L.P.), and (iii) 1,793,653 shares of Broadmark Realty Common Stock, calculated as one quarter of the 7,174,613 Company
+                      Public Warrants to purchase shares of Broadmark Realty Common Stock received in connection with the PIPE Investment (including 596,390 shares of Broadmark Realty Common Stock calculated based on 2,385,559 Company Public Warrants
+                      directly held by Farallon Capital Partners, L.P., 775,755 shares of Broadmark Realty Common Stock calculated based on 3,103,021 Company Public Warrants directly held by Farallon Capital Institutional Partners, L.P., 143,492 shares of
+                      Broadmark Realty Common Stock calculated based on 573,969 Company Public Warrants directly held by Farallon Capital Institutional Partners II, L.P., 94,167 shares of Broadmark Realty Common Stock calculated based on 376,667 Company
+                      Public Warrants directly held by Farallon Capital Institutional Partners III, L.P., 134,524 shares of Broadmark Realty Common Stock calculated based on 538,096 Company Public Warrants directly held by Four Crossings Institutional
+                      Partners V, L.P., and 49,325 shares of Broadmark Realty Common Stock calculated based on 197,301 Company Public Warrants directly held by Farallon Capital (AM) Investors, L.P.). Farallon Partners, L.L.C. (“FPLLC”), as the general
+                      partner of FCP, FCIP, FCIP II, FCIP III, and FCAMI (the “FPLLC Entities”), may be deemed to beneficially own such shares of Broadmark Realty Common Stock received as part of the PIPE Investment, issued pursuant to the option under the
+                      PIPE Investment and Company Public Warrants received in connection with the PIPE Investment held by or issuable to each of the FPLLC Entities. Farallon Institutional (GP) V, L.L.C. (“FCIP V GP”), as the general partner of FCIP V, may
+                      be deemed to beneficially own shares of Broadmark Realty Common Stock received as part of the PIPE Investment, issued pursuant to the option under the PIPE Investment and Company Public Warrants received in connection with the PIPE
+                      Investment held by or issuable to FCIP V. Each of Philip D. Dreyfuss, Michael B. Fisch, Richard B. Fried, David T. Kim, Monica R. Landry, Michael G. Linn, Rajiv A. Patel, Thomas G. Roberts, Jr., William Seybold, Andrew J. M. Spokes,
+                      John R. Warren and Mark C. Wehrly (collectively, the “Farallon Managing Members”), as a (i) managing member of FPLLC or (ii) manager or senior manager, as the case may be, of FCIP V GP, in each case with the power to exercise
+                      investment discretion with respect to the shares that may be deemed to be beneficially owned by FPLLC or FCIP V GP, may be deemed to beneficially own such shares of Broadmark Realty Common Stock received as part of the PIPE
+                      Investment, issued pursuant to the option under the PIPE Investment and Company Public Warrants received in connection with the PIPE Investment held by or issuable to the FPLLC Entities or FCIP V. Each of FPLLC, FCIP V GP and the
+                      Farallon Managing Members disclaims beneficial ownership of any such shares of Broadmark Realty Common Stock received as part of the PIPE Investment, issued pursuant to the option under the PIPE Investment and Company Public Warrants
+                      received in connection with the PIPE Investment, except as to securities representing its pro rata interest in, and interest in the profits of, the FPLLC Entities and FCIP V. The address for each of the entities and individuals
+                      identified in this footnote is One Maritime Plaza, Suite 2100, San Francisco, California 94111.
+                  
+                
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (10)
+              
+                Includes (i) 4,823,640 shares of Broadmark Realty Common Stock, and (ii) 5,186,676 shares of Broadmark Realty Common Stock, calculated as one share per Company Private Placement Warrant to purchase shares of Broadmark Realty Common
+                  Stock.  The securities are held directly by the Trinity Sponsor.  Sean A. Hehir and Lee S. Neibart (together with the Trinity Sponsor, the “Reporting Persons”) are the managers of the Trinity Sponsor and share voting and investment
+                  discretion with respect to the Broadmark Realty Common Stock held of record by the Trinity Sponsor. As a result, each of the Reporting Persons may be deemed to have or share beneficial ownership of the securities held directly by the
+                  Trinity Sponsor. Each of the Reporting Persons disclaims beneficial ownership of such securities except to the extent of their respective pecuniary interest therein, directly or indirectly.  A majority of the shares of the Broadmark
+                  Realty Common Stock and a lesser amount of Company Private Placement Warrants to acquire shares of Broadmark Realty Common Stock held by the Trinity Sponsor are expected to be transferred to Trinity Investments following expiration of the
+                  lock-up restrictions applicable to the Trinity Sponsor.
+              
+            
+
+        
+      
+    
+    
+    
+    
+      
+        
+
+            
+              (11)
+              
+                The group comprises Joseph L. Schocken (as non-executive chairman of the Board), Jeffrey B. Pyatt (Chief Executive Officer and director), Stephen G. Haggerty (director), Daniel J. Hirsch (director), Kevin Luebbers (director), Norma
+                  Lawrence (director), David Karp (director), David Schneider (Chief Financial Officer), Joanne Van Sickle (Controller) and Adam Fountain (Executive Vice President).
+              
+            
+
+        
+      
+    
+    
+      7
+      
+        
+    
+    Directors and Executive Officers.
+    
+    
+    Directors
+    
+    
+    Effective as of the Closing, in connection with the Business Combination, the size of the Board was increased to seven members and Sean A. Hehir resigned from the Board.  The resignation of Mr. Hehir was not the result
+      of any disagreement with the Company.  Effective as of the Closing Date, the Board appointed Joseph L. Schocken, Jeffrey B. Pyatt, Daniel J. Hirsch, Kevin M. Luebbers, David Karp and Norma Lawrence to the Board, with a term expiring at the Company’s
+      annual meeting of stockholders in 2020. Immediately following the Closing, the Board consisted of Messrs. Schocken, Pyatt, Hirsch, Luebbers, Karp and Stephen G. Haggerty, and Ms. Lawrence.  Information with respect to each of the Company’s directors
+      is contained in the Prospectus, in the section entitled “Management Following the Business Combination” beginning on page 255 of the Prospectus, which is incorporated herein by reference, and in the Company’s Current Report on Form 8-K filed on October 31, 2019.
+    
+    
+    Independence of Directors
+    
+    
+    Pursuant to the listing rules of the NYSE, the Company is required to have a majority of independent directors serving on the Board.  The Company’s Board has determined that Ms. Lawrence and Messrs. Hirsch, Luebbers,
+      Karp and Haggerty are independent within the meaning of Section 303A.02 of the NYSE Listing Manual.  Certain of our directors have from time to time been directors at companies on whose board of directors other of our directors have served.
+    
+    
+    Committees of the Board of Directors
+    
+    
+    Following the Closing, the standing committees of the Company’s Board consist of an audit committee (the “Audit Committee”), a compensation committee (the “Compensation Committee”), and a nominating and corporate
+      governance committee (the “Nominating and Corporate Governance Committee”).  Each of the committees reports to the Board.
+    
+    
+    Following the Closing, the Board appointed Messrs. Karp and Luebbers and Ms. Lawrence to serve on the Audit Committee, with Mr. Luebbers serving as its Chairperson.  The Board appointed Messrs. Haggerty and Hirsch and
+      Ms. Lawrence to serve on the Compensation Committee, with Mr. Haggerty serving as its Chairperson.  Messrs. Hirsch, Karp and Leubbers were appointed to serve on the Nominating and Corporate Governance Committee, with Mr. Hirsch serving as
+      Chairperson.
+    
+    
+    The biographical information about each of the directors and officers following the Business Combination and information with respect to the Company’s Audit Committee, Compensation Committee and Nominating and Corporate
+      Governance Committee functions are described in the Prospectus, in the sections entitled “Management Following the Business Combination” beginning on page 255 and in the Company’s Form 8-K, filed with the Commission on October 31, 2019, which are incorporated herein by reference.
+    
+    
+    Executive Officers
+    
+    
+    In connection with and effective as of the Closing, Sean A. Hehir resigned as the Chief Executive Officer, President, Chief Financial Officer and Treasurer of the Company.  Immediately following the Closing, the
+      following individuals were executive officers of the Company:
+    
+    
+    
+
+        
+          
+            
+              Name
+            
+          
+           
+           
+          
+            
+              Position
+            
+          
+        
+        
+          
+            Jeffrey Pyatt
+          
+           
+           
+          
+            Chief Executive Officer and Director
+          
+        
+        
+          
+            David Schneider
+          
+           
+           
+          
+            Chief Financial Officer
+          
+        
+        
+          
+            Joanne Van Sickle
+          
+           
+           
+          
+            Controller
+          
+        
+        
+          
+            Adam Fountain
+          
+           
+           
+          
+            Executive Vice President
+          
+        
+
+    
+    
+    
+    On August 9, 2019, the Company entered into Employment Agreements with Messrs. Pyatt and Fountain and Ms. Van Sickle, and on November 14, 2019, the Company entered into an Employment Agreement with Mr. Schneider.  The
+      description of the Employment Agreements under “Entry into a Material Definitive Agreement—Executive Employment Agreements” above is incorporated herein by reference.
+    
+      8
+      
+        
+    
+    Jeffrey B. Pyatt serves as the Chief Executive Officer and Director of the Company.  Prior to the Business Combination he  served as President of MgCo I since
+      he co-founded it in 2010 and has served as a member of the board of directors of each of the Companies since their inception and, directly or indirectly, as a member of the board of managers of each of the Management Companies since their inception. 
+      Prior to founding MgCo I, Mr. Pyatt co-founded and managed a private lending fund, Private Lenders Group, from 2004 to 2009.  Mr. Pyatt has served on the boards for three different Boys and Girls Clubs as well as numerous other non-profits.  Mr.
+      Pyatt received a Bachelor of Science in accounting from the University of Denver and a master’s degree in taxation from the University of Denver College of Law.
+    
+    
+    David Schneider is expected to serve as the Chief Financial Officer of the Company starting on December 9, 2019.  Prior to joining the Company, he served as
+      Managing Director and Chief Accounting Officer of New Residential Investment Corp. since May 2018, and has previously served as Senior Vice President and Comptroller on the same company since May 2014.  Previously, Mr. Schneider served in various
+      other senior financial and regulatory reporting roles, including Vice President of Corporate Accounting Policy at JPMorgan Chase, Director of Global Accounting Policy and Advisory at American Express, and Assistant Vice President of Internal Audit at
+      Credit Suisse.  Mr. Schneider is a licensed certified public accountant in New York, and a member of the New York State Society of Certified Public Accountants.  Mr. Schneider is a graduate of Fordham University with a Bachelor of Science in
+      Accounting.
+    
+    
+    Joanne Van Sickle serves as the Controller of the Company.  Prior to the Business Combination she served as Controller for the Management Companies since 2010. 
+      In addition, she has served as a member of the board of directors of each of the Companies since their inception.  Prior to joining the Company Group, Ms. Van Sickle worked from 2005 through 2010 as a controller for a Washington based private lending
+      fund, Private Lenders Group.  Prior to that, Ms. Van Sickle maintained a private accounting practice from 1991 to 2004.  Ms. Van Sickle began her career in 1983 serving as a certified public accountant in the auditing department of Touche Ross.  Ms.
+      Van Sickle has served as a member of the board of directors for The Glaser Foundation since 2016, and was the organization’s administrator from 1991 to 2015.  Ms. Van Sickle received a B.A. from Central Washington University.
+    
+    
+    Adam J. Fountain serves as the Executive Vice President of the Company.  Prior to the Business Combination he was a partner in each of the Management Companies
+      and oversees day to day management of the Companies.  In addition, he serves as a member of the loan review committee and as a member of the board of directors of each of the Companies.  He has served as Managing Director at Broadmark Capital since
+      2013, where he is responsible for investor and client sourcing, transaction management and all activities related to Broadmark Capital’s merchant banking function.  Mr. Fountain originally joined Broadmark Capital in 2003 as an associate focused on
+      client sourcing and transaction management in the life sciences sector and has held positions of increasing responsibilities with Broadmark Capital since then.  Prior to joining Broadmark Capital, Mr. Fountain was an associate at L.E.K.  Consulting,
+      an international strategic consulting firm from 2001 to 2003.  Since 2017, Mr. Fountain has served on the board of directors of the Seattle Opera and currently serves as the chair of the development committee.  Mr. Fountain received a B.A. in
+      international relations from Stanford University.
+    
+    
+    Executive Compensation.
+    
+    
+    The information required by this item is contained in the information set forth under “Entry into a Material Definitive Agreement” above and is incorporated herein by reference.  The compensation for the Company’s
+      executive officers before the Closing Date is described in the Prospectus in the sections entitled “The Company Group Management—Named Executive Officer Compensation” beginning on page 203, and “Information About Trinity—Officer and Director
+      Compensation” which information is incorporated herein by reference.  The general compensation programs of the Company’s executive officers after the Business Combination are described in the section of the Prospectus entitled “Management Following
+      the Business Combination—Non-Employee Director and Officer Compensation” beginning on page 257, which information is incorporated herein by reference.
+    
+    
+    At the Special Meeting, stockholders of Trinity approved and adopted the Broadmark Realty Capital Inc. 2019 Stock Incentive Plan (the “Incentive Plan”), pursuant to which a total of 5,000,000 shares of Broadmark Realty
+      Common Stock will be reserved for issuance under the Incentive Plan. A description of the Incentive Plan is set forth in the section of the Prospectus entitled “Proposals to be Considered by Trinity’s Stockholders—Proposal No. 2—Approval and Adoption
+      of the Incentive Plan” beginning on page 171 of the Prospectus and is incorporated herein by reference.  A copy of the complete text of the Incentive Plan is filed as Exhibit 10.6 to this Report and is incorporated herein by reference.
+    
+      9
+      
+        
+    
+    Director Compensation.
+    
+    
+    The information required by this item is contained in the Prospectus, in the section entitled “Management Following the Business Combination—Non-Employee Director and Officer Compensation,” beginning on page 257 of the
+      Prospectus, which is incorporated herein by reference.
+    
+    
+    Certain Relationships and Related Transactions, and Director Independence.
+    
+    
+    The information required by this item is contained in the Prospectus, in the sections entitled “The Business Combination—Interests of Directors, Managers and Officers in the Business Combination,” beginning on page 82 of
+      the Prospectus, and “Certain Relationships and Related Person Transactions” beginning on page 300 of the Prospectus, which is incorporated herein by reference.  In addition, the information under Item 5.02 of the Company’s Current Report on Form 8-K filed on October 31, 2019 is incorporated herein by reference.
+    
+    
+    Legal Proceedings.
+    
+    
+    The Company is involved in legal proceedings which arise in the ordinary course of business.  It believes that the outcome of such matters, individually and in the aggregate, will not have a material adverse effect on
+      its business, financial condition and results of operations.
+    
+    
+    Market Price and Dividends on the Registrant’s Common Equity and Related Stockholder Matters.
+    
+    
+    On November 15, 2019, the shares of Broadmark Realty Common Stock and the Company Public Warrants began trading under the symbols “BRMK” on the NYSE and “BRMK WS” on the NYSE Amex, respectively.  Trinity’s public units
+      (the “Trinity Units”) automatically separated into shares of Broadmark Realty Common Stock and Company Public Warrants upon consummation of the Business Combination and, as a result, the Trinity Units no longer trade as separate securities.
+    
+    
+    Recent Sales of Unregistered Securities.
+    
+    
+    The information set forth in the “Introductory Note” of this Report and above in this Item 2.01 with respect to the issuance of Broadmark Realty Common Stock and the Company Public Warrants in the Business Combination
+      pursuant to the Merger Agreement and the PIPE Investment are incorporated herein by reference.
+    
+    
+    The Broadmark Realty Common Stock and the Company Public Warrants issued in connection with the PIPE Investment were not registered under the Securities Act in reliance on the exemption from registration provided by
+      Section 4(a)(2) of the Securities Act.
+    
+    
+    Description of the Company’s Securities.
+    
+    
+    The information required by this item with respect to (i) the Broadmark Realty Common Stock is contained in the Prospectus, in the section entitled “Description of Broadmark Realty Capital Stock” beginning on page 269 of
+      the Prospectus, which is incorporated herein by reference, and (ii) the Company Warrants is contained in the Company’s Form 8-A, filed with the
+        Commission on November 14, 2019, which is incorporated herein by reference.
+    
+      10
+      
+        
+    
+    Indemnification of Directors and Officers.
+    
+    
+    The Company entered into indemnification agreements with each of the directors and executive officers that obligate the Company to indemnify them to the maximum extent permitted by Maryland law. The indemnification
+      agreements provide that, if a director or executive officer is a party to, or witness in, or is threatened to be made a party to, or witness in, any proceeding by reason of his or her service as a director, officer, or employee of the Company or as a
+      director, trustee, officer, partner, manager, managing member, fiduciary, employee of any other foreign or domestic corporation, real estate investment trust, partnership, limited liability company, joint venture, trust, employee benefit plan or
+      other enterprise that he or she is or was serving in such capacity at our request, the Company must indemnify the director or executive officer for all expenses and liabilities actually and reasonably incurred by him or her, or on his or her behalf,
+      to the maximum extent permitted under Maryland law, including in any proceeding brought by the director or executive officer to enforce his or her rights under the indemnification agreement, to the extent provided by the agreement. The
+      indemnification agreements will also require the Company to advance reasonable expenses incurred by the indemnitee within ten days of the receipt by the Company of a statement from the indemnitee requesting the advance, provided the statement
+      evidences the expenses and is accompanied or preceded by:
+    
+    
+    
+      
+        
+          
+
+              
+                
+                
+                •
+                
+                  a written affirmation of the indemnitee’s good faith belief that he or she has met the standard of conduct necessary for indemnification; and
+                
+              
+
+          
+        
+      
+      
+      
+      
+        
+          
+
+              
+                
+                
+                •
+                
+                  a written undertaking, which may be unsecured, by the indemnitee or on his or her behalf to repay the amount paid if it shall ultimately be established that the standard of conduct has not been met.
+                
+              
+
+          
+        
+      
+      
+      
+    
+    The indemnification agreements also provide for procedures for the determination of entitlement to indemnification, including requiring such determination be made by independent counsel after a change of control of the
+      Company.
+    
+    
+    The description of the indemnification agreements does not purport to be complete and is qualified in its entirety by the terms and conditions of the indemnification agreements, the form of which is attached hereto as
+      Exhibit 10.7 and incorporated herein by reference.
+    
+    
+    Financial Statements and Supplementary Data.
+    
+    
+    The information required by this item is contained in the Prospectus, in the sections entitled “Summary—Summary Historical Financial Data,” “Selected Historical Financial Data of the Company Group” beginning on page 133
+      of the Prospectus, and “Unaudited Pro Forma Condensed Combined Financial Information” beginning on page 145 of the Prospectus, which is incorporated herein by reference.  Reference is also made to the disclosure set forth under Item 9.01 of this
+      Report concerning the financial information of the Company and Exhibits 99.2, 99.3 and 99.4 hereto.
+    
+    
+    Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+    
+    
+    On November 14, 2019, the board of directors of Trinity terminated the engagement of Ernst & Young LLP as Trinity’s independent registered accounting firm.  Ernst & Young LLP’s reports on the financial statements
+      of Trinity at December 31, 2018, and for the period from January 24, 2018 (inception) through December 31, 2018, and in the subsequent interim period through date of dismissal, included in the Prospectus, did not contain an adverse opinion or
+      disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope or accounting principles.  Furthermore, during the period described above, there have been no disagreements with Ernst & Young LLP on any matter of accounting
+      principles or practices, financial statement disclosure or auditing scope or procedure, which disagreements, if not resolved to Ernst & Young LLP’s satisfaction, would have caused Ernst & Young LLP to make reference to the subject matter of
+      the disagreement in connection with its reports on Trinity’s financial statements for such period. 
+    
+    
+    
+    Upon consummation of the Business Combination, Ernst & Young LLP ceased to be the independent registered public accounting firm for the Company and the Company intends to retain Moss Adams LLP as its independent
+      registered public accounting firm.
+     
+    
+    The Company has provided Ernst & Young LLP with a copy of the foregoing disclosure and has requested that Ernst & Young LLP furnish the Company with a letter addressed to the SEC stating whether or not it agrees
+      with the statements made herein, each as required by applicable SEC rules.  A copy of Ernst & Young LLP’s letter, dated November 20, 2019, is attached as Exhibit 16.2 to this Report.
+    
+      11
+      
+        
+    
+    CohnReznick LLP (“CohnReznick”) previously audited the financial statements of the PBRELF and BRELF II as of and for the years ended December 31, 2017 and 2018 and BRELF III as of and for the year ended December 31,
+      2018. In connection with the Business Combination, as discussed below, on or about April 19, 2019 each of PBRELF, BRELF II, and BRELF III dismissed CohnReznick as its principal accountant and each of PBRELF, BRELF II, BRELF III, BRELF IV, MgCo I,
+      MgCo II, MgCo III, and MgCo IV engaged Moss Adams LLP as its independent registered public accounting firm.  CohnReznick’s reports on the financial statements of each of PBRELF and BRELF II as of and for the years ended December 31, 2017 and 2018 and
+      of BRELF III as of and for the year ended December 31, 2018 did not contain an adverse opinion or disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope or accounting principles.  Furthermore, during the period
+      described above, there have been no disagreements with CohnReznick on any matter of accounting principles or practices, financial statement disclosure or auditing scope or procedure, which disagreements, if not resolved to satisfaction of such firm,
+      would have caused such firm to make reference to the subject matter of the disagreement in connection with its reports on audited financial statements for such period.  CohnReznick has been provided a copy of this Form 8-K and requested to provide a
+      letter addressed to the SEC stating whether or not CohnReznick agrees with the statements related to it made in this report.  A copy of CohnReznick’s letter, dated November 19, 2019, is attached as Exhibit 16.2 to this Report.
+    
+    
+    On April 19, 2019, the Broadmark Companies engaged Moss Adams LLP as the independent registered public accounting firm for each of the Broadmark Companies.  The termination of CohnReznick by PBRELF, BRELF II and BRELF
+      III, and the engagement of Moss Adams LLP by each of the Broadmark Companies was approved by the managers of the Management Companies.
+    
+    
+    Except as set forth below, and in the financial statements related to the following entities included in the Prospectus and audited by Moss Adams LLP, there were no “reportable events” as that term is described in Item
+      304(a)(1)(v) of Regulation S-K.  During the audits of the financial statements of PBRELF, BRELF II, BRELF III, BRELF IV, MgCo I, MgCo II, MgCo III, and MgCo IV included in the Prospectus, Moss Adams LLP noted deficiencies within the financial closing
+      and reporting process due to lack of segregation of duties, including access controls of information technology over sensitive and critical financial information, lack of review procedures over financial information and inadequate documentation of
+      policies and procedures over the identification of technical accounting matters, and related documentation addressing accounting matters.  With respect to the audits of PBRELF, BRELF II, BRELF III, and BRELF IV, the lack of controls contributed to
+      certain proposed audit adjustments related to deferred fees and missing or incomplete disclosures related to equity structure/share counts, credit quality disclosures and cash flow statements in the footnotes to the financial statements.  As such,
+      Moss Adams LLP identified material weaknesses in the internal control over financial close reporting process.  With respect to MgCo I, MgCo II, MgCo III, and MgCo IV, the lack of controls contributed to the inability to record certain material
+      adjustments to the financial statements related to cash and related party reclassifications, compensation expense and completeness and accuracy and/or missing or incomplete disclosures related to certain statements related to equity structure/share
+      count.  As such, Moss Adams LLP has identified material weaknesses in the internal control over financial close reporting process.  The Company intends to take steps to remediate these material weaknesses, including enlisting the help of external
+      advisors to provide assistance in the areas of internal controls and generally accepted accounting principles (“GAAP”) in the short term, and are evaluating the longer-term resource needs of its accounting staff, including GAAP expertise.  These
+      remediation measures may be time consuming and costly, and might place significant demands on its financial, accounting and operational resources.  In addition, there is no assurance that the Company will be successful in hiring any necessary finance
+      and accounting personnel in a timely manner, or at all.
+    
+    
+    Financial Statements and Exhibits.
+    
+    
+    Reference is also made to the disclosure set forth under Item 9.01 of this Report concerning the financial information of the Company.
+    
+    
+    
+      
+        
+
+            
+              Item 3.01.
+              
+                Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+              
+            
+
+        
+      
+    
+    
+    
+    On November 14, 2019, in connection with the closing of the Business Combination and at the request of Trinity, the Nasdaq Capital Market filed a notification of removal from listing on Form 25 with the Commission with
+      respect to the Trinity Class A Common Stock, the Trinity Warrants and the Trinity Units.
+    
+    
+    
+      
+        
+
+            
+              Item 3.02.
+              
+                Unregistered Sales of Equity Securities.
+              
+            
+
+        
+      
+    
+    
+    
+    The information set forth in the “Introductory Note” of this Report and in Item 2.01 with respect to the issuance of Broadmark Realty Common Stock and Company Public Warrants in the Business Combination pursuant to the
+      Merger Agreement and the PIPE Investment are incorporated herein by reference.
+    
+    
+    The Broadmark Realty Common Stock and Company Public Warrants issued in connection with the PIPE Investment were not registered under the Securities Act in reliance on the exemption from registration provided by Section
+      4(a)(2) of the Securities Act.
+    
+      12
+      
+        
+    
+    
+      
+        
+
+            
+              Item 3.03.
+              
+                Material Modification to Rights of Security Holders.
+              
+            
+
+        
+      
+    
+    
+    
+    The information set forth under “Item 2.01. Completion of Acquisition or Disposition of Assets” is incorporated in this Item 3.03 by reference.
+    
+    
+    The material terms of the Initial Warrant Amendment are discussed in the Prospectus under the section titled “Proposals to be Considered by Trinity’s Warrant Holders—Warrant Holder Proposal 1: The Warrant Amendment
+      Proposal,” which is incorporated herein by reference.
+    
+    
+    This summary is qualified in its entirety by reference to the text of the Warrant Amendments, which are included as Exhibits 4.3 and 4.4 to this Report and are incorporated herein by reference.
+    
+    
+    
+      
+        
+
+            
+              Item 4.01.
+              
+                Changes in Registrant’s Certifying Accountant.
+              
+            
+
+        
+      
+    
+    
+    
+    The information set forth under “Item 2.01. Completion of Acquisition or Disposition of Assets” is incorporated in this Item 4.01 by reference.
+    
+    
+    
+      
+        
+
+            
+              Item 5.01.
+              
+                Changes in Control of Registrant.
+              
+            
+
+        
+      
+    
+    
+    
+    The description of the Business Combination and the Merger Agreement in the Prospectus in the sections entitled “Summary of the Joint Proxy Statement/Prospectus—Parties to the Business Combination” beginning on page 1 of
+      the Prospectus, “Summary of the Joint Proxy Statement/Prospectus—The Business Combination” beginning on page 2 of the Prospectus, “The Business Combination” beginning on page 62, and “The Merger Agreement” beginning on page 87 of the Prospectus, is
+      incorporated herein by reference.  The information set forth above in the “Introductory Note” and in Item 2.01 to this Report are also incorporated herein by reference.
+    
+    
+    Immediately after the Closing, the Company had 132,014,635 shares of Broadmark Realty Common Stock outstanding, 41,674,613 Company Public Warrants outstanding and 5,186,676 Company Private Placement warrants
+      outstanding.  Together, the former holders of membership interest in the Company Group entities beneficially own approximately 70.76% of the shares of Broadmark Realty Common Stock outstanding.  Of that amount approximately 66.10% is beneficially
+      owned by former preferred unit holders of the Company Group and approximately 4.66% is beneficially owned by former principals or insiders of the Company Group.  The Trinity Sponsor beneficially owns approximately 3.65% of the shares of Broadmark
+      Realty Common Stock issued and outstanding (or 7.30% of the shares of Broadmark Realty Common Stock, if including 5,186,676 shares of Broadmark Realty Common Stock that may be issued in connection with the exercise of the 5,186,676 Private Placement
+      Warrants).
+    
+    
+    
+      
+        
+
+            
+              Item 5.02.
+              
+                Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+              
+            
+
+        
+      
+    
+    
+    
+    The information set forth above in the sections titled “Directors and Executive Officers,” “Certain Relationships and Related Transactions, and Director Independence,” and “Executive Compensation” in Item 2.01 and the
+      section titled “Executive Employment Agreements” in Item 1.01 are incorporated herein by reference.
+    
+    
+    Certain transactions between the Company or its affiliates and certain of its directors and officers are described in the Prospectus in the section entitled “Certain Relationships and Related Person Transactions”
+      beginning on page 300 of the Prospectus, which is incorporated herein by reference, and the Company’s Current Report on Form 8-K filed on October 31, 2019.
+    
+    
+    
+      
+        
+
+            
+              Item 5.03.
+              
+                Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+              
+            
+
+        
+      
+    
+    
+    
+    On November 14, 2019, the Board and Company’s sole stockholder, Trinity, approved and adopted the Articles of Amendment and Restatement of the Company (the “Existing Charter”) and the Amended and Restated Bylaws of the
+      Company (the “Existing Bylaws”), each effective as of the time immediately prior to the effective time of the Trinity Merger.  Complete copies of the Existing Charter and Existing Bylaws are attached to this Report as Exhibits 3.1 and 3.2,
+      respectively.
+    
+      13
+      
+        
+    
+    The information set forth in Item 3.03 of this Report is incorporated by reference in this Item 5.03.
+    
+    
+    
+      
+        
+
+            
+              Item 5.06.
+              
+                Change in Shell Company Status.
+              
+            
+
+        
+      
+    
+    
+    
+    As a result of the completion of the Business Combination, the Company ceased to be a shell company (as defined under Rule 405 of the Exchange Act) as of the Closing Date.  Reference is made to the disclosure set forth
+      in the Prospectus in the section entitled “Proposals to be Considered by Trinity’s Stockholders—Proposal No. 1—Approval of the Business Combination and Issuance of Shares of Broadmark Realty Common Stock,” which is incorporated herein by reference. 
+      The information set forth in the “Introductory Note” and in Item 2.01 of this Report are incorporated by reference into this Item 5.06.
+    
+    
+    
+      
+        
+
+            
+              Item 7.01.
+              
+                Regulation FD Disclosure.
+              
+            
+
+        
+      
+    
+    
+    
+    On November 14, 2019, the Company issued a press release announcing the consummation of the Business Combination, which is included in this Report as Exhibit 99.1.
+    
+    
+    
+      
+        
+
+            
+              Item 8.01.
+              
+                Other Events.
+              
+            
+
+        
+      
+    
+    
+    
+    As a result of the Mergers and by operation of Rule 12g-3(a) promulgated under the Exchange Act, the Company is a successor issuer to Trinity.  The Company hereby reports this succession in accordance with Rule 12g‑3(f)
+      under the Exchange Act.
+    
+    
+    
+      
+        
+
+            
+              Item 9.01.
+              
+                Financial Statements and Exhibits.
+              
+            
+
+        
+      
+    
+    
+    
+    (a) Financial Statements of Business Acquired.
+    
+    
+    In accordance with Item 9.01(a), the audited financial statements for the year ended December 31, 2018, 2017 and 2016, for PBRELF I, LLC, BRELF II, LLC, BRELF III, LLC, BRELF IV, LLC, Pyatt Broadmark Management, LLC,
+      Broadmark Real Estate Management II, LLC, Broadmark Real Estate Management III, LLC, and Broadmark Real Estate Management IV, LLC, included in the Prospectus beginning on page F-17 are incorporated herein by reference, and the Company’s unaudited
+      financial statements for the nine months ended September 30, 2019 are attached to this Report as Exhibit 99.2 hereto.
+    
+    
+    (b) Pro Forma Financial Information.
+    
+    
+    In accordance with Item 9.01(b), unaudited pro forma condensed combined financial statements for the year ended December 31, 2018, included in the Prospectus beginning on page F-1 are incorporated herein by reference,
+      and the Company’s unaudited pro forma condensed combined financial statements for the nine months ended September 30, 2019 are attached to this Report as Exhibit 99.3 hereto.
+    
+      14
+      
+        
+    
+    (d) List of Exhibits.
+    
+    
+    
+
+        
+          
+            
+              Exhibit
+              Number
+            
+          
+          
+            
+              Description
+            
+          
+        
+        
+          
+            2.1†
+          
+          
+            Agreement and Plan of Merger, dated August 9, 2019, by and among Trinity Merger Corp., Broadmark Realty Capital Inc., Trinity Merger Sub I, Inc., Trinity Merger Sub II, LLC, PBRELF I, LLC, BRELF II, LLC, BRELF III, LLC, BRELF IV, LLC,
+              Pyatt Broadmark Management, LLC, Broadmark Real Estate Management II, LLC, Broadmark Real Estate Management III, LLC, and Broadmark Real Estate Management IV, LLC (incorporated by reference to Annex A to the joint proxy statement/prospectus
+              contained in the Company’s Amendment No. 2 to the registration statement on Form S-4 (File No. 333-233214), filed with the Commission on October 15, 2019).
+          
+        
+        
+          
+            3.1
+          
+          
+            Articles of Amendment and Restatement of Broadmark Realty Capital Inc.
+          
+        
+        
+          
+            3.2
+          
+          
+            Amended and Restated Bylaws of Broadmark Realty Capital Inc.
+          
+        
+        
+          
+            4.1
+          
+          
+            Specimen Stock Certificate (incorporated by reference to Exhibit 4.1 to the Company’s Form 8-A12B (File No. 001-39134), filed with the Commission on November 14, 2019).
+          
+        
+        
+          
+            4.2
+          
+          
+            Specimen Warrant Certificate (incorporated by reference to Exhibit 4.2 to the Company’s Form 8-A12B (File No. 001-39134), filed with the Commission on November 14, 2019).
+          
+        
+        
+          
+            4.3
+          
+          
+            Warrant Agreement, dated as of May 14, 2018, between Trinity Merger Corp. and Continental Stock Transfer & Trust Company (incorporated by reference to Exhibit 4.3 to the Company’s Form 8-A12B (File No. 001-39134), filed with the
+              Commission on November 14, 2019).
+          
+        
+        
+          
+            4.4
+          
+          
+            Amendment to Warrant Agreement, dated November 14, 2019, by and between Broadmark Realty Capital Inc. and Continental Stock Transfer & Trust Co.
+          
+        
+        
+          
+            4.5
+          
+          
+            Second Amendment to Warrant Agreement, dated November 14, 2019, by and among Broadmark Realty Capital Inc., Continental Stock Transfer & Trust Co., and American Stock Transfer & Trust Company, LLC.
+          
+        
+        
+          
+            10.1
+          
+          
+            Employment Agreement, dated August 9, 2019, by and between Broadmark Realty Capital Inc. and Jeffrey Pyatt. 
+          
+        
+        
+          
+            10.2
+          
+          
+            Employment Agreement, dated November 14, 2019, by and between Broadmark Realty Capital Inc. and David Schneider. 
+          
+        
+        
+          
+            10.3
+          
+          
+            Employment Agreement, dated August 9, 2019, by and between Broadmark Realty Capital Inc. and Joanne Van Sickle.
+          
+        
+        
+          
+            10.4
+          
+          
+            Employment Agreement, dated August 9, 2019, by and between Broadmark Realty Capital Inc. and Adam Fountain.
+          
+        
+        
+          
+            10.5
+            
+          
+          
+            Form of Subscription Agreement, by and between Broadmark Realty Capital Inc., Trinity Merger Corp., Farallon Capital Partners, L.P., Farallon Capital Institutional Partners, L.P., Farallon Capital Institutional Partners II, L.P., Farallon
+              Capital Institutional Partners III, L.P., Four Crossings Institutional Partners V, L.P., and Farallon Capital (AM) Investors, L.P.
+          
+        
+        
+          10.6
+          
+            Form of Amendment to Subscription Agreement, by and between Broadmark Realty Capital Inc., Trinity Merger Corp., Farallon Capital Partners, L.P., Farallon Capital Institutional Partners, L.P., Farallon Capital Institutional Partners II,
+              L.P., Farallon Capital Institutional Partners III, L.P., Four Crossings Institutional Partners V, L.P., and Farallon Capital (AM) Investors, L.P.
+          
+        
+        
+          
+            10.7
+          
+          
+            Broadmark Realty Capital Inc. 2019 Stock Incentive Plan.
+          
+        
+        
+          
+            10.8
+          
+          
+            Form of Indemnification Agreement.
+          
+        
+        
+          
+            14.1
+          
+          
+            Code of Business Conduct and Ethics.
+          
+        
+        
+          
+            16.1
+          
+          
+            Letter from Ernst & Young LLP to the Securities and Exchange Commission.
+          
+        
+        
+          
+            16.2
+          
+          
+            Letter from CohnReznick LLP to the Securities and Exchange Commission.
+          
+        
+        
+          
+            99.1
+          
+          
+            Joint Press Release issued by Trinity Merger Corp. and the Broadmark real estate lending companies on November 14, 2019.
+            
+          
+        
+        
+          
+            99.2
+          
+          
+            Financial Statements of Trinity Merger Corp., PBRELF I, LLC, BRELF II, LLC, BRELF III, LLC, BRELF IV, LLC, Pyatt Broadmark Management, LLC, Broadmark Real Estate Management II, LLC, Broadmark Real Estate Management III, LLC, and Broadmark
+              Real Estate Management IV, LLC for the nine months ending September 30, 2019.
+          
+        
+        
+          
+            99.3
+          
+          
+            Unaudited Pro Forma Condensed Combined Financial Information of Broadmark Realty Capital Inc. for the nine months ending September 30, 2019.
+          
+        
+        
+          
+            99.4
+          
+          
+            Management’s Discussion and Analysis of Financial Condition and Results of Operations of PBRELF I, LLC, BRELF II, LLC, BRELF III, LLC, BRELF IV, LLC, Pyatt Broadmark Management, LLC, Broadmark Real Estate Management II, LLC, Broadmark Real
+              Estate Management III, LLC, and Broadmark Real Estate Management IV, LLC for the nine months ending September 30, 2019. 
+          
+        
+
+    
+    __________
+    
+    
+    † The annexes, schedules, and certain exhibits to the Agreement and Plan of Merger have been omitted pursuant to Item 601(b)(2) of Regulation S-K.  The registrant hereby agrees to furnish supplementally a copy of any omitted annex, schedule or
+      exhibit to the SEC upon request.
+    
+      15
+      
+        
+    
+    SIGNATURES
+    
+    
+    Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+    
+    
+    
+
+        
+           
+          
+            BROADMARK REALTY CAPITAL INC.
+          
+        
+        
+           
+           
+        
+        
+           
+          
+            By:
+          
+          
+            /s/ Jeffrey Pyatt
+          
+        
+        
+           
+           
+          
+            Name: Jeffrey Pyatt
+          
+        
+        
+           
+           
+          
+            Title: Chief Executive Officer
+          
+        
+        
+           
+           
+            
+        
+
+    
+    Date: November 20, 2019
+  
+  16
+    
+
+
+

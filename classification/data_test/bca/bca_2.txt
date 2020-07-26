@@ -1,0 +1,1146 @@
+
+8-K
+1
+paac8k031620.htm
+
+
+
+     
+
+
+
+
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or Section 15(d) of
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+March 16, 2020 (March 10, 2020)
+
+ 
+
+PROFICIENT ALPHA ACQUISITION CORP.
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+
+
+    Nevada
+     
+    001-38925
+     
+    83-1505892
+
+    (State or other jurisdiction of
+incorporation)
+     
+    (Commission File Number)
+     
+    (I.R.S. Employer
+Identification No.)
+
+ 
+
+
+
+    
+        40 Wall St., 29th Floor
+        New York, New York
+     
+    10005
+
+    (Address of principal executive offices)
+     
+    (Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code:  (917) 289-0932
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+     
+    ☒
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+     
+    ☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Common Stock, par value $0.001 per share
+     
+    PAAC
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants to purchase one share of Common Stock
+     
+    PAACW
+     
+    The Nasdaq Stock Market LLC
+
+    Rights to receive one-tenth (1/10) of one share of Common Stock
+     
+    PAACR
+     
+    The Nasdaq Stock Market LLC
+
+    Units, each consisting of one share of Common Stock, one Warrant and one Right
+     
+    PAACU
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company [X]
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  [ ]
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+Item 1.01 Entry Into A Material Definitive Agreement.
+
+ 
+
+BUSINESS COMBINATION AGREEMENT
+
+ 
+
+This section describes the material provisions
+of the Business Combination Agreement but does not purport to describe all of the terms thereof. Proficient’s stockholders,
+warrant holders, rights holders and other interested parties are urged to read such agreement in its entirety. The following summary
+is qualified in its entirety by reference to the complete text of the Business Combination Agreement, a copy of which is attached
+hereto as Exhibit 2.1. Unless otherwise defined herein, the capitalized terms used below are defined in the Business Combination
+Agreement.
+
+ 
+
+General Description of the Business Combination
+Agreement
+
+ 
+
+On March 10, 2020, Proficient
+Alpha Acquisition Corp., a Nevada corporation (“Proficient”), entered into a Business Combination Agreement
+(the “Business Combination Agreement”) with Lion Financial Group Limited, a corporation organized under
+the laws of the British Virgin Islands (“Lion”), Lion Group Holding Ltd., a Cayman Islands exempted company
+and wholly-owned subsidiary of Lion (“Pubco”), Lion MergerCo 1, Inc., a Delaware corporation and a wholly-owned
+subsidiary of Pubco (“Merger Sub”), Shih-Chung Chou, an individual, in the capacity as the Purchaser
+Representative thereunder, Jian Wang and Legend Success Ventures Limited, each, in the capacity as a Seller Representative thereunder,
+and each of the holders of Lion’s outstanding capital shares (the “Sellers”).
+
+ 
+
+Pursuant to the Business
+Combination Agreement, subject to the terms and conditions set forth therein, at the closing of the transactions contemplated by
+the Business Combination Agreement (the “Closing”), (a) Merger Sub will merge with and into Proficient,
+with Proficient continuing as the surviving entity (the “Merger”), and with holders of Proficient securities
+receiving substantially identical securities of Pubco, and (b) immediately prior to the Merger, Pubco will acquire all of the issued
+and outstanding ordinary shares of Lion (the “Purchased Shares”) from the Sellers in exchange for Class
+A and Class B ordinary shares of Pubco, with Lion becoming a wholly-owned subsidiary of Pubco (the “Share Exchange”,
+and together with the Merger and the other transactions contemplated by the Business Combination Agreement, the “Transactions”).
+
+ 
+
+Exchange Consideration
+
+ 
+
+The
+total consideration to be paid by Pubco to the Sellers for the Purchased Shares shall be an aggregate number of Pubco ordinary
+shares (the “Exchange Shares”) with an aggregate value (the “Exchange Consideration”)
+equal to, without duplication, (i) $125,000,000, plus (or minus, if negative) (ii) Lion’s net working capital less a target
+net working capital of $815,000, minus (iii) the aggregate amount of any outstanding indebtedness, net of cash and cash equivalents,
+of Lion and its subsidiaries, and minus (iv) the amount of any unpaid transaction expenses of Lion, with each Pubco ordinary share
+to be issued to the Sellers valued at a price equal to the price at which each share of Proficient common stock is redeemed (the
+“Redemption Price”) pursuant to the redemption by Proficient of its public stockholders in connection
+with Proficient’s initial business combination, as required by its amended and restated articles of incorporation (the “Redemption”).
+Jian Wang, the Chairman of Lion (the “Main Seller”), and Legacy Success Ventures Limited (collectively,
+the “Class B Sellers”), shall each receive solely Pubco Class B ordinary shares (the “Class
+B Exchange Shares”) and all of the other Sellers (the “Class A Sellers”) shall receive
+solely Pubco Class A ordinary shares (the “Class A Exchange Shares”). The Pubco Class A ordinary shares
+and the Pubco Class B ordinary shares will be identical in rights except that the Class B ordinary shares will (i) entitle the
+holder to 10 votes per share and (ii) be convertible, at the election of the holder, into Pubco Class A ordinary shares on a one-to-one
+basis.
+
+ 
+
+The Exchange Consideration
+is subject to adjustment after the Closing based on final confirmation of Lion’s net working capital, the outstanding indebtedness
+of Lion and its subsidiaries net of cash and cash equivalents, and any unpaid transaction expenses of Lion, as of the date of the
+Closing. If the finally determined number of Exchange Shares is (i) greater than the estimated number of Exchange Shares, Pubco
+will issue an additional number of Pubco Class A ordinary shares and Pubco Class B ordinary shares equal to such difference to
+the Sellers, subject to a maximum amount equal to the amount of Indemnity Escrow Property (defined below) at such time or (ii)
+less than the estimated number of Exchange Shares, Pubco will cause the Escrow Agent (as defined below) to release from escrow
+a number of Indemnity Escrow Shares equal to such difference to Pubco, subject to a maximum amount equal to the Indemnity Escrow
+Property at such time.
+
+ 
+
+The issuances of Pubco
+ordinary shares in connection with the Share Exchange will be exempt from registration under the Securities Act in reliance upon
+Section 4(a)(2) thereof because securities of Pubco will be issued to a limited number of holders of Lion securities without involving
+a public offering. Such issuances will also be exempted from registration in reliance upon Regulation S of the Securities Act with
+regard to certain holders of Lion securities receiving Pubco ordinary shares who are qualified as non-U.S. persons thereunder.
+
+ 
+
+
+
+
+      (1) 
+       
+    
+
+ 
+
+ 
+
+Escrow Accounts
+
+ 
+
+Indemnity Escrow
+
+ 
+
+The parties agreed that
+at or prior to the Closing, Pubco, the Sellers and American Stock Transfer & Trust Company, LLC, as escrow agent (the “Escrow
+Agent” or “AST”) will enter into an Escrow Agreement, effective as of the Closing, in form
+and substance reasonably satisfactory to Proficient and Lion (the “Escrow Agreement”), pursuant to which
+Pubco will deliver to the Escrow Agent a number of Class B Exchange Shares (each valued at the Redemption Price) equal to 15% of
+the estimated Exchange Consideration otherwise issuable to the Sellers at the Closing (such Class B Exchange Shares, together with
+any equity securities paid as dividends or distributions with respect to such shares or into which such shares are exchanged or
+converted the “Indemnity Escrow Shares”) to be held, along with any dividends, distributions or income
+thereon (together with the Indemnity Escrow Shares, the “Indemnity Escrow Property”) in a segregated
+account (the “Indemnity Escrow Account”) and disbursed in accordance with the Business Combination Agreement
+and the Escrow Agreement. The indemnity Escrow Shares will be held in the Indemnity Escrow Account for a period of 24 months after
+the Closing and shall be the sole and exclusive source of payment for any post-Closing purchase price adjustment and for any post-closing
+indemnification claims (other than certain fraud claims and breaches of Lion and the Sellers’ fundamental representations,
+as discussed below); provided that half of the Indemnity Escrow Property will be released to the Class B Sellers on the 12 month
+anniversary of the Closing. Within three business days of the 24 month anniversary of the Closing, all remaining Indemnity Escrow
+Property will be released to the Class B Sellers in accordance with the Business Combination Agreement. However, an amount of Indemnity
+Escrow Property equal to the value of any pending and unresolved claims will remain in the Indemnity Escrow Account until finally
+resolved.
+
+ 
+
+Earnout Escrow
+
+ 
+
+Additionally, at the Closing,
+Pubco will deliver to the Escrow Agent a number of Class B Exchange Shares (each valued at the Redemption Price) equal to thirty
+percent (30%) of the estimated Exchange Consideration otherwise issuable to the Sellers at the Closing (such Class B Exchange Shares,
+together with any equity securities paid as dividends or distributions with respect to such shares or into which such shares are
+exchanged or converted the “Earnout Escrow Shares” and together with the Indemnity Escrow Shares, the
+“Escrow Shares”) to be held, along with any dividends, distributions or income thereon (together with
+the Earnout Escrow Shares, the “Earnout Escrow Property”) in a segregated account (the “Earnout
+Escrow Account”) and disbursed in accordance with the Business Combination Agreement and the Escrow Agreement.
+
+ 
+
+In the event that the net
+income for the calendar year ended December 31, 2021 (the “2021 Net Income”), as set forth in Pubco’s
+audited financial statements, is equal to or greater than $19,000,000 (the “First Net Income Target”),
+then, the Class B Sellers’ rights to 50% of the Earnout Escrow Property (the “First Half Earnout Property”)
+shall vest and shall no longer be subject to forfeiture. If the 2021 Net Income is less than the First Net Income Target, but is
+equal to or greater than $9,500,000, then the Class B Sellers’ rights to 50% of the First Half Earnout Property shall vest
+and shall no longer be subject to forfeiture. In all other cases, the First Half Earnout Property will be forfeited.
+
+ 
+
+In the event that the net
+income for the calendar year ended December 31, 2022 (the “2022 Net Income”), as set forth in Pubco’s
+audited financial statements, is equal to or greater than $21,850,000 (the “Second Net Income Target”),
+then the Class B Sellers’ rights to the remaining Earnout Escrow Property (after giving effect to any forfeitures for the
+2021 calendar year, the “Second Half Earnout Property”) shall vest and shall no longer be subject to
+forfeiture. If the 2022 Net Income is less than the Second Net Income Target, but is equal to or greater than $10,925,000, then
+the Class B Sellers’ rights to 50% of the Second Half Earnout Property shall vest and shall no longer be subject to forfeiture.
+In all other cases, the Second Half Earnout Property will be forfeited.
+
+ 
+
+Representations and Warranties
+
+ 
+
+The Business Combination
+Agreement contains a number of representations and warranties made by Proficient, Lion and Pubco as of the date of such agreement
+or other specific dates solely for the benefit of certain of the parties to the Business Combination Agreement, which in certain
+cases are subject to specified exceptions and materiality, Material Adverse Effect, knowledge and other qualifications contained
+in the Business Combination Agreement or in information provided pursuant to certain disclosure schedules to the Business Combination
+Agreement. “Material Adverse Effect” as used in the Business Combination Agreement means with respect
+to any specified person or entity, any fact, event, occurrence, change or effect that has had or would reasonably be expected to
+have, individually or in the aggregate, a material adverse effect on the business, assets, liabilities, results of operations,
+prospects or condition (financial or otherwise) of such person or entity and its subsidiaries, taken as a whole, or the ability
+of such person or entity or any of its subsidiaries on a timely basis to consummate the transactions contemplated by the Business
+Combination Agreement, subject to certain customary exceptions.
+
+ 
+
+
+
+
+      (2) 
+       
+    
+
+ 
+
+ 
+
+In the Business Combination
+Agreement, Lion made certain customary representations and warranties to Proficient, including among others, related to the following:
+(1) corporate matters, including due organization, existence and good standing; (2) authority and binding effect relating to execution
+and delivery of the Business Combination Agreement and other ancillary documents; (3) capitalization; (4) subsidiaries; (5) governmental
+approvals; (6) non-contravention; (7) financial statements; (8) absence of certain changes; (9) compliance with laws; (10) permits;
+(11) litigation; (12) material contracts; (13) intellectual property; (14) taxes and tax returns; (15) real property; (16) personal
+property; (17) title to and sufficiency of assets; (18) employee matters; (19) benefit plans; (20) environmental matters; (21)
+transactions with related persons; (22) insurance; (23) customers and suppliers; (24) business practices; (25) Investment Company
+Act of 1940 (“Investment Company Act”); (26) finders and brokers; (27) information supplied and (28)
+independent investigation. Additionally, Pubco made certain customary representations and warranties to Proficient with respect
+to Pubco and Merger Sub, including representations and warranties related to the following: (1) corporate matters, including due
+organization, existence and good standing; (2) authority and binding effect relating to execution and delivery of the Business
+Combination Agreement and other ancillary documents; (3) governmental approvals; (4) non-contravention; (5) capitalization; (6)
+title and ownership of the Pubco shares to be issued to the Sellers; (7) Pubco and Merger Sub activities; (8) finders and brokers;
+(9) Investment Company Act; (10) information supplied; and (11) independent investigation.
+
+ 
+
+In the Business Combination
+Agreement, Proficient made certain customary representations and warranties to Lion and the Sellers, including among others, related
+to the following: (1) corporate matters, including due organization, existence and good standing; (2) authority and binding effect
+relative to execution and delivery of the Business Combination Agreement and other ancillary documents; (3) governmental approvals;
+(4) non-contravention; (5) capitalization; (6) SEC filings, financial statements and internal controls; (7) absence of certain
+changes; (8) compliance with laws; (9) litigation, orders and permits; (10) taxes and returns; (11) employees and employee benefit
+plans; (12) properties; (13) material contracts; (14) transactions with affiliates; (15) Investment Company Act and the JOBS Act;
+(16) finders and brokers; (17) business practices; (18) insurance; (19) trust account; and (20) independent investigation.
+
+ 
+
+ 
+
+In the Business Combination
+Agreement, each Seller made customary representations and warranties to Proficient, including among others, related to the following:
+(1) organization and good standing; (2) authority and binding effect relating to execution and delivery of the Business Combination
+Agreement and other ancillary documents; (3) ownership of the Purchased Shares; (iv) governmental approvals; (v) non-contravention;
+(6) litigation; (7) investment representations; (8) finders and brokers; (9) information supplied; and (10) independent investigation.
+
+ 
+
+Covenants of the Parties
+
+ 
+
+Each party agreed in the
+Business Combination Agreement to use its commercially reasonable efforts to effect the Closing. The Business Combination Agreement
+also contains certain customary covenants by each of the parties during the period between the signing of the Business Combination
+Agreement and the earlier of the Closing or the termination of the Business Combination Agreement in accordance with its terms
+(the “Interim Period”), including covenants regarding: (1) the provision of access to their properties,
+books and personnel; (2) the operation of their respective businesses in the ordinary course of business; (3) Proficient’s
+public filing obligations and Lion’s obligation to deliver interim financial statements; (4) no solicitation of, or entering
+into, any alternative competing transactions; (5) no insider trading; (6) notifications of certain breaches, consent requirements
+or other matters; (7) efforts to consummate the Closing and obtain third party and regulatory approvals; (8) further assurances;
+(9) public announcements; (10) confidentiality; (11) indemnification of directors and officers after the Closing; (12) use of trust
+proceeds after the Closing; and (13) efforts to conduct a private placement, backstop or redemption waiver arrangements, if sought.
+
+ 
+
+The parties also
+agreed to take all necessary actions to cause Pubco’s board of directors immediately after the Closing to consist of a
+classified board of seven directors, a majority of which will be independent. Pubco’s board will be classified into two
+classes of directors with each class serving alternating two year terms. Two directors (at least one being an independent
+director) will be designated by Proficient prior to the Closing and four directors (at least two being independent directors)
+will be designated by Lion prior to the Closing. A fourth independent director will be mutually agreed upon by Proficient and
+Lion prior to the closing.
+
+Proficient and Pubco
+also agreed to jointly prepare, and Pubco shall file with the Securities and Exchange Commission (“SEC”),
+a registration statement on Form F-4 (as amended, the “Registration Statement”) in connection with the
+registration under the Securities Act of 1933, as amended (the “Securities Act”) of the issuance of securities
+of Pubco to the holders of the Proficient securities and containing a proxy statement/prospectus for the purpose of soliciting
+proxies from the stockholders of Proficient for the matters relating to the Transactions to be acted on at the special meeting
+of the stockholders of Proficient and providing such stockholders with an opportunity to participate in the Redemption.
+
+
+
+
+      (3) 
+       
+    
+
+ 
+
+ 
+
+Survival and Indemnification
+
+ 
+
+All of representations
+and warranties of Lion and the Sellers survive the Closing for 24 months, other than representations and warranties regarding financial
+projections and the information supplied by Lion and Sellers for inclusion in a Form 8-K or any other report or filing with a governmental
+authority including the SEC, which do not survive the Closing. The representations and warranties of Proficient do not survive
+the Closing.
+
+ 
+
+All covenants, obligations
+and agreements of Lion, any Seller or any Seller Representative contained in the Business Combination Agreement (x) that are required
+to be performed prior to or at the Closing, shall survive until the second anniversary of the date of the Closing, and (y) that
+are required to the performed after the Closing, shall survive the Closing and continue until fully performed in accordance with
+their terms.
+
+ 
+
+The covenants and agreements
+of Proficient and the Purchaser Representative shall not survive the Closing, except those covenants and agreements to be performed
+after the Closing, which covenants and agreement shall survive the Closing and continue until fully performed in accordance with
+their terms.
+
+ 
+
+The Class B Sellers, severally
+and not jointly, will provide indemnification for any breach of any representations and warranties or covenants of Lion or the
+Sellers, with such indemnification being on a pro rata basis between the Class B Sellers based on their Lion shareholding as of
+the Closing, subject to certain limitations, including those as described below.
+
+ 
+
+Indemnification claims
+by Proficient are subject to a threshold equal to 0.5% of the Exchange Consideration in aggregate losses before any indemnification
+claim is paid, but after the threshold is reached, all indemnification claims shall be paid from the first dollar of losses. The
+maximum aggregate amount of indemnification payments which the Class B Sellers will be obligated to pay (other than with respect
+to certain fraud claims with respect to the transactions under the Business Combination Agreement or breaches by Lion or the Sellers
+of certain fundamental representations) is capped at an amount equal to the 15% of the Exchange Consideration. Fraud claims with
+respect to the transactions under the Business Combination Agreement or breaches by Lion or the Sellers of their fundamental representations
+are payable by the Main Seller up to a maximum aggregate amount equal to the Exchange Consideration received by the Main Seller.
+
+ 
+
+Any indemnification claims
+against the Class B Sellers shall first be applied against the Indemnity Escrow Shares (pro rata among the Class B Exchange Shares)
+and then against any other Indemnity Escrow Property before the Main Seller shall be required to make any out-of-pocket payment
+for indemnification.
+
+ 
+
+Shareholders of
+Purchaser (or following the Closing, Pubco) are not third party beneficiaries of the Business Combination Agreement and
+are not entitled to bring any claim against any Seller pursuant to the Business Combination Agreement.
+
+ 
+
+Conditions to Closing
+
+ 
+
+The obligations of
+the parties to consummate the Transactions are subject to various conditions, including the following mutual conditions of
+the parties unless waived: (i) the approval of the Business Combination Agreement and the transactions contemplated thereby,
+the adoption of Pubco’s amended and restated the memorandum and articles of association (if such a vote is required by
+federal securities laws), the adoption and approval of a new equity incentive plan for Pubco, the appointment of the members
+of the Pubco’s board of directors after the Closing and other related matters by the requisite vote of
+Proficient’s stockholders; (ii) receipt by Lion of all consents required to be obtained from the Securities and Futures
+Commission of Hong Kong and the Cayman Islands Monetary Authority in order to consummate the Transactions (the
+“Required Consents”); (iii) expiration of any waiting period under applicable antitrust laws; (iv)
+no law or order preventing or prohibiting the Transactions; (v) no pending litigation to enjoin or restrict the consummation
+of the Closing; (vi) Proficient having at least $5,000,001 in net tangible assets as of the Closing, after giving effect to
+the completion of the Redemption and any private placement financing; (vii) the effectiveness of the Registration Statement;
+(viii) amendment by the shareholders of Pubco of Pubco’s amended and restated memorandum and articles of association in
+the form attached to the Business Combination Agreement; (ix) receipt by Lion and Proficient of
+evidence reasonably satisfactory to each such party that Pubco qualifies as a foreign private issuer; and (ix) the Exchange
+Shares (including the Escrow Shares) shall have been approved for listing on Nasdaq, subject only to the official notice of
+issuance.
+
+ 
+
+
+
+
+      (4) 
+       
+    
+
+ 
+
+ 
+
+In addition, unless
+waived by Lion, the obligations of Lion, Pubco, Merger Sub and the Sellers to consummate the Transactions are subject to the
+satisfaction of the following Closing conditions, in addition to customary certificates and other closing deliveries: (i) the
+representations and warranties of Proficient being true and correct as of the date of the Business Combination Agreement and
+as of the Closing (subject to materiality or Material Adverse Effect qualifications); (ii) Proficient having performed in all material
+respects its obligations and complied in all material respects with its covenants and agreements under the Business
+Combination Agreement required to be performed or complied with by it on or prior the date of the Closing; (iii) absence of
+any Material Adverse Effect with respect to Proficient since the date of the Business Combination Agreement which is
+continuing and uncured; (iv) receipt by Sellers of the Seller Registration Rights Agreement by and among Pubco and the
+Sellers (the “Seller Registration Rights Agreement”), providing customary registration rights to
+the Sellers with respect to the portion of the Exchange Shares delivered to the Sellers at the Closing and any Escrow Shares
+that are released from escrow to the Sellers; (v) receipt by Lion and Pubco of the First Amendment to Registration Rights
+Agreement (the “Founder Registration Rights Agreement Amendment”), pursuant to which Proficient,
+Pubco, the initial stockholders of Proficient (the “Founders”) and the other parties to
+Proficient’s Registration Rights Agreement that was entered into by Proficient at the time of its initial public
+offering (“IPO”) (the “Founder Registration Rights Agreement”), shall
+have amended the Founder Registration Rights Agreement, to among other matters, include Pubco as a party and to make it apply
+to the Pubco securities to be received in connection with the Merger by Proficient’s stockholders who are parties to
+the Founder Registration Rights Agreement; and (vi) the election or appointment of members to Pubco’s post-closing
+board of the independent director and the directors designated by Lion.
+
+ 
+
+Unless waived by
+Proficient, the obligations of Proficient, to consummate the Transactions are subject to the satisfaction of the following
+Closing conditions, in addition to customary certificates and other closing deliveries: (i) the representations and
+warranties of Lion, Pubco and the Sellers being true and correct as of the date of the Business Combination Agreement and as
+of the Closing (subject to materiality or Material Adverse Effect qualifications); (ii) Lion, Pubco, Merger Sub and the Sellers having
+performed in all material respects the respective obligations and complied in all material respects with their respective
+covenants and agreements under the Business Combination Agreement required to be performed or complied with on or prior the
+date of the Closing; (iii) absence of any Material Adverse Effect with respect to Lion or Pubco since the date of the
+Business Combination Agreement which is continuing and uncured; (iv) receipt by Proficient of employment agreements,
+effective as of the Closing, in form and substance reasonably acceptable to Proficient and Lion between Jian Wang, Chunning
+Wang and Hua Luo, respectively, and Pubco, duly executed by the parties thereto; (v) receipt by Proficient of the Founder
+Registration Rights Agreement Amendment, duly executed by Pubco; (vi) receipt by Proficient of share certificates and other
+documents evidencing the transfer of the Purchased Shares to Pubco; (vii) receipt by Proficient of the evidence of the
+termination of any outstanding options, warrants or other convertible securities of Lion (if any); and (viii) the election or
+appointment of members to Pubco’s post-closing board of the independent director and the directors designated by
+Proficient.
+
+ 
+
+Termination
+
+ 
+
+The Business
+Combination Agreement may be terminated at any time prior to the Closing by either Proficient or Lion if the Closing has not
+occurred on or prior to June 3, 2020 (the “Outside Date”); provided that if Proficient, at its
+election, either makes a three month automatic extension (an “Automatic Extension”) or receives
+stockholder approval for a charter amendment to extend the term it has to consummate a business combination (a
+“Charter Extension”), limited, in either case, to a maximum of two extensions in total, Proficient
+can extend the Outside Date by three months in the case of the Automatic Extension or in the case of a Charter Extension the
+shorter of three months and the period ending on the last day for Proficient to consummate a business combination pursuant to
+the Charter Extension. If Proficient has extended the Outside Date by an Automatic Extension or a Charter Extension and the
+parties are waiting solely to obtain the Required Consents and the Sellers and Lion have otherwise complied with their
+obligations under the Business Combination Agreement in all material respects, Lion can also extend the Outside Date for the
+shorter of one month and the period ending on the last day for Proficient to consummate a business combination pursuant to
+such extension. A party is not entitled to terminate the Business Combination Agreement if the failure of the Closing to
+occur by such date was caused by or the result of a breach of the Business Combination Agreement by such party (or with
+respect to Lion, the Sellers, Pubco or Merger Sub).
+
+ 
+
+The Business Combination
+Agreement may also be terminated under certain other customary and limited circumstances prior the Closing, including, among other
+reasons: (i) by mutual written consent of Proficient and Lion; (ii) by either Proficient or Lion if a governmental authority of
+competent jurisdiction has issued an order or taken any other action permanently restraining, enjoining or otherwise prohibiting
+the Transactions, and such order or other action has become final and non-appealable; (iii) by Lion for Proficient’s uncured
+breach of the Business Combination Agreement, if the breach would result in the failure of the related Closing condition; (iv)
+by Proficient for the uncured breach of the Business Combination Agreement by Lion, Pubco, Merger Sub or any Seller, if the breach
+would result in the failure of the related Closing condition; (v) by Proficient if there has been a Material Adverse Effect with
+respect to Lion since the date of the Business Combination Agreement which is uncured and continuing; or (vi) by either Proficient
+or Lion if Proficient holds a special meeting of its stockholders to approve the Business Combination Agreement and the Transactions
+and such approval is not obtained.
+
+ 
+
+
+
+
+      (5) 
+       
+    
+
+ 
+
+ 
+
+If the Business Combination
+Agreement is terminated, all obligations of the parties under the Business Combination Agreement (except for certain obligations
+related to public announcements, confidentiality, fees and expenses, trust account waiver, termination and general provisions)
+will terminate, and no party to the Business Combination Agreement will have any further liability to any other party thereto except
+for liability for certain fraud claims or for willful breach of the Business Combination Agreement prior to the termination.
+
+ 
+
+In the event the Business
+Combination Agreement is terminated by Proficient as a result of a material breach by Lion, Pubco, Merger Sub or any Seller (other
+than as a result Lion and Sellers not using commercially reasonable efforts to obtain the Required Consents or failure to provide
+notification of certain material events, in which case, Proficient shall still be entitled to seek damages), Lion will pay Proficient
+a termination fee of $2.3 million plus expenses as liquidated damages.
+
+ 
+
+Trust Account Waiver and Releases
+
+ 
+
+Lion, Pubco, Merger Sub
+and each of the Sellers have agreed that they and their affiliates will not have any right, title, interest or claim of any kind
+in or to any monies in Proficient’s trust account held for its public stockholders, and have agreed not to, and waived any
+right to, make any claim against the trust account (including any distributions therefrom directly or indirectly to Proficient’s
+stockholders).
+
+ 
+
+Each
+Seller, on behalf of itself and its affiliates that own shares of such Seller, provided a general release of Lion and its
+subsidiaries, effective as of the Closing, other than with respect to its rights under the Business Combination Agreement and
+ancillary documents and certain other customary exceptions.
+
+Shih-Chung
+Chou, an affiliate of Proficient’s sponsor, on behalf of itself and its affiliates, provided a general release of
+Proficient, effective as of the Closing, other than with respect to its rights under the Business Combination Agreement and
+ancillary documents.
+
+Governing Law 
+
+ 
+
+The Business Combination
+Agreement is governed by Delaware law, except that the Merger and the internal affairs of Proficient will be governed by the law
+of Nevada. The Court of Chancery of Delaware will have exclusive jurisdiction; provided that if it does not have subject matter
+jurisdiction for any reason, then federal or state courts in Delaware will have jurisdiction.
+
+ 
+
+A copy of the Business
+Combination Agreement is filed with this Current Report on Form 8-K as Exhibit 2.1 and is incorporated herein by reference, and
+the foregoing description of the Business Combination Agreement is qualified in its entirety by reference thereto. 
+
+The
+Business Combination Agreement contains representations, warranties and covenants that the respective parties made to each other
+as of the date of such agreement or other specific dates. The assertions embodied in those representations, warranties, covenants
+and agreements were made for purposes of the contract among the respective parties and are subject to important qualifications
+and limitations agreed to by the parties in connection with negotiating such agreement. The Business Combination Agreement has
+been filed to provide investors with information regarding its terms, but it is not intended to provide any other factual information
+about Proficient, Lion or any other party to the Business Combination Agreement. In particular, the representations and warranties,
+covenants and agreements contained in the Business Combination Agreement, which were made only for purposes of such agreement and
+as of specific dates, were solely for the benefit of the parties to the Business Combination Agreement, may be subject to limitations
+agreed upon by the contracting parties (including being qualified by confidential disclosures made for the purposes of allocating
+contractual risk between the parties to the Business Combination Agreement instead of establishing these matters as facts) and
+may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors
+and reports and documents filed with the SEC. Investors should not rely on the representations, warranties, covenants and agreements,
+or any descriptions thereof, as characterizations of the actual state of facts or condition of any party to the Business Combination
+Agreement. In addition, the representations, warranties, covenants and agreements and other terms of the Business Combination Agreement
+may be subject to subsequent waiver or modification. Moreover, information concerning the subject matter of the representations
+and warranties and other terms may change after the date of the Business Combination Agreement, which subsequent information may
+or may not be fully reflected in Proficient’s public disclosures.
+
+ 
+
+
+
+
+      (6) 
+       
+    
+
+ 
+
+Related Agreements
+
+ 
+
+This section describes
+the material provisions of certain additional agreements entered into or to be entered into pursuant to the Business Combination
+Agreement (the “Related Agreements”) but does not purport to describe all of the terms thereof. The following
+summary is qualified in its entirety by reference to the complete text of each of the Related Agreements, copies of each of which
+are attached hereto as exhibits. Stockholders and other interested parties are urged to read such Related Agreements in their entirety.
+
+ 
+
+Lock-Up Agreements
+
+On March 10, 2020,
+each Class B Seller entered into a Lock-Up Agreement with Pubco and the Purchaser Representative (each, a “Lock-Up
+Agreement”) with regard to the Exchange Shares to be received by such Class B Seller. In such Lock-Up Agreement,
+each Class B Seller agreed that such Seller will not, during the period commencing from the Closing and ending on the six (6) month
+anniversary of the Closing (or if earlier, the date on which Pubco consummates a liquidation, merger, share exchange or other similar
+transaction with an unaffiliated third party that results in all of Pubco’s shareholders having the right to exchange their
+equity holdings in Pubco for cash, securities or other property) ( the “Lock-Up Period”) (i) lend, offer,
+pledge (except as provided below), hypothecate, encumber, donate, assign, sell, contract to sell, sell any option or contract to
+purchase, purchase any option or contract to sell, grant any option, right or warrant to purchase, or otherwise transfer or dispose
+of, directly or indirectly, any of such Class B Seller’s Exchange Shares, (ii) enter into any swap or other arrangement that
+transfers to another, in whole or in part, any of the economic consequences of ownership of any of such Class B Seller’s
+Exchange Shares, or (iii) publicly announce any intention to effect any transaction specified in clause (i) or (ii). Each holder
+also agreed that the Escrow Shares will continue to be subject to such transfer restrictions until they are released from the Escrow
+Account. However, each Class B Seller is allowed to transfer any of its Exchange Shares (other than the Escrow Shares while they
+are held in the Escrow Account ) by gift, will or intestate succession or to any immediate family member (or related trust), trustor
+or trust beneficiary, as a distribution to equity holders upon liquidation or to an affiliate or pursuant to a court order or settlement
+agreement in divorce; provided in each such case that the transferee thereof agrees to be bound by the restrictions set forth in
+the Lock-Up Agreement. The Class B Sellers are also permitted to pledge their shares during the Lock-Up Period so long as the pledgee
+agrees not to exercise its remedies with respect to the Exchange Shares during the Lock-Up Period.
+
+Non-Competition Agreements
+
+On March 10, 2020,
+each of Jian Wang and Chunning Wang (each, a “Restricted Person”) entered into a Non-Competition and
+Non-Solicitation Agreement (each, a “Non-Competition Agreement”) in favor of Pubco, Proficient and Lion
+and their respective present and future affiliates, successors and direct and indirect subsidiaries (collectively, the “Covered
+Parties”). Under each Non-Competition Agreement, for a period of three (3) years after the Closing (such period,
+the “Restricted Period”), each Restricted Person agreed that he will not and will not permit his affiliates
+to, without Pubco’s prior written consent, directly or indirectly engage in the business of providing contract-for-difference
+trading service, insurance brokerage service, futures brokerage service, securities brokerage service and asset management service
+based in the Cayman Islands and Hong Kong (the “Business”) (other than through a Covered Party) or own,
+manage, finance or control, or become engaged or serve as an officer, director, member, partner, employee, agent, consultant, advisor
+or representative of, a business or entity (other than a Covered Party) that engages in the Business anywhere in the Cayman Islands,
+the British Virgin Islands, Hong Kong, Singapore, and People’s Republic of China or in any other markets in which the Covered
+Parties are engaged in the Business as of the date of the Closing or during the Restricted Period. However, such Restricted Person
+and his affiliates will be permitted under its Non-Competition Agreement to own passive investments of less than 3% of the total
+issued and outstanding equity interests of a competitor that is publicly traded, so long as such Restricted Person and his affiliates
+and immediate family members are not directly or indirectly involved in the management or control of such competitor. Under each
+Non-Competition Agreement, the Restricted Person thereto and his affiliates will also be subject to certain non-solicitation and
+non-interference obligations during the Restricted Period with respect to the Covered Parties’ respective (i) employees,
+consultants and independent contractors, (ii) customers or clients, and (iii) vendors, suppliers, distributors, agents or other
+service providers. Each such Restricted Person will also be subject to non-disparagement provisions regarding the Covered Parties
+and confidentiality obligations with respect to the confidential information of the Covered Parties.
+
+ 
+
+
+
+
+      (7) 
+       
+    
+
+ 
+
+Seller Registration Rights Agreement
+
+ 
+
+At the Closing, Pubco
+and the Sellers shall enter into the Seller Registration Rights Agreement. Under the Seller Registration Rights Agreement,
+the Sellers shall have registration rights that will obligate Pubco to register for resale under the Securities Act all or
+any portion of their Class A Exchange Shares, the Pubco Class A ordinary shares issuable upon the excise of the Class B
+Exchange Shares (including, any shares held as Escrow Shares pursuant to the Escrow Agreement and any additional Exchange
+Shares (which, with respect to the Class B Exchange Shares, shall include only the underlying Pubco Class A ordinary shares)
+issued as a result of the post-Closing purchase price adjustment) (together with any warrants, capital shares or other
+securities issued as a dividend or distribution with respect thereto or in exchange therefor, the “ Registrable
+Securities ”), except that Registrable Securities that are subject to transfer restrictions in the Lock-Up
+Agreements may not be requested to be registered or registered until the end of the Lock-Up Period and the Escrow Shares may
+not be requested to be registered or registered while they are held in the Escrow Account in accordance with the Escrow
+Agreement. Sellers holding a majority-in-interest of the Registrable Securities (based on the number of shares and not voting
+rights and excluding Escrow Shares held under the Escrow Agreement) will be entitled under the Seller Registration Rights
+Agreement to make a written demand for registration under the Securities Act of all or part of the their Registrable
+Securities, and other Sellers holding Registrable Securities will be entitled to join in such demand registration. Subject to
+certain exceptions, if any time after the Closing, Pubco proposes to file a registration statement under the Securities Act
+with respect to its securities, under the Seller Registration Rights Agreement, Pubco shall give notice to the Sellers
+holding Registrable Securities as to the proposed filing and offer them an opportunity to register the sale of such number of
+Registrable Securities as requested by them in writing, subject to customary cut-backs. In addition, subject to certain
+exceptions, Sellers holding Registrable Securities will be entitled under the Seller Registration Rights Agreement to request
+in writing that Pubco register the resale of any or all of such Registrable Securities on Form S-3 or F-3 and any similar
+short-form registration that may be available at such time. Under the Seller Registration Rights Agreement, Pubco will
+indemnify the holders of Registrable Securities and certain persons or entities related to them, such as their officers,
+directors, employees, agents and representatives, against any losses or damages resulting from any untrue statement or
+omission of a material fact in any registration statement or prospectus pursuant to which they sell Registrable Securities,
+unless such liability arose from their misstatement or omission, and the holders of Registrable Securities, including
+Registrable Securities in any registration statement or prospectus, will agree to indemnify Pubco and certain persons or
+entities related to Pubco, such as its officers and directors and underwriters, against all losses caused by their
+misstatements or omissions in those documents.
+
+ 
+
+Founder Registration Rights Agreement
+Amendment
+
+ 
+
+At the Closing,
+Proficient, Pubco, the Founders and the other parties thereto shall enter into the Founder Registration Rights Agreement Amendment.
+Under the Founder Registration Rights Agreement, the Founder Registration Rights Agreement will be amended to, among other things,
+add Pubco as a party and to reflect the issuance of Pubco ordinary shares and warrants pursuant to the Business Combination Agreement,
+and to reconcile with the provisions of the Sellers Registration Rights Agreement, including making the registration rights of
+the Sellers and the Founders pari passu with respect to any underwriting cut-backs.
+
+The
+Lock-Up Agreements, the Non-Competition Agreements, the Seller Registration Rights Agreement and the Founder Registration Rights
+Agreement Amendment are filed with this Current Report on Form 8-K as Exhibits 10.1, 10.2, 10.3, 10.4, 10.5 and 10.6 respectively,
+and are incorporated herein by reference, and the foregoing descriptions of the Lock-Up Agreements, the Non-Competition Agreements,
+the Seller Registration Rights Agreement and the Founder Registration Rights Agreement Amendment are qualified in their entirety
+by reference thereto.
+
+SECURITIES ASSIGNMENT AND JOINDER AGREEMENT
+
+ 
+
+Pursuant
+to a Securities Assignment and Joinder Agreement, dated as of March 12, 2020 (the “Joinder”), Shih-Chung
+Chou, the sponsor in Proficient’s IPO (the “Original Sponsor”), assigned to Complex Zenith Limited,
+a British Virgin Islands company wholly-owned by the Original Sponsor (the “New Sponsor”), all of his
+equity interest in Proficient (including 431,250 shares of Proficient’s common stock and warrants to purchase 5,375,000 shares
+of Proficient’s common stock at $11.50 per share) and his rights and obligations under certain agreements entered in connection
+with the IPO, including (i) a letter agreement, dated as of May 29, 2019, by and among Proficient, I-Bankers Securities, Inc. (“I-Bankers”)
+and the Original Sponsor, (ii) a letter agreement, dated as of May 29, 2019, by and among Proficient, I-Bankers and the Founders,
+(iii) a Share Escrow Agreement, dated as of May 29, 2019, by and among Proficient, AST, as escrow agent, and the Founders, and
+(iv) the Founder Registration Rights Agreement (the foregoing agreements, collectively the “IPO Agreements”).
+Pursuant to the Joinder, the New Sponsor agreed to become a party to each of the IPO Agreements and to be bound by the terms of
+each IPO Agreement, and the other parties to each of the IPO Agreements have agreed to accept the New Sponsor as a party to each
+of the IPO Agreements.
+
+The
+Joinder is filed with this Current Report on Form 8-K as Exhibit 10.7 and is incorporated herein by reference, and the foregoing
+description of the Joinder is qualified in its entirety by reference thereto.
+
+ 
+
+
+
+
+      (8) 
+       
+    
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+  
+
+
+
+    Exhibit No.
+     
+    Description
+
+     
+     
+     
+
+    2.1*
+     
+    Business Combination Agreement, dated as of March 10, 2020, by and among Proficient Alpha Acquisition Corp., Shih-Chung Chou, in the capacity as the Purchaser Representative, Lion Group Holding Ltd., Lion MergerCo 1, Inc., Lion Financial Group Limited, Wang Jian and Legend Success Ventures Limited, in the capacity as the Seller Representatives and the stockholders of Lion Financial Group Limited named therein.
+
+     
+     
+     
+
+    10.1
+     
+    Lock-Up Agreement, dated as of March 10, 2020, by and among Lion Group Holding Ltd., Shih-Chung Chou, in the capacity as the Purchaser Representative, and Jian Wang.
+
+     
+     
+     
+
+    10.2
+     
+    Lock-Up Agreement, dated as of March 10, 2020, by and among Lion Group Holding Ltd., Shih-Chung Chou, in the capacity as the Purchaser Representative, and Legend Success Ventures Limited.
+
+     
+     
+     
+
+    10.3
+     
+    Non-Competition and Non-Solicitation Agreement, dated as of March 10, 2020, by and among Lion Group Holding Ltd., Proficient Alpha Acquisition Corp., Lion Financial Group Limited and Jian Wang.
+
+     
+     
+     
+
+    10.4
+     
+    Non-Competition and Non-Solicitation Agreement, dated as of March 10, 2020, by and among Lion Group Holding Ltd., Proficient Alpha Acquisition Corp., Lion Financial Group Limited and Chunning Wang.
+
+     
+     
+     
+
+    10.5
+     
+    Form of Seller Registration Rights Agreement, by and among, Lion Group Holding Ltd. and the Sellers.
+
+     
+     
+     
+
+    10.6
+     
+    Form of First Amendment to Registration Rights Agreement, by and among, Proficient Alpha Acquisition Corp., Lion Group Holding Ltd., I-Bankers Securities, Inc. and the Founders.
+
+     
+     
+     
+
+    10.7
+     
+    Securities Assignment and Joinder Agreement, dated as of March 12, 2020, by and among Complex Zenith Limited, Proficient Alpha Acquisition Corp., Shih-Chung Chou, and the other parties thereto.
+
+ 
+
+* The exhibits and schedules to this Exhibit
+have been omitted in accordance with Regulation S-K Item 601(b)(2). The Registrant agrees to furnish supplementally a copy of all
+omitted exhibits and schedules to the Securities and Exchange Commission upon its request.
+
+ 
+
+ 
+
+ 
+
+
+      (9) 
+       
+    
+
+
+
+
+ADDITIONAL INFORMATION
+
+ 
+
+Lion Group Holding Ltd., a Cayman Islands
+exempted company (“Pubco”) intends to file with the Securities and Exchange Commission (the “SEC”),
+a Registration Statement on Form F-4 (as amended, the “Registration Statement”), which will include a preliminary
+proxy statement of Proficient Alpha Acquisition Corp., a Nevada Corporation (“Proficient”) and a prospectus
+in connection with the proposed business combination (the “Business Combination”) involving Proficient, Lion
+Financial Group Limited, a corporation organized under the laws of the British Virgin Islands (“Lion”), Lion
+MergerCo 1, Inc., a Delaware corporation and a wholly-owned subsidiary of Pubco (“Merger Sub”), Shih-Chung Chou,
+an individual, in the capacity as the Purchaser Representative, Jian Wang and Legend Success Ventures Limited, each, in the capacity
+as a Seller Representative, and each of the holders of Lion’s outstanding capital shares (the “Sellers”).
+The definitive proxy statement and other relevant documents will be mailed to stockholders of Proficient as of a record date to
+be established for voting on the Business Combination. Stockholders of Proficient and other interested persons are advised to read,
+when available, the preliminary proxy statement, and amendments thereto, and the definitive proxy statement in connection with
+Proficient’s solicitation of proxies for the special meeting of its stockholders to be held to approve the Business Combination
+because these documents will contain important information about Proficient, Lion, Pubco and the Business Combination, including
+the Merger (as defined below). Stockholders will also be able to obtain copies of the Registration Statement and the proxy statement/prospectus,
+without charge, once available, on the SEC’s website at www.sec.gov or by directing a request to Proficient by contacting
+its Chief Financial Officer, Tracy Luo, c/o Proficient Alpha Acquisition Corp., 40 Wall St., 29th Floor, New York, New York 10005,
+at (917) 289-0932 or at info@paac-us.com.
+
+ 
+
+DISCLAIMER
+
+ 
+
+This report and the exhibits hereto do not
+constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in
+any jurisdiction in which the offer, solicitation or sale would be unlawful prior to the registration or qualification under the
+securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements
+of Section 10 of the Securities Act of 1933, as amended.
+
+ 
+
+PARTICIPANTS IN THE SOLICITATION
+
+ 
+
+Proficient, Pubco, and their respective
+directors and executive officers may be deemed to be participants in the solicitation of proxies from the stockholders of Proficient
+in connection with the Business Combination. Information regarding the officers and directors of Proficient is set forth in Proficient’s
+annual report on Form 10-K, which was filed with the SEC on December 30, 2019. Additional information regarding the interests of
+such potential participants will also be included in the Registration Statement on Form F-4 (and will be included in the definitive
+proxy statement/prospectus for the Business Combination) and other relevant documents filed with the SEC.
+
+ 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING
+STATEMENTS
+
+ 
+
+This report contains forward-looking statements
+that involve risks and uncertainties concerning the Business Combination, Lion’s expected financial performance, as well
+as its strategic and operational plans. Actual events or results may differ materially from those described in this report due
+to a number of risks and uncertainties. These risks and uncertainties could cause actual results or outcomes to differ materially
+from those indicated by such forward looking-statements. Most of these factors are outside the control of Proficient, Lion or Pubco
+and are difficult to predict. Factors that may cause such differences include, but are not limited to: (1) the occurrence of any
+event, change or other circumstances that could give rise to the termination of the Business Combination Agreement; (2) the outcome
+of any legal proceedings that may be instituted against Proficient, Lion or others following announcement of the Business Combination
+Agreement and the transactions contemplated therein; (3) the inability to complete the transactions contemplated by the Business
+Combination Agreement due to the failure to obtain approval of the stockholders of Proficient or other conditions to closing in
+the Business Combination Agreement; (4) delays in obtaining, adverse conditions contained in, or the inability to obtain necessary
+regulatory approvals required to complete the transactions contemplated by the Business Combination Agreement; (5) the risk that
+the Business Combination disrupts current plans and operations as a result of the announcement and consummation of the transactions
+described herein; (6) the inability to recognize the anticipated benefits of the Business Combination, which may be affected by,
+among other things, competition, the ability of the combined company to grow and manage growth profitably and retain its key employees;
+(7) the inability to obtain or maintain the listing of Pubco’s securities on The Nasdaq Stock Market, following the Business
+Combination, including having the requisite number of stockholders; (8) costs related to the Business Combination; (9) changes
+in applicable laws or regulations; (10) the possibility that Lion, Pubco or the combined company may be adversely affected by other
+economic, business, and/or competitive factors; and (11) other risks and uncertainties indicated from time to time in filings with
+the SEC by Proficient or Pubco. Readers are referred to the most recent reports filed with the SEC by Proficient. Readers are cautioned
+that the foregoing list of factors is not exclusive, and not to place undue reliance upon any forward-looking statements, which
+speak only as of the date made, and we undertake no obligation to update or revise the forward-looking statements to reflect any
+change in its expectations or any change in events, conditions or circumstances on which any such statement is based, subject to
+applicable law, whether as a result of new information, future events or otherwise.
+
+ 
+
+ 
+
+
+
+
+      (10) 
+       
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: March 16, 2020
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+     
+    PROFICIENT ALPHA ACQUISITION CORP.
+
+     
+     
+     
+
+    
+    By:
+    /s/ Kin Sze
+
+     
+     
+    Name: Kin Sze
+
+     
+     
+    Title: Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+
+      (11) 
+       
+    
+
+
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,524 @@
+
+8-K
+1
+tm1923797d2_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the
+Securities Exchange Act of 1934
+
+ 
+
+Date of report (Date of earliest event
+reported): November 21, 2019
+
+ 
+
+AdaptHealth Corp.
+
+(Exact name of registrant as specified
+in charter)
+
+ 
+
+
+
+    Delaware
+(State or other jurisdiction
+of incorporation)
+    001-38399
+(Commission File Number)
+    82-3677704
+(I.R.S. Employer
+Identification Number)
+
+
+
+ 
+
+220 West Germantown Pike, Suite 250
+
+Plymouth Meeting, PA
+(Address of principal executive offices)
+
+ 
+
+19462
+
+(Zip Code)
+
+ 
+
+(610) 630-6357
+(Registrant’s telephone number, including area code)
+
+ 
+
+ 
+
+(Former name or former address, if changed since last report)
+
+
+
+ 
+
+Check the appropriate
+box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following
+provisions:
+
+ 
+
+¨           Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨           Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨           Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨           Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Class A Common Stock, par value $0.0001 per share
+     
+    AHCO
+     
+    The Nasdaq Stock Market LLC
+
+    Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
+     
+    AHCOW
+     
+    The Nasdaq Stock Market LLC
+
+ 
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§ 240.12b-2).
+
+ 
+
+Emerging growth company  x
+
+ 
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement
+
+ 
+
+Securities Purchase Agreement
+
+ 
+
+ On November 21, 2019, AdaptHealth LLC,
+a Delaware limited liability company (“Buyer”) and a wholly-owned indirect subsidiary of AdaptHealth Corp., a Delaware
+corporation (the “Company”), McKesson Medical-Surgical, Inc., a Virginia corporation (“Seller”), NRE Holding
+Corporation, a Delaware corporation (“NRE”), and McKesson Patient Care Solutions, Inc., a Pennsylvania corporation
+(“PCS”), entered into a Securities Purchase
+Agreement (the “Agreement”), pursuant to which Seller agreed to sell to Buyer, and Buyer agreed to purchase from the
+Seller, all of the issued and outstanding equity interests of NRE (the “Transaction”). 
+
+   
+
+ The base purchase price for the Transaction
+is $14,000,000, payable in full in cash at the closing, subject to customary adjustments for cash, indebtedness, transaction expenses
+and net working capital (as compared to an agreed target net working capital amount). In addition, Buyer may be required to make
+an additional payment of $1,500,000 to Seller after the closing of the Transaction pursuant to the terms and conditions of a Transition
+Services Agreement to be entered into in connection with the closing of the Transaction (the “TSA”). 
+
+   
+
+ The consummation of the Transaction
+is subject to the satisfaction or waiver of, among other customary closing conditions, the accuracy of the representations and
+warranties in the Agreement, the compliance by the parties with the covenants in the Agreement, the absence of any legal order
+barring the Transaction, and the delivery of the TSA and other ancillary agreements relating to the temporary use and occupancy
+of a portion of certain of Seller’s facilities by Buyer. The parties are also provided with customary termination rights, including
+the right of either party to terminate the Agreement if the consummation of the Transaction has not occurred by January 31, 2020
+(unless the failure of the Transaction to be consummated was principally caused by such party’s failure to perform any material
+covenant, agreement or obligation under the Agreement). The Transaction is expected to close on or around December 31, 2019. 
+
+   
+
+ Under the Agreement, PCS and NRE made
+customary representations and warranties with respect to the business of PCS and NRE, including with respect to organization and
+qualification, subsidiaries, authorization, capitalization, non-contravention, financial statements, the absence of undisclosed
+liabilities, the non-occurence of certain events from the date of the latest consolidated balance sheet of NRE and PCS, compliance
+with laws, taxes, real property, personal property, intellectual property, contracts, litigation, employee benefits, environmental
+matters, labor matters, insurance policies, transactions with affiliates, material customers, material suppliers, brokers’
+fees, healthcare compliance, compliance with privacy laws, and the absence of fraud. In addition, Seller made customary representations
+and warranties, including with respect to authorization, no conflicts, required filings and consents, title to the equity interests
+of NRE and brokers’ fees. Certain representations of NRE and PCS are qualified in whole or in part by a material adverse
+effect standard for purposes of determining whether a breach of such representations and warranties has occurred. 
+
+   
+
+
+
+
+      - 2 - 
+     
+    
+
+ 
+
+Under the Agreement, Buyer made customary
+representations with respect to its organization and qualification, authorization, non-contravention, brokers’ fees, absence
+of litigation, having sufficient funds to consummate the transactions, and its solvency.
+
+ 
+
+ The representations and warranties
+by Seller, NRE and PCS are qualified by information in the accompanying disclosure schedules, which contain information
+that modifies, qualifies and creates exceptions to the representations and warranties of Seller, NRE and PCS set forth in the
+Agreement. Moreover, certain representations and warranties in the Agreement were used for the purpose of allocating risk
+among the parties, rather than establishing matters as facts. Accordingly, investors and securityholders should not rely on
+the representations and warranties in the Agreement as characterizations of the actual state of facts about the Seller,
+Buyer, NRE or PCS. 
+
+   
+
+ PCS, NRE and Seller made certain covenants under the Agreement,
+including, among others, the following: 
+
+ 
+
+
+ ·  subject
+                                         to limited exceptions, during the period between the signing of the Agreement and the
+                                         closing of the Transaction, Seller shall cause each of PCS and NRE to continue to conduct
+                                         their business in the ordinary course and use commercially reasonable efforts to carry
+                                         on and preserve intact their current business organizations, keep available the services
+                                         of their current officers and employees, and preserve their relationships with customers,
+                                         licensors, licensees and others with whom NRE and PCS have contractual or other commercial
+                                         relations in substantially the same manner as such relationships existed immediately
+                                         prior to the date of the Agreement; 
+
+ 
+
+
+ ·  subject
+                                         to limited exceptions, during the period between the signing of the Agreement and the
+                                         closing of the Transaction, NRE and PCS shall not, unless otherwise consented to by Buyer
+                                         in writing (which consent shall not be unreasonably withheld, conditioned or delated),
+                                         enter into or amend material contracts; split, combine or reclassify, or issue, equity
+                                         interests of NRE or PCS; issue, grant, deliver or sell, or purchase, redeem or acquire,
+                                         equity interests of NRE or PCS; amend their respective organizational documents; make
+                                         acquisitions; sell or otherwise dispose of assets; incur certain indebtedness; make loans
+                                         or acquisitions of debt securities; revalue material assets; make or change material
+                                         tax elections, adopt or change material accounting methods with respect to taxes, or
+                                         settle any material tax claims; 
+
+ 
+
+
+ ·  subject
+                                         to certain conditions, during the period between the signing of the Agreement and the
+                                         closing of the Transaction, Seller, NRE and PCS are required to provide reasonable access upon reasonable
+                                         prior notice to Buyer and its representatives to the directors, officers, employees,
+                                         agents, properties, offices, facilities, books and records of NRE and PCS and to furnish
+                                         Buyer and its representatives with information with respect to NRE and PCS; and 
+
+ 
+
+
+ ·  during the period between the signing of the Agreement and the closing of the Transaction, Seller is required not to,
+                                                                                                                      and to cause its representatives not to, directly or indirectly, initiate, solicit, encourage
+                                                                                                                      or otherwise facilitate any inquiry, proposal, offer or discussion with any person concerning
+                                                                                                                      any
+                                                                                                                      proposal from a third party relating to any merger or other business combination, issuance
+                                                                                                                      of a majority of the capital stock of, or an acquisition of all or substantially all
+                                                                                                                      of the assets of NRE and PCS; furnish any information concerning the business,
+                                                                                                                      properties or assets of NRE or PCS in connection with an inquiry, proposal or offer for
+                                                                                                                      such an acquisition proposal, or engage in discussions or negotiations with any third
+                                                                                                                      party concerning any such inquiry, proposal or offer for such an acquisition proposal. 
+
+ 
+
+ Buyer made certain covenants under the Agreement,
+including, among others, the following: 
+
+ 
+
+
+
+       
+     · 
+     for a period of one (1) year following the closing of the Transaction, to provide to each employee who is employed
+    by NRE and PCS immediately prior to the closing of the Transaction (a) compensation and severance compensation, in each case,
+    that  is substantially comparable in the aggregate to the compensation and severance compensation such employee was entitled
+    to receive immediately prior to the closing and (b) employee benefits that are substantially comparable in the aggregate to
+    the employee benefits that are offered to similarly qualified employees of Buyer; and 
+
+
+
+ 
+
+
+
+       
+     · 
+     to change the name of PCS to remove any reference to “McKesson” and to cease using any and all references
+    to “McKesson” and any trademarks, service marks, logos or trade names of McKesson Corporation. 
+
+
+
+ 
+
+
+
+
+      - 3 - 
+     
+    
+
+ 
+
+ Each
+party made certain mutual covenants under the Agreement, including, among others, to cooperate with each other and use commercially
+reasonable efforts to take, or to cause to be taken, all actions, and to do, or cause to be done, all things necessary, proper
+or advisable under the Agreement, applicable law or otherwise to consummate and make effective the Transaction, to obtain from
+any governmental authorities any consents, licenses, permits, waivers, approvals, authorizations or orders required to be obtained
+and to make any filings with or notifications or submissions to any governmental authority required to be made by such person
+in connection with the authorization, execution and delivery of the Agreement and the consummation of the Transaction, and to
+make all necessary filings, make such notices, and make any other required submissions, with respect to the Agreement, that are
+necessary, proper or advisable under applicable law or otherwise are reasonably required to obtain any consent, license, permit,
+approval, waiver or authorization or order of, filing with or notification to, any third person or governmental authority required
+as a result of the Transaction. 
+
+ 
+
+ Each of Seller and Buyer has agreed
+to indemnify the other party and its affiliates with respect to certain losses as a result of or in connection with breaches of
+its respective representations and warranties, as well as, in the case of Seller, certain taxes and, in the case of Buyer, breaches
+of its covenants under the Agreement. The indemnification obligations of the Seller are subject to certain customary limitations, including (i) survival periods applicable to representations and warranties of Seller, NRE and PCS, (ii) a deductible which
+damages must exceed prior to Seller incurring any indemnification obligation and (iii) limits on the amount of damages that may
+be recovered by Buyer. 
+
+ 
+
+Item 7.01. Regulation FD Disclosure
+
+ 
+
+On November 22, 2019,
+the Company issued a press release announcing the execution of the Agreement. A copy of the press release is attached hereto as
+Exhibit 99.1 and incorporated herein by reference. Such exhibit and the information set forth therein shall not be deemed to be
+filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise
+be subject to the liabilities of that section, nor shall it be deemed to be incorporated by reference in any filing under the Securities
+Act of 1933, as amended (the “Securities Act”), or the Exchange Act.
+
+ 
+
+ On November 22, 2019,
+the Company made available on its website at www.adapthealth.com a presentation regarding the Transaction. Such presentation and
+the information set forth therein shall not be deemed to be filed for purposes of Section 18 of the Exchange Act, or otherwise
+be subject to the liabilities of that section, nor shall it be deemed to be incorporated by reference in any filing under the
+Securities Act or the Exchange Act. 
+
+   
+
+Forward-looking Statements
+
+ 
+
+Certain statements
+in this Current Report on Form 8-K may constitute “forward-looking statements” for purposes of the federal securities
+laws. Our forward-looking statements include, but are not limited to, statements regarding our or our management team’s expectations,
+hopes, beliefs, intentions or strategies regarding the future. In addition, any statements that refer to projections, forecasts
+or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements.
+The words “anticipate,” “believe,” “continue,” “could,” “estimate,”
+ “expect,” “intends,” “may,” “might,” “plan,” “possible,”
+ “potential,” “predict,” “project,” “should,” “would” and similar expressions
+may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking.
+
+ 
+
+
+
+
+      - 4 - 
+     
+    
+
+ 
+
+These forward-looking
+statements are based on information available as of the date of this Current Report on Form 8-K, and current expectations, forecasts
+and assumptions, and involve a number of judgments, risks and uncertainties. Accordingly, forward-looking statements should not
+be relied upon as representing our views as of any subsequent date, and we do not undertake any obligation to update forward-looking
+statements to reflect events or circumstances after the date they were made, whether as a result of new information, future events
+or otherwise, except as may be required under applicable securities laws.
+
+ 
+
+As a result of a number
+of known and unknown risks and uncertainties, our actual results or performance may be materially different from those expressed
+or implied by these forward-looking statements. A further description of such risks and uncertainties can be found in the Company’s
+filings with the Securities and Exchange Commission, including the Company’s definitive proxy statement in connection with
+the solicitation of proxies from its stockholders filed with the Securities and Exchange Commission on October 23, 2019.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)        Exhibits.
+
+ 
+
+
+
+    Exhibit No.  
+    Exhibit
+
+    99.1  
+    Press Release, dated November 22, 2019
+
+
+ 
+
+
+
+
+      - 5 - 
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+hereunto duly authorized.
+
+ 
+
+Dated: November 25, 2019
+
+
+
+ 
+
+
+
+       
+     AdaptHealth Corp. 
+
+       
+       
+       
+
+       
+       
+       
+
+       
+     By: 
+     /s/ Gregg Holst 
+
+       
+       
+     Name: Gregg Holst 
+
+       
+       
+     Title: Chief Financial Officer 
+
+
+
+
+
+
+ 
+
+
+
+
+      - 6 - 
+    
+
+ 
+
+
+
+

@@ -1,0 +1,362 @@
+
+8-K
+1
+tm201313-1_8k.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+AdaptHealth
+Corp.
+
+(Exact
+name of registrant as specified in its charter) 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of Earliest Event
+Reported): January 1, 2020
+
+ 
+
+
+
+
+
+    Delaware
+     
+    001-38399
+     
+    82-3677704
+
+    (State or other jurisdiction of
+ incorporation)
+     
+    (Commission File Number)
+     
+    (IRS Employer Identification No.)
+
+
+
+ 
+
+220 West Germantown Pike, Suite 250
+
+Plymouth Meeting, PA
+(address of principal executive offices)
+
+ 
+
+19462
+
+(zip code)
+
+ 
+
+(610) 630-6357
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+ 
+
+ 
+
+(Former name or former address, if changed
+since last report.)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+¨Written communication pursuant to Rule 425 under the Securities Act (17 UR 230.425)
+
+ 
+
+
+¨Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CPR 240.14a-12)
+
+ 
+
+
+¨Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+¨Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each exchange on which registered
+
+    Class A Common Stock, par value $0.0001 per share
+     
+    AHCO
+     
+    The Nasdaq Stock Market LLC
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+    
+
+ 
+
+Item 2.01 Completion of Acquisition or Disposition of Assets.
+
+ 
+
+On January 1, 2020,
+AdaptHealth LLC (“Buyer”), a Delaware limited liability company and wholly-owned indirect subsidiary of AdaptHealth
+Corp., a Delaware corporation (the “Company”), completed its previously announced acquisition of NRE Holding Corporation,
+a Delaware corporation (“NRE”) and subsidiary of McKesson Medical-Surgical, Inc., a Virginia corporation (“Seller”),
+pursuant to the Securities Purchase Agreement, dated as of November 21, 2019 (the “Agreement”), by and among Buyer,
+Seller, NRE and McKesson Patient Care Solutions, Inc., a Pennsylvania corporation and wholly-owned subsidiary of NRE (“PCS”).
+On the terms and subject to the conditions set forth in the Agreement, at the closing of the Transaction (the “Closing”),
+Buyer purchased from Seller all of the issued and outstanding equity interests of NRE (the “Transaction”).
+
+ 
+
+Pursuant
+to the Agreement, Buyer paid an amount in cash equal to $14 million minus certain adjustments for cash, indebtedness, transaction
+expenses and net working capital (as compared to an agreed target net working capital amount) to Seller at the Closing.  In addition, Buyer may be required to make an additional payment of $1,500,000
+to Seller following the Closing pursuant to the terms and conditions of a Transition Services Agreement entered into in connection
+with the Closing. The total
+amount of Buyer’s investment in NRE, including restructuring costs relating to the integration of NRE’s business into the Company’s
+platform, is expected to be approximately $30 million.
+
+
+
+ 
+
+
+
+Item 7.01 Regulation FD Disclosure.
+
+ 
+
+On January 3, 2020,
+the Company issued a press release announcing the consummation of the Transaction, a copy of which is furnished as Exhibit 99.1 hereto and incorporated herein by reference. Such exhibit and the information set
+forth therein shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the
+ “Exchange Act”), or otherwise be subject to the liabilities of that section, nor shall it be deemed to be incorporated
+by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act.
+
+ 
+
+Forward-looking Statements
+
+ 
+
+Certain statements
+in this Current Report on Form 8-K may constitute “forward-looking statements” for purposes of the federal securities
+laws. Our forward-looking statements include, but are not limited to, statements regarding our or our management team’s expectations,
+hopes, beliefs, intentions or strategies regarding the future. In addition, any statements that refer to projections, forecasts
+or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements.
+The words “anticipate,” “believe,” “continue,” “could,” “estimate,”
+ “expect,” “intends,” “may,” “might,” “plan,” “possible,”
+ “potential,” “predict,” “project,” “should,” “would” and similar expressions
+may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking.
+
+ 
+
+These forward-looking
+statements are based on information available as of the date of this Current Report on Form 8-K, and current expectations, forecasts
+and assumptions, and involve a number of judgments, risks and uncertainties. Accordingly, forward-looking statements should not
+be relied upon as representing our views as of any subsequent date, and we do not undertake any obligation to update forward-looking
+statements to reflect events or circumstances after the date they were made, whether as a result of new information, future events
+or otherwise, except as may be required under applicable securities laws.
+
+ 
+
+As a result of a number
+of known and unknown risks and uncertainties, our actual results or performance may be materially different from those expressed
+or implied by these forward-looking statements. A further description of such risks and uncertainties can be found in the Company’s
+filings with the Securities and Exchange Commission, including the Company’s definitive proxy statement in connection with
+the solicitation of proxies from its stockholders filed with the Securities and Exchange Commission on October 23, 2019.
+
+ 
+
+
+
+
+    - 2 -
+     
+    
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(a) Financial Statements of Businesses Acquired.
+
+ 
+
+The financial statements
+required by this item with respect to the Transaction will be filed as soon as practicable, and in any event not later than 71
+days after the date on which this Current Report on Form 8-K is required to be filed pursuant to Item 2.01.
+
+ 
+
+(b) Pro Forma Financial Information.
+
+ 
+
+The pro forma financial
+information required by this item with respect to the Transaction will be filed as soon as practicable, and in any event not later
+than 71 days after the date on which this Current Report on Form 8-K is required to be filed pursuant to Item 2.01.
+
+ 
+
+(d)       Exhibits
+
+ 
+
+
+
+    99.1
+    Press Release, dated January 3, 2020
+
+
+ 
+
+
+
+
+    - 3 -
+     
+    
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+ 
+
+    AdaptHealth Corp.
+     
+
+     
+     
+
+    By: 
+    /s/ Gregg Holst
+     
+
+     
+    Gregg Holst
+     
+
+     
+    Chief Financial Officer
+     
+
+     
+     
+
+    Dated: January 7, 2020
+     
+
+ 
+
+
+
+
+    - 4 -
+    
+
+ 
+
+ 
+
+
+
+
+
+
+
+

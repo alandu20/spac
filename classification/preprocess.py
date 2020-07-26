@@ -35,7 +35,8 @@ def preprocess_document(text: str) -> str:
     text = text.replace('\n', ' ').replace('\t', ' ')
     # Replace unicode characters.
     unicode_replacements = {
-        '\xa0': ' ', '\x93': '"', '”': '"', '“': '"'
+        '\xa0': ' ', '\x93': '"', '\x94': '"',
+        '”': '"', '“': '"'
     }
     for unicode, replacement in unicode_replacements.items():
         text = text.replace(unicode, replacement)

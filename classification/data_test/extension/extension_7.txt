@@ -1,0 +1,494 @@
+
+8-K
+1
+f8k072519_gordonpointe.htm
+FORM 8-K
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+July 26, 2019
+____________________
+
+ 
+
+GORDON POINTE ACQUISITION CORP.
+
+(Exact name of registrant as specified in its
+charter)
+
+____________________
+
+ 
+
+
+
+    Delaware
+     
+    001-38363
+     
+    82-1270173
+
+    (State or other jurisdiction
+of incorporation)
+     
+    (Commission
+File Number)
+     
+    (IRS Employer
+Identification No.)
+
+ 
+
+780 Fifth Avenue South
+
+Naples, FL 34102
+
+(Address of principal executive offices, including
+zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (412) 960-4687
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+___________________
+
+ 
+
+Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+
+    ¨
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+     
+     
+
+    ¨
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+     
+     
+
+    ¨
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    
+        Name of each exchange on
+        which registered
+
+    Units, each consisting of one share of Class A common stock, $0.0001 par value, and one Warrant
+     
+    GPAQU
+     
+    Nasdaq Capital Market
+
+    Class A common stock, $0.0001 par value per share
+     
+    GPAQ
+     
+    Nasdaq Capital Market
+
+    Warrants to purchase Class A common stock
+     
+    GPAQW
+     
+    Nasdaq Capital Market
+
+ 
+
+
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+ Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+Amendment to Investment Management Trust Agreement 
+
+ 
+
+On July 26, 2019, Gordon Pointe Acquisition
+Corp. (the “Company”) and Continental Stock Transfer & Trust Company (“Continental”) entered into
+Amendment No. 1 to the Investment Management Trust Agreement, dated as of January 24, 2018, by and between the Company and
+Continental (the “Trust Amendment”), pursuant to which the date on which Continental must liquidate the trust account
+which was established in connection with the Company’s initial public offering (the “IPO”), in the event the
+Company has not consummated its initial business combination, was extended from July 30, 2019 to October 31, 2019, provided that
+the Company may further extend such date up to three times, each by an additional 30 days (the “Extended Date”). The
+Trust Amendment was approved by the Company’s stockholders at a Special Meeting of Stockholders held on July 26, 2019 (the
+“Special Meeting”).
+
+ 
+
+The foregoing description of the Trust Amendment
+does not purport to be complete and is qualified in its entirety by reference to the full text of the Trust Amendment, a copy of
+which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.
+
+ 
+
+Item 5.03 Amendments to Articles of Incorporation or Bylaws;
+Change in Fiscal Year. 
+
+On July 26, 2019, the Company filed with
+the Secretary of State of the State of Delaware an amendment (the “Extension Amendment”) to the Company’s Amended
+and Restated Certificate of Incorporation, pursuant to which the date by which the Company must consummate its initial business
+combination was extended from July 30, 2019 to the Extended Date (the “Extension”). The Extension Amendment was approved
+by the Company’s stockholders at the Special Meeting and became effective upon the filing thereof with the Secretary of State
+of the State of Delaware.
+
+The foregoing description of the Extension
+Amendment does not purport to be complete and is qualified in its entirety by reference to the full text of the Extension Amendment,
+a copy of which is attached hereto as Exhibit 3.1 and is incorporated herein by reference.
+
+Item 5.07 Submission of Matters to a Vote of Security
+Holders. 
+
+The results of voting on the proposals
+submitted to a vote of the Company’s stockholders at the Special Meeting, held on July 26, 2019, were as follows:
+
+Proposal No. 1
+
+The Extension Amendment was approved as
+follows:
+
+ 
+
+
+
+    For
+     
+    Against
+     
+    Abstain
+     
+    Broker Non-Votes
+
+    13,304,122
+     
+    185,101
+     
+    130,000
+     
+    0
+
+ 
+
+Proposal No. 2
+
+The Trust Amendment was approved as follows:
+
+
+
+    For
+     
+    Against
+     
+    Abstain
+     
+    Broker Non-Votes
+
+    13,304,122
+     
+    185,101
+     
+    130,000
+     
+    0
+
+ 
+
+
+    1 
+     
+    
+
+Item 7.01 Regulation FD Disclosure. 
+
+In connection with the Extension, stockholders
+elected to redeem 1,446,461 shares of the Company’s common stock issued in the IPO, par value $0.0001 per share (the “public
+shares”). As a result, an aggregate of approximately $14,962,644.55 (or approximately $10.34 per share) will be removed from
+the Company’s trust account to pay such stockholders. Following such redemptions, approximately 11,053,539 public shares
+will remain issued and outstanding.
+
+As indicated in the Company’s proxy
+materials relating to the Special Meeting, since the Extension Amendment was approved, the Company’s sponsor has agreed to
+contribute to the Company as a loan $0.10 for each public share that is not redeemed in connection with the stockholder vote to
+approve the extension of the deadline to complete an initial business combination to October 31, 2019, plus, if the Company elects
+to further extend the deadline to complete an initial business combination beyond October 31, 2019, $0.033 for each 30-day period
+thereafter, or portion thereof, up to three additional 30-day periods. The Company intends to use the amounts loaned by the sponsor
+to deposit in the Company’s trust account. Accordingly, the Company’s sponsor will contribute an aggregate of approximately
+$1,105,353.90 (the “Contribution”) to the Company within two business days prior to the beginning of each 30-day period
+(or portion thereof), other than the first Contribution which is being made on July 26, 2019. If the Company takes the full time
+through the Extended Date to complete an initial business combination, the redemption price per share at the meeting for such business
+combination or the Company’s subsequent liquidation will be approximately $10.52 per share. The amount of the Contribution
+will not bear interest and will be repayable by the Company to the sponsor upon consummation of an initial business combination.
+
+The information in this Item 7.01 is
+being furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated
+by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by
+specific reference in such filing.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+
+
+
+
+     Exhibit
+Number
+     
+    Description
+
+     
+     
+     
+
+    3.1
+     
+    Amendment to Amended and Restated Certificate of Incorporation of Gordon Pointe Acquisition Corp.
+
+     
+     
+     
+
+    10.1
+     
+    Amendment No. 1, dated as of July 26, 2019, to the Investment Management Trust Agreement, dated as of January 24, 2018, by and between Gordon Pointe Acquisition Corp. and Continental Stock Transfer & Trust Company
+
+     
+     
+     
+
+   
+
+
+
+
+
+
+    2 
+     
+    
+
+ 
+
+
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+
+
+     
+    GORDON POINTE ACQUISITION CORP.
+
+     
+     
+     
+
+     
+    By:
+    /s/ James J. Dolan
+
+     
+     
+    Name: James J. Dolan
+
+     
+     
+    Title: Chief Executive Officer
+
+     
+     
+     
+
+    Dated: July 26, 2019
+     
+     
+
+ 
+
+ 
+
+
+
+
+
+
+    3 
+     
+    
+
+
+
+ 
+
+EXHIBIT INDEX
+
+ 
+
+ 
+
+
+
+     Exhibit
+Number
+     
+    Description
+
+     
+     
+     
+
+    3.1
+     
+    Amendment to Amended and Restated Certificate of Incorporation of Gordon Pointe Acquisition Corp.
+
+     
+     
+     
+
+    10.1
+     
+    Amendment No. 1, dated as of July 26, 2019, to the Investment Management Trust Agreement, dated as of January 24, 2018, by and between Gordon Pointe Acquisition Corp. and Continental Stock Transfer & Trust Company
+
+     
+     
+     
+
+ 
+
+
+
+
+    4 
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+

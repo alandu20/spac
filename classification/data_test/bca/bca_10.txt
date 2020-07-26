@@ -1,0 +1,467 @@
+
+8-K/A
+1
+f8k072919a1_nescoholdings.htm
+AMENDMENT NO. 1 TO CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Form
+8-K/A
+(Amendment No. 1)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or 15(d)
+
+of
+the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of earliest event Reported): July 29, 2019
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+NESCO
+HOLDINGS, INC.
+
+(Exact
+Name of Registrant as Specified in its Charter)
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+    Delaware
+     
+    001-38186
+     
+    84-2531628
+
+    (State
+        or Other Jurisdiction
+        of
+Incorporation)
+     
+    (Commission
+        File
+Number)
+     
+    (I.R.S.
+        Employer
+        Identification
+Number)
+
+ 
+
+
+
+    6714
+        Pointe Inverness Way, Suite 220
+        Fort
+        Wayne, Indiana
+     
+    46804
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    code)
+
+ 
+
+(800)
+252-0043
+
+(Registrant’s
+telephone number, including area code)
+
+ 
+
+1300
+17th Street, Suite 820
+Arlington, VA 22009
+
+(Former
+Name or Former Address, if Changed Since Last Report)
+
+ 
+
+
+
+ 
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+     
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ 
+
+
+
+     
+    ☐
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17CFR 240.14a-12) 
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of Each Class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of Exchange on Which Registered
+
+    Common
+    Stock, $0.0001 par value
+     
+    NSCO
+     
+    New
+    York Stock Exchange
+
+    Redeemable
+    warrants, exercisable for Common Stock, $0.0001 par value
+     
+    NSCO
+    WS
+     
+    New
+    York Stock Exchange
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR
+§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Introductory
+Note
+
+ 
+
+This
+Current Report on Form 8-K/A is filed as an amendment (the “Amendment”) to the Current Report on Form 8-K filed
+on August 1, 2019 (the “Original Form 8-K”) by Nesco Holdings, Inc. (formerly known as Capitol Investment Corp.
+IV (prior to the Closing (as defined below), “Capitol”)) (the “Company”) in order to correct
+certain information required by Item 2.01(f) of Form 8-K (as described below) and to provide additional financial information
+required by Item 9.01 of the Original Form 8-K. As previously reported in the Original Form 8-K, on July 31, 2019, the Company
+completed the previously announced transactions (the “Closing”) contemplated by the Agreement and Plan of Merger,
+dated as of April 7, 2019 (as subsequently amended by that certain Amendment No. 1 (“Amendment No. 1”) to the
+Agreement and Plan of Merger, dated as of July 10, 2019, the “Merger Agreement”), by and among Capitol, Capitol
+Intermediate Holdings, LLC, Capitol Investment Merger Sub 1, LLC, Capitol Investment Merger Sub 2, LLC, NESCO Holdings, LP and
+NESCO Holdings I, Inc. (“Legacy Nesco”). In addition, in connection with the Closing, and in accordance with
+Section 388 of the Delaware General Corporation Law and the Cayman Islands Companies Law (2018 Revision), Capitol domesticated
+as a Delaware corporation and changed its name to “Nesco Holdings, Inc.”
+
+ 
+
+The
+Original Form 8-K incorporated by reference, among other items, the unaudited condensed consolidated financial statements of Legacy
+Nesco as of March 31, 2019 and the three month periods ended March 31, 2019 and 2018, the audited consolidated financial statements
+of Legacy Nesco as of December 31, 2018 and 2017 and for each of the three years in the period ended December 31, 2018, and the
+unaudited pro forma combined financial information of the Company as of March 31, 2019 and December 31, 2018. As Legacy Nesco
+is deemed the accounting acquirer in connection with the Merger Agreement, the financial statements of Legacy Nesco are deemed
+to be the historical financial statements of the Company. However, since the Closing occurred after June 30, 2019, the financial
+statements of the Company prior to the completion of the Merger Agreement are the financial statements that the Company was required
+to file, and filed on July 31, 2019, on its Quarterly Report on Form 10-Q, for the quarterly period ended June 30, 2019. Therefore,
+the Original Form 8-K is amended by this Amendment to provide the unaudited interim financial statements of Legacy Nesco for the
+quarterly period ended June 30, 2019, which are included under Item 9.01 hereto, in accordance with the rules and regulations
+of the Securities and Exchange Commission, as well as the additional corresponding information for the relevant fiscal period.
+
+ 
+
+The
+foregoing description of the Merger Agreement and the transactions contemplated therein is not complete and is subject to, and
+qualified in its entirety by, the full text of the Merger Agreement and Amendment No. 1, which were attached as Exhibits 2.1 and
+2.2, respectively, to the Original Form 8-K, which are incorporated herein by reference. Items and exhibits previously reported
+in the Original Form 8-K that are not included in this Amendment remain unchanged.
+
+ 
+
+This
+Amendment is also being filed to correct certain erroneous amounts inadvertently included in the Original Form 8-K under Item
+2.01 under the heading “Form 10 Information—Certain Relationship and Related Party Transactions.” The
+first paragraph under such subheading is hereby amended to read as follows: “ECP and their affiliates have ownership interests
+in a broad range of companies. Nesco has entered into commercial transactions in the ordinary course of its business and on an
+arms-length basis with a subsidiary of PLH Group, Inc., a company partially owned by an affiliate of ECP. Revenues derived from
+these transactions have totaled $18,522,773, $10,048,447 and $5,330,369, for each of the years ended December 31, 2018, 2017 and
+2016, respectively.” The second paragraph under such subheading remains unchanged.
+
+ 
+
+
+Item
+                          2.01.Completion
+                                         of Acquisition or Disposition of Assets. 
+
+ 
+
+The
+Management’s Discussion and Analysis of Financial Condition and Results of Operations of Legacy Nesco for the three and
+six month periods ended June 30, 2019 is included in this Amendment as Exhibit 99.1 and is incorporated herein by reference.
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+The
+last paragraph set forth under the heading “Introductory Note” with respect to the correction of disclosures regarding
+related party transactions is incorporated by reference into this Item 2.01.
+
+ 
+
+
+Item
+                                         9.01.Financial
+                                         Statements and Exhibits.
+
+ 
+
+
+(a)Financial
+statements of business acquired.
+
+
+ 
+
+The
+unaudited condensed consolidated financial statements of Legacy Nesco included in Exhibit 99.1 are incorporated herein by reference.
+
+ 
+
+Certain
+other audited and unaudited financial information of Legacy Nesco were incorporated by reference in the Original Form 8-K.
+
+ 
+
+
+(b)Pro
+forma financial information.
+
+
+ 
+
+Certain
+unaudited pro forma combined financial information of the Company was incorporated by reference in the Original Form 8-K.
+
+ 
+
+
+(d)Exhibits.
+
+
+ 
+
+The
+exhibits filed as part of this Amendment are listed in the index to exhibits immediately preceding the signature page to this
+Amendment, which index to exhibits is incorporated herein by reference.
+
+ 
+
+
+
+    Exhibit
+    No.
+     
+    Description
+
+    99.1
+     
+    Unaudited Condensed Consolidated Financial Statements of Legacy Nesco and corresponding Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+
+ 
+
+
+    2
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this amended report to
+be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated:
+August 9, 2019
+
+ 
+
+
+
+     
+    Nesco Holdings, Inc. 
+
+     
+     
+     
+
+     
+    By:
+    /s/
+    Bruce Heinemann
+
+     
+     
+    Name:
+    Bruce Heinemann
+
+     
+     
+    Title:
+    Chief Financial Officer and Secretary
+
+ 
+
+ 
+
+3
+
+
+
+ 
+
+ 
+
+
+
+

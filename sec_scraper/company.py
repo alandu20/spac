@@ -94,7 +94,7 @@ class Company(object):
 
     def get_all_filings(self, filing_type: str, prior_to="",
                         ownership="include",
-                        no_of_documents=10) -> List[Filing]:
+                        no_of_documents=100) -> List[Filing]:
         """Get all filings of certain type.
 
         Using the url, aggregate the documents for each filing, and all other

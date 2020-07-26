@@ -1,0 +1,1414 @@
+
+8-K
+1
+f8k102419_greenlandtech.htm
+CURRENT REPORT
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+DC 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+ 
+
+Pursuant
+to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): October 30, 2019 (October 24, 2019)
+
+ 
+
+GREENLAND
+TECHNOLOGIES HOLDING CORPORATION
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+
+
+    British
+    Virgin Islands
+     
+    001-38605
+     
+    N/A
+
+    (State
+    or other jurisdiction
+    of incorporation)
+     
+    (Commission
+    File Number)
+     
+    (IRS
+    Employer
+    Identification No.)
+
+ 
+
+
+
+    11-F,
+        Building #12, Sunking Plaza, Gaojiao Road
+        Hangzhou,
+        Zhejiang, People’s Republic of China
+     
+    311122
+
+    (Address
+    of principal executive offices)
+     
+    (Zip
+    Code)
+
+ 
+
+Registrant’s
+telephone number including area code: (86) 010-53607082
+
+ 
+
+Greenland
+Acquisition Corporation
+
+Suite
+906, Tower W1, Oriental Plaza
+
+No.
+1 East Chang’an Street, Dongcheng District
+
+Beijing,
+People’s Republic of China 10006
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+ 
+
+
+
+     
+    ☐
+    Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+
+     
+    ☐
+    Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+
+
+     
+    ☐
+    Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act
+of 1933 (§ 230.405 of this chapter) or Rule 12b–2 of the Securities Exchange Act of 1934 (§ 240.12b–2 of
+this chapter).
+
+ 
+
+Emerging
+growth company ☒
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+  
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title
+    of each class
+     
+    Trading
+    Symbol(s)
+     
+    Name
+    of each exchange on which registered
+
+    Ordinary
+    shares, no par value
+     
+    GTEC
+     
+    The
+    NASDAQ Stock Market LLC
+
+     
+     
+     
+     
+     
+
+    Warrants
+    to purchase one-half of one ordinary share 
+     
+    GTECW
+     
+    The
+    NASDAQ Stock Market LLC
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+TABLE
+OF CONTENTS
+
+ 
+
+
+
+     
+     
+    Page
+    No.
+
+     
+     
+     
+
+    CAUTIONARY
+    NOTE REGARDING FORWARD-LOOKING STATEMENTS
+    1
+
+     
+     
+     
+
+    INTRODUCTORY
+    NOTE
+    2
+
+     
+     
+     
+
+    Item
+    2.01.
+    Completion
+    of Acquisition of Disposition of Assets.
+    2
+
+     
+     
+     
+
+    THE
+    SHARE EXCHANGE AND RELATED TRANSACTIONS
+    2
+
+     
+     
+     
+
+    DESCRIPTION
+    OF BUSINESS
+    2
+
+     
+     
+     
+
+    RISK
+    FACTORS
+    3
+
+     
+     
+     
+
+    MANAGEMENT’S
+    DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+    3
+
+     
+     
+     
+
+    BENEFICIAL
+    OWNERSHIP OF SECURITIES
+    3
+
+     
+     
+     
+
+    MANAGEMENT
+    AFTER THE BUSINESS COMBINATION
+    3
+
+     
+     
+
+    DIRECTOR
+    COMPENSATION
+    3
+
+     
+     
+     
+
+    EXECUTIVE
+    COMPENSATION
+    3
+
+     
+     
+     
+
+    CERTAIN
+    RELATIONSHIPS AND RELATED TRANSACTIONS
+    3
+
+     
+     
+     
+
+    DESCRIPTION
+    OF SECURITIES
+    4
+
+     
+     
+     
+
+    LEGAL
+    PROCEEDINGS
+    4
+
+     
+     
+     
+
+    INDEMNIFICATION
+    OF DIRECTORS AND OFFICERS
+    4
+
+     
+     
+     
+
+    Item
+    3.02.
+    Unregistered
+    Sales of Equity Securities.
+    4
+
+     
+     
+     
+
+    Item
+5.01.
+    Changes
+    in Control of Registrant.
+    5
+
+     
+     
+     
+
+    Item
+5.02.
+    Departure
+    of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain
+    Officers.
+    5
+
+     
+     
+     
+
+    Item
+    5.03.
+    Amendments
+    to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+    5
+
+     
+     
+     
+
+    Item
+5.06.
+    Change
+    in Shell Company Status.
+    5
+
+     
+     
+     
+
+    Item
+    5.07.
+    Submission
+    of Matters to A Vote of Security Holders.
+    6
+
+
+     
+     
+     
+
+    Item
+9.01.
+    Financial
+    Statements and Exhibits.
+    7
+
+
+
+    i
+     
+    
+
+ 
+
+CAUTIONARY
+NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+ 
+
+This
+Current Report (the “Report”) contains forward-looking statements, including, without limitation, in the sections
+captioned “Description of Business,” “Risk Factors,” and “Management’s Discussion
+and Analysis of Financial Condition and Plan of Operations,” and elsewhere. Any and all statements contained in the
+Report that are not statements of historical fact may be deemed forward-looking statements. Terms such as “may,” “might,”
+“would,” “should,” “could,” “project,” “estimate,” “pro-forma,”
+“predict,” “potential,” “strategy,” “anticipate,” “attempt,” “develop,”
+“plan,” “help,” “believe,” “continue,” “intend,” “expect,”
+“future,” and terms of similar import (including the negative of any of the foregoing) may be intended to identify
+forward-looking statements. However, not all forward-looking statements may contain one or more of these identifying terms. Forward-looking
+statements in the Report may include, without limitation, statements regarding (i) the plans and objectives of management for
+future operations, (ii) a projection of income (including income/loss), earnings (including earnings/loss) per share, capital
+expenditures, dividends, capital structure or other financial items, (iii) our future financial performance, including any such
+statement contained in a discussion and analysis of financial condition by management or in the results of operations included
+pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”), and (iv) the assumptions
+underlying or relating to any statement described in points (i), (ii) or (iii) above.
+
+ 
+
+The
+forward-looking statements are not meant to predict or guarantee actual results, performance, events or circumstances and may
+not be realized because they are based upon our current projections, plans, objectives, beliefs, expectations, estimates and assumptions
+and are subject to a number of risks and uncertainties and other influences, many of which we have no control over. Actual results
+and the timing of certain events and circumstances may differ materially from those described by the forward-looking statements
+as a result of these risks and uncertainties. Factors that may influence or contribute to the accuracy of the forward-looking
+statements or cause actual results to differ materially from expected or desired results may include, without limitation:
+
+ 
+
+
+
+     
+    ●
+    Market
+    acceptance of our products and services;
+
+ 
+
+
+
+     
+    ●
+    Competition
+    from existing products or new products that may emerge;
+
+ 
+
+
+
+     
+    ●
+    The
+    implementation of our business model and strategic plans for our business and our products;
+
+ 
+
+
+
+     
+    ●
+    Estimates
+    of our future revenue, expenses, capital requirements and our need for financing;
+
+ 
+
+
+
+     
+    ●
+    Our
+    financial performance;
+
+ 
+
+
+
+     
+    ●
+    Current
+    and future government regulations;
+
+ 
+
+
+
+     
+    ●
+    Developments
+    relating to our competitors; and
+
+ 
+
+
+
+     
+    ●
+    Other
+    risks and uncertainties, including those listed under the section title “Risk Factors.”
+
+ 
+
+Readers
+are cautioned not to place undue reliance on forward-looking statements because of the risks and uncertainties related to them
+and to the risk factors. We disclaim any obligation to update the forward-looking statements contained in the Report to reflect
+any new information or future events or circumstances or otherwise, except as required by law.
+
+ 
+
+Readers
+should read the Report in conjunction with the discussion under the caption “Risk Factors,” our financial statements
+and the related notes thereto in the Report, and other documents which we may file from time to time with the SEC.
+
+ 
+
+
+
+    1
+     
+    
+
+ 
+
+INTRODUCTORY
+NOTE
+
+ 
+
+On
+October 24, 2019 (the “Closing Date”), the registrant consummated the previously announced business combination (the
+“Business Combination”) following a special meeting of stockholders (the “Special Meeting”) where the
+stockholders of Greenland Acquisition Corporation ( “Greenland”, the “Company”, “we” or “us”
+) considered and approved, among other matters, a proposal to adopt an share exchange agreement (the “Share Exchange Agreement”),
+dated as of July 12, 2019, entered into by and among (i) Greenland, (ii) Zhongchai Holding (Hong Kong) Limited, a Hong Kong company
+(“Zhongchai Holding”), (iii) Greenland Asset Management Corporation, a British Virgin Islands company with limited
+liability, in the capacity as the purchaser representative (the “Purchaser Representative”), and (iv) Cenntro Holding
+Limited, the sole member of Zhongchai Holding (the “Zhongchai Equity Holder” or the “Seller”).
+
+ 
+
+Pursuant
+to the Share Exchange Agreement, Greenland acquired from the Seller all of the issued and outstanding equity interests of Zhongchai
+Holding in exchange for 7,500,000 newly issued ordinary shares, no par value of the Company, to the Seller (the “Exchange
+Shares”). As a result, the Seller became the controlling shareholder of the Company, and Zhongchai Holding became a directly
+and wholly owned subsidiary of the Company (such transaction is referred as Business Combination herein below). The Business Combination
+was accounted for as a reverse merger effected by a share exchange, wherein Zhongchai Holding is considered the acquirer for accounting
+and financial reporting purposes.
+
+ 
+
+Prior
+to the Business Combination, we were a “shell company” (as such term is defined in Rule 12b-2 under the Securities
+Exchange Act of 1934, as amended). As a result of the Business Combination, we have ceased to be a “shell company”
+and continued the existing business operations of Zhongchai Holding as a publicly traded company under the name “Greenland
+Technologies Holding Corporation.”
+
+ 
+
+As
+used in the Report henceforward, unless otherwise stated or the context clearly indicates otherwise, the terms the “Registrant,”
+“Company,” “we,” “us” and “our” refer to the consolidated Company and its subsidiaries
+at and after the Closing, giving effect to the Business Combination.
+
+ 
+
+
+
+    Item
+    2.01.
+    Completion
+    of Acquisition of Disposition of Assets.
+
+ 
+
+THE
+SHARE EXCHANGE AND RELATED TRANSACTIONS 
+
+ 
+
+The
+disclosure set forth under “Introductory Note” above is incorporated in this Item 2.01 by reference. The material
+terms and conditions of the Share Exchange Agreement and its related agreements are described on pages 59 to 69 of the Company
+(formerly known as “Greenland Acquisition Corporation”)’s definitive proxy statement dated September 26, 2019
+(the “Definitive Proxy Statement”) in the section entitled “Proposal 1: The Business Combination Proposal—The
+Share Exchange Agreement,” which is incorporated by reference herein.
+
+ 
+
+DESCRIPTION
+OF BUSINESS
+
+ 
+
+The
+business of the Company after the Business Combination is described in Definitive Proxy Statement in the section entitled “Information
+about Zhongchai Holding” beginning on page 136 and that information is incorporated herein by reference.
+
+ 
+
+Specifically,
+subsections “Overview” begins on page 136, “Strategic Growth Opportunity in the Robotic Carrier Market”
+begins on page 136, “Corporate Structure and History” begins on page 138, “Products” begins on page 138,
+“Competitive Strengths” begins on page 139, “Business Strategies” begins on page 141, “Customers”
+begins on page 142, “Suppliers” begins on page 142, “Production” begins on page 143, “Inventory
+and Warehousing” begins on page 143, “Research and Development” begins on page 143, “Properties”
+begins on page 143, “Trademarks and Other Intellectual Property” begins on page 144, “Sales and Marketing”
+begins on page 144, “Competition” begins on page 144, “Employees” begins on page 145, “PRC Law and
+Regulation” begins on page 145, and “Legal Proceedings” begins on page 149.
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+RISK
+FACTORS
+
+ 
+
+The
+risks associated with the Company’s business are described in the Definitive Proxy Statement in the section entitled “Risk
+Factors” beginning on page 25 and are incorporated herein by reference. Specifically, subsections “Risk Related
+to the Business Combination” begins on page 25, “Risks Related to Zhongchai Holding’s Business” begins
+on page 32, “Risks Related to Doing Business in China” begins on page 38, and “Risk Related to Greenland”
+begins on page 49.
+
+ 
+
+MANAGEMENT’S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+The
+disclosure contained in the Definitive Proxy Statement with section entitled “Management’s Discussion and Analysis
+of Financial Condition And Results of Operations of Greenland” beginning on page 117 is incorporated herein by reference.
+Specifically, subsections “Results of Operations” begins on page 118, “Liquidity and Capital Resources”
+begins on page 118, “Off-balance Sheet Financing Arrangements” begins on page 119, “Contractual Obligations”
+begins on page 119, and “Critical Accounting Policies” begins on page 119.
+
+ 
+
+BENEFICIAL
+OWNERSHIP OF SECURITIES
+
+ 
+
+The
+disclosure contained in the Definitive Proxy Statement with section entitled “Beneficial Ownership of Securities”
+beginning on page 131 is incorporated herein by reference.
+
+ 
+
+MANAGEMENT
+AFTER THE BUSINESS COMBINATION
+
+ 
+
+The
+disclosure contained in the Definitive Proxy Statement with section entitled “Management of the Company Following the
+Business Combination” beginning on page 165 is incorporated herein by reference. Specifically, subsections “Officers,
+Directors and Key Employees” begins on page 165, “Corporate Governance Guidelines and Code of Business Conduct”
+begins on page 166, “Directors Independence” begins on page 166, “Board Leadership Structure” begins on
+page 167, “Committees of the Board of Directors” begins on page 167, “Compensation Committee Interlocks and
+Insider Participation” begins on page 168, and “Related Person Policy of the Company” begins on page 169.
+
+ 
+
+DIRECTOR
+COMPENSATION
+
+ 
+
+The
+disclosure contained in the Definitive Proxy Statement with section entitled “Director Compensation” beginning
+on page 164 is incorporated herein by reference.
+
+ 
+
+EXECUTIVE
+COMPENSATION
+
+ 
+
+The
+disclosure contained in the Definitive Proxy Statement with section entitled “Executive Compensation of Zhongchai Holding”
+beginning on page 164 is incorporated herein by reference.
+
+ 
+
+CERTAIN
+RELATIONSHIPS AND RELATED TRANSACTIONS
+
+ 
+
+The
+certain relationships and related party transactions of Greenland and Zhongchai Holding are described in the Definitive Proxy
+Statement in the section entitled “Certain Relationship and Related Party Transactions” beginning on page 133
+and are incorporated herein by reference. Specifically, subsections “Greenland Related Person Transactions”
+begins on page 133, “Zhongchai Holding Related Person Transactions” begins on page 134, “Post-Business Combination
+Arrangements” begins on page 135, and “Statement of Policy Regarding Transactions with Related Persons” begins
+on page 135.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+DESCRIPTION
+OF SECURITIES 
+
+ 
+
+The
+disclosure contained in the Definitive Proxy Statement with section entitled “Description of Greenland’s Securities”
+beginning on page 121 is incorporated herein by reference. Specifically, subsections “General” begins on page 121,
+“Units” begins on page 121, “Founder Shares” begins on page 123, “Preferred Shares” begins
+on page 123, “Rights” begins on page 124, “Redeemable Warrants” begins on page 125, “Purchase Option”
+begins on page 126, “Dividends” begins on page 127, “Private Placement Units” begins on page 127, “Our
+Transfer Agent, Rights Agent and Warrant Agent” begins on page 127, “Memorandum and Articles of Association”
+begins on page 127, “Changes in Authorized Shares” begins on page 128, “Pre-emption Rights” begins on
+page 128, “Variation of Rights of Shares” begins on page 129, and “Registration Rights” begins on page
+129.
+
+ 
+
+LEGAL
+PROCEEDINGS
+
+ 
+
+From
+time to time, the Company may be involved in various claims and legal proceedings arising in the ordinary course of business.
+
+ 
+
+Neither
+Zhongchai Holding nor Greenland is currently a party to any such claims or proceedings which, if decided adversely to the Company,
+would either, individually or in the aggregate, have a material adverse effect on the Company’s business, financial condition,
+results of operations or cash flows.
+
+ 
+
+INDEMNIFICATION
+OF DIRECTORS AND OFFICERS
+
+ 
+
+Our
+Memorandum and Articles of Association (the “Memorandum and Articles of Association”), as amended, the BVI Business
+Companies Act, 2004, the Insolvency Act, 2003 of the British Virgin Islands, each of which as amended, and the common law of British
+Virgin Islands allow us to indemnify our officers and directors from certain liabilities. Our Articles provides that the Company
+may indemnify, hold harmless and exonerate against all direct and indirect costs, fees and expenses of any type or nature whatsoever,
+any person who (a) is or was a party or is threatened to be made a party to any proceeding by reason of the fact that such person
+is or was a director, officer, key employee, adviser of the Company or who at the request of the Company; or (b) is or was, at
+the request of the Company, serving as a director of, or in any other capacity is or was acting for, another company.
+
+ 
+
+The
+Company will only indemnify the individual in question if the relevant indemnitee acted honestly and in good faith with a view
+to the best interests of the Company and, in the case of criminal proceedings, the indemnitee had no reasonable cause to believe
+that his conduct was unlawful. The decision of the board of directors of the Company (the “Board”) as to whether an
+indemnitee acted honestly and in good faith and with a view to the best interests of the Company and as to whether such indemnitee
+had no reasonable cause to believe that his conduct was unlawful is, in the absence of fraud, sufficient for the purposes of our
+Articles, unless a question of law is involved.
+
+ 
+
+The
+termination of any proceedings by any judgment, order, settlement, conviction or the entering of a nolle prosequi does not, by
+itself, create a presumption that the relevant indemnitee did not act honestly and in good faith and with a view to the best interests
+of the Company or that such indemnitee had reasonable cause to believe that his conduct was unlawful.
+
+ 
+
+The
+Company may purchase and maintain insurance, purchase or furnish similar protection or make other arrangements including, but
+not limited to, providing a trust fund, letter of credit, or surety bond in relation to any indemnitee or who at the request of
+the Company is or was serving as a director, officer or liquidator of, or in any other capacity is or was acting for, another
+company, against any liability asserted against the person and incurred by him in that capacity, whether or not the Company has
+or would have had the power to indemnify him against the liability as provided in the Memorandum and Articles of Association.
+
+ 
+
+
+
+    Item
+    3.02.
+    Unregistered
+    Sales of Equity Securities.
+
+ 
+
+The
+disclosure set forth under Item 2.01 above is incorporated in this Item 3.02 by reference. The 7,500,000 newly issued ordinary
+shares that were paid as consideration to the Seller upon the closing of the Business Combination were issued by the Company in
+reliance upon an exemption from the registration requirements of the Securities Act, pursuant to the Section 4(a) (2) of the Securities
+Act and Regulation S promulgated under the Securities Act. The Seller receiving the shares represented its intention to acquire
+the shares for investment only and not with a view to or for sale in connection with any distribution, and appropriate restrictive
+legends were affixed to the certificates representing the shares. The party also had adequate access, through business or other
+relationships, to information about the Company and Zhongchai Holding.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+
+
+    Item
+    5.01.
+    Changes
+    in Control of Registrant.
+
+ 
+
+The
+description of the Share Exchange Agreement and its related agreements in the Definitive Proxy Statement in the section entitled
+“Proposal 1: The Business Combination Proposal” beginning on page 59 and “The Related Agreements”
+beginning on page 67 are incorporated herein by reference. The information contained in Item 2.01 to the Report is also incorporated
+herein by reference.
+
+ 
+
+As
+a result of the issuance of the shares pursuant to the Business Combination and related transactions, a change in control of the
+Company occurred as of October 24, 2019. Except as described in the Report, no arrangements or understandings exist among present
+or former controlling shareholders with respect to the election of members of our Board and, to our knowledge, no other arrangements
+exist that might result in a change of control of the Company.
+
+ 
+
+
+
+    Item
+    5.02.
+    Departure
+    of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain
+    Officers.
+
+ 
+
+Three
+directors of Greenland, Jiang Pu, Shan Cui, and Yu Chen resigned from the Board upon the closing of the Business Combination.
+The Board following the Business Combination is comprised of the following five directors: Peter Zuguang Wang, who also serves
+as the Chairman of the Company, Yanming Liu, Min Zhang, Everett Xiaolin Wang, and Hong Liang Lu. For a detailed description, please
+see the section entitled “The Director Election Proposal” beginning on Page 94 in the Definitive Proxy Statement,
+which is incorporated by reference herein.
+
+ 
+
+Upon
+the closing of the Business Combination, River Chi resigned the position as the Chief Financial Officer of the Company, and Yanming
+Liu resigned the position as the Chief Executive Officer of the Company. The current management team consists of the following
+officers:
+
+ 
+
+
+
+    Name 
+    Age 
+    Position
+
+    Raymond Z. Wang 
+    35 
+    Chief Executive Officer and President
+
+    Jing Jin 
+    35 
+    Chief Financial Officer
+
+    Lei Chen 
+    59 
+    Chief Scientist
+
+
+ 
+
+For
+a detailed description, please see the section entitled “Management of the Company Following the Business Combination”
+beginning on Page 165 in the Definitive Proxy Statement, which is incorporated by reference herein.
+
+ 
+
+
+
+    Item 5.03
+    Amendments to Articles of Incorporation or Bylaws;
+Change in Fiscal Year. 
+
+
+
+ 
+
+Upon
+the closing of the Business Combination, the amendment to the Memorandum and Articles of
+Association of Greenland to replace Article 23 thereof (the “Articles Amendment”) went effective. For a detailed description
+of the Articles Amendment, please see the section entitled “Proposal 4: The Articles Amendment Proposal”
+beginning on page 97 in the Definitive Proxy Statement, which is incorporated by reference herein.
+
+ 
+
+Before
+the consummation of the Business Combination, the Company’s fiscal year ended on November 30. The Business Combination was
+accounted for as a reverse merger effected by a share exchange, wherein Zhongchai Holding is considered the acquirer for accounting
+and financial reporting purposes. As such, the Company has changed its fiscal year to December 31 to match that of Zhongchai
+Holding.
+
+ 
+
+
+
+    Item
+    5.06.
+    Change
+    in Shell Company Status.
+
+ 
+
+On
+October 24, 2019, as a result of the consummation of the Business Combination, which fulfilled the “initial Business Combination”
+requirement as set forth in the Memorandum and Articles of Association, the Company ceased to be a shell company upon the closing
+of the Business Combination. The material terms of the Business Combination are described in the Definitive Proxy Statement in
+the section entitled “Proposal 1: The Business Combination Proposal” beginning on page 59, which is incorporated
+by reference herein.
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+
+
+    Item
+    5.07.
+    Submission
+    of Matters to a Vote of Security Holders.
+
+ 
+
+On
+October 24, 2019, the Company held the Special Meeting. At the Special Meeting, the Company’s shareholders approved the
+Company’s proposed Business Combination with Zhongchai Holding and related matters.
+
+ 
+
+Set
+forth below are the final voting results for each of the proposals:
+
+ 
+
+PROPOSAL
+1: to consider and vote on a proposal to approve the Business Combination under the terms of the Share Exchange Agreement.
+Pursuant to the terms set forth in the Share Exchange Agreement, subject to the satisfaction or waiver of the conditions to the
+closing, Greenland will acquire all of the outstanding capital stock of Zhongchai Holding, which primarily conducts its business
+through its direct and indirectly owned subsidiaries, from the Zhongchai Equity Holder. In connection with the completion of the
+Business Combination, the Zhongchai Equity Holder will receive 7,500,000 ordinary shares of the Company as consideration for its
+existing equity interests of Zhongchai Holding.
+
+ 
+
+
+
+    For  
+    Against  
+    Abstain 
+
+     3,886,156  
+     537,011  
+     100 
+
+
+ 
+
+PROPOSAL
+2: to consider and vote on a proposal to approve the 2019 Equity Incentive Plan which will become effective upon the closing
+of the Business Combination and will be used by Greenland on a going-forward basis following such closing. For a detailed
+description, please see the section entitled “Proposal 2: The 2019 Equity Incentive Plan Proposal” beginning
+on page 88 in the Definitive Proxy Statement.
+
+ 
+
+
+
+    For  
+    Against  
+    Abstain 
+
+     4,323,167  
+     100,000  
+     100 
+
+
+ 
+
+PROPOSAL
+3: to consider and vote on a proposal to approve the election of five directors to serve staggered terms on the Board until
+the 2020 and 2021 annual meeting of shareholders, respectively, and until their respective successors are duly elected and qualified.
+For a detailed description, please see the section entitled “Proposal 3: The Director Election Proposal” beginning
+on page 94 in the Definitive Proxy Statement.
+
+ 
+
+
+
+      
+    For 
+    Withhold 
+    Broker Non-Vote
+
+    Min Zhang 
+    4,422,856 
+    411 
+    425,366
+
+      
+      
+      
+     
+
+    Everett Xiaolin Wang 
+    4,422,856 
+    411 
+    425,366
+
+      
+      
+      
+     
+
+    Hong Liang Lu 
+    4,422,856 
+    411 
+    425,366
+
+      
+      
+      
+     
+
+    Peter Zuguang Wang 
+    4,422,856 
+    411 
+    425,366
+
+      
+      
+      
+     
+
+    Yanming Liu 
+    4,423,267 
+    0 
+    425,366
+
+
+
+ 
+
+PROPOSAL
+4: to consider and vote on a proposal to approve the following material amendments to the Memorandum and Articles of Association:
+
+ 
+
+
+●to
+reflect the change of the name of the Company to “Greenland Technologies Holding Corporation” from “Greenland
+Acquisition Corporation”; and
+
+
+
+  
+
+
+
+●to
+make our corporate existence perpetual as opposed to our current corporate existence terminating 12 months (or up to 21 months,
+if we extend the period of time to consummate a business combination) following the consummation of the IPO and removing various
+provisions applicable only to special purpose acquisition companies.
+
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+For
+a detailed description, please see the section entitled “Proposal 4: The Articles Amendment Proposal” beginning
+on page 97 in the Definitive Proxy Statement.
+
+ 
+
+
+
+    For  
+    Against  
+    Abstain 
+
+     4,311,622  
+     537,011  
+     0 
+
+
+ 
+
+
+
+    Item
+    9.01.
+    Financial
+    Statements and Exhibits.
+
+ 
+
+(a)
+Financial Statements of Business Acquired.
+
+ 
+
+In
+accordance with Item 9.01(a), Zhongchai Holding’s audited financial statements for the year ended December 31, 2018 and
+2017, and unaudited financial statements for the six months ended June 30, 2019 are attached to the Report as Exhibit 99.1 hereto.
+
+ 
+
+(b)
+Pro Forma Financial Information.
+
+ 
+
+In
+accordance with Item 9.01(b), unaudited pro forma condensed combined financial statements for the nine months ended August 31,
+2019 and year ended November 30, 2018 are attached to the Report as Exhibit 99.2 hereto.
+
+ 
+
+(d)
+Exhibits
+
+ 
+
+
+
+    Exhibit
+     
+    Description
+
+     
+     
+     
+
+    2.1
+     
+    Share Exchange Agreement dated as of July 12, 2019 (Incorporated by reference to Exhibit 10.1 to the Registrant’s Report on Form 8-K filed by the registrant on July 12, 2019)
+
+     
+     
+     
+
+    3.1
+     
+    Amended and Restated Memorandum and Articles of Association, effective on October 24, 2019*
+
+     
+     
+     
+
+    10.1
+     
+    Employment Agreement, dated October 24, 2019 by and between the Company and Raymond Z. Wang*
+
+     
+     
+     
+
+    10.2
+     
+    Employment Agreement, dated October 24, 2019 by and between the Company and Lei Chen*
+
+     
+     
+     
+
+    10.3
+     
+    Employment Agreement, dated October 24, 2019 by and between the Company and Jing Jin*
+
+     
+     
+     
+
+    14.1
+     
+    Form of Code of Business Conduct and Ethics*
+
+     
+     
+     
+
+    17.1
+     
+    Resignation of Jiang Pu*
+
+     
+     
+     
+
+    17.2
+     
+    Resignation of Yu Chen*
+
+     
+     
+     
+
+    17.3
+     
+    Resignation of Shan Cui*
+
+     
+     
+     
+
+    17.4
+     
+    Resignation of Yanming Liu*
+
+     
+     
+     
+
+    17.5
+     
+    Resignation of River Chi*
+
+     
+     
+     
+
+    21.1
+     
+    Subsidiaries of Registrant*
+
+     
+     
+     
+
+    99.1
+     
+    Financial Statements of Zhongchai Holding (Hong Kong) Limited*
+
+     
+     
+     
+
+    99.2
+     
+    Pro Forma Financial Statements*
+
+ 
+
+
+*Filed
+herewith.
+
+
+ 
+
+
+
+
+    7
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+
+     
+    Greenland
+    Technologies Holding Corporation
+
+     
+     
+     
+
+    October
+    30, 2019
+    By:
+    /s/
+    Raymond Z. Wang
+
+     
+     
+    Raymond
+    Z. Wang
+
+     
+     
+    Chief
+    Executive Officer and President
+
+
+
+
+ 
+
+ 
+
+8
+
+ 
+
+
+
+
+
+
+
+

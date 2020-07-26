@@ -1,0 +1,433 @@
+
+8-K/A
+1
+d920540d8ka.htm
+8-K/A
+
+
+8-K/A
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+WASHINGTON, D.C. 20549   
+  FORM 8-K/A   
+  CURRENT
+REPORT  PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (Date of earliest event reported): April 23, 2020 
+   
+LEO HOLDINGS CORP. 
+(Exact Name of Registrant as Specified in Charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cayman Islands
+ 
+001-38393
+ 
+98-1399727
+
+ (State or Other Jurisdiction
+of Incorporation)
+ 
+ (Commission
+File Number)
+ 
+ (IRS Employer
+Identification No.)
+
+
+
+
+ 21 Grosvenor Place
+London
+ 
+SW1X 7HF
+
+(Address of Principal Executive Offices)
+ 
+(Zip Code)
+ Registrants telephone number, including area code: +44 20 7201 2200 
+Not Applicable  (Former
+Name or Former Address, if Changed Since Last Report)   
+  Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+☒
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+
+
+☐
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+
+
+☐
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act 
+(17 CFR 240.14d-2(b))
+  
+
+
+☐
+
+Pre-commencement communications 
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbol(s)
+ 
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-half of one redeemable warrant
+ 
+LHC.U
+ 
+New York Stock Exchange
+
+
+
+
+
+ Class A ordinary shares included as
+part of the units
+ 
+LHC
+ 
+New York Stock Exchange
+
+
+
+
+
+Warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+ 
+LHC WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.  Emerging growth
+company   ☒  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition
+period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐   
+   
+
+
+
+
+
+
+
+
+ On April 23, 2020, Digital Media Solutions Holdings, LLC (DMS) and
+Leo Holdings Corp. (Leo) announced that Leo and DMS entered into a definitive business combination agreement (the Business Combination Agreement). This Amendment No. 1 on Form
+8-K/A is being filed to describe the material terms of the Business Combination Agreement and related agreements, which are filed as exhibits herewith. 
+ 
+
+
+Item 1.01
+ Entry Into A Material Definitive Agreement. 
+Business Combination Agreement 
+The Business Combination Agreement, dated April 23, 2020, was entered into by and among Leo, DMS, CEP V DMS US Blocker Company, a Delaware
+corporation (Blocker Corp), Prism Data, LLC, a Delaware limited liability company (Prism), CEP V-A DMS AIV Limited Partnership, a Delaware limited partnership
+(Clairvest Direct Seller), Clairvest Equity Partners V Limited Partnership, an Ontario, Canada limited partnership (Blocker Seller 1), CEP V Co-Investment Limited
+Partnership, a Manitoba, Canada limited partnership (Blocker Seller 2, and together with Blocker Corp, Prism, Clairvest Direct Seller and Blocker Seller 1, the Sellers), Clairvest GP Manageco Inc., an Ontario
+corporation (Clairvest) as a Seller Representative, and, solely for the limited purposes set forth therein, Leo Investors Limited Partnership, a Cayman limited partnership (Sponsor). 
+The Business Combination Agreement and the transactions contemplated thereby were unanimously approved by the boards of directors of each of
+Leo and DMS.  The Business Combination 
+The Business Combination Agreement provides for the consummation of the following transactions in the following order (collectively, the
+Business Combination), in each case conditional upon each prior transaction having been consummated: (a) pursuant to the Surrender Agreement (as defined below) Leo Sponsor will surrender to Leo 2,000,000 private placement
+warrants (the Surrendered Warrants) and, together with certain other holders, an aggregate of 1,500,000 Class B ordinary shares of Leo (collectively, the Surrender); (b) Leo will change its
+jurisdiction of incorporation by deregistering as an exempted company in the Cayman Islands and continuing and domesticating as a corporation incorporated under the laws of the State of Delaware (the Domestication), upon which Leo
+will change its name to Digital Media Solutions, Inc. (New DMS); (c) Leo will consummate the Private Placement (as defined below); and (d) Leo will purchase the equity interests of Blocker Corp and a portion of the
+units of DMS from the Sellers, which units will be immediately contributed to the capital of Blocker Corp, in exchange for a combination of cash consideration, the Surrendered Warrants, shares of Class B common stock, par value $0.001 per
+share, of New DMS, which will have no economic value but will entitle the holder thereof to one vote per share (the Class B Shares), and shares of Class C common stock, par value $0.001 per share, of New
+DMS (the Class C Shares), which are convertible into shares of Class A common stock, par value $0.001 per share, of New DMS (the Class A Shares and, together with the
+Class B Shares and Class C Shares, the New DMS Common Stock) pursuant to a conversion ratio to be determined at the closing of the transactions contemplated by the Business Combination (the Closing). Immediately
+prior to the consummation of Closing, Leo will effect the foregoing transactions, Domestication and the Class A ordinary shares and Class B ordinary shares of Leo will be exchanged for Class A Shares and the outstanding warrants to purchase
+Class A ordinary shares of Leo will automatically become exercisable for Class A Shares. Clairvest Direct Seller and Prism will continue to hold membership interests in DMS (DMS Units) subject to and in accordance with
+the Amended Partnership Agreement (as defined below).  Following the Business Combination, the combined company will be organized in an
+Up-C structure, in which substantially all of the assets and business of New DMS will be held by DMS and continue to operate through the subsidiaries of DMS and New DMSs sole direct asset will be equity interests of DMS held by it.
+At the Closing, DMS and its current equity holders will amend and restate the limited liability company agreement of DMS (the Amended Partnership Agreement) in its entirety to, among other things, add Blocker Corp as member of DMS
+and provide Clairvest Direct Seller and Prism the right to redeem their DMS Units for cash or, at New DMSs option, Class A Shares, in each case subject to certain restrictions set forth therein. 
+Concurrent with the closing of the transactions contemplated by the Business Combination Agreement, New DMS will enter into the tax receivable
+agreement (the Tax Receivable Agreement) with the Sellers (the TRA Participants). Pursuant to the Tax Receivable Agreement, New DMS will be required to pay the TRA Participants 85% of the amount of savings, if
+any, in U.S. federal, state and local income tax that New DMS actually realizes as a result of the increases in tax basis and certain other tax benefits related to the payment of the cash consideration pursuant to the Business Combination Agreement
+and any exchanges of DMS Units for Class A Shares. All such payments to the TRA Participants will be New DMSs obligation, and not that of DMS. 
+In addition, in connection with the consummation of the transactions contemplated by the Business Combination Agreement, Leo will, among other
+things, (a) amend and restate its certificate of incorporation and bylaws immediately following the Domestication and (b) enter into, at the Closing, with the applicable Sellers or other parties, (i) a director nomination agreement relating to the
+composition of the board of directors of New DMS (the New DMS Board), (ii) an amended and restated registration rights agreement providing for certain registration rights with respect to the New DMS Common Stock and warrants, and
+(iii) a lock-up agreement restricting the Sellers from certain transfers of New DMS Common Stock during the lock-up period described therein. 
+Representations and Warranties, Covenants 
+Under the Business Combination Agreement, parties to the agreement made customary representations and warranties for transactions of this type
+regarding themselves. The representations and warranties made under the Business Combination Agreement shall not survive the Closing. In addition, the parties to the Business Combination Agreement made covenants that are customary for transactions
+of this type.  Conditions to Each Partys Obligations 
+Consummation of the transactions contemplated by the Business Combination Agreement is subject to the satisfaction or waiver of certain
+customary closing conditions of the respective parties, including, without limitation: (a) the approval and adoption by Leos shareholders of the Business Combination Agreement and transactions contemplated thereby; (b) the expiration or
+termination of any applicable waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended; (c) the consummation of each of the Surrender, Domestication and Private Placement; (d) the absence of a Material Adverse
+Effect (as defined in the Business Combination Agreement); (e) Leo having at least $5,000,001 of net tangible assets (as determined in accordance with Rule 3a51-1(g)(1) of the Securities Exchange Act of 1934) remaining after the Closing; (f) cash
+proceeds from the trust account established for the purpose of holding the net proceeds of Leos initial public offering and certain of the proceeds from its concurrent private placement of warrants, together with the proceeds from the Private
+Placement, net of any amounts paid to Leo shareholders that exercise their redemption rights in connection with the Business Combination, equaling no less than $200,000,000 at Closing; and (g) the approval for listing of the Class A Shares on the
+New York Stock Exchange. 
+
+
+
+
+
+
+
+
+ Termination 
+The Business Combination Agreement may be terminated under certain customary and limited circumstances at any time prior to the Closing,
+including (i) by Prism, Clairvest or Leo, if the Closing has not occurred by July 31, 2020 (the Outside Date), provided that the Outside Date shall automatically be extended to August 31, 2020 (the
+Extension Date), or such other mutually agreed-upon earlier date, if, as of 5:00 p.m., New York City time, on the Outside Date, (a) all closing conditions have been satisfied or waived (except for the consummation of the
+Surrender, Domestication and Private Placement and any other conditions that, by their nature, are to be satisfied at Closing), (b) the Subscription Agreements are amended to be in full force and effect through, and the applicable investor is
+obligated to consummate the transactions contemplated thereby if the Closing occurs on or prior to, the Extension Date, (c) Leos shareholders approve a resolution extending the deadline by which Leo has to complete a business combination
+pursuant to its amended and restated memorandum and articles of association then in effect and (d) there shall be no less than 10,000,000 shares of the Class A ordinary shares of Leo outstanding after giving effect to any redemptions by
+Leo shareholders that exercise their redemption rights in connection with the extension vote; and (ii) by either party, if Leos shareholders do not approve the Business Combination at Leos extraordinary general meeting. If the
+Business Combination Agreement is validly terminated, none of the parties to the Business Combination Agreement will have any liability or any further obligation under the Business Combination Agreement, except in the case of willful or material
+breach or actual fraud.  Board of Directors Following Closing 
+The Business Combination Agreement requires Leo to (a) obtain, prior to the Closing, resignations from all of the current directors of Leo,
+other than one individual nominated by Sponsor and one individual nominated by Lion Capital (Guernsey) Bridgeco Limited or an affiliate thereof, in each case to remain as a director following the Closing and (b) cause (i) the size of the New DMS
+Board to be set at seven and (ii) one individual nominated by Prism, two individuals nominated by Clairvest, one individual nominated jointly by Prism and Clairvest and the chief executive officer of New DMS, in each case, to be elected as members
+of the New DMS Board.  A copy of the Business Combination Agreement is filed with this Amendment No 1. on Form 8-K/A as Exhibit 2.1 and is incorporated herein by reference, and the foregoing description of the Business Combination Agreement is qualified in its entirety by reference thereto. The Business Combination Agreement
+contains representations, warranties and covenants that the respective parties made to each other as of the date of the Business Combination Agreement or other specific dates. The assertions embodied in those representations, warranties and
+covenants were made for purposes of the contract among the respective parties and are subject to important qualifications and limitations agreed to by the parties in connection with negotiating such agreement. The representations, warranties and
+covenants in the Business Combination Agreement are also modified in important part by the underlying disclosure schedules which are not filed publicly and which are subject to a contractual standard of materiality different from that generally
+applicable to shareholders and were used for the purpose of allocating risk among the parties rather than establishing matters as facts. We do not believe that these schedules contain information that is material to an investment decision. 
+Sponsor Shares and Warrant Surrender Agreement 
+Concurrent with the execution of the Business Combination Agreement, Sponsor, Leo and certain holders of Class B ordinary shares of Leo
+entered into a Sponsor Shares and Warrant Surrender Agreement (the Surrender Agreement), pursuant to which (a) the Surrender will be effectuated in connection with the consummation of the Business Combination and
+(b) Sponsor and other holders party thereto agreed to waive any adjustment to the conversion ratio set forth in Leos amended and restated memorandum and articles of association or any other anti-dilution or similar protection with respect
+to the Class B ordinary shares of Leo held by them.  A copy of the Surrender Agreement is attached as Exhibit 10.1 hereto and is
+incorporated herein by reference, and the foregoing description of the Surrender Agreement is qualified in its entirety by reference thereto. 
+
+
+
+
+
+
+
+
+ Private Placement 
+Leo entered into subscription agreements (the Subscription Agreements) with certain investors, pursuant to which, among
+other things, such investors agreed to subscribe for and purchase, and Leo agreed to issue and sell to such investors, including funds managed by Lion Capital LLP, an affiliate of the Sponsor, immediately following the Domestication, an aggregate of
+10,000,000 shares of Class A Shares for $10.00 per share, which will generate aggregate proceeds of $100.0 million (the Private Placement). The closing of the Private Placement is contingent upon, among other things, the
+substantially concurrent consummation of the Business Combination. The Subscription Agreements provide that New DMS will grant the investors in the Private Placement certain customary registration rights. The Class A Shares to be offered and
+sold in connection with the Private Placement have not been registered under the Securities Act of 1933, as amended (the Securities Act), in reliance upon the exemption provided in Section 4(a)(2) of the Securities Act and/or
+Regulation D or Regulation S promulgated thereunder without any form of general solicitation or general advertising.  The foregoing
+description of the Subscription Agreements and Private Placement is subject to and qualified in its entirety by reference to the full text of the form of Subscription Agreement, a copy of which is attached as Exhibit 10.2 hereto and the terms of
+which are incorporated herein by reference.  Additional Information 
+In connection with the Business Combination, Leo intends to file with the U.S. Securities and Exchange Commissions
+(SEC) a Registration Statement on Form S-4 (the Registration Statement), which will include a preliminary prospectus and preliminary proxy statement. Leo will
+mail a definitive proxy statement/prospectus and other relevant documents to its shareholders. This communication is not a substitute for the Registration Statement, the definitive proxy statement/prospectus or any other document that Leo will send
+to its shareholders in connection with the Business Combination. Investors and security holders of Leo are advised to read, when available, the proxy statement/prospectus in connection with Leos solicitation of proxies for its
+extraordinary general meeting of shareholders to be held to approve the Business Combination (and related matters) because the proxy statement/prospectus will contain important information about the Business Combination and the parties to the
+Business Combination. The definitive proxy statement/prospectus will be mailed to shareholders of Leo as of a record date to be established for voting on the Business Combination. Shareholders will also be able to obtain copies of the proxy
+statement/prospectus, without charge, once available, at the SECs website at www.sec.gov or by directing a request to: Leo Holdings Corp., 21 Grosvenor Place, London SW1X 7HF, United Kingdom. 
+Participants in the Solicitation 
+Leo and its directors, executive officers, other members of management, and employees, under SEC rules, may be deemed to be participants in the
+solicitation of proxies of Leos shareholders in connection with the Business Combination. Investors and security holders may obtain more detailed information regarding the names and interests in the Business Combination of
+Leos directors and officers in Leos filings with the SEC, including Leos Annual Report on Form 10-K for the fiscal year ended
+December 31, 2019, which was filed with the SEC on March 13, 2020, as well as in the Registration Statement, which will include the proxy statement of Leo for the Business Combination. Shareholders can
+obtain copies of Leos filings with the SEC, without charge, at the SECs website at www.sec.gov.  Forward-Looking Statements 
+This communication includes forward-looking statements within the meaning of the safe harbor provisions of the Private
+Securities Litigation Reform Act of 1995. Leos and DMSs actual results may differ from their expectations, estimates and projections and consequently, you should not rely on these forward looking statements as predictions of future
+events. Words such as expect, estimate, project, budget, forecast, anticipate, intend, plan, may, will, could,
+should, believes, predicts, potential, continue, and similar expressions are intended to identify such forward-looking statements. These forward-looking statements include, without
+limitation, Leos and DMSs expectations with respect to future performance and anticipated financial impacts of the proposed Business Combination, the satisfaction of the closing conditions to the Business Combination and the timing of
+the completion of the Business Combination. These forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially from the expected 
+
+
+
+
+
+
+
+
+ 
+results. Most of these factors are outside Leos and DMSs control and are difficult to predict. Factors that may cause such differences include, but are not limited to: (1) the
+occurrence of any event, change or other circumstances that could give rise to the termination of the Business Combination Agreement, (2) the outcome of any legal proceedings that may be instituted against Leo and DMS following the announcement
+of the Business Combination Agreement and the transactions contemplated therein; (3) the inability to complete the proposed Business Combination, including due to failure to obtain approval of the shareholders of Leo or other conditions to
+closing in the Business Combination Agreement; (4) the occurrence of any event, change or other circumstance that could give rise to the termination of the Business Combination Agreement or could otherwise cause the Business Combination to fail
+to close; (5) the amount of redemption requests made by Leos shareholders; (6) the inability to obtain or maintain the listing of the post-business combination companys common stock on the New York Stock Exchange following
+the proposed Business Combination; (7) the risk that the proposed Business Combination disrupts current plans and operations as a result of the announcement and consummation of the proposed Business Combination; (8) the ability to
+recognize the anticipated benefits of the proposed Business Combination, which may be affected by, among other things, competition, the ability of the combined company to grow and manage growth profitably and retain its key employees; (9) costs
+related to the proposed Business Combination; (10) changes in applicable laws or regulations; (11) the possibility that DMS or the combined company may be adversely affected by other economic, business, and/or competitive factors; and
+(12) other risks and uncertainties indicated from time to time in the proxy statement relating to the proposed Business Combination, including those under Risk Factors in the Registration Statement, and in Leos other filings
+with the SEC. Some of these risks and uncertainties may in the future be amplified by the COVID-19 outbreak and there may be additional risks that we consider immaterial or which are unknown. It is not
+possible to predict or identify all such risks. Leo cautions that the foregoing list of factors is not exclusive. Leo cautions readers not to place undue reliance upon any forward-looking statements, which speak only as of the date made. Leo does
+not undertake or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change in its expectations or any change in events, conditions or circumstances on which any such
+statement is based.  No Offer or Solicitation 
+This communication is for informational purposes only and is neither an offer to purchase, nor a solicitation of an offer to sell, subscribe
+for or buy any securities or the solicitation of any vote in any jurisdiction pursuant to the Business Combination or otherwise, nor shall there be any sale, issuance or transfer or securities in any jurisdiction in contravention of applicable law.
+No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act and otherwise in accordance with applicable law. 
+ 
+
+
+Item 9.01
+ Financial Statements and Exhibits. 
+(d) Exhibits   
+
+
+
+
+
+
+
+
+
+
+ExhibitNumber
+  
+Description
+
+
+
+
+
+
+2.1
+  
+Business Combination Agreement, dated as of April 23, 2020, by and among Leo Holdings Corp., Digital Media Solutions Holdings, LLC and the other parties thereto. 
+
+
+
+
+10.1
+  
+Sponsor Shares and Warrant Surrender Agreement, dated as of April 23, 2020, by and among between Leo Holdings Corp., Leo Investors Limited Partnership and the other parties thereto.
+
+
+
+
+10.2
+  
+Form of Subscription Agreement. 
+  
+
+
+
+ Certain of the exhibits and schedules to this exhibit have been omitted in accordance with Regulation S-K Item 601(b)(2). Leo agrees to furnish supplementally a copy of all omitted exhibits and schedules to the SEC upon its request. 
+ 
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dated: April 24, 2020
+ 
+
+ 
+LEO HOLDINGS CORP.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Simon Brown
+
+
+ 
+
+ 
+Name:
+ 
+Simon Brown
+
+
+ 
+
+ 
+Title:
+ 
+Secretary
+
+
+
+
+

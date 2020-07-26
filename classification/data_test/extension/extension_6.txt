@@ -1,0 +1,939 @@
+
+8-K/A
+1
+tv525003_8ka.htm
+FORM 8-K/A
+
+
+
+     
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+ 
+
+ 
+
+ 
+
+FORM 8-K/A
+
+(Amendment No. 1)
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT 
+
+PURSUANT TO SECTION 13 OR 15(D) 
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+ 
+
+Date of Report (Date of earliest event
+reported): July 9, 2019
+
+ 
+
+ 
+
+ 
+
+Social Capital Hedosophia Holdings Corp.
+
+(Exact name of registrant as specified
+in its charter) 
+
+ 
+
+ 
+
+ 
+
+
+
+    Cayman Islands
+     
+    001-38202
+     
+    98-1366046
+
+    
+        (State or other jurisdiction
+        of incorporation)
+     
+    
+        (Commission
+        File Number)
+     
+    
+        (I.R.S. Employer
+        Identification No.) 
+
+ 
+
+
+
+    
+        120 Hawthorne Avenue
+        Palo Alto, California 
+     
+    94301
+
+    (Address of principal executive offices)
+     
+    (Zip Code)
+
+ 
+
+(650) 521-9007
+
+(Registrant’s telephone number,
+including area code) 
+
+ 
+
+Not Applicable 
+
+(Former name or former address, if changed
+since last report) 
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K is
+intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+ 
+
+
+☒Written communications
+pursuant to Rule 425 under the Securities Act
+
+ 
+
+
+☐Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act
+
+ 
+
+
+☐Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act
+
+ 
+
+
+☐Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+    Title of each class
+     
+    Trading Symbol(s)
+     
+    Name of each
+ exchange on which 
+registered
+
+    Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one Warrant to purchase one Class A ordinary share
+     
+    IPOA.U
+     
+    New York Stock Exchange
+
+    Class A ordinary shares, $0.0001 par value per share
+     
+    IPOA
+     
+    New York Stock Exchange
+
+    Warrants to purchase Class A ordinary shares
+     
+    IPOA.WS
+     
+    New York Stock Exchange
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+
+
+ 
+
+
+
+
+     
+     
+    
+
+
+
+ 
+
+
+
+Explanatory Note
+
+ 
+
+This Amendment amends the Current Report
+on Form 8-K of Social Capital Hedosophia Holdings Corp., filed with the Securities Exchange Commission (the “SEC”)
+on July 9, 2019 (the “July 9 Current Report”), in which Social Capital Hedosophia Holdings Corp. reported, among other events, the execution
+of the Merger Agreement (as defined below).
+
+ 
+
+
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+ 
+
+
+
+Merger Agreement
+
+ 
+
+Social Capital Hedosophia
+Holdings Corp. is a blank check company incorporated as a Cayman Islands exempted company and formed for the purpose of effecting
+a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses
+(“SCH”). As previously disclosed in the July 9 Current Report, on July 9, 2019, SCH entered into an Agreement
+and Plan of Merger (the “Merger Agreement”) with Vieco 10 Limited, a company limited by shares under the laws
+of the British Virgin Islands (“V10”), Foundation Sub 1, Inc., a Delaware corporation and a direct wholly owned
+subsidiary of SCH (“Merger Sub A”), Foundation Sub 2, Inc., a Delaware corporation and a direct wholly owned
+subsidiary of SCH (“Merger Sub B”), Foundation Sub LLC, a Delaware limited liability company and a direct wholly
+owned subsidiary of SCH (“Merger Sub LLC” collectively with Merger Sub A and Merger Sub B, the “Merger
+Subs”), TSC Vehicle Holdings, Inc., a Delaware corporation and an indirect wholly owned subsidiary of V10 (“Company
+A”), Virgin Galactic Vehicle Holdings, Inc., a Delaware corporation and an indirect wholly owned subsidiary of the Holder
+(“Company B”) and VGH, LLC, a Delaware limited liability company and a direct wholly owned subsidiary of the
+Holder (“Company LLC” collectively with Company A and Company B, the “VG Companies” and together
+with V10, “VG”).
+
+ 
+
+The Mergers
+
+ 
+
+The Merger Agreement
+provides that, among other things and upon the terms and subject to the conditions thereof, the following transactions will occur
+(together with the other agreements and transactions contemplated by the Merger Agreement, including the Purchase Agreement (as
+defined below), the “Business Combination”):
+
+ 
+
+
+
+
+
+(i)             at
+the closing of the transactions contemplated by the Merger Agreement (the “Closing”), upon the terms and subject
+to the conditions of the Merger Agreement, (x) in accordance with the Delaware General Corporation Law, as amended (“DGCL”),
+Merger Sub A will merge with and into Company A, the separate corporate existence of Merger Sub A will cease and Company A will
+be the surviving corporation and a wholly owned subsidiary of SCH (“Corp Merger A”), (y) Merger Sub B, will
+merge with and into Company B, the separate corporate existence of Merger Sub B will cease and Company B will be the surviving
+corporation and a wholly owned subsidiary of SCH (“Corp Merger B”) and (z) in accordance with Section 18-209
+of the Delaware Limited Liability Corporation Act, as amended, Merger Sub LLC will merge with and into Company LLC, the separate
+company existence of Merger Sub LLC will cease and Company LLC will be the surviving company and a wholly owned subsidiary of
+SCH (the “LLC Merger” collectively with Corp Merger A and Corp Merger B, the “Mergers”);
+
+ 
+
+(ii)            as
+a result of the Mergers, among other things, all outstanding shares of common stock or limited liability company interests, as
+applicable, of each of the VG Companies will be cancelled in exchange for the right to receive a number of shares of SCH Common
+Stock (as defined below) equal to the quotient obtained by dividing $1,300,000,000 by $10.00; and
+
+ 
+
+(iii)           upon the effective
+time of the Mergers (the “Effective Time”), SCH will immediately be renamed “Virgin Galactic Holdings,
+Inc.”
+
+ 
+
+
+
+
+
+The Board of Directors
+of SCH (the “Board”) has unanimously (i) approved and declared advisable the Merger Agreement, the Business
+Combination and the other transactions contemplated thereby and (ii) resolved to recommend approval of the Merger Agreement and
+related matters by the shareholders of SCH.
+
+ 
+
+The Domestication
+
+ 
+
+Prior to the Closing,
+subject to the approval of SCH’s shareholders, and in accordance with the DGCL, Cayman Islands Companies Law (2018 Revision)
+(the “CICL”) and SCH’s Amended and Restated Memorandum and Articles of Association (as may be amended
+from time to time, the “Cayman Constitutional Documents”), SCH will effect a deregistration under the CICL and
+a domestication under Section 388 of the DGCL (by means of filing a certificate of domestication (the “Certificate of
+Domestication”) with the Secretary of State of Delaware), pursuant to which SCH’s jurisdiction of incorporation
+will be changed from the Cayman Islands to the State of Delaware (the “Domestication”).
+
+ 
+
+
+
+
+    2
+     
+    
+
+
+
+ 
+
+In connection with
+the Domestication, (i) each of the then issued and outstanding Class A ordinary shares, par value $0.0001 per share, of SCH (the
+“SCH Class A Ordinary Shares”), will convert automatically, on a one-for-one basis, into a share of common stock,
+par value $0.0001, per share of SCH (after its Domestication) (the “SCH Common Stock”), (ii) each of the then
+issued and outstanding Class B ordinary shares, par value $0.0001 per share, of SCH (the “SCH Class B Ordinary Shares”),
+will convert automatically, on a one-for-one basis, into a share of SCH Common Stock; provided, however, that with
+respect to the SCH Class B Ordinary Shares held by the Sponsor (as defined below), in connection with the Domestication the Sponsor
+will instead receive upon the conversion of the SCH Class B Ordinary Shares held by it, a number of shares of SCH Common Stock
+equal to (x) the number of SCH Class B Ordinary Shares held by it as of immediately prior to the Domestication minus (y)
+after giving effect to the Domestication, the number of shares of SCH Common Stock underlying the Director RSU Grants (as defined
+below) that were outstanding as of immediately prior to the Domestication, (iii) each then issued and outstanding warrant of SCH
+will convert automatically into a warrant to acquire one share of SCH Common Stock, pursuant to the Warrant Agreement, dated September
+13, 2017, between SCH and Continental Stock Transfer & Trust Company, as warrant agent, and (iv) each then issued and outstanding
+unit of SCH (the “Cayman SCH Units”) will convert automatically into a unit of SCH (after the Domestication)
+(the “Domesticated SCH Units”), with each Domesticated SCH Unit representing one share of SCH Common Stock and
+one-third of one Domesticated SCH Warrant.
+
+ 
+
+Conditions to Closing
+
+ 
+
+The Merger Agreement
+is subject to the satisfaction or waiver of certain customary closing conditions, including, among others, (i) approval by SCH’s
+shareholders of the Business Combination and related agreements and transactions, (ii) the effectiveness of the proxy / registration
+statement on Form S-4 to be filed by SCH in connection with the Business Combination, (iii) the receipt of certain regulatory approvals
+(including approval for listing on the NYSE of the shares of SCH Common Stock to be issued in connection with the Mergers), (iv)
+that SCH have at least $5,000,001 of net tangible assets upon Closing and (v) the absence of any injunctions.
+
+ 
+
+In addition, prior
+to the Closing, V10 and certain of its subsidiaries (including the VG Companies) will consummate the restructuring transactions
+as set forth in Merger Agreement, pursuant to which Company A, Company B and Company LLC will become, in each case, direct wholly-owned
+subsidiaries of V10 (the “Pre-Closing Restructuring”), and it is a condition to the obligations of SCH and Merger
+Subs to consummate the Mergers that (i) the Pre-Closing Restructuring has been substantially completed and (ii) the VG Companies
+and their subsidiaries collectively hold cash in an amount equal to or greater than $2,000,000, in the aggregate, in each case,
+as of the Closing.
+
+ 
+
+Other conditions to
+V10 and the VG Companies’ obligations to consummate the Mergers include, among others, that as of the Closing, (i) the Domestication
+has been completed, and (ii) the amount of cash available in the trust account into which substantially all of the proceeds of
+SCH’s initial public offering and private placements of its warrants have been deposited for the benefit of SCH, certain
+of its public shareholders and the underwriters of SCH’s initial public offering (the “Trust Account”),
+after deducting the amount required to satisfy SCH’s obligations to its shareholders (if any) that exercise their rights
+to redeem their SCH Class A Ordinary Shares (each, a “Redemption”) pursuant to the Cayman Constitutional Documents
+(“Trust Amount”), is at least equal to the sum of (x) $400,000,000 plus (y) if applicable, an aggregate
+of approximately $24,150,000 of deferred underwriting commissions being held in the Trust Account (the “Minimum Available
+SCH Cash Amount”); provided that this condition may not be waived by V10 or the VG Companies if the Available
+SCH Cash (as defined below) is less than $200,000,000 (the “Minimum SCH Cash Condition”).
+
+ 
+
+However, if the Trust
+Amount as of the Closing is less than the Minimum Available SCH Cash Amount, then (1) V10 and its affiliates will have the right
+(but not the obligation) to purchase (or seek a third party to purchase) additional shares of SCH Common Stock at a price per share
+of $10.00 up to the Minimum Available SCH Cash Amount less the amount of any Primary Purchase (as defined below) pursuant to clause
+(2) (the “Additional V10 Equity Amount”) and (2) if the aggregate purchase price paid to SCH by the CP Holder
+(as defined below) under a Primary Purchase (the “Investment Amount”, as more fully described below), when added
+to the Trust Amount and the Additional V10 Equity Amount, is equal to or greater than the Minimum Available SCH Cash Amount, then
+the Minimum SCH Cash Condition will be deemed to have been satisfied (the amount as calculated by adding the Trust Amount, the
+Additional V10 Equity Amount and the Investment Amount, the “Available SCH Cash”).
+
+ 
+
+
+
+
+    3
+     
+    
+
+
+
+ 
+
+Repurchase 
+
+ 
+
+Pursuant to the Merger
+Agreement, within ten business days after the Closing, if the Available SCH Cash is greater than $500,000,000 (the amount by which
+the Available SCH Cash exceeds $500,000,000, the “Remaining Cash”), then SCH will, at V10’s election,
+use cash in an amount up to the lesser of $200,000,000 and the Remaining Cash to repurchase shares of SCH Common Stock from V10
+at a purchase price of $10.00 per share.
+
+ 
+
+Extension
+
+ 
+
+In connection with
+the transactions contemplated by the Merger Agreement and in accordance with the Cayman Constitutional Documents and the Investment
+Management Trust Agreement, dated September 13, 2017 (the “Trust Agreement”), between SCH and Continental Stock
+Transfer & Trust Company, as trustee, SCH will, to the extent required under the Merger Agreement and subject to the approval
+of SCH’s shareholders, amend the Cayman Constitutional Documents and the Trust Agreement to extend the period within which
+SCH must have completed an initial Business Combination (as defined therein) to December 18, 2019 and, if required, to April 18,
+2020 (the “Extension”).
+
+ 
+
+Covenants
+
+ 
+
+The Merger Agreement
+contains additional covenants, including, among others, providing for (i) the parties to conduct their respective businesses in
+the ordinary course through the Closing, (ii) the parties to not initiate any negotiations or enter into any agreements for certain
+alternative transactions, (iii) the VG Companies to prepare and deliver to SCH certain audited and unaudited consolidated financial
+statements of the VG Companies, (iv) SCH to prepare and file a proxy / registration statement on Form S-4 and take certain other
+actions to obtain the requisite approval of SCH shareholders of certain proposals regarding the Business Combination (including
+the Domestication and Extension), and (v) the parties to use reasonable best efforts to obtain necessary approvals from governmental
+agencies.
+
+ 
+
+In addition, the Merger
+Agreement contains “wrong pockets” covenants, pursuant to which (i) V10 and its affiliates agree
+to transfer to the VG Companies or a designated subsidiary, any assets or liabilities substantially exclusively used in the business
+of the VG Companies and their subsidiaries as conducted on the date of the Closing (the “Closing Date”) that
+were inadvertently not transferred to the VG Companies and (ii) SCH and its subsidiaries (including, from and after the Closing,
+the VG Companies)     agree to transfer to V10 or a designated affiliate, any asset or liability substantially
+exclusively used in the business of V10 or its affiliates (other than the VG Companies or their subsidiaries) as conducted on the
+Closing Date that was inadvertently transferred to the VG Companies prior to Closing. The parties further agree to reimburse one
+another for certain losses actually paid by such party in respect of such “wrong pocket” liabilities, in each case,
+subject to the terms and conditions of the Merger Agreement.
+
+ 
+
+Representations and Warranties
+
+ 
+
+The Merger Agreement
+contains customary representations and warranties by SCH, Merger Subs, V10 and the VG Companies. The representations and warranties
+of the respective parties to the Merger Agreement generally will not survive the closing of the Mergers, but SCH retains the right
+to pursue recoveries under any representation and warranty policy which SCH may, in its sole discretion, seek to obtain and bind
+prior to the Closing.
+
+ 
+
+Termination
+
+ 
+
+The Merger Agreement
+may be terminated at any time prior to the Closing (x) by mutual written consent of SCH and V10, (y) by V10, in the event of certain
+injunctions, if certain approvals of the shareholders of SCH, to the extent required under the Merger Agreement, are not obtained
+as set forth therein or if there is a Modification of Recommendation (as defined in the Merger Agreement) or (z) by either SCH
+or V10 in certain other circumstances set forth in the Merger Agreement, including in the event of certain uncured breaches by
+the other party or if the Closing has not occurred on or before December 18, 2019, or if the time period for SCH to consummate a business combination is extended to April 18, 2020, the Closing has not occurred
+on or before April 18, 2020 (the later of such dates, the “Agreement End Date”).
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+Certain Related Agreements
+
+ 
+
+Purchase Agreement
+
+ 
+
+As previously disclosed
+in the July 9 Current Report, SCH also announced entry into a Purchase Agreement (the “Purchase Agreement”),
+in connection with the transactions contemplated by the Merger Agreement, by and among SCH, Chamath Palihapitiya (the “CP
+Holder”), SCH’s Chief Executive Officer and Chairman of its Board of Directors, and V10, pursuant to which, among
+other things, the CP Holder has agreed to, concurrently with the consummation of the Mergers, at the option of V10, (i) purchase
+a number of shares of newly issued SCH Common Stock from SCH in exchange for cash to be retained by SCH (the “Primary
+Purchase”), or (ii) purchase a number of shares of SCH Common Stock from V10, which will reduce the number of shares
+purchased directly from SCH pursuant to clause (i) (the “Secondary Purchase” and together with the Primary
+Purchase, the “Purchase”), in each case, subject to the terms and conditions contemplated by the Purchase Agreement;
+provided that the aggregate number of shares of SCH Common Stock to be purchased by the CP Holder pursuant to the Purchase
+Agreement will, in any event, be equal to 10,000,000, and the aggregate price paid for such shares will be equal to $100,000,000.
+The Purchase Agreement also contemplates that, at the option of V10, V10 may use all or a portion of the proceeds of any Secondary
+Purchase to purchase from SCH up to 10,000,000 newly issued shares of SCH Common Stock (but in no event to exceed the number of
+shares of SCH Common Stock purchased in such Secondary Purchase) at a price of $10.00 per share for an aggregate purchase price
+of up to $100,000,000.
+
+ 
+
+However, if the Minimum SCH
+Cash Condition is not satisfied or validly waived prior to or concurrently with the Closing, then V10 will not have the right
+to exercise any such option. The Purchase Agreement is filed with this Current Report as Exhibit 10.1 and is incorporated
+herein by reference.
+
+ 
+
+Sponsor Support Agreement
+
+ 
+
+As previously disclosed
+in the July 9 Current Report, on July 9, 2019, SCH also announced entry into a Support Agreement (the “Sponsor Support
+Agreement”), by and among SCH, SCH Sponsor Corp., a Cayman Islands exempted company and shareholder of SCH (the “Sponsor”),
+V10, each officer and director of SCH, V10, Company A, Company B and Company LLC, pursuant to which the Sponsor and each officer
+and director of SCH agreed to, among other things, vote in favor of the Merger Agreement and the transactions contemplated thereby,
+in each case, subject to the terms and conditions contemplated by the Sponsor Support Agreement.
+
+ 
+
+Stockholders’ Agreement
+
+ 
+
+The Merger Agreement
+contemplates that, at the Closing, SCH will enter into a Stockholders’ Agreement (the “Stockholders’ Agreement”)
+with V10, the Sponsor and the CP Holder (together with any individuals or entities that are signatories thereto or hereafter become
+party to the agreement, the “Voting Parties”), pursuant to which, among other things, (i) V10 and the CP Holder
+will be granted rights to designate directors to the Board of SCH (and the Voting Parties will vote in favor of such designees),
+(ii) V10 will agree not to take action to remove the members of the Board designated by the CP Holder pursuant thereto,
+(iii) the CP Holder will agree not to take action to remove the members of the Board designated by V10 pursuant thereto,
+and (iv) V10 will, under certain circumstances, have the right to approve certain matters as set forth therein.
+
+ 
+
+The Stockholders’
+Agreement also contemplates that, from and after the Closing, the Board of SCH will consist of seven directors, the Chairman of
+the Board will initially be Chamath Palihapitiya and includes certain other provisions regarding SCH’s anticipated classification
+as a “controlled company” following the Effective Time.
+
+ 
+
+Transfer Restrictions and Registration
+Rights
+
+ 
+
+The Merger Agreement
+contemplates that, at the Closing, SCH, V10, the Sponsor and CP Holder will enter into an Amended and Restated Registration Rights
+Agreement (the “Registration Rights Agreement”), pursuant to which SCH will agree to register for resale, pursuant
+to Rule 415 under the Securities Act, certain shares of SCH Common Stock and other equity securities of SCH that are held
+by the parties thereto from time to time. Additionally, the Registration Rights Agreement contains certain restrictions on transfer
+with respect to the shares of SCH Common Stock held by the Sponsor immediately following the Closing and the shares of SCH Common
+Stock received by V10 in connection with the Business Combination, including a two-year lock-up of such shares in each case, subject
+to limited exceptions as contemplated thereby (including that V10 may transfer up to 50% of the shares of SCH Common Stock received
+by it pursuant to the Merger Agreement after giving effect to the related transactions).
+
+ 
+
+Transition Services Agreements
+
+ 
+
+The Merger
+Agreement contemplates that, at the Closing, TSC, LLC, Virgin Galactic, LLC (“VG, LLC”), Galactic Ventures
+LLC (“GV LLC”) and Virgin Orbit, LLC (“VO LLC”), will enter into a Transition Services
+Agreement, pursuant to which the parties establish a service schedule to control the provision of certain services among the
+parties.
+
+ 
+
+In addition, the
+Merger Agreement contemplates that, at the Closing, pursuant to the UK Transition Services Agreement (the “UK
+TSA” together with the US TSA, the “Transition Services Agreements”), governed under the laws of
+England and Wales, current Virgin Galactic Limited employees based in the United Kingdom will continue to receive access to
+certain third party employee benefits services for up to 12 months post-Closing, including pension benefits, dental insurance
+and private healthcare schemes.
+
+ 
+
+
+
+
+    5
+     
+    
+
+
+
+
+
+ 
+
+Deed of Novation, Amendment and Restatement of Trade Mark
+License
+
+
+
+ 
+
+In connection with
+the Business Combination, on July 9, 2019, Virgin Enterprises Limited (“VEL”), VG, LLC and SCH have entered
+into a deed of novation, amendment and restatement (the “Novation Deed”), pursuant to which the trade mark license
+agreement, dated July 15, 2009, as supplemented and amended by a letter agreement dated December 4, 2013 and amended and restated
+on March 1, 2017 and further amended on May 30, 2017 (pursuant to which VEL granted VG, LLC certain rights to use certain VIRGIN
+marks) (the “TMLA”), was novated to SCH, and the parties thereto have agreed to amend and restate the TMLA in
+full in the form attached as an annex to the Novation Deed, with effect from and after the Effective Time (the “Amended
+TMLA”). 
+
+ 
+
+The form of Amended
+TMLA, among other things, contemplates that VEL will grant to SCH (following the Domestication, referred to therein as “VGHI”),
+during the term of the Amended TMLA (and subject to the terms and conditions set forth therein), the right to use the Virgin brand,
+name and logo in relation to the provision of orbital and sub-orbital space flight experiences to clients and certain other ancillary
+activities set forth in the Amended TMLA.  Subject to certain exceptions and adjustments contained in the Amended TMLA, VGHI
+will agree to pay VEL a royalty fee based on VHGI’s and its subsidaries’ gross sales.
+
+ 
+
+The Amended TMLA also
+contains, among other things, customary mutual indemnity provisions, representations and warranties, information rights of VEL
+and restrictions on VGHI’s and its affiliates’ ability to apply for or obtain registration for any confusingly similar
+intellectual property to that licensed to VGHI pursuant to the Amended TMLA. The Amended TMLA has an initial term of 25 years,
+subject to renewal for up to two additional ten year periods or earlier termination as set forth in the Amended TMLA.
+
+
+
+ 
+
+2019 Incentive Award Plan and
+Director RSU Grants
+
+ 
+
+
+
+In addition, as
+contemplated by the Merger Agreement, on July 8, 2019, the Board of Directors of SCH adopted the 2019 Incentive Award Plan
+(the “Plan”). The aggregate number of shares of SCH Common Stock that may be issued pursuant to the Plan
+will be equal to (i) ten percent of the sum of (x) issued and outstanding shares of SCH Common Stock as of the Closing plus
+(y) the number of shares of SCH Common Stock covered by the Director RSU Grants as of immediately prior to the Closing, plus
+(ii) the number of shares of SCH Common Stock covered by the Director RSU Grants as of immediately prior to the Closing. The
+Plan’s purpose is to enhance the ability of SCH to attract, retain and motivate those individuals who make important
+contributions to SCH and the VG Companies after the Closing by providing equity ownership opportunities and/or equity-linked
+compensatory opportunities.  The Plan is subject to, and contingent upon, approval of the SCH’s shareholders.
+
+ 
+
+Contemporaneous with
+the execution of the Merger Agreement and the adoption of the Plan, the Board approved a grant of restricted stock units pursuant
+to the Plan (“Director RSU Grants”) to certain members of the Board that, at the Closing, will vest and be converted
+into the right to receive an aggregate of 1,500,000 shares of SCH Common Stock. The Director RSU Grants are subject to, and contingent
+upon, (i) the closing of the Mergers, (ii) approval of the Plan by SCH’s shareholders, (iii) the event described under “The
+Domestication” above, including the reduction in the number of shares of SCH Common Stock to be received by the Sponsor in
+the Domestication by the number of shares of SCH Common Stock underlying the Director RSU Grants that were outstanding as of immediately
+prior to the Domestication, (iv) the continued service of the respective participants on the Board through the Closing Date, and
+(v) the accuracy and completeness of the participant’s representations and warranties in connection with the award grant.
+The restricted stock units will not settle in to shares of SCH Common Stock until a date selected by SCH that occurs between January
+1 and December 31st of the year following the Closing.
+
+
+
+ 
+
+The foregoing description of the Merger
+Agreement, Purchase Agreement and Sponsor Support Agreement, and the transactions and documents contemplated thereby is not complete
+and is subject to and qualified in its entirety by reference to the Merger Agreement, the Purchase Agreement and the Sponsor Support
+Agreement, copies of which are filed with this Current Report on Form 8-K as Exhibit 2.1, Exhibit 10.1 and Exhibit 10.2, respectively,
+and the terms of which are incorporated by reference herein.
+
+
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+The Merger Agreement, the Purchase
+Agreement and the Sponsor Support Agreement have been included to provide investors with information regarding its terms.
+They are not intended to provide any other factual information about SCH or its affiliates. The representations, warranties,
+covenants and agreements contained in the Merger Agreement, the Purchase Agreement, the Sponsor Support Agreement and the
+other documents related thereto were made only for purposes of the Merger Agreement as of the specific dates therein, were
+solely for the benefit of the parties to the Merger Agreement, the Purchase Agreement and the Sponsor Support Agreement, may
+be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures made
+for the purposes of allocating contractual risk between the parties to the Merger Agreement, the Purchase Agreement or the
+Sponsor Support Agreement instead of establishing these matters as facts, and may be subject to standards of materiality
+applicable to the contracting parties that differ from those applicable to investors. Investors are not third-party
+beneficiaries under the Merger Agreement, the Purchase Agreement or the Sponsor Support Agreement and should not rely on the
+representations, warranties, covenants and agreements or any descriptions thereof as characterizations of the actual state of
+facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information
+concerning the subject matter of representations and warranties may change after the date of the Merger Agreement, the
+Purchase Agreement or the Sponsor Support Agreement, as applicable, which subsequent information may or may not be fully
+reflected in the SCH’s public disclosures.
+
+
+
+ 
+
+Additional Information and Where to
+Find It
+
+ 
+
+This Current Report on Form 8-K relates
+to a proposed transaction between VG and SCH. This Current Report on Form 8-K does not constitute an offer to sell or exchange,
+or the solicitation of an offer to buy or exchange, any securities, nor will there be any sale of securities in any jurisdiction
+in which such offer, sale or exchange would be unlawful prior to registration or qualification under the securities laws of any
+such jurisdiction. SCH intends to file a registration statement on Form S-4 with the SEC, which will include a document that serves
+as a prospectus and proxy statement of SCH, referred to as a proxy statement/prospectus. A proxy statement/prospectus will be sent
+to all SCH shareholders. SCH also will file other documents regarding the proposed transaction with the SEC. Before making any
+voting decision, investors and security holders of SCH are urged to read the registration statement, the proxy statement/prospectus
+and all other relevant documents filed or that will be filed with the SEC in connection with the proposed transaction as they become
+available because they will contain important information about the proposed transaction.
+
+ 
+
+Investors and security holders will be
+able to obtain free copies of the registration statement, the proxy statement/prospectus and all other relevant documents filed
+or that will be filed with the SEC by SCH through the website maintained by the SEC at www.sec.gov.
+
+ 
+
+The documents filed by SCH with the SEC
+also may be obtained free of charge at SCH’s website at http://www.socialcapitalhedosophiaholdings.com/docs.html or upon
+written request to 120 Hawthorne Avenue Palo Alto, California 94301.
+
+ 
+
+Participants in Solicitation
+
+ 
+
+SCH and its respective directors and executive
+officers may be deemed to be participants in the solicitation of proxies from SCH’s shareholders in connection with the proposed
+transaction. Information about SCH’s directors and executive officers and their ownership of SCH’s securities is set
+forth in SCH’s Annual Report on Form 10-K filed with the SEC on March 18, 2019. To the extent that holdings of SCH’s
+securities have changed since the amounts reported in SCH’s Annual Report, such changes have been or will be reflected on
+Statements of Change in Ownership on Form 4 filed with the SEC. Additional information regarding the interests of those persons
+and other persons who may be deemed participants in the proposed transaction may be obtained by reading the proxy statement/prospectus
+regarding the proposed transaction when it becomes available. You may obtain free copies of these documents as described in the
+preceding paragraph.
+
+
+
+ 
+
+
+
+
+    7
+     
+    
+
+ 
+
+Forward-Looking Statements Legend
+
+ 
+
+This Current Report on Form 8-K
+contains certain forward-looking statements within the meaning of the federal securities laws with respect to the proposed
+transaction between VG and SCH, including statements regarding the benefits of the transaction, the anticipated timing of the
+transaction and the products and markets and expected performance of VG. These forward-looking statements generally are
+identified by the words “believe,” “project,” “expect,” “anticipate,”
+“estimate,” “intend,” “strategy,” “future,” “opportunity,”
+“plan,” “may,” “should,” “will,” “would,” “will be,”
+“will continue,” “will likely result,” and similar expressions. Forward-looking statements are
+predictions, projections and other statements about future events that are based on current expectations and assumptions and,
+as a result, are subject to risks and uncertainties. Many factors could cause actual future events to differ materially from
+the forward-looking statements in this document, including but not limited to: (i) the risk that the transaction may not be
+completed in a timely manner or at all, which may adversely affect the price of SCH’s securities, (ii) the risk that
+the transaction may not be completed by SCH’s business combination deadline and the potential failure to obtain an
+extension of the business combination deadline if sought by SCH, (iii) the failure to satisfy the conditions to the
+consummation of the transaction, including the adoption of the Merger Agreement by the shareholders of SCH, the satisfaction
+of the minimum trust account amount following redemptions by SCH’s public shareholders and the receipt of certain
+governmental and regulatory approvals, (iv) the lack of a third party valuation in determining whether or not to pursue the
+proposed transaction, (v) the occurrence of any event, change or other circumstance that could give rise to the
+termination of the Merger Agreement, (vi) the effect of the announcement or pendency of the transaction on VG’s
+business relationships, operating results, and business generally, (vii) risks that the proposed transaction disrupts current
+plans and operations of VG, (viii) the outcome of any legal proceedings that may be instituted against VG or against SCH
+related to the Merger Agreement or the proposed transaction, (ix) the ability to maintain the listing of SCH’s
+securities on the New York Stock Exchange, (x) changes in the competitive and highly regulated industries in which VG plans
+to operate, variations in operating performance across competitors, changes in laws and regulations affecting VG’s
+business and changes in the combined capital structure, (xi) the ability to implement business plans, forecasts, and other
+expectations after the completion of the proposed transaction, and identify and realize additional opportunities, and (xii)
+the risk of downturns in the highly competitive and novel tourist spaceflight industry. The foregoing list of factors is not
+exhaustive. You should carefully consider the foregoing factors and the other risks and uncertainties described in the
+“Risk Factors” section of SCH’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, the
+registration statement on Form S-4 discussed above and other documents filed by SCH from time to time with the SEC. These
+filings identify and address other important risks and uncertainties that could cause actual events and results to differ
+materially from those contained in the forward-looking statements. Forward-looking statements speak only as of the date they
+are made. Readers are cautioned not to put undue reliance on forward-looking statements, and VG and SCH assume no obligation
+and do not intend to update or revise these forward-looking statements, whether as a result of new information, future
+events, or otherwise. Neither VG nor SCH gives any assurance that either VG or SCH will achieve its expectations.
+
+ 
+
+
+
+Item 3.02 Unregistered Sales of Equity
+Securities
+
+ 
+
+The disclosure set
+forth above in Item 1.01 of this Current Report on Form 8-K is incorporated by reference herein. The shares of SCH Common Stock
+to be issued to V10 in connection with the Business Combination and the CP Holder in any Primary Purchase, pursuant to the terms
+of the Merger Agreement and the Purchase Agreement, as applicable, will not be registered under the Securities Act of 1933, as
+amended (the “Securities Act”), in reliance on the exemption from registration provided by Section 4(a)(2) of
+the Securities Act.
+
+
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+
+
+    Exhibit No.
+    Description
+
+    2.1
+    Agreement and Plan of Merger, dated as of June 9, 2019
+
+    10.1
+    Purchase Agreement, dated as of July 9, 2019
+
+    10.2
+    Sponsor Support Agreement, dated as of July 9, 2019
+
+ 
+
+
+
+
+    8
+     
+    
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+
+     
+    Social Capital Hedosophia Holdings Corp. 
+
+     
+     
+     
+
+    Date: July 11, 2019
+    By:
+    /s/ Chamath Palihapitiya
+     
+
+     
+    Name:
+    Chamath Palihapitiya
+
+     
+    Title:
+    Chief Executive Officer
+
+ 
+
+ 
+
+
+     
+    
+
+
+
+ 
+
+ 
+
+
+
+

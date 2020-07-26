@@ -8,7 +8,7 @@ class NaiveStrategy(bt.Strategy):
 
     params = (
         ("filings", None),
-        ("holding_period", 5),
+        ("holding_period", 6),
     )
 
     def __init__(self):
@@ -90,7 +90,7 @@ class NaiveStrategy(bt.Strategy):
         self.log('OPERATION PROFIT, GROSS %.2f, NET %.2f' %
                  (trade.pnl, trade.pnlcomm))
 
-    def next(self):
+    def next_open(self):
         """Called on all data points to simulate strategy behavior."""
         # Get the current time stamp.
         while (self.filing_index < len(self.filings) and
@@ -115,7 +115,6 @@ class NaiveStrategy(bt.Strategy):
             if order.isbuy() and (
                     order.status not in
                     [order.Canceled, order.Margin, order.Rejected]):
-                # if self.order.created.dt
                 if (self.data.datetime.datetime(0) - date >=
                         datetime.timedelta(hours=self.holding_period * 24)):
                     self.sell()

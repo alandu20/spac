@@ -1,0 +1,1332 @@
+
+8-K
+1
+d809452d8k.htm
+8-K
+
+
+8-K
+
+ 
+
+
+
+  
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+  FORM 8-K   
+  CURRENT REPORT
+ PURSUANT TO SECTION 13 OR 15(D) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+Date of Report (Date of earliest event reported): October 25, 2019 
+   
+Virgin Galactic Holdings, Inc. 
+(Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-38202
+ 
+98-1366046
+
+ (State or other jurisdiction
+of incorporation)
+ 
+ (Commission
+File Number)
+ 
+ (I.R.S. Employer
+Identification No.)
+
+
+
+
+ 166 North Roadrunner Parkway, Suite 1C
+Las Cruces, New Mexico
+ 
+88011
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ (575) 522-3102 
+(Registrants telephone number, including area code) 
+Social Capital Hedosophia Holdings Corp. 
+120 Hawthorne Avenue 
+Palo Alto, California 94301 
+(Former name or former address, if changed since last report) 
+   
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions:   
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act   
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act  Securities registered pursuant to Section 12(b) of the Act: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ TradingSymbol(s)
+ 
+ Name of each exchange
+on which registered
+
+
+
+Units, each consisting of one share of common stock, $0.0001 par value, and one-third of one Warrant to purchase one share of common stock
+ 
+SPCE.U
+ 
+New York Stock Exchange
+
+Common stock, $0.0001 par value per share
+ 
+SPCE
+ 
+New York Stock Exchange
+
+Warrants to purchase common stock
+ 
+SPCE WS
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☒  If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+
+
+ INTRODUCTORY NOTE 
+Domestication and Merger Transactions 
+As previously announced, Social Capital Hedosophia Holdings Corp. (SCH), a Cayman Islands exempted company, previously entered into
+an Agreement and Plan of Merger, dated as of July 29, 2019, as amended on October 2, 2019 (the Merger Agreement), by and among SCH, Vieco USA, Inc. (Vieco US), Vieco 10 Limited (V10), Foundation Sub 1,
+Inc., a direct wholly owned subsidiary of SCH (Merger Sub A), Foundation Sub 2, Inc., a direct wholly owned subsidiary of SCH (Merger Sub B), Foundation Sub LLC, a direct wholly owned subsidiary of SCH (Merger Sub
+LLC and collectively with Merger Sub A and Merger Sub B, the Merger Subs), TSC Vehicle Holdings, Inc., an indirect wholly owned subsidiary of V10 (Company A), Virgin Galactic Vehicle Holdings, Inc., an indirect wholly
+owned subsidiary of V10 (Company B), and Virgin Galactic Holdings, LLC (VGH, LLC), a direct wholly owned subsidiary of V10 (Company LLC and collectively with Company A and Company B, the VG Companies)
+ On October 25, 2019, as contemplated by the Merger Agreement and described in the section titled Domestication
+Proposal beginning on page 137 of the final prospectus and definitive proxy statement, dated October 9, 2019 (the Proxy Statement/Prospectus) and filed with the Securities and Exchange Commission (the SEC), SCH
+filed a notice of deregistration with the Cayman Islands Registrar of Companies, together with the necessary accompanying documents, and filed a certificate of incorporation and a certificate of corporate domestication with the Secretary of State of
+the State of Delaware, under which SCH was domesticated and continues as a Delaware corporation, changing its name to Virgin Galactic Holdings, Inc. (the Domestication). 
+On October 25, 2019, as contemplated by the Merger Agreement and described in the section titled BCA Proposal
+beginning on page 88 of the Proxy Statement/Prospectus, Virgin Galactic Holdings, Inc. (VGH) consummated the merger transactions contemplated by the Merger Agreement, whereby all outstanding shares of common stock or limited liability
+company interests, as applicable, of each of the VG Companies were cancelled in exchange for the right to receive 130,000,000 shares of VGH common stock (at a deemed value of $10.00 per share) for an aggregate merger consideration of
+$1.3 billion (the Aggregate Merger Consideration) and (ii)(x) Merger Sub A merged with and into Company A, the separate corporate existence of Merger Sub A ceasing and Company A being the surviving corporation and a wholly owned
+subsidiary of VGH, (y) Merger Sub B, merged with and into Company B, the separate corporate existence of Merger Sub B ceasing and Company B being the surviving corporation and a wholly owned subsidiary of VGH and (z) Merger Sub LLC merged
+with and into Company LLC, the separate company existence of Merger Sub LLC ceasing and Company LLC being the surviving company and a wholly owned subsidiary of VGH (collectively referred to as the Mergers and together with the
+Domestication, the Transactions). As contemplated by the Merger Agreement and described in the section titled Repurchase Proposal beginning on page 164 of the Proxy Statement/Prospectus, Vieco US elected for VGH
+to repurchase 5,209,562 shares of VGHs common stock from Vieco US at a purchase price of $10.00 per share (the Repurchase). 
+In connection with the consummation of the Transactions, each issued and outstanding Class A ordinary share, par value $0.0001 per share,
+of SCH was converted, on a one-for-one basis, into a share of common stock, par value $0.0001 per share, of VGH. Each of issued and outstanding Class B ordinary
+share, par value $0.0001 per share, of SCH was converted, on a one-for-one basis, into a share of common stock of VGH; provided, however, that with respect to the
+Class B ordinary shares of SCH held by SCH Sponsor Corp., SCH Sponsor Corp. instead received upon the conversion of the SCH Class B ordinary shares held by it 15,750,000 shares of common stock of VGH. Each issued and outstanding warrant of
+SCH (the SCH warrants) converted into a warrant to acquire one share of common stock of VGH (the VGH warrants), pursuant to the Warrant Agreement, dated September 13, 2017, between SCH and Continental Stock
+Transfer & Trust Company (Continental), as warrant agent. Each issued and outstanding unit of SCH, which consisted of one Class A ordinary share and one-third of one SCH warrant,
+converted into a unit of VGH (the VGH units), with each VGH unit representing one share of VGH common stock and one-third of one VGH warrant. 
+The foregoing description of the Transactions does not purport to be complete and is qualified in its entirety by the full text of the Merger
+Agreement and amendment thereto, which are attached hereto as Exhibits 2.1 and 2.1(a), respectively, and are incorporated herein by reference. 
+Purchase Agreement  Pursuant to
+the Purchase Agreement entered into on July 9, 2019, as supplemented by the Assignment, Consent and Waiver Agreement, dated as of October 2, 2019, by and among Chamath Palihapitiya, Vieco US, SCH and V10
+
+
+
+
+
+
+
+
+
+ 
+(the Purchase Agreement), Chamath Palihapitiya, the chief executive officer of SCH, purchased (concurrently with the consummation of the Mergers) 10,000,000 shares of common stock of
+VGH from Vieco US at a price of $10.00 per share in cash.  Immediately after giving effect to the Transactions, the Repurchase, the
+transactions contemplated by the Purchase Agreement and the issuances of shares of common stock by the Company to an affiliate of The Boeing Company (Boeing) as described in Item 3.02 in this Current Report on Form 8-K (this
+Report), there were 195,587,552 shares of VGH common stock and 30,999,997 VGH warrants outstanding. Upon the consummation of the Transactions, SCHs ordinary shares, warrants and units ceased trading, and VGHs common stock,
+warrants and units are expected to trade on the New York Stock Exchange (the NYSE) under the symbols SPCE, SPCE WS and SPCE.U, respectively. Immediately after giving effect to the Transactions, the
+Repurchase, the transactions contemplated by the Purchase Agreement and the issuances of shares of common stock by the Company to Boeing, Vieco US owned approximately 58.7% of VGHs outstanding shares of common stock, the former public
+shareholders of SCH owned approximately 27.2% of VGHs outstanding shares of common stock and SCH Sponsor Corp. and related parties (including Chamath Palihapitiya) owned approximately 13.2% of VGHs outstanding shares of common stock.
+ Unless the context otherwise requires, references in this Current Report on this Report to we, us,
+our and the Company refer to VGH and its subsidiaries.  Item 1.01 Entry into a Material Definitive Agreement 
+Stockholders Agreement  On
+October 25, 2019, in connection with the consummation of the Transactions and as contemplated by the Merger Agreement, the Company, SCH Sponsor Corp., Chamath Palihapitiya and Vieco US entered into the Stockholders Agreement (the
+Stockholders Agreement). The material terms of the Stockholders Agreement are described in the section of the Proxy Statement/Prospectus beginning on page 106 titled BCA ProposalRelated
+AgreementsStockholders Agreement. Such description is qualified in its entirety by the full text of the Stockholders Agreement, which is included as Exhibit 10.9 to this Report and is incorporated herein by reference.
+ Amended and Restated Registration Rights Agreement 
+On October 25, 2019, in connection with the consummation of the Transactions and as contemplated by the Merger Agreement, the Company,
+Vieco US, SCH Sponsor Corp. and Chamath Palihapitiya entered into the Amended and Restated Registration Rights Agreement (the Registration Rights Agreement). The material terms of the Registration Rights Agreement are described in the
+section of the Proxy Statement/Prospectus beginning on page 110 titled BCA ProposalRelated AgreementsTransfer Restrictions and Registration Rights. Such description is qualified in its entirety by the text of the
+Registration Rights Agreement, which is included as Exhibit 10.10 to this Report and is incorporated herein by reference.  Amended TMLA 
+On October 25, 2019, in connection with the consummation of the Transactions, and as contemplated by the Merger Agreement and the Deed of
+Novation dated July 9, 2019, as amended on October 2, 2019, the amended trademark license agreement (the Amended TMLA) between the Company and Virgin Enterprises Limited became effective, pursuant to which the Company was
+granted certain exclusive and non-exclusive rights to use the Virgin Galactic name and brand and the Virgin signature logo. The material terms of the Amended TMLA are described in the section of
+the Proxy Statement/Prospectus beginning on page 111 titled BCA ProposalRelated AgreementsTrademark License Agreement. Such description is qualified in its entirety by the text of the Deed of Novation and Deed of
+Amendment, which are included as Exhibits 10.11 and 10.11(a) to this Report, respectively, and are incorporated herein by reference.  Transition
+Services Agreements  On October 25, 2019, in connection with the consummation of the Transactions and as contemplated by the
+Merger Agreement, (i) two of the Companys subsidiaries, TSC, LLC and Virgin Galactic, LLC, entered into a transition services agreement (the U.S. Transition Services Agreement) with Galactic Ventures LLC and Virgin Orbit and
+(ii) one of the Companys subsidiaries, Virgin Galactic Limited, entered into a transition services agreement (the U.K. Transition Services Agreement) with Virgin Management Limited, in each case pursuant to which the parties
+established a service schedule to control the provision of services among the parties.  The material terms of the U.S. Transition Services
+Agreement and the U.K. Transition Services Agreement are described in the sections of the Proxy Statement/Prospectus beginning on page 112 titled BCA ProposalRelated  
+
+
+
+
+
+
+
+
+ 
+AgreementsU.S. Transition Services Agreement and BCA ProposalRelated AgreementsU.K. Transition Services Agreement. Such descriptions are
+qualified in their entirety by the text of the agreements, which are included as Exhibits 10.12 and 10.13 to this Report, respectively, and are incorporated herein by reference. 
+Item 2.01 Completion of Acquisition or Disposition of Assets 
+The disclosure set forth in the Introductory Note above is incorporated into this Item 2.01 by reference. 
+Forward-Looking Statements  This
+Report, or some of the information incorporated herein by reference, contains statements that are forward-looking and as such are not historical facts. This includes, without limitation, statements regarding the financial position, business strategy
+and the plans and objectives of management for future operations. These statements constitute projections, forecasts and forward-looking statements, and are not guarantees of performance. Such statements can be identified by the fact that they do
+not relate strictly to historical or current facts. When used in this proxy statement, words such as anticipate, believe, continue, could, estimate, expect, intend,
+may, might, plan, possible, potential, predict, project, should, strive, would and similar expressions may identify
+forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. When the Company discusses its strategies or plans, it is making projections, forecasts or forward-looking statements. Such statements
+are based on the beliefs of, as well as assumptions made by and information currently available to, the Companys management. 
+Forward-looking statements in this Report and in any document incorporated by reference in this Report may include, for example, statements
+about:   
+
+
+ 
+
+ 
+ the Companys ability to achieve or maintain profitability; 
+ 
+
+
+ 
+
+ 
+ the Companys ability to effectively market and sell human spaceflights; 
+ 
+
+
+ 
+
+ 
+ the development of the markets for commercial human spaceflight and commercial research and development payloads;
+  
+
+
+ 
+
+ 
+ any delay in completing the Companys flight test program and final development of its spaceflight system;
+  
+
+
+ 
+
+ 
+ the Companys ability to operate its spaceflight system after commercial launch; 
+ 
+
+
+ 
+
+ 
+ the safety of the Companys spaceflight systems; 
+ 
+
+
+ 
+
+ 
+ the Companys ability to convert its backlog or inbound inquiries into revenue; 
+ 
+
+
+ 
+
+ 
+ test flights have not yet been completed at the Companys anticipated full passenger capacity;
+  
+
+
+ 
+
+ 
+ delay in developing or the manufacture of spaceflight systems; 
+ 
+
+
+ 
+
+ 
+ the Companys expected capital requirements and the availability of additional financing;
+  
+
+
+ 
+
+ 
+ the Companys ability to attract or retain highly qualified personnel, including in accounting and finance
+roles;   
+
+
+ 
+
+ 
+ extensive and evolving government regulation that impact the way the Company operates; 
+ 
+
+
+ 
+
+ 
+ risks associated with international expansion; 
+ 
+
+
+ 
+
+ 
+ the Companys ability to continue to use, maintain, enforce, protect and defend its owned and licensed
+intellectual property, including the Virgin brand and other intellectual property licensed to it under the Amended TMLA;   
+
+
+ 
+
+ 
+ the Companys projected financial information, anticipated growth rate, and market opportunity;
+  
+
+
+ 
+
+ 
+ the ability to maintain the listing of the Companys common stock, warrants and units on the NYSE; and
+  
+
+
+ 
+
+ 
+ other factors detailed under the section titled Risk Factors beginning on page 35 of the Proxy
+Statement/Prospectus and incorporated herein by reference. 
+
+
+
+
+
+
+
+
+ The forward-looking statements contained in this Report and in any document incorporated by
+reference are based on current expectations and beliefs concerning future developments and their potential effects on the Company. There can be no assurance that future developments affecting the Company will be those that the Company has
+anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond the Companys control) or other assumptions that may cause actual results or performance to be materially different from those
+expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, those factors described in the Proxy Statement/Prospectus in the section titled Risk Factors beginning on
+page 35, which is incorporated herein by reference. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these
+forward-looking statements. The Company undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws. 
+Business  The Companys
+business is described in the Proxy Statement/Prospectus in the section titled Information About the VG Companies beginning on page 202, which is incorporated herein by reference. 
+Risk Factors  The risks associated
+with the Companys business are described in the Proxy Statement/Prospectus in the section titled Risk Factors beginning on page 35 and are incorporated herein by reference. 
+Financial Information  The
+combined financial statements of Virgin Galactic, LLC, The Spaceship Company, LLC, Virgin Galactic (UK) Limited and their respective subsidiaries (collectively, the Virgin Galactic Business) as of and for the six months ended
+June 30, 2019 and 2018 and for the years ended December 31, 2018 and 2017 are set forth in the Proxy Statement/Prospectus beginning on page F-29 and are incorporated herein by reference. 
+The unaudited pro forma condensed combined financial information of SCH and the Virgin Galactic Business as of June 30, 2019 and for the
+year ended December 31, 2018 and the six months ended June 30, 2019 is set forth in Exhibit 99.1 hereto and is incorporated herein by reference. 
+Managements Discussion and Analysis of Financial Condition and Results of Operations 
+Reference is made to the disclosure contained in the Proxy Statement/Prospectus beginning on page 223 in the section titled The VG
+Companies Managements Discussion and Analysis of Financial Condition and Results of Operations, which is incorporated herein by reference. 
+Quantitative and Qualitative Disclosures about Market Risk 
+Reference is made to the disclosure contained in the Proxy Statement/Prospectus beginning on page 236 in the section titled The VG
+Companies Managements Discussion and Analysis of Financial Condition and Results of OperationsQuantitative and Qualitative Disclosures about Market Risk, which is incorporated herein by reference. 
+Properties  The Companys
+facilities are described in the Proxy Statement/Prospectus in the section titled Information About the VG CompaniesFacilities on page 221 and is incorporated herein by reference. 
+Security Ownership of Certain Beneficial Owners and Management 
+The following table sets forth beneficial ownership of the Companys common stock following the consummation of the Transactions, the
+Repurchase, the transactions contemplated by Purchase Agreement and the issuance of shares of common stock by the Company to Boeing by:   
+
+
+ 
+
+ 
+ each person who is known to be the beneficial owner of more than 5% of shares of the Companys outstanding
+common stock;   
+
+
+ 
+
+ 
+ each of the Companys current named executive officers and directors; and 
+ 
+
+
+ 
+
+ 
+ all current executive officers and directors of the Company as a group. 
+
+
+
+
+
+
+
+
+ Beneficial ownership is determined according to the rules of the SEC, which generally
+provide that a person has beneficial ownership of a security if he, she or it possesses sole or shared voting or investment power over that security, including options and warrants that are currently exercisable or exercisable within 60 days. 
+Unless otherwise indicated, the Company believes that all persons named in the table below have sole voting and investment power with respect
+to the voting securities beneficially owned by them.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Name and Address of Beneficial Owner(1)
+  
+Number of Shares
+ 
+  
+% of Ownership
+ 
+
+
+
+ 5% Holders
+  
+
+
+
+  
+
+
+
+
+ Vieco US(2)
+  
+ 
+114,790,438
+ 
+  
+ 
+58.7
+% 
+
+ SCH Sponsor Corp.(3)
+  
+ 
+23,750,000
+ 
+  
+ 
+11.7
+% 
+
+
+
+
+
+ Directors and Named Executive Officers
+  
+
+
+
+  
+
+
+
+
+ Chamath Palihapitiya(3)(4)
+  
+ 
+33,750,000
+ 
+  
+ 
+16.6
+% 
+
+ Wanda Austin
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+ Adam Bain(5)
+  
+ 
+1,200,000
+ 
+  
+ 
+*
+ 
+
+ Craig Kreeger
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+ Evan Lovell
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+ George Mattson
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+ James Ryans(5)
+  
+ 
+100,000
+ 
+  
+ 
+*
+ 
+
+ George Whitesides
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+ Mike Moses
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+ Enrico Palermo
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+ All directors and executive officers as a group (11 individuals)
+  
+ 
+35,050,000
+ 
+  
+ 
+17.1
+% 
+  
+
+
+*
+ Less than one percent 
+
+
+(1)
+ Unless otherwise noted, the business address of each of those listed in the table above is 166 North Roadrunner
+Parkway, Suite 1C, Las Cruces, NM 88011. 
+
+
+(2)
+ Vieco US is a Delaware corporation and wholly owned subsidiary of V10. V10 is a company limited by shares under
+the laws of the British Virgin Islands. Virgin Investments Limited holds an approximate 80.7% ownership interest in V10, and Aabar Space Inc. holds an approximate 19.3% ownership interest in V10. Virgin Investments Limited is wholly owned by Virgin
+Group Investments LLC, whose sole managing member is Corvina Holdings Limited, which is wholly owned by Virgin Group Holdings Limited (Virgin Group Holdings). Virgin Group Holdings is owned by Sir Richard Branson, and he has the ability
+to appoint and remove the management of Virgin Group Holdings and, as such, may indirectly control the decisions of Virgin Group Holdings regarding the voting and disposition of securities held by Virgin Group Holdings. Therefore, Sir Richard
+Branson may be deemed to have indirect beneficial ownership of the shares held by Virgin Group Holdings. The address of Vieco US is 65 Bleeker Street, 6th Floor, New York, New York 10012. The address of V10, Virgin Group Holdings Limited, Virgin
+Investments Limited and Corvina Holdings Limited is Craigmuir Chambers, Road Town, Tortola, VG1110, British Virgin Islands. The address of Sir Richard Branson is Headland House, Moskito Island, VG 1150, British Virgin Islands. 
+
+
+
+(3)
+ Includes up to 8,000,000 shares issuable upon the exercise of warrants issued to SCH Sponsor Corp. in a private
+placement concurrent with SCHs initial public offering, which become exercisable 30 days after the consummation of the Transactions. Chamath Palihapitiya and Ian Osborne may be deemed to beneficially own securities held by SCH Sponsor Corp. by
+virtue of their shared control over SCH Sponsor Corp. The address of SCH Sponsor Corp. is 317 University Avenue, Suite 200, Palo Alto, California 94301. 
+
+
+(4)
+ As of the consummation of the Transactions, Chamath Palihapitiya has pledged, hypothecated or granted
+security interests in all of the shares of the Companys common stock held by him (but not those shares held by SCH Sponsor Corp.) pursuant to a margin loan agreement with customary default provisions. In the event of a default under the margin
+loan agreement, the secured parties may foreclose upon any and all shares of common stock pledged to them and may seek recourse against the borrower. 
+
+
+(5)
+ Consists of shares of VGH common stock underlying the restricted stock unit awards (the Director RSU
+Awards) that vested upon the consummation of the Transactions but will not settle into shares of common stock of the Company until a date, selected by the Company, that occurs between January 1, 2020 and December 31, 2020.
+ Directors and Executive Officers 
+The Companys directors and executive officers after the consummation of the Transactions are described in the Proxy Statement/Prospectus
+in the sections titled Director Election Proposal beginning on page 154 and Management of VGH, Inc. Following the Business Combination beginning on page 238 and that information is incorporated herein by
+reference.  Executive Compensation 
+The executive compensation of the Companys executive officers is described in the Proxy Statement/Prospectus in the section titled
+Executive Compensation beginning on page 245 and that information is incorporated herein by reference. 
+
+
+
+
+
+
+
+
+ Director Compensation 
+The compensation of the Companys directors is described in the Proxy Statement/Prospectus in the section titled Executive
+CompensationDirector Compensation beginning on page 252 and that information is incorporated herein by reference.  Certain
+Relationships and Related Transactions  The certain relationships and related party transactions of the Company are described in
+the Proxy Statement/Prospectus in the section titled Certain Relationships and Related Person Transactions beginning on page 262 and are incorporated herein by reference. 
+Legal Proceedings  Reference is
+made to the disclosure regarding legal proceedings in the section of the Proxy Statement/Prospectus titled Information About the VG CompaniesLegal Proceedings beginning on page 222, which is incorporated herein by reference.
+ Market Price of and Dividends on the Registrants Common Equity and Related Stockholder Matters 
+Shares of the Companys common stock, the Companys warrants and the Companys units are expected to begin trading on the NYSE
+under the symbol SPCE, SPCE WS and SPCE.U, respectively, on October 28, 2019, subject to ongoing review of the Companys satisfaction of all listing criteria post-business combination, in lieu of the
+ordinary shares, warrants and units of SCH. The Company has not paid any cash dividends on its shares of common stock to date. It is the present intention of the Companys board of directors to retain all earnings, if any, for use in the
+Companys business operations and, accordingly, the Companys board does not anticipate declaring any dividends in the foreseeable future. The payment of cash dividends in the future will be dependent upon the Companys revenues and
+earnings, if any, capital requirements and general financial condition. The payment of any cash dividends subsequent to the Transactions will be within the discretion of the Companys board of directors. Further, the ability of the Company to
+declare dividends may be limited by the terms of financing or other agreements entered into by it or its subsidiaries from time to time. 
+Information respecting SCHs Class A ordinary shares, warrants and units and related stockholder matters are described in the Proxy
+Statement/Prospectus in the section titled Market Price and Dividend Information on page 34 and such information is incorporated herein by reference. 
+Recent Sales of Unregistered Securities 
+Reference is made to the disclosure set forth below under Item 3.02 of this Report concerning the issuance and sale by the Company of certain
+unregistered securities, which is incorporated herein by reference.  Description of Registrants Securities 
+The description of the Companys securities is contained in the Proxy Statement/Prospectus in the section titled Description of
+VGH, Inc. Securities beginning on page 272 and is incorporated herein by reference.  Indemnification of Directors and Officers
+ The Company has entered or will enter into indemnification agreements with each of its directors and executive officers. Each
+indemnification agreement provides for indemnification and advancement by the Company of certain expenses and costs relating to claims, suits or proceedings arising from service to the Company or, at its request, service to other entities, as
+officers or directors to the maximum extent permitted by applicable law. The foregoing description of the indemnification agreements does not purport to be complete and is qualified in its entirety by the terms and conditions of the indemnification
+agreements, a form of which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.  Further information about the
+indemnification of the Companys directors and officers is set forth in the Proxy Statement/Prospectus in the section titled Description of VGH, Inc. SecuritiesLimitation on Liability and Indemnification of Officers and
+Directors beginning on page 276 and is incorporated herein by reference.  Item 3.02. Unregistered Sales of Equity Securities 
+Pursuant to the Merger Agreement, upon the consummation of the Transactions, Vieco US received, as consideration for its share capital in the
+VG Companies, shares of the Companys common stock as described in the disclosure set forth under the Introductory Note and Item 2.01 above. 
+
+
+
+
+
+
+
+
+ Pursuant to the previously announced subscription agreement between SCH and Boeing,
+immediately following the consummation of the Transactions, Boeing purchased 1,924,402 newly issued shares of the Companys common stock for aggregate consideration of $20.0 million. 
+The Company issued the foregoing shares of common stock in transactions not involving an underwriter and not requiring registration under
+Section 5 of the Securities Act of 1933, as amended, in reliance on the exemption afforded by Section 4(a)(2) thereof.  Item 5.01.
+Changes in Control of Registrant.  The disclosure set forth under the Introductory Note and in Item 2.01 of this Report is incorporated
+herein by reference.  Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory
+Arrangements of Certain Officers.  Executive Officers and Directors 
+Upon the consummation of the Transactions, and in accordance with the terms of the Merger Agreement, each executive officer of SCH ceased
+serving in such capacities, and Ian Osborne, Jacqueline D. Reses and Andrea Wong ceased serving on SCHs board of directors. 
+Chamath Palihapitiya, Wanda Austin, Adam Bain, Craig Kreeger, Evan Lovell, George Mattson, James Ryans and George Whitesides were
+appointed as directors of the Company, to serve until the end of their respective terms and until their successors are elected and qualified. Wanda Austin, James Ryans and Craig Kreeger were appointed to serve on the Companys audit
+committee with James Ryans serving as the chair and qualifying as an audit committee financial expert, as such term is defined in Item 407(d)(5) of Regulation S-K. 
+George Whitesides was appointed as the Companys Chief Executive Officer and President and Jon Campagna was appointed as the
+Companys Chief Financial Officer.  Reference is also made to the disclosure described in the Proxy Statement/Prospectus in the
+section titled Director Election Proposal beginning on page 154 and Management of VGH, Inc. Following the Business Combination beginning on page 238 for biographical information about each of the directors and
+officers following the Transactions, which is incorporated herein by reference.  Compensatory Arrangements for Directors 
+In connection with the consummation of the Transactions, each of Adam Bain, James Ryans, Jacqueline D. Reses and Andrea Wong received
+Director RSU Awards relating to an aggregate of 1,500,000 underlying shares of common stock, as 
+
+
+
+
+
+
+
+
+ 
+follows: 1,200,000 restricted stock units to Adam Bain and 100,000 restricted stock units to each of James Ryans, Jacqueline D. Reses and Andrea Wong. The Director RSU Awards vested upon the
+consummation of the Transactions but will not settle into shares of common stock until a date, selected by the Company, between January 1, 2020 and December 31, 2020. 
+In connection with the consummation of the Transactions, the Companys board of directors also approved a compensation program for the
+Companys non-employee directors who are determined not to be affiliated with Virgin Group and/or SCH (the Director Compensation Program). The material terms of the Director Compensation
+Program are described in the section of the Proxy Statement/Prospectus beginning on page 252 titled Executive CompensationDirector Compensation. Such description is qualified in its entirety by the full text of the Director
+Compensation Program, which is included as Exhibit 10.3 to this Report and is incorporated herein by reference.  Compensatory Arrangements for
+Executive Officers  In connection with the consummation of the Transactions, on October 25, 2019, each of the Companys
+executive officers entered into new employment agreements with the Company. The material terms of the agreements for Messrs. Whitesides, Moses, Palermo and Campagna are as follows: 
+George Whitesides  Pursuant to his
+employment agreement, Mr. Whitesides serves as the Chief Executive Officer of the Company and reports directly to the Companys board of directors. Mr. Whitesides service pursuant to the employment agreement will continue until
+terminated in accordance with its terms. Under the employment agreement, Mr. Whitesides is entitled to receive an initial annual base salary of $450,000, subject to increase at the discretion of the Companys board of directors or a
+subcommittee thereof and is eligible to receive an annual performance bonus targeted at 50% of Mr. Whitesides then-current annual base salary. The actual amount of any such bonus will be determined by reference to the attainment of
+applicable Company and/or individual performance objectives, as determined by the Companys board of directors or a subcommittee thereof. Mr. Whitesides is also eligible to earn a one-time cash bonus
+equal to $500,000, to be paid on the first anniversary of the achievement of a commercial launch, subject to his employment through the payment date. Pursuant to the employment agreement, Mr. Whitesides is also eligible to participate in
+customary health, welfare and fringe benefit plans, provided by the Company to its employees. In addition, Mr. Whitesides is entitled to join a spaceflight in connection with the performance of his duties, and his wife is entitled to join a
+spaceflight.  Pursuant to the employment agreement, Mr. Whitesides will receive stock options to purchase an aggregate of 1,283,361
+shares of the Companys common stock and a restricted stock unit award covering an aggregate of 194,844 shares of the Companys common stock. The restricted stock units were granted in connection with the closing of the Transactions,
+effective as of the date of the filing of the Registration Statement on Form S-8 for the 2019 Plan, and half of the stock options were granted in connection with the closing of the Transactions and half will
+be granted on the first anniversary of the closing of the Transactions, subject to his continued employment through the applicable grant date. Awards granted in connection with the closing of the Transactions will vest as to 25% of the shares
+subject to the award on the one year anniversary of the closing of the Transactions and as to the remaining 75% in substantially equal monthly installments over the following 36 months, subject to continued service through the applicable vesting
+date. Awards granted on the first anniversary of the closing of the Transactions will vest along the same schedule, except the vesting dates will be keyed off of the grant date (rather than the closing date of the Transactions). 
+If Mr. Whitesides employment is terminated by the Company without cause, or by Mr. Whitesides for good
+reason (each, as defined in the employment agreement, and referred to herein as a qualifying termination), subject to his execution and non-revocation of a general release of claims in favor
+of the Company and continued compliance with customary confidentiality and non-solicitation requirements, then, in addition to any accrued amounts, Mr. Whitesides will be entitled to receive the following
+severance payments and benefits: (i) an amount equal to the sum of (a) Mr. Whitesides annual base salary then in effect and (b) his target annual bonus amount; and (ii) continued healthcare coverage for 12 months after
+the termination date.  However, if either such termination of employment occurs on or within 24 months following a change in
+control (as defined in the 2019 Plan), subject to his execution and non-revocation a general release of claims in favor of the Company and continued compliance with restrictive covenants, then, in
+addition to any accrued amounts, Mr. Whitesides instead will be entitled to receive the following severance payments and benefits: (i) an 
+
+
+
+
+
+
+
+
+ 
+amount equal to one and one-half times the sum of (a) Mr. Whitesides annual base salary then in effect and (b) his target annual bonus
+amount, (ii) continued healthcare coverage for 18 months after the termination date, and (iii) full accelerated vesting of all outstanding and unvested time-based vesting awards. 
+The employment agreement contains customary confidentiality and non-solicitation provisions, and also
+includes a best pay provision under Section 280G of the Code, pursuant to which any parachute payments that become payable to Mr. Whitesides will either be paid in full or reduced so that such payments are not
+subject to the excise tax under Section 4999 of the Code, whichever results in the better after-tax treatment to Mr. Whitesides. 
+Michael Moses, Enrico Palermo, Jon Campagna 
+The employment agreements for Messrs. Moses, Palermo and Campagna contain the same terms and conditions as Mr. Whitesides agreement,
+except:   
+
+
+ 
+
+ 
+ Positions. Messrs. Campagna, Palermo and Moses will serve as Chief Financial Officer of the
+Company, President of The Spaceship Company, LLC and President of Virgin Galactic, LLC, respectively. Each will report to the Companys Chief Executive Officer. 
+ 
+
+
+ 
+
+ 
+ Salary. Each will have an annual base salary of $350,000. 
+ 
+
+
+ 
+
+ 
+ Equity Awards. The following table shows the aggregate number of shares subject to the Company
+equity awards that will be or have been granted to each executive:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Executive
+  
+Stock Options(Aggregate Number ofShares)
+  
+Restricted Stock Units
+
+
+
+Michael Moses
+  
+916,686
+  
+139,175
+
+Enrico Palermo
+  
+916,686
+  
+139,175
+
+Jon Campagna
+  
+611,124
+  
+92,783
+  
+
+
+ 
+
+ 
+ Car Allowance. Mr. Palermo is entitled to an annual vehicle allowance of $3,600.
+  
+
+
+ 
+
+ 
+ Severance. If the executive experiences a qualifying termination of employment, his severance will
+be: (i) an amount equal to 50% of the sum of (a) his annual base salary then in effect and (b) his target annual bonus amount; (ii) with respect to Mr. Palermo, payment or reimbursement for the cost of his relocation to the
+United Kingdom; and (iii) continued healthcare coverage for six months after the termination date. However, if such termination of employment occurs on or within 24 months following a change in control (as defined in the 2019 Plan),
+subject to his execution and non-revocation a general release of claims in favor of the Company and continued compliance with restrictive covenants, then, in addition to any accrued amounts, the executive
+instead will be entitled to receive the following severance payments and benefits: (i) an amount equal to the sum of (a) his annual base salary then in effect and (b) his target annual bonus amount; (ii) with respect to
+Mr. Palermo, payment or reimbursement for the cost of his relocation to the United Kingdom; (iii) continued healthcare coverage for 12 months after the termination date; and (iv) full accelerated vesting of all outstanding and
+unvested time-based vesting awards.   
+
+
+ 
+
+ 
+ Other. Messrs. Moses, Palermo and Campagna are not eligible to receive a bonus in connection with a
+commercial launch, and none is entitled to join a spaceflight in connection with their duties.  The descriptions of the
+employment agreements of the Companys executive officers are qualified in their entirety by the full text of such agreements, which are included as Exhibits 10.4, 10.5, 10.6 and 10.7 and are incorporated herein by reference. 
+
+
+
+
+
+
+
+
+ 2019 Plan 
+In connection with the closing of the Transactions, the Company adopted the 2019 Incentive Award Plan (the 2019 Plan) under which
+the Company may grant cash and equity incentive awards to eligible service providers in order to attract, motivate and retain the talent for which the Company competes. 
+Employees, consultants and directors of the Company, and employees and consultants of its subsidiaries, are eligible to receive awards under
+the 2019 Plan. The 2019 Plan is administered by the Companys board of directors, which may delegate its duties and responsibilities to one or more committees of the Companys directors and/or officers (referred to collectively as the
+plan administrator), subject to the limitations imposed under the 2019 Plan, Section 16 of the Securities Exchange Act of 1934, as amended, stock exchange rules and other applicable laws. The plan administrator has the authority to
+take all actions and make all determinations under the 2019 Plan, to interpret the 2019 Plan and award agreements and to adopt, amend and repeal rules for the administration of the 2019 Plan as it deems advisable. The plan administrator also has the
+authority to determine which eligible service providers receive awards, grant awards and set the terms and conditions of all awards under the 2019 Plan, including any vesting and vesting acceleration provisions, subject to the conditions and
+limitations in the 2019 Plan.  An aggregate of 21,208,755 shares of common stock are available for issuance under the 2019 Plan and the
+maximum number of shares that may be issued pursuant to the exercise of incentive stock options granted under the 2019 Plan, is 21,205,644. 
+The foregoing description of the 2019 Plan contained in this Item 5.02 does not purport to be complete and is subject to and qualified in its
+entirety by reference to such 2019 Plan, a copy of which is included herewith as Exhibit 10.2.  Item 5.06. Change in Shell Company Status.
+ As a result of the Transactions, SCH ceased being a shell company. Reference is made to the disclosure in the Proxy
+Statement/Prospectus in the sections titled BCA Proposal beginning on page 88 and Domestication Proposal beginning on page 137, which are incorporated herein by reference. Further, the information set forth in
+the Introductory Note and under Item 2.01 to this Report is incorporated herein by reference.  Item 9.01. Financial Statements and Exhibits.
+ (a) Financial statements of businesses acquired. 
+The combined financial statements of the Virgin Galactic Business as of and for the six months ended June 30, 2019 and 2018 and for the
+years ended December 31, 2018 and 2017 are set forth in the Proxy Statement/Prospectus beginning on page F-29 and are incorporated herein by reference. 
+(b) Pro forma financial information. 
+The unaudited pro forma condensed combined financial information of SCH and the Virgin Galactic Business as of June 30, 2019 and for the
+year ended December 31, 2018 and the six months ended June 30, 2019 is set forth in Exhibit 99.1 hereto and is incorporated herein by reference. 
+
+
+
+
+
+
+
+
+ (d) Exhibits.   
+
+
+
+
+
+
+
+
+
+
+
+Exhibit    No.    
+ 
+ Description
+
+
+
+
+
+
+    2.1+
+ 
+Agreement and Plan of Merger, dated as of July 9, 2019, by and among SCH, Vieco 10 Limited, Foundation Sub 1, Inc., Foundation Sub 2, Inc.,
+ Foundation Sub LLC, TSC Vehicle Holdings, Inc., Virgin Galactic Vehicle Holdings, Inc. and Virgin Galactic Holdings, LLC (incorporated by reference to Exhibit 2.1 to Amendment No. 1 to the Current Report on Form 8-K filed July 11, 2019)
+
+
+
+
+
+    2.1(a)+
+ 
+Amendment No. 1 to Agreement and Plan of Merger, dated as of October 2, 2019, by and among SCH, Foundation Sub 1, Inc., Foundation Sub 2, Inc.,
+ Foundation Sub LLC, Vieco 10 Limited, Vieco USA, Inc., TSC Vehicle Holdings, Inc., Virgin Galactic Vehicle Holdings, Inc. and Virgin Galactic Holdings, LLC (incorporated by reference to Exhibit 2.1(a) to the Registration Statement on Form S-4 (File
+No. 333-233098) filed October 3, 2019) 
+
+
+
+
+    3.1
+ 
+Certificate of Incorporation of Virgin Galactic Holdings, Inc. 
+
+
+
+
+    3.2
+ 
+By-Laws of Virgin Galactic Holdings, Inc. 
+
+
+
+
+    4.1
+ 
+Specimen Unit Certificate of Virgin Galactic Holdings, Inc. (incorporated by reference to Exhibit 4.5 to the Registration Statement on Form S-4
+(File No. 333-233098) filed October 3, 2019) 
+
+
+
+
+    4.2
+ 
+Specimen Common Stock Certificate of Virgin Galactic Holdings, Inc. 
+
+
+
+
+    4.3
+ 
+Warrant Agreement, dated September 13, 2017, between Social Capital Hedosophia Holdings Corp. and Continental Stock Transfer & Trust Company,
+ as warrant agent (incorporated by reference to Exhibit 4.4 to the Current Report on Form 8-K filed on September 18, 2017) 
+
+
+
+
+  10.1
+ 
+Form of Indemnification Agreement (incorporated by reference to Exhibit 10.46 to the Registration Statement on Form S-4 (File No. 333-233098)
+ filed October 3, 2019) 
+
+
+
+
+  10.2
+ 
+2019 Incentive Award Plan 
+
+
+
+
+  10.2(a)
+ 
+Form of Director Restricted Stock Unit Award Agreement (incorporated by reference to Exhibit 10.26 to the Registration Statement on Form S-4
+ (File No. 333-233098) filed August 7, 2019) 
+
+
+
+
+  10.2(b)
+ 
+Form of Restricted Stock Unit Agreement under the 2019 Incentive Award Plan 
+
+
+
+
+  10.2(c)
+ 
+Form of Stock Option Agreement under the 2019 Incentive Award Plan 
+
+
+
+
+  10.3
+ 
+Non-Employee Director Compensation Program (incorporated by reference to Exhibit 10.47 to the Registration
+ Statement on Form S-4 (File No. 333-233098) filed October 3, 2019) 
+
+
+
+
+  10.4*
+ 
+Employment Agreement, dated October 25, 2019, between Virgin Galactic Holdings, Inc., Virgin Galactic Holdings, LLC and George Whitesides 
+
+
+
+
+  10.5*
+ 
+Employment Agreement, dated October 25, 2019, between Virgin Galactic Holdings, Inc., Virgin Galactic, LLC and Michael Moses 
+
+
+
+
+  10.6*
+ 
+Employment Agreement, dated October 25, 2019, between Virgin Galactic Holdings, Inc., The Spaceship Company, LLC and Enrico Palermo 
+
+
+
+
+  10.7*
+ 
+Employment Agreement, dated October 25, 2019, between Virgin Galactic Holdings, Inc., Virgin Galactic Holdings, LLC and Jon Campagna 
+
+
+
+
+  10.8
+ 
+Purchase Agreement, dated July 
+9, 2019, by and among Social Capital Hedosophia Holdings Corp., Chamath Palihapitiya and Vieco USA, Inc. (incorporated by reference to the Registration Statement on Form S-4 (File No. 333-233098)
+ filed August 7, 2019) 
+
+
+
+
+  10.8(a)
+ 
+Assignment, Consent and Waiver Agreement, dated October 
+2, 2019, by and among Social Capital Hedosophia Holdings Corp., Chamath Palihapitiya, Vieco 10 Limited and Vieco USA, Inc. (incorporated by reference to the Registration Statement on Form S-4 (File No. 333-233098) filed October 3, 2019) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  10.9
+ 
+Stockholders Agreement, dated October 25, 2019, by and among Virgin Galactic Holdings, Inc., SCH Sponsor Corp., Chamath Palihapitiya and Vieco USA, Inc. 
+
+
+
+
+  10.10
+ 
+Amended and Restated Registration Rights Agreement, dated October 25, 2019, by and among Virgin Galactic Holdings, Inc., Vieco USA, Inc., SCH Sponsor Corp. and Chamath Palihapitiya. 
+
+
+
+
+  10.11
+ 
+Deed of Novation, Amendment and Restatement, dated July 9, 2019, by and among Virgin Enterprises Limited, Virgin Galactic, LLC and Social Capital
+Hedosophia Holdings Corp. (incorporated by reference to Exhibit 10.20 to the Registration Statement on Form S-4 (File No. 333-233098) filed August 7, 2019)
+
+
+
+
+  10.11(a) 
+ 
+Deed of Amendment, dated as of October 2, 2019, by and among Virgin Enterprises Limited, Virgin Galactic, LLC and Social Capital Hedosophia
+ Holdings Corp. (incorporated by reference to Exhibit 10.21(a) to the Registration Statement on Form S-4 (File No. 333-233098) filed October 3, 2019)
+
+
+
+
+  10.12
+ 
+U.S. Transition Services Agreement, dated October 25, 2019, by and among TSC LLC, Virgin Galactic, LLC, Galactic Ventures LLC and Virgin Orbit. LLC 
+
+
+
+
+  10.13
+ 
+U.K. Transition Services Agreement, dated October 25, 2019, by and between Virgin Galactic Limited and Virgin Management Limited 
+
+
+
+
+  10.14
+ 
+Spacecraft Technology License Agreement, dated September 
+24, 2004, by and between Mojave Aerospace Ventures, LLC and Virgin Galactic, LLC (incorporated by reference to Exhibit 10.27 to the Registration Statement on Form S-4 (File No. 333-233098)
+ filed August 7, 2019) 
+
+
+
+
+  10.14(a) 
+ 
+Amendment No. 1 to the Spacecraft Technology License Agreement, dated July 
+27, 2009, by and between Mojave Aerospace Ventures, LLC and Virgin Galactic, LLC (incorporated by reference to Exhibit 10.28 to the Registration Statement on Form S-4 (File No. 333-233098)
+ filed August 7, 2019) 
+
+
+
+
+  10.15
+ 
+Facilities Lease, dated December 
+31, 2008, by and between Virgin Galactic, LLC and New Mexico Spaceport Authority (incorporated by reference to Exhibit 10.29 to the Registration Statement on Form S-4 (File No. 333-233098)
+ filed August 7, 2019) 
+
+
+
+
+  10.15(a)
+ 
+First Amendment to the Facilities Lease, dated as of 2009, by and between Virgin Galactic, LLC and New Mexico Spaceport Authority (incorporated
+ by reference to Exhibit 10.30 to the Registration Statement on Form S-4 (File No. 333-233098) filed August 7, 2019) 
+
+
+
+
+  10.16
+ 
+Building 79A Lease Agreement, dated January 
+1, 2018, by and between Mojave Air and Space Port and TSC, LLC (incorporated by reference to Exhibit 10.32 to the Registration Statement on Form S-4 (File No. 
+333-233098) filed September 13, 2019) 
+
+
+
+
+  10.17
+ 
+Land Lease Agreement, dated October 
+1, 2010, by and between East Kern Airport District and TSC, LLC (incorporated by reference to Exhibit 10.33 to the Registration Statement on Form S-4 (File No. 
+333-233098) filed September 13, 2019) 
+
+
+
+
+  10.17(a)
+ 
+Amendment No. 1 to the Land Lease Agreement, dated October 
+1, 2013, by and between Mojave Air and Space Sport and TSC, LLC (incorporated by reference to Exhibit 10.34 to the Registration Statement on Form S-4 (File No. 
+333-233098) filed September 13, 2019) 
+
+
+
+
+  10.18
+ 
+Site 14 Lease Agreement, dated February 
+18, 2015, by and between Mojave Air and Space Sport and TSC, LLC (incorporated by reference to Exhibit 10.35 to the Registration Statement on Form S-4 (File No. 
+333-233098) filed September 13, 2019) 
+
+
+
+
+  10.19
+ 
+First Amendment to the Site 14 Lease Agreement, dated July 
+1, 2017, by and between Mojave Air and Space Sport and TSC, LLC (incorporated by reference to Exhibit 10.36 to the Registration Statement on Form S-4 (File No. 
+333-233098) filed September 13, 2019) 
+
+
+
+
+  10.20
+ 
+Building 79B Lease Agreement, dated as of March 
+1, 2013, by and between Mojave Air and Space Port and TSC, LLC (incorporated by reference to Exhibit 10.37 to the Registration Statement on Form S-4 (File No. 
+333-233098) filed October 3, 2019) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  10.20(a)
+ 
+First Amendment to Building 79B Lease, dated as of June 
+2, 2014, by and between Mojave Air and Space Port and TSC, LLC (incorporated by reference to Exhibit 10.38 to the Registration Statement on Form S-4 (File No. 
+333-233098) filed October 3, 2019) 
+
+
+
+
+  21.1
+ 
+List of Subsidiaries 
+
+
+
+
+  99.1
+ 
+Unaudited pro forma condensed combined financial information of Virgin Galactic Holdings, Inc. as of June 30, 2019 and for the year ended December 31, 2018 and the six months ended June 
+30, 2019 
+  
+
+
+
+ Certain portions of this exhibit (indicated by [***]) have been omitted pursuant to Regulation S-K, Item (601)(b)(10). 
+
+
++
+ Schedules and exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The Registrant agrees to furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon request. 
+
+
+*
+ An attachment to this exhibit has been omitted pursuant to Item 601(a)(5) of Regulation S-K because the
+information contained therein is not material and is not otherwise publicly disclosed. VGH will furnish supplementally a copy of the attachment to the SEC or its staff upon request. 
+
+
+
+
+
+
+
+
+ SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Virgin Galactic Holdings, Inc.
+
+
+
+
+
+
+Date: October 28, 2019
+ 
+
+ 
+By:
+ 
+ /s/ George
+Whitesides                    
+
+
+ 
+
+ 
+Name:
+ 
+George Whitesides
+
+
+ 
+
+ 
+Title:
+ 
+Chief Executive Officer and President
+
+
+
+
+
