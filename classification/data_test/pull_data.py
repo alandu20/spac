@@ -75,6 +75,24 @@ def main():
         with open(file_path_document, "w") as doc:
             doc.write(txt)
 
+    consummation_urls = [
+        'https://www.sec.gov/Archives/edgar/data/1731289/000110465920069434/tm2020911-2_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1731289/000110465920070923/tm2021982d1_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1682325/000114420419014675/tv516340_8k12ba.htm',
+        'https://www.sec.gov/Archives/edgar/data/1712189/000110465919016584/a19-6812_18k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1709682/000121390019014258/f8k073019_nescoholdings.htm',
+        'https://www.sec.gov/Archives/edgar/data/1784797/000114036119020993/nc10006147x2_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465920002029/tm201313-1_8k.htm'
+    ]
+    consummation_path = os.path.join(os.path.dirname(__file__), "consummation")
+    for i, url in enumerate(consummation_urls):
+        txt = get_request(url, timeout=10).text_content()
+        if not os.path.exists(consummation_path):
+            os.makedirs(consummation_path)
+        file_path_document = consummation_path + "/consummation_%s.txt" % str(i)
+        with open(file_path_document, "w") as doc:
+            doc.write(txt)
+
 
 if __name__ == "__main__":
     main()
