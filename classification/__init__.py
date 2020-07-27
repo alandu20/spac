@@ -16,10 +16,10 @@ FLS_START = [
     'forward-looking statements this communication'
 ]
 FLS_END = [
-    'undue reliance should not be placed upon the'
+    'undue reliance should not be placed upon the '
     'forward-looking statements',
-    'whether as a result of new information, future events'
+    'whether as a result of new information, future events '
     'or otherwise, except as required by law',
-    'conditions or circumstances on which any such statement'
+    'conditions or circumstances on which any such statement '
     'is based, except as required by applicable law'
 ]

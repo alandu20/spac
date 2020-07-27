@@ -36,7 +36,8 @@ class Document(object):
             'letter of intent', 'entry into a definitive agreement',
             'enter into a definitive agreement',
             'entering into a definitive agreement',
-            'entered into a definitive agreement'
+            'entered into a definitive agreement',
+            'definitive agreement will be entered into'
         ]
         return any(phrase in self.text for phrase in loi_phrases)
 
