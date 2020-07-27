@@ -43,6 +43,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1764711/000126493120000033/paac8k031620.htm',
         'https://www.sec.gov/Archives/edgar/data/1725134/000119312520115911/d880378d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1759631/000121390020015311/ea123187-8k_tortoiseacq.htm',
+        'https://www.sec.gov/Archives/edgar/data/1725134/000119312519100029/d585731d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1720353/000119312520077317/d901525d8k.htm', # bca amendment
         'https://www.sec.gov/Archives/edgar/data/1720353/000156459020013631/nebu-8k_20200326.htm', # bca amendment
         'https://www.sec.gov/Archives/edgar/data/1720353/000121390020011900/ea121740-8k_nebulaacq.htm', # bca amendment
@@ -56,7 +57,8 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1702744/000110465919046862/a19-17478_18k.htm', # purchase agreement
         'https://www.sec.gov/Archives/edgar/data/1653558/000161577418006758/s111503_8k.htm', # purchase agreement; vote result
         'https://www.sec.gov/Archives/edgar/data/1735041/000121390019020579/f8k101419_greenlandacqu.htm', # share exchange agreement; vote result
-        'https://www.sec.gov/Archives/edgar/data/1725255/000110465919067185/tm1923797d2_8k.htm' # securities purchase agreement
+        'https://www.sec.gov/Archives/edgar/data/1725255/000110465919067185/tm1923797d2_8k.htm', # securities purchase agreement
+        'https://www.sec.gov/Archives/edgar/data/1723648/000119312520177183/d948881d8k.htm' # merger agreement
     ]
     bca_path = os.path.join(os.path.dirname(__file__), "bca")
     for i, url in enumerate(bca_urls):
@@ -127,6 +129,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1712189/000114420418062119/tv508120_8k.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1719489/000119312519158991/d731495d8k.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1716947/000121390020001823/f8k012720_leisureacquis.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1713539/000161577419002794/s116244_8ka.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1736874/000121390020010769/ea121312-8k_hlacquisitions.htm', # trust account
         'https://www.sec.gov/Archives/edgar/data/1804176/000114036120012833/nc10012442x1_8k.htm', # consummate IPO
         'https://www.sec.gov/Archives/edgar/data/1753706/000121390019008433/f8k051319_act2global.htm' # consummate IPO
@@ -142,6 +145,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1764301/000114036119014592/form8k.htm', # consummate IPO
         'https://www.sec.gov/Archives/edgar/data/1790625/000121390019026119/f8k121019_livcapital.htm', # consummate IPO
         'https://www.sec.gov/Archives/edgar/data/1776909/000121390020000127/f8k010320_softwareacq.htm', # consummate IPO
+        'https://www.sec.gov/Archives/edgar/data/1760683/000121390020004733/f8k021920_eaststoneacq.htm', # consummate IPO
         'https://www.sec.gov/Archives/edgar/data/1768012/000114420419029853/tv523109_8k.htm', # units split to stock + warrants
         'https://www.sec.gov/Archives/edgar/data/1759008/000114420419019546/tv518793_8k.htm', # units split to stock + warrants
         'https://www.sec.gov/Archives/edgar/data/1785041/000114036120000582/form8k.htm', # units split to stock + warrants
@@ -151,6 +155,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1653558/000162828018014392/a8k-earningsreleasex093020.htm', # financial results
         'https://www.sec.gov/Archives/edgar/data/1713952/000119312520022132/d880962d8k.htm', # financial results
         'https://www.sec.gov/ix?doc=/Archives/edgar/data/1653558/000165355819000015/a8k-earningsreleasex93.htm', # financial results
+        'https://www.sec.gov/Archives/edgar/data/1702744/000170274419000003/a8-k_q1x2019.htm', # financial results
         'https://www.sec.gov/Archives/edgar/data/1721386/000173112219000514/e1477_8k.htm', # 2.03 note
         'https://www.sec.gov/Archives/edgar/data/1736874/000121390020017382/ea124130-8k_hlacquisitions.htm', # 2.03 note
         'https://www.sec.gov/Archives/edgar/data/1698990/000119312518254084/d609686d8k.htm', # acquisition
@@ -169,11 +174,13 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1653247/000156459019039788/wtrh-8k_20191104.htm', # director
         'https://www.sec.gov/Archives/edgar/data/1682325/000110465920077029/tm2023505d1_8k.htm', # director
         'https://www.sec.gov/Archives/edgar/data/1653247/000119312519121095/d738628d8k.htm', # director
+        'https://www.sec.gov/Archives/edgar/data/1668428/000119312518353401/d661018d8k.htm', # director
         'https://www.sec.gov/Archives/edgar/data/1770251/000121390019022065/f8k110419_orisunacquisition.htm', # exchange listing
         'https://www.sec.gov/Archives/edgar/data/1668428/000114420417060024/tv479911_8k.htm', # exchange listing (bca false positive)
         'https://www.sec.gov/Archives/edgar/data/1725134/000119312518296430/d615432d8k.htm', # exchange listing
         'https://www.sec.gov/Archives/edgar/data/1723580/000121390020000122/f8k010220_opesacquisition.htm', # exchange listing
         'https://www.sec.gov/Archives/edgar/data/1771928/000121390019017043/f8k083019_fellazo.htm', # exchange listing
+        'https://www.sec.gov/Archives/edgar/data/1653247/000119312518352277/d677933d8k.htm', # exchange listing
         'https://www.sec.gov/Archives/edgar/data/1650575/000121390018009604/f8k072518_borqstechnologies.htm', # other press release
         'https://www.sec.gov/Archives/edgar/data/1772757/000110465920026239/tm2011171d1_8k.htm', # other press release
         'https://www.sec.gov/Archives/edgar/data/96223/000009622315000010/lnc1stqtr2015form8k.htm', # other press release
@@ -181,12 +188,15 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1772757/000110465920066102/tm2020970d1_8k.htm' # other press release
         'https://www.sec.gov/ix?doc=/Archives/edgar/data/1668428/000119312520154605/d886481d8k.htm', # other press release
         'https://www.sec.gov/Archives/edgar/data/96223/000119312515072738/d883733d8k.htm', # other press release
+        'https://www.sec.gov/Archives/edgar/data/96223/000009622318000012/luk8-k3312018.htm', # other press release
+        'https://www.sec.gov/Archives/edgar/data/96223/000009622314000034/lnc3rdqtrform8k.htm', # other press release
         'https://www.sec.gov/Archives/edgar/data/1720592/000121390019001044/f8k012219b_thunderbridge.htm', # conference call
         'https://www.sec.gov/Archives/edgar/data/1744494/000114036119020930/form8k.htm', # investor meeting
         'https://www.sec.gov/Archives/edgar/data/96223/000119312516730524/d187183d8k.htm', # investor meeting
         'https://www.sec.gov/Archives/edgar/data/1720353/000121390020011529/ea121610-8ka_nebulaacquisit.htm', # correction
         'https://www.sec.gov/Archives/edgar/data/1773086/000110465920048708/tm2016303d1_8k.htm', # assignment agreement
-        'https://www.sec.gov/Archives/edgar/data/1764046/000110465920027513/tm206490d4_8k.htm' # credit agreement
+        'https://www.sec.gov/Archives/edgar/data/1764046/000110465920027513/tm206490d4_8k.htm', # credit agreement
+        'https://www.sec.gov/Archives/edgar/data/1653247/000119312519152361/d720593d8k.htm' # underwriting agreement
     ]
 
 
