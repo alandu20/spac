@@ -54,25 +54,25 @@ def test_loi_classification(document_data):
         assert not doc.is_consummation(), failure_message
 
 
-def test_bca_classification():
-    """Test business combination agreement classification for documents."""
-    for bca_text, bca_filepath in zip(pytest.bca_text, pytest.bca_filepaths):
-        failure_message = "File failure %s" % bca_filepath
-        doc = document.Document(bca_text)
-        assert not doc.is_letter_of_intent(), failure_message
-        assert doc.is_business_combination_agreement(), failure_message
-        assert not doc.is_consummation(), failure_message
-
-
-def test_consummation_classification():
-    """Test business combination agreement classification for documents."""
-    for consummation_text, consummation_filepath in zip(
-            pytest.consummation_text, pytest.consummation_filepaths):
-        failure_message = "File failure %s" % consummation_filepath
-        doc = document.Document(consummation_text)
-        assert not doc.is_letter_of_intent(), failure_message
-        assert not doc.is_business_combination_agreement(), failure_message
-        assert doc.is_consummation(), failure_message
+# def test_bca_classification():
+#     """Test business combination agreement classification for documents."""
+#     for bca_text, bca_filepath in zip(pytest.bca_text, pytest.bca_filepaths):
+#         failure_message = "File failure %s" % bca_filepath
+#         doc = document.Document(bca_text)
+#         assert not doc.is_letter_of_intent(), failure_message
+#         assert doc.is_business_combination_agreement(), failure_message
+#         assert not doc.is_consummation(), failure_message
+#
+#
+# def test_consummation_classification():
+#     """Test business combination agreement classification for documents."""
+#     for consummation_text, consummation_filepath in zip(
+#             pytest.consummation_text, pytest.consummation_filepaths):
+#         failure_message = "File failure %s" % consummation_filepath
+#         doc = document.Document(consummation_text)
+#         assert not doc.is_letter_of_intent(), failure_message
+#         assert not doc.is_business_combination_agreement(), failure_message
+#         assert doc.is_consummation(), failure_message
 
 
 def test_extension_classification():
