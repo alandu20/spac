@@ -15,6 +15,24 @@ import ssl
 import time
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
+def update_current_spacs(write=False):
+    """Update list of current spac tickers."""
+    df_traq = pd.read_csv('https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/'
+                             'export?gid=0&format=csv', header=2)
+    df_traq.columns = [x.replace('\n','') for x in df_traq.columns]
+    df_spacs_existing = pd.read_csv('data/spac_list_current.csv')
+    df_spacs_existing.drop_duplicates(inplace=True)
+    spacs = df_spacs_existing['Ticker'].append(df_traq['Issuer Symbol'])
+    df_spacs_new = pd.DataFrame(spacs, columns=['Ticker'])
+    df_spacs_new.drop_duplicates(inplace=True)
+    df_spacs_new.reset_index(inplace=True, drop=True)
+    new_added_tickers = [x for x in df_spacs_new['Ticker'].tolist()
+                         if x not in df_spacs_existing['Ticker'].tolist()]
+    if len(new_added_tickers) > 0:
+        print('newly added tickers:', new_added_tickers)
+    if write:
+        df_spacs_new.to_csv('data/spac_list_current.csv', index=False)
+
 def get_ticker_to_cik(write=False):
     """Get cik from ticker."""
     ticker_to_cik = pd.read_csv('https://www.sec.gov/include/ticker.txt', sep='\t',
@@ -396,7 +414,10 @@ def send_email(df_new_8Ks, df_pred_pos):
         print('\nemail sent')
 
 def main():
-    # load current and past spac lists
+    # update current spac list
+    update_current_spacs(write=True)
+
+    # load current spac list
     spac_list_current = process_current_spacs(file_path_current='data/spac_list_current.csv', write=False)
 
     # get returns following 8-Ks for current spacs
