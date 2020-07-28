@@ -306,13 +306,20 @@ def add_self_engineered_features(df_ret):
     'entering into a definitive agreement','entered into a definitive agreement']
     keywords_list_business_combination_agreement = ['(the "business combination agreement")', '("business combination")']
     keywords_list_extension = ['(the "extension")']
-    keywords_list_consummation = ['announcing the consummation'] # todo: make sure not referring to IPO
+    keywords_list_consummation = ['announcing the consummation']
+    keywords_list_ipo = ['consummated its initial public offering ("ipo")', 'consummated its initial public offering (the "ipo")',
+    'consummated an initial public offering ("ipo")', 'consummated an initial public offering (the "ipo")',
+    'consummated the initial public offering ("ipo")', 'consummated the initial public offering (the "ipo")',
+    'completed its initial public offering ("ipo")', 'completed its initial public offering (the "ipo")',
+    'in connection with its initial public offering ("ipo") was declared effective',
+    'in connection with its initial public offering (the "ipo") was declared effective']
     
     # compute counts
     df_ret['keywords_loi'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_loi))
     df_ret['keywords_business_combination_agreement'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_business_combination_agreement))
     df_ret['keywords_extension'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_extension))
     df_ret['keywords_consummation'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_consummation))
+    df_ret['keywords_ipo'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_ipo))
 
     # add vote results (d.n.e for most 8-Ks, fill with nan)
     df_ret['votes_for'] = np.nan
@@ -335,6 +342,8 @@ def add_self_engineered_features(df_ret):
 def classifier(x):
     """Rule based model to classify 8-K as 1 (buy warrant) or 0 (do nothing)."""
     if ~np.isnan(x['%vote_against']) & (x['%vote_against'] > .10):
+        return 0
+    elif x['keywords_ipo'] > 0:
         return 0
     else:
         if (x['keywords_loi'] > 0) & (x['item 2.03'] == 0):
