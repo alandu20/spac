@@ -24,6 +24,10 @@ def naive_rule(text: str) -> bool:
     if votes_against / votes_total > 0.1:
         return False
 
+    # Reject if is ipo document
+    if doc.is_ipo():
+        return False
+
     boolean_conditions = [
         doc.is_letter_of_intent(),
         doc.is_business_combination_agreement(),

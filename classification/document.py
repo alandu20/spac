@@ -61,3 +61,21 @@ class Document(object):
         """Check if document is a extension."""
         extension_phrases = ['(the "extension")', 'the "extension amendment"']
         return any(phrase in self.text for phrase in extension_phrases)
+
+    def is_ipo(self) -> bool:
+        """"Check if document is a consummation."""
+        ipo_phrases = [
+            'consummated its initial public offering ("ipo")',
+            'consummated its initial public offering (the "ipo")',
+            'consummated an initial public offering ("ipo")',
+            'consummated an initial public offering (the "ipo")',
+            'consummated the initial public offering ("ipo")',
+            'consummated the initial public offering (the "ipo")',
+            'completed its initial public offering ("ipo")',
+            'completed its initial public offering (the "ipo")',
+            'in connection with its initial public offering ("ipo") was declared effective',
+            'in connection with its initial public offering (the "ipo") was declared effective'
+        ]
+        return any(phrase in self.text for phrase in ipo_phrases)
+
+    # todo: add 2.03 rule here and in backtest/rules.py

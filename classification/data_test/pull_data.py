@@ -121,6 +121,34 @@ def main():
         with open(file_path_document, "w") as doc:
             doc.write(txt)
 
+    ipo_urls = [
+        'https://www.sec.gov/Archives/edgar/data/1804176/000114036120012833/nc10012442x1_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1753706/000121390019008433/f8k051319_act2global.htm'
+        'https://www.sec.gov/Archives/edgar/data/1800682/000119312520150173/d933468d8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1772757/000114420419027336/tv521878_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1721386/000114420418035644/tv497120_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1779474/000095010319010937/dp111340_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1673481/000161577418004954/s110685_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1780312/000121390019018459/f8k091319_newprovidenceacqu.htm',
+        'https://www.sec.gov/Archives/edgar/data/1719489/000119312517372046/d490212d8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1802749/000119312520145159/d918309d8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1772720/000119312519198970/d766703d8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1764301/000114036119014592/form8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1790625/000121390019026119/f8k121019_livcapital.htm',
+        'https://www.sec.gov/Archives/edgar/data/1776909/000121390020000127/f8k010320_softwareacq.htm',
+        'https://www.sec.gov/Archives/edgar/data/1760683/000121390020004733/f8k021920_eaststoneacq.htm',
+        'https://www.sec.gov/Archives/edgar/data/1754824/000161577418014657/s114818_8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1811882/000119312520200108/d46115d8k.htm',
+    ]
+    ipo_path = os.path.join(os.path.dirname(__file__), "ipo")
+    for i, url in enumerate(ipo_urls):
+        txt = get_request(url, timeout=10).text_content()
+        if not os.path.exists(ipo_path):
+            os.makedirs(ipo_path)
+        file_path_document = ipo_path + "/ipo_%s.txt" % str(i)
+        with open(file_path_document, "w") as doc:
+            doc.write(txt)
+
     other_urls = [
         'https://www.sec.gov/Archives/edgar/data/1708341/000168316819001386/brac_8k.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1725255/000110465919050327/a19-17038_38k.htm', # presentation
@@ -135,22 +163,6 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1716947/000121390020001823/f8k012720_leisureacquis.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1713539/000161577419002794/s116244_8ka.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1736874/000121390020010769/ea121312-8k_hlacquisitions.htm', # trust account
-        'https://www.sec.gov/Archives/edgar/data/1804176/000114036120012833/nc10012442x1_8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1753706/000121390019008433/f8k051319_act2global.htm' # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1800682/000119312520150173/d933468d8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1772757/000114420419027336/tv521878_8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1721386/000114420418035644/tv497120_8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1779474/000095010319010937/dp111340_8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1673481/000161577418004954/s110685_8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1780312/000121390019018459/f8k091319_newprovidenceacqu.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1719489/000119312517372046/d490212d8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1802749/000119312520145159/d918309d8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1772720/000119312519198970/d766703d8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1764301/000114036119014592/form8k.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1790625/000121390019026119/f8k121019_livcapital.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1776909/000121390020000127/f8k010320_softwareacq.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1760683/000121390020004733/f8k021920_eaststoneacq.htm', # consummate IPO
-        'https://www.sec.gov/Archives/edgar/data/1754824/000161577418014657/s114818_8k.htm', # consummate IPO
         'https://www.sec.gov/Archives/edgar/data/1768012/000114420419029853/tv523109_8k.htm', # units split to stock + warrants
         'https://www.sec.gov/Archives/edgar/data/1759008/000114420419019546/tv518793_8k.htm', # units split to stock + warrants
         'https://www.sec.gov/Archives/edgar/data/1785041/000114036120000582/form8k.htm', # units split to stock + warrants
