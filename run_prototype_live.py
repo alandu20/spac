@@ -15,44 +15,43 @@ import ssl
 import time
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
-def update_current_spacs(write=False):
+def update_current_spacs(file_path_current, write=False):
     """Update list of current spac tickers."""
-    df_traq = pd.read_csv('https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/'
-                             'export?gid=0&format=csv', header=2)
-    df_traq.columns = [x.replace('\n','') for x in df_traq.columns]
-    df_spacs_existing = pd.read_csv('data/spac_list_current.csv')
-    df_spacs_existing.drop_duplicates(inplace=True)
-    spacs = df_spacs_existing['Ticker'].append(df_traq['Issuer Symbol'])
-    df_spacs_new = pd.DataFrame(spacs, columns=['Ticker'])
-    df_spacs_new.drop_duplicates(inplace=True)
-    df_spacs_new.reset_index(inplace=True, drop=True)
-    new_added_tickers = [x for x in df_spacs_new['Ticker'].tolist()
-                         if x not in df_spacs_existing['Ticker'].tolist()]
-    if len(new_added_tickers) > 0:
-        print('newly added tickers:', new_added_tickers)
-    if write:
-        df_spacs_new.to_csv('data/spac_list_current.csv', index=False)
+    try:
+        df_traq = pd.read_csv('https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/'
+                                 'export?gid=0&format=csv', header=2)
+        df_traq.columns = [x.replace('\n','') for x in df_traq.columns]
+        df_spacs_existing = pd.read_csv(file_path_current)
+        df_spacs_existing.drop_duplicates(inplace=True)
+        spacs = df_spacs_existing['Ticker'].append(df_traq['Issuer Symbol'])
+        df_spacs_new = pd.DataFrame(spacs, columns=['Ticker'])
+        df_spacs_new.drop_duplicates(inplace=True)
+        df_spacs_new.reset_index(inplace=True, drop=True)
+        new_added_tickers = [x for x in df_spacs_new['Ticker'].tolist()
+                             if x not in df_spacs_existing['Ticker'].tolist()]
+        if len(new_added_tickers) > 0:
+            print('newly added tickers:', new_added_tickers)
+        if write:
+            df_spacs_new.to_csv(file_path_current, index=False)
+    except:
+        print('Error: could not update current spac list')
 
-def get_ticker_to_cik(write=False):
+def get_ticker_to_cik():
     """Get cik from ticker."""
     ticker_to_cik = pd.read_csv('https://www.sec.gov/include/ticker.txt', sep='\t',
         header=None, names=['ticker','cik'])
-    if write:
-        ticker_to_cik.to_csv('data/ticker_to_cik.csv', index=False)
     ticker_to_cik['ticker'] = ticker_to_cik.ticker.str.upper()
     ticker_to_cik['cik'] = ticker_to_cik.cik.astype(str)
     return ticker_to_cik
 
-def get_cik_to_name(write=False):
+def get_cik_to_name():
     """Get company name from cik."""
     cik_to_name = pd.read_json('https://www.sec.gov/files/company_tickers.json').transpose()
-    if write:
-        cik_to_name.to_csv('data/cik_to_name.csv', index=False)
     cik_to_name['ticker'] = cik_to_name.ticker.str.upper()
     cik_to_name['cik'] = cik_to_name.cik_str.astype(str)
     return cik_to_name
 
-def process_current_spacs(file_path_current, write=False):
+def process_current_spacs(file_path_current):
     """Process list of new spac tickers."""
     # read current spacs from file
     spac_list_current = pd.read_csv(file_path_current)
@@ -60,8 +59,8 @@ def process_current_spacs(file_path_current, write=False):
     spac_list_current = pd.DataFrame(spac_list_current, columns=['Ticker'])
         
     # get ticker to cik and cik to company name file, then merge
-    ticker_to_cik = get_ticker_to_cik(write=write)
-    cik_to_name = get_cik_to_name(write=write)
+    ticker_to_cik = get_ticker_to_cik()
+    cik_to_name = get_cik_to_name()
     spac_list_current = spac_list_current.merge(ticker_to_cik, how='left', left_on='Ticker', right_on='ticker')
     spac_list_current = spac_list_current.merge(cik_to_name[['cik','ticker','title']], how='left', on=['cik','ticker'])
     
@@ -415,10 +414,10 @@ def send_email(df_new_8Ks, df_pred_pos):
 
 def main():
     # update current spac list
-    update_current_spacs(write=True)
+    update_current_spacs(file_path_current='data/spac_list_current.csv', write=True)
 
     # load current spac list
-    spac_list_current = process_current_spacs(file_path_current='data/spac_list_current.csv', write=False)
+    spac_list_current = process_current_spacs(file_path_current='data/spac_list_current.csv')
 
     # get returns following 8-Ks for current spacs
     start_time = time.time()
