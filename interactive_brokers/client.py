@@ -7,7 +7,8 @@ urllib3.disable_warnings(category=InsecureRequestWarning)
 class IBClient(object):
     def __init__(self):
         # Account info
-        self.account_id = 'DU2527585'
+        f = open('account_info.txt', 'r')
+        self.account_id = f.read()
 
         # URL components
         self.ib_gateway_path = 'https://localhost:5000'
@@ -260,7 +261,7 @@ class IBClient(object):
         #     "useAdaptive": false,
         #     "isCurrencyConversion": false
         # }
-        
+
         # # define request components
         # endpoint = 'iserver/account/{}/order'.format(self.account_id)
         # req_type = 'POST'
