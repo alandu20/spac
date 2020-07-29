@@ -31,3 +31,9 @@ Current SPAC data sources:
 1. https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/edit#gid=0
 2. https://docs.google.com/spreadsheets/d/1LQLUy21Y14CcYyuYgKJcf9OQ4QWCs_w6PX-jDqhcejQ/edit#gid=0. This one has export options disabled
 3. https://spactrack.net/ (https://sheet2site.com/api/v3/index.php?key=1F7gLiGZP_F4tZgQXgEhsHMqlgqdSds3vO0-4hoL6ROQ&g=1&e=1&g=1)
+
+Interactive Brokers:
+1. Unzip interactive_brokers/clientportal.gw.zip
+2. In interactive_brokers/clientportal.gw directory start client portal login java app: bin/run.sh root/conf.yaml
+3. Open https://localhost:5000 and enter login info
+4. API: https://www.interactivebrokers.com/api/doc.html, https://github.com/areed1192/interactive-broker-python-api
