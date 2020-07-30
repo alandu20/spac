@@ -1,5 +1,6 @@
-from typing import Dict
+from order import Order
 import requests
+from typing import Dict
 import urllib3
 from urllib3.exceptions import InsecureRequestWarning
 urllib3.disable_warnings(category=InsecureRequestWarning)
@@ -7,8 +8,7 @@ urllib3.disable_warnings(category=InsecureRequestWarning)
 class IBClient(object):
     def __init__(self):
         # Account info
-        f = open('account_info.txt', 'r')
-        self.account_id = f.read()
+        self.acctId = open('account_info.txt', 'r').read()
 
         # URL components
         self.ib_gateway_path = 'https://localhost:5000'
@@ -55,26 +55,18 @@ class IBClient(object):
 
         # Scenario 1: POST with a payload.
         if req_type == 'POST' and params is not None:
-
-            # grab the response.
             response = requests.post(url, headers = headers, json=params, verify = False)
 
         # SCENARIO 2: POST without a payload.
         elif req_type == 'POST' and params is None:
-
-            # grab the response.
             response = requests.post(url, headers = headers, verify = False)
 
         # SCENARIO 3: GET without parameters.
         elif req_type == 'GET' and params is None:
-
-            # grab the response.
             response = requests.get(url, headers = headers, verify = False)
 
-         # SCENARIO 3: GET with parameters.
+         # SCENARIO 4: GET with parameters.
         elif req_type == 'GET' and params is not None:
-
-            # grab the response.
             response = requests.get(url, headers = headers, params = params, verify = False)
 
         # grab the status code
@@ -85,7 +77,6 @@ class IBClient(object):
 
         # Check to see if it was successful
         if response.ok:
-
             if response_headers.get('Content-Type','null') == 'application/json;charset=utf-8':
                 return response.json()
             else:
@@ -93,7 +84,6 @@ class IBClient(object):
 
         # if it was a bad request print it out.
         elif not response.ok and url != 'https://localhost:5000/v1/portal/iserver/account':
-
             print('')
             print('-'*80)
             print("BAD REQUEST - STATUS CODE: {}".format(status_code))
@@ -109,6 +99,7 @@ class IBClient(object):
         # define request components
         endpoint = 'sso/validate'
         req_type = 'GET'
+
         content = self._make_request(endpoint = endpoint, req_type = req_type)
 
         return content
@@ -123,6 +114,7 @@ class IBClient(object):
         # define request components
         endpoint = 'tickle'
         req_type = 'POST'
+
         content = self._make_request(endpoint = endpoint, req_type = req_type)
 
         return content
@@ -137,6 +129,7 @@ class IBClient(object):
         # define request components
         endpoint = 'iserver/auth/status'
         req_type = 'POST'
+
         content = self._make_request(endpoint = endpoint, req_type = req_type)
 
         return content
@@ -151,7 +144,6 @@ class IBClient(object):
         endpoint = 'iserver/reauthenticate'
         req_type = 'POST'
 
-        # this is special, I don't want the JSON content right away.
         content = self._make_request(endpoint = endpoint, req_type = req_type)
         
         return content
@@ -165,9 +157,8 @@ class IBClient(object):
         # define request components
         endpoint = 'pa/summary'
         req_type = 'POST'
-
         payload = {
-            'acctIds': [self.account_id]
+            'acctIds': [self.acctId]
         }
 
         # this is special, I don't want the JSON content right away.
@@ -177,94 +168,76 @@ class IBClient(object):
 
     def get_live_orders(self):
         """Get current live orders.
-            The endpoint is meant to be used in polling mode, e.g. requesting every 
-            x seconds. The response will contain two objects, one is notification, the 
-            other is orders. Orders is the list of orders (cancelled, filled, submitted) 
-            with activity in the current day. Notifications contains information about 
-            execute orders as they happen, see status field.
+        The endpoint is meant to be used in polling mode, e.g. requesting every 
+        x seconds. The response will contain two objects, one is notification, the 
+        other is orders. Orders is the list of orders (cancelled, filled, submitted) 
+        with activity in the current day. Notifications contains information about 
+        execute orders as they happen, see status field.
         """
 
         # define request components
         endpoint = 'iserver/account/orders'
         req_type = 'GET'
+
         content = self._make_request(endpoint = endpoint, req_type = req_type)
 
         return content
 
-    def place_order(self, account_id: str, order: dict) -> Dict:
-        """Place a new order.
-            Please note here, sometimes this endpoint alone can't make sure you submit the order 
-            successfully, you could receive some questions in the response, you have to to answer 
-            them in order to submit the order successfully. You can use "/iserver/reply/{replyid}" 
-            end-point to answer questions.
-
-            Payload definitions:
-
-            acctId: acctId is optional. It should be one of the accounts returned by /iserver/accounts.
-            If not passed, the first one in the list is selected.
-
-            conid: conid is the identifier of the security you want to trade, you can find the conid with
-            /iserver/secdef/search.
-
-            secType: conid:type for example 265598:STK
-
-            cOID: Customer Order ID. An arbitrary string that can be used to identify the order, e.g
-            "my-fb-order". The value must be unique for a 24h span. Please do not set this value for child
-            orders when placing a bracket order.
-
-            parentId: When placing bracket orders, the child parentId must be equal to the cOId (customer
-            order id) of the parent.
-
-            orderType: orderType can be one of MKT (Market), LMT (Limit), STP (Stop) or STP_LIMIT (stop limit)
-
-            listingExchange: listingExchange is optional. By default we use "SMART" routing. Possible values
-            are available via this end point: /v1/portal/iserver/contract/{{conid}}/info, see valid_exchange
-
-            outsideRTH: set to true if the order can be executed outside regular trading hours.
-
-            print: optional if order is MKT, for LMT, this is the limit price. For STP this is the stop price.
-
-            side: SELL or BUY
-
-            ticker: ticker
-
-            tif: GTC (Good Till Cancel) or DAY. DAY orders are automatically cancelled at the end of the Day
-
-            referrer: for example QuickTrade
-
-            quantity: usually integer, for some special cases can be float numbers
-
-            fxQty: double number, this is the cash quantity field which can only be used for FX conversion order.
-
-            useAdaptive: If true, the system will use the Adaptive Algo to submit the order
-            https://www.interactivebrokers.com/en/index.php?f=19091
-
-            isCurrencyConversion: set to true if the order is a FX conversion order
+    def get_conid(self, symbol: str):
+        """Get current live orders.
+        Symbol or name to be searched.
+        Payload definitions:
+        1. symbol: symbol or name to be searched
+        2. (optional) name: should be true if the search is to be performed by name. false by default.
+        3. (optional) secType: If search is done by name, only the assets provided in this field will
+        be returned. Currently, only STK is supported.
         """
 
-        # payload = {
-        #     "acctId": self.account_id,
-        #     "conid": 0,
-        #     "secType": "string",
-        #     "cOID": "string",
-        #     "parentId": "string",
-        #     "orderType": "string",
-        #     "listingExchange": "string",
-        #     "outsideRTH": true,
-        #     "price": 0,
-        #     "side": "string",
-        #     "ticker": "string",
-        #     "tif": "string",
-        #     "referrer": "string",
-        #     "quantity": 0,
-        #     "fxQty": 0,
-        #     "useAdaptive": false,
-        #     "isCurrencyConversion": false
-        # }
+        # define request components
+        endpoint = 'iserver/secdef/search'
+        req_type = 'POST'
+        payload = {
+            'symbol': symbol,
+            'name': True,
+            'secType': 'STK'
+        }
 
-        # # define request components
-        # endpoint = 'iserver/account/{}/order'.format(self.account_id)
-        # req_type = 'POST'
-        # content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
+        # this is special, I don't want the JSON content right away.
+        content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
 
-        # return content
+        return content
+
+    def place_order(self, order: Order) -> Dict:
+        """Place a new order.
+        Please note here, sometimes this endpoint alone can't make sure you submit the order 
+        successfully, you could receive some questions in the response, you have to to answer 
+        them in order to submit the order successfully. You can use "/iserver/reply/{replyid}" 
+        end-point to answer questions.
+        """
+
+        # define request components
+        endpoint = 'iserver/account/{}/order'.format(self.acctId)
+        req_type = 'POST'
+        payload = {
+            "acctId": order.get_acctId(),
+            "conid": order.get_conid(),
+            "secType": order.get_secType(),
+            "cOID": order.get_cOID(),
+            "parentId": order.get_parentId(),
+            "orderType": order.get_orderType(),
+            "listingExchange": order.get_listingExchange(),
+            "outsideRTH": order.get_outsideRTH(),
+            "price": order.get_price(),
+            "side": order.get_side(),
+            "ticker": order.get_ticker(),
+            "tif": order.get_tif(),
+            "referrer": order.get_referrer(),
+            "quantity": order.get_quantity(),
+            "fxQty": order.get_fxQty(),
+            "useAdaptive": order.get_useAdaptive(),
+            "isCurrencyConversion": order.get_isCurrencyConversion()
+        }
+
+        content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
+
+        return content
