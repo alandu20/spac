@@ -464,8 +464,10 @@ def main():
     output_columns = ['symbol','accepted_time','keywords_loi','keywords_business_combination_agreement',
     'keywords_consummation','keywords_extension','item 2.03','%vote_against',r'%redeemed']
     df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][output_columns]
-    df_pred_pos.rename(columns={'keywords_business_combination_agreement':'keywords_bca'}, inplace=True)
     df_pred_pos.reset_index(drop=True, inplace=True)
+    df_pred_pos.rename(columns={'keywords_business_combination_agreement':'keywords_bca'}, inplace=True)
+    df_pred_pos['%vote_against'] = df_pred_pos['%vote_against'].map('{:.2%}'.format)
+    df_pred_pos[r'%redeemed'] = df_pred_pos[r'%redeemed'].map('{:.2%}'.format)
     print('\nbuy warrants for these symbols:')
     if len(df_pred_pos)==0:
         print('none\n')
