@@ -36,4 +36,4 @@ Interactive Brokers:
 1. Unzip interactive_brokers/clientportal.gw.zip
 2. In interactive_brokers/clientportal.gw directory start client portal login java app: bin/run.sh root/conf.yaml
 3. Open https://localhost:5000 and enter login info
-4. API: https://www.interactivebrokers.com/api/doc.html, https://github.com/areed1192/interactive-broker-python-api
+4. API: https://www.interactivebrokers.com/api/doc.html, https://interactivebrokers.github.io/cpwebapi/, https://github.com/areed1192/interactive-broker-python-api
