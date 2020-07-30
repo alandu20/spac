@@ -148,8 +148,23 @@ class IBClient(object):
         
         return content
 
+    def get_accounts(self) -> Dict:
+        """Get accounts.
+        Returns a list of accounts the user has trading access to, their respective aliases
+        and the currently selected account. Note this endpoint must be called before modifying
+        an order or querying open orders.
+        """
+
+        # define request components
+        endpoint = 'iserver/accounts'
+        req_type = 'GET'
+
+        content = self._make_request(endpoint = endpoint, req_type = req_type)
+
+        return content
+
     def get_account_balance(self) -> Dict:
-        """Get account balance.
+        """Get account balance(s).
         Returns a summary of all account balances for the given accounts, if more than
         one account is passed, the result is consolidated.
         """
@@ -166,7 +181,7 @@ class IBClient(object):
         
         return content
 
-    def get_live_orders(self):
+    def get_outstanding_orders(self):
         """Get current live orders.
         The endpoint is meant to be used in polling mode, e.g. requesting every 
         x seconds. The response will contain two objects, one is notification, the 
@@ -184,10 +199,10 @@ class IBClient(object):
         return content
 
     def get_conid(self, symbol: str):
-        """Get current live orders.
+        """Get current live orders. Returns and array of results.
         Symbol or name to be searched.
         Payload definitions:
-        1. symbol: symbol or name to be searched
+        1. symbol: If symbol is warrant, warrant conid can be found in 'sections' in resulting array.
         2. (optional) name: should be true if the search is to be performed by name. false by default.
         3. (optional) secType: If search is done by name, only the assets provided in this field will
         be returned. Currently, only STK is supported.
@@ -199,15 +214,13 @@ class IBClient(object):
         payload = {
             'symbol': symbol,
             'name': True,
-            'secType': 'STK'
         }
 
-        # this is special, I don't want the JSON content right away.
         content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
 
         return content
 
-    def place_order(self, order: Order) -> Dict:
+    def new_order(self, order: Order) -> Dict:
         """Place a new order.
         Please note here, sometimes this endpoint alone can't make sure you submit the order 
         successfully, you could receive some questions in the response, you have to to answer 
@@ -241,3 +254,25 @@ class IBClient(object):
         content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
 
         return content
+
+    def delete_order(self, cOID) -> Dict:
+        """Place a new order.
+        Deletes an open order. Must call get_accounts() prior to deleting an order.
+        Use get_outstanding_orders() to review open orders.
+        """
+
+        # call iserver/accounts endpoint
+        self.get_accounts()
+
+        # define request components
+        endpoint = 'iserver/account/{}/order/{}'.format(self.acctId, cOID)
+        req_type = 'POST'
+        payload = {
+            "accountId": self.acctId,
+            "orderId": cOID,
+        }
+
+        content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
+
+        return content
+

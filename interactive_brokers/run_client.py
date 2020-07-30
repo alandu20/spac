@@ -1,6 +1,9 @@
 from client import IBClient
 import numpy as np
 from order import Order
+import pandas as pd
+import sys
+pd.options.display.max_columns = 100
 
 def get_cOID():
     """Create random customer order id between 0 and 1e6 (must be unique for 24h span)."""
@@ -11,13 +14,18 @@ def get_cOID():
 
 def calc_order_price(symbol):
     """Calculate limit price based on current best bid offer."""
-    return np.nan
+    return .01
 
 def calc_order_quantity(symbol):
     """Calculate order quantity based on 8-K type."""
-    return np.nan
+    return 1
 
 def main():
+    # init client
+    if len(sys.argv) == 0:
+        print('Missing symbol argument')
+    symbol = str(sys.argv[1])
+
     # init client
     ib_client = IBClient()
 
@@ -35,29 +43,40 @@ def main():
     # print(balance)
 
     # current live orders
-    live_orders = ib_client.get_live_orders()['orders']
+    live_orders = ib_client.get_outstanding_orders()['orders']
     if len(live_orders)==0:
-        print('No live orders\n')
+        print('No outstanding orders\n')
     else:
-        print('Current live orders:')
+        print('Outstanding orders:')
         df_live_orders = pd.DataFrame.from_dict(live_orders)
-        print(df_live_orders)
+        cols = ['acct','ticker','secType','orderDesc','remainingQuantity',
+                'filledQuantity','status','orderId','order_ref']
+        print(df_live_orders[cols],'\n')
 
     # find cOID identifier for symbol
-    symbol = 'FMCI'
-    conid = ib_client.get_conid(symbol)[0]['conid']
-    print('Symbol and conid:', symbol, conid)
+    conid_warrant = ib_client.get_conid(symbol)[0]['sections'][0]['conid']
+    print('Symbol and conid:', symbol, conid_warrant)
 
     # create new order for symbol
-    # cOID = get_cOID()
-    # limit_price = calc_order_price(symbol)
-    # side = 'BUY'
-    # quantity = calc_order_quantity(symbol)
-    # new_order = Order(conid = conid, secType = 'STK', cOID = cOID, parentId = cOID,
-    #                   price = limit_price, side = side, ticker = symbol, quantity = quantity)
+    cOID = get_cOID()
+    print('New order ID:', cOID)
+    side = 'BUY'
+    print('New order side:', side)
+    limit_price = calc_order_price(symbol)
+    print('New order price:', limit_price)
+    quantity = calc_order_quantity(symbol)
+    print('New order quantity:', quantity)
+    new_order = Order(conid = conid_warrant, secType = 'STK', cOID = cOID, parentId = cOID,
+                      price = limit_price, side = side, ticker = symbol, quantity = quantity)
 
     # send new order
-    # ib_client.place_order(new_order)
+    ib_client.new_order(new_order)
+    print('Sent new order', cOID)
+
+    # delete an outstanding order
+    # doesn't seem to work for paper trading (status for all open orders is 'Inactive')
+    cxl_order_id = '406779353'
+    ib_client.delete_order(cxl_order_id)
 
 if __name__ == "__main__":
     main()

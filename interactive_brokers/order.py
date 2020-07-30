@@ -34,7 +34,7 @@ class Order(object):
         self.parentId = parentId
         self.orderType = 'LMT'
         self.listingExchange = 'SMART'
-        self.outsideRTH = 'true'
+        self.outsideRTH = True
         self.price = price
         self.side = side
         self.ticker = ticker
@@ -42,56 +42,56 @@ class Order(object):
         self.referrer = 'QuickTrade'
         self.quantity = quantity
         self.fxQty = 0
-        self.useAdaptive = 'true'
-        self.isCurrencyConversion = 'false'
+        self.useAdaptive = True
+        self.isCurrencyConversion = False
 
-    def get_acctId():
+    def get_acctId(self):
         return self.acctId
 
-    def get_conid():
+    def get_conid(self):
         return self.conid
 
-    def get_secType():
+    def get_secType(self):
         return self.secType
 
-    def get_cOID():
+    def get_cOID(self):
         return self.cOID
 
-    def get_parentId():
+    def get_parentId(self):
         return self.parentId
 
-    def get_orderType():
+    def get_orderType(self):
         return self.orderType
 
-    def get_listingExchange():
+    def get_listingExchange(self):
         return self.listingExchange
 
-    def get_outsideRTH():
+    def get_outsideRTH(self):
         return self.outsideRTH
 
-    def get_price():
+    def get_price(self):
         return self.price
 
-    def get_side():
+    def get_side(self):
         return self.side
 
-    def get_ticker():
+    def get_ticker(self):
         return self.ticker
 
-    def get_tif():
+    def get_tif(self):
         return self.tif
 
-    def get_referrer():
+    def get_referrer(self):
         return self.referrer
 
-    def get_quantity():
+    def get_quantity(self):
         return self.quantity
 
-    def get_fxQty():
+    def get_fxQty(self):
         return self.fxQty
 
-    def get_useAdaptive():
+    def get_useAdaptive(self):
         return self.useAdaptive
 
-    def get_isCurrencyConversion():
+    def get_isCurrencyConversion(self):
         return self.isCurrencyConversion
