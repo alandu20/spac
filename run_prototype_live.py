@@ -244,7 +244,7 @@ def add_subheader_item_features(df_ret, item_features):
 def convert_vote_count_to_int(x):
     """Convert vote string to int."""
     # to indicate 0 votes, sometimes 8-K has dash (two types) instead of 0
-    if '—' in x or '-' in x:
+    if '—' in x or '-' in x or 'n/a' in x:
         return 0
     try:
         x = int(x.replace(',',''))
@@ -256,12 +256,17 @@ def parse_vote_results(x):
     """Return votes for, votes against, abstain and broker non-votes."""
     vote_string = 'for against abstain broker non-votes'
     ind_vote = x['text'].find(vote_string)
+    if ind_vote == -1:
+        vote_string = 'for against abstentions broker non-votes'
+        ind_vote = x['text'].find(vote_string)
     if ind_vote != -1:
         text_split = x['text'][(ind_vote+len(vote_string)):].lstrip().split(' ')
         votes_for = convert_vote_count_to_int(text_split[0])
         votes_against = convert_vote_count_to_int(text_split[1])
         votes_abstain = convert_vote_count_to_int(text_split[2])
         votes_broker_non_votes = convert_vote_count_to_int(text_split[3])
+        if np.isnan(votes_for) or np.isnan(votes_against) or np.isnan(votes_abstain) or np.isnan(votes_broker_non_votes):
+            print('something wrong with parse_vote_results for', x.symbol, 'on', x.date)
         return pd.Series([votes_for, votes_against, votes_abstain, votes_broker_non_votes])
     return pd.Series([np.nan, np.nan, np.nan, np.nan])
 
@@ -273,19 +278,19 @@ def parse_redemptions(x):
     string_redemption_4 = 'in connection with the special meeting'
     redemption_sentence = [sentence for sentence in x.text.split('.') if
                            string_redemption_1 in sentence
-                           and 'redeem' in sentence]
+                           and ('redeem' in sentence or 'redemp' in sentence)]
     if len(redemption_sentence)==0:
         redemption_sentence = [sentence for sentence in x.text.split('.') if
                                string_redemption_2 in sentence
-                               and 'redeem' in sentence]
+                               and ('redeem' in sentence or 'redemp' in sentence)]
     if len(redemption_sentence)==0:
         redemption_sentence = [sentence for sentence in x.text.split('.') if
                                string_redemption_3 in sentence
-                               and 'redeem' in sentence]
+                               and ('redeem' in sentence or 'redemp' in sentence)]
     if len(redemption_sentence)==0:
         redemption_sentence = [sentence for sentence in x.text.split('.') if
                                string_redemption_4 in sentence
-                               and 'redeem' in sentence]
+                               and ('redeem' in sentence or 'redemp' in sentence)]
     if len(redemption_sentence)==0:
         return np.nan
     redemption_sentence = redemption_sentence[0].lstrip().replace(',','')
@@ -294,15 +299,9 @@ def parse_redemptions(x):
     shares_regex_weak = re.findall('[0-9]+', redemption_sentence)
     if len(shares_regex_weak)==1:
         if len(shares_regex_strong)==1:
-            try:
-                shares = int(shares_regex_strong[0].replace('shares','').replace(' ',''))
-            except:
-                shares = np.nan
+            shares = int(shares_regex_strong[0].replace('shares','').replace(' ',''))
         elif len(shares_regex_strong)==0:
-            try:
-                shares = int(shares_regex_weak[0])
-            except:
-                shares = np.nan
+            shares = int(shares_regex_weak[0])
         else:
             shares = np.nan
     else:
@@ -463,8 +462,9 @@ def main():
 
     # print positive label predictions where date >= min_date
     output_columns = ['symbol','accepted_time','keywords_loi','keywords_business_combination_agreement',
-    'keywords_consummation','keywords_extension','item 2.03','%vote_against']
+    'keywords_consummation','keywords_extension','item 2.03','%vote_against',r'%redeemed']
     df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][output_columns]
+    df_pred_pos.rename(columns={'keywords_business_combination_agreement':'keywords_bca'}, inplace=True)
     df_pred_pos.reset_index(drop=True, inplace=True)
     print('\nbuy warrants for these symbols:')
     if len(df_pred_pos)==0:

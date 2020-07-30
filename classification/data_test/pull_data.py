@@ -87,7 +87,8 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1708176/000121390020012870/ea122063-8k_gordonpointe.htm', # also trust account
         'https://www.sec.gov/Archives/edgar/data/1726293/000143774920011336/pacq20200519_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1653247/000114420418031792/tv495432_8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1650575/000121390017003677/f8k041317_pacificspecial.htm' # also trust account
+        'https://www.sec.gov/Archives/edgar/data/1650575/000121390017003677/f8k041317_pacificspecial.htm', # also trust account
+        'https://www.sec.gov/Archives/edgar/data/1691936/000149315220014201/form8-k.htm' # also redemptions
     ]
     extension_path = os.path.join(os.path.dirname(__file__), "extension")
     for i, url in enumerate(extension_urls):
