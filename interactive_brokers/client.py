@@ -69,6 +69,10 @@ class IBClient(object):
         elif req_type == 'GET' and params is not None:
             response = requests.get(url, headers = headers, params = params, verify = False)
 
+         # SCENARIO 5: DELETE (does not accept parameters).
+        elif req_type == 'DELETE':
+            response = requests.delete(url, headers = headers, verify = False)
+
         # grab the status code
         status_code = response.status_code
 
@@ -220,6 +224,39 @@ class IBClient(object):
 
         return content
 
+    def preview_order(self, order: Order) -> Dict:
+        """Place a new order.
+        This endpoint allows you to preview order without actually submitting the order and you can
+        get commission information in the response.
+        """
+
+        # define request components
+        endpoint = 'iserver/account/{}/order/whatif'.format(self.acctId)
+        req_type = 'POST'
+        payload = {
+            "acctId": order.get_acctId(),
+            "conid": order.get_conid(),
+            "secType": order.get_secType(),
+            "cOID": order.get_cOID(),
+            "parentId": order.get_parentId(),
+            "orderType": order.get_orderType(),
+            "listingExchange": order.get_listingExchange(),
+            "outsideRTH": order.get_outsideRTH(),
+            "price": order.get_price(),
+            "side": order.get_side(),
+            "ticker": order.get_ticker(),
+            "tif": order.get_tif(),
+            "referrer": order.get_referrer(),
+            "quantity": order.get_quantity(),
+            "fxQty": order.get_fxQty(),
+            "useAdaptive": order.get_useAdaptive(),
+            "isCurrencyConversion": order.get_isCurrencyConversion()
+        }
+
+        content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
+
+        return content
+
     def new_order(self, order: Order) -> Dict:
         """Place a new order.
         Please note here, sometimes this endpoint alone can't make sure you submit the order 
@@ -255,24 +292,22 @@ class IBClient(object):
 
         return content
 
-    def delete_order(self, cOID) -> Dict:
+    def delete_order(self, orderId: str) -> Dict:
         """Place a new order.
         Deletes an open order. Must call get_accounts() prior to deleting an order.
         Use get_outstanding_orders() to review open orders.
+
+        Path parameters: account id, orderId (not cOID/order_ref)
         """
 
         # call iserver/accounts endpoint
         self.get_accounts()
 
         # define request components
-        endpoint = 'iserver/account/{}/order/{}'.format(self.acctId, cOID)
-        req_type = 'POST'
-        payload = {
-            "accountId": self.acctId,
-            "orderId": cOID,
-        }
+        endpoint = 'iserver/account/{}/order/{}'.format(self.acctId, orderId)
+        req_type = 'DELETE'
 
-        content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
+        content = self._make_request(endpoint = endpoint, req_type = req_type)
 
         return content
 

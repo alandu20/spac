@@ -42,7 +42,7 @@ def main():
     # balance = ib_client.get_account_balance()
     # print(balance)
 
-    # current live orders
+    # current outstanding orders
     live_orders = ib_client.get_outstanding_orders()['orders']
     if len(live_orders)==0:
         print('No outstanding orders\n')
@@ -53,30 +53,54 @@ def main():
                 'filledQuantity','status','orderId','order_ref']
         print(df_live_orders[cols],'\n')
 
-    # find cOID identifier for symbol
+    # find conid identifier for symbol
     conid_warrant = ib_client.get_conid(symbol)[0]['sections'][0]['conid']
     print('Symbol and conid:', symbol, conid_warrant)
 
     # create new order for symbol
     cOID = get_cOID()
-    print('New order ID:', cOID)
     side = 'BUY'
-    print('New order side:', side)
     limit_price = calc_order_price(symbol)
-    print('New order price:', limit_price)
     quantity = calc_order_quantity(symbol)
-    print('New order quantity:', quantity)
+    print('New child order id:', cOID)
+    print('New order side:', side)
+    print('New order price:', limit_price)
+    print('New order quantity:', quantity, '\n')
     new_order = Order(conid = conid_warrant, secType = 'STK', cOID = cOID, parentId = cOID,
                       price = limit_price, side = side, ticker = symbol, quantity = quantity)
 
+    # preview new order
+    preview = ib_client.preview_order(new_order)
+    notional = float(preview['amount']['amount'].replace(' USD',''))
+    commission = float(preview['amount']['commission'].replace(' USD',''))
+    total_notional = float(preview['amount']['total'].replace(' USD',''))
+    print('Preview order:')
+    print('amount:', notional)
+    print('commission:', commission)
+    print('total:', total_notional)
+    print('warning:', preview['warn'].replace('\n',' '), '\n')
+
+    # order protections
+    MAX_NOTIONAL = 10000
+    MAX_COMMISSION = 100
+    if notional > MAX_NOTIONAL:
+        raise ValueError('Order notional ({}) exceeded MAX_NOTIONAL ({})! '
+                         'Order rejected.'.format(notional, MAX_NOTIONAL))
+    if commission > MAX_COMMISSION:
+        raise ValueError('Order notional ({}) exceeded MAX_COMMISSION ({})! '
+                         'Order rejected.'.format(notional, MAX_COMMISSION))
+
     # send new order
     ib_client.new_order(new_order)
-    print('Sent new order', cOID)
+    print('Sent new order, order_ref =', cOID, '\n')
 
-    # delete an outstanding order
-    # doesn't seem to work for paper trading (status for all open orders is 'Inactive')
-    cxl_order_id = '406779353'
-    ib_client.delete_order(cxl_order_id)
+    # delete any active orders
+    # does not work for paper trading ('Order is inactive')
+    if len(live_orders)>0:
+        df_active_orders = df_live_orders[df_live_orders['status']=='Submitted']
+        for active_orderId in df_active_orders['status']:
+            ib_client.delete_order(active_orderId)
+            print('Deleted order:', active_orderId)
 
 if __name__ == "__main__":
     main()
