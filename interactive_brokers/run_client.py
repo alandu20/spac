@@ -5,6 +5,11 @@ import pandas as pd
 import sys
 pd.options.display.max_columns = 100
 
+# Protections
+MAX_OUTSTANDING_ORDERS = 10
+MAX_NOTIONAL = 10000
+MAX_COMMISSION = 100
+
 def get_cOID():
     """Create random customer order id between 0 and 1e6 (must be unique for 24h span)."""
     R = np.random.RandomState()
@@ -52,6 +57,10 @@ def main():
         cols = ['acct','ticker','secType','orderDesc','remainingQuantity',
                 'filledQuantity','status','orderId','order_ref']
         print(df_live_orders[cols],'\n')
+        if len(df_live_orders) > MAX_OUTSTANDING_ORDERS:
+            ib_client.logout()
+            raise ValueError('Oustanding order count ({}) > MAX_OUTSTANDING_ORDERS ({})! Killed '
+                             'session.'.format(len(df_live_orders), MAX_OUTSTANDING_ORDERS))
 
     # find conid identifier for symbol
     conid_warrant = ib_client.get_conid(symbol)[0]['sections'][0]['conid']
@@ -81,8 +90,6 @@ def main():
     print('warning:', preview['warn'].replace('\n',' '), '\n')
 
     # order protections
-    MAX_NOTIONAL = 10000
-    MAX_COMMISSION = 100
     if notional > MAX_NOTIONAL:
         raise ValueError('Order notional ({}) exceeded MAX_NOTIONAL ({})! '
                          'Order rejected.'.format(notional, MAX_NOTIONAL))

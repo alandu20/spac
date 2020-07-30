@@ -152,6 +152,20 @@ class IBClient(object):
         
         return content
 
+    def logout(self) -> Dict:
+        """End current session.
+        Logs the user out of the gateway session. Any further activity requires 
+        re-authentication.
+        """
+
+        # define request components
+        endpoint = 'logout'
+        req_type = 'POST'
+
+        content = self._make_request(endpoint = endpoint, req_type = req_type)
+
+        return content
+
     def get_accounts(self) -> Dict:
         """Get accounts.
         Returns a list of accounts the user has trading access to, their respective aliases
