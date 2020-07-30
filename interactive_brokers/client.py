@@ -1,6 +1,6 @@
 from order import Order
 import requests
-from typing import Dict
+from typing import Dict, List
 import urllib3
 from urllib3.exceptions import InsecureRequestWarning
 urllib3.disable_warnings(category=InsecureRequestWarning)
@@ -239,7 +239,7 @@ class IBClient(object):
         return content
 
     def preview_order(self, order: Order) -> Dict:
-        """Place a new order.
+        """Preview a new order.
         This endpoint allows you to preview order without actually submitting the order and you can
         get commission information in the response.
         """
@@ -308,10 +308,12 @@ class IBClient(object):
 
     def delete_order(self, orderId: str) -> Dict:
         """Place a new order.
-        Deletes an open order. Must call get_accounts() prior to deleting an order.
+        Deletes an open order. Must call /iserver/accounts prior to deleting an order.
         Use get_outstanding_orders() to review open orders.
 
-        Path parameters: account id, orderId (not cOID/order_ref)
+        Path parameters:
+        1. account id
+        2. orderId (not cOID/order_ref)
         """
 
         # call iserver/accounts endpoint
@@ -320,6 +322,57 @@ class IBClient(object):
         # define request components
         endpoint = 'iserver/account/{}/order/{}'.format(self.acctId, orderId)
         req_type = 'DELETE'
+
+        content = self._make_request(endpoint = endpoint, req_type = req_type)
+
+        return content
+
+    def get_market_data(self, conids: List[str], fields: List[str] = None) -> Dict:
+        """
+        Get Market Data for the given conid(s). The endpoint will return by default bid,
+        ask, last, change, change pct, close, listing exchange. See response fields for
+        a list of available fields that can be request via fields argument. The endpoint
+        /iserver/accounts must be called prior to /iserver/marketdata/snapshot. First
+        /snapshot endpoint call for given conid will initiate the market data request.
+        To receive all available fields the /snapshot endpoint will need to be called
+        several times.
+
+        Query parameters:
+        1. conids: list of conids separated by comma
+        2. (optional) since: time period since which updates are required.
+        uses epoch time with milliseconds.
+        3. (optional) fields: list of fields separated by comma
+        """
+
+        # call iserver/accounts endpoint
+        self.get_accounts()
+
+        # define request components
+        endpoint = 'iserver/marketdata/snapshot'
+        req_type = 'GET'
+        if fields is not None:
+            payload = {
+                'conids': conids,
+                'fields': fields
+            }
+        else:
+            payload = {
+                'conids': conids
+            }
+
+        content = self._make_request(endpoint = endpoint, req_type = req_type, params = payload)
+
+        return content
+
+    def kill_market_data(self):
+        """
+        Cancel all market data request(s). To cancel market data for given conid, see
+        /iserver/marketdata/{conid}/unsubscribe.
+        """
+
+        # define request components
+        endpoint = 'iserver/marketdata/unsubscribeall'
+        req_type = 'GET'
 
         content = self._make_request(endpoint = endpoint, req_type = req_type)
 

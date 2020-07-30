@@ -66,6 +66,13 @@ def main():
     conid_warrant = ib_client.get_conid(symbol)[0]['sections'][0]['conid']
     print('Symbol and conid:', symbol, conid_warrant)
 
+    # get market data
+    print(ib_client.get_market_data(conids = [conid_warrant])) # initiate market data request
+    print(ib_client.get_market_data(conids = [conid_warrant], fields = ['84', '86']))
+
+    # kill market data
+    print('Cancelled market data requests:', ib_client.kill_market_data()['unsubscribed'], '\n')
+
     # create new order for symbol
     cOID = get_cOID()
     side = 'BUY'
@@ -98,16 +105,16 @@ def main():
                          'Order rejected.'.format(notional, MAX_COMMISSION))
 
     # send new order
-    ib_client.new_order(new_order)
-    print('Sent new order, order_ref =', cOID, '\n')
+    # ib_client.new_order(new_order)
+    # print('Sent new order, order_ref =', cOID, '\n')
 
     # delete any active orders
     # does not work for paper trading ('Order is inactive')
-    if len(live_orders)>0:
-        df_active_orders = df_live_orders[df_live_orders['status']=='Submitted']
-        for active_orderId in df_active_orders['status']:
-            ib_client.delete_order(active_orderId)
-            print('Deleted order:', active_orderId)
+    # if len(live_orders)>0:
+    #     df_active_orders = df_live_orders[df_live_orders['status']=='Submitted']
+    #     for active_orderId in df_active_orders['status']:
+    #         ib_client.delete_order(active_orderId)
+    #         print('Deleted order:', active_orderId)
 
 if __name__ == "__main__":
     main()
