@@ -34,6 +34,9 @@ def main():
     # init client
     ib_client = IBClient()
 
+    # tickle session
+    ib_client.tickle()
+
     # re-authenticate if needed
     if ib_client.is_authenticated()['authenticated'] is False:
         print('No longer authenticated. Gateway timeouts if idle for a few minutes. '
@@ -42,6 +45,9 @@ def main():
 
     # check user sso validated
     print('Validated user:', ib_client.validate()['USER_NAME'], '\n')
+
+    # query accounts. required step for some requests
+    ib_client.get_accounts()
 
     # todo: figure out why get_account_balance breaks. STATUS CODE: 500
     # balance = ib_client.get_account_balance()
@@ -63,12 +69,14 @@ def main():
                              'session.'.format(len(df_live_orders), MAX_OUTSTANDING_ORDERS))
 
     # find conid identifier for symbol
+    conid_stock = ib_client.get_conid(symbol)[0]['conid']
     conid_warrant = ib_client.get_conid(symbol)[0]['sections'][0]['conid']
-    print('Symbol and conid:', symbol, conid_warrant)
+    print('Symbol and conid:', symbol, conid_warrant, '\n')
 
     # get market data
-    print(ib_client.get_market_data(conids = [conid_warrant])) # initiate market data request
-    print(ib_client.get_market_data(conids = [conid_warrant], fields = ['84', '86']))
+    print(ib_client.get_market_data(conids = [conid_stock])) # initiate market data request
+    print(ib_client.get_market_data(conids = [conid_stock], fields = ['84', '86']), '\n')
+    print(ib_client.get_market_data(conids = [conid_stock], fields = ['84', '86']), '\n')
 
     # kill market data
     print('Cancelled market data requests:', ib_client.kill_market_data()['unsubscribed'], '\n')
@@ -105,16 +113,15 @@ def main():
                          'Order rejected.'.format(notional, MAX_COMMISSION))
 
     # send new order
-    # ib_client.new_order(new_order)
-    # print('Sent new order, order_ref =', cOID, '\n')
+    ib_client.new_order(new_order)
+    print('Sent new order, order_ref =', cOID, '\n')
 
-    # delete any active orders
-    # does not work for paper trading ('Order is inactive')
-    # if len(live_orders)>0:
-    #     df_active_orders = df_live_orders[df_live_orders['status']=='Submitted']
-    #     for active_orderId in df_active_orders['status']:
-    #         ib_client.delete_order(active_orderId)
-    #         print('Deleted order:', active_orderId)
+    # delete active (status 'Submitted') orders. doesn't work for paper trading ('Order is inactive')
+    if len(live_orders)>0:
+        df_active_orders = df_live_orders[df_live_orders['status']=='Submitted']
+        for active_orderId in df_active_orders['orderId']:
+            print('Deleting order:', active_orderId)
+            ib_client.delete_order(active_orderId)
 
 if __name__ == "__main__":
     main()

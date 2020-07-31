@@ -53,40 +53,42 @@ class IBClient(object):
         # make sure it's a JSON String
         headers = {'Content-Type':'application/json'}
 
-        # Scenario 1: POST with a payload.
+        # Scenario 1: POST with a payload
         if req_type == 'POST' and params is not None:
             response = requests.post(url, headers = headers, json=params, verify = False)
 
-        # SCENARIO 2: POST without a payload.
+        # SCENARIO 2: POST without a payload
         elif req_type == 'POST' and params is None:
             response = requests.post(url, headers = headers, verify = False)
 
-        # SCENARIO 3: GET without parameters.
+        # SCENARIO 3: GET without parameters
         elif req_type == 'GET' and params is None:
             response = requests.get(url, headers = headers, verify = False)
 
-         # SCENARIO 4: GET with parameters.
+         # SCENARIO 4: GET with parameters
         elif req_type == 'GET' and params is not None:
             response = requests.get(url, headers = headers, params = params, verify = False)
 
-         # SCENARIO 5: DELETE (does not accept parameters).
+         # SCENARIO 5: DELETE (does not accept parameters)
         elif req_type == 'DELETE':
             response = requests.delete(url, headers = headers, verify = False)
 
         # grab the status code
         status_code = response.status_code
 
-        # grab the response headers.
+        # grab the response headers
         response_headers = response.headers
 
         # Check to see if it was successful
         if response.ok:
-            if response_headers.get('Content-Type','null') == 'application/json;charset=utf-8':
+            if req_type == 'DELETE':
+                return None
+            elif response_headers.get('Content-Type','null') == 'application/json;charset=utf-8':
                 return response.json()
             else:
                 return response.json()
 
-        # if it was a bad request print it out.
+        # if it was a bad request print it out
         elif not response.ok and url != 'https://localhost:5000/v1/portal/iserver/account':
             print('')
             print('-'*80)
@@ -185,6 +187,9 @@ class IBClient(object):
         """Get account balance(s).
         Returns a summary of all account balances for the given accounts, if more than
         one account is passed, the result is consolidated.
+
+        Query parameters:
+        1. acctIds: list of account ids
         """
 
         # define request components
@@ -206,6 +211,24 @@ class IBClient(object):
         other is orders. Orders is the list of orders (cancelled, filled, submitted) 
         with activity in the current day. Notifications contains information about 
         execute orders as they happen, see status field.
+
+        Order status definitions:
+        PendingSubmit - Indicates the order was sent, but confirmation has not been received that
+        it has been received by the destination. Occurs most commonly if an exchange is closed.
+        PendingCancel - Indicates that a request has been sent to cancel an order but confirmation
+        has not been received of its cancellation.
+        PreSubmitted - Indicates that a simulated order type has been accepted by the IBKR system
+        and that this order has yet to be elected. The order is held in the IBKR system until
+        the election criteria are met. At that time the order is transmitted to the order
+        destination as specified.
+        Submitted - Indicates that the order has been accepted at the order destination and
+        is working.
+        Cancelled - Indicates that the balance of the order has been confirmed cancelled by the
+        IB system. This could occur unexpectedly when IB or the destination has rejected the order.
+        Filled - Indicates that the order has been completely filled
+        Inactive - Indicates the order is not working, for instance if the order was invalid and
+        triggered an error message, or if the order was to short a security and shares have not yet
+        been located
         """
 
         # define request components
@@ -219,7 +242,8 @@ class IBClient(object):
     def get_conid(self, symbol: str):
         """Get current live orders. Returns and array of results.
         Symbol or name to be searched.
-        Payload definitions:
+
+        Query parameters:
         1. symbol: If symbol is warrant, warrant conid can be found in 'sections' in resulting array.
         2. (optional) name: should be true if the search is to be performed by name. false by default.
         3. (optional) secType: If search is done by name, only the assets provided in this field will
@@ -242,6 +266,8 @@ class IBClient(object):
         """Preview a new order.
         This endpoint allows you to preview order without actually submitting the order and you can
         get commission information in the response.
+
+        Query parameters: see order.py
         """
 
         # define request components
@@ -277,6 +303,8 @@ class IBClient(object):
         successfully, you could receive some questions in the response, you have to to answer 
         them in order to submit the order successfully. You can use "/iserver/reply/{replyid}" 
         end-point to answer questions.
+
+        Query parameters: see order.py
         """
 
         # define request components
@@ -313,7 +341,7 @@ class IBClient(object):
 
         Path parameters:
         1. account id
-        2. orderId (not cOID/order_ref)
+        2. orderId (NOT cOID/order_ref)
         """
 
         # call iserver/accounts endpoint

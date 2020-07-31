@@ -164,6 +164,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1719489/000119312519158991/d731495d8k.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1716947/000121390020001823/f8k012720_leisureacquis.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1713539/000161577419002794/s116244_8ka.htm', # presentation
+        'https://www.sec.gov/Archives/edgar/data/1776903/000121390020019408/ea124710-8ka1_netfinacquis.htm', # presentation
         'https://www.sec.gov/Archives/edgar/data/1736874/000121390020010769/ea121312-8k_hlacquisitions.htm', # trust account
         'https://www.sec.gov/Archives/edgar/data/1768012/000114420419029853/tv523109_8k.htm', # units split to stock + warrants
         'https://www.sec.gov/Archives/edgar/data/1759008/000114420419019546/tv518793_8k.htm', # units split to stock + warrants
