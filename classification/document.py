@@ -33,20 +33,37 @@ class Document(object):
     def is_letter_of_intent(self) -> bool:
         """Check if document is a letter of intent."""
         loi_phrases = [
-            'letter of intent', 'entry into a definitive agreement',
-            'enter into a definitive agreement',
-            'entering into a definitive agreement',
-            'entered into a definitive agreement',
-            'definitive agreement will be entered into'
+            'entry into a letter of intent',
+            'entry into a non-binding letter of intent',
+            'enter into a letter of intent',
+            'enter into a non-binding letter of intent',
+            'entered into a letter of intent',
+            'entered into a non-binding letter of intent',
+            'entering into a letter of intent',
+            'entering into a non-binding letter of intent',
+            'execution of a letter of intent',
+            'execution of a non-binding letter of intent',
+            'execute a letter of intent',
+            'execute a non-binding letter of intent',
+            'executed a letter of intent',
+            'executed a non-binding letter of intent',
+            'executing a letter of intent',
+            'executing a non-binding letter of intent'
         ]
         return any(phrase in self.text for phrase in loi_phrases)
 
     def is_business_combination_agreement(self) -> bool:
         """Check if document is a business combination agreement."""
         bca_phrases = [
+            '("business combination agreement")',
             '(the "business combination agreement")',
             '("business combination")',
-            '"business combination proposal"'
+            '(the "business combination")',
+            'entry into a definitive agreement',
+            'enter into a definitive agreement',
+            'entered into a definitive agreement',
+            'entering into a definitive agreement',
+            'business combination proposal was approved'
         ]
         return any(phrase in self.text for phrase in bca_phrases)
 
@@ -54,12 +71,16 @@ class Document(object):
         """"Check if document is a consummation."""
         consummation_phrases = [
             'announcing the consummation',
+            'consummated the previously announced business combination'
         ]
         return any(phrase in self.text for phrase in consummation_phrases)
 
     def is_extension(self) -> bool:
         """Check if document is a extension."""
-        extension_phrases = ['(the "extension")', 'the "extension amendment"']
+        extension_phrases = [
+            '(the "extension")',
+            '(the "extension amendment")'
+        ]
         return any(phrase in self.text for phrase in extension_phrases)
 
     def is_ipo(self) -> bool:

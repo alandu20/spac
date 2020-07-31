@@ -318,17 +318,54 @@ def parse_redemptions(x):
 def add_self_engineered_features(df_ret):
     """Add self engineered features from keyword lists."""
     # define key word lists
-    keywords_list_loi = ['letter of intent','entry into a definitive agreement','enter into a definitive agreement',
-    'entering into a definitive agreement','entered into a definitive agreement']
-    keywords_list_business_combination_agreement = ['(the "business combination agreement")', '("business combination")']
-    keywords_list_extension = ['(the "extension")']
-    keywords_list_consummation = ['announcing the consummation']
-    keywords_list_ipo = ['consummated its initial public offering ("ipo")', 'consummated its initial public offering (the "ipo")',
-    'consummated an initial public offering ("ipo")', 'consummated an initial public offering (the "ipo")',
-    'consummated the initial public offering ("ipo")', 'consummated the initial public offering (the "ipo")',
-    'completed its initial public offering ("ipo")', 'completed its initial public offering (the "ipo")',
+    keywords_list_loi = [
+    'entry into a letter of intent',
+    'entry into a non-binding letter of intent',
+    'enter into a letter of intent',
+    'enter into a non-binding letter of intent',
+    'entered into a letter of intent',
+    'entered into a non-binding letter of intent',
+    'entering into a letter of intent',
+    'entering into a non-binding letter of intent',
+    'execution of a letter of intent',
+    'execution of a non-binding letter of intent',
+    'execute a letter of intent',
+    'execute a non-binding letter of intent',
+    'executed a letter of intent',
+    'executed a non-binding letter of intent',
+    'executing a letter of intent',
+    'executing a non-binding letter of intent'
+    ]
+    keywords_list_business_combination_agreement = [
+    '("business combination agreement")',
+    '(the "business combination agreement")',
+    '("business combination")',
+    '(the "business combination")',
+    'entry into a definitive agreement',
+    'enter into a definitive agreement',
+    'entered into a definitive agreement',
+    'entering into a definitive agreement'
+    ]
+    keywords_list_extension = [
+    '(the "extension")',
+    '(the "extension amendment")'
+    ]
+    keywords_list_consummation = [
+    'announcing the consummation',
+    'consummated the previously announced business combination'
+    ]
+    keywords_list_ipo = [
+    'consummated its initial public offering ("ipo")',
+    'consummated its initial public offering (the "ipo")',
+    'consummated an initial public offering ("ipo")',
+    'consummated an initial public offering (the "ipo")',
+    'consummated the initial public offering ("ipo")',
+    'consummated the initial public offering (the "ipo")',
+    'completed its initial public offering ("ipo")',
+    'completed its initial public offering (the "ipo")',
     'in connection with its initial public offering ("ipo") was declared effective',
-    'in connection with its initial public offering (the "ipo") was declared effective']
+    'in connection with its initial public offering (the "ipo") was declared effective'
+    ]
     
     # compute counts
     df_ret['keywords_loi'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_loi))
@@ -394,7 +431,7 @@ def scrape_gnn(spac_list_current):
                                                   'text': body}), ignore_index=True)
     print('\nfinished searching all {} globalnewswire posts'.format(len(rss_feed.entries)))
     if len(df_gnn)==0:
-        print('No SPAC aticles found\n')
+        print('No SPAC articles found\n')
         return None
     df_gnn = add_self_engineered_features(df_gnn)
     output_columns = ['symbol','published_time','keywords_loi','keywords_business_combination_agreement',

@@ -12,11 +12,8 @@ def get_request(url: str, timeout: int) -> lxml.html.HtmlElement:
 
 def main():
     loi_urls = [
-        'https://www.sec.gov/Archives/edgar/data/1725134/000119312520186074/d12451d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1723580/000121390020014492/ea122827-8k_opesacquisition.htm',
-        'https://www.sec.gov/Archives/edgar/data/1720353/000121390019026253/f8k121619_nebulaacquisition.htm',
         'https://www.sec.gov/Archives/edgar/data/1764711/000126493119000199/paac8k123019.htm',
-        'https://www.sec.gov/Archives/edgar/data/1751143/000121390019024210/f8k111819_boxwoodmerger.htm',
         'https://www.sec.gov/Archives/edgar/data/1805077/000121390020015680/ea123410-8k_brileyprincipal.htm',
         'https://www.sec.gov/Archives/edgar/data/1704760/000121390019013561/f8k072419_pensareacquisition.htm',
         'https://www.sec.gov/Archives/edgar/data/1744494/000114036120011131/form8k.htm',
@@ -45,6 +42,9 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1759631/000121390020015311/ea123187-8k_tortoiseacq.htm',
         'https://www.sec.gov/Archives/edgar/data/1725134/000119312519100029/d585731d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1793659/000119312520199210/d14583d8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1725134/000119312520186074/d12451d8k.htm', # definitive agreement
+        'https://www.sec.gov/Archives/edgar/data/1720353/000121390019026253/f8k121619_nebulaacquisition.htm', # definitive agreement
+        'https://www.sec.gov/Archives/edgar/data/1751143/000121390019024210/f8k111819_boxwoodmerger.htm', # definitive agreement
         'https://www.sec.gov/Archives/edgar/data/1720353/000119312520077317/d901525d8k.htm', # bca amendment
         'https://www.sec.gov/Archives/edgar/data/1720353/000156459020013631/nebu-8k_20200326.htm', # bca amendment
         'https://www.sec.gov/Archives/edgar/data/1720353/000121390020011900/ea121740-8k_nebulaacq.htm', # bca amendment
@@ -140,7 +140,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1776909/000121390020000127/f8k010320_softwareacq.htm',
         'https://www.sec.gov/Archives/edgar/data/1760683/000121390020004733/f8k021920_eaststoneacq.htm',
         'https://www.sec.gov/Archives/edgar/data/1754824/000161577418014657/s114818_8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1811882/000119312520200108/d46115d8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1811882/000119312520200108/d46115d8k.htm'
     ]
     ipo_path = os.path.join(os.path.dirname(__file__), "ipo")
     for i, url in enumerate(ipo_urls):
