@@ -83,8 +83,15 @@ class Document(object):
         ]
         return any(phrase in self.text for phrase in extension_phrases)
 
+    def is_trust(self) -> bool:
+        """Check if document is a trust account."""
+        trust_phrases = [
+            'trust account'
+        ]
+        return any(phrase in self.text for phrase in trust_phrases)
+
     def is_ipo(self) -> bool:
-        """"Check if document is a consummation."""
+        """"Check if document is a ipo."""
         ipo_phrases = [
             'consummated its initial public offering ("ipo")',
             'consummated its initial public offering (the "ipo")',

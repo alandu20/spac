@@ -33,5 +33,6 @@ def naive_rule(text: str) -> bool:
         doc.is_business_combination_agreement(),
         doc.is_consummation(),
         doc.is_extension(),
+        doc.is_trust(),
     ]
     return any(boolean_conditions)
