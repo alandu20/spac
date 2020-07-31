@@ -367,6 +367,9 @@ def add_self_engineered_features(df_ret):
     'in connection with its initial public offering ("ipo") was declared effective',
     'in connection with its initial public offering (the "ipo") was declared effective'
     ]
+    keywords_list_trust = [
+    'trust account'
+    ]
     
     # compute counts
     df_ret['keywords_loi'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_loi))
@@ -374,6 +377,7 @@ def add_self_engineered_features(df_ret):
     df_ret['keywords_extension'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_extension))
     df_ret['keywords_consummation'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_consummation))
     df_ret['keywords_ipo'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_ipo))
+    df_ret['keywords_trust'] = df_ret.text.apply(lambda x: count_keywords(x, keywords_list_trust))
 
     # add vote results (d.n.e for most 8-Ks, fill with nan)
     df_ret['votes_for'] = np.nan
@@ -408,6 +412,8 @@ def classifier(x):
             return 1
         elif (x['keywords_extension'] > 0) & (x['item 2.03'] == 0):
             return 1
+        elif (x['keywords_trust'] > 0) & (x['item 2.03'] == 0):
+            return 1
         else:
             return 0
 
@@ -440,10 +446,10 @@ def scrape_gnn(spac_list_current):
         return None
     df_gnn = add_self_engineered_features(df_gnn)
     output_columns = ['symbol','published_time','url','keywords_loi','keywords_business_combination_agreement',
-    'keywords_consummation','keywords_extension','%vote_against',r'%redeemed']
+    'keywords_consummation','keywords_extension','keywords_trust','%vote_against',r'%redeemed']
     df_gnn = df_gnn[output_columns]
     df_gnn.rename(columns={'keywords_business_combination_agreement':'keywords_bca'}, inplace=True)
-    print('SPAC articles found:')   
+    print('SPAC articles found:')
     print(df_gnn, '\n')
     return df_gnn
 
@@ -557,7 +563,7 @@ def main():
 
     # process positive label predictions where date >= min_date
     output_columns = ['symbol','accepted_time','keywords_loi','keywords_business_combination_agreement',
-    'keywords_consummation','keywords_extension','item 2.03','%vote_against',r'%redeemed']
+    'keywords_consummation','keywords_extension','keywords_trust','item 2.03','%vote_against',r'%redeemed']
     df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][output_columns]
     df_pred_pos.reset_index(drop=True, inplace=True)
     df_pred_pos.rename(columns={'keywords_business_combination_agreement':'keywords_bca'}, inplace=True)
