@@ -61,6 +61,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1735041/000121390019020579/f8k101419_greenlandacqu.htm', # share exchange agreement; vote result
         'https://www.sec.gov/Archives/edgar/data/1725255/000110465919067185/tm1923797d2_8k.htm', # securities purchase agreement
         'https://www.sec.gov/Archives/edgar/data/1723648/000119312520177183/d948881d8k.htm', # merger agreement
+        'https://www.sec.gov/Archives/edgar/data/1784535/000121390020019487/ea0124674-8k_proptechacq.htm', # merger agreement
         'https://www.sec.gov/Archives/edgar/data/1708341/000121390020018533/ea124537-8k_allied.htm' # share purchase agreement amendment
     ]
     bca_path = os.path.join(os.path.dirname(__file__), "bca")
