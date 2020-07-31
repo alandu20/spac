@@ -9,8 +9,8 @@ AWS Lambda:
 - Install in aws_lambda/package: pip install --target nltk 
 - Weird nltk issue (related to installing on Mac while AWS is linux), need to replace the regex package with regex-2020.7.14-cp36-cp36m-manylinux1_x86_64.whl found here: https://pypi.org/project/regex/#files. Otherwise will get error No module named 'regex._regex'
 - To use stopwords corpus, download here: http://www.nltk.org/nltk_data/. Copy into aws_lambda/nltk/nltk_data/corpora (create nltk_data/corpora if d.n.e.). Then add path to python script: nltk.data.path.append('nltk/nltk_data')
-6. Create zip archive of aws_lambda/package: zip -r9 ${OLDPWD}/function.zip .
-7. Add lambda_function.py (this is the script that's run) to archive: zip -g function.zip lambda_function.py
+6. cd into aws_lambda/package and create zip archive: zip -r9 ${OLDPWD}/function.zip .
+7. cd into aws_lambda and add lambda_function.py (this is the script that's run by lambda) to archive: zip -g function.zip lambda_function.py
 8. Add aws_lambda/data/spac_list_current.csv (create if d.n.e.) to archive: zip -r function.zip data. Note that you cannot save persistent data in lambda (would need S3 to do so). Need to manually copy+paste updated spac_list_current.csv into aws_lambda/data
 8. Upload package to lambda function “my-function”: aws lambda update-function-code --function-name my-function --zip-file fileb://function.zip
 9. View updated lambda function: https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions
