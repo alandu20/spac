@@ -3,12 +3,15 @@ from datetime import datetime as dt
 from datetime import timedelta
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+import feedparser
 import json
+from lxml import html
 import nltk
 nltk.data.path.append('nltk/nltk_data')
 import numpy as np
 import pandas as pd
 import re
+import requests
 import sec_scraper
 import smtplib
 import ssl
@@ -18,7 +21,7 @@ pd.set_option("display.max_rows", None, "display.max_columns", None)
 def get_current_spacs(file_path_current, write=False):
     """Update list of current spac tickers."""
     df_traq = pd.read_csv('https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/'
-                             'export?gid=0&format=csv', header=2)
+                          'export?gid=0&format=csv', header=2)
     df_traq.columns = [x.replace('\n','') for x in df_traq.columns]
     df_spacs_existing = pd.read_csv(file_path_current)
     df_spacs_existing.drop_duplicates(inplace=True)
@@ -35,12 +38,13 @@ def get_current_spacs(file_path_current, write=False):
             df_spacs_new.to_csv(file_path_current, index=False)
     except:
         print('Error: could not write new spac list to file')
+    print(df_spacs_new.tail())
     return df_spacs_new
 
 def get_ticker_to_cik():
     """Get cik from ticker."""
     ticker_to_cik = pd.read_csv('https://www.sec.gov/include/ticker.txt', sep='\t',
-        header=None, names=['ticker','cik'])
+                                header=None, names=['ticker','cik'])
     ticker_to_cik['ticker'] = ticker_to_cik.ticker.str.upper()
     ticker_to_cik['cik'] = ticker_to_cik.cik.astype(str)
     return ticker_to_cik
@@ -311,7 +315,7 @@ def parse_redemptions(x):
             shares = np.nan
     return shares
 
-def add_self_engineered_features(df_ret):    
+def add_self_engineered_features(df_ret):
     """Add self engineered features from keyword lists."""
     # define key word lists
     keywords_list_loi = ['letter of intent','entry into a definitive agreement','enter into a definitive agreement',
@@ -347,7 +351,7 @@ def add_self_engineered_features(df_ret):
     
     # add shares redeemed (d.n.e for most 8-Ks, fill with nan)
     df_ret['redeemed_shares'] = df_ret.apply(lambda x: parse_redemptions(x), axis=1)
-    df_ret['%redeemed'] = df_ret['redeemed_shares'] / df_ret['vote_total']
+    df_ret[r'%redeemed'] = df_ret['redeemed_shares'] / df_ret['vote_total']
     
     return df_ret
 
@@ -369,7 +373,39 @@ def classifier(x):
         else:
             return 0
 
-def send_email(df_new_8Ks, df_pred_pos):
+def scrape_gnn(spac_list_current):
+    """Parse Global Newswire RSS feed. Returns dataframe of articles containing SPAC tickers."""
+    # parse global newswire rss feed
+    rss_feed = feedparser.parse('https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/'
+                                'GlobeNewswire%20-%20News%20about%20Public%20Companies')
+
+    # get body (span[@class="article-body"]) for each entry. add to dataframe if body contains ticker
+    df_gnn = pd.DataFrame(columns=['symbol','published_time', 'text'])
+    for entry in rss_feed.entries:
+        page = requests.get(entry['id'])
+        tree = html.fromstring(page.content)
+        body_paragraphs = tree.xpath('//span[@class="article-body"]//*/text()')
+        body = ' '.join(body_paragraphs)
+
+        for ticker in spac_list_current['Ticker']:
+            if ticker in body:
+                df_gnn = df_gnn.append(pd.Series({'symbol': ticker,
+                                                  'published_time': entry['published'],
+                                                  'text': body}), ignore_index=True)
+    print('\nfinished searching all {} globalnewswire posts'.format(len(rss_feed.entries)))
+    if len(df_gnn)==0:
+        print('No SPAC aticles found\n')
+        return None
+    df_gnn = add_self_engineered_features(df_gnn)
+    output_columns = ['symbol','published_time','keywords_loi','keywords_business_combination_agreement',
+    'keywords_consummation','keywords_extension','%vote_against',r'%redeemed']
+    df_gnn = df_gnn[output_columns]
+    df_gnn.rename(columns={'keywords_business_combination_agreement':'keywords_bca'}, inplace=True)
+    print('SPAC articles found:')   
+    print(df_gnn, '\n')
+    return df_gnn
+
+def send_email(df_new_8Ks, df_pred_pos, df_gnn):
     """Send email with list of warrants to buy."""
     sender_email = 'wordquakeme2@gmail.com'
     receiver_email = 'wordquakeme2@gmail.com'
@@ -380,18 +416,34 @@ def send_email(df_new_8Ks, df_pred_pos):
     context = ssl.create_default_context()
     message = MIMEMultipart()
     message['Subject'] = 'BUY ALERT'
-    html = """\
-    <html>
-      <head></head>
-      <body>
-        8-Ks since yesterday:<br><br>
-        {0}
-        <br><br>
-        Buy warrants for these symbols:<br><br>
-        {1}
-      </body>
-    </html>
-    """.format(df_new_8Ks.to_html(), df_pred_pos.to_html())
+    if df_gnn is None:
+        html = """\
+        <html>
+          <head></head>
+          <body>
+            8-Ks since yesterday:<br><br>
+            {0}
+            <br><br>
+            Buy warrants for these symbols:<br><br>
+            {1}
+          </body>
+        </html>
+        """.format(df_new_8Ks.to_html(), df_pred_pos.to_html())
+    else:
+        html = """\
+        <html>
+          <head></head>
+          <body>
+            8-Ks since yesterday:<br><br>
+            {0}
+            <br><br>
+            Buy warrants for these symbols:<br><br>
+            {1}
+            Global Newswire articles:<br><br>
+            {2}
+          </body>
+        </html>
+        """.format(df_new_8Ks.to_html(), df_pred_pos.to_html(), df_gnn.to_html())
     body = MIMEText(html, 'html')
     message.attach(body)
     try:
@@ -427,7 +479,7 @@ def main():
     if len(df_new_8Ks)==0:
         print('none\n')
     else:
-        print(df_new_8Ks)
+        print(df_new_8Ks, '\n')
 
     # features dataframe
     df_features = df_form_8K_agg.copy()
@@ -460,7 +512,7 @@ def main():
     df_pred_pos = df_form_8K_agg.loc[np.where(y_pred==1)[0],]
     df_pred_pos = pd.concat([df_pred_pos, df_features.loc[np.where(y_pred==1)[0],]], axis=1)
 
-    # print positive label predictions where date >= min_date
+    # process positive label predictions where date >= min_date
     output_columns = ['symbol','accepted_time','keywords_loi','keywords_business_combination_agreement',
     'keywords_consummation','keywords_extension','item 2.03','%vote_against',r'%redeemed']
     df_pred_pos = df_pred_pos[df_pred_pos['date'] >= min_date][output_columns]
@@ -468,6 +520,11 @@ def main():
     df_pred_pos.rename(columns={'keywords_business_combination_agreement':'keywords_bca'}, inplace=True)
     df_pred_pos['%vote_against'] = df_pred_pos['%vote_against'].apply(lambda x: x if np.isnan(x) else '{:.2%}'.format(x))
     df_pred_pos[r'%redeemed'] = df_pred_pos[r'%redeemed'].apply(lambda x: x if np.isnan(x) else '{:.2%}'.format(x))
+
+    # scrape global newswire rss feed for articles containing spac tickers
+    df_gnn = scrape_gnn(spac_list_current)
+
+    # print positive label predictions and send email
     print('\nbuy warrants for these symbols:')
     if len(df_pred_pos)==0:
         print('none\n')
@@ -476,7 +533,7 @@ def main():
         print(df_pred_pos)
 
         # send email
-        send_email(df_new_8Ks, df_pred_pos)
+        send_email(df_new_8Ks, df_pred_pos, df_gnn)
 
 def lambda_handler(event, context):
     """AWS Lambda requires a lambda_handler function."""
