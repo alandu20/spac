@@ -344,7 +344,8 @@ def add_self_engineered_features(df_ret):
     'entry into a definitive agreement',
     'enter into a definitive agreement',
     'entered into a definitive agreement',
-    'entering into a definitive agreement'
+    'entering into a definitive agreement',
+    'business combination proposal was approved'
     ]
     keywords_list_extension = [
     '(the "extension")',
@@ -412,29 +413,33 @@ def classifier(x):
 
 def scrape_gnn(spac_list_current):
     """Parse Global Newswire RSS feed. Returns dataframe of articles containing SPAC tickers."""
+    # add formatted ticker used for article substring match
+    spac_list_current['formatted_ticker'] = ':' + spac_list_current['Ticker']
+
     # parse global newswire rss feed
     rss_feed = feedparser.parse('https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/'
                                 'GlobeNewswire%20-%20News%20about%20Public%20Companies')
 
     # get body (span[@class="article-body"]) for each entry. add to dataframe if body contains ticker
-    df_gnn = pd.DataFrame(columns=['symbol','published_time', 'text'])
+    df_gnn = pd.DataFrame(columns=['symbol','published_time','url','text'])
     for entry in rss_feed.entries:
         page = requests.get(entry['id'])
         tree = html.fromstring(page.content)
         body_paragraphs = tree.xpath('//span[@class="article-body"]//*/text()')
         body = ' '.join(body_paragraphs)
 
-        for ticker in spac_list_current['Ticker']:
-            if ticker in body:
-                df_gnn = df_gnn.append(pd.Series({'symbol': ticker,
+        for i, formatted_ticker in enumerate(spac_list_current['formatted_ticker']):
+            if formatted_ticker in body.replace(' ',''):
+                df_gnn = df_gnn.append(pd.Series({'symbol': spac_list_current.loc[i,'Ticker'],
                                                   'published_time': entry['published'],
+                                                  'url': entry['id'],
                                                   'text': body}), ignore_index=True)
     print('\nfinished searching all {} globalnewswire posts'.format(len(rss_feed.entries)))
     if len(df_gnn)==0:
         print('No SPAC articles found\n')
         return None
     df_gnn = add_self_engineered_features(df_gnn)
-    output_columns = ['symbol','published_time','keywords_loi','keywords_business_combination_agreement',
+    output_columns = ['symbol','published_time','url','keywords_loi','keywords_business_combination_agreement',
     'keywords_consummation','keywords_extension','%vote_against',r'%redeemed']
     df_gnn = df_gnn[output_columns]
     df_gnn.rename(columns={'keywords_business_combination_agreement':'keywords_bca'}, inplace=True)
@@ -476,6 +481,7 @@ def send_email(df_new_8Ks, df_pred_pos, df_gnn):
             <br><br>
             Buy warrants for these symbols:<br><br>
             {1}
+            <br><br>
             Global Newswire articles:<br><br>
             {2}
           </body>
