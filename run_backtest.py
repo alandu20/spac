@@ -17,7 +17,7 @@ def main():
     cerebro.addstrategy(strategy.NaiveStrategy, filings=filings)
 
     # Set our desired cash start
-    cerebro.broker.setcash(100000.0)
+    cerebro.broker.setcash(100.0)
 
     cerebro.run()
     cerebro.plot()

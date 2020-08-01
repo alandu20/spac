@@ -96,6 +96,8 @@ class NaiveStrategy(bt.Strategy):
         while (self.filing_index < len(self.filings) and
                self.data.datetime.datetime(0) >
                self.filings[self.filing_index].accepted_date):
+            print('\nurl:', self.filings[self.filing_index].url)
+            # trade based on document classification
             trade = rules.naive_rule(
                 self.filings[self.filing_index].documents[0]
             )
@@ -122,6 +124,6 @@ class NaiveStrategy(bt.Strategy):
                     existing_orders.append((order, date))
         self.orders = existing_orders
 
-        self.log("OPEN: %s, CLOSE: %s"
-                 % (str(self.data.open[0]), str(self.data.close[0])))
+        # self.log("OPEN: %s, CLOSE: %s"
+        #          % (str(self.data.open[0]), str(self.data.close[0])))
 

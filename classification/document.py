@@ -1,5 +1,5 @@
 from classification import preprocess
-import nltk
+# import nltk
 
 
 class Document(object):
@@ -11,24 +11,25 @@ class Document(object):
 
         # Parse out items in document.
         self.item_mapping = preprocess.parse_items_mapping(self.text)
+        print('items:', list(self.item_mapping.keys()))
 
-    def _normalize_text(self):
-        """Normalize text, get rid of stop words and stem words."""
-        # Tokenize text.
-        tokens = nltk.tokenize.RegexpTokenizer(r'\w+').tokenize(self.text)
+    # def _normalize_text(self):
+    #     """Normalize text, get rid of stop words and stem words."""
+    #     # Tokenize text.
+    #     tokens = nltk.tokenize.RegexpTokenizer(r'\w+').tokenize(self.text)
 
-        # Remove stop words (the, of, and etc).
-        stop_words = set(nltk.corpus.stopwords.words('english'))
-        tokens = [token for token in tokens if token not in stop_words]
+    #     # Remove stop words (the, of, and etc).
+    #     stop_words = set(nltk.corpus.stopwords.words('english'))
+    #     tokens = [token for token in tokens if token not in stop_words]
 
-        # Remove numbers and non-english characters.
-        tokens = [token for token in tokens if token.encode('utf-8').isalpha()]
+    #     # Remove numbers and non-english characters.
+    #     tokens = [token for token in tokens if token.encode('utf-8').isalpha()]
 
-        # Stem the tokens.
-        tokens = [
-            nltk.stem.porter.PorterStemmer().stem(token) for token in tokens
-        ]
-        return ' '.join(tokens)
+    #     # Stem the tokens.
+    #     tokens = [
+    #         nltk.stem.porter.PorterStemmer().stem(token) for token in tokens
+    #     ]
+    #     return ' '.join(tokens)
 
     def is_letter_of_intent(self) -> bool:
         """Check if document is a letter of intent."""
@@ -106,4 +107,11 @@ class Document(object):
         ]
         return any(phrase in self.text for phrase in ipo_phrases)
 
-    # todo: add 2.03 rule here and in backtest/rules.py
+    def is_item_203(self) -> bool:
+        """Check if document is a item 2.03."""
+        item_phrases = [
+            'item 2.03'
+        ]
+        return any(phrase in list(self.item_mapping.keys()) for phrase in item_phrases)
+
+    # todo: add redemption

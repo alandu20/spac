@@ -119,3 +119,5 @@ def parse_vote_results(text) -> (float, float, float, float):
         votes_broker_non_votes = convert_vote_count_to_int(vote_data[3])
         return (votes_for, votes_against,
                 votes_abstain, votes_broker_non_votes)
+
+# TODO: add parse_redemptions()
