@@ -38,7 +38,6 @@ def get_current_spacs(file_path_current, write=False):
             df_spacs_new.to_csv(file_path_current, index=False)
     except:
         print('Error: could not write new spac list to file')
-    print(df_spacs_new.tail())
     return df_spacs_new
 
 def get_ticker_to_cik():
@@ -261,7 +260,19 @@ def parse_vote_results(x):
     vote_string = 'for against abstain broker non-votes'
     ind_vote = x['text'].find(vote_string)
     if ind_vote == -1:
+        vote_string = 'for against abstain broker non-vote'
+        ind_vote = x['text'].find(vote_string)
+    if ind_vote == -1:
+        vote_string = 'for against abstention broker non-votes'
+        ind_vote = x['text'].find(vote_string)
+    if ind_vote == -1:
+        vote_string = 'for against abstention broker non-vote'
+        ind_vote = x['text'].find(vote_string)
+    if ind_vote == -1:
         vote_string = 'for against abstentions broker non-votes'
+        ind_vote = x['text'].find(vote_string)
+    if ind_vote == -1:
+        vote_string = 'for against abstentions broker non-vote'
         ind_vote = x['text'].find(vote_string)
     if ind_vote != -1:
         text_split = x['text'][(ind_vote+len(vote_string)):].lstrip().split(' ')
@@ -275,7 +286,6 @@ def parse_vote_results(x):
     return pd.Series([np.nan, np.nan, np.nan, np.nan])
 
 def parse_redemptions(x):
-    """Return number of redeemed shares."""
     string_redemption_1 = 'in connection with the extension'
     string_redemption_2 = 'in connection with the closing'
     string_redemption_3 = 'in advance of the special meeting'
@@ -301,13 +311,16 @@ def parse_redemptions(x):
     redemption_sentence = re.sub(r'[\$]{1}[\d,]+\.?\d{0,2}', '', redemption_sentence) # replace $_#_
     shares_regex_strong = re.findall('[0-9]+ shares', redemption_sentence)
     shares_regex_weak = re.findall('[0-9]+', redemption_sentence)
+    # case: just one number in sentence. assume this number is redemption number
     if len(shares_regex_weak)==1:
+        shares = int(shares_regex_weak[0])
+    # case: more than one number in sentence. if '[0-9]+ shares' then assume this is redemption number, otherwise nan
+    elif len(shares_regex_weak)>1:
         if len(shares_regex_strong)==1:
             shares = int(shares_regex_strong[0].replace('shares','').replace(' ',''))
-        elif len(shares_regex_strong)==0:
-            shares = int(shares_regex_weak[0])
         else:
             shares = np.nan
+    # case: no numbers in sentence.
     else:
         if 'none' in redemption_sentence:
             shares = 0
@@ -399,20 +412,20 @@ def add_self_engineered_features(df_ret):
 
 def classifier(x):
     """Rule based model to classify 8-K as 1 (buy warrant) or 0 (do nothing)."""
-    if ~np.isnan(x['%vote_against']) & (x['%vote_against'] > .10):
+    if ~np.isnan(x['%vote_against']) and (x['%vote_against'] > .10):
         return 0
     elif x['keywords_ipo'] > 0:
         return 0
     else:
-        if (x['keywords_loi'] > 0) & (x['item 2.03'] == 0):
+        if (x['keywords_loi'] > 0) and (x['item 2.03'] == 0):
             return 1
-        elif (x['keywords_business_combination_agreement'] > 0) & (x['item 2.03'] == 0):
+        elif (x['keywords_business_combination_agreement'] > 0) and (x['item 2.03'] == 0):
             return 1
-        elif (x['keywords_consummation'] > 0) & (x['item 2.03'] == 0):
+        elif (x['keywords_consummation'] > 0) and (x['item 2.03'] == 0):
             return 1
-        elif (x['keywords_extension'] > 0) & (x['item 2.03'] == 0):
+        elif (x['keywords_extension'] > 0) and (x['item 2.03'] == 0):
             return 1
-        elif (x['keywords_trust'] > 0) & (x['item 2.03'] == 0):
+        elif (x['keywords_trust'] > 0) and (x['item 2.03'] == 0):
             return 1
         else:
             return 0
