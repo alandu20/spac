@@ -6,7 +6,14 @@ FOOTER = (
     'pursuant to the requirements of '
     'the securities exchange act of 1934'
 )
-VOTE_HEADER = 'for against abstain broker non-votes'
+VOTE_HEADER = [
+    'for against abstain broker non-votes',
+    'for against abstain broker non-vote',
+    'for against abstention broker non-votes',
+    'for against abstention broker non-vote',
+    'for against abstentions broker non-votes',
+    'for against abstentions broker non-vote'
+]
 FLS_START = [
     'forward-looking statements this current report',
     'forward looking statements certain statements',

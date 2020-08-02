@@ -100,7 +100,7 @@ def parse_vote_results(text) -> (float, float, float, float):
     def convert_vote_count_to_int(vote_string) -> float:
         """Convert vote string to int."""
         # To indicate 0 votes, sometimes 8-K has dash (two types) instead of 0.
-        if '—' in vote_string or '-' in vote_string:
+        if '—' in vote_string or '-' in vote_string or 'n/a' in vote_string:
             return 0.0
         try:
             votes = float(vote_string.replace(',', ''))
@@ -108,11 +108,16 @@ def parse_vote_results(text) -> (float, float, float, float):
             return np.nan
         return votes
 
-    vote_index = text.find(VOTE_HEADER)
-    if vote_index == -1:
+    # find phrases preceding vote results in text
+    vote_strings = [vote_string for vote_string in VOTE_HEADER if vote_string in text]
+
+    # parse votes for, votes against, votes abstain, votes broker non votes
+    if len(vote_strings)==0:
         return np.nan, np.nan, np.nan, np.nan
     else:
-        vote_data = text[(vote_index + len(VOTE_HEADER)):].lstrip().split(' ')
+        vote_string = vote_strings[0] # use first if multiple matches
+        vote_index = text.find(vote_string)
+        vote_data = text[(vote_index + len(vote_string)):].lstrip().split(' ')
         votes_for = convert_vote_count_to_int(vote_data[0])
         votes_against = convert_vote_count_to_int(vote_data[1])
         votes_abstain = convert_vote_count_to_int(vote_data[2])

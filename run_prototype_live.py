@@ -257,29 +257,29 @@ def convert_vote_count_to_int(x):
 
 def parse_vote_results(x):
     """Return votes for, votes against, abstain and broker non-votes."""
-    vote_string = 'for against abstain broker non-votes'
-    ind_vote = x['text'].find(vote_string)
-    if ind_vote == -1:
-        vote_string = 'for against abstain broker non-vote'
-        ind_vote = x['text'].find(vote_string)
-    if ind_vote == -1:
-        vote_string = 'for against abstention broker non-votes'
-        ind_vote = x['text'].find(vote_string)
-    if ind_vote == -1:
-        vote_string = 'for against abstention broker non-vote'
-        ind_vote = x['text'].find(vote_string)
-    if ind_vote == -1:
-        vote_string = 'for against abstentions broker non-votes'
-        ind_vote = x['text'].find(vote_string)
-    if ind_vote == -1:
-        vote_string = 'for against abstentions broker non-vote'
-        ind_vote = x['text'].find(vote_string)
-    if ind_vote != -1:
-        text_split = x['text'][(ind_vote+len(vote_string)):].lstrip().split(' ')
-        votes_for = convert_vote_count_to_int(text_split[0])
-        votes_against = convert_vote_count_to_int(text_split[1])
-        votes_abstain = convert_vote_count_to_int(text_split[2])
-        votes_broker_non_votes = convert_vote_count_to_int(text_split[3])
+    # find strings in text. use first if multiple matches
+    vote_strings = [
+        'for against abstain broker non-votes',
+        'for against abstain broker non-vote',
+        'for against abstention broker non-votes',
+        'for against abstention broker non-vote',
+        'for against abstentions broker non-votes',
+        'for against abstentions broker non-vote'
+    ]
+    # find phrases preceding vote results in text
+    vote_strings = [vote_string for vote_string in vote_strings if vote_string in x['text']]
+
+    # parse votes for, votes against, votes abstain, votes broker non votes
+    if len(vote_strings)==0:
+        return np.nan, np.nan, np.nan, np.nan
+    else:
+        vote_string = vote_strings[0] # use first if multiple matches
+        vote_index = x['text'].find(vote_string)
+        vote_data = x['text'][(vote_index + len(vote_string)):].lstrip().split(' ')
+        votes_for = convert_vote_count_to_int(vote_data[0])
+        votes_against = convert_vote_count_to_int(vote_data[1])
+        votes_abstain = convert_vote_count_to_int(vote_data[2])
+        votes_broker_non_votes = convert_vote_count_to_int(vote_data[3])
         if np.isnan(votes_for) or np.isnan(votes_against) or np.isnan(votes_abstain) or np.isnan(votes_broker_non_votes):
             print('something wrong with parse_vote_results for', x.symbol, 'on', x.date)
         return pd.Series([votes_for, votes_against, votes_abstain, votes_broker_non_votes])
