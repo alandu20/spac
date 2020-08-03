@@ -20,13 +20,16 @@ FLS_START = [
     'forward-looking statements this report',
     'forward-looking statements the company makes',
     'forward-looking statements certain of the matters',
-    'forward-looking statements this communication'
+    'forward-looking statements this communication',
+    'forward-looking statements this document'
 ]
 FLS_END = [
     'undue reliance should not be placed upon the '
     'forward-looking statements',
     'whether as a result of new information, future events '
     'or otherwise, except as required by law',
+    'whether as a result of new information, future events, '
+    'or otherwise',
     'conditions or circumstances on which any such statement '
     'is based, except as required by applicable law'
 ]

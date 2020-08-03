@@ -174,17 +174,23 @@ def remove_header_footer(text):
     text = text.replace('“', '"') # weird unicode/ascii conversion issue (2nd quotation mark type)
     
     # remove forward looking statement section
-    forward_looking_statement_start = ['forward-looking statements this current report',
-                                       'forward looking statements certain statements',
-                                       'forward-looking statements this report',
-                                       'forward-looking statements the company makes',
-                                       'forward-looking statements certain of the matters',
-                                       'forward-looking statements this communication']
-    forward_looking_statement_end = ['undue reliance should not be placed upon the forward-looking statements',
-                                     'whether as a result of new information, future events or otherwise, except as required by law',
-                                     'conditions or circumstances on which any such statement is based, except as required by applicable law']
-    for forward_start in forward_looking_statement_start:
-        for forward_end in forward_looking_statement_end:
+    FLS_START = [
+    'forward-looking statements this current report',
+    'forward looking statements certain statements',
+    'forward-looking statements this report',
+    'forward-looking statements the company makes',
+    'forward-looking statements certain of the matters',
+    'forward-looking statements this communication',
+    'forward-looking statements this document'
+    ]
+    FLS_END = [
+    'undue reliance should not be placed upon the forward-looking statements',
+    'whether as a result of new information, future events or otherwise, except as required by law',
+    'conditions or circumstances on which any such statement is based, except as required by applicable law',
+    'whether as a result of new information, future events, or otherwise'
+    ]
+    for forward_start in FLS_START:
+        for forward_end in FLS_END:
             ind_start = text.find(forward_start)
             ind_end = text.find(forward_end)
             if ind_start!=-1 and ind_end!=-1:
@@ -258,7 +264,7 @@ def convert_vote_count_to_int(x):
 def parse_vote_results(x):
     """Return votes for, votes against, abstain and broker non-votes."""
     # find strings in text. use first if multiple matches
-    vote_strings = [
+    VOTE_HEADER = [
         'for against abstain broker non-votes',
         'for against abstain broker non-vote',
         'for against abstention broker non-votes',
@@ -267,11 +273,11 @@ def parse_vote_results(x):
         'for against abstentions broker non-vote'
     ]
     # find phrases preceding vote results in text
-    vote_strings = [vote_string for vote_string in vote_strings if vote_string in x['text']]
+    vote_strings = [vote_string for vote_string in VOTE_HEADER if vote_string in x['text']]
 
     # parse votes for, votes against, votes abstain, votes broker non votes
     if len(vote_strings)==0:
-        return np.nan, np.nan, np.nan, np.nan
+        return pd.Series([np.nan, np.nan, np.nan, np.nan])
     else:
         vote_string = vote_strings[0] # use first if multiple matches
         vote_index = x['text'].find(vote_string)
