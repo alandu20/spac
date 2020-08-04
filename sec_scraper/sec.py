@@ -3,6 +3,8 @@ import pandas as pd
 
 URL_SEC_MAPPING = 'https://www.sec.gov/files/company_tickers.json'
 
+# TODO: add "U" and "-UN" symbol parsing
+
 
 def load_sec_mappings() -> pd.DataFrame:
     """Load SEC mapping information.

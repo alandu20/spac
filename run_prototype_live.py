@@ -55,16 +55,16 @@ def get_cik_to_name():
     cik_to_name['cik'] = cik_to_name.cik_str.astype(str)
     return cik_to_name
 
-def process_current_spacs(spac_list_current):
+def process_current_spacs(spac_list):
     """Process list of new spac tickers."""       
     # get ticker to cik and cik to company name file, then merge
     ticker_to_cik = get_ticker_to_cik()
     cik_to_name = get_cik_to_name()
-    spac_list_current = spac_list_current.merge(ticker_to_cik, how='left', left_on='Ticker', right_on='ticker')
-    spac_list_current = spac_list_current.merge(cik_to_name[['cik','ticker','title']], how='left', on=['cik','ticker'])
+    spac_list = spac_list.merge(ticker_to_cik, how='left', left_on='Ticker', right_on='ticker')
+    spac_list = spac_list.merge(cik_to_name[['cik','ticker','title']], how='left', on=['cik','ticker'])
     
     # some current spacs have not split from units to stock + warrants so ticker in sec different
-    ticker_unit = pd.DataFrame(spac_list_current[spac_list_current.ticker.isna()]['Ticker'])
+    ticker_unit = pd.DataFrame(spac_list[spac_list.ticker.isna()]['Ticker'])
     ticker_unit['Ticker'] = ticker_unit.Ticker + 'U'
     ticker_unit = ticker_unit.merge(ticker_to_cik, how='left', left_on='Ticker', right_on='ticker')
     ticker_unit = ticker_unit.merge(cik_to_name[['cik','ticker','title']], how='left', on=['cik','ticker'])
@@ -80,13 +80,13 @@ def process_current_spacs(spac_list_current):
     ticker_unit.dropna(inplace=True)
     
     # append tickers found using 'U' and '-UN'
-    spac_list_current = spac_list_current[~spac_list_current.Ticker.isin(ticker_unit.Ticker)]
-    spac_list_current = spac_list_current.append(ticker_unit)
+    spac_list = spac_list[~spac_list.Ticker.isin(ticker_unit.Ticker)]
+    spac_list = spac_list.append(ticker_unit)
     
-    print('count current spacs:', len(spac_list_current))
-    print('count nan in current spacs:', len(spac_list_current[spac_list_current.ticker.isna()]), '\n')
+    print('count current spacs:', len(spac_list))
+    print('count nan in current spacs:', len(spac_list[spac_list.ticker.isna()]), '\n')
     
-    return spac_list_current
+    return spac_list
 
 def basic_text_cleaning(text):
     """Basic text cleaning."""
@@ -436,10 +436,10 @@ def classifier(x):
         else:
             return 0
 
-def scrape_gnn(spac_list_current):
+def scrape_gnn(spac_list):
     """Parse Global Newswire RSS feed. Returns dataframe of articles containing SPAC tickers."""
     # add formatted ticker used for article substring match
-    spac_list_current['formatted_ticker'] = ':' + spac_list_current['Ticker']
+    spac_list['formatted_ticker'] = ':' + spac_list['Ticker']
 
     # parse global newswire rss feed
     rss_feed = feedparser.parse('https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/'
@@ -453,9 +453,9 @@ def scrape_gnn(spac_list_current):
         body_paragraphs = tree.xpath('//span[@class="article-body"]//*/text()')
         body = ' '.join(body_paragraphs)
 
-        for i, formatted_ticker in enumerate(spac_list_current['formatted_ticker']):
+        for i, formatted_ticker in enumerate(spac_list['formatted_ticker']):
             if formatted_ticker in body.replace(' ',''):
-                df_gnn = df_gnn.append(pd.Series({'symbol': spac_list_current.loc[i,'Ticker'],
+                df_gnn = df_gnn.append(pd.Series({'symbol': spac_list.loc[i,'Ticker'],
                                                   'published_time': entry['published'],
                                                   'url': entry['id'],
                                                   'text': body}), ignore_index=True)
@@ -532,11 +532,11 @@ def main():
     spac_list_current = get_current_spacs(file_path_current='data/spac_list_current.csv', write=True)
 
     # process current spac list
-    spac_list_current = process_current_spacs(spac_list_current)
+    spac_list_current = process_current_spacs(spac_list=spac_list_current)
 
     # get returns following 8-Ks for current spacs
     start_time = time.time()
-    df_form_8K_agg = agg_form_8K(spac_list_current, write=False)
+    df_form_8K_agg = agg_form_8K(spac_list=spac_list_current, write=False)
     print('\nfinished scraping 8-Ks, time elapsed:', np.round(time.time() - start_time, 0), 'seconds')
 
     # get 8-Ks added yesterday or today
@@ -590,7 +590,7 @@ def main():
     df_pred_pos[r'%redeemed'] = df_pred_pos[r'%redeemed'].apply(lambda x: x if np.isnan(x) else '{:.2%}'.format(x))
 
     # scrape global newswire rss feed for articles containing spac tickers
-    df_gnn = scrape_gnn(spac_list_current)
+    df_gnn = scrape_gnn(spac_list=spac_list_current)
 
     # print positive label predictions and send email
     print('\nbuy warrants for these symbols:')
