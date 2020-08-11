@@ -125,7 +125,7 @@ def main():
 
     ipo_urls = [
         'https://www.sec.gov/Archives/edgar/data/1804176/000114036120012833/nc10012442x1_8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1753706/000121390019008433/f8k051319_act2global.htm'
+        'https://www.sec.gov/Archives/edgar/data/1753706/000121390019008433/f8k051319_act2global.htm',
         'https://www.sec.gov/Archives/edgar/data/1800682/000119312520150173/d933468d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1772757/000114420419027336/tv521878_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1721386/000114420418035644/tv497120_8k.htm',
@@ -140,7 +140,8 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1776909/000121390020000127/f8k010320_softwareacq.htm',
         'https://www.sec.gov/Archives/edgar/data/1760683/000121390020004733/f8k021920_eaststoneacq.htm',
         'https://www.sec.gov/Archives/edgar/data/1754824/000161577418014657/s114818_8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1811882/000119312520200108/d46115d8k.htm'
+        'https://www.sec.gov/Archives/edgar/data/1811882/000119312520200108/d46115d8k.htm',
+        'https://www.sec.gov/Archives/edgar/data/1816176/000121390020021159/ea125237-8k_goacquisition.htm'
     ]
     ipo_path = os.path.join(os.path.dirname(__file__), "ipo")
     for i, url in enumerate(ipo_urls):
@@ -222,6 +223,10 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1764046/000110465920027513/tm206490d4_8k.htm', # credit agreement
         'https://www.sec.gov/Archives/edgar/data/1653247/000119312519152361/d720593d8k.htm', # underwriting agreement
         'https://www.sec.gov/Archives/edgar/data/1712189/000110465919019703/a19-6812_48k.htm' # item 4.01
+    ]
+
+    gnn_urls = [
+        'https://www.globenewswire.com/news-release/2020/08/11/2076409/0/en/Esports-Entertainment-Group-Signs-LOI-to-Acquire-Assets-of-FLIP-Sports.html'
     ]
 
 
