@@ -50,9 +50,12 @@ def get_ticker_to_cik():
 
 def get_cik_to_name():
     """Get company name from cik."""
-    cik_to_name = pd.read_json('https://www.sec.gov/files/company_tickers.json').transpose()
-    cik_to_name['ticker'] = cik_to_name.ticker.str.upper()
-    cik_to_name['cik'] = cik_to_name.cik_str.astype(str)
+    cik_to_name = requests.get('https://www.sec.gov/files/company_tickers.json')
+    cik_to_name = json.dumps(cik_to_name.json())
+    cik_to_name = pd.read_json(cik_to_name).transpose()
+    cik_to_name['ticker'] = cik_to_name['ticker'].str.upper()
+    cik_to_name['cik_str'] = cik_to_name['cik_str'].astype(str)
+    cik_to_name.rename(columns={'cik_str':'cik'}, inplace=True)
     return cik_to_name
 
 def process_current_spacs(spac_list):
