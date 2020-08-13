@@ -87,7 +87,7 @@ def process_current_spacs(spac_list):
     spac_list = spac_list.append(ticker_unit)
     
     print('count current spacs:', len(spac_list))
-    print('count nan in current spacs:', len(spac_list[spac_list.ticker.isna()]), '\n')
+    print('count nan in current spacs:', len(spac_list[spac_list.ticker.isna()]))
     
     return spac_list
 
@@ -101,7 +101,7 @@ def basic_text_cleaning(text):
 def get_forms_text(company_name, cik_id, form_type):
     """Returns dataframe of all 8-Ks for a given symbol. Columns: date, accepted_time, form, text."""
     try:
-        c = sec_scraper.Company(company_name, cik_id, timeout=10)
+        c = sec_scraper.Company(company_name, cik_id, timeout=20)
         filings = c.get_all_filings(filing_type=form_type, no_of_documents=100)
     except:
         print('timed out')
@@ -371,7 +371,8 @@ def add_self_engineered_features(df_ret):
     ]
     keywords_list_extension = [
     '(the "extension")',
-    '(the "extension amendment")'
+    '(the "extension amendment")',
+    'extended the termination date'
     ]
     keywords_list_consummation = [
     'announcing the consummation',
@@ -533,10 +534,14 @@ def send_email(df_new_8Ks, df_pred_pos, df_gnn):
 
 def main():
     # load and update current spac list
+    start_time = time.time()
     spac_list_current = get_current_spacs(file_path_current='data/spac_list_current.csv', write=True)
+    print('\nfinished loading spac list, time elapsed:', np.round(time.time() - start_time, 0), 'seconds')
 
     # process current spac list
+    start_time = time.time()
     spac_list_current = process_current_spacs(spac_list=spac_list_current)
+    print('\nfinished processing spac list, time elapsed:', np.round(time.time() - start_time, 0), 'seconds')
 
     # get returns following 8-Ks for current spacs
     start_time = time.time()

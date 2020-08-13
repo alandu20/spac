@@ -23,7 +23,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1754824/000121390020013781/ea122529-8k_schultzespecial.htm',
         'https://www.sec.gov/Archives/edgar/data/1776903/000121390020016050/ea123558-8k_netfinacq.htm',
         'https://www.sec.gov/Archives/edgar/data/1745317/000110465920044768/tm2015448d1_8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1697805/000121390020007859/ea120190-8k_xynomic.htm'
+        'https://www.sec.gov/Archives/edgar/data/1697805/000121390020007859/ea120190-8k_xynomic.htm',
     ]
     loi_path = os.path.join(os.path.dirname(__file__), "loi")
     for i, url in enumerate(loi_urls):
@@ -62,7 +62,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1725255/000110465919067185/tm1923797d2_8k.htm', # securities purchase agreement
         'https://www.sec.gov/Archives/edgar/data/1723648/000119312520177183/d948881d8k.htm', # merger agreement
         'https://www.sec.gov/Archives/edgar/data/1784535/000121390020019487/ea0124674-8k_proptechacq.htm', # merger agreement
-        'https://www.sec.gov/Archives/edgar/data/1708341/000121390020018533/ea124537-8k_allied.htm' # share purchase agreement amendment
+        'https://www.sec.gov/Archives/edgar/data/1708341/000121390020018533/ea124537-8k_allied.htm', # share purchase agreement amendment
     ]
     bca_path = os.path.join(os.path.dirname(__file__), "bca")
     for i, url in enumerate(bca_urls):
@@ -89,7 +89,8 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1726293/000143774920011336/pacq20200519_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1653247/000114420418031792/tv495432_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1650575/000121390017003677/f8k041317_pacificspecial.htm', # also trust account
-        'https://www.sec.gov/Archives/edgar/data/1691936/000149315220014201/form8-k.htm' # also redemptions
+        'https://www.sec.gov/Archives/edgar/data/1691936/000149315220014201/form8-k.htm', # also redemptions
+        'https://www.sec.gov/Archives/edgar/data/1690080/000121390020021714/ea125287-8k_kbl.htm',
     ]
     extension_path = os.path.join(os.path.dirname(__file__), "extension")
     for i, url in enumerate(extension_urls):
@@ -112,7 +113,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1753706/000110465920079050/tm2023499d1_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1706946/000119312519276659/d809452d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1755953/000121390020001486/f8k011520_akernacorp.htm', # closing stock purchase agreement
-        'https://www.sec.gov/Archives/edgar/data/1738758/000121390020004184/f8k021520_glorystar.htm' # closing share exchange agreement
+        'https://www.sec.gov/Archives/edgar/data/1738758/000121390020004184/f8k021520_glorystar.htm', # closing share exchange agreement
     ]
     consummation_path = os.path.join(os.path.dirname(__file__), "consummation")
     for i, url in enumerate(consummation_urls):
@@ -141,7 +142,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1760683/000121390020004733/f8k021920_eaststoneacq.htm',
         'https://www.sec.gov/Archives/edgar/data/1754824/000161577418014657/s114818_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1811882/000119312520200108/d46115d8k.htm',
-        'https://www.sec.gov/Archives/edgar/data/1816176/000121390020021159/ea125237-8k_goacquisition.htm'
+        'https://www.sec.gov/Archives/edgar/data/1816176/000121390020021159/ea125237-8k_goacquisition.htm',
     ]
     ipo_path = os.path.join(os.path.dirname(__file__), "ipo")
     for i, url in enumerate(ipo_urls):
@@ -222,11 +223,11 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1773086/000110465920048708/tm2016303d1_8k.htm', # assignment agreement
         'https://www.sec.gov/Archives/edgar/data/1764046/000110465920027513/tm206490d4_8k.htm', # credit agreement
         'https://www.sec.gov/Archives/edgar/data/1653247/000119312519152361/d720593d8k.htm', # underwriting agreement
-        'https://www.sec.gov/Archives/edgar/data/1712189/000110465919019703/a19-6812_48k.htm' # item 4.01
+        'https://www.sec.gov/Archives/edgar/data/1712189/000110465919019703/a19-6812_48k.htm', # item 4.01
     ]
 
     gnn_urls = [
-        'https://www.globenewswire.com/news-release/2020/08/11/2076409/0/en/Esports-Entertainment-Group-Signs-LOI-to-Acquire-Assets-of-FLIP-Sports.html'
+        'https://www.globenewswire.com/news-release/2020/08/11/2076409/0/en/Esports-Entertainment-Group-Signs-LOI-to-Acquire-Assets-of-FLIP-Sports.html',
     ]
 
 

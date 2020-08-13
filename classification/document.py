@@ -80,7 +80,8 @@ class Document(object):
         """Check if document is a extension."""
         extension_phrases = [
             '(the "extension")',
-            '(the "extension amendment")'
+            '(the "extension amendment")',
+            'extended the termination date'
         ]
         return any(phrase in self.text for phrase in extension_phrases)
 
