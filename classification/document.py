@@ -104,7 +104,8 @@ class Document(object):
             'completed its initial public offering ("ipo")',
             'completed its initial public offering (the "ipo")',
             'in connection with its initial public offering ("ipo") was declared effective',
-            'in connection with its initial public offering (the "ipo") was declared effective'
+            'in connection with its initial public offering (the "ipo") was declared effective',
+            'consummated the ipo'
         ]
         return any(phrase in self.text for phrase in ipo_phrases)
 
