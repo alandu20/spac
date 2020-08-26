@@ -102,7 +102,7 @@ def get_forms_text(company_name, cik_id, form_type):
     """Returns dataframe of all 8-Ks for a given symbol. Columns: date, accepted_time, form, text."""
     try:
         c = sec_scraper.Company(company_name, cik_id, timeout=20)
-        filings = c.get_all_filings(filing_type=form_type, no_of_documents=100)
+        filings = c.get_all_filings(filing_type=form_type, no_of_documents=2)
     except:
         print('timed out')
         return None
