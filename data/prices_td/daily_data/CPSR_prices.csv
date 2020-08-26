@@ -1,2 +1,2 @@
-open,high,low,close,volume,datetime,date,ticker,close_t+1,close_t+3,close_t+5,close_t+7,open_close_t+1_%chg,open_close_t+3_%chg,open_close_t+5_%chg,open_close_t+7_%chg
-9.75,9.85,9.75,9.85,100501,2020-08-24 01:00:00.000000,2020-08-24,CPSR,,,,,,,,
+open,high,low,close,volume,datetime,date,ticker,open_t+1,close_t+1,close_t+2,close_t+3,close_t+4,close_t+5,close_t+6,close_t+7,close_t+8,close_t+9,close_t+10,close_t+11,close_t+12
+9.75,9.85,9.75,9.85,100501,2020-08-24 01:00:00.000000,2020-08-24,CPSR,,,,,,,,,,,,,
