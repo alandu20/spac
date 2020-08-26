@@ -1,0 +1,3 @@
+open,high,low,close,volume,datetime,date,ticker,close_t+1,close_t+3,close_t+5,close_t+7,open_close_t+1_%chg,open_close_t+3_%chg,open_close_t+5_%chg,open_close_t+7_%chg
+0.3,0.3,0.3,0.3,1000,2020-08-21 01:00:00.000000,2020-08-21,VMACW,0.3,,,,0.0,,,
+0.33,0.33,0.3,0.3,4766,2020-08-24 01:00:00.000000,2020-08-24,VMACW,,,,,,,,

@@ -1,0 +1,2 @@
+open,high,low,close,volume,datetime,date,ticker,close_t+1,close_t+3,close_t+5,close_t+7,open_close_t+1_%chg,open_close_t+3_%chg,open_close_t+5_%chg,open_close_t+7_%chg
+0.59,0.6,0.59,0.6,200,2020-08-24 01:00:00.000000,2020-08-24,CPSR.WS,,,,,,,,
