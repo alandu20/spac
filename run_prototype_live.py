@@ -295,25 +295,19 @@ def parse_vote_results(x):
     return pd.Series([np.nan, np.nan, np.nan, np.nan])
 
 def parse_redemptions(x):
-    string_redemption_1 = 'in connection with the extension'
-    string_redemption_2 = 'in connection with the closing'
-    string_redemption_3 = 'in advance of the special meeting'
-    string_redemption_4 = 'in connection with the special meeting'
-    redemption_sentence = [sentence for sentence in x.text.split('.') if
-                           string_redemption_1 in sentence
-                           and ('redeem' in sentence or 'redemp' in sentence)]
-    if len(redemption_sentence)==0:
+    REDEMPTION_HEADER = [
+        'in connection with the extension',
+        'in connection with the closing',
+        'in advance of the special meeting',
+        'in connection with the special meeting',
+        'exercised their right'
+    ]
+    for redemption_phrase in REDEMPTION_HEADER:
         redemption_sentence = [sentence for sentence in x.text.split('.') if
-                               string_redemption_2 in sentence
+                               redemption_phrase in sentence
                                and ('redeem' in sentence or 'redemp' in sentence)]
-    if len(redemption_sentence)==0:
-        redemption_sentence = [sentence for sentence in x.text.split('.') if
-                               string_redemption_3 in sentence
-                               and ('redeem' in sentence or 'redemp' in sentence)]
-    if len(redemption_sentence)==0:
-        redemption_sentence = [sentence for sentence in x.text.split('.') if
-                               string_redemption_4 in sentence
-                               and ('redeem' in sentence or 'redemp' in sentence)]
+        if len(redemption_sentence)>0:
+            break
     if len(redemption_sentence)==0:
         return np.nan
     redemption_sentence = redemption_sentence[0].lstrip().replace(',','')
@@ -372,7 +366,9 @@ def add_self_engineered_features(df_ret):
     keywords_list_extension = [
     '(the "extension")',
     '(the "extension amendment")',
-    'extended the termination date'
+    'extended the termination date',
+    'extend the date by which the company must consummate',
+    '(the "extension amendment proposal")'
     ]
     keywords_list_consummation = [
     'announcing the consummation',

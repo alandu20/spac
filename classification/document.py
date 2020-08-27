@@ -81,7 +81,9 @@ class Document(object):
         extension_phrases = [
             '(the "extension")',
             '(the "extension amendment")',
-            'extended the termination date'
+            'extended the termination date',
+            'extend the date by which the company must consummate',
+            '(the "extension amendment proposal")'
         ]
         return any(phrase in self.text for phrase in extension_phrases)
 
