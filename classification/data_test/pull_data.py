@@ -144,6 +144,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1754824/000161577418014657/s114818_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1811882/000119312520200108/d46115d8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1816176/000121390020021159/ea125237-8k_goacquisition.htm',
+        'https://www.sec.gov/Archives/edgar/data/1816090/000121390020024578/ea126160-8k_ftacolympus.htm',
     ]
     ipo_path = os.path.join(os.path.dirname(__file__), "ipo")
     for i, url in enumerate(ipo_urls):

@@ -20,12 +20,28 @@ pd.set_option("display.max_rows", None, "display.max_columns", None)
 
 def get_current_spacs(file_path_current, write=False):
     """Update list of current spac tickers."""
-    df_traq = pd.read_csv('https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/'
-                          'export?gid=0&format=csv', header=2)
-    df_traq.columns = [x.replace('\n','') for x in df_traq.columns]
+    # existing current spac list
     df_spacs_existing = pd.read_csv(file_path_current)
     df_spacs_existing.drop_duplicates(inplace=True)
-    combined_spacs = df_spacs_existing['Ticker'].append(df_traq['Issuer Symbol'])
+    
+    # "spac traq" spac list
+    # df_traq = pd.read_csv('https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/'
+    #                       'export?gid=0&format=csv', header=2)
+    # df_traq.columns = [x.replace('\n','') for x in df_traq.columns]
+    # spac_traq_symbols = df_traq['Issuer Symbol']
+    
+    # "spac track" spac list
+    path_spactrack = 'https://sheet2site.com/api/v3/index.php?key=1F7gLiGZP_F4tZgQXgEhsHMqlgqdSds3vO0-4hoL6ROQ&g=1&e=1&g=1'
+    page = requests.get(path_spactrack)
+    tree = html.fromstring(page.content)
+    html_table = tree.xpath('//table[@class="table table-sm"]')
+    str_table = html.etree.tostring(html_table[0])
+    df_track = pd.read_html(str_table)[0]
+    df_track = df_track[df_track['Status']!='Pre IPO']
+    spac_track_symbols = df_track['SPAC Ticker Symbol']
+    
+    # combine
+    combined_spacs = df_spacs_existing['Ticker'].append(spac_track_symbols)
     df_spacs_new = pd.DataFrame(combined_spacs, columns=['Ticker'])
     df_spacs_new.drop_duplicates(inplace=True)
     df_spacs_new.reset_index(inplace=True, drop=True)

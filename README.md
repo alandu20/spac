@@ -28,7 +28,7 @@ TD API (used to download historical daily and minute prices):
 - Follow https://developer.tdameritrade.com/content/simple-auth-local-apps. Step 4 client_id should be CONSUMER_KEY@AMER.OAUTHAP and redirect_uri should be http://localhost/. Refresh token can be used to use API without server
 
 Current SPAC data sources:
-1. https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/edit#gid=0
+1. https://docs.google.com/spreadsheets/d/14BY8snyHMbUReQVRgZxv4U4l1ak79dWFIymhrLbQpSo/edit#gid=0. Seems like this is no longer updated
 2. https://docs.google.com/spreadsheets/d/1LQLUy21Y14CcYyuYgKJcf9OQ4QWCs_w6PX-jDqhcejQ/edit#gid=0. This one has export options disabled
 3. https://spactrack.net/ (https://sheet2site.com/api/v3/index.php?key=1F7gLiGZP_F4tZgQXgEhsHMqlgqdSds3vO0-4hoL6ROQ&g=1&e=1&g=1)
 
