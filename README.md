@@ -37,3 +37,7 @@ Interactive Brokers:
 2. In interactive_brokers/clientportal.gw directory start client portal login java app: bin/run.sh root/conf.yaml
 3. Open https://localhost:5000 and enter login info
 4. API: https://www.interactivebrokers.com/api/doc.html, https://interactivebrokers.github.io/cpwebapi/, https://github.com/areed1192/interactive-broker-python-api
+
+Known data issues:
+1. Some TD price data missing, e.g. data/prices_td/daily_data/ACAMW.csv skips from 2019-06-19 to 2019-07-02 (perhaps due to no volume between those days but unlikely)
+2. Some TD price data just straight up wrong, e.g. data/prices_td/daily_data/HOFV.csv 2020-06-15 close price is 7.88, but according to Yahoo and Google Finance close price was above 10, which makes sense since GPAQ->HOFV on 2020-07-01. Could be an issue with how TD migrated prices for completed spacs following ticker change.
