@@ -401,7 +401,9 @@ def add_self_engineered_features(df_ret):
     'completed its initial public offering (the "ipo")',
     'in connection with its initial public offering ("ipo") was declared effective',
     'in connection with its initial public offering (the "ipo") was declared effective',
-    'consummated the ipo'
+    'consummated the ipo',
+    'in connection with the closing of the ipo',
+    'consummation of the ipo'
     ]
     keywords_list_trust = [
     'trust account'
@@ -464,19 +466,23 @@ def scrape_gnn(spac_list):
 
     # get body (span[@class="article-body"]) for each entry. add to dataframe if body contains ticker
     df_gnn = pd.DataFrame(columns=['symbol','published_time','url','text'])
-    for entry in rss_feed.entries:
-        page = requests.get(entry['id'])
-        tree = html.fromstring(page.content)
-        body_paragraphs = tree.xpath('//span[@class="article-body"]//*/text()')
-        body = ' '.join(body_paragraphs)
+    try:
+        for entry in rss_feed.entries:
+            page = requests.get(entry['id'])
+            tree = html.fromstring(page.content)
+            body_paragraphs = tree.xpath('//span[@class="article-body"]//*/text()')
+            body = ' '.join(body_paragraphs)
 
-        for i, formatted_ticker in enumerate(spac_list['formatted_ticker']):
-            if formatted_ticker in body.replace(' ',''):
-                df_gnn = df_gnn.append(pd.Series({'symbol': spac_list.loc[i,'Ticker'],
-                                                  'published_time': entry['published'],
-                                                  'url': entry['id'],
-                                                  'text': body}), ignore_index=True)
-    print('\nfinished searching all {} globalnewswire posts'.format(len(rss_feed.entries)))
+            for i, formatted_ticker in enumerate(spac_list['formatted_ticker']):
+                if formatted_ticker in body.replace(' ',''):
+                    df_gnn = df_gnn.append(pd.Series({'symbol': spac_list.loc[i,'Ticker'],
+                                                      'published_time': entry['published'],
+                                                      'url': entry['id'],
+                                                      'text': body}), ignore_index=True)
+        print('\nfinished searching all {} globalnewswire posts'.format(len(rss_feed.entries)))
+    except:
+        print('Error parsing rss feed\n')
+        return None
     if len(df_gnn)==0:
         print('No SPAC articles found\n')
         return None
