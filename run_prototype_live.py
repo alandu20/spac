@@ -384,7 +384,9 @@ def add_self_engineered_features(df_ret):
     '(the "extension amendment")',
     'extended the termination date',
     'extend the date by which the company must consummate',
-    '(the "extension amendment proposal")'
+    'extend the date by which the company has to complete',
+    '(the "extension amendment proposal")',
+    '(the "extended termination date")'
     ]
     keywords_list_consummation = [
     'announcing the consummation',
