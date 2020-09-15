@@ -403,6 +403,7 @@ def add_self_engineered_features(df_ret):
     'in connection with its initial public offering (the "ipo") was declared effective',
     'consummated the ipo',
     'in connection with the closing of the ipo',
+    'closing of the initial public offering (the "ipo")',
     'consummation of the ipo'
     ]
     keywords_list_trust = [
