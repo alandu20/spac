@@ -24,6 +24,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1776903/000121390020016050/ea123558-8k_netfinacq.htm',
         'https://www.sec.gov/Archives/edgar/data/1745317/000110465920044768/tm2015448d1_8k.htm',
         'https://www.sec.gov/Archives/edgar/data/1697805/000121390020007859/ea120190-8k_xynomic.htm',
+        'https://www.sec.gov/ix?doc=/Archives/edgar/data/1744494/000114036120021171/brhc10015346_8k.htm',
     ]
     loi_path = os.path.join(os.path.dirname(__file__), "loi")
     for i, url in enumerate(loi_urls):
@@ -148,6 +149,7 @@ def main():
         'https://www.sec.gov/Archives/edgar/data/1816090/000121390020024578/ea126160-8k_ftacolympus.htm',
         'https://www.sec.gov/Archives/edgar/data/1816090/000121390020025273/ea126450-8k_ftacolympus.htm',
         'https://www.sec.gov/Archives/edgar/data/1819584/000121390020026736/ea126864-8k_tortoiseacq2.htm',
+        'https://www.sec.gov/Archives/edgar/data/1816708/000114036120021303/brhc10015387_8k.htm',
     ]
     ipo_path = os.path.join(os.path.dirname(__file__), "ipo")
     for i, url in enumerate(ipo_urls):

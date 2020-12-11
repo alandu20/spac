@@ -38,7 +38,7 @@ def get_current_spacs(file_path_current, write=False):
     str_table = html.etree.tostring(html_table[0])
     df_track = pd.read_html(str_table)[0]
     df_track = df_track[df_track['Status']!='Pre IPO']
-    spac_track_symbols = df_track['SPAC Ticker Symbol']
+    spac_track_symbols = df_track['SPAC Ticker']
     
     # combine
     combined_spacs = df_spacs_existing['Ticker'].append(spac_track_symbols)
