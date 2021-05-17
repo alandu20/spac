@@ -1,5 +1,8 @@
 SPAC strategy
 
+Streamlit app demo:
+https://user-images.githubusercontent.com/7809658/118423227-881cc780-b692-11eb-863c-04ab4a163866.mp4
+
 AWS Lambda:
 1. Install AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 2. (First time) Create new admin IAM user group https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html. Username: Administrator, PW: p***7. Then create access keys for IAM user https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-creds. Access key ID and Secret Access key found in Administrator_accessKeys.csv (saved locally)
