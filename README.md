@@ -1,4 +1,6 @@
-SPAC strategy
+SPAC Warrant Strategy
+
+<img width="1398" alt="spac_app_screenshot" src="https://user-images.githubusercontent.com/7809658/118424233-d3d07080-b694-11eb-99cf-f366059ceb06.png">
 
 Streamlit app demo:
 https://user-images.githubusercontent.com/7809658/118423227-881cc780-b692-11eb-863c-04ab4a163866.mp4
