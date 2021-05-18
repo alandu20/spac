@@ -1,12 +1,36 @@
-SPAC strategy
+SPAC Warrant Strategy
+
+<img width="1398" alt="spac_app_screenshot" src="https://user-images.githubusercontent.com/7809658/118424233-d3d07080-b694-11eb-99cf-f366059ceb06.png">
+
+Streamlit App Demo:
+https://user-images.githubusercontent.com/7809658/118423227-881cc780-b692-11eb-863c-04ab4a163866.mp4
+
+Streamlit Dashboard Setup:
+1. Install streamlit: pip install streamlit
+2. Launch app: streamlit run spac_app.py
+
+Streamlit Dashboard Usage:
+1. Production Model
+- Scrapes spactrack.net for all current SPACs
+- Scrapes and parses Form 8-K texts from SEC Edgar filings site for all current SPACs
+- Applies custom feature engineering function for text classification. For intuition on features, see notes directory
+- Predicts which SPAC warrants to buy using a modified version of decision tree classifier in machine learning models section
+- Runs separately every half hour on AWS Lambda instance and sends buy alerts via email
+2. Historical Returns
+- Cumulative return plots trading on all Form 8-Ks
+- Breakdown of returns by SPAC
+3. Machine Learning Models
+- Train logistic regression, decision tree, SVM, or random forest classifier to predict whether warrant return after *n* days is negative or positive
+- Option to change *n* in output variable
+- Outputs CV regularization path, classification report, ROC curve, precision-recall curve, feature importance, and trading metrics
 
 AWS Lambda:
 1. Install AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
-2. (First time) Create new admin IAM user group https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html. Username: Administrator, PW: p***7. Then create access keys for IAM user https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-creds. Access key ID and Secret Access key found in Administrator_accessKeys.csv (saved locally)
+2. (First time) Create new admin IAM user group https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html. Then create access keys for IAM user https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-creds. Access key ID and Secret Access key found in Administrator_accessKeys.csv (saved locally)
 3. Create a lambda function “my-function”: https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html. Change “Timeout” setting to max setting of 15 minutes
 4. Save dependencies in aws_lambda/package directory (create if d.n.e.). Need to install versions compatible with AWS Linux, see https://medium.com/@korniichuk/lambda-with-pandas-fd81aa2ff25e. Download the version named *manylinux1_x86_64.whl and save in aws_lambda/package. If there is not a linux-specific distribution (e.g. https://pypi.org/project/feedparser/#files), then just pip install into aws_lambda/package (e.g. pip install -t . feedparser). Can delete the dist-info directory for either installation approach
 5. Special instructions for NLTK.
-- Install in aws_lambda/package: pip install --target nltk 
+- Install in aws_lambda/package: pip install --target nltk
 - Weird nltk issue (related to installing on Mac while AWS is linux), need to replace the regex package with regex-2020.7.14-cp36-cp36m-manylinux1_x86_64.whl found here: https://pypi.org/project/regex/#files. Otherwise will get error No module named 'regex._regex'
 - To use stopwords corpus, download here: http://www.nltk.org/nltk_data/. Copy into aws_lambda/nltk/nltk_data/corpora (create nltk_data/corpora if d.n.e.). Then add path to python script: nltk.data.path.append('nltk/nltk_data')
 6. cd into aws_lambda/package and create zip archive: zip -r9 ${OLDPWD}/function.zip .
