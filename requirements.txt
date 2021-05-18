@@ -4,3 +4,4 @@ pandas
 lxml
 requests
 sklearn
+plotly
