@@ -6,7 +6,6 @@
 
 from datetime import datetime as dt
 from datetime import timedelta
-from edgar import Company
 import json
 from lxml import html
 import matplotlib.pyplot as plt
@@ -16,9 +15,6 @@ import re
 import requests
 import sec_scraper
 import time
-pd.options.display.max_rows = 100
-pd.options.display.max_columns = 100
-pd.options.display.max_colwidth = 100
 
 
 def get_current_spacs(file_path_current, write=False):

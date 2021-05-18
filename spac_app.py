@@ -9,9 +9,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import pandas_datareader as pdr
-import plotly
-import plotly.graph_objs as go
 import streamlit as st
 from spac_historical_stats import plot_cumulative_return, compute_mean_returns, compute_summary_statistics
 from spac_machine_learning import (process_warrant_features, split_warrant_train_test, logistic_reg_train, decision_tree_train,

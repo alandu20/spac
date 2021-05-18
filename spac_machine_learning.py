@@ -14,10 +14,10 @@ from sklearn import metrics
 from sklearn.decomposition import TruncatedSVD
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-from sklearn.linear_model import ElasticNet, LinearRegression, LogisticRegression
-from sklearn.metrics import classification_report, confusion_matrix, mean_squared_error, r2_score
-from sklearn.model_selection import cross_val_score, GridSearchCV, TimeSeriesSplit, train_test_split
-from sklearn.tree import DecisionTreeClassifier, export_graphviz
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.model_selection import GridSearchCV, TimeSeriesSplit, train_test_split
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.svm import SVC
 
 
